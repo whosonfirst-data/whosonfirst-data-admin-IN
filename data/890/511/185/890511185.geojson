@@ -11,7 +11,7 @@
     "geom:longitude":93.833443,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":26.575623,
     "lbl:longitude":93.914374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Assam",
     "meso:dissme":"AssamGolaghat",
     "meso:gadm_admin":"Golaghat",
@@ -41,6 +43,7 @@
     "mps:longitude":93.914374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:asm_x_preferred":[
         "\u0997\u09cb\u09b2\u09be\u0998\u09be\u099f \u099c\u09bf\u09b2\u09be"
     ],
@@ -158,9 +161,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"3502",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Golaghat",
@@ -182,7 +185,7 @@
         "gn:id":7627079,
         "gp:id":12586357,
         "hasc:id":"IN.AS.GG",
-        "qs:id":236551,
+        "qs_pg:id":236551,
         "wd:id":"Q42517",
         "wk:page":"Golaghat"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":890511185,
-    "wof:lastmodified":1563442887,
+    "wof:lastmodified":1566705222,
     "wof:name":"Golaghat",
     "wof:parent_id":85672181,
     "wof:placetype":"county",

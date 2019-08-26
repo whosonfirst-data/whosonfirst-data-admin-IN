@@ -11,7 +11,7 @@
     "geom:longitude":88.678047,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":27.287035,
     "lbl:longitude":88.678054,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sikkim",
     "meso:dissme":"SikkimEast",
     "meso:gadm_admin":"East Sikkim",
@@ -41,6 +43,7 @@
     "mps:longitude":88.678054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u0631\u0642 \u0633\u064a\u0643\u064a\u0645"
     ],
@@ -142,9 +145,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"954",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Gangtok",
@@ -166,7 +169,7 @@
         "gn:id":8335220,
         "gp:id":12586813,
         "hasc:id":"IN.SK.ES",
-        "qs:id":236583,
+        "qs_pg:id":236583,
         "wd:id":"Q1772832",
         "wk:page":"East Sikkim district"
     },
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":890511217,
-    "wof:lastmodified":1563442798,
+    "wof:lastmodified":1566705205,
     "wof:name":"East",
     "wof:parent_id":85672229,
     "wof:placetype":"county",

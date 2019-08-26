@@ -11,7 +11,7 @@
     "geom:longitude":77.400218,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":31.912711,
     "lbl:longitude":77.470274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Himachal Pradesh",
     "meso:dissme":"Himachal PradeshKullu",
     "meso:gadm_admin":"Kullu",
@@ -41,6 +43,7 @@
     "mps:longitude":77.470274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Kullu"
     ],
@@ -126,9 +129,6 @@
     "name:tel_x_variant":[
         "\u0c15\u0c41\u0c32\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Kulu"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0648\u0644\u0648"
     ],
@@ -150,9 +150,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"5503",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Kulu",
@@ -174,7 +174,7 @@
         "gn:id":1265710,
         "gp:id":24505135,
         "hasc:id":"IN.HP.KU",
-        "qs:id":888269,
+        "qs_pg:id":888269,
         "wd:id":"Q2980880",
         "wk:page":"Kulu"
     },
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":890506041,
-    "wof:lastmodified":1563443098,
+    "wof:lastmodified":1566705266,
     "wof:name":"Kullu",
     "wof:parent_id":85672129,
     "wof:placetype":"county",

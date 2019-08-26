@@ -11,7 +11,7 @@
     "geom:longitude":71.473268,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":25.730479,
     "lbl:longitude":71.472851,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rajasthan",
     "meso:dissme":"RajasthanBarmer",
     "meso:gadm_admin":"Barmer",
@@ -41,6 +43,7 @@
     "mps:longitude":71.472851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0631\u0645\u0631"
     ],
@@ -128,7 +131,7 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c30\u0c4d\u0c2e\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101rmer District"
     ],
     "name:vie_x_preferred":[
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"28387",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Barmer",
@@ -179,7 +182,7 @@
         "gn:id":1276902,
         "gp:id":12586650,
         "hasc:id":"IN.RJ.BM",
-        "qs:id":236559,
+        "qs_pg:id":236559,
         "wd:id":"Q42016",
         "wk:page":"Barmer"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890511199,
-    "wof:lastmodified":1563442842,
+    "wof:lastmodified":1566705214,
     "wof:name":"Barmer",
     "wof:parent_id":85672201,
     "wof:placetype":"county",

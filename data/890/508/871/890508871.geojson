@@ -11,7 +11,7 @@
     "geom:longitude":79.422282,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":28.439876,
     "lbl:longitude":79.422212,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Uttar Pradesh",
     "meso:dissme":"Uttar PradeshBareilly",
     "meso:gadm_admin":"Bareilly",
@@ -41,6 +43,7 @@
     "mps:longitude":79.422212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0631\u064a\u0644\u064a"
     ],
@@ -143,7 +146,7 @@
     "name:tel_x_variant":[
         "\u0c2c\u0c30\u0c47\u0c32\u0c40 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bareilly District"
     ],
     "name:urd_x_preferred":[
@@ -170,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"4120",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Bareilly",
@@ -194,7 +197,7 @@
         "gn:id":1277014,
         "gp:id":12586727,
         "hasc:id":"IN.UP.BR",
-        "qs:id":1176085,
+        "qs_pg:id":1176085,
         "wd:id":"Q1797378",
         "wk:page":"Bareilly"
     },
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890508871,
-    "wof:lastmodified":1563443020,
+    "wof:lastmodified":1566705250,
     "wof:name":"Bareilly",
     "wof:parent_id":85672205,
     "wof:placetype":"county",

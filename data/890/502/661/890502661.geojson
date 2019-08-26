@@ -11,7 +11,7 @@
     "geom:longitude":95.056174,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":27.421997,
     "lbl:longitude":95.024916,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Assam",
     "meso:dissme":"AssamDibrugarh",
     "meso:gadm_admin":"Dibrugarh",
@@ -41,6 +43,7 @@
     "mps:longitude":95.024916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:asm_x_preferred":[
         "\u09a1\u09bf\u09ac\u09cd\u09f0\u09c1\u0997\u09a1\u09bc \u099c\u09bf\u09b2\u09be"
     ],
@@ -140,9 +143,6 @@
     "name:tel_x_variant":[
         "\u0c21\u0c3f\u0c2c\u0c4d\u0c30\u0c42\u0c17\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Dibrugarh District"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0628\u0631\u0648\u06af\u0691\u06be \u0636\u0644\u0639"
     ],
@@ -167,9 +167,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"3381",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Dibrugarh",
@@ -191,7 +191,7 @@
         "gn:id":1272649,
         "gp:id":12586355,
         "hasc:id":"IN.AS.DI",
-        "qs:id":481942,
+        "qs_pg:id":481942,
         "wd:id":"Q42479",
         "wk:page":"Dibrugarh"
     },
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":890502661,
-    "wof:lastmodified":1563441917,
+    "wof:lastmodified":1566705038,
     "wof:name":"Dibrugarh",
     "wof:parent_id":85672181,
     "wof:placetype":"county",

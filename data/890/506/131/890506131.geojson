@@ -11,7 +11,7 @@
     "geom:longitude":75.168045,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":30.781411,
     "lbl:longitude":75.173023,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:dissme":"PunjabMoga",
     "meso:gadm_admin":"Moga",
@@ -41,6 +43,7 @@
     "mps:longitude":75.173023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0645\u0648\u062c\u0627"
     ],
@@ -149,7 +152,7 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c17\u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moga District"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"1672",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Moga",
@@ -200,7 +203,7 @@
         "gn:id":8407028,
         "gp:id":12586640,
         "hasc:id":"IN.PB.MO",
-        "qs:id":943573,
+        "qs_pg:id":943573,
         "wd:id":"Q1946896",
         "wk:page":"Moga"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890506131,
-    "wof:lastmodified":1563443149,
+    "wof:lastmodified":1566705277,
     "wof:name":"Moga",
     "wof:parent_id":85672195,
     "wof:placetype":"county",

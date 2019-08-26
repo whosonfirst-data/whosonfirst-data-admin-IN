@@ -11,7 +11,7 @@
     "geom:longitude":78.222146,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":11.745888,
     "lbl:longitude":78.122698,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tamil Nadu",
     "meso:dissme":"Tamil NaduSalem",
     "meso:gadm_admin":"Salem",
@@ -41,6 +43,7 @@
     "mps:longitude":78.122698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0633\u0627\u0644\u0645"
     ],
@@ -152,7 +155,7 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c32\u0c46\u0c02 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salem District"
     ],
     "name:urd_x_preferred":[
@@ -179,9 +182,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"5220",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Salem",
@@ -203,7 +206,7 @@
         "gn:id":1257630,
         "gp:id":12586696,
         "hasc:id":"IN.TN.SA",
-        "qs:id":337328,
+        "qs_pg:id":337328,
         "wd:id":"Q15192",
         "wk:page":"Salem"
     },
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890503585,
-    "wof:lastmodified":1563442558,
+    "wof:lastmodified":1566705160,
     "wof:name":"Salem",
     "wof:parent_id":85672245,
     "wof:placetype":"county",

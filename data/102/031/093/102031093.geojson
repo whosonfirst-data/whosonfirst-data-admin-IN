@@ -11,14 +11,17 @@
     "geom:longitude":78.040707,
     "gn:country":"IN",
     "gn:fcode":"PPLA",
-    "gn:pop":522081,
+    "gn:population":522081,
     "iso:country":"IN",
     "lbl:latitude":30.327552,
     "lbl:longitude":78.035881,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":30.327552,
     "mps:longitude":78.035881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u062f\u0647\u0631\u0627\u062f\u0648\u0646"
     ],
@@ -242,11 +245,8 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0433\u0440\u0430\u0434\u0443\u043d"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Dehrad\u016bn"
-    ],
-    "name:unk_x_variant":[
-        "Dehra"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0631\u06c1 \u062f\u0648\u0646"
@@ -290,7 +290,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4359,
     "wof:belongsto":[
@@ -304,14 +304,13 @@
         "fct:id":"1230c85c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6954188,
         "gp:id":2294972,
-        "qs:id":194833,
         "qs_pg:id":194833,
         "wd:id":"Q199528",
         "wk:page":"Dehradun"
     },
     "wof:concordances_alt":{
         "gn:id":1273313,
-        "qs:id":246263
+        "qs_pg:id":246263
     },
     "wof:country":"IN",
     "wof:geomhash":"3cfad78cc0df900f714e101e417eb2be",
@@ -328,7 +327,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563390746,
+    "wof:lastmodified":1566685276,
     "wof:name":"Dehradun",
     "wof:parent_id":890507905,
     "wof:placetype":"locality",

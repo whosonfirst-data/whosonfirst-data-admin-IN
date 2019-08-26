@@ -11,7 +11,7 @@
     "geom:longitude":79.939968,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":13.309768,
     "lbl:longitude":80.124603,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tamil Nadu",
     "meso:dissme":"Tamil NaduThiruvallur",
     "meso:gadm_admin":"Chittoor",
@@ -35,6 +37,7 @@
     "mps:longitude":80.124603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u09b0\u09c1\u09ad\u09be\u09b0\u09c1\u09b0"
     ],
@@ -117,9 +120,6 @@
     "name:tel_x_preferred":[
         "\u0c24\u0c3f\u0c30\u0c41\u0c35\u0c33\u0c4d\u0c33\u0c42\u0c30\u0c41"
     ],
-    "name:unk_x_variant":[
-        "Tiruvallur"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0631\u0648\u0648\u0627\u0644\u0648\u0631"
     ],
@@ -144,9 +144,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"3424",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Thiruvallur",
@@ -168,7 +168,7 @@
         "gn:id":7627241,
         "gp:id":12586703,
         "hasc:id":"IN.TN.TL",
-        "qs:id":1251227,
+        "qs_pg:id":1251227,
         "wd:id":"Q608181",
         "wk:page":"Tiruvallur"
     },
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":890502919,
-    "wof:lastmodified":1563442017,
+    "wof:lastmodified":1566705058,
     "wof:name":"Thiruvallur",
     "wof:parent_id":85672245,
     "wof:placetype":"county",

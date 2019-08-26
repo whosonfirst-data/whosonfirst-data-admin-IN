@@ -11,7 +11,7 @@
     "geom:longitude":75.040659,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":30.159558,
     "lbl:longitude":75.034942,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:dissme":"PunjabBathinda",
     "meso:gadm_admin":"Bathinda",
@@ -41,6 +43,7 @@
     "mps:longitude":75.034942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u062b\u064a\u0646\u062f\u0627"
     ],
@@ -170,7 +173,7 @@
     "name:tel_x_variant":[
         "\u0c2d\u0c24\u0c3f\u0c02\u0c21\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bhatinda"
     ],
     "name:urd_x_preferred":[
@@ -203,9 +206,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"3377",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Bathinda",
@@ -230,7 +233,7 @@
         "gn:id":1276071,
         "gp:id":12586628,
         "hasc:id":"IN.PB.BA",
-        "qs:id":233387,
+        "qs_pg:id":233387,
         "wd:id":"Q172488",
         "wk:page":"Bathinda"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":890511131,
-    "wof:lastmodified":1563442837,
+    "wof:lastmodified":1566705212,
     "wof:name":"Bathinda",
     "wof:parent_id":85672195,
     "wof:placetype":"county",
