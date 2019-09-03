@@ -11,7 +11,7 @@
     "geom:longitude":74.775167,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":26.249855,
     "lbl:longitude":74.787612,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rajasthan",
     "meso:dissme":"RajasthanAjmer",
     "meso:gadm_admin":"Ajmer",
@@ -41,6 +43,7 @@
     "mps:longitude":74.787612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0623\u062c\u0645\u0631"
     ],
@@ -155,7 +158,7 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c1c\u0c4d\u0c2e\u0c40\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ajmer District"
     ],
     "name:vie_x_preferred":[
@@ -182,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"8481",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Ajmer",
@@ -206,7 +209,7 @@
         "gn:id":1279160,
         "gp:id":12586646,
         "hasc:id":"IN.RJ.AJ",
-        "qs:id":236556,
+        "qs_pg:id":236556,
         "wd:id":"Q413037",
         "wk:page":"Ajmer"
     },
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890511193,
-    "wof:lastmodified":1563442782,
+    "wof:lastmodified":1566705202,
     "wof:name":"Ajmer",
     "wof:parent_id":85672201,
     "wof:placetype":"county",

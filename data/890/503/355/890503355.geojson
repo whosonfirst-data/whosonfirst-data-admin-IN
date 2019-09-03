@@ -11,7 +11,7 @@
     "geom:longitude":79.288681,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
         "Nalgonda District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":17.064953,
     "lbl:longitude":79.299946,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Andhra Pradesh",
     "meso:dissme":"Andhra PradeshNalgonda",
     "meso:gadm_admin":"Nalgonda",
@@ -40,6 +42,7 @@
     "mps:longitude":79.299946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Nalgonda"
     ],
@@ -142,9 +145,6 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c32\u0c4d\u0c17\u0c4a\u0c02\u0c21 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Nalgonda District"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0644\u06af\u0648\u0646\u0688\u0627 \u0636\u0644\u0639"
     ],
@@ -162,9 +162,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"14240",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Nalgonda",
@@ -185,7 +185,7 @@
     "wof:concordances":{
         "gn:id":1262068,
         "hasc:id":"IN.TG.NA",
-        "qs:id":276255,
+        "qs_pg:id":276255,
         "wd:id":"Q15384",
         "wk:page":"Nalgonda"
     },
@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":890503355,
-    "wof:lastmodified":1563442418,
+    "wof:lastmodified":1566705130,
     "wof:name":"Nalgonda",
     "wof:parent_id":1108805979,
     "wof:placetype":"county",

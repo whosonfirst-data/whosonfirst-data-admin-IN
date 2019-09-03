@@ -11,7 +11,7 @@
     "geom:longitude":94.777818,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -22,6 +22,8 @@
     ],
     "lbl:latitude":27.445395,
     "lbl:longitude":94.55047,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Assam",
     "meso:dissme":"AssamDhemaji",
     "meso:gadm_admin":"Dhemaji",
@@ -35,6 +37,7 @@
     "mps:longitude":94.55047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:asm_x_preferred":[
         "\u09a7\u09c7\u09ae\u09be\u099c\u09bf \u099c\u09bf\u09b2\u09be"
     ],
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"3237",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Dhemaji",
@@ -179,7 +182,7 @@
         "gn:id":7627077,
         "gp:id":12586353,
         "hasc:id":"IN.AS.DM",
-        "qs:id":236554,
+        "qs_pg:id":236554,
         "wd:id":"Q42473",
         "wk:page":"Dhemaji"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890511189,
-    "wof:lastmodified":1563442821,
+    "wof:lastmodified":1566705210,
     "wof:name":"Dhemaji",
     "wof:parent_id":85672181,
     "wof:placetype":"county",

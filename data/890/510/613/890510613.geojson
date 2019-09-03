@@ -11,7 +11,7 @@
     "geom:longitude":82.917583,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":25.38787,
     "lbl:longitude":82.891363,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Uttar Pradesh",
     "meso:dissme":"Uttar PradeshVaranasi",
     "meso:gadm_admin":"Varanasi",
@@ -41,6 +43,7 @@
     "mps:longitude":82.891363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0641\u0627\u0631\u0627\u0646\u0627\u0633\u064a"
     ],
@@ -131,9 +134,6 @@
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c30\u0c23\u0c3e\u0c36\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "V\u0101r\u0101nasi"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0631\u0627\u0646\u0633\u06cc \u0636\u0644\u0639"
     ],
@@ -158,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"1578",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Varanasi",
@@ -186,7 +186,7 @@
         "gn:id":1253407,
         "gp:id":12586794,
         "hasc:id":"IN.UP.VA",
-        "qs:id":892670,
+        "qs_pg:id":892670,
         "wd:id":"Q1321140",
         "wk:page":"Varanasi"
     },
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":890510613,
-    "wof:lastmodified":1563442703,
+    "wof:lastmodified":1566705187,
     "wof:name":"Varanasi",
     "wof:parent_id":85672205,
     "wof:placetype":"county",

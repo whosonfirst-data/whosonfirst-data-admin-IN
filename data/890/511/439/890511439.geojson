@@ -11,7 +11,7 @@
     "geom:longitude":77.099755,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":11.960112,
     "lbl:longitude":77.110014,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Karnataka",
     "meso:dissme":"KarnatakaChamrajnagar",
     "meso:gadm_admin":"Chamrajnagar",
@@ -41,6 +43,7 @@
     "mps:longitude":77.110014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Chamarajanagar"
     ],
@@ -125,9 +128,6 @@
     "name:tel_x_variant":[
         "\u0c1a\u0c3e\u0c2e\u0c30\u0c3e\u0c1c\u0c28\u0c17\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Chamarajanagar"
-    ],
     "name:vie_x_preferred":[
         "Chamrajnagar"
     ],
@@ -149,9 +149,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"5102",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Chamrajnagar",
@@ -173,7 +173,7 @@
         "gn:id":8224050,
         "gp:id":28298867,
         "hasc:id":"IN.KA.CJ",
-        "qs:id":1196593,
+        "qs_pg:id":1196593,
         "wd:id":"Q862912",
         "wk:page":"Chamarajanagar district"
     },
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":890511439,
-    "wof:lastmodified":1563442805,
+    "wof:lastmodified":1566705207,
     "wof:name":"Chamrajnagar",
     "wof:parent_id":85672165,
     "wof:placetype":"county",

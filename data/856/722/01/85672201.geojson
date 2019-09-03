@@ -106,6 +106,7 @@
     ],
     "lbl:latitude":26.950688,
     "lbl:longitude":73.786591,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.898951,
     "mps:longitude":73.900525,
     "mz:hierarchy_label":1,
@@ -463,9 +464,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0436\u0430\u0441\u0442\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "R\u0101jasth\u0101n"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u062c\u0633\u062a\u06be\u0627\u0646"
     ],
@@ -584,9 +582,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"342,239",
     "statoids:area_mi":"132,139",
     "statoids:as_of_date":"2011-02-09",
@@ -616,7 +614,7 @@
         "iso:id":"IN-RJ",
         "loc:id":"n79061911",
         "nyt:id":"N34652903371885855881",
-        "qs:id":884365,
+        "qs_pg:id":884365,
         "unlc:id":"IN-RJ",
         "wd:id":"Q1437",
         "wk:page":"Rajasthan"
@@ -658,7 +656,7 @@
         "kha",
         "san"
     ],
-    "wof:lastmodified":1565718269,
+    "wof:lastmodified":1566688956,
     "wof:name":"Rajasthan",
     "wof:parent_id":85632469,
     "wof:placetype":"region",

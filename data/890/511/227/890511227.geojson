@@ -11,7 +11,7 @@
     "geom:longitude":77.616134,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":32.550159,
     "lbl:longitude":77.616443,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Himachal Pradesh",
     "meso:dissme":"Himachal PradeshLahul & Spiti",
     "meso:gadm_admin":"Lahul & Spiti",
@@ -41,6 +43,7 @@
     "mps:longitude":77.616443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0647\u0648\u0644 \u0648 \u0633\u0628\u064a\u062a\u064a"
     ],
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0445\u0443\u043b \u0456 \u0421\u043f\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Spiti and Lahoul"
     ],
     "name:urd_x_preferred":[
@@ -172,9 +175,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"13835",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Keylong",
@@ -196,7 +199,7 @@
         "gn:id":1265292,
         "gp:id":24505131,
         "hasc:id":"IN.HP.LS",
-        "qs:id":237049,
+        "qs_pg:id":237049,
         "wd:id":"Q837595",
         "wk:page":"Lahaul and Spiti district"
     },
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890511227,
-    "wof:lastmodified":1563442788,
+    "wof:lastmodified":1566705203,
     "wof:name":"Lahul & Spiti",
     "wof:parent_id":85672129,
     "wof:placetype":"county",

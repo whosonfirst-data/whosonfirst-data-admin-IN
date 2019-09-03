@@ -11,7 +11,7 @@
     "geom:longitude":69.959958,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
         "Kachchh District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":23.516069,
     "lbl:longitude":69.619009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gujarat",
     "meso:dissme":"GujaratKachchh",
     "meso:gadm_admin":"Kachchh",
@@ -40,6 +42,7 @@
     "mps:longitude":69.619009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0634"
     ],
@@ -154,9 +157,6 @@
     "name:tel_x_variant":[
         "\u0c15\u0c1a\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Kutch"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0686\u06be"
     ],
@@ -177,9 +177,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"45652",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Bhuj",
@@ -201,7 +201,7 @@
         "gn:id":1268731,
         "gp:id":12586426,
         "hasc:id":"IN.GJ.KA",
-        "qs:id":1026871,
+        "qs_pg:id":1026871,
         "wd:id":"Q1063417",
         "wk:page":"Kutch district"
     },
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":890503811,
-    "wof:lastmodified":1563442428,
+    "wof:lastmodified":1566705134,
     "wof:name":"Kachchh",
     "wof:parent_id":85672249,
     "wof:placetype":"county",

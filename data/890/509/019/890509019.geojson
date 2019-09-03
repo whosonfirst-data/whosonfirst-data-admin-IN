@@ -11,7 +11,7 @@
     "geom:longitude":79.167693,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":12.37843,
     "lbl:longitude":78.989471,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tamil Nadu",
     "meso:dissme":"Tamil NaduTiruvannamalai",
     "meso:gadm_admin":"Tiruvannamalai",
@@ -41,6 +43,7 @@
     "mps:longitude":78.989471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u062a\u064a\u0631\u0648\u0641\u0627\u0646\u0645\u0627\u0644\u064a"
     ],
@@ -161,9 +164,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"6191",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Tiruvannamalai",
@@ -185,7 +188,7 @@
         "gn:id":7646147,
         "gp:id":12586704,
         "hasc:id":"IN.TN.TV",
-        "qs:id":895797,
+        "qs_pg:id":895797,
         "wd:id":"Q15207",
         "wk:page":"Tiruvannamalai"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890509019,
-    "wof:lastmodified":1563443702,
+    "wof:lastmodified":1566705389,
     "wof:name":"Tiruvannamalai",
     "wof:parent_id":85672245,
     "wof:placetype":"county",

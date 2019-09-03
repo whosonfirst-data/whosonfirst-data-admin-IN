@@ -11,7 +11,7 @@
     "geom:longitude":70.77504,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":22.305823,
     "lbl:longitude":70.786185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gujarat",
     "meso:dissme":"GujaratRajkot",
     "meso:gadm_admin":"Morbi",
@@ -41,6 +43,7 @@
     "mps:longitude":70.786185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Rajkot"
     ],
@@ -123,9 +126,6 @@
     "name:tel_x_variant":[
         "\u0c30\u0c3e\u0c1c\u0c15\u0c4b\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "R\u0101jkot"
-    ],
     "name:vie_x_preferred":[
         "Rajkot"
     ],
@@ -150,9 +150,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"11203",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Rajkot",
@@ -177,7 +177,7 @@
         "gn:id":1258849,
         "gp:id":12586430,
         "hasc:id":"IN.GJ.RK",
-        "qs:id":336943,
+        "qs_pg:id":336943,
         "wd:id":"Q1815245",
         "wk:page":"Rajkot"
     },
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":890503575,
-    "wof:lastmodified":1563442476,
+    "wof:lastmodified":1566705146,
     "wof:name":"Rajkot",
     "wof:parent_id":85672249,
     "wof:placetype":"county",

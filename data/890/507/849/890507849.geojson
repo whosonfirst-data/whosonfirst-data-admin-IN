@@ -11,7 +11,7 @@
     "geom:longitude":75.625376,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":16.170889,
     "lbl:longitude":75.635613,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Karnataka",
     "meso:dissme":"KarnatakaBagalkot",
     "meso:gadm_admin":"Bagalkot",
@@ -41,6 +43,7 @@
     "mps:longitude":75.635613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u062c\u0627\u0644\u0643\u0648\u062a"
     ],
@@ -125,9 +128,6 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c17\u0c32\u0c4d\u200c\u0c15\u0c4b\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Bagalkot"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06af\u0644\u06a9\u0648\u0679 \u0636\u0644\u0639"
     ],
@@ -152,9 +152,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"6583",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Bagalkot",
@@ -176,7 +176,7 @@
         "gn:id":8224037,
         "gp:id":28298862,
         "hasc:id":"IN.KA.BK",
-        "qs:id":1115393,
+        "qs_pg:id":1115393,
         "wd:id":"Q1910231",
         "wk:page":"Bagalkot"
     },
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":890507849,
-    "wof:lastmodified":1563443535,
+    "wof:lastmodified":1566705355,
     "wof:name":"Bagalkot",
     "wof:parent_id":85672165,
     "wof:placetype":"county",

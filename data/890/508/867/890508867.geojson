@@ -11,7 +11,7 @@
     "geom:longitude":78.079466,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":27.08291,
     "lbl:longitude":78.009504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Uttar Pradesh",
     "meso:dissme":"Uttar PradeshAgra",
     "meso:gadm_admin":"Agra",
@@ -41,6 +43,7 @@
     "mps:longitude":78.009504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0631\u0629"
     ],
@@ -152,7 +155,7 @@
     "name:tel_x_variant":[
         "\u0c06\u0c17\u0c4d\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agra District"
     ],
     "name:urd_x_preferred":[
@@ -182,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"4027",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Agra",
@@ -209,7 +212,7 @@
         "gn:id":1279262,
         "gp:id":12586712,
         "hasc:id":"IN.UP.AG",
-        "qs:id":1176080,
+        "qs_pg:id":1176080,
         "wd:id":"Q606343",
         "wk:page":"Agra"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890508867,
-    "wof:lastmodified":1563442957,
+    "wof:lastmodified":1566705239,
     "wof:name":"Agra",
     "wof:parent_id":85672205,
     "wof:placetype":"county",

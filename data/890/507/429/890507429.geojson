@@ -11,7 +11,7 @@
     "geom:longitude":91.406148,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":26.000519,
     "lbl:longitude":91.289131,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Assam",
     "meso:dissme":"AssamKamrup",
     "meso:gadm_admin":"Kamrup",
@@ -41,6 +43,7 @@
     "mps:longitude":91.289131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:asm_x_preferred":[
         "\u0995\u09be\u09ae\u09f0\u09c2\u09aa \u099c\u09bf\u09b2\u09be"
     ],
@@ -128,7 +131,7 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c30\u0c42\u0c2a\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramrup"
     ],
     "name:urd_x_preferred":[
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"4345",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Guwahati",
@@ -179,7 +182,7 @@
         "gn:id":1268209,
         "gp:id":12586360,
         "hasc:id":"IN.AS.KU",
-        "qs:id":1084970,
+        "qs_pg:id":1084970,
         "wd:id":"Q2247441",
         "wk:page":"Kamrup"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890507429,
-    "wof:lastmodified":1563443536,
+    "wof:lastmodified":1566705355,
     "wof:name":"Kamrup",
     "wof:parent_id":85672181,
     "wof:placetype":"county",

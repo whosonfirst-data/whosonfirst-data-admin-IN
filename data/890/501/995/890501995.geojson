@@ -11,7 +11,7 @@
     "geom:longitude":79.010374,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":12.855497,
     "lbl:longitude":78.905993,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tamil Nadu",
     "meso:dissme":"Tamil NaduVellore",
     "meso:gadm_admin":"Vellore",
@@ -41,6 +43,7 @@
     "mps:longitude":78.905993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0641\u0644\u0648\u0631"
     ],
@@ -170,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"6077",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Vellore",
@@ -194,7 +197,7 @@
         "gn:id":7646146,
         "gp:id":12586706,
         "hasc:id":"IN.TN.VE",
-        "qs:id":337338,
+        "qs_pg:id":337338,
         "wd:id":"Q15206",
         "wk:page":"Vellore"
     },
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890501995,
-    "wof:lastmodified":1563443301,
+    "wof:lastmodified":1566705308,
     "wof:name":"Vellore",
     "wof:parent_id":85672245,
     "wof:placetype":"county",

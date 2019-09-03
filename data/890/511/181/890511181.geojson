@@ -11,7 +11,7 @@
     "geom:longitude":94.256546,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":26.778555,
     "lbl:longitude":94.262589,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Assam",
     "meso:dissme":"AssamJorhat",
     "meso:gadm_admin":"Jorhat",
@@ -41,6 +43,7 @@
     "mps:longitude":94.262589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u0647\u0627\u062a"
     ],
@@ -149,7 +152,7 @@
     "name:tel_x_variant":[
         "\u0c1c\u0c4b\u0c30\u0c4d\u0c39\u0c3e\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jorh\u0101t (India : District)"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"2851",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Jorhat",
@@ -200,7 +203,7 @@
         "gn:id":7627081,
         "gp:id":12586359,
         "hasc:id":"IN.AS.JO",
-        "qs:id":236550,
+        "qs_pg:id":236550,
         "wd:id":"Q42611",
         "wk:page":"Jorhat"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890511181,
-    "wof:lastmodified":1563442828,
+    "wof:lastmodified":1566705211,
     "wof:name":"Jorhat",
     "wof:parent_id":85672181,
     "wof:placetype":"county",

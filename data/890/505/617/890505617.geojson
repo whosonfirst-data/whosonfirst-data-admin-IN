@@ -11,7 +11,7 @@
     "geom:longitude":86.343651,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":20.202877,
     "lbl:longitude":86.369951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Odisha",
     "meso:dissme":"OdishaJagatsinghapur",
     "meso:gadm_admin":"Jagatsinghapur",
@@ -41,6 +43,7 @@
     "mps:longitude":86.369951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u062c\u062a\u0633\u0646\u063a\u0648\u0631"
     ],
@@ -138,9 +141,6 @@
     "name:tel_x_variant":[
         "\u0c1c\u0c17\u0c24\u0c4d\u0c38\u0c3f\u0c02\u0c17\u0c4d\u0c2a\u0c42\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Jagatsinghapur"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u062a \u0633\u0646\u06af\u06be \u067e\u0648\u0631 \u0636\u0644\u0639"
     ],
@@ -165,9 +165,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"1759",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Jagatsinghpur",
@@ -189,7 +189,7 @@
         "gn:id":7644925,
         "gp:id":12586609,
         "hasc:id":"IN.OR.JS",
-        "qs:id":499227,
+        "qs_pg:id":499227,
         "wd:id":"Q971581",
         "wk:page":"Jagatsinghpur"
     },
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890505617,
-    "wof:lastmodified":1563442061,
+    "wof:lastmodified":1566705067,
     "wof:name":"Jagatsinghapur",
     "wof:parent_id":85672157,
     "wof:placetype":"county",

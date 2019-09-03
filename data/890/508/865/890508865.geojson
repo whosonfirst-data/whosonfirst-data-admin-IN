@@ -11,7 +11,7 @@
     "geom:longitude":73.563155,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":29.344514,
     "lbl:longitude":73.506971,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Rajasthan",
     "meso:dissme":"RajasthanGanganagar",
     "meso:gadm_admin":"Ganganagar",
@@ -41,6 +43,7 @@
     "mps:longitude":73.506971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0646\u062c\u0627\u0646\u062c\u0627\u0631"
     ],
@@ -126,9 +129,6 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c02\u0c17\u0c3e\u0c28\u0c17\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "Ganganagar"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u06cc\u00a0\u062c\u0627\u0646\u062c\u0627\u0646\u06af\u0631"
     ],
@@ -156,9 +156,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"7984",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Ganganagar",
@@ -180,7 +180,7 @@
         "gn:id":1271686,
         "gp:id":12586660,
         "hasc:id":"IN.RJ.GA",
-        "qs:id":1176044,
+        "qs_pg:id":1176044,
         "wd:id":"Q1419696",
         "wk:page":"Sri Ganganagar"
     },
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":890508865,
-    "wof:lastmodified":1563443037,
+    "wof:lastmodified":1566705254,
     "wof:name":"Ganganagar",
     "wof:parent_id":85672201,
     "wof:placetype":"county",

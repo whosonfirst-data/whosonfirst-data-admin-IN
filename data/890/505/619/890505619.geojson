@@ -11,7 +11,7 @@
     "geom:longitude":86.411179,
     "gn:country":"IN",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424848,
     "iso:country":"IN",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":21.892722,
     "lbl:longitude":86.411301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Odisha",
     "meso:dissme":"OdishaMayurbhanj",
     "meso:gadm_admin":"Mayurbhanj",
@@ -41,6 +43,7 @@
     "mps:longitude":86.411301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0648\u0631\u0628\u0627\u0646\u064a"
     ],
@@ -134,9 +137,6 @@
     "name:tel_x_variant":[
         "\u0c2e\u0c2f\u0c42\u0c30\u0c4d\u0c2c\u0c28\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
-    "name:unk_x_variant":[
-        "May\u016brbhanj"
-    ],
     "name:vie_x_preferred":[
         "Mayurbhanj"
     ],
@@ -158,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-09",
+    "src:population_date":"2011-02-09",
     "statoids:area_km":"1041",
     "statoids:as_of_date":"2011-02-09",
     "statoids:capital":"Baripada",
@@ -182,7 +182,7 @@
         "gn:id":1263245,
         "gp:id":12586618,
         "hasc:id":"IN.OR.MY",
-        "qs:id":499231,
+        "qs_pg:id":499231,
         "wd:id":"Q1914546",
         "wk:page":"Mayurbhanj district"
     },
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":890505619,
-    "wof:lastmodified":1563442066,
+    "wof:lastmodified":1566705067,
     "wof:name":"Mayurbhanj",
     "wof:parent_id":85672157,
     "wof:placetype":"county",
