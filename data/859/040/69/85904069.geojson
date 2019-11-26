@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-11-26",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-11-26",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"78.576965,17.484291,78.576965,17.484291",
@@ -18,7 +20,7 @@
     "mps:latitude":17.484291,
     "mps:longitude":78.577409,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -422,12 +424,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1574722239,
+    "wof:lastmodified":1574793384,
     "wof:name":"Hyderabad",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102030059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
