@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-11-25",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-11-25",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"78.41423,17.41395,78.41423,17.41395",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Manikonda"
@@ -38,9 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        85672141,
-        1108696315,
-        1108805979
+        1108805979,
+        1108696315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,23 +63,18 @@
             "country_id":85632469,
             "county_id":1108696315,
             "locality_id":890507387,
-            "region_id":85672141
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632469,
-            "county_id":1108696315,
-            "locality_id":890507387,
             "region_id":1108805979
         }
     ],
     "wof:id":890507387,
-    "wof:lastmodified":1566705364,
+    "wof:lastmodified":1575506933,
     "wof:name":"Manikonda",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511382785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
