@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-11-25",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-11-25",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"77.20585,28.71648,77.20585,28.71648",
@@ -28,11 +30,14 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672123,
+        890507423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,22 @@
     "wof:geomhash":"928da3b6fb19fb454c1ddc546a93d5c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209605963
+            "county_id":890507423,
+            "locality_id":1209605963,
+            "region_id":85672123
         }
     ],
     "wof:id":1209605963,
-    "wof:lastmodified":1566696336,
+    "wof:lastmodified":1575668935,
     "wof:name":"Dahirpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507423,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511390827
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
