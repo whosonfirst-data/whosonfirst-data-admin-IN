@@ -2,7 +2,7 @@
   "id": 1209459121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-07-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09a8\u09cd\u09a6\u09be"
@@ -59,35 +59,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890508871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10827074
     },
     "wof:country":"IN",
-    "wof:geomhash":"9d4acd582ff466f0e7c58ebd34fd00b5",
+    "wof:geomhash":"ce57099e28b1555212f1c3733c8227e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209459121
+            "county_id":890508871,
+            "locality_id":1209459121,
+            "region_id":85672205
         }
     ],
     "wof:id":1209459121,
-    "wof:lastmodified":1566696814,
+    "wof:lastmodified":1657930168,
     "wof:name":"Tanda",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1779888719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.50079000000002,
+    79.50079,
     28.77633,
-    79.50079000000002,
+    79.50079,
     28.77633
 ],
-  "geometry": {"coordinates":[79.50079000000002,28.77633],"type":"Point"}
+  "geometry": {"coordinates":[79.50078999999999,28.77633],"type":"Point"}
 }
