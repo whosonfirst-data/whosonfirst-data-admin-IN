@@ -4,20 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000058,
+    "geom:area":0.0,
     "geom:area_square_m":9110280.043426,
-    "geom:bbox":"77.063359,8.313258,77.074076,8.323078",
-    "geom:latitude":8.319195,
-    "geom:longitude":77.068879,
+    "geom:bbox":"77.070678,8.318267,77.070678,8.318267",
+    "geom:latitude":8.318267,
+    "geom:longitude":77.070678,
     "gn:latitude":8.3146,
     "gn:longitude":77.06856,
     "iso:country":"IN",
-    "lbl:latitude":8.318341,
-    "lbl:longitude":77.070547,
+    "ks:ks_id":"KS8B9756ECD0A84AA190C0394875CA84D0",
+    "ks:ks_name":"Poovar",
+    "ks:ks_pop":409,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1221001",
+    "ks:ks_type":"HABITATION",
+    "lbl:latitude":8.318267,
+    "lbl:longitude":77.070678,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":8.309342,
-    "mps:longitude":77.080078,
+    "mps:latitude":8.318267,
+    "mps:longitude":77.070678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -27,6 +33,9 @@
     ],
     "name:eng_x_preferred":[
         "Poovar"
+    ],
+    "name:eng_x_variant":[
+        "P\u016bv\u0101r"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d42\u0d35\u0d3e\u0d7c"
@@ -54,11 +63,14 @@
     "qs:source":"Dquattroshapes",
     "reversegeo:latitude":8.318341,
     "reversegeo:longitude":77.070547,
-    "src:geom":"whosonfirst",
+    "src:geom":"karmashapes",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"karmashapes",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":455,
     "wof:belongsto":[
         102191569,
@@ -69,10 +81,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1259118,
+        "ks:id":"KS8B9756ECD0A84AA190C0394875CA84D0",
         "wd:id":"Q1927043"
     },
     "wof:country":"IN",
-    "wof:geomhash":"63c0bd8b94d790f37c2092e32e9db451",
+    "wof:geom_alt":[
+        "whosonfirst"
+    ],
+    "wof:geomhash":"2705556b82aa2373bc573d8e42d96c99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +99,22 @@
         }
     ],
     "wof:id":102028945,
-    "wof:lastmodified":1658780789,
-    "wof:name":"P\u016bv\u0101r",
+    "wof:lastmodified":1679460624,
+    "wof:name":"Poovar",
     "wof:parent_id":890508831,
     "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.063359,
-    8.313258,
-    77.074076,
-    8.323078
+    77.070678,
+    8.318267,
+    77.070678,
+    8.318267
 ],
-  "geometry": {"coordinates":[[[[77.06550300000001,8.317505],[77.064606,8.31848],[77.06335900000001,8.319454],[77.06339800000001,8.320467],[77.064684,8.320545],[77.06495700000001,8.321364],[77.065776,8.322883],[77.06752899999999,8.322806],[77.070179,8.322689],[77.071699,8.323078],[77.07407600000001,8.322143],[77.073297,8.32113],[77.072518,8.319532],[77.071933,8.318792],[77.071699,8.317973],[77.071816,8.316804],[77.071699,8.315986],[77.071699,8.314544],[77.071271,8.313686],[77.071037,8.313258],[77.06550300000001,8.317505]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[77.070678,8.318267],"type":"Point"}
 }

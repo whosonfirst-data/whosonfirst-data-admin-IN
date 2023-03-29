@@ -4,19 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000562,
+    "geom:area":0.0,
     "geom:area_square_m":14664009.93826,
-    "geom:bbox":"88.035711,22.015401,88.067329,22.051454",
-    "geom:latitude":22.033391,
-    "geom:longitude":88.052125,
+    "geom:bbox":"88.071079,22.050081,88.071079,22.050081",
+    "geom:latitude":22.050081,
+    "geom:longitude":88.071079,
     "gn:population":170695,
     "iso:country":"IN",
-    "lbl:latitude":22.03019,
-    "lbl:longitude":88.049504,
+    "ks:ks_id":"KS85237AFA5C354D9696AF4A19CC3957A9",
+    "ks:ks_name":"Haldia",
+    "ks:ks_pop":170673,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1915004241519000",
+    "ks:ks_type":"VILLAGE",
+    "lbl:latitude":22.050081,
+    "lbl:longitude":88.071079,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":22.029637,
-    "mps:longitude":88.099365,
+    "mps:latitude":22.050081,
+    "mps:longitude":88.071079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -230,14 +236,16 @@
     "qs:type":"Town",
     "reversegeo:latitude":22.03019,
     "reversegeo:longitude":88.049504,
-    "src:geom":"whosonfirst",
+    "src:geom":"karmashapes",
     "src:geom_alt":[
         "quattroshapes_pg",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"karmashapes",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":8.0,
     "wd:latitude":22.03,
     "wd:longitude":88.06,
@@ -252,15 +260,15 @@
     "wof:concordances":{
         "gn:id":1344377,
         "gp:id":2294933,
+        "ks:id":"KS85237AFA5C354D9696AF4A19CC3957A9",
         "qs_pg:id":351961,
         "wd:id":"Q12460009"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg",
-        "naturalearth"
+        "whosonfirst"
     ],
-    "wof:geomhash":"72700fd529a2a0ff4c9dfd3da5ab09af",
+    "wof:geomhash":"945df4c8806bd59cf97ca739a9ec70dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -271,11 +279,11 @@
         }
     ],
     "wof:id":102031049,
-    "wof:lastmodified":1658780722,
+    "wof:lastmodified":1679458417,
     "wof:name":"Haldia",
     "wof:parent_id":1108696089,
     "wof:placetype":"locality",
-    "wof:population":170695,
+    "wof:population":170673,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -283,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.035711,
-    22.015401,
-    88.067329,
-    22.051454
+    88.071079,
+    22.050081,
+    88.071079,
+    22.050081
 ],
-  "geometry": {"coordinates":[[[[88.03571100000001,22.038807],[88.03580599999999,22.050793],[88.037977,22.051454],[88.040902,22.04598],[88.042884,22.044659],[88.045433,22.040128],[88.046093,22.039751],[88.04845299999999,22.040883],[88.04920799999999,22.044187],[88.05279400000001,22.046735],[88.053927,22.043432],[88.055531,22.041072],[88.05959,22.04145],[88.061572,22.043243],[88.064875,22.042865],[88.06648,22.040695],[88.06544100000001,22.038524],[88.064403,22.037674],[88.062799,22.035409],[88.061949,22.033616],[88.062704,22.031257],[88.063743,22.02918],[88.06497,22.027387],[88.067329,22.025594],[88.06619600000001,22.021535],[88.062893,22.022762],[88.064026,22.01861],[88.060439,22.015401],[88.057985,22.017854],[88.051001,22.022007],[88.04439499999999,22.028614],[88.038732,22.034654],[88.03571100000001,22.038807]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[88.071079,22.050081],"type":"Point"}
 }
