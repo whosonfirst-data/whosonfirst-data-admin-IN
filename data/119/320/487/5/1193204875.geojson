@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.09596,25.94843,85.09596,25.94843",
-    "geom:latitude":25.94843,
-    "geom:longitude":85.09596,
+    "geom:bbox":"85.097226,25.950169,85.099382,25.952055",
+    "geom:latitude":25.951058,
+    "geom:longitude":85.098354,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Habibpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.07596,25.92843,85.11596,25.96843",
+    "ks:ks_id":"KS464AEFDE11474870BAE88063D65842E4",
+    "ks:ks_name":"Habibpur",
+    "ks:ks_pop":720,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1018000101867200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1386056",
+    "lbl:latitude":25.951112,
+    "lbl:longitude":85.098354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.951112,
+    "mps:longitude":85.098354,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ac\u09bf\u09ac\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09ac\u09bf\u09ac\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Habibpur"
     ],
     "name:ita_x_preferred":[
         "Habibpur"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u6bd4\u5e03\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010704
+        "gn:id":11010704,
+        "ks:id":"KS464AEFDE11474870BAE88063D65842E4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"de99b6356b4b73edf8d8d0bb8b6ee994",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b6036488520a02bbcd2f3169f7be696",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1193204875,
-    "wof:lastmodified":1566698421,
+    "wof:lastmodified":1680666773,
     "wof:name":"Habibpur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.09595999999998,
-    25.94843,
-    85.09595999999998,
-    25.94843
+    85.097226,
+    25.950169,
+    85.099382,
+    25.952055
 ],
-  "geometry": {"coordinates":[85.09595999999998,25.94843],"type":"Point"}
+  "geometry": {"coordinates":[[[85.09722600000001,25.951247],[85.097765,25.951247],[85.097765,25.952055],[85.098574,25.952055],[85.098574,25.951786],[85.098843,25.951786],[85.098843,25.951247],[85.09938200000001,25.951247],[85.09938200000001,25.950708],[85.099113,25.950708],[85.099113,25.950169],[85.098035,25.950169],[85.098035,25.950708],[85.09722600000001,25.950708],[85.09722600000001,25.951247]]],"type":"Polygon"}
 }

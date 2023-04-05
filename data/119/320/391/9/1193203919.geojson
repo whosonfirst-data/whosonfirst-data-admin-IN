@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.14179,28.12652,79.14179,28.12652",
-    "geom:latitude":28.12652,
-    "geom:longitude":79.14179,
+    "geom:bbox":"79.140327,28.12433,79.142262,28.126045",
+    "geom:latitude":28.125317,
+    "geom:longitude":79.141225,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"149.0",
     "gn:asciiname":"Faridpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.12179,28.10652,79.16179,28.14652",
+    "ks:ks_id":"KS1728F74585EC43E098F9E16555DE99DA",
+    "ks:ks_name":"Faridpur",
+    "ks:ks_pop":296,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|328479",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1810595",
+    "lbl:latitude":28.125298,
+    "lbl:longitude":79.141206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.125298,
+    "mps:longitude":79.141206,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062f\u0628\u0648\u0631"
@@ -43,6 +53,9 @@
         "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Faridpur"
+    ],
+    "name:eng_x_preferred":[
         "Faridpur"
     ],
     "name:guj_x_preferred":[
@@ -87,7 +100,13 @@
     "name:urd_x_preferred":[
         "\u0641\u0631\u06cc\u062f \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10823831
+        "gn:id":10823831,
+        "ks:id":"KS1728F74585EC43E098F9E16555DE99DA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"afa0fbfebc195359cfae3bd8f9b96cac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3baa333d2b3c9c2adb4044d1ab5151c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +133,22 @@
         }
     ],
     "wof:id":1193203919,
-    "wof:lastmodified":1577751171,
+    "wof:lastmodified":1680666711,
     "wof:name":"Faridpur",
     "wof:parent_id":890508873,
     "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.14179,
-    28.12652000000001,
-    79.14179,
-    28.12652000000001
+    79.140327,
+    28.12433,
+    79.142262,
+    28.126045
 ],
-  "geometry": {"coordinates":[79.14179,28.12652000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.14123600000001,28.126045],[79.141238,28.125955],[79.141645,28.125961],[79.14164700000001,28.12587],[79.141952,28.125875],[79.141953,28.125784],[79.142157,28.125787],[79.14215900000001,28.125697],[79.14225999999999,28.125698],[79.142262,28.125608],[79.14216,28.125607],[79.14216500000001,28.125336],[79.14206299999999,28.125335],[79.142065,28.125244],[79.141963,28.125243],[79.141966,28.125063],[79.141864,28.125061],[79.14186599999999,28.124971],[79.14176399999999,28.12497],[79.141767,28.124789],[79.141665,28.124788],[79.141668,28.124607],[79.14156699999999,28.124606],[79.14156800000001,28.124516],[79.14146599999999,28.124514],[79.141468,28.124424],[79.141366,28.124423],[79.141368,28.124332],[79.141164,28.12433],[79.141161,28.12451],[79.141059,28.124509],[79.141058,28.124599],[79.140956,28.124598],[79.14095399999999,28.124688],[79.14075099999999,28.124685],[79.140749,28.124775],[79.140648,28.124774],[79.140646,28.124864],[79.14054400000001,28.124863],[79.140541,28.125043],[79.140439,28.125042],[79.140435,28.125313],[79.140333,28.125311],[79.140327,28.125672],[79.140428,28.125673],[79.14042499999999,28.125854],[79.14052700000001,28.125855],[79.14052599999999,28.125945],[79.14072899999999,28.125948],[79.140728,28.126038],[79.14123600000001,28.126045]]],"type":"Polygon"}
 }

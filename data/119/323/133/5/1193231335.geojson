@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.14393,23.51271,80.14393,23.51271",
-    "geom:latitude":23.51271,
-    "geom:longitude":80.14393,
+    "geom:bbox":"80.143198,23.511858,80.144966,23.513576",
+    "geom:latitude":23.512765,
+    "geom:longitude":80.144067,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Bilha",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.12393,23.49271,80.16393,23.53271",
+    "ks:ks_id":"KSCD463B3FE13342DE8A476499B6A66A22",
+    "ks:ks_name":"Bilha",
+    "ks:ks_pop":160,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|164106",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1006065",
+    "lbl:latitude":23.512811,
+    "lbl:longitude":80.144051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.512811,
+    "mps:longitude":80.144051,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u09b9\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Bilha"
     ],
     "name:ita_x_preferred":[
         "Bilha"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u54c8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10674336
+        "gn:id":10674336,
+        "ks:id":"KSCD463B3FE13342DE8A476499B6A66A22"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7a0b630b9df53cec136b2ef5fa87baef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b01dbcd2e5301b9f252a4ed5e7712c37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1193231335,
-    "wof:lastmodified":1566697849,
+    "wof:lastmodified":1680666418,
     "wof:name":"Bilha",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.14393000000003,
-    23.51271,
-    80.14393000000003,
-    23.51271
+    80.143198,
+    23.511858,
+    80.144966,
+    23.513576
 ],
-  "geometry": {"coordinates":[80.14393000000003,23.51271],"type":"Point"}
+  "geometry": {"coordinates":[[[80.144469,23.513576],[80.14447,23.513486],[80.14456800000001,23.513486],[80.14456800000001,23.513396],[80.144666,23.513396],[80.144667,23.513216],[80.14476500000001,23.513216],[80.144766,23.513036],[80.144864,23.513036],[80.144867,23.512675],[80.144965,23.512675],[80.144966,23.512495],[80.144868,23.512494],[80.14487,23.512133],[80.144772,23.512132],[80.144773,23.512042],[80.14467500000001,23.512042],[80.14467500000001,23.511951],[80.144577,23.511951],[80.144578,23.51186],[80.144186,23.511858],[80.144186,23.511949],[80.14389199999999,23.511947],[80.143891,23.512037],[80.143793,23.512037],[80.143793,23.512127],[80.143597,23.512126],[80.143596,23.512216],[80.1434,23.512215],[80.143399,23.512396],[80.14330099999999,23.512395],[80.1433,23.512576],[80.143202,23.512575],[80.143198,23.513298],[80.14329499999999,23.513299],[80.143294,23.513479],[80.14349,23.51348],[80.14349,23.513571],[80.144469,23.513576]]],"type":"Polygon"}
 }

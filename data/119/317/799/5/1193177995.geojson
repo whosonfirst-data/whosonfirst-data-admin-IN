@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.56995,24.66484,84.56995,24.66484",
-    "geom:latitude":24.66484,
-    "geom:longitude":84.56995,
+    "geom:bbox":"84.569556,24.663871,84.571173,24.665758",
+    "geom:latitude":24.664966,
+    "geom:longitude":84.57023,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Patea",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.54995,24.64484,84.58995,24.68484",
+    "ks:ks_id":"KS95E6A75EE09E4DFDAD00CB9B67FD8646",
+    "ks:ks_name":"Pateya",
+    "ks:ks_pop":785,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1034001103956800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1049816",
+    "lbl:latitude":24.664996,
+    "lbl:longitude":84.570133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.664996,
+    "mps:longitude":84.570133,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Patea"
     ],
     "name:deu_x_preferred":[
+        "Patea"
+    ],
+    "name:eng_x_preferred":[
+        "Pateya"
+    ],
+    "name:eng_x_variant":[
         "Patea"
     ],
     "name:jpn_x_preferred":[
@@ -72,7 +88,13 @@
     "name:zho_tw_x_preferred":[
         "\u5e15\u63d0\u4e9e\u6cb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10840631
+        "gn:id":10840631,
+        "ks:id":"KS95E6A75EE09E4DFDAD00CB9B67FD8646"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f85395c93ed6efa381a0e49ec21bc64a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"532b7168810f3ad52b70676c1960b83d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1193177995,
-    "wof:lastmodified":1636505626,
-    "wof:name":"Patea",
+    "wof:lastmodified":1680666914,
+    "wof:name":"Pateya",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":785,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.56995,
-    24.66484,
-    84.56995,
-    24.66484
+    84.569556,
+    24.663871,
+    84.571173,
+    24.665758
 ],
-  "geometry": {"coordinates":[84.56995000000001,24.66484],"type":"Point"}
+  "geometry": {"coordinates":[[[84.57009499999999,24.663871],[84.56955600000001,24.663871],[84.56955600000001,24.665758],[84.571173,24.665758],[84.571173,24.664949],[84.570634,24.664949],[84.570634,24.664141],[84.57009499999999,24.664141],[84.57009499999999,24.663871]]],"type":"Polygon"}
 }

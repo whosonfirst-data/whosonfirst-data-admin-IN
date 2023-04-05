@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.28417,27.41273,78.28417,27.41273",
-    "geom:latitude":27.41273,
-    "geom:longitude":78.28417,
+    "geom:bbox":"78.283823,27.412276,78.284739,27.413183",
+    "geom:latitude":27.412748,
+    "geom:longitude":78.284237,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Babugarh",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.26417,27.39273,78.30417,27.43273",
+    "ks:ks_id":"KS959044660B9443C294CF17E70438C723",
+    "ks:ks_name":"Babu Garh",
+    "ks:ks_pop":177,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|58236",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1752709",
+    "lbl:latitude":27.412775,
+    "lbl:longitude":78.284228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.412775,
+    "mps:longitude":78.284228,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09ac\u09c1\u0997\u09a1\u09bc"
     ],
     "name:ceb_x_preferred":[
+        "Babugarh"
+    ],
+    "name:eng_x_preferred":[
+        "Babu Garh"
+    ],
+    "name:eng_x_variant":[
         "Babugarh"
     ],
     "name:hin_x_preferred":[
@@ -69,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5e03\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10452657
+        "gn:id":10452657,
+        "ks:id":"KS959044660B9443C294CF17E70438C723"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cedb1925069fa82a821caddfc002ec4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0bc49e3558dcb42048c354006075fb5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1193180651,
-    "wof:lastmodified":1566698499,
-    "wof:name":"Babugarh",
+    "wof:lastmodified":1680666824,
+    "wof:name":"Babu Garh",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.28416999999997,
-    27.41273,
-    78.28416999999997,
-    27.41273
+    78.283823,
+    27.412276,
+    78.284739,
+    27.413183
 ],
-  "geometry": {"coordinates":[78.28416999999997,27.41273],"type":"Point"}
+  "geometry": {"coordinates":[[[78.28432100000001,27.413183],[78.284324,27.413093],[78.284526,27.413097],[78.28452799999999,27.413007],[78.284629,27.413009],[78.284633,27.412828],[78.284734,27.41283],[78.284739,27.41265],[78.284638,27.412648],[78.28464,27.412558],[78.284539,27.412556],[78.284541,27.412466],[78.284339,27.412462],[78.284341,27.412372],[78.284139,27.412368],[78.28414100000001,27.412278],[78.28404,27.412276],[78.284038,27.412366],[78.28393699999999,27.412364],[78.283935,27.412454],[78.283834,27.412452],[78.283823,27.412903],[78.283924,27.412905],[78.283919,27.413085],[78.284122,27.413089],[78.284119,27.413179],[78.28432100000001,27.413183]]],"type":"Polygon"}
 }

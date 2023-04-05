@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.79502,19.09364,78.79502,19.09364",
-    "geom:latitude":19.09364,
-    "geom:longitude":78.79502,
+    "geom:bbox":"78.801599,19.081221,78.802933,19.083028",
+    "geom:latitude":19.081989,
+    "geom:longitude":78.802308,
     "gn:admin1_code":"40",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Rajampet",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.77502,19.07364,78.81502,19.11364",
+    "ks:ks_id":"KS52B7127098F048C09C8205934AE1C136",
+    "ks:ks_name":"Rajampet",
+    "ks:ks_pop":214,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1263931",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_549121",
+    "lbl:latitude":19.081977,
+    "lbl:longitude":78.80232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.081977,
+    "mps:longitude":78.80232,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "R\u0101jampet"
+    ],
+    "name:eng_x_preferred":[
+        "Rajampet"
     ],
     "name:hif_x_preferred":[
         "Rajampet"
@@ -60,7 +73,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u062c\u0645\u067e\u06cc\u0679"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10535359
+        "gn:id":10535359,
+        "ks:id":"KS52B7127098F048C09C8205934AE1C136"
     },
     "wof:country":"IN",
-    "wof:geomhash":"48eda6d83524257ed0a042c6e85f3f72",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"637997696d1ea5791dbc1fab5127e7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1193206493,
-    "wof:lastmodified":1566698413,
+    "wof:lastmodified":1680666767,
     "wof:name":"Rajampet",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.79502,
-    19.09364,
-    78.79502,
-    19.09364
+    78.801599,
+    19.081221,
+    78.802933,
+    19.083028
 ],
-  "geometry": {"coordinates":[78.79501999999999,19.09364],"type":"Point"}
+  "geometry": {"coordinates":[[[78.802532,19.083028],[78.802538,19.082577],[78.802633,19.082578],[78.802635,19.082488],[78.80273,19.082489],[78.80273200000001,19.082308],[78.80282699999999,19.082309],[78.80283,19.082038],[78.802925,19.08204],[78.802933,19.081498],[78.80283799999999,19.081497],[78.80283900000001,19.081406],[78.802744,19.081405],[78.802745,19.081315],[78.80265,19.081314],[78.802651,19.081223],[78.80246099999999,19.081221],[78.80246,19.081311],[78.801985,19.081306],[78.801984,19.081396],[78.801699,19.081393],[78.801698,19.081483],[78.801603,19.081482],[78.801599,19.081753],[78.801694,19.081754],[78.801692,19.081934],[78.801787,19.081936],[78.801782,19.082297],[78.801877,19.082298],[78.801875,19.082479],[78.80197,19.08248],[78.801968,19.08257],[78.802063,19.082571],[78.80206200000001,19.082661],[78.80215699999999,19.082663],[78.802155,19.082843],[78.80225,19.082844],[78.80224699999999,19.083025],[78.802532,19.083028]]],"type":"Polygon"}
 }

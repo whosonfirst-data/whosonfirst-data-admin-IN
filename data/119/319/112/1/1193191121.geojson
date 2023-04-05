@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.22344,23.6582,76.22344,23.6582",
-    "geom:latitude":23.6582,
-    "geom:longitude":76.22344,
+    "geom:bbox":"76.222634,23.656433,76.225071,23.660233",
+    "geom:latitude":23.6583,
+    "geom:longitude":76.223795,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"436",
     "gn:asciiname":"Choma",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.20344,23.6382,76.24344,23.6782",
+    "ks:ks_id":"KS67E78F19F886422787EA39D2CB8CA26C",
+    "ks:ks_name":"Chouma",
+    "ks:ks_pop":2625,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|234046",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_903101",
+    "lbl:latitude":23.658287,
+    "lbl:longitude":76.223795,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.658287,
+    "mps:longitude":76.223795,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09cb\u09ae\u09be"
@@ -41,6 +51,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03cc\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chouma"
+    ],
+    "name:eng_x_variant":[
+        "Choma"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0645\u0627"
@@ -84,7 +100,13 @@
     "name:vie_x_preferred":[
         "Choma"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1274001
+        "gn:id":1274001,
+        "ks:id":"KS67E78F19F886422787EA39D2CB8CA26C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6ec61b9fb2a1a5e237971962c7dce645",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e6057448e7ea260a108b3f98d8a09c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +133,22 @@
         }
     ],
     "wof:id":1193191121,
-    "wof:lastmodified":1636505631,
-    "wof:name":"Choma",
+    "wof:lastmodified":1680667057,
+    "wof:name":"Chouma",
     "wof:parent_id":1108696219,
     "wof:placetype":"locality",
+    "wof:population":2625,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.22344,
-    23.6582,
-    76.22344,
-    23.6582
+    76.222634,
+    23.656433,
+    76.225071,
+    23.660233
 ],
-  "geometry": {"coordinates":[76.22344,23.6582],"type":"Point"}
+  "geometry": {"coordinates":[[[76.223033,23.660231],[76.223032,23.660141],[76.22322800000001,23.660139],[76.22322699999999,23.660049],[76.223423,23.660047],[76.223422,23.659957],[76.223618,23.659955],[76.223618,23.659865],[76.223716,23.659864],[76.223715,23.659774],[76.224205,23.65977],[76.224206,23.659861],[76.22469599999999,23.659857],[76.224695,23.659766],[76.22479300000001,23.659766],[76.22478,23.658321],[76.224878,23.65832],[76.22487599999999,23.658139],[76.224974,23.658139],[76.22497300000001,23.657958],[76.225071,23.657957],[76.225065,23.657415],[76.22496700000001,23.657416],[76.224965,23.657145],[76.224867,23.657146],[76.22486499999999,23.656965],[76.224767,23.656966],[76.224766,23.656876],[76.22457,23.656877],[76.224569,23.656787],[76.224373,23.656789],[76.224373,23.656698],[76.224176,23.6567],[76.224176,23.65661],[76.22398,23.656611],[76.223979,23.656521],[76.223685,23.656523],[76.22368400000001,23.656433],[76.223096,23.656437],[76.223096,23.656528],[76.222998,23.656528],[76.22300199999999,23.65689],[76.222904,23.65689],[76.22291300000001,23.657884],[76.222815,23.657885],[76.22282300000001,23.658788],[76.222725,23.658788],[76.22273199999999,23.659511],[76.222634,23.659512],[76.22264,23.660144],[76.22273800000001,23.660143],[76.222739,23.660233],[76.223033,23.660231]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.95646,25.64492,87.95646,25.64492",
-    "geom:latitude":25.64492,
-    "geom:longitude":87.95646,
+    "geom:bbox":"87.954408,25.644023,87.957642,25.64564",
+    "geom:latitude":25.644702,
+    "geom:longitude":87.956127,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Karimganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.93646,25.62492,87.97646,25.66492",
+    "ks:ks_id":"KS5DB40AD0789742A7B21D22B614537137",
+    "ks:ks_name":"Karimganj",
+    "ks:ks_pop":493,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1010000600892700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1541224",
+    "lbl:latitude":25.644562,
+    "lbl:longitude":87.955996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.644562,
+    "mps:longitude":87.955996,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0645\u062c\u0627\u0646\u062c"
@@ -49,6 +59,9 @@
         "Kar\u012bmganj"
     ],
     "name:deu_x_preferred":[
+        "Karimganj"
+    ],
+    "name:eng_x_preferred":[
         "Karimganj"
     ],
     "name:fra_x_preferred":[
@@ -129,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u5361\u91cc\u59c6\u52a0\u6069\u6770"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014946
+        "gn:id":11014946,
+        "ks:id":"KS5DB40AD0789742A7B21D22B614537137"
     },
     "wof:country":"IN",
-    "wof:geomhash":"12fee101e3489015f4a82bf4f87c732e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8085edb1b22ca39b15b3cebaf389e2fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +175,22 @@
         }
     ],
     "wof:id":1193232073,
-    "wof:lastmodified":1577751126,
+    "wof:lastmodified":1680666453,
     "wof:name":"Karimganj",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.95645999999998,
-    25.64492000000001,
-    87.95645999999998,
-    25.64492000000001
+    87.954408,
+    25.644023,
+    87.957642,
+    25.64564
 ],
-  "geometry": {"coordinates":[87.95645999999998,25.64492000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[87.957103,25.64564],[87.957103,25.645371],[87.957373,25.645371],[87.957373,25.645101],[87.95764200000001,25.645101],[87.95764200000001,25.644562],[87.957373,25.644562],[87.957373,25.644293],[87.957103,25.644293],[87.957103,25.644023],[87.956834,25.644023],[87.956834,25.644293],[87.956564,25.644293],[87.956564,25.644023],[87.954408,25.644023],[87.954408,25.644832],[87.95548599999999,25.644832],[87.95548599999999,25.645101],[87.956025,25.645101],[87.956025,25.64564],[87.957103,25.64564]]],"type":"Polygon"}
 }

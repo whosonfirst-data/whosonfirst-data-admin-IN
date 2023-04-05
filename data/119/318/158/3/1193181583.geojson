@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.82952,23.01072,76.82952,23.01072",
-    "geom:latitude":23.01072,
-    "geom:longitude":76.82952,
+    "geom:bbox":"76.82851,23.009788,76.830866,23.01143",
+    "geom:latitude":23.010621,
+    "geom:longitude":76.829626,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"445.0",
     "gn:asciiname":"Aminpur",
@@ -24,12 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.80952,22.99072,76.84952,23.03072",
+    "ks:ks_id":"KS111E728DBBE0444DB7958A13891D74A6",
+    "ks:ks_name":"Amipur",
+    "ks:ks_pop":316,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|32830",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_893031",
+    "lbl:latitude":23.010607,
+    "lbl:longitude":76.829626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.010607,
+    "mps:longitude":76.829626,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Amipur"
+    ],
+    "name:eng_x_variant":[
+        "Aminpur"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0646\u200c\u067e\u0648\u0631"
     ],
@@ -39,7 +55,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0645\u06cc\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10799327
+        "gn:id":10799327,
+        "ks:id":"KS111E728DBBE0444DB7958A13891D74A6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"63751d602c7dbe9558ad71c704b3b2e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a3229a7d654f279c3769abad01216138",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1193181583,
-    "wof:lastmodified":1566698477,
-    "wof:name":"Aminpur",
+    "wof:lastmodified":1680666810,
+    "wof:name":"Amipur",
     "wof:parent_id":1108696233,
     "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.82952,
-    23.01072000000001,
-    76.82952,
-    23.01072000000001
+    76.82851,
+    23.009788,
+    76.830866,
+    23.01143
 ],
-  "geometry": {"coordinates":[76.82952,23.01072000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[76.83067200000001,23.011227],[76.830671,23.011136],[76.830866,23.011134],[76.830861,23.010773],[76.830763,23.010774],[76.83076,23.010503],[76.830662,23.010504],[76.830659,23.010233],[76.830561,23.010235],[76.83055899999999,23.010054],[76.830461,23.010055],[76.83046,23.009965],[76.83036199999999,23.009966],[76.830361,23.009876],[76.83016600000001,23.009878],[76.83016499999999,23.009788],[76.828799,23.009803],[76.8288,23.009894],[76.828703,23.009895],[76.828704,23.009985],[76.82860700000001,23.009986],[76.828608,23.010077],[76.82850999999999,23.010078],[76.828519,23.01071],[76.828616,23.010709],[76.828622,23.01116],[76.82872,23.011159],[76.82872399999999,23.01143],[76.83028400000001,23.011412],[76.83028299999999,23.011321],[76.830478,23.011319],[76.830477,23.011229],[76.83067200000001,23.011227]]],"type":"Polygon"}
 }

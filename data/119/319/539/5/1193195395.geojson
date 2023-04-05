@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.63117,25.09341,82.63117,25.09341",
-    "geom:latitude":25.09341,
-    "geom:longitude":82.63117,
+    "geom:bbox":"82.63073,25.092656,82.632128,25.093657",
+    "geom:latitude":25.093164,
+    "geom:longitude":82.631471,
     "gn:admin1_code":"36",
     "gn:admin2_code":"199.0",
     "gn:asciiname":"Halka",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.61117,25.07341,82.65117,25.11341",
+    "ks:ks_id":"KSCBBB6BF7A73E4D93BC7C4345BA78E141",
+    "ks:ks_name":"Halka",
+    "ks:ks_pop":537,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|394102",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1906973",
+    "lbl:latitude":25.093168,
+    "lbl:longitude":82.631471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.093168,
+    "mps:longitude":82.631471,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Halka"
     ],
     "name:deu_x_preferred":[
+        "Halka"
+    ],
+    "name:eng_x_preferred":[
         "Halka"
     ],
     "name:epo_x_preferred":[
@@ -60,7 +73,13 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u044c\u043a\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10545893
+        "gn:id":10545893,
+        "ks:id":"KSCBBB6BF7A73E4D93BC7C4345BA78E141"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d077c5ce4e4f6937a8b91ecaf8493faf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"15322cfa5f2d73dbea44ae3426b72842",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1193195395,
-    "wof:lastmodified":1566698810,
+    "wof:lastmodified":1680667024,
     "wof:name":"Halka",
     "wof:parent_id":1108695885,
     "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.63117,
-    25.09341,
-    82.63117,
-    25.09341
+    82.63073,
+    25.092656,
+    82.632128,
+    25.093657
 ],
-  "geometry": {"coordinates":[82.63117,25.09341],"type":"Point"}
+  "geometry": {"coordinates":[[[82.63133500000001,25.093655],[82.631334,25.093565],[82.631433,25.093564],[82.631434,25.093654],[82.631533,25.093653],[82.631531,25.093472],[82.63163,25.093471],[82.631631,25.093562],[82.631829,25.093559],[82.631828,25.093469],[82.632026,25.093467],[82.632029,25.093648],[82.63212799999999,25.093646],[82.63211699999999,25.092834],[82.632018,25.092835],[82.632017,25.092745],[82.631918,25.092746],[82.631916,25.092656],[82.63171800000001,25.092658],[82.631719,25.092748],[82.63152100000001,25.09275],[82.631522,25.092841],[82.63112599999999,25.092845],[82.631125,25.092755],[82.630926,25.092757],[82.630928,25.092847],[82.63082799999999,25.092848],[82.63083,25.092938],[82.63073,25.09294],[82.630735,25.093301],[82.63083399999999,25.0933],[82.630836,25.09339],[82.63093499999999,25.093389],[82.63093600000001,25.093479],[82.631035,25.093478],[82.63103599999999,25.093568],[82.631135,25.093567],[82.631137,25.093657],[82.63133500000001,25.093655]]],"type":"Polygon"}
 }

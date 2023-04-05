@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.77253,24.06744,79.77253,24.06744",
-    "geom:latitude":24.06744,
-    "geom:longitude":79.77253,
+    "geom:bbox":"79.771793,24.066295,79.774441,24.068658",
+    "geom:latitude":24.067548,
+    "geom:longitude":79.772951,
     "gn:admin1_code":"35",
     "gn:admin2_code":"426.0",
     "gn:asciiname":"Bari",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.75253,24.04744,79.79253,24.08744",
+    "ks:ks_alt_nam":"B\u0101ri",
+    "ks:ks_id":"KS2EB29742269D42F1B511A2206DA5C523",
+    "ks:ks_name":"Bari",
+    "ks:ks_pop":1199,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13186788",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1014658",
+    "lbl:latitude":24.067502,
+    "lbl:longitude":79.772794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.067502,
+    "mps:longitude":79.772794,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bari"
@@ -104,6 +115,12 @@
     ],
     "name:eml_x_preferred":[
         "Bari"
+    ],
+    "name:eng_x_preferred":[
+        "Bari"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101ri"
     ],
     "name:epo_x_preferred":[
         "Bari"
@@ -360,7 +377,13 @@
     "name:yor_x_preferred":[
         "Bari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -369,10 +392,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10743641
+        "gn:id":10743641,
+        "ks:id":"KS2EB29742269D42F1B511A2206DA5C523"
     },
     "wof:country":"IN",
-    "wof:geomhash":"66621ba99a5757f9ed744ba40542457a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6f5a0be0dcae3ae107c3b2401a0c3450",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,20 +410,22 @@
         }
     ],
     "wof:id":1193222805,
-    "wof:lastmodified":1577751132,
+    "wof:lastmodified":1680666487,
     "wof:name":"Bari",
     "wof:parent_id":890507435,
     "wof:placetype":"locality",
+    "wof:population":1199,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.77253,
-    24.06744,
-    79.77253,
-    24.06744
+    79.771793,
+    24.066295,
+    79.774441,
+    24.068658
 ],
-  "geometry": {"coordinates":[79.77253,24.06744],"type":"Point"}
+  "geometry": {"coordinates":[[[79.77367099999999,24.066846],[79.773673,24.066665],[79.773574,24.066665],[79.77357499999999,24.066574],[79.773477,24.066574],[79.773478,24.066483],[79.77337900000001,24.066482],[79.77338,24.066392],[79.773183,24.066391],[79.773184,24.0663],[79.772496,24.066295],[79.77249500000001,24.066385],[79.77229800000001,24.066383],[79.77229699999999,24.066474],[79.77210100000001,24.066472],[79.77209999999999,24.066562],[79.772002,24.066562],[79.772001,24.066652],[79.771902,24.066651],[79.771901,24.066741],[79.77180300000001,24.066741],[79.771793,24.067824],[79.771891,24.067825],[79.771889,24.068096],[79.771987,24.068097],[79.771986,24.068187],[79.77208400000001,24.068188],[79.77208400000001,24.068278],[79.772182,24.068279],[79.772181,24.068369],[79.772279,24.06837],[79.772278,24.06846],[79.77257400000001,24.068463],[79.77257299999999,24.068553],[79.772868,24.068555],[79.77286700000001,24.068646],[79.77444,24.068658],[79.774441,24.068568],[79.774343,24.068567],[79.774344,24.068477],[79.77424499999999,24.068476],[79.77424600000001,24.068386],[79.774148,24.068385],[79.774154,24.067753],[79.774056,24.067752],[79.774057,24.067572],[79.773762,24.067569],[79.773769,24.066847],[79.77367099999999,24.066846]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.58003,22.67436,82.58003,22.67436",
-    "geom:latitude":22.67436,
-    "geom:longitude":82.58003,
+    "geom:bbox":"82.576913,22.673654,82.577721,22.675001",
+    "geom:latitude":22.674328,
+    "geom:longitude":82.577317,
     "gn:admin1_code":"37",
     "gn:admin2_code":"404.0",
     "gn:asciiname":"Sarbhonka",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.56003,22.65436,82.60003,22.69436",
+    "ks:ks_id":"KSAE09B8B2E9FD44D0A598B65AC124A541",
+    "ks:ks_name":"Sarbhoka",
+    "ks:ks_pop":996,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|956954",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1028852",
+    "lbl:latitude":22.674328,
+    "lbl:longitude":82.577317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.674328,
+    "mps:longitude":82.577317,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sarbhoka"
+    ],
+    "name:eng_x_variant":[
+        "Sarbhonka"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10705769
+        "gn:id":10705769,
+        "ks:id":"KSAE09B8B2E9FD44D0A598B65AC124A541"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7f80e34b7aedc1f4f2f90b3f3f33bcc2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e86c7b538ddd9ad585990fcb7c8656b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1193202897,
-    "wof:lastmodified":1566698349,
-    "wof:name":"Sarbhonka",
+    "wof:lastmodified":1680666724,
+    "wof:name":"Sarbhoka",
     "wof:parent_id":890511347,
     "wof:placetype":"locality",
+    "wof:population":996,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.58003000000002,
-    22.67436,
-    82.58003000000002,
-    22.67436
+    82.576913,
+    22.673654,
+    82.577721,
+    22.675001
 ],
-  "geometry": {"coordinates":[82.58003000000002,22.67436],"type":"Point"}
+  "geometry": {"coordinates":[[[82.577721,22.673654],[82.576913,22.673654],[82.576913,22.675001],[82.577721,22.675001],[82.577721,22.673654]]],"type":"Polygon"}
 }

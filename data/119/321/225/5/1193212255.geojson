@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.30553,27.76091,77.30553,27.76091",
-    "geom:latitude":27.76091,
-    "geom:longitude":77.30553,
+    "geom:bbox":"77.304893,27.760129,77.306427,27.761581",
+    "geom:latitude":27.760882,
+    "geom:longitude":77.30563,
     "gn:admin1_code":"36",
     "gn:asciiname":"Bambari",
     "gn:country_code":"IN",
@@ -23,11 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.28553,27.74091,77.32553,27.78091",
+    "ks:ks_id":"KS877E8D83EF3743B491F5AA9933E2D944",
+    "ks:ks_name":"Bambadi",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|84810",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1804641",
+    "lbl:latitude":27.760896,
+    "lbl:longitude":77.305645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.760896,
+    "mps:longitude":77.305645,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0645\u0628\u0627\u0631\u064a"
@@ -45,6 +55,12 @@
         "Bambari"
     ],
     "name:deu_x_preferred":[
+        "Bambari"
+    ],
+    "name:eng_x_preferred":[
+        "Bambadi"
+    ],
+    "name:eng_x_variant":[
         "Bambari"
     ],
     "name:est_x_preferred":[
@@ -125,7 +141,13 @@
     "name:zho_x_preferred":[
         "\u73ed\u5df4\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -134,10 +156,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10437289
+        "gn:id":10437289,
+        "ks:id":"KS877E8D83EF3743B491F5AA9933E2D944"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0dbdfe7906e80ddc5e8235243bedfac9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4f96230452d3864f9b999347d6e013fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,20 +174,22 @@
         }
     ],
     "wof:id":1193212255,
-    "wof:lastmodified":1636505634,
-    "wof:name":"Bambari",
+    "wof:lastmodified":1680667132,
+    "wof:name":"Bambadi",
     "wof:parent_id":890505293,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.30553,
-    27.76091,
-    77.30553,
-    27.76091
+    77.304893,
+    27.760129,
+    77.306427,
+    27.761581
 ],
-  "geometry": {"coordinates":[77.30553,27.76091],"type":"Point"}
+  "geometry": {"coordinates":[[[77.30613,27.761476],[77.306128,27.761386],[77.30623,27.761384],[77.306228,27.761294],[77.30632900000001,27.761292],[77.306326,27.761112],[77.306427,27.76111],[77.30641900000001,27.760749],[77.306318,27.760751],[77.306314,27.76057],[77.306213,27.760572],[77.306211,27.760482],[77.30610900000001,27.760484],[77.30610799999999,27.760393],[77.306006,27.760395],[77.306004,27.760305],[77.305801,27.760308],[77.30579899999999,27.760218],[77.30569800000001,27.76022],[77.305696,27.760129],[77.305291,27.760136],[77.30529199999999,27.760226],[77.30519099999999,27.760228],[77.305193,27.760318],[77.305092,27.76032],[77.305094,27.76041],[77.304992,27.760412],[77.30499399999999,27.760502],[77.30489300000001,27.760504],[77.30490399999999,27.761045],[77.30500499999999,27.761043],[77.305009,27.761224],[77.305111,27.761222],[77.305114,27.761402],[77.305216,27.761401],[77.30522000000001,27.761581],[77.30592900000001,27.761569],[77.30592799999999,27.761479],[77.30613,27.761476]]],"type":"Polygon"}
 }

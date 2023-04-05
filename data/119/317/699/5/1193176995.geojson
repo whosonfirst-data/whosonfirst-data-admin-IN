@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.81553,25.24151,82.81553,25.24151",
-    "geom:latitude":25.24151,
-    "geom:longitude":82.81553,
+    "geom:bbox":"82.816553,25.234947,82.817456,25.236038",
+    "geom:latitude":25.235495,
+    "geom:longitude":82.817021,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Kanakpur",
@@ -24,14 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.79553,25.22151,82.83553,25.26151",
+    "ks:ks_alt_nam":"KANAKPUR",
+    "ks:ks_id":"KSF8F8965E75AB4FD3A1FE52B7689BA1E9",
+    "ks:ks_name":"Kanakpur",
+    "ks:ks_pop":881,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|413329",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1909300",
+    "lbl:latitude":25.235486,
+    "lbl:longitude":82.817012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.235486,
+    "mps:longitude":82.817012,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kakanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kanakpur"
     ],
     "name:fra_x_preferred":[
         "Kakanpur"
@@ -51,7 +65,13 @@
     "name:pol_x_preferred":[
         "Kakanpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547993
+        "gn:id":10547993,
+        "ks:id":"KSF8F8965E75AB4FD3A1FE52B7689BA1E9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e09cc8c0aae01c3cf032e28f1c4456a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"713e4c183009e3325ec45e533dbf319b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +98,22 @@
         }
     ],
     "wof:id":1193176995,
-    "wof:lastmodified":1566698695,
+    "wof:lastmodified":1680666948,
     "wof:name":"Kanakpur",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.81553000000002,
-    25.24151,
-    82.81553000000002,
-    25.24151
+    82.816553,
+    25.234947,
+    82.817456,
+    25.236038
 ],
-  "geometry": {"coordinates":[82.81553000000002,25.24151],"type":"Point"}
+  "geometry": {"coordinates":[[[82.81716,25.236033],[82.81715800000001,25.235942],[82.81745600000001,25.235939],[82.817455,25.235849],[82.81735500000001,25.23585],[82.817347,25.235308],[82.817447,25.235307],[82.817443,25.235036],[82.81734299999999,25.235037],[82.817342,25.234947],[82.817044,25.234951],[82.817046,25.235041],[82.816748,25.235045],[82.816749,25.235135],[82.81665,25.235136],[82.816653,25.235317],[82.816553,25.235318],[82.81655600000001,25.235499],[82.816655,25.235497],[82.81666199999999,25.235949],[82.816761,25.235947],[82.81676299999999,25.236038],[82.81716,25.236033]]],"type":"Polygon"}
 }

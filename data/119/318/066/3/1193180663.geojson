@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.12901,26.92092,82.12901,26.92092",
-    "geom:latitude":26.92092,
-    "geom:longitude":82.12901,
+    "geom:bbox":"82.128474,26.920349,82.129282,26.921697",
+    "geom:latitude":26.921023,
+    "geom:longitude":82.128878,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Havelia",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.10901,26.90092,82.14901,26.94092",
+    "ks:ks_id":"KS009FD16C61B0408EADE4AE08F103AE36",
+    "ks:ks_name":"Haveliya",
+    "ks:ks_pop":265,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|418054",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1439708",
+    "lbl:latitude":26.921023,
+    "lbl:longitude":82.128878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.921023,
+    "mps:longitude":82.128878,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Haveliya"
+    ],
+    "name:eng_x_variant":[
+        "Havelia"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10606009
+        "gn:id":10606009,
+        "ks:id":"KS009FD16C61B0408EADE4AE08F103AE36"
     },
     "wof:country":"IN",
-    "wof:geomhash":"027945d6ccef8f827fc84b09ca6e5dd6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd18a00ed465eecd183895ee2ad29daa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1193180663,
-    "wof:lastmodified":1566698569,
-    "wof:name":"Havelia",
+    "wof:lastmodified":1680666873,
+    "wof:name":"Haveliya",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.12901,
-    26.92092,
-    82.12901,
-    26.92092
+    82.128474,
+    26.920349,
+    82.129282,
+    26.921697
 ],
-  "geometry": {"coordinates":[82.12900999999999,26.92092],"type":"Point"}
+  "geometry": {"coordinates":[[[82.129282,26.920349],[82.128474,26.920349],[82.128474,26.921697],[82.129282,26.921697],[82.129282,26.920349]]],"type":"Polygon"}
 }

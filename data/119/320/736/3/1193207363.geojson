@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.27678,28.09023,79.27678,28.09023",
-    "geom:latitude":28.09023,
-    "geom:longitude":79.27678,
+    "geom:bbox":"79.273514,28.089982,79.275877,28.092055",
+    "geom:latitude":28.09099,
+    "geom:longitude":79.274676,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"149.0",
     "gn:asciiname":"Ballia",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.25678,28.07023,79.29678,28.11023",
+    "ks:ks_id":"KS8D9A81E4899E4038BF68163F6AEBC55C",
+    "ks:ks_name":"Balliya",
+    "ks:ks_pop":182,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|82765",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1810051",
+    "lbl:latitude":28.090969,
+    "lbl:longitude":79.274653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.090969,
+    "mps:longitude":79.274653,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0627"
@@ -52,6 +62,12 @@
         "Ballia"
     ],
     "name:deu_x_preferred":[
+        "Ballia"
+    ],
+    "name:eng_x_preferred":[
+        "Balliya"
+    ],
+    "name:eng_x_variant":[
         "Ballia"
     ],
     "name:fra_x_preferred":[
@@ -126,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5229\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10823687
+        "gn:id":10823687,
+        "ks:id":"KS8D9A81E4899E4038BF68163F6AEBC55C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"015ebfeff920b53a2ef83d910d4a6a91",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d5659aa7e39870d23db9fac1b532c063",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1193207363,
-    "wof:lastmodified":1577751172,
-    "wof:name":"Ballia",
+    "wof:lastmodified":1680666717,
+    "wof:name":"Balliya",
     "wof:parent_id":890508873,
     "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.27678,
-    28.09023,
-    79.27678,
-    28.09023
+    79.273514,
+    28.089982,
+    79.275877,
+    28.092055
 ],
-  "geometry": {"coordinates":[79.27678,28.09023],"type":"Point"}
+  "geometry": {"coordinates":[[[79.274931,28.092055],[79.27493200000001,28.091965],[79.274946,28.091965],[79.27503400000001,28.091966],[79.275036,28.091876],[79.275137,28.091877],[79.275142,28.091606],[79.275243,28.091608],[79.275248,28.091337],[79.27534900000001,28.091338],[79.275352,28.091158],[79.275454,28.091159],[79.275457,28.090979],[79.27566,28.090981],[79.27566299999999,28.090801],[79.27576500000001,28.090802],[79.275768,28.090622],[79.27587,28.090623],[79.27587699999999,28.090172],[79.275775,28.09017],[79.27577700000001,28.09008],[79.27567500000001,28.090079],[79.275676,28.089989],[79.27516799999999,28.089982],[79.275166,28.090072],[79.274946,28.09007],[79.274861,28.090069],[79.27485900000001,28.090159],[79.274351,28.090152],[79.274349,28.090243],[79.274248,28.090241],[79.27424600000001,28.090332],[79.27404300000001,28.090329],[79.27404,28.09051],[79.273836,28.090507],[79.27383500000001,28.090597],[79.27373299999999,28.090596],[79.273732,28.090686],[79.27363,28.090685],[79.273617,28.091497],[79.273515,28.091496],[79.27351400000001,28.091586],[79.27361500000001,28.091587],[79.27361399999999,28.091677],[79.27371599999999,28.091679],[79.273714,28.091769],[79.273816,28.09177],[79.273815,28.09186],[79.274018,28.091863],[79.274017,28.091953],[79.274322,28.091957],[79.27432,28.092047],[79.274931,28.092055]]],"type":"Polygon"}
 }

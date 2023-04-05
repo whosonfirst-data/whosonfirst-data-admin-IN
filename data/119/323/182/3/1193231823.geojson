@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.67312,24.87769,85.67312,24.87769",
-    "geom:latitude":24.87769,
-    "geom:longitude":85.67312,
+    "geom:bbox":"85.67098,24.875155,85.675023,24.879737",
+    "geom:latitude":24.877625,
+    "geom:longitude":85.673235,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Marra",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.65312,24.85769,85.69312,24.89769",
+    "ks:ks_id":"KSF30910B5157C48B289E93C29D466CC0A",
+    "ks:ks_name":"Marra",
+    "ks:ks_pop":3443,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13359852",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1325977",
+    "lbl:latitude":24.877869,
+    "lbl:longitude":85.673398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.877869,
+    "mps:longitude":85.673398,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marra"
     ],
     "name:deu_x_preferred":[
+        "Marra"
+    ],
+    "name:eng_x_preferred":[
         "Marra"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +58,13 @@
     "name:swe_x_preferred":[
         "Marra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885542
+        "gn:id":10885542,
+        "ks:id":"KSF30910B5157C48B289E93C29D466CC0A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6817519cc0d951114a00549669c1bdbc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dd06bfdfeebcc58da71c40ee39e717c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1193231823,
-    "wof:lastmodified":1566697918,
+    "wof:lastmodified":1680666463,
     "wof:name":"Marra",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":3443,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.67312,
-    24.87769,
-    85.67312,
-    24.87769
+    85.67098,
+    24.875155,
+    85.675023,
+    24.879737
 ],
-  "geometry": {"coordinates":[85.67312,24.87769],"type":"Point"}
+  "geometry": {"coordinates":[[[85.67232799999999,24.879737],[85.67232799999999,24.879198],[85.675023,24.879198],[85.675023,24.878659],[85.674753,24.878659],[85.674753,24.87812],[85.675023,24.87812],[85.675023,24.876503],[85.67448400000001,24.876503],[85.67448400000001,24.875425],[85.673945,24.875425],[85.673945,24.875155],[85.673136,24.875155],[85.673136,24.875425],[85.672867,24.875425],[85.672867,24.875964],[85.672597,24.875964],[85.672597,24.876772],[85.671789,24.876772],[85.671789,24.877042],[85.671519,24.877042],[85.671519,24.877311],[85.67125,24.877311],[85.67125,24.87812],[85.671789,24.87812],[85.671789,24.878659],[85.671519,24.878659],[85.671519,24.879198],[85.67098,24.879198],[85.67098,24.879737],[85.67232799999999,24.879737]]],"type":"Polygon"}
 }

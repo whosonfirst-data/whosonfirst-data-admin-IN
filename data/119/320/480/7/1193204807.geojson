@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.91651,25.12082,84.91651,25.12082",
-    "geom:latitude":25.12082,
-    "geom:longitude":84.91651,
+    "geom:bbox":"84.915857,25.120395,84.916935,25.120934",
+    "geom:latitude":25.120664,
+    "geom:longitude":84.916396,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"239.0",
     "gn:asciiname":"Sukna Bigha",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.89651,25.10082,84.93651,25.14082",
+    "ks:ks_id":"KS361E22F48D0B4D05A7E6832BA3062CB3",
+    "ks:ks_name":"Sukna Bigha",
+    "ks:ks_pop":662,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13283132",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1332844",
+    "lbl:latitude":25.120665,
+    "lbl:longitude":84.916396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.120665,
+    "mps:longitude":84.916396,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sukna Bigha"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10834020
+        "gn:id":10834020,
+        "ks:id":"KS361E22F48D0B4D05A7E6832BA3062CB3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7cbcfd5e4919ad053acdf1604357f408",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bb2821579808004251d89e1563f63e64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1193204807,
-    "wof:lastmodified":1566698423,
+    "wof:lastmodified":1680666774,
     "wof:name":"Sukna Bigha",
     "wof:parent_id":1108695953,
     "wof:placetype":"locality",
+    "wof:population":662,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.91651,
-    25.12082,
-    84.91651,
-    25.12082
+    84.915857,
+    25.120395,
+    84.916935,
+    25.120934
 ],
-  "geometry": {"coordinates":[84.91651,25.12082],"type":"Point"}
+  "geometry": {"coordinates":[[[84.916935,25.120395],[84.915857,25.120395],[84.915857,25.120934],[84.916935,25.120934],[84.916935,25.120395]]],"type":"Polygon"}
 }
