@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.71641,26.40678,82.71641,26.40678",
-    "geom:latitude":26.40678,
-    "geom:longitude":82.71641,
+    "geom:bbox":"82.715432,26.406031,82.717242,26.407753",
+    "geom:latitude":26.406923,
+    "geom:longitude":82.716329,
     "gn:admin1_code":"36",
     "gn:admin2_code":"178.0",
     "gn:asciiname":"Ibrahimpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.69641,26.38678,82.73641,26.42678",
+    "ks:ks_alt_nam":"\u012abr\u0101h\u012bmpur",
+    "ks:ks_id":"KS20D302C81C4946A3952BC85AB334087E",
+    "ks:ks_name":"Ibrahimpur",
+    "ks:ks_pop":160,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|429996",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1959418",
+    "lbl:latitude":26.406887,
+    "lbl:longitude":82.716312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.406887,
+    "mps:longitude":82.716312,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0987\u09ac\u09cd\u09b0\u09be\u09b9\u09bf\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ibrahimpur"
+    ],
+    "name:eng_x_variant":[
+        "\u012abr\u0101h\u012bmpur"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aac\u0acd\u0ab0\u0abe\u0ab9\u0ac0\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0628\u0631\u0627\u06c1\u06cc\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10622025
+        "gn:id":10622025,
+        "ks:id":"KS20D302C81C4946A3952BC85AB334087E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"643d549ff9c29e4ad9ae535d68bb07a1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ecb838bbc619bcc18becc0ea7f8a288",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1192957511,
-    "wof:lastmodified":1577751113,
+    "wof:lastmodified":1680666374,
     "wof:name":"Ibrahimpur",
     "wof:parent_id":1108695849,
     "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.71641,
-    26.40678,
-    82.71641,
-    26.40678
+    82.715432,
+    26.406031,
+    82.717242,
+    26.407753
 ],
-  "geometry": {"coordinates":[82.71641,26.40678],"type":"Point"}
+  "geometry": {"coordinates":[[[82.716954,26.407743],[82.716953,26.407653],[82.71705300000001,26.407652],[82.71705,26.407471],[82.717151,26.40747],[82.717141,26.406838],[82.717242,26.406837],[82.71724,26.406747],[82.71714,26.406748],[82.717136,26.406477],[82.71703599999999,26.406479],[82.717033,26.406298],[82.716933,26.406299],[82.716931,26.406209],[82.716831,26.40621],[82.71683,26.40612],[82.71673,26.406121],[82.716728,26.406031],[82.716528,26.406033],[82.71652899999999,26.406124],[82.71592800000001,26.406131],[82.715929,26.406221],[82.715729,26.406223],[82.71572999999999,26.406314],[82.71553,26.406316],[82.715532,26.406497],[82.71543200000001,26.406498],[82.71544400000001,26.40731],[82.71554399999999,26.407309],[82.715546,26.407399],[82.71564600000001,26.407398],[82.715647,26.407488],[82.71574699999999,26.407487],[82.715749,26.407577],[82.71584900000001,26.407576],[82.71585,26.407666],[82.716151,26.407663],[82.71615199999999,26.407753],[82.716954,26.407743]]],"type":"Polygon"}
 }

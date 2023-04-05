@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.79184,26.16302,87.79184,26.16302",
-    "geom:latitude":26.16302,
-    "geom:longitude":87.79184,
+    "geom:bbox":"87.790234,26.161964,87.792446,26.164671",
+    "geom:latitude":26.163255,
+    "geom:longitude":87.791365,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"210.0",
     "gn:asciiname":"Gurgaon",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.77184,26.14302,87.81184,26.18302",
+    "ks:ks_id":"KS37FB3CB25AD849009F3684C71B37F4F5",
+    "ks:ks_name":"Gurgaon",
+    "ks:ks_pop":4910,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13494011",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2123785",
+    "lbl:latitude":26.163148,
+    "lbl:longitude":87.791386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.163148,
+    "mps:longitude":87.791386,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u062c\u0627\u0648\u0646"
@@ -55,6 +65,9 @@
         "Gurg\u00e1on"
     ],
     "name:deu_x_preferred":[
+        "Gurgaon"
+    ],
+    "name:eng_x_preferred":[
         "Gurgaon"
     ],
     "name:epo_x_preferred":[
@@ -180,7 +193,13 @@
     "name:zho_x_preferred":[
         "\u53e4\u723e\u5ca1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -189,10 +208,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10989508
+        "gn:id":10989508,
+        "ks:id":"KS37FB3CB25AD849009F3684C71B37F4F5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58896df86d81b57cd60fd2e78ccb379b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"055646329f6eb6da05d81f43e5a79b99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,20 +226,22 @@
         }
     ],
     "wof:id":1192972215,
-    "wof:lastmodified":1566698236,
+    "wof:lastmodified":1680666658,
     "wof:name":"Gurgaon",
     "wof:parent_id":890505789,
     "wof:placetype":"locality",
+    "wof:population":4910,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.79184000000002,
-    26.16302,
-    87.79184000000002,
-    26.16302
+    87.790234,
+    26.161964,
+    87.792446,
+    26.164671
 ],
-  "geometry": {"coordinates":[87.79184000000002,26.16302],"type":"Point"}
+  "geometry": {"coordinates":[[[87.792446,26.164668],[87.792445,26.164488],[87.792345,26.164488],[87.792342,26.164037],[87.792242,26.164037],[87.79223399999999,26.162773],[87.79213300000001,26.162774],[87.792132,26.162593],[87.79203200000001,26.162594],[87.79203099999999,26.162413],[87.79193100000001,26.162414],[87.79192999999999,26.162323],[87.79183,26.162324],[87.79183,26.162234],[87.79173,26.162234],[87.791729,26.162144],[87.791629,26.162144],[87.791628,26.162054],[87.791528,26.162055],[87.791528,26.161964],[87.790527,26.16197],[87.79052799999999,26.16206],[87.79042800000001,26.162061],[87.790432,26.162693],[87.79033200000001,26.162693],[87.790334,26.162964],[87.790234,26.162965],[87.790237,26.163416],[87.79033699999999,26.163416],[87.79033699999999,26.163506],[87.790437,26.163505],[87.79043799999999,26.163596],[87.790638,26.163595],[87.790639,26.163685],[87.790739,26.163684],[87.790739,26.163775],[87.79084,26.163774],[87.79084,26.163864],[87.79094000000001,26.163864],[87.790941,26.164044],[87.79104100000001,26.164044],[87.791043,26.164315],[87.79114300000001,26.164314],[87.791145,26.164495],[87.79134500000001,26.164494],[87.79134500000001,26.164584],[87.791946,26.164581],[87.791946,26.164671],[87.792446,26.164668]]],"type":"Polygon"}
 }

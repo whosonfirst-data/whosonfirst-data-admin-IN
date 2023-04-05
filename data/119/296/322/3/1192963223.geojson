@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000022,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.20882,25.5095,86.20882,25.5095",
-    "geom:latitude":25.5095,
-    "geom:longitude":86.20882,
+    "geom:bbox":"86.20431,25.514666,86.211048,25.521673",
+    "geom:latitude":25.518324,
+    "geom:longitude":86.207602,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Hasanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.18882,25.4895,86.22882,25.5295",
+    "ks:ks_id":"KSB5E555A013AC42DA9EB2FC8A4E4AC930",
+    "ks:ks_name":"Hasanpur",
+    "ks:ks_pop":4004,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|415104",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1528571",
+    "lbl:latitude":25.519419,
+    "lbl:longitude":86.208775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.519419,
+    "mps:longitude":86.208775,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0633\u0646 \u0628\u0648\u0631"
@@ -49,6 +59,9 @@
         "Hasanpur"
     ],
     "name:deu_x_preferred":[
+        "Hasanpur"
+    ],
+    "name:eng_x_preferred":[
         "Hasanpur"
     ],
     "name:fas_x_preferred":[
@@ -111,7 +124,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u6851\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10894145
+        "gn:id":10894145,
+        "ks:id":"KSB5E555A013AC42DA9EB2FC8A4E4AC930"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fa24e2bc219309cd1395f73c80bd0db2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f2a5379679f5045282a8977ec0659397",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +157,22 @@
         }
     ],
     "wof:id":1192963223,
-    "wof:lastmodified":1577751155,
+    "wof:lastmodified":1680666625,
     "wof:name":"Hasanpur",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":4004,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.20881999999997,
-    25.5095,
-    86.20881999999997,
-    25.5095
+    86.20431,
+    25.514666,
+    86.211048,
+    25.521673
 ],
-  "geometry": {"coordinates":[86.20881999999997,25.5095],"type":"Point"}
+  "geometry": {"coordinates":[[[86.208353,25.521673],[86.208353,25.520864],[86.20916099999999,25.520864],[86.20916099999999,25.521134],[86.21104800000001,25.521134],[86.21104800000001,25.520595],[86.210509,25.520595],[86.210509,25.520056],[86.210239,25.520056],[86.210239,25.519247],[86.210509,25.519247],[86.210509,25.518978],[86.210239,25.518978],[86.210239,25.518169],[86.20997,25.518169],[86.20997,25.5179],[86.2097,25.5179],[86.2097,25.517361],[86.20862200000001,25.517361],[86.20862200000001,25.5179],[86.207814,25.5179],[86.207814,25.517091],[86.208083,25.517091],[86.208083,25.516283],[86.207275,25.516283],[86.207275,25.516013],[86.208083,25.516013],[86.208083,25.515744],[86.207814,25.515744],[86.207814,25.514666],[86.207005,25.514666],[86.207005,25.515205],[86.20646600000001,25.515205],[86.20646600000001,25.515744],[86.20431000000001,25.515744],[86.20431000000001,25.516552],[86.204849,25.516552],[86.204849,25.517361],[86.205388,25.517361],[86.205388,25.518439],[86.204849,25.518439],[86.204849,25.518978],[86.205388,25.518978],[86.205388,25.519517],[86.207005,25.519517],[86.207005,25.520056],[86.207544,25.520056],[86.207544,25.521673],[86.208353,25.521673]]],"type":"Polygon"}
 }
