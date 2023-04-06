@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.42993,27.10278,79.42993,27.10278",
-    "geom:latitude":27.10278,
-    "geom:longitude":79.42993,
+    "geom:bbox":"79.429233,27.101974,79.430753,27.103416",
+    "geom:latitude":27.102711,
+    "geom:longitude":79.429937,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Alipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.40993,27.08278,79.44993,27.12278",
+    "ks:ks_id":"KSF69B2168940447459D7B83AD982D41DA",
+    "ks:ks_name":"Alippur",
+    "ks:ks_pop":500,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|25712",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1745763",
+    "lbl:latitude":27.102695,
+    "lbl:longitude":79.429875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.102695,
+    "mps:longitude":79.429875,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0631"
@@ -43,6 +53,12 @@
         "Alipur"
     ],
     "name:ceb_x_preferred":[
+        "Alipur"
+    ],
+    "name:eng_x_preferred":[
+        "Alippur"
+    ],
+    "name:eng_x_variant":[
         "Alipur"
     ],
     "name:guj_x_preferred":[
@@ -75,16 +91,26 @@
     "name:urd_x_preferred":[
         "\u0639\u0644\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6993853
+        "gn:id":6993853,
+        "ks:id":"KSF69B2168940447459D7B83AD982D41DA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cb980a059d5f4077dd2e920e79bf10bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"378bb4955575b3a76d6eb94314fbbe8e",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1209467293,
-    "wof:lastmodified":1577750785,
-    "wof:name":"Alipur",
+    "wof:lastmodified":1680661524,
+    "wof:name":"Alippur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.42993,
-    27.10278,
-    79.42993,
-    27.10278
+    79.429233,
+    27.101974,
+    79.430753,
+    27.103416
 ],
-  "geometry": {"coordinates":[79.42993,27.10278],"type":"Point"}
+  "geometry": {"coordinates":[[[79.429833,27.103416],[79.429834,27.103326],[79.430137,27.10333],[79.430138,27.103239],[79.43034,27.103242],[79.430341,27.103151],[79.430543,27.103154],[79.430544,27.103063],[79.430645,27.103064],[79.430646,27.102974],[79.430747,27.102975],[79.430753,27.102524],[79.43065199999999,27.102523],[79.43065300000001,27.102433],[79.430553,27.102432],[79.430554,27.102341],[79.430453,27.10234],[79.430454,27.10225],[79.430353,27.102249],[79.43035500000001,27.102159],[79.43025400000001,27.102157],[79.430255,27.102067],[79.430053,27.102065],[79.430055,27.101975],[79.429954,27.101974],[79.429953,27.102064],[79.42954899999999,27.102059],[79.429548,27.10215],[79.429447,27.102148],[79.429446,27.102239],[79.429345,27.102238],[79.429344,27.102328],[79.429243,27.102327],[79.429233,27.103049],[79.429334,27.10305],[79.42932999999999,27.103321],[79.429632,27.103324],[79.429631,27.103414],[79.429833,27.103416]]],"type":"Polygon"}
 }

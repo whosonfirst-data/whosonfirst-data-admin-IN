@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.08172,20.39565,79.08172,20.39565",
-    "geom:latitude":20.39565,
-    "geom:longitude":79.08172,
+    "geom:bbox":"79.080962,20.394579,79.083164,20.396567",
+    "geom:latitude":20.395636,
+    "geom:longitude":79.08194,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Kem",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.06172,20.37565,79.10172,20.41565",
+    "ks:ks_id":"KS7C799CBC6EC84743BC2B86C6A7EC8043",
+    "ks:ks_name":"Kem",
+    "ks:ks_pop":442,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|532188",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870811",
+    "lbl:latitude":20.395655,
+    "lbl:longitude":79.081919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.395655,
+    "mps:longitude":79.081919,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645"
@@ -44,6 +54,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Kem"
     ],
     "name:fin_x_preferred":[
         "Kem"
@@ -108,16 +121,26 @@
     "name:vie_x_variant":[
         "Kem"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519519
+        "gn:id":10519519,
+        "ks:id":"KS7C799CBC6EC84743BC2B86C6A7EC8043"
     },
     "wof:country":"IN",
-    "wof:geomhash":"beed370d64fde0d074870ac1b4a2af2d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bc2004480d9d243efcbdf5f2b102459a",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -125,20 +148,22 @@
         }
     ],
     "wof:id":1209387097,
-    "wof:lastmodified":1636505510,
+    "wof:lastmodified":1680661029,
     "wof:name":"Kem",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.08172,
-    20.39565,
-    79.08172,
-    20.39565
+    79.080962,
+    20.394579,
+    79.083164,
+    20.396567
 ],
-  "geometry": {"coordinates":[79.08172,20.39565],"type":"Point"}
+  "geometry": {"coordinates":[[[79.081818,20.396567],[79.081819,20.396477],[79.082202,20.396481],[79.08220300000001,20.396391],[79.083161,20.396401],[79.083164,20.39613],[79.083068,20.396129],[79.083071,20.395949],[79.082975,20.395947],[79.082977,20.395767],[79.082881,20.395766],[79.082883,20.395585],[79.08278799999999,20.395584],[79.08279,20.395404],[79.082694,20.395402],[79.082696,20.395222],[79.082601,20.395221],[79.082604,20.39495],[79.082508,20.394949],[79.082509,20.394858],[79.082413,20.394857],[79.082415,20.394767],[79.082319,20.394766],[79.08232,20.394676],[79.082224,20.394675],[79.08222499999999,20.394584],[79.081746,20.394579],[79.081745,20.394669],[79.081554,20.394667],[79.081553,20.394758],[79.081265,20.394754],[79.081264,20.394845],[79.08116800000001,20.394844],[79.08116699999999,20.394934],[79.08107099999999,20.394933],[79.081069,20.395114],[79.080973,20.395113],[79.080962,20.396016],[79.081058,20.396017],[79.081056,20.396197],[79.08115100000001,20.396198],[79.08114999999999,20.396289],[79.08124599999999,20.39629],[79.081244,20.39647],[79.08134,20.396471],[79.081339,20.396562],[79.081818,20.396567]]],"type":"Polygon"}
 }

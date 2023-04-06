@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.77432,24.6392,72.77432,24.6392",
-    "geom:latitude":24.6392,
-    "geom:longitude":72.77432,
+    "geom:bbox":"72.771891,24.637191,72.774316,24.638808",
+    "geom:latitude":24.638,
+    "geom:longitude":72.773088,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"117.0",
     "gn:asciiname":"Jawai",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"72.75432,24.6192,72.79432,24.6592",
+    "ks:ks_id":"KSC864F2222DF34801AE038DB1D0CD826C",
+    "ks:ks_name":"Jawai",
+    "ks:ks_pop":184,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|458655",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_554782",
+    "lbl:latitude":24.638135,
+    "lbl:longitude":72.772845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.638135,
+    "mps:longitude":72.772845,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u09be\u0993\u09af\u09bc\u09be\u0987"
     ],
     "name:bpy_x_preferred":[
         "\u099c\u09be\u0993\u09af\u09bc\u09be\u0987"
+    ],
+    "name:eng_x_preferred":[
+        "Jawai"
     ],
     "name:new_x_preferred":[
         "\u091c\u0935\u093e\u0908"
@@ -45,7 +58,13 @@
     "name:vie_x_preferred":[
         "Jawai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10249411
+        "gn:id":10249411,
+        "ks:id":"KSC864F2222DF34801AE038DB1D0CD826C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e3bef5a4adef45ad249cf9fc3916b606",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13c8a552937e582c77efab7c93c106e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1209372513,
-    "wof:lastmodified":1672960640,
+    "wof:lastmodified":1680661288,
     "wof:name":"Jawai",
     "wof:parent_id":890510817,
     "wof:placetype":"locality",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.77431999999997,
-    24.6392,
-    72.77431999999997,
-    24.6392
+    72.771891,
+    24.637191,
+    72.774316,
+    24.638808
 ],
-  "geometry": {"coordinates":[72.77431999999997,24.6392],"type":"Point"}
+  "geometry": {"coordinates":[[[72.7727,24.638808],[72.7727,24.638539],[72.77323800000001,24.638539],[72.77323800000001,24.638269],[72.774316,24.638269],[72.774316,24.637191],[72.774047,24.637191],[72.774047,24.637461],[72.773777,24.637461],[72.773777,24.637191],[72.77323800000001,24.637191],[72.77323800000001,24.637461],[72.772969,24.637461],[72.772969,24.63773],[72.771891,24.63773],[72.771891,24.638808],[72.7727,24.638808]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.54127,13.90924,75.54127,13.90924",
-    "geom:latitude":13.90924,
-    "geom:longitude":75.54127,
+    "geom:bbox":"75.536739,13.904952,75.538405,13.906309",
+    "geom:latitude":13.905657,
+    "geom:longitude":75.537551,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"568.0",
     "gn:asciiname":"Kallur",
@@ -24,28 +24,51 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.52127,13.88924,75.56127,13.92924",
+    "ks:ks_id":"KSFD210DD62E0542E383A3DA37CC4F0C3D",
+    "ks:ks_name":"Kallur",
+    "ks:ks_pop":255,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|492098",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_283199",
+    "lbl:latitude":13.905675,
+    "lbl:longitude":75.537566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.905675,
+    "mps:longitude":75.537566,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
+        "Kallur"
+    ],
+    "name:eng_x_preferred":[
         "Kallur"
     ],
     "name:swe_x_preferred":[
         "Kallur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10872396
+        "gn:id":10872396,
+        "ks:id":"KSFD210DD62E0542E383A3DA37CC4F0C3D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"286661ae76bb63492b05793ef5f38681",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"260d9d3dc1598c339c4ae7bcf61150c0",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1209377181,
-    "wof:lastmodified":1566694898,
+    "wof:lastmodified":1680661302,
     "wof:name":"Kallur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.54127,
-    13.90924,
-    75.54127,
-    13.90924
+    75.536739,
+    13.904952,
+    75.538405,
+    13.906309
 ],
-  "geometry": {"coordinates":[75.54127,13.90924],"type":"Point"}
+  "geometry": {"coordinates":[[[75.537944,13.906308],[75.537943,13.906217],[75.538129,13.906217],[75.538128,13.906126],[75.53822099999999,13.906126],[75.53822099999999,13.906036],[75.538313,13.906036],[75.538313,13.905764],[75.538405,13.905764],[75.538405,13.905674],[75.538312,13.905674],[75.538312,13.905583],[75.53822,13.905584],[75.538219,13.905493],[75.538127,13.905493],[75.538127,13.905403],[75.537942,13.905403],[75.537941,13.905313],[75.53784899999999,13.905313],[75.53784899999999,13.905223],[75.537756,13.905223],[75.537756,13.905133],[75.53766299999999,13.905133],[75.53766299999999,13.905042],[75.53747799999999,13.905043],[75.53747799999999,13.904952],[75.53710700000001,13.904953],[75.537108,13.905044],[75.537015,13.905044],[75.537015,13.905134],[75.536923,13.905134],[75.536923,13.905406],[75.53683100000001,13.905406],[75.536832,13.905768],[75.536739,13.905768],[75.536739,13.905858],[75.536924,13.905858],[75.536925,13.905948],[75.53711,13.905948],[75.53711,13.906038],[75.537295,13.906038],[75.537295,13.906128],[75.53738800000001,13.906128],[75.53738800000001,13.906218],[75.537481,13.906218],[75.537481,13.906309],[75.537944,13.906308]]],"type":"Polygon"}
 }

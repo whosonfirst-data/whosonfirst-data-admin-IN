@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.50734,26.41867,81.50734,26.41867",
-    "geom:latitude":26.41867,
-    "geom:longitude":81.50734,
+    "geom:bbox":"81.506378,26.417147,81.50849,26.419859",
+    "geom:latitude":26.418546,
+    "geom:longitude":81.507467,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Paharpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.48734,26.39867,81.52734,26.43867",
+    "ks:ks_id":"KSD16B1C8226C24EBCACFE74D1647D26F1",
+    "ks:ks_name":"Paharpur",
+    "ks:ks_pop":250,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1181206",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1869533",
+    "lbl:latitude":26.418549,
+    "lbl:longitude":81.507467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.418549,
+    "mps:longitude":81.507467,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
@@ -36,19 +46,32 @@
     "name:ceb_x_preferred":[
         "Paharpur"
     ],
+    "name:eng_x_preferred":[
+        "Paharpur"
+    ],
     "name:nld_x_preferred":[
         "Paharpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10763175
+        "gn:id":10763175,
+        "ks:id":"KSD16B1C8226C24EBCACFE74D1647D26F1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"311d8a68b499f5495daeaa8103c2fada",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dab1b3cb4129394ca79b2be091774235",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1209458667,
-    "wof:lastmodified":1566696798,
+    "wof:lastmodified":1680662595,
     "wof:name":"Paharpur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.50734,
-    26.41867,
-    81.50734,
-    26.41867
+    81.506378,
+    26.417147,
+    81.50849,
+    26.419859
 ],
-  "geometry": {"coordinates":[81.50734,26.41867],"type":"Point"}
+  "geometry": {"coordinates":[[[81.50789,26.419856],[81.50789,26.419766],[81.508191,26.419765],[81.50819,26.419675],[81.508291,26.419674],[81.50829,26.419494],[81.50839000000001,26.419493],[81.50838899999999,26.419313],[81.50848999999999,26.419312],[81.508489,26.419222],[81.50838899999999,26.419222],[81.508388,26.418952],[81.508488,26.418951],[81.508484,26.418048],[81.50838400000001,26.418049],[81.50838299999999,26.417868],[81.50828300000001,26.417869],[81.508281,26.417507],[81.50818099999999,26.417508],[81.50818,26.417327],[81.50808000000001,26.417327],[81.50808000000001,26.417237],[81.50797900000001,26.417238],[81.50797900000001,26.417147],[81.50747699999999,26.417149],[81.50747800000001,26.417239],[81.507277,26.41724],[81.507278,26.41733],[81.507077,26.417331],[81.50707800000001,26.417421],[81.506877,26.417422],[81.506877,26.417512],[81.506677,26.417513],[81.50667799999999,26.417694],[81.50657699999999,26.417694],[81.506578,26.417784],[81.506478,26.417785],[81.506478,26.417875],[81.506378,26.417875],[81.50637999999999,26.418507],[81.50648099999999,26.418507],[81.506484,26.41932],[81.506584,26.419319],[81.506585,26.4195],[81.506686,26.419499],[81.506686,26.41968],[81.50688700000001,26.419679],[81.50688700000001,26.41977],[81.507188,26.419769],[81.507189,26.419859],[81.50789,26.419856]]],"type":"Polygon"}
 }
