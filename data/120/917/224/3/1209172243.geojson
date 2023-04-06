@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.99618,31.34205,74.99618,31.34205",
-    "geom:latitude":31.34205,
-    "geom:longitude":74.99618,
+    "geom:bbox":"74.993764,31.340524,74.995657,31.342238",
+    "geom:latitude":31.341558,
+    "geom:longitude":74.994757,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"50.0",
     "gn:asciiname":"Kishangarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.97618,31.32205,75.01618,31.36205",
+    "ks:ks_id":"KS122DE319056B489199D9E33750972C52",
+    "ks:ks_name":"Kishangarh",
+    "ks:ks_pop":161,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0302000400233200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2514073",
+    "lbl:latitude":31.34157,
+    "lbl:longitude":74.994774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.34157,
+    "mps:longitude":74.994774,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0634\u0627\u0646\u063a\u0627\u0631"
@@ -55,6 +65,9 @@
         "Kishangarh"
     ],
     "name:deu_x_preferred":[
+        "Kishangarh"
+    ],
+    "name:eng_x_preferred":[
         "Kishangarh"
     ],
     "name:fas_x_preferred":[
@@ -126,7 +139,13 @@
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10e8\u10d0\u10dc\u10d2\u10d0\u10e0\u10f0\u10d8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +154,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695917
+        "gn:id":10695917,
+        "ks:id":"KS122DE319056B489199D9E33750972C52"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3b22e36a4b64f30ee1080a4b088d3e5e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96842b8c39a2fbc0a698ae5b13744eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +172,22 @@
         }
     ],
     "wof:id":1209172243,
-    "wof:lastmodified":1576021553,
+    "wof:lastmodified":1680662712,
     "wof:name":"Kishangarh",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.99618000000002,
-    31.34205,
-    74.99618000000002,
-    31.34205
+    74.993764,
+    31.340524,
+    74.995657,
+    31.342238
 ],
-  "geometry": {"coordinates":[74.99618000000002,31.34205],"type":"Point"}
+  "geometry": {"coordinates":[[[74.99523600000001,31.342238],[74.99523600000001,31.342148],[74.995447,31.342148],[74.995447,31.341967],[74.995552,31.341967],[74.995552,31.341787],[74.99565699999999,31.341787],[74.99565699999999,31.341426],[74.995552,31.341426],[74.995552,31.341245],[74.995447,31.341245],[74.995447,31.341065],[74.995341,31.341065],[74.995341,31.340975],[74.995131,31.340975],[74.995131,31.340884],[74.99492100000001,31.340884],[74.99492100000001,31.340794],[74.9945,31.340794],[74.9945,31.340614],[74.994395,31.340614],[74.994395,31.340524],[74.99429000000001,31.340524],[74.99429000000001,31.340794],[74.994395,31.340794],[74.994395,31.341065],[74.99429000000001,31.341065],[74.99429000000001,31.341155],[74.994185,31.341155],[74.994185,31.341245],[74.99408,31.341245],[74.99408,31.341426],[74.99397500000001,31.341426],[74.99397500000001,31.341516],[74.99387,31.341516],[74.99387,31.341787],[74.993765,31.341787],[74.993764,31.341967],[74.99387,31.341967],[74.99387,31.342057],[74.994185,31.342057],[74.994185,31.342148],[74.994395,31.342148],[74.994395,31.342238],[74.99523600000001,31.342238]]],"type":"Polygon"}
 }

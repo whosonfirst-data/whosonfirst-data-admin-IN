@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000013,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.73256,28.74458,79.73256,28.74458",
-    "geom:latitude":28.74458,
-    "geom:longitude":79.73256,
+    "geom:bbox":"79.726738,28.742402,79.732936,28.746445",
+    "geom:latitude":28.744508,
+    "geom:longitude":79.729654,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"151.0",
     "gn:asciiname":"Tanda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.71256,28.72458,79.75256,28.76458",
+    "ks:ks_id":"KS6B582349C2CD4FECB57A3FA8D675F4BF",
+    "ks:ks_name":"Tanda",
+    "ks:ks_pop":400,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1030962",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_935952",
+    "lbl:latitude":28.743872,
+    "lbl:longitude":79.729959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.743872,
+    "mps:longitude":79.729959,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09a8\u09cd\u09a6\u09be"
@@ -37,6 +47,9 @@
         "Tanda"
     ],
     "name:deu_x_preferred":[
+        "Tanda"
+    ],
+    "name:eng_x_preferred":[
         "Tanda"
     ],
     "name:fra_x_preferred":[
@@ -57,16 +70,26 @@
     "name:swe_x_preferred":[
         "Tanda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10829777
+        "gn:id":10829777,
+        "ks:id":"KS6B582349C2CD4FECB57A3FA8D675F4BF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1a65848dd95d64cb5dfef538ae569e09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82f47d86100d2d40a992a8ab1f344864",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1209148603,
-    "wof:lastmodified":1566695793,
+    "wof:lastmodified":1680661916,
     "wof:name":"Tanda",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.73255999999998,
-    28.74458,
-    79.73255999999998,
-    28.74458
+    79.726738,
+    28.742402,
+    79.732936,
+    28.746445
 ],
-  "geometry": {"coordinates":[79.73255999999998,28.74458],"type":"Point"}
+  "geometry": {"coordinates":[[[79.72835499999999,28.746445],[79.72835499999999,28.745906],[79.73078,28.745906],[79.73078,28.745097],[79.73051100000001,28.745097],[79.73051100000001,28.744828],[79.73105,28.744828],[79.73105,28.745367],[79.732936,28.745367],[79.732936,28.744558],[79.732128,28.744558],[79.732128,28.744289],[79.731858,28.744289],[79.731858,28.744019],[79.731589,28.744019],[79.731589,28.74348],[79.731319,28.74348],[79.731319,28.743211],[79.73105,28.743211],[79.73105,28.742941],[79.73078,28.742941],[79.73078,28.742402],[79.73051100000001,28.742402],[79.73051100000001,28.742672],[79.730242,28.742672],[79.730242,28.742402],[79.729433,28.742402],[79.729433,28.742941],[79.729164,28.742941],[79.729164,28.743211],[79.728894,28.743211],[79.728894,28.744289],[79.72862499999999,28.744289],[79.72862499999999,28.744558],[79.72835499999999,28.744558],[79.72835499999999,28.744289],[79.727816,28.744289],[79.727816,28.743211],[79.727547,28.743211],[79.727547,28.742672],[79.727277,28.742672],[79.727277,28.74375],[79.727008,28.74375],[79.727008,28.744019],[79.726738,28.744019],[79.726738,28.744289],[79.727277,28.744289],[79.727277,28.746175],[79.727547,28.746175],[79.727547,28.746445],[79.72835499999999,28.746445]]],"type":"Polygon"}
 }

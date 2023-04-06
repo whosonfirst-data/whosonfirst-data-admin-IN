@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.48646,29.78443,79.48646,29.78443",
-    "geom:latitude":29.78443,
-    "geom:longitude":79.48646,
+    "geom:bbox":"79.478883,29.783564,79.480028,29.784645",
+    "geom:latitude":29.784107,
+    "geom:longitude":79.479409,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Matela",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.46646,29.76443,79.50646,29.80443",
+    "ks:ks_id":"KSB0843E2C5E274C0AB7960D1ADEEEEC07",
+    "ks:ks_name":"Matela",
+    "ks:ks_pop":547,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|685289",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1837651",
+    "lbl:latitude":29.784139,
+    "lbl:longitude":79.479304,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.784139,
+    "mps:longitude":79.479304,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matela"
     ],
     "name:deu_x_preferred":[
+        "Matela"
+    ],
+    "name:eng_x_preferred":[
         "Matela"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +70,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0435\u043b\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10806905
+        "gn:id":10806905,
+        "ks:id":"KSB0843E2C5E274C0AB7960D1ADEEEEC07"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ee428954a70604c714e9b4e7da43b9cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d90190f65f58a63ae13fcc8ed4c2481",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1209141507,
-    "wof:lastmodified":1672961359,
+    "wof:lastmodified":1680661897,
     "wof:name":"Matela",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.48646,
-    29.78443,
-    79.48646,
-    29.78443
+    79.478883,
+    29.783564,
+    79.480028,
+    29.784645
 ],
-  "geometry": {"coordinates":[79.48645999999999,29.78443],"type":"Point"}
+  "geometry": {"coordinates":[[[79.4795,29.784645],[79.47950400000001,29.784374],[79.479607,29.784375],[79.47961100000001,29.784105],[79.480025,29.784109],[79.480028,29.783929],[79.479924,29.783928],[79.47993,29.783567],[79.47972300000001,29.783564],[79.47972,29.783745],[79.479203,29.783739],[79.479202,29.783829],[79.47909799999999,29.783828],[79.479097,29.783918],[79.478993,29.783917],[79.47899200000001,29.784007],[79.478889,29.784006],[79.478883,29.784367],[79.478987,29.784368],[79.47898499999999,29.784458],[79.479089,29.78446],[79.479086,29.78464],[79.4795,29.784645]]],"type":"Polygon"}
 }

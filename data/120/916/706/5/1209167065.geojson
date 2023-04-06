@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Goma"
@@ -174,7 +175,7 @@
         "gn:id":10711849
     },
     "wof:country":"IN",
-    "wof:geomhash":"45052fc91d295d8042292c143964e337",
+    "wof:geomhash":"80774cfb3525025967e6dda8ce6b3d01",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -182,20 +183,22 @@
         }
     ],
     "wof:id":1209167065,
-    "wof:lastmodified":1566696544,
+    "wof:lastmodified":1680630510,
     "wof:name":"Goma",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847146051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     80.80019,
-    27.33129000000001,
+    27.33129,
     80.80019,
-    27.33129000000001
+    27.33129
 ],
-  "geometry": {"coordinates":[80.80019,27.33129000000001],"type":"Point"}
+  "geometry": {"coordinates":[80.80019,27.33129],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.68648,27.05112,82.68648,27.05112",
-    "geom:latitude":27.05112,
-    "geom:longitude":82.68648,
+    "geom:bbox":"82.685907,27.050439,82.68733,27.051521",
+    "geom:latitude":27.051028,
+    "geom:longitude":82.686576,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"185.0",
     "gn:asciiname":"Achalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.66648,27.03112,82.70648,27.07112",
+    "ks:ks_id":"KS2294395118B94D5F919A0D3582AA6780",
+    "ks:ks_name":"Achalpur",
+    "ks:ks_pop":173,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|10251",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1975565",
+    "lbl:latitude":27.051065,
+    "lbl:longitude":82.686563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.051065,
+    "mps:longitude":82.686563,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0985\u099a\u09b2\u09aa\u09c1\u09b0"
@@ -43,6 +53,9 @@
         "Achalpur"
     ],
     "name:ceb_x_preferred":[
+        "Achalpur"
+    ],
+    "name:eng_x_preferred":[
         "Achalpur"
     ],
     "name:fas_x_preferred":[
@@ -99,16 +112,26 @@
     "name:zho_x_preferred":[
         "\u963f\u6070\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10603883
+        "gn:id":10603883,
+        "ks:id":"KS2294395118B94D5F919A0D3582AA6780"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a79d3ea5170e100a0c5c00c24980fcd6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3d8ada403a4e6d01164e2499220518ba",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1209148151,
-    "wof:lastmodified":1566695824,
+    "wof:lastmodified":1680661939,
     "wof:name":"Achalpur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":173,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.68648,
-    27.05112,
-    82.68648,
-    27.05112
+    82.685907,
+    27.050439,
+    82.68733,
+    27.051521
 ],
-  "geometry": {"coordinates":[82.68648,27.05112],"type":"Point"}
+  "geometry": {"coordinates":[[[82.687231,27.051513],[82.687229,27.051422],[82.68733,27.051421],[82.687326,27.05115],[82.687225,27.051152],[82.687224,27.051061],[82.687123,27.051063],[82.687122,27.050972],[82.687021,27.050974],[82.68702,27.050883],[82.686919,27.050885],[82.68691800000001,27.050794],[82.686817,27.050795],[82.686815,27.050705],[82.68671500000001,27.050706],[82.686713,27.050616],[82.68661299999999,27.050617],[82.686611,27.050527],[82.68641,27.05053],[82.686408,27.050439],[82.686106,27.050443],[82.68610700000001,27.050533],[82.68600600000001,27.050534],[82.686008,27.050625],[82.685907,27.050626],[82.685912,27.050987],[82.686013,27.050986],[82.686014,27.051076],[82.686115,27.051075],[82.68611799999999,27.051255],[82.68621899999999,27.051254],[82.68622000000001,27.051344],[82.68632100000001,27.051343],[82.686322,27.051433],[82.68652400000001,27.051431],[82.686525,27.051521],[82.687231,27.051513]]],"type":"Polygon"}
 }
