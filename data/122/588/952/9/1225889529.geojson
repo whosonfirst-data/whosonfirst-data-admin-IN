@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.53154,25.58997,85.53154,25.58997",
-    "geom:latitude":25.58997,
-    "geom:longitude":85.53154,
+    "geom:bbox":"85.533269,25.596323,85.533808,25.596592",
+    "geom:latitude":25.596457,
+    "geom:longitude":85.533538,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Mirzapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.51154,25.56997,85.55154,25.60997",
+    "ks:ks_id":"KS26C940A83EF24D26A602E1068701D1A6",
+    "ks:ks_name":"Mirzapur",
+    "ks:ks_pop":963,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|703953",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1359774",
+    "lbl:latitude":25.596457,
+    "lbl:longitude":85.533538,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.596457,
+    "mps:longitude":85.533538,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627\u0628\u0648\u0631"
@@ -58,7 +68,7 @@
         "\u039c\u03b9\u03c1\u03b6\u03b1\u03c0\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
-        "Mirz\u0101pur"
+        "Mirzapur"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u0632\u0627\u067e\u0648\u0631"
@@ -168,7 +178,13 @@
     "name:zho_x_preferred":[
         "\u5bc6\u672d\u6d66"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -177,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327210
+        "gn:id":11327210,
+        "ks:id":"KS26C940A83EF24D26A602E1068701D1A6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"061c411cb189f6d77b1ffada80508c16",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3242a1993c97f3b5836c4b70ad2ad652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,20 +211,22 @@
         }
     ],
     "wof:id":1225889529,
-    "wof:lastmodified":1636505935,
+    "wof:lastmodified":1680677875,
     "wof:name":"Mirzapur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":963,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.53154,
-    25.58997,
-    85.53154,
-    25.58997
+    85.533269,
+    25.596323,
+    85.533808,
+    25.596592
 ],
-  "geometry": {"coordinates":[85.53154000000001,25.58997],"type":"Point"}
+  "geometry": {"coordinates":[[[85.53380799999999,25.596323],[85.533269,25.596323],[85.533269,25.596592],[85.53380799999999,25.596592],[85.53380799999999,25.596323]]],"type":"Polygon"}
 }
