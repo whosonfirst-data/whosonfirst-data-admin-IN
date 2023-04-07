@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.00493,23.7055,80.00493,23.7055",
-    "geom:latitude":23.7055,
-    "geom:longitude":80.00493,
+    "geom:bbox":"80.003936,23.704134,80.006593,23.706115",
+    "geom:latitude":23.705265,
+    "geom:longitude":80.005324,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"450.0",
     "gn:asciiname":"Sanda",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.98493,23.6855,80.02493,23.7255",
+    "ks:ks_alt_nam":"S\u0101nda",
+    "ks:ks_id":"KS792A1CDFDE36467D88B2A5F0352CC383",
+    "ks:ks_name":"Sanda",
+    "ks:ks_pop":614,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|947955",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1008410",
+    "lbl:latitude":23.705235,
+    "lbl:longitude":80.005482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.705235,
+    "mps:longitude":80.005482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Sanda"
+    ],
+    "name:eng_x_preferred":[
+        "Sanda"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101nda"
     ],
     "name:fra_x_preferred":[
         "Sanda"
@@ -66,16 +83,26 @@
     "name:swe_x_preferred":[
         "Sanda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10674198
+        "gn:id":10674198,
+        "ks:id":"KS792A1CDFDE36467D88B2A5F0352CC383"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d45d4371748158d0f6228c42d01a897e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"145596bbdd3b8a742d6840169f17b111",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -83,20 +110,22 @@
         }
     ],
     "wof:id":1209659875,
-    "wof:lastmodified":1566694669,
+    "wof:lastmodified":1680661157,
     "wof:name":"Sanda",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":614,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.00493,
-    23.7055,
-    80.00493,
-    23.7055
+    80.003936,
+    23.704134,
+    80.006593,
+    23.706115
 ],
-  "geometry": {"coordinates":[80.00493,23.7055],"type":"Point"}
+  "geometry": {"coordinates":[[[80.00452300000001,23.706115],[80.00452300000001,23.706025],[80.00609300000001,23.706035],[80.00609300000001,23.705945],[80.00629000000001,23.705946],[80.00629000000001,23.705856],[80.006388,23.705856],[80.00639,23.705585],[80.006488,23.705586],[80.00649199999999,23.705134],[80.00659,23.705135],[80.006593,23.704774],[80.006495,23.704773],[80.006495,23.704683],[80.006299,23.704682],[80.0063,23.704591],[80.006202,23.704591],[80.006202,23.7045],[80.00610399999999,23.7045],[80.00610500000001,23.704409],[80.006007,23.704409],[80.00600799999999,23.704319],[80.00591,23.704318],[80.00591,23.704228],[80.005714,23.704226],[80.005715,23.704136],[80.005421,23.704134],[80.00542,23.704224],[80.00532200000001,23.704224],[80.005321,23.704314],[80.005223,23.704313],[80.005222,23.704404],[80.005124,23.704403],[80.005124,23.704493],[80.005025,23.704493],[80.005025,23.704583],[80.004927,23.704583],[80.004926,23.704673],[80.004828,23.704672],[80.00482700000001,23.704763],[80.004729,23.704762],[80.004728,23.704852],[80.004532,23.704851],[80.004532,23.704941],[80.004335,23.70494],[80.004335,23.70503],[80.004139,23.705029],[80.004138,23.705119],[80.00404,23.705119],[80.00403799999999,23.70539],[80.00394,23.705389],[80.003936,23.705841],[80.004034,23.705841],[80.004032,23.706112],[80.00452300000001,23.706115]]],"type":"Polygon"}
 }
