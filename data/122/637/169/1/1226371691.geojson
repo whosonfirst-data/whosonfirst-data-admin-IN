@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.70811,29.87897,79.70811,29.87897",
-    "geom:latitude":29.87897,
-    "geom:longitude":79.70811,
+    "geom:bbox":"79.703269,29.878623,79.704207,29.879799",
+    "geom:latitude":29.879232,
+    "geom:longitude":79.703735,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"63.0",
     "gn:asciiname":"Talar",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.68811,29.85897,79.72811,29.89897",
+    "ks:ks_id":"KSF241691B33CA428584DEEE84DC8E91B8",
+    "ks:ks_name":"Talar",
+    "ks:ks_pop":184,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1028124",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2040322",
+    "lbl:latitude":29.87922,
+    "lbl:longitude":79.703679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.87922,
+    "mps:longitude":79.703679,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Talar"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0644\u0627\u0631"
@@ -42,7 +55,13 @@
     "name:ita_x_preferred":[
         "Talar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10814550
+        "gn:id":10814550,
+        "ks:id":"KSF241691B33CA428584DEEE84DC8E91B8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b937358c8f4ba8bbdb05ef555f07c175",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca9ecc38b0ba35c5383140d8a17f884e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1226371691,
-    "wof:lastmodified":1566713041,
+    "wof:lastmodified":1680678588,
     "wof:name":"Talar",
     "wof:parent_id":890510635,
     "wof:placetype":"locality",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.70810999999998,
-    29.87897,
-    79.70810999999998,
-    29.87897
+    79.703269,
+    29.878623,
+    79.704207,
+    29.879799
 ],
-  "geometry": {"coordinates":[79.70810999999998,29.87897],"type":"Point"}
+  "geometry": {"coordinates":[[[79.703988,29.879799],[79.70399500000001,29.879258],[79.704202,29.87926],[79.704207,29.878899],[79.704103,29.878898],[79.704104,29.878808],[79.70400100000001,29.878807],[79.70399999999999,29.878897],[79.703896,29.878896],[79.703897,29.878806],[79.703794,29.878805],[79.703796,29.878624],[79.703692,29.878623],[79.70368999999999,29.878804],[79.703587,29.878803],[79.703585,29.878893],[79.703378,29.878891],[79.703377,29.878981],[79.70327399999999,29.87898],[79.70326900000001,29.879341],[79.703373,29.879342],[79.70337000000001,29.879523],[79.703474,29.879524],[79.703473,29.879614],[79.703576,29.879615],[79.703575,29.879705],[79.703678,29.879706],[79.703677,29.879796],[79.703988,29.879799]]],"type":"Polygon"}
 }

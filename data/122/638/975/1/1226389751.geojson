@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.80931,24.51635,87.80931,24.51635",
-    "geom:latitude":24.51635,
-    "geom:longitude":87.80931,
+    "geom:bbox":"87.808136,24.515673,87.810404,24.516678",
+    "geom:latitude":24.516223,
+    "geom:longitude":87.809265,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"334.0",
     "gn:asciiname":"Chandanpur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.78931,24.49635,87.82931,24.53635",
+    "ks:ks_id":"KSA31D0977D5BA460FB84FD0571D26AAAA",
+    "ks:ks_name":"Chandanpur",
+    "ks:ks_pop":406,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13517126",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1200373",
+    "lbl:latitude":24.516266,
+    "lbl:longitude":87.809265,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.516266,
+    "mps:longitude":87.809265,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u0928\u094d\u0926\u0928\u092a\u0941\u0930"
     ],
     "name:ceb_x_preferred":[
+        "Chandanpur"
+    ],
+    "name:eng_x_preferred":[
         "Chandanpur"
     ],
     "name:msa_x_preferred":[
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Chandanpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11018335
+        "gn:id":11018335,
+        "ks:id":"KSA31D0977D5BA460FB84FD0571D26AAAA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"05cc538685eeeadaaa33fd88ee0e4f4c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"562be8a98be800b1341abc0a4c7649d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1226389751,
-    "wof:lastmodified":1566713415,
+    "wof:lastmodified":1680678859,
     "wof:name":"Chandanpur",
     "wof:parent_id":890501089,
     "wof:placetype":"locality",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.80931,
-    24.51635,
-    87.80931,
-    24.51635
+    87.808136,
+    24.515673,
+    87.810404,
+    24.516678
 ],
-  "geometry": {"coordinates":[87.80931,24.51635],"type":"Point"}
+  "geometry": {"coordinates":[[[87.81040400000001,24.516034],[87.81040299999999,24.515853],[87.810304,24.515854],[87.810304,24.515763],[87.810205,24.515764],[87.810204,24.515673],[87.810007,24.515675],[87.810007,24.515765],[87.809909,24.515765],[87.809909,24.515856],[87.809712,24.515857],[87.809712,24.515947],[87.809318,24.515949],[87.809318,24.516039],[87.80852899999999,24.516044],[87.80852899999999,24.516134],[87.80833199999999,24.516135],[87.80833199999999,24.516225],[87.808234,24.516226],[87.808235,24.516407],[87.808136,24.516407],[87.808138,24.516678],[87.808533,24.516676],[87.808532,24.516586],[87.808927,24.516583],[87.808926,24.516493],[87.80971599999999,24.516489],[87.809715,24.516399],[87.80991299999999,24.516398],[87.809912,24.516307],[87.81010999999999,24.516306],[87.810109,24.516216],[87.810208,24.516215],[87.81020700000001,24.516125],[87.810306,24.516124],[87.810305,24.516034],[87.81040400000001,24.516034]]],"type":"Polygon"}
 }

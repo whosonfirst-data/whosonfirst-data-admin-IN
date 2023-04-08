@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.61455,25.06032,80.61455,25.06032",
-    "geom:latitude":25.06032,
-    "geom:longitude":80.61455,
+    "geom:bbox":"80.613593,25.05959,80.615381,25.061125",
+    "geom:latitude":25.060385,
+    "geom:longitude":80.614506,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"429.0",
     "gn:asciiname":"Bardar",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.59455,25.04032,80.63455,25.08032",
+    "ks:ks_id":"KSA00D4E95B6104850A289D96E63888805",
+    "ks:ks_name":"Bardar",
+    "ks:ks_pop":408,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|101154",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1045476",
+    "lbl:latitude":25.060358,
+    "lbl:longitude":80.614489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.060358,
+    "mps:longitude":80.614489,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bardar"
+    ],
     "name:ita_x_preferred":[
         "Bardar"
     ],
@@ -48,7 +61,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0434\u0430\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10843339
+        "gn:id":10843339,
+        "ks:id":"KSA00D4E95B6104850A289D96E63888805"
     },
     "wof:country":"IN",
-    "wof:geomhash":"accbefac7dd48fe79aa36b72377a1cdc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a61265bab8e04a907e31354a5b2244e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1226382897,
-    "wof:lastmodified":1566713308,
+    "wof:lastmodified":1680678794,
     "wof:name":"Bardar",
     "wof:parent_id":890511071,
     "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.61455,
-    25.06032,
-    80.61455,
-    25.06032
+    80.613593,
+    25.05959,
+    80.615381,
+    25.061125
 ],
-  "geometry": {"coordinates":[80.61454999999999,25.06032],"type":"Point"}
+  "geometry": {"coordinates":[[[80.614485,25.061125],[80.614485,25.061035],[80.61458399999999,25.061035],[80.61458500000001,25.060945],[80.61508000000001,25.060946],[80.615081,25.060856],[80.615279,25.060856],[80.615279,25.060676],[80.615379,25.060676],[80.615381,25.059954],[80.61528199999999,25.059953],[80.61528199999999,25.059773],[80.615183,25.059772],[80.615183,25.059682],[80.614985,25.059682],[80.614985,25.059591],[80.61449,25.05959],[80.61448900000001,25.05968],[80.61429099999999,25.05968],[80.61429099999999,25.05977],[80.61399299999999,25.059769],[80.61399299999999,25.05986],[80.613894,25.059859],[80.613893,25.06004],[80.613794,25.06004],[80.613794,25.06022],[80.61369500000001,25.06022],[80.613693,25.060581],[80.61359400000001,25.060581],[80.61359299999999,25.061033],[80.613692,25.061033],[80.613692,25.061123],[80.614485,25.061125]]],"type":"Polygon"}
 }
