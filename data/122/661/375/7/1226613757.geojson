@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.68131,26.43472,76.68131,26.43472",
-    "geom:latitude":26.43472,
-    "geom:longitude":76.68131,
+    "geom:bbox":"76.672205,26.432455,76.673421,26.433814",
+    "geom:latitude":26.433118,
+    "geom:longitude":76.672866,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"108.0",
     "gn:asciiname":"Umri",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.66131,26.41472,76.70131,26.45472",
+    "ks:ks_id":"KS5F249D70039941C29271D127A59095E2",
+    "ks:ks_name":"Umri",
+    "ks:ks_pop":2704,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1073710",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1685862",
+    "lbl:latitude":26.4331,
+    "lbl:longitude":76.672877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.4331,
+    "mps:longitude":76.672877,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Umri"
+    ],
+    "name:eng_x_preferred":[
         "Umri"
     ],
     "name:pol_x_preferred":[
@@ -39,7 +52,13 @@
     "name:swe_x_preferred":[
         "Umri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192334
+        "gn:id":10192334,
+        "ks:id":"KS5F249D70039941C29271D127A59095E2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c743259982b1a0fbf025528be12423b3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc88eada2c67e8f99f22c324ac798d73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1226613757,
-    "wof:lastmodified":1566711974,
+    "wof:lastmodified":1680677759,
     "wof:name":"Umri",
     "wof:parent_id":890507257,
     "wof:placetype":"locality",
+    "wof:population":2704,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.68131,
-    26.43472,
-    76.68131,
-    26.43472
+    76.672205,
+    26.432455,
+    76.673421,
+    26.433814
 ],
-  "geometry": {"coordinates":[76.68131,26.43472],"type":"Point"}
+  "geometry": {"coordinates":[[[76.673323,26.433807],[76.673321,26.433626],[76.673421,26.433625],[76.67340799999999,26.432723],[76.67330800000001,26.432724],[76.673306,26.432634],[76.67320599999999,26.432635],[76.673205,26.432544],[76.673104,26.432546],[76.673103,26.432455],[76.672602,26.432461],[76.672603,26.432551],[76.672403,26.432554],[76.672404,26.432644],[76.672304,26.432645],[76.67230499999999,26.432736],[76.67220500000001,26.432737],[76.672211,26.433188],[76.67231200000001,26.433187],[76.672313,26.433277],[76.67241300000001,26.433276],[76.672416,26.433456],[76.672516,26.433455],[76.67251899999999,26.433636],[76.672619,26.433635],[76.67261999999999,26.433725],[76.67272,26.433724],[76.67272199999999,26.433814],[76.673323,26.433807]]],"type":"Polygon"}
 }

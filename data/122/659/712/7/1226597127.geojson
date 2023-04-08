@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.10568,27.80418,82.10568,27.80418",
-    "geom:latitude":27.80418,
-    "geom:longitude":82.10568,
+    "geom:bbox":"82.105312,27.803552,82.10633,27.805089",
+    "geom:latitude":27.804318,
+    "geom:longitude":82.1058,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"181.0",
     "gn:asciiname":"Balapur",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.08568,27.78418,82.12568,27.82418",
+    "ks:ks_alt_nam":"B\u0101l\u0101pur",
+    "ks:ks_id":"KSB62090A8C6BA4EF097C0350FDA1AF1BE",
+    "ks:ks_name":"Balapur",
+    "ks:ks_source_id":"N|13051184",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2045041",
+    "lbl:latitude":27.804291,
+    "lbl:longitude":82.105791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.804291,
+    "mps:longitude":82.105791,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0644\u0627\u0628\u0648\u0631"
@@ -38,6 +47,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09be\u09b2\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Balapur"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101l\u0101pur"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab2\u0abe\u0aaa\u0ac1\u0ab0"
@@ -66,7 +81,11 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0627 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10593612
+        "gn:id":10593612,
+        "ks:id":"KSB62090A8C6BA4EF097C0350FDA1AF1BE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"14d4324077bb19eee43e053e8c41681f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eecee5d00941fe474da30aaac18a5595",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +112,7 @@
         }
     ],
     "wof:id":1226597127,
-    "wof:lastmodified":1577754285,
+    "wof:lastmodified":1680677718,
     "wof:name":"Balapur",
     "wof:parent_id":1108695853,
     "wof:placetype":"locality",
@@ -99,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.10568,
-    27.80418,
-    82.10568,
-    27.80418
+    82.105312,
+    27.803552,
+    82.10633,
+    27.805089
 ],
-  "geometry": {"coordinates":[82.10568000000001,27.80418],"type":"Point"}
+  "geometry": {"coordinates":[[[82.106132,27.804814],[82.10612999999999,27.804633],[82.10623099999999,27.804632],[82.106229,27.804361],[82.10633,27.804361],[82.10632699999999,27.80409],[82.10622600000001,27.804091],[82.106223,27.80382],[82.106122,27.803821],[82.106121,27.80373],[82.106019,27.803731],[82.10601800000001,27.803641],[82.10591700000001,27.803642],[82.10591599999999,27.803552],[82.10571299999999,27.803553],[82.10571400000001,27.803643],[82.10561199999999,27.803644],[82.10561300000001,27.803734],[82.105512,27.803735],[82.105513,27.803826],[82.105411,27.803826],[82.105413,27.804007],[82.105312,27.804008],[82.105317,27.804549],[82.105419,27.804548],[82.10542,27.804729],[82.10552199999999,27.804728],[82.105525,27.805089],[82.105932,27.805086],[82.105931,27.804996],[82.106032,27.804995],[82.10603,27.804814],[82.106132,27.804814]]],"type":"Polygon"}
 }

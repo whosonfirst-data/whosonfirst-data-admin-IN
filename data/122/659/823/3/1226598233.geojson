@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.67766,25.74502,85.67766,25.74502",
-    "geom:latitude":25.74502,
-    "geom:longitude":85.67766,
+    "geom:bbox":"85.678526,25.741041,85.679335,25.742119",
+    "geom:latitude":25.74158,
+    "geom:longitude":85.67893,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Surajpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.65766,25.72502,85.69766,25.76502",
+    "ks:ks_alt_nam":"surajpur",
+    "ks:ks_id":"KS30E569E842BB4BB8A84C965744E26A25",
+    "ks:ks_name":"Surajpur",
+    "ks:ks_pop":3011,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1019540",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1369044",
+    "lbl:latitude":25.74158,
+    "lbl:longitude":85.67893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.74158,
+    "mps:longitude":85.67893,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627\u062c \u0628\u0648\u0631"
@@ -111,7 +122,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u62c9\u6770\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327197
+        "gn:id":11327197,
+        "ks:id":"KS30E569E842BB4BB8A84C965744E26A25"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e5c4c13a8efad9b359d071a16c99931a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d199ea6a862d84e0d70fb4cbf66f31a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +155,22 @@
         }
     ],
     "wof:id":1226598233,
-    "wof:lastmodified":1577754286,
+    "wof:lastmodified":1680677725,
     "wof:name":"Surajpur",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":3011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.67766,
-    25.74502,
-    85.67766,
-    25.74502
+    85.678526,
+    25.741041,
+    85.679335,
+    25.742119
 ],
-  "geometry": {"coordinates":[85.67766,25.74502],"type":"Point"}
+  "geometry": {"coordinates":[[[85.67933499999999,25.741041],[85.67852600000001,25.741041],[85.67852600000001,25.742119],[85.67933499999999,25.742119],[85.67933499999999,25.741041]]],"type":"Polygon"}
 }

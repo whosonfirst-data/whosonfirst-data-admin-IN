@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.53052,25.20447,83.53052,25.20447",
-    "geom:latitude":25.20447,
-    "geom:longitude":83.53052,
+    "geom:bbox":"83.529846,25.204208,83.531463,25.206364",
+    "geom:latitude":25.205356,
+    "geom:longitude":83.530649,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Sarangpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.51052,25.18447,83.55052,25.22447",
+    "ks:ks_alt_nam":"S\u0101rangpur",
+    "ks:ks_id":"KSDFAE5A1B1C424890BB9455DD33EF911C",
+    "ks:ks_name":"Sarangpur",
+    "ks:ks_pop":812,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12954839",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1336700",
+    "lbl:latitude":25.204637,
+    "lbl:longitude":83.530526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.204637,
+    "mps:longitude":83.530526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u063a\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09be\u09b0\u0982\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sarangpur"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101rangpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab0\u0a82\u0a97\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0646\u06af \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10509503
+        "gn:id":10509503,
+        "ks:id":"KSDFAE5A1B1C424890BB9455DD33EF911C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bf939d6459a64912239afe2066c16cba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"475e859f454c2c16319b47f4922a79f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1226584667,
-    "wof:lastmodified":1576022712,
+    "wof:lastmodified":1680677665,
     "wof:name":"Sarangpur",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":812,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.53052,
-    25.20447,
-    83.53052,
-    25.20447
+    83.529846,
+    25.204208,
+    83.531463,
+    25.206364
 ],
-  "geometry": {"coordinates":[83.53052,25.20447],"type":"Point"}
+  "geometry": {"coordinates":[[[83.531463,25.205286],[83.530924,25.205286],[83.530924,25.204208],[83.530115,25.204208],[83.530115,25.205016],[83.530385,25.205016],[83.530385,25.205286],[83.530654,25.205286],[83.530654,25.205555],[83.530385,25.205555],[83.530385,25.205825],[83.530115,25.205825],[83.530115,25.206094],[83.52984600000001,25.206094],[83.52984600000001,25.206364],[83.531193,25.206364],[83.531193,25.206094],[83.530654,25.206094],[83.530654,25.205825],[83.531463,25.205825],[83.531463,25.205286]]],"type":"Polygon"}
 }

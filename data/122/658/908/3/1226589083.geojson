@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.59277,25.21172,83.59277,25.21172",
-    "geom:latitude":25.21172,
-    "geom:longitude":83.59277,
+    "geom:bbox":"83.59812,25.209098,83.599119,25.209916",
+    "geom:latitude":25.209551,
+    "geom:longitude":83.598607,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Hasanpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.57277,25.19172,83.61277,25.23172",
+    "ks:ks_id":"KSE8273109ED114FDDBA2603DEC5216CB2",
+    "ks:ks_name":"Hasanpura",
+    "ks:ks_pop":223,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1031000403349300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1937615",
+    "lbl:latitude":25.209563,
+    "lbl:longitude":83.598607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.209563,
+    "mps:longitude":83.598607,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0633\u0646 \u0628\u0648\u0631\u0627"
@@ -41,6 +51,9 @@
     ],
     "name:bih_x_preferred":[
         "\u0939\u0938\u0928\u092a\u0941\u0930\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Hasanpura"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab8\u0aa8\u0aaa\u0ac1\u0ab0\u0abe"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u062d\u0633\u0646 \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10509535
+        "gn:id":10509535,
+        "ks:id":"KSE8273109ED114FDDBA2603DEC5216CB2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e0c99b88b5f2da3c4fab52806fd45a42",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c6b8f413f95fc5f049e50cb2c0da123b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1226589083,
-    "wof:lastmodified":1577754253,
+    "wof:lastmodified":1680677605,
     "wof:name":"Hasanpura",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.59277,
-    25.21172,
-    83.59277,
-    25.21172
+    83.59812,
+    25.209098,
+    83.599119,
+    25.209916
 ],
-  "geometry": {"coordinates":[83.59277,25.21172],"type":"Point"}
+  "geometry": {"coordinates":[[[83.598923,25.209906],[83.598921,25.209816],[83.599119,25.209812],[83.59911200000001,25.209451],[83.599012,25.209453],[83.599011,25.209363],[83.598911,25.209365],[83.59890900000001,25.209274],[83.59881,25.209276],[83.59880800000001,25.209186],[83.598709,25.209188],[83.598707,25.209098],[83.59841,25.209103],[83.598412,25.209193],[83.598313,25.209195],[83.598314,25.209285],[83.598215,25.209287],[83.598219,25.209467],[83.59811999999999,25.209469],[83.598128,25.20983],[83.598326,25.209826],[83.598328,25.209916],[83.598923,25.209906]]],"type":"Polygon"}
 }
