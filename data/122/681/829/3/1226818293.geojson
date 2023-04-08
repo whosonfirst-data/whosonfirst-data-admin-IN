@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.0035,20.75056,79.0035,20.75056",
-    "geom:latitude":20.75056,
-    "geom:longitude":79.0035,
+    "geom:bbox":"79.002873,20.74992,79.004509,20.751374",
+    "geom:latitude":20.750664,
+    "geom:longitude":79.003697,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Paoni",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.9835,20.73056,79.0235,20.77056",
+    "ks:ks_alt_nam":"Paon\u012b",
+    "ks:ks_id":"KS405F1D5D2B0B4D5AB0ACDB638AF0615F",
+    "ks:ks_name":"Paoni",
+    "ks:ks_pop":235,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|821333",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_873269",
+    "lbl:latitude":20.750646,
+    "lbl:longitude":79.003682,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.750646,
+    "mps:longitude":79.003682,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0624\u0648\u0646\u0629"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Pa-en-inet"
+    ],
+    "name:eng_x_preferred":[
+        "Paoni"
+    ],
+    "name:eng_x_variant":[
+        "Paon\u012b"
     ],
     "name:ext_x_preferred":[
         "Paoni"
@@ -61,7 +78,13 @@
         "Paon\u012b",
         "Bhoyar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -70,10 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10571649
+        "gn:id":10571649,
+        "ks:id":"KS405F1D5D2B0B4D5AB0ACDB638AF0615F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ac2d9ff810cfd8c8514a054d5e1e626d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a99cf1fa6a50c74624e4c4838bd5290",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,20 +111,22 @@
         }
     ],
     "wof:id":1226818293,
-    "wof:lastmodified":1566710914,
+    "wof:lastmodified":1680677050,
     "wof:name":"Paoni",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.0035,
-    20.75056,
-    79.0035,
-    20.75056
+    79.002873,
+    20.74992,
+    79.004509,
+    20.751374
 ],
-  "geometry": {"coordinates":[79.0035,20.75056],"type":"Point"}
+  "geometry": {"coordinates":[[[79.004212,20.751374],[79.00421299999999,20.751283],[79.00430900000001,20.751284],[79.00431,20.751194],[79.004406,20.751195],[79.004408,20.751015],[79.004504,20.751016],[79.004509,20.750654],[79.004413,20.750653],[79.004417,20.750382],[79.004321,20.750381],[79.004322,20.750291],[79.004226,20.75029],[79.004228,20.750109],[79.004132,20.750108],[79.004133,20.750018],[79.003941,20.750016],[79.00394300000001,20.749925],[79.003463,20.74992],[79.003461,20.75001],[79.003269,20.750008],[79.00326800000001,20.750098],[79.00307599999999,20.750096],[79.003074,20.750277],[79.002978,20.750275],[79.00297500000001,20.750456],[79.00287899999999,20.750455],[79.00287299999999,20.750906],[79.00296899999999,20.750908],[79.002967,20.751088],[79.003063,20.751089],[79.003062,20.75118],[79.00335,20.751183],[79.003349,20.751273],[79.003733,20.751278],[79.003732,20.751368],[79.004212,20.751374]]],"type":"Polygon"}
 }

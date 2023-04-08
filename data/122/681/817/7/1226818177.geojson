@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.15626,21.67759,77.15626,21.67759",
-    "geom:latitude":21.67759,
-    "geom:longitude":77.15626,
+    "geom:bbox":"77.155221,21.676793,77.156568,21.677871",
+    "geom:latitude":21.677353,
+    "geom:longitude":77.155866,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Khamda",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.13626,21.65759,77.17626,21.69759",
+    "ks:ks_id":"KSA512C7C9A2C54B77B96C258A2000A1D9",
+    "ks:ks_name":"Khamda",
+    "ks:ks_pop":325,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|543376",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_691024",
+    "lbl:latitude":21.677332,
+    "lbl:longitude":77.15583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.677332,
+    "mps:longitude":77.15583,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Khamda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10508566
+        "gn:id":10508566,
+        "ks:id":"KSA512C7C9A2C54B77B96C258A2000A1D9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2466653c167684facc14b65b6e16102d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e00526b36783417b09f69731cdc569b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1226818177,
-    "wof:lastmodified":1566710916,
+    "wof:lastmodified":1680677051,
     "wof:name":"Khamda",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.15626,
-    21.67759,
-    77.15626,
-    21.67759
+    77.155221,
+    21.676793,
+    77.156568,
+    21.677871
 ],
-  "geometry": {"coordinates":[77.15626,21.67759],"type":"Point"}
+  "geometry": {"coordinates":[[[77.156299,21.676793],[77.155221,21.676793],[77.155221,21.677871],[77.15656799999999,21.677871],[77.15656799999999,21.677063],[77.156299,21.677063],[77.156299,21.676793]]],"type":"Polygon"}
 }
