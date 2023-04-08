@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.47708,23.10216,78.47708,23.10216",
-    "geom:latitude":23.10216,
-    "geom:longitude":78.47708,
+    "geom:bbox":"78.476116,23.101276,78.477604,23.103083",
+    "geom:latitude":23.102295,
+    "geom:longitude":78.476934,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Rahman",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.45708,23.08216,78.49708,23.12216",
+    "ks:ks_id":"KSCB52FF5BDC454BA7A6EFAC1F91396B0A",
+    "ks:ks_name":"Rahma",
+    "ks:ks_pop":147,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|887467",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_922024",
+    "lbl:latitude":23.102351,
+    "lbl:longitude":78.476948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.102351,
+    "mps:longitude":78.476948,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u062d\u0645\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Rahma"
+    ],
+    "name:eng_x_variant":[
+        "Rahman"
     ],
     "name:fra_x_preferred":[
         "Rahman"
@@ -51,7 +67,13 @@
     "name:tur_x_preferred":[
         "Rahman"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10191415
+        "gn:id":10191415,
+        "ks:id":"KSCB52FF5BDC454BA7A6EFAC1F91396B0A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b5295ae786135064aaaee314822439fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46492668b6bc5b1828b9b199ec9ff0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1226086517,
-    "wof:lastmodified":1566713066,
-    "wof:name":"Rahman",
+    "wof:lastmodified":1680678603,
+    "wof:name":"Rahma",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.47708,
-    23.10216,
-    78.47708,
-    23.10216
+    78.476116,
+    23.101276,
+    78.477604,
+    23.103083
 ],
-  "geometry": {"coordinates":[78.47708,23.10216],"type":"Point"}
+  "geometry": {"coordinates":[[[78.47709,23.103083],[78.477091,23.102993],[78.47728600000001,23.102996],[78.477288,23.102906],[78.477386,23.102907],[78.47738699999999,23.102817],[78.477485,23.102818],[78.47748799999999,23.102638],[78.477586,23.102639],[78.477604,23.101647],[78.477507,23.101645],[78.477509,23.101555],[78.477411,23.101553],[78.477413,23.101463],[78.477315,23.101462],[78.477317,23.101371],[78.47721900000001,23.10137],[78.477221,23.10128],[78.477026,23.101276],[78.477024,23.101367],[78.476927,23.101365],[78.47692499999999,23.101455],[78.476827,23.101454],[78.476826,23.101544],[78.47672799999999,23.101543],[78.476725,23.101723],[78.47662699999999,23.101721],[78.476626,23.101812],[78.476528,23.10181],[78.47652600000001,23.1019],[78.476429,23.101899],[78.47642500000001,23.102079],[78.476328,23.102078],[78.476321,23.102439],[78.476223,23.102437],[78.47622200000001,23.102527],[78.476124,23.102526],[78.476116,23.102977],[78.476311,23.10298],[78.476309,23.10307],[78.47709,23.103083]]],"type":"Polygon"}
 }

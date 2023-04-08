@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.52083,24.35717,85.52083,24.35717",
-    "geom:latitude":24.35717,
-    "geom:longitude":85.52083,
+    "geom:bbox":"85.51982,24.356289,85.522196,24.357548",
+    "geom:latitude":24.356972,
+    "geom:longitude":85.521,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"348.0",
     "gn:asciiname":"Bajpur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.50083,24.33717,85.54083,24.37717",
+    "ks:ks_alt_nam":"B\u0101jpur",
+    "ks:ks_id":"KSA49C503C3B2C4159B68B23A491D73380",
+    "ks:ks_name":"Bajpur",
+    "ks:ks_pop":233,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|75805",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1145496",
+    "lbl:latitude":24.357049,
+    "lbl:longitude":85.520903,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.357049,
+    "mps:longitude":85.520903,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u099c\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bajpur"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101jpur"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u091c\u092a\u0941\u0930"
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u6770\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885834
+        "gn:id":10885834,
+        "ks:id":"KSA49C503C3B2C4159B68B23A491D73380"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0ef53133b70cccb65bca88a5e2ec56dc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"765a73ac585bbc84b0f4e48ff5b0d230",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1226093487,
-    "wof:lastmodified":1566713479,
+    "wof:lastmodified":1680678896,
     "wof:name":"Bajpur",
     "wof:parent_id":1108696097,
     "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.52083,
-    24.35717,
-    85.52083,
-    24.35717
+    85.51982,
+    24.356289,
+    85.522196,
+    24.357548
 ],
-  "geometry": {"coordinates":[85.52083,24.35717],"type":"Point"}
+  "geometry": {"coordinates":[[[85.521198,24.357548],[85.521199,24.357458],[85.521593,24.357462],[85.52159399999999,24.357371],[85.52179099999999,24.357373],[85.521792,24.357283],[85.521891,24.357284],[85.52189199999999,24.357194],[85.52199,24.357195],[85.52199299999999,24.357014],[85.522091,24.357015],[85.522093,24.356834],[85.522192,24.356835],[85.52219599999999,24.356474],[85.522097,24.356473],[85.522098,24.356383],[85.52200000000001,24.356382],[85.522001,24.356292],[85.521705,24.356289],[85.521704,24.356379],[85.521507,24.356377],[85.521506,24.356467],[85.521407,24.356467],[85.521406,24.356557],[85.52012499999999,24.356544],[85.520124,24.356635],[85.519927,24.356633],[85.519925,24.356813],[85.51982599999999,24.356812],[85.51982,24.357354],[85.519919,24.357355],[85.519918,24.357445],[85.520213,24.357448],[85.520212,24.357538],[85.521198,24.357548]]],"type":"Polygon"}
 }

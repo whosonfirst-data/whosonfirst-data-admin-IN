@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.39239,25.98161,82.39239,25.98161",
-    "geom:latitude":25.98161,
-    "geom:longitude":82.39239,
+    "geom:bbox":"82.391881,25.980995,82.393184,25.981815",
+    "geom:latitude":25.981428,
+    "geom:longitude":82.392482,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Nagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.37239,25.96161,82.41239,26.00161",
+    "ks:ks_id":"KS79E20AD9C79944D5998EF81728D3624A",
+    "ks:ks_name":"Nagar",
+    "ks:ks_pop":554,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|742311",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1928076",
+    "lbl:latitude":25.981404,
+    "lbl:longitude":82.392429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.981404,
+    "mps:longitude":82.392429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u0997\u09b0"
@@ -45,6 +55,9 @@
     "name:deu_x_preferred":[
         "Nagar"
     ],
+    "name:eng_x_preferred":[
+        "Nagar"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d2\u05e8"
     ],
@@ -57,7 +70,13 @@
     "name:swe_x_preferred":[
         "Nagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10539464
+        "gn:id":10539464,
+        "ks:id":"KS79E20AD9C79944D5998EF81728D3624A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0c2904be590bf59b36c5219276a07f78",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d1e21e862ea7069ee49c198b2ab7e057",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1226085997,
-    "wof:lastmodified":1566713081,
+    "wof:lastmodified":1680678614,
     "wof:name":"Nagar",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.39239,
-    25.98161,
-    82.39239,
-    25.98161
+    82.391881,
+    25.980995,
+    82.393184,
+    25.981815
 ],
-  "geometry": {"coordinates":[82.39239000000001,25.98161],"type":"Point"}
+  "geometry": {"coordinates":[[[82.392887,25.981806],[82.392886,25.981716],[82.393086,25.981714],[82.393084,25.981623],[82.39318400000001,25.981622],[82.393181,25.981352],[82.393081,25.981353],[82.39308,25.981262],[82.39297999999999,25.981263],[82.392979,25.981173],[82.39287899999999,25.981174],[82.392878,25.981084],[82.392679,25.981086],[82.392678,25.980995],[82.392078,25.981001],[82.392079,25.981091],[82.39197900000001,25.981092],[82.391981,25.981183],[82.391881,25.981184],[82.391887,25.981725],[82.391987,25.981724],[82.391988,25.981815],[82.392887,25.981806]]],"type":"Polygon"}
 }

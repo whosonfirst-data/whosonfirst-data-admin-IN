@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.71902,24.93208,85.71902,24.93208",
-    "geom:latitude":24.93208,
-    "geom:longitude":85.71902,
+    "geom:bbox":"85.71722,24.931124,85.719895,24.932574",
+    "geom:latitude":24.931876,
+    "geom:longitude":85.718562,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Sheikhpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.69902,24.91208,85.73902,24.95208",
+    "ks:ks_id":"KS0E3A0CD6A74F403992784C4A7B5F33DB",
+    "ks:ks_name":"Shekhpura",
+    "ks:ks_pop":0,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1036000504275800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1155970",
+    "lbl:latitude":24.931849,
+    "lbl:longitude":85.718562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.931849,
+    "mps:longitude":85.718562,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u062e \u0628\u0648\u0631\u0627"
@@ -47,6 +57,12 @@
     ],
     "name:bpy_x_preferred":[
         "\u09b6\u09c7\u0996\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Shekhpura"
+    ],
+    "name:eng_x_variant":[
+        "Sheikhpura"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac8\u0a96\u0aaa\u0ac1\u0ab0\u0abe"
@@ -111,7 +127,13 @@
     "name:zho_x_preferred":[
         "\u65af\u8d6b\u4f0a\u514b\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +142,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885619
+        "gn:id":10885619,
+        "ks:id":"KS0E3A0CD6A74F403992784C4A7B5F33DB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"12a96c21bb4d51a9b95c247938c043c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"76467d2d15cef46b600262364b5229f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +160,21 @@
         }
     ],
     "wof:id":1226082697,
-    "wof:lastmodified":1577754576,
-    "wof:name":"Sheikhpura",
+    "wof:lastmodified":1680678605,
+    "wof:name":"Shekhpura",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.71902,
-    24.93208,
-    85.71902,
-    24.93208
+    85.71722,
+    24.931124,
+    85.719895,
+    24.932574
 ],
-  "geometry": {"coordinates":[85.71902,24.93208],"type":"Point"}
+  "geometry": {"coordinates":[[[85.718897,24.932574],[85.718898,24.932484],[85.719195,24.932486],[85.719196,24.932396],[85.71939399999999,24.932398],[85.71939500000001,24.932308],[85.719593,24.932309],[85.719594,24.932219],[85.719792,24.932221],[85.719793,24.93213],[85.719892,24.932131],[85.71989499999999,24.93186],[85.719796,24.93186],[85.71979899999999,24.931589],[85.7197,24.931588],[85.719701,24.931498],[85.71960199999999,24.931497],[85.71960300000001,24.931406],[85.71940499999999,24.931405],[85.71940600000001,24.931314],[85.71920799999999,24.931313],[85.71920900000001,24.931222],[85.718812,24.931219],[85.718813,24.931129],[85.718318,24.931124],[85.718317,24.931215],[85.718119,24.931213],[85.718118,24.931303],[85.71792000000001,24.931302],[85.71791899999999,24.931392],[85.71782,24.931391],[85.71781900000001,24.931481],[85.717423,24.931478],[85.717422,24.931568],[85.71732299999999,24.931567],[85.717322,24.931748],[85.717223,24.931747],[85.71722,24.932018],[85.717319,24.932019],[85.71731699999999,24.932199],[85.717416,24.9322],[85.717415,24.932291],[85.71751399999999,24.932291],[85.717513,24.932382],[85.71781,24.932384],[85.717809,24.932475],[85.71810600000001,24.932477],[85.71810499999999,24.932567],[85.718897,24.932574]]],"type":"Polygon"}
 }

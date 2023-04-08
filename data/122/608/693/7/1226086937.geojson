@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.04777,25.26865,85.04777,25.26865",
-    "geom:latitude":25.26865,
-    "geom:longitude":85.04777,
+    "geom:bbox":"85.04737,25.268078,85.048178,25.268887",
+    "geom:latitude":25.268482,
+    "geom:longitude":85.047774,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"239.0",
     "gn:asciiname":"Kasiawan",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.02777,25.24865,85.06777,25.28865",
+    "ks:ks_id":"KSD8D025A69A4F4FE68284B14781219F16",
+    "ks:ks_name":"Kosiawan",
+    "ks:ks_pop":426,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1033000803745500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1340287",
+    "lbl:latitude":25.268482,
+    "lbl:longitude":85.047774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.268482,
+    "mps:longitude":85.047774,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kosiawan"
+    ],
+    "name:eng_x_variant":[
+        "Kasiawan"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11012217
+        "gn:id":11012217,
+        "ks:id":"KSD8D025A69A4F4FE68284B14781219F16"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f60ef165dd1f5aa068b595661485aa1d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"589336bcefae7fd2f76e86d92b31baa2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1226086937,
-    "wof:lastmodified":1566713069,
-    "wof:name":"Kasiawan",
+    "wof:lastmodified":1680678604,
+    "wof:name":"Kosiawan",
     "wof:parent_id":1108695953,
     "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.04777,
-    25.26865,
-    85.04777,
-    25.26865
+    85.04737,
+    25.268078,
+    85.048178,
+    25.268887
 ],
-  "geometry": {"coordinates":[85.04777,25.26865],"type":"Point"}
+  "geometry": {"coordinates":[[[85.04817799999999,25.268078],[85.04737,25.268078],[85.04737,25.268887],[85.04817799999999,25.268887],[85.04817799999999,25.268078]]],"type":"Polygon"}
 }
