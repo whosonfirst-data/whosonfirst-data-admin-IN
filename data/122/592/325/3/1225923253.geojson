@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.90698,10.97409,75.90698,10.97409",
-    "geom:latitude":10.97409,
-    "geom:longitude":75.90698,
+    "geom:bbox":"75.905574,10.972199,75.906113,10.973277",
+    "geom:latitude":10.972796,
+    "geom:longitude":75.905863,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"592.0",
     "gn:asciiname":"Kuruvattissheri",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.88698,10.95409,75.92698,10.99409",
+    "ks:ks_id":"KSDB33CC8046AF451BBD2A7B696F9563F4",
+    "ks:ks_name":"Kuruvattissery",
+    "ks:ks_pop":298,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1212538",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_159460",
+    "lbl:latitude":10.972803,
+    "lbl:longitude":75.905845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.972803,
+    "mps:longitude":75.905845,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kuruvattissery"
+    ],
+    "name:eng_x_variant":[
+        "Kuruvattissheri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10929928
+        "gn:id":10929928,
+        "ks:id":"KSDB33CC8046AF451BBD2A7B696F9563F4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f3dd3b7d4fd40c2560124b6dd5610901",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"90c71d88431ba3399a8b45a7eeb0298f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1225923253,
-    "wof:lastmodified":1566710844,
-    "wof:name":"Kuruvattissheri",
+    "wof:lastmodified":1680677018,
+    "wof:name":"Kuruvattissery",
     "wof:parent_id":890502819,
     "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.90698,
-    10.97409,
-    75.90698,
-    10.97409
+    75.905574,
+    10.972199,
+    75.906113,
+    10.973277
 ],
-  "geometry": {"coordinates":[75.90698,10.97409],"type":"Point"}
+  "geometry": {"coordinates":[[[75.906113,10.973277],[75.906113,10.972199],[75.905844,10.972199],[75.905844,10.972469],[75.905574,10.972469],[75.905574,10.973277],[75.906113,10.973277]]],"type":"Polygon"}
 }

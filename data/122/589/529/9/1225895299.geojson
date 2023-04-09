@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.75546,24.25582,87.75546,24.25582",
-    "geom:latitude":24.25582,
-    "geom:longitude":87.75546,
+    "geom:bbox":"87.754864,24.255401,87.756341,24.25613",
+    "geom:latitude":24.255807,
+    "geom:longitude":87.755617,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"334.0",
     "gn:asciiname":"Alampur",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.73546,24.23582,87.77546,24.27582",
+    "ks:ks_id":"KSB6DCBAE53A0B45D88C62AD72AC1D321D",
+    "ks:ks_name":"Alampur",
+    "ks:ks_pop":536,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|23983",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1195028",
+    "lbl:latitude":24.255764,
+    "lbl:longitude":87.755677,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.255764,
+    "mps:longitude":87.755677,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Alampur"
+    ],
+    "name:eng_x_preferred":[
         "Alampur"
     ],
     "name:hin_x_preferred":[
@@ -39,7 +52,13 @@
     "name:swe_x_preferred":[
         "Alampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11018793
+        "gn:id":11018793,
+        "ks:id":"KSB6DCBAE53A0B45D88C62AD72AC1D321D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"20289f9adb975a136274f81be7f8a0e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23fb4346efbc43fc64fd7f8f802c72f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1225895299,
-    "wof:lastmodified":1566712236,
+    "wof:lastmodified":1680677964,
     "wof:name":"Alampur",
     "wof:parent_id":890501089,
     "wof:placetype":"locality",
+    "wof:population":536,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.75546,
-    24.25582,
-    87.75546,
-    24.25582
+    87.754864,
+    24.255401,
+    87.756341,
+    24.25613
 ],
-  "geometry": {"coordinates":[87.75546,24.25582],"type":"Point"}
+  "geometry": {"coordinates":[[[87.75634100000001,24.255851],[87.75633999999999,24.255761],[87.756242,24.255762],[87.756241,24.255581],[87.756142,24.255581],[87.756142,24.255491],[87.75604300000001,24.255492],[87.75604199999999,24.255401],[87.75584499999999,24.255402],[87.75584600000001,24.255493],[87.755353,24.255495],[87.755354,24.255585],[87.755256,24.255586],[87.755256,24.255676],[87.75515799999999,24.255677],[87.75515799999999,24.255767],[87.75506,24.255767],[87.75506,24.255858],[87.75496200000001,24.255858],[87.75496200000001,24.255949],[87.754864,24.255949],[87.754865,24.25613],[87.755653,24.256126],[87.755652,24.256035],[87.756046,24.256033],[87.756046,24.255943],[87.756243,24.255942],[87.756242,24.255852],[87.75634100000001,24.255851]]],"type":"Polygon"}
 }

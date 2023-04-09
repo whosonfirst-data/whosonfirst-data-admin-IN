@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.86768,25.8278,81.86768,25.8278",
-    "geom:latitude":25.8278,
-    "geom:longitude":81.86768,
+    "geom:bbox":"81.87251,25.828584,81.874111,25.829664",
+    "geom:latitude":25.829103,
+    "geom:longitude":81.87321,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Ghazipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.84768,25.8078,81.88768,25.8478",
+    "ks:ks_id":"KS4BAE5C4EBC1B472787E9E295E43DD0FE",
+    "ks:ks_name":"Ghazipur",
+    "ks:ks_pop":700,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|357391",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1923549",
+    "lbl:latitude":25.829064,
+    "lbl:longitude":81.87321,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.829064,
+    "mps:longitude":81.87321,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0632\u0628\u0648\u0631"
@@ -52,6 +62,9 @@
         "Gh\u0101z\u012bpur"
     ],
     "name:deu_x_preferred":[
+        "Ghazipur"
+    ],
+    "name:eng_x_preferred":[
         "Ghazipur"
     ],
     "name:fra_x_preferred":[
@@ -135,7 +148,13 @@
     "name:zho_x_preferred":[
         "\u52a0\u9f50\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -144,10 +163,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10683383
+        "gn:id":10683383,
+        "ks:id":"KS4BAE5C4EBC1B472787E9E295E43DD0FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ad75f509c4d722c4a545572695a80675",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5457e63fb01bb960faff9bdfad715f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,20 +181,22 @@
         }
     ],
     "wof:id":1225897037,
-    "wof:lastmodified":1577754352,
+    "wof:lastmodified":1680677969,
     "wof:name":"Ghazipur",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.86768000000002,
-    25.8278,
-    81.86768000000002,
-    25.8278
+    81.87251,
+    25.828584,
+    81.874111,
+    25.829664
 ],
-  "geometry": {"coordinates":[81.86768000000002,25.8278],"type":"Point"}
+  "geometry": {"coordinates":[[[81.874111,25.829663],[81.874109,25.829483],[81.87401,25.829483],[81.874009,25.829393],[81.87380899999999,25.829394],[81.873807,25.829033],[81.873707,25.829033],[81.873706,25.828943],[81.87360700000001,25.828944],[81.873606,25.828854],[81.87350600000001,25.828854],[81.87350499999999,25.828764],[81.873406,25.828764],[81.87340500000001,25.828674],[81.873305,25.828675],[81.873305,25.828584],[81.87300500000001,25.828586],[81.873006,25.828677],[81.872806,25.828678],[81.87280699999999,25.828768],[81.87270700000001,25.828769],[81.872708,25.828859],[81.872608,25.828859],[81.87260999999999,25.82904],[81.87251000000001,25.829041],[81.872512,25.829402],[81.87371,25.829395],[81.87371,25.829485],[81.87381000000001,25.829484],[81.873811,25.829575],[81.87391100000001,25.829574],[81.87391100000001,25.829664],[81.874111,25.829663]]],"type":"Polygon"}
 }
