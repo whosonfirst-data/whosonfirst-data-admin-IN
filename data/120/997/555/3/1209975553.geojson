@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.93377,19.49209,84.93377,19.49209",
-    "geom:latitude":19.49209,
-    "geom:longitude":84.93377,
+    "geom:bbox":"84.933398,19.502686,84.935221,19.504123",
+    "geom:latitude":19.503464,
+    "geom:longitude":84.934307,
     "gn:admin1_code":"21",
     "gn:admin2_code":"388.0",
     "gn:asciiname":"Pratapur",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.91377,19.47209,84.95377,19.51209",
+    "ks:ks_id":"KS875BAA68C3584B3DB31DB85EF481CC68",
+    "ks:ks_name":"Pratapur",
+    "ks:ks_pop":3153,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|865928",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_625474",
+    "lbl:latitude":19.503537,
+    "lbl:longitude":84.934217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.503537,
+    "mps:longitude":84.934217,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pratapapur"
+    ],
+    "name:eng_x_preferred":[
+        "Pratapur"
     ],
     "name:mai_x_preferred":[
         "\u092a\u094d\u0930\u0924\u093e\u092a\u092a\u0941\u0930"
@@ -45,7 +58,13 @@
     "name:pol_x_preferred":[
         "Pratapapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1259331
+        "gn:id":1259331,
+        "ks:id":"KS875BAA68C3584B3DB31DB85EF481CC68"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b913bfda2607af70bf8402bb6c17c93a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ecaa8f93ce96fa024fa21959577d515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1209975553,
-    "wof:lastmodified":1566694918,
+    "wof:lastmodified":1680661319,
     "wof:name":"Pratapur",
     "wof:parent_id":890507443,
     "wof:placetype":"locality",
+    "wof:population":3153,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.93377,
-    19.49209,
-    84.93377,
-    19.49209
+    84.933398,
+    19.502686,
+    84.935221,
+    19.504123
 ],
-  "geometry": {"coordinates":[84.93377,19.49209],"type":"Point"}
+  "geometry": {"coordinates":[[[84.93406400000001,19.504123],[84.934065,19.504032],[84.93425499999999,19.504034],[84.934256,19.503944],[84.93444700000001,19.503946],[84.934448,19.503856],[84.934639,19.503858],[84.93464,19.503768],[84.934735,19.503769],[84.934736,19.503679],[84.934831,19.50368],[84.934833,19.503589],[84.934928,19.503591],[84.93492999999999,19.50341],[84.935025,19.503411],[84.93502599999999,19.503321],[84.93512200000001,19.503322],[84.935123,19.503231],[84.93521800000001,19.503233],[84.935221,19.502962],[84.935126,19.502961],[84.93512699999999,19.50287],[84.93503200000001,19.502869],[84.935033,19.502779],[84.934938,19.502778],[84.934939,19.502687],[84.934844,19.502686],[84.934843,19.502777],[84.934652,19.502774],[84.934651,19.502865],[84.934365,19.502861],[84.934364,19.502952],[84.934269,19.502951],[84.934268,19.503041],[84.934173,19.50304],[84.934172,19.50313],[84.933981,19.503128],[84.93398000000001,19.503218],[84.933885,19.503217],[84.93388400000001,19.503308],[84.93369300000001,19.503305],[84.93369199999999,19.503396],[84.93359700000001,19.503395],[84.933594,19.503575],[84.933499,19.503574],[84.933498,19.503665],[84.933403,19.503663],[84.933398,19.504025],[84.933493,19.504026],[84.933492,19.504116],[84.93406400000001,19.504123]]],"type":"Polygon"}
 }

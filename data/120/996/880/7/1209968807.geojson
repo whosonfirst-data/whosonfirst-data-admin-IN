@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.18024,27.29554,81.18024,27.29554",
-    "geom:latitude":27.29554,
-    "geom:longitude":81.18024,
+    "geom:bbox":"81.179343,27.294808,81.181365,27.296073",
+    "geom:latitude":27.295497,
+    "geom:longitude":81.180296,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Sarayan",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.16024,27.27554,81.20024,27.31554",
+    "ks:ks_id":"KSDFFDAE0A33A64180857BAF1EE9132C86",
+    "ks:ks_name":"Saraiyan",
+    "ks:ks_pop":300,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|955413",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1897653",
+    "lbl:latitude":27.295485,
+    "lbl:longitude":81.180296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.295485,
+    "mps:longitude":81.180296,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u064a\u0627\u0646"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Sar\u0101y\u0101n"
+    ],
+    "name:eng_x_preferred":[
+        "Saraiyan"
+    ],
+    "name:eng_x_variant":[
+        "Sarayan"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0627\u06cc\u0627\u0646"
@@ -57,7 +73,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0631\u0627\u06cc\u0627\u0646"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10559140
+        "gn:id":10559140,
+        "ks:id":"KSDFFDAE0A33A64180857BAF1EE9132C86"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2d6ded5f0f539ce065d940ce68055b2c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00ebf673a321fbdaaa5d5d740c4c5ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1209968807,
-    "wof:lastmodified":1566694698,
-    "wof:name":"Sarayan",
+    "wof:lastmodified":1680661179,
+    "wof:name":"Saraiyan",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.18024,
-    27.29554000000001,
-    81.18024,
-    27.29554000000001
+    81.179343,
+    27.294808,
+    81.181365,
+    27.296073
 ],
-  "geometry": {"coordinates":[81.18024,27.29554000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[81.181163,27.296071],[81.181163,27.295981],[81.181264,27.29598],[81.181264,27.29589],[81.181365,27.29589],[81.181364,27.295439],[81.181263,27.295439],[81.181263,27.295349],[81.181162,27.295349],[81.181162,27.295258],[81.181061,27.295258],[81.181061,27.295168],[81.18096,27.295168],[81.18096,27.295078],[81.180859,27.295078],[81.180858,27.294988],[81.180656,27.294988],[81.180656,27.294898],[81.180252,27.294898],[81.180252,27.294808],[81.17974599999999,27.294809],[81.17974700000001,27.294899],[81.179545,27.294899],[81.179545,27.29499],[81.179444,27.29499],[81.179444,27.29508],[81.179343,27.29508],[81.179344,27.295802],[81.179445,27.295802],[81.179445,27.295893],[81.179546,27.295892],[81.179546,27.295983],[81.179647,27.295983],[81.179647,27.296073],[81.181163,27.296071]]],"type":"Polygon"}
 }
