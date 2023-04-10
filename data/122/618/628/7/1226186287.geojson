@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.1148,27.67002,80.1148,27.67002",
-    "geom:latitude":27.67002,
-    "geom:longitude":80.1148,
+    "geom:bbox":"80.113958,27.668746,80.115896,27.670819",
+    "geom:latitude":27.669919,
+    "geom:longitude":80.114925,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Jalalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.0948,27.65002,80.1348,27.69002",
+    "ks:ks_id":"KSD992028F58C74971B7B810F4E5762167",
+    "ks:ks_name":"Jalal Pur",
+    "ks:ks_pop":540,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|445279",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2008982",
+    "lbl:latitude":27.669894,
+    "lbl:longitude":80.115003,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.669894,
+    "mps:longitude":80.115003,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b2\u09be\u09b2\u09aa\u09c1\u09b0"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Jal\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Jalal Pur"
+    ],
+    "name:eng_x_variant":[
+        "Jalalpur"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0644\u0627\u0644\u200c\u067e\u0648\u0631"
@@ -78,7 +94,13 @@
     "name:zho_x_preferred":[
         "\u8d3e\u62c9\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11062137
+        "gn:id":11062137,
+        "ks:id":"KSD992028F58C74971B7B810F4E5762167"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8d45906a748fa5e82203b052b76ffd22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"be14828587b736de058461d78e02bbae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +127,22 @@
         }
     ],
     "wof:id":1226186287,
-    "wof:lastmodified":1566711411,
-    "wof:name":"Jalalpur",
+    "wof:lastmodified":1680677331,
+    "wof:name":"Jalal Pur",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.1148,
-    27.67002,
-    80.1148,
-    27.67002
+    80.113958,
+    27.668746,
+    80.115896,
+    27.670819
 ],
-  "geometry": {"coordinates":[80.1148,27.67002],"type":"Point"}
+  "geometry": {"coordinates":[[[80.11466799999999,27.670819],[80.11466900000001,27.670729],[80.11507400000001,27.670732],[80.115075,27.670641],[80.115481,27.670644],[80.115481,27.670554],[80.115583,27.670554],[80.115584,27.670464],[80.115685,27.670465],[80.11568699999999,27.670194],[80.11578799999999,27.670195],[80.115791,27.669924],[80.115892,27.669925],[80.11589600000001,27.669383],[80.11579500000001,27.669382],[80.115796,27.669292],[80.115694,27.669291],[80.115695,27.669201],[80.115594,27.6692],[80.115594,27.66911],[80.115493,27.66911],[80.115494,27.669019],[80.115392,27.669019],[80.115393,27.668928],[80.115292,27.668928],[80.115292,27.668837],[80.115191,27.668837],[80.11519199999999,27.668747],[80.11509,27.668746],[80.11509,27.668836],[80.114988,27.668835],[80.114987,27.669016],[80.114885,27.669015],[80.114885,27.669106],[80.114682,27.669104],[80.114681,27.669195],[80.11458,27.669194],[80.11457900000001,27.669284],[80.11447800000001,27.669284],[80.11447699999999,27.669374],[80.11437599999999,27.669373],[80.114375,27.669463],[80.114273,27.669463],[80.114273,27.669553],[80.114171,27.669552],[80.114171,27.669643],[80.114069,27.669642],[80.11406599999999,27.670003],[80.11396499999999,27.670002],[80.113958,27.670815],[80.11466799999999,27.670819]]],"type":"Polygon"}
 }

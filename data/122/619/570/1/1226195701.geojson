@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.25186,24.49555,81.25186,24.49555",
-    "geom:latitude":24.49555,
-    "geom:longitude":81.25186,
+    "geom:bbox":"81.250467,24.494424,81.253626,24.496416",
+    "geom:latitude":24.495371,
+    "geom:longitude":81.252067,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Khakham",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.23186,24.47555,81.27186,24.51555",
+    "ks:ks_id":"KS3CBE6B8B848C41B980AA606E2E640EFE",
+    "ks:ks_name":"Khokham",
+    "ks:ks_pop":517,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|559041",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1026156",
+    "lbl:latitude":24.495375,
+    "lbl:longitude":81.252097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.495375,
+    "mps:longitude":81.252097,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Khokham"
+    ],
+    "name:eng_x_variant":[
+        "Khakham"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10533783
+        "gn:id":10533783,
+        "ks:id":"KS3CBE6B8B848C41B980AA606E2E640EFE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"531fc1ee824f1c33fad1683e38d2ff9b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4f782f81b97df18e85368f1ffe71edcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1226195701,
-    "wof:lastmodified":1566711258,
-    "wof:name":"Khakham",
+    "wof:lastmodified":1680677241,
+    "wof:name":"Khokham",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":517,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.25186,
-    24.49555,
-    81.25186,
-    24.49555
+    81.250467,
+    24.494424,
+    81.253626,
+    24.496416
 ],
-  "geometry": {"coordinates":[81.25185999999999,24.49555],"type":"Point"}
+  "geometry": {"coordinates":[[[81.251357,24.496415],[81.251357,24.496324],[81.251456,24.496324],[81.251456,24.496234],[81.251653,24.496234],[81.251653,24.496143],[81.251949,24.496143],[81.251949,24.496052],[81.253232,24.49605],[81.253232,24.49596],[81.253429,24.49596],[81.253429,24.495869],[81.253626,24.495869],[81.253625,24.494966],[81.25352599999999,24.494966],[81.253525,24.494605],[81.253426,24.494605],[81.253426,24.494515],[81.253328,24.494515],[81.253327,24.494424],[81.252143,24.494426],[81.252143,24.494517],[81.251946,24.494517],[81.251946,24.494607],[81.25155100000001,24.494608],[81.25155100000001,24.494698],[81.25095899999999,24.494699],[81.25095899999999,24.49479],[81.250861,24.49479],[81.250861,24.49488],[81.25076199999999,24.49488],[81.25076199999999,24.494971],[81.250664,24.494971],[81.250664,24.495151],[81.25056499999999,24.495152],[81.25056499999999,24.495242],[81.250467,24.495242],[81.250468,24.495694],[81.25056600000001,24.495693],[81.250567,24.496145],[81.250666,24.496145],[81.250666,24.496326],[81.250765,24.496325],[81.250765,24.496416],[81.251357,24.496415]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.23833,29.85015,78.23833,29.85015",
-    "geom:latitude":29.85015,
-    "geom:longitude":78.23833,
+    "geom:bbox":"78.237742,29.850485,78.239599,29.851333",
+    "geom:latitude":29.850917,
+    "geom:longitude":78.238539,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"68.0",
     "gn:asciiname":"Pili",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.21833,29.83015,78.25833,29.87015",
+    "ks:ks_alt_nam":"P\u012bli",
+    "ks:ks_id":"KS0B632375A833499CB60A6D6B2697908C",
+    "ks:ks_name":"Pili",
+    "ks:ks_source_id":"N|12606978",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1838584",
+    "lbl:latitude":29.850907,
+    "lbl:longitude":78.238522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.850907,
+    "mps:longitude":78.238522,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pili"
@@ -38,6 +47,12 @@
     ],
     "name:deu_x_preferred":[
         "Pili"
+    ],
+    "name:eng_x_preferred":[
+        "Pili"
+    ],
+    "name:eng_x_variant":[
+        "P\u012bli"
     ],
     "name:fin_x_preferred":[
         "Pili"
@@ -57,7 +72,11 @@
     "name:tur_x_preferred":[
         "Pili"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10181353
+        "gn:id":10181353,
+        "ks:id":"KS0B632375A833499CB60A6D6B2697908C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1f8899d88d1422d404a41bb52af7af7f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f373fa36e1f66c183a3cf63911a23dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +103,7 @@
         }
     ],
     "wof:id":1226177983,
-    "wof:lastmodified":1566711136,
+    "wof:lastmodified":1680677173,
     "wof:name":"Pili",
     "wof:parent_id":890507909,
     "wof:placetype":"locality",
@@ -90,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    78.23833,
-    29.85015,
-    78.23833,
-    29.85015
+    78.237742,
+    29.850485,
+    78.239599,
+    29.851333
 ],
-  "geometry": {"coordinates":[78.23833,29.85015],"type":"Point"}
+  "geometry": {"coordinates":[[[78.23949,29.851333],[78.239493,29.851243],[78.23959600000001,29.851245],[78.239599,29.851155],[78.23949500000001,29.851153],[78.239498,29.851063],[78.239394,29.851061],[78.239397,29.850971],[78.239293,29.850968],[78.239296,29.850878],[78.238986,29.850872],[78.23898800000001,29.850782],[78.238885,29.85078],[78.23888700000001,29.850689],[78.238784,29.850687],[78.238786,29.850597],[78.23858,29.850593],[78.23858199999999,29.850503],[78.23775500000001,29.850485],[78.237742,29.850936],[78.237846,29.850938],[78.237843,29.851028],[78.23794700000001,29.85103],[78.237944,29.851121],[78.238151,29.851125],[78.23814900000001,29.851215],[78.23845900000001,29.851222],[78.238456,29.851312],[78.238767,29.851318],[78.238769,29.851228],[78.23928600000001,29.851239],[78.239284,29.851329],[78.23949,29.851333]]],"type":"Polygon"}
 }

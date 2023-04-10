@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.32151,25.17355,82.32151,25.17355",
-    "geom:latitude":25.17355,
-    "geom:longitude":82.32151,
+    "geom:bbox":"82.325744,25.171869,82.326822,25.172947",
+    "geom:latitude":25.172408,
+    "geom:longitude":82.326225,
     "gn:admin1_code":"36",
     "gn:admin2_code":"199.0",
     "gn:asciiname":"Patkhauli",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.30151,25.15355,82.34151,25.19355",
+    "ks:ks_id":"KSA345EACC391741F8B4BF0BD131E2FCE0",
+    "ks:ks_name":"Parkhauli",
+    "ks:ks_pop":275,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0969000110412000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1335181",
+    "lbl:latitude":25.172408,
+    "lbl:longitude":82.326153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.172408,
+    "mps:longitude":82.326153,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Parkhauli"
+    ],
+    "name:eng_x_variant":[
+        "Patkhauli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10544346
+        "gn:id":10544346,
+        "ks:id":"KSA345EACC391741F8B4BF0BD131E2FCE0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"df4f24cdb55605a86643047a925fe022",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6590455cfe75b24e271a78d2018a28ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1226186407,
-    "wof:lastmodified":1566711457,
-    "wof:name":"Patkhauli",
+    "wof:lastmodified":1680677371,
+    "wof:name":"Parkhauli",
     "wof:parent_id":1108695885,
     "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.32151,
-    25.17355,
-    82.32151,
-    25.17355
+    82.325744,
+    25.171869,
+    82.326822,
+    25.172947
 ],
-  "geometry": {"coordinates":[82.32151,25.17355],"type":"Point"}
+  "geometry": {"coordinates":[[[82.32655200000001,25.172677],[82.32655200000001,25.172138],[82.32682200000001,25.172138],[82.32682200000001,25.171869],[82.325744,25.171869],[82.325744,25.172947],[82.32682200000001,25.172947],[82.32682200000001,25.172677],[82.32655200000001,25.172677]]],"type":"Polygon"}
 }
