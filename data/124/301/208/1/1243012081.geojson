@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.25381,25.54388,83.25381,25.54388",
-    "geom:latitude":25.54388,
-    "geom:longitude":83.25381,
+    "geom:bbox":"83.252314,25.543236,83.254605,25.544686",
+    "geom:latitude":25.543944,
+    "geom:longitude":83.253263,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Inayatpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.23381,25.52388,83.27381,25.56388",
+    "ks:ks_alt_nam":"In\u0101yatpur",
+    "ks:ks_id":"KSD34C91AB910E4C5BA1A7CE65DE670F93",
+    "ks:ks_name":"Inayatpur",
+    "ks:ks_pop":330,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|432106",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1941720",
+    "lbl:latitude":25.544003,
+    "lbl:longitude":83.253012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.544003,
+    "mps:longitude":83.253012,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u064a\u062a\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0987\u09a8\u09be\u09df\u09be\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Inayatpur"
+    ],
+    "name:eng_x_variant":[
+        "In\u0101yatpur"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aa8\u0abe\u0aaf\u0aa4\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0639\u0646\u0627\u06cc\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10502094
+        "gn:id":10502094,
+        "ks:id":"KSD34C91AB910E4C5BA1A7CE65DE670F93"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b580e380fd4b85d45cfdee7d65693982",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bacf11e0aab9d56872a66ef146393b71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1243012081,
-    "wof:lastmodified":1577752778,
+    "wof:lastmodified":1680670762,
     "wof:name":"Inayatpur",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.25381,
-    25.54388,
-    83.25381,
-    25.54388
+    83.252314,
+    25.543236,
+    83.254605,
+    25.544686
 ],
-  "geometry": {"coordinates":[83.25381,25.54388],"type":"Point"}
+  "geometry": {"coordinates":[[[83.253327,25.544675],[83.253325,25.544585],[83.25342499999999,25.544583],[83.253423,25.544493],[83.253523,25.544491],[83.25352100000001,25.544401],[83.253621,25.5444],[83.253619,25.544309],[83.25371800000001,25.544308],[83.25371699999999,25.544218],[83.253816,25.544216],[83.25381299999999,25.544036],[83.253912,25.544034],[83.25391399999999,25.544124],[83.254113,25.544121],[83.25411099999999,25.544031],[83.254409,25.544026],[83.254408,25.543936],[83.254507,25.543935],[83.25450600000001,25.543844],[83.254605,25.543843],[83.25460200000001,25.543662],[83.254502,25.543664],[83.25449999999999,25.543574],[83.254401,25.543575],[83.25439900000001,25.543485],[83.253703,25.543496],[83.25370100000001,25.543406],[83.253304,25.543412],[83.25330200000001,25.543321],[83.25300300000001,25.543326],[83.253002,25.543236],[83.25290200000001,25.543237],[83.252904,25.543328],[83.25270500000001,25.543331],[83.252707,25.543421],[83.252607,25.543422],[83.25260900000001,25.543513],[83.25241,25.543516],[83.252413,25.543696],[83.252314,25.543698],[83.252326,25.544329],[83.252425,25.544328],[83.25242900000001,25.544508],[83.252528,25.544507],[83.25252999999999,25.544597],[83.252629,25.544595],[83.25263099999999,25.544686],[83.253327,25.544675]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.23909,19.3431,79.23909,19.3431",
-    "geom:latitude":19.3431,
-    "geom:longitude":79.23909,
+    "geom:bbox":"79.238724,19.342299,79.240061,19.34384",
+    "geom:latitude":19.343115,
+    "geom:longitude":79.239337,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Kosara",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.21909,19.3231,79.25909,19.3631",
+    "ks:ks_alt_nam":"Kos\u0101ra",
+    "ks:ks_id":"KS8670FF2C265E47EB9C3B3E95DAE5259B",
+    "ks:ks_name":"Kosara",
+    "ks:ks_pop":238,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1264872",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_554337",
+    "lbl:latitude":19.343108,
+    "lbl:longitude":79.23935,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.343108,
+    "mps:longitude":79.23935,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043e\u0434\u043e\u0440\u0430 \u041a\u043e\u0441\u0430\u0440\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Kosara"
+    ],
+    "name:eng_x_variant":[
+        "Kos\u0101ra"
     ],
     "name:hrv_x_preferred":[
         "Kosara"
@@ -45,7 +62,13 @@
     "name:srp_x_preferred":[
         "\u0422\u0435\u043e\u0434\u043e\u0440\u0430 \u041a\u043e\u0441\u0430\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10969165
+        "gn:id":10969165,
+        "ks:id":"KS8670FF2C265E47EB9C3B3E95DAE5259B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"be10619e5646b3ec79edbe4c1b66c924",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16a42a433ef75ca38298a95206fc530c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1243010771,
-    "wof:lastmodified":1566705726,
+    "wof:lastmodified":1680670735,
     "wof:name":"Kosara",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.23909,
-    19.3431,
-    79.23909,
-    19.3431
+    79.238724,
+    19.342299,
+    79.240061,
+    19.34384
 ],
-  "geometry": {"coordinates":[79.23909,19.3431],"type":"Point"}
+  "geometry": {"coordinates":[[[79.23957900000001,19.34384],[79.23958,19.34375],[79.23976999999999,19.343751],[79.239771,19.343661],[79.23986600000001,19.343662],[79.239868,19.343481],[79.239963,19.343482],[79.239964,19.343392],[79.240059,19.343393],[79.240061,19.343212],[79.239966,19.343211],[79.239968,19.343031],[79.239873,19.34303],[79.23987700000001,19.342668],[79.23978099999999,19.342667],[79.23978200000001,19.342577],[79.239687,19.342576],[79.239688,19.342486],[79.239593,19.342485],[79.239594,19.342395],[79.23940399999999,19.342393],[79.239405,19.342302],[79.239024,19.342299],[79.239023,19.342389],[79.238928,19.342388],[79.238927,19.342478],[79.238832,19.342478],[79.23882399999999,19.3432],[79.23872900000001,19.343199],[79.238724,19.343651],[79.23881900000001,19.343652],[79.23881799999999,19.343742],[79.239009,19.343744],[79.239008,19.343834],[79.23957900000001,19.34384]]],"type":"Polygon"}
 }

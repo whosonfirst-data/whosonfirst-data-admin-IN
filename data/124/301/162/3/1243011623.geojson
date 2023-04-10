@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.6785,25.1086,81.6785,25.1086",
-    "geom:latitude":25.1086,
-    "geom:longitude":81.6785,
+    "geom:bbox":"81.677791,25.107848,81.67879,25.109563",
+    "geom:latitude":25.108517,
+    "geom:longitude":81.678457,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Dhari",
@@ -24,19 +24,38 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.6585,25.0886,81.6985,25.1286",
+    "ks:ks_id":"KSCC99376360664BB39DD575B60B3E82A1",
+    "ks:ks_name":"Dhari",
+    "ks:ks_pop":99,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13114618",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1841615",
+    "lbl:latitude":25.108522,
+    "lbl:longitude":81.678582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.108522,
+    "mps:longitude":81.678582,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Dhari"
+    ],
+    "name:eng_x_preferred":[
         "Dhari"
     ],
     "name:swe_x_preferred":[
         "Dhari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10681470
+        "gn:id":10681470,
+        "ks:id":"KSCC99376360664BB39DD575B60B3E82A1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7126e60b750fd9e56a066daca373d78b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07a85b120a97ae44b1aa10c45a12d2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +82,22 @@
         }
     ],
     "wof:id":1243011623,
-    "wof:lastmodified":1566705749,
+    "wof:lastmodified":1680670749,
     "wof:name":"Dhari",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.6785,
-    25.1086,
-    81.6785,
-    25.1086
+    81.677791,
+    25.107848,
+    81.67879,
+    25.109563
 ],
-  "geometry": {"coordinates":[81.6785,25.1086],"type":"Point"}
+  "geometry": {"coordinates":[[[81.67859199999999,25.109202],[81.678691,25.109201],[81.678691,25.109291],[81.67879000000001,25.109291],[81.678785,25.108388],[81.678686,25.108388],[81.678685,25.108208],[81.678586,25.108208],[81.678586,25.108118],[81.67848600000001,25.108118],[81.67848600000001,25.108028],[81.678387,25.108029],[81.678386,25.107938],[81.678287,25.107939],[81.678286,25.107848],[81.67789,25.10785],[81.67789,25.107941],[81.677791,25.107941],[81.677792,25.108031],[81.67798999999999,25.10803],[81.67798999999999,25.108121],[81.67809,25.10812],[81.67809,25.108211],[81.678189,25.10821],[81.67819,25.1083],[81.67828900000001,25.1083],[81.67829,25.108481],[81.678389,25.10848],[81.67838999999999,25.108661],[81.678489,25.10866],[81.678494,25.109563],[81.67859300000001,25.109563],[81.67859199999999,25.109202]]],"type":"Polygon"}
 }

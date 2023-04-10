@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000023,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.40873,30.93485,76.40873,30.93485",
-    "geom:latitude":30.93485,
-    "geom:longitude":76.40873,
+    "geom:bbox":"76.40387,30.932046,76.411416,30.936897",
+    "geom:latitude":30.934802,
+    "geom:longitude":76.407315,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"051",
     "gn:asciiname":"Bela",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.38873,30.91485,76.42873,30.95485",
+    "ks:ks_id":"KSAAE30C94B7E84A5690B5CB213D7046BA",
+    "ks:ks_name":"Bela",
+    "ks:ks_pop":1990,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0307000200674900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2183787",
+    "lbl:latitude":30.934902,
+    "lbl:longitude":76.407387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.934902,
+    "mps:longitude":76.407387,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bela"
@@ -40,6 +50,9 @@
         "Bela"
     ],
     "name:deu_x_preferred":[
+        "Bela"
+    ],
+    "name:eng_x_preferred":[
         "Bela"
     ],
     "name:eus_x_preferred":[
@@ -78,7 +91,13 @@
     "name:tgl_x_preferred":[
         "Bela"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1276572
+        "gn:id":1276572,
+        "ks:id":"KSAAE30C94B7E84A5690B5CB213D7046BA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a25bcec9fe55e7c623649d21818d8365",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dbe25740f93a141ce95c324d82a24d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1243026395,
-    "wof:lastmodified":1566707580,
+    "wof:lastmodified":1680671786,
     "wof:name":"Bela",
     "wof:parent_id":890508855,
     "wof:placetype":"locality",
+    "wof:population":1990,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.40873,
-    30.93485,
-    76.40873,
-    30.93485
+    76.40387,
+    30.932046,
+    76.411416,
+    30.936897
 ],
-  "geometry": {"coordinates":[76.40873000000001,30.93485],"type":"Point"}
+  "geometry": {"coordinates":[[[76.408721,30.936897],[76.408721,30.936358],[76.40899,30.936358],[76.40899,30.936088],[76.40926,30.936088],[76.40926,30.935819],[76.410607,30.935819],[76.410607,30.935549],[76.411416,30.935549],[76.411416,30.934741],[76.410338,30.934741],[76.410338,30.934471],[76.410068,30.934471],[76.410068,30.934202],[76.40979900000001,30.934202],[76.40979900000001,30.932585],[76.40926,30.932585],[76.40926,30.932315],[76.408721,30.932315],[76.408721,30.932585],[76.407912,30.932585],[76.407912,30.932854],[76.40764299999999,30.932854],[76.40764299999999,30.932046],[76.406834,30.932046],[76.406834,30.932585],[76.407104,30.932585],[76.407104,30.932854],[76.406834,30.932854],[76.406834,30.933124],[76.405756,30.933124],[76.405756,30.933663],[76.404139,30.933663],[76.404139,30.934202],[76.40387,30.934202],[76.40387,30.93528],[76.404139,30.93528],[76.404139,30.936088],[76.404678,30.936088],[76.404678,30.936358],[76.404409,30.936358],[76.404409,30.936897],[76.408721,30.936897]]],"type":"Polygon"}
 }
