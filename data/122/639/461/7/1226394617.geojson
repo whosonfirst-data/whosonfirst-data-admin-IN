@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.37987,26.59055,82.37987,26.59055",
-    "geom:latitude":26.59055,
-    "geom:longitude":82.37987,
+    "geom:bbox":"82.38126,26.588871,82.382068,26.589949",
+    "geom:latitude":26.58941,
+    "geom:longitude":82.381664,
     "gn:admin1_code":"36",
     "gn:admin2_code":"177.0",
     "gn:asciiname":"Samda",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.35987,26.57055,82.39987,26.61055",
+    "ks:ks_id":"KSB17C702EE61E460CBADB36FD9B314036",
+    "ks:ks_name":"Samda",
+    "ks:ks_pop":1939,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|945411",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1423874",
+    "lbl:latitude":26.58941,
+    "lbl:longitude":82.381664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.58941,
+    "mps:longitude":82.381664,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Samda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10615007
+        "gn:id":10615007,
+        "ks:id":"KSB17C702EE61E460CBADB36FD9B314036"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1f5671d7e2e880f3904453a51b7d1003",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b0259bfc7212acd4ac4e794dd576019e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1226394617,
-    "wof:lastmodified":1566713179,
+    "wof:lastmodified":1680678698,
     "wof:name":"Samda",
     "wof:parent_id":890510339,
     "wof:placetype":"locality",
+    "wof:population":1939,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.37987,
-    26.59055,
-    82.37987,
-    26.59055
+    82.38126,
+    26.588871,
+    82.382068,
+    26.589949
 ],
-  "geometry": {"coordinates":[82.37987,26.59055],"type":"Point"}
+  "geometry": {"coordinates":[[[82.38126,26.589949],[82.382068,26.589949],[82.382068,26.588871],[82.38126,26.588871],[82.38126,26.589949]]],"type":"Polygon"}
 }

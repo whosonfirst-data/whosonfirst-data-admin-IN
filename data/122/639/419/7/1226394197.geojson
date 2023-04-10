@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.33263,27.72595,78.33263,27.72595",
-    "geom:latitude":27.72595,
-    "geom:longitude":78.33263,
+    "geom:bbox":"78.331952,27.725026,78.333598,27.726647",
+    "geom:latitude":27.725836,
+    "geom:longitude":78.332755,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Paharpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.31263,27.70595,78.35263,27.74595",
+    "ks:ks_id":"KS0B0BB799B0E34AB393BE963E5C5D068B",
+    "ks:ks_name":"Paharpur",
+    "ks:ks_pop":556,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|805124",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1804013",
+    "lbl:latitude":27.725837,
+    "lbl:longitude":78.332755,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.725837,
+    "mps:longitude":78.332755,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
@@ -36,10 +46,19 @@
     "name:ceb_x_preferred":[
         "Paharpur"
     ],
+    "name:eng_x_preferred":[
+        "Paharpur"
+    ],
     "name:nld_x_preferred":[
         "Paharpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10482345
+        "gn:id":10482345,
+        "ks:id":"KS0B0BB799B0E34AB393BE963E5C5D068B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ccd341af6ca28e6dc4a61c072513d67d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"374428b51d7ce1f9a9896eb43981993c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1226394197,
-    "wof:lastmodified":1566713168,
+    "wof:lastmodified":1680678689,
     "wof:name":"Paharpur",
     "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":556,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.33263000000002,
-    27.72595,
-    78.33263000000002,
-    27.72595
+    78.331952,
+    27.725026,
+    78.333598,
+    27.726647
 ],
-  "geometry": {"coordinates":[78.33263000000002,27.72595],"type":"Point"}
+  "geometry": {"coordinates":[[[78.332655,27.726647],[78.332657,27.726557],[78.33286,27.726561],[78.33286200000001,27.72647],[78.332964,27.726472],[78.332966,27.726382],[78.333168,27.726386],[78.33317099999999,27.726296],[78.33327199999999,27.726298],[78.333274,27.726208],[78.333376,27.72621],[78.333378,27.72612],[78.333479,27.726121],[78.33348599999999,27.725851],[78.33358699999999,27.725853],[78.33359799999999,27.725402],[78.33349699999999,27.7254],[78.333501,27.72522],[78.3334,27.725218],[78.33340200000001,27.725128],[78.33319899999999,27.725124],[78.333201,27.725033],[78.332796,27.725026],[78.33279400000001,27.725116],[78.33259099999999,27.725112],[78.332589,27.725202],[78.332488,27.7252],[78.33248500000001,27.72529],[78.332283,27.725286],[78.33228099999999,27.725377],[78.332179,27.725375],[78.33217500000001,27.725555],[78.33207400000001,27.725553],[78.332069,27.725733],[78.331968,27.725731],[78.331952,27.726363],[78.332054,27.726365],[78.332049,27.726545],[78.332151,27.726547],[78.332148,27.726637],[78.332655,27.726647]]],"type":"Polygon"}
 }

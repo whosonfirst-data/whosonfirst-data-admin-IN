@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.63524,20.77464,81.63524,20.77464",
-    "geom:latitude":20.77464,
-    "geom:longitude":81.63524,
+    "geom:bbox":"81.62936,20.774547,81.630606,20.776177",
+    "geom:latitude":20.775399,
+    "geom:longitude":81.63,
     "gn:admin1_code":"37.0",
     "gn:admin2_code":"412.0",
     "gn:asciiname":"Puri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.61524,20.75464,81.65524,20.79464",
+    "ks:ks_id":"KSEB4DB3D551404C28B96FE877FB568DB2",
+    "ks:ks_name":"Puri",
+    "ks:ks_pop":1374,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|879603",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_949475",
+    "lbl:latitude":20.77543,
+    "lbl:longitude":81.630051,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.77543,
+    "mps:longitude":81.630051,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a"
@@ -70,6 +80,9 @@
         "Puri"
     ],
     "name:dsb_x_preferred":[
+        "Puri"
+    ],
+    "name:eng_x_preferred":[
         "Puri"
     ],
     "name:fas_x_preferred":[
@@ -201,7 +214,13 @@
     "name:war_x_preferred":[
         "Puri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -210,10 +229,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10694608
+        "gn:id":10694608,
+        "ks:id":"KSEB4DB3D551404C28B96FE877FB568DB2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"687a5a005eac5cdfecc07c339ffa68b0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05562f81346fc4c430b8f48fd3cf1c93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,20 +247,22 @@
         }
     ],
     "wof:id":1226394013,
-    "wof:lastmodified":1577754606,
+    "wof:lastmodified":1680678670,
     "wof:name":"Puri",
     "wof:parent_id":1108696193,
     "wof:placetype":"locality",
+    "wof:population":1374,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.63524,
-    20.77464,
-    81.63524,
-    20.77464
+    81.62936,
+    20.774547,
+    81.630606,
+    20.776177
 ],
-  "geometry": {"coordinates":[81.63524,20.77464],"type":"Point"}
+  "geometry": {"coordinates":[[[81.629842,20.776175],[81.629842,20.776085],[81.63003399999999,20.776084],[81.63003399999999,20.775994],[81.63012999999999,20.775994],[81.630129,20.775813],[81.630225,20.775813],[81.630225,20.775722],[81.630321,20.775722],[81.630321,20.775632],[81.63041699999999,20.775631],[81.630415,20.77536],[81.630512,20.77536],[81.63051,20.775089],[81.630606,20.775088],[81.630605,20.774727],[81.630509,20.774727],[81.630509,20.774637],[81.63041200000001,20.774637],[81.63041200000001,20.774547],[81.630124,20.774548],[81.630124,20.774638],[81.630028,20.774639],[81.63002899999999,20.774729],[81.629932,20.774729],[81.62993299999999,20.77491],[81.62983699999999,20.77491],[81.62983800000001,20.775182],[81.62974199999999,20.775182],[81.629743,20.775272],[81.62964700000001,20.775273],[81.62964700000001,20.775363],[81.62955100000001,20.775363],[81.62955100000001,20.775454],[81.62945499999999,20.775454],[81.629456,20.775635],[81.62936000000001,20.775635],[81.629362,20.776087],[81.629458,20.776086],[81.629458,20.776177],[81.629842,20.776175]]],"type":"Polygon"}
 }
