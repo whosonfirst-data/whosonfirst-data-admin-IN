@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.61443,25.23272,87.61443,25.23272",
-    "geom:latitude":25.23272,
-    "geom:longitude":87.61443,
+    "geom:bbox":"87.613949,25.231844,87.615542,25.234011",
+    "geom:latitude":25.23311,
+    "geom:longitude":87.614645,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"352.0",
     "gn:asciiname":"Pindari",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.59443,25.21272,87.63443,25.25272",
+    "ks:ks_id":"KSD6861712F81C43618AF2B494A5212E7C",
+    "ks:ks_name":"Pindare",
+    "ks:ks_pop":178,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2009000201523000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2101978",
+    "lbl:latitude":25.233137,
+    "lbl:longitude":87.6145,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.233137,
+    "mps:longitude":87.6145,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pindaris"
     ],
     "name:deu_x_preferred":[
+        "Pindari"
+    ],
+    "name:eng_x_preferred":[
+        "Pindare"
+    ],
+    "name:eng_x_variant":[
         "Pindari"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +70,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0646\u0688\u0627\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11013458
+        "gn:id":11013458,
+        "ks:id":"KSD6861712F81C43618AF2B494A5212E7C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"418954779c4c27c80ae95b204dcf6be3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3e01b31ecc7bac9e517c1dd6346b76c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1242619995,
-    "wof:lastmodified":1566706297,
-    "wof:name":"Pindari",
+    "wof:lastmodified":1680671057,
+    "wof:name":"Pindare",
     "wof:parent_id":1108696105,
     "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.61443,
-    25.23272,
-    87.61443,
-    25.23272
+    87.613949,
+    25.231844,
+    87.615542,
+    25.234011
 ],
-  "geometry": {"coordinates":[87.61443,25.23272],"type":"Point"}
+  "geometry": {"coordinates":[[[87.615444,25.234008],[87.615443,25.233918],[87.615542,25.233918],[87.615542,25.233737],[87.615442,25.233738],[87.615442,25.233647],[87.615342,25.233648],[87.615342,25.233557],[87.61524300000001,25.233558],[87.61524199999999,25.233467],[87.615143,25.233468],[87.615143,25.233378],[87.61494399999999,25.233378],[87.61494,25.232656],[87.614841,25.232656],[87.614839,25.232295],[87.61493900000001,25.232295],[87.614937,25.232024],[87.61483800000001,25.232024],[87.61483699999999,25.231934],[87.614639,25.231935],[87.614638,25.231844],[87.61453899999999,25.231845],[87.61454000000001,25.231935],[87.61444,25.231936],[87.614441,25.232026],[87.61434199999999,25.232026],[87.614344,25.232478],[87.614244,25.232478],[87.614245,25.232569],[87.61414600000001,25.232569],[87.614147,25.23284],[87.614048,25.23284],[87.61404899999999,25.233021],[87.61394900000001,25.233021],[87.61395,25.233202],[87.61405000000001,25.233201],[87.614051,25.233563],[87.61415100000001,25.233562],[87.61415100000001,25.233653],[87.61425,25.233652],[87.614251,25.233833],[87.614549,25.233832],[87.61454999999999,25.233922],[87.614847,25.233921],[87.61484799999999,25.234011],[87.615444,25.234008]]],"type":"Polygon"}
 }

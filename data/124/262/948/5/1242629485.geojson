@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.5785,25.89611,82.5785,25.89611",
-    "geom:latitude":25.89611,
-    "geom:longitude":82.5785,
+    "geom:bbox":"82.586292,25.893585,82.588386,25.894952",
+    "geom:latitude":25.89429,
+    "geom:longitude":82.587201,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Narauli",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.5585,25.87611,82.5985,25.91611",
+    "ks:ks_id":"KS1BD6B3BB4CB640E894F52F536A6A9EE9",
+    "ks:ks_name":"Narauli",
+    "ks:ks_pop":1596,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|760623",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1925622",
+    "lbl:latitude":25.894312,
+    "lbl:longitude":82.587181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.894312,
+    "mps:longitude":82.587181,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u09b0\u09be\u0989\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Narauli"
+    ],
+    "name:eng_x_preferred":[
         "Narauli"
     ],
     "name:ita_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u52b3\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10539725
+        "gn:id":10539725,
+        "ks:id":"KS1BD6B3BB4CB640E894F52F536A6A9EE9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a05c95a2d3033e4833e47fdbb85edf1a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1ff698d25ae63cd138a62aa92476b77d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1242629485,
-    "wof:lastmodified":1566707914,
+    "wof:lastmodified":1680671969,
     "wof:name":"Narauli",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":1596,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.5785,
-    25.89611,
-    82.5785,
-    25.89611
+    82.586292,
+    25.893585,
+    82.588386,
+    25.894952
 ],
-  "geometry": {"coordinates":[82.57850000000001,25.89611],"type":"Point"}
+  "geometry": {"coordinates":[[[82.587199,25.894943],[82.587198,25.894853],[82.587397,25.894851],[82.587396,25.894761],[82.587496,25.89476],[82.587495,25.894669],[82.58759499999999,25.894668],[82.587593,25.894578],[82.587693,25.894577],[82.587692,25.894487],[82.58779199999999,25.894486],[82.58779,25.894395],[82.58789,25.894394],[82.587889,25.894304],[82.588089,25.894302],[82.588087,25.894211],[82.588187,25.89421],[82.58818599999999,25.89412],[82.588386,25.894118],[82.588384,25.894028],[82.588285,25.894029],[82.588283,25.893938],[82.588184,25.89394],[82.588182,25.893849],[82.58798299999999,25.893851],[82.587982,25.893761],[82.587782,25.893763],[82.58778100000001,25.893673],[82.587581,25.893675],[82.58758,25.893585],[82.587281,25.893588],[82.587282,25.893679],[82.587082,25.893681],[82.58708300000001,25.893771],[82.586984,25.893772],[82.586985,25.893862],[82.58678500000001,25.893865],[82.586787,25.893955],[82.586687,25.893956],[82.586688,25.894046],[82.586488,25.894048],[82.586491,25.894229],[82.58639100000001,25.89423],[82.586392,25.89432],[82.586292,25.894321],[82.58629999999999,25.894863],[82.586399,25.894862],[82.586401,25.894952],[82.587199,25.894943]]],"type":"Polygon"}
 }

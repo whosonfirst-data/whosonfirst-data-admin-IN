@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.86466,25.70963,87.86466,25.70963",
-    "geom:latitude":25.70963,
-    "geom:longitude":87.86466,
+    "geom:bbox":"87.854056,25.717357,87.85555,25.718899",
+    "geom:latitude":25.718128,
+    "geom:longitude":87.854776,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Shakarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.84466,25.68963,87.88466,25.72963",
+    "ks:ks_id":"KS0EC9EF7BA1F34CA48C5FBCE4534EF816",
+    "ks:ks_name":"Shankarpur",
+    "ks:ks_pop":136,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1010000400850600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2111744",
+    "lbl:latitude":25.718128,
+    "lbl:longitude":87.854786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.718128,
+    "mps:longitude":87.854786,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0643\u0627\u0631 \u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b6\u09be\u0995\u09be\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Shankarpur"
+    ],
+    "name:eng_x_variant":[
+        "Shakarpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0a95\u0ab0\u0aaa\u0ac1\u0ab0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0634\u06a9\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014786
+        "gn:id":11014786,
+        "ks:id":"KS0EC9EF7BA1F34CA48C5FBCE4534EF816"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5cf1b04f1fb4174770a564f0ff1e1822",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c13caf920672dd9d3faf8af52f70b2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1242631195,
-    "wof:lastmodified":1577753414,
-    "wof:name":"Shakarpur",
+    "wof:lastmodified":1680672151,
+    "wof:name":"Shankarpur",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.86466,
-    25.70963,
-    87.86466,
-    25.70963
+    87.854056,
+    25.717357,
+    87.85555,
+    25.718899
 ],
-  "geometry": {"coordinates":[87.86466,25.70963],"type":"Point"}
+  "geometry": {"coordinates":[[[87.854958,25.718895],[87.854958,25.718804],[87.85515700000001,25.718803],[87.85515700000001,25.718713],[87.855356,25.718712],[87.855355,25.718531],[87.85545399999999,25.718531],[87.85545,25.717989],[87.85554999999999,25.717988],[87.855548,25.717717],[87.855448,25.717718],[87.855447,25.717447],[87.85534699999999,25.717448],[87.855346,25.717357],[87.85454900000001,25.717362],[87.85454900000001,25.717452],[87.85435,25.717453],[87.85435099999999,25.717544],[87.854151,25.717545],[87.85415500000001,25.718087],[87.854056,25.718087],[87.854061,25.71881],[87.85415999999999,25.718809],[87.854161,25.718899],[87.854958,25.718895]]],"type":"Polygon"}
 }

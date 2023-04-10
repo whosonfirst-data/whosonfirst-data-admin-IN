@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.50083,25.23258,78.50083,25.23258",
-    "geom:latitude":25.23258,
-    "geom:longitude":78.50083,
+    "geom:bbox":"78.500443,25.231756,78.501742,25.233294",
+    "geom:latitude":25.232536,
+    "geom:longitude":78.501101,
     "gn:admin1_code":"36",
     "gn:admin2_code":"166.0",
     "gn:asciiname":"Santpur",
@@ -24,19 +24,41 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.48083,25.21258,78.52083,25.25258",
+    "ks:ks_id":"KS62EF8CC1666644578CAB39B7EA0E7BE7",
+    "ks:ks_name":"Sant Pur",
+    "ks:ks_pop":85,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|951820",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1722577",
+    "lbl:latitude":25.232554,
+    "lbl:longitude":78.501114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.232554,
+    "mps:longitude":78.501114,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sant Pur"
+    ],
+    "name:eng_x_variant":[
+        "Santpur"
+    ],
     "name:msa_x_preferred":[
         "Santpur"
     ],
     "name:pol_x_preferred":[
         "Santpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10517444
+        "gn:id":10517444,
+        "ks:id":"KS62EF8CC1666644578CAB39B7EA0E7BE7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f1f57dc308a3eb22b7343af09c96cf21",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"466a4bd4c45e1681f5f60e7b02c34c19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +85,22 @@
         }
     ],
     "wof:id":1242629537,
-    "wof:lastmodified":1566707883,
-    "wof:name":"Santpur",
+    "wof:lastmodified":1680671952,
+    "wof:name":"Sant Pur",
     "wof:parent_id":890510677,
     "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.50083000000002,
-    25.23258,
-    78.50083000000002,
-    25.23258
+    78.500443,
+    25.231756,
+    78.501742,
+    25.233294
 ],
-  "geometry": {"coordinates":[78.50083000000002,25.23258],"type":"Point"}
+  "geometry": {"coordinates":[[[78.50123000000001,25.233294],[78.501231,25.233204],[78.50143,25.233208],[78.50143199999999,25.233117],[78.501531,25.233119],[78.501535,25.232939],[78.501634,25.23294],[78.501637,25.23276],[78.50173700000001,25.232761],[78.50174199999999,25.232491],[78.501643,25.232489],[78.50165200000001,25.232038],[78.501553,25.232036],[78.501555,25.231946],[78.501456,25.231944],[78.501457,25.231854],[78.501259,25.231851],[78.501261,25.231761],[78.500963,25.231756],[78.500962,25.231846],[78.50076300000001,25.231842],[78.500758,25.232113],[78.500658,25.232111],[78.50065499999999,25.232292],[78.500556,25.23229],[78.500552,25.232471],[78.50045299999999,25.232469],[78.500449,25.232649],[78.50054799999999,25.232651],[78.500546,25.232741],[78.50044699999999,25.23274],[78.500443,25.23292],[78.50054299999999,25.232922],[78.500539,25.233102],[78.500737,25.233106],[78.50073500000001,25.233196],[78.501132,25.233202],[78.50113,25.233293],[78.50123000000001,25.233294]]],"type":"Polygon"}
 }
