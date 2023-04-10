@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.39394,26.3655,83.39394,26.3655",
-    "geom:latitude":26.3655,
-    "geom:longitude":83.39394,
+    "geom:bbox":"83.3889,26.366269,83.391326,26.367616",
+    "geom:latitude":26.367089,
+    "geom:longitude":83.389966,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Patra",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.37394,26.3455,83.41394,26.3855",
+    "ks:ks_id":"KS06D1CEDD38864931A6FDD0411C4487DE",
+    "ks:ks_name":"Patra",
+    "ks:ks_pop":1333,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0958000708083800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1412391",
+    "lbl:latitude":26.367212,
+    "lbl:longitude":83.389966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.367212,
+    "mps:longitude":83.389966,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Patra"
+    ],
+    "name:eng_x_preferred":[
         "Patra"
     ],
     "name:fra_x_preferred":[
@@ -39,7 +52,13 @@
     "name:nld_x_preferred":[
         "Patra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10665184
+        "gn:id":10665184,
+        "ks:id":"KS06D1CEDD38864931A6FDD0411C4487DE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2bd43029f3e7228947ca5ccdbcb77fe2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0915ee79fb25abc0aa49d07dac6c3e07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1226689691,
-    "wof:lastmodified":1566712027,
+    "wof:lastmodified":1680677796,
     "wof:name":"Patra",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":1333,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.39394,
-    26.3655,
-    83.39394,
-    26.3655
+    83.3889,
+    26.366269,
+    83.391326,
+    26.367616
 ],
-  "geometry": {"coordinates":[83.39394,26.3655],"type":"Point"}
+  "geometry": {"coordinates":[[[83.389709,26.366269],[83.38890000000001,26.366269],[83.38890000000001,26.367616],[83.39132600000001,26.367616],[83.39132600000001,26.366808],[83.389709,26.366808],[83.389709,26.366269]]],"type":"Polygon"}
 }

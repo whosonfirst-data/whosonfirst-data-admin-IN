@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.85935,28.72515,79.85935,28.72515",
-    "geom:latitude":28.72515,
-    "geom:longitude":79.85935,
+    "geom:bbox":"79.856634,28.724077,79.858251,28.725963",
+    "geom:latitude":28.725003,
+    "geom:longitude":79.85756,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"151.0",
     "gn:asciiname":"Maheshpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.83935,28.70515,79.87935,28.74515",
+    "ks:ks_id":"KS1E48E63047C242269697F29BE6E53359",
+    "ks:ks_name":"Maheshpur",
+    "ks:ks_pop":332,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|647650",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_935338",
+    "lbl:latitude":28.725066,
+    "lbl:longitude":79.857626,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.725066,
+    "mps:longitude":79.857626,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u064a\u0634\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u09ae\u09b9\u09c7\u09b6\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Maheshpur"
+    ],
+    "name:eng_x_preferred":[
         "Maheshpur"
     ],
     "name:fra_x_preferred":[
@@ -84,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u06cc\u0633 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10831422
+        "gn:id":10831422,
+        "ks:id":"KS1E48E63047C242269697F29BE6E53359"
     },
     "wof:country":"IN",
-    "wof:geomhash":"14fb85303c3ff058a4ce4d64211f25a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6672007b0e19bd61637a0683cb477cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +130,22 @@
         }
     ],
     "wof:id":1226689631,
-    "wof:lastmodified":1577754297,
+    "wof:lastmodified":1680677767,
     "wof:name":"Maheshpur",
     "wof:parent_id":1108695809,
     "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.85935,
-    28.72515,
-    79.85935,
-    28.72515
+    79.856634,
+    28.724077,
+    79.858251,
+    28.725963
 ],
-  "geometry": {"coordinates":[79.85935000000001,28.72515],"type":"Point"}
+  "geometry": {"coordinates":[[[79.85771200000001,28.725963],[79.85771200000001,28.725694],[79.858251,28.725694],[79.858251,28.724077],[79.857443,28.724077],[79.857443,28.724346],[79.857173,28.724346],[79.857173,28.724616],[79.856634,28.724616],[79.856634,28.725155],[79.856904,28.725155],[79.856904,28.725694],[79.857173,28.725694],[79.857173,28.725963],[79.85771200000001,28.725963]]],"type":"Polygon"}
 }

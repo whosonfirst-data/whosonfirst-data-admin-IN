@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.13872,27.09681,81.13872,27.09681",
-    "geom:latitude":27.09681,
-    "geom:longitude":81.13872,
+    "geom:bbox":"81.138069,27.0956,81.139582,27.097677",
+    "geom:latitude":27.096585,
+    "geom:longitude":81.138799,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Shahpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.11872,27.07681,81.15872,27.11681",
+    "ks:ks_id":"KSD27628DC5E0E48B293B23E51A1EC5233",
+    "ks:ks_name":"Shanpur",
+    "ks:ks_pop":379,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|977938",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1890589",
+    "lbl:latitude":27.096597,
+    "lbl:longitude":81.138709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.096597,
+    "mps:longitude":81.138709,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u0628\u0648\u0631"
@@ -44,6 +54,12 @@
     ],
     "name:cat_x_preferred":[
         "Shapur"
+    ],
+    "name:eng_x_preferred":[
+        "Shanpur"
+    ],
+    "name:eng_x_variant":[
+        "Shahpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0"
@@ -81,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u06c1 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10724023
+        "gn:id":10724023,
+        "ks:id":"KSD27628DC5E0E48B293B23E51A1EC5233"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7950a3ad294ea14df93b4b739a275580",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"142fc4320858151ad7b6f90c08b12041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +130,22 @@
         }
     ],
     "wof:id":1226685631,
-    "wof:lastmodified":1577754304,
-    "wof:name":"Shahpur",
+    "wof:lastmodified":1680677794,
+    "wof:name":"Shanpur",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":379,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.13871999999998,
-    27.09681,
-    81.13871999999998,
-    27.09681
+    81.138069,
+    27.0956,
+    81.139582,
+    27.097677
 ],
-  "geometry": {"coordinates":[81.13871999999998,27.09681],"type":"Point"}
+  "geometry": {"coordinates":[[[81.13887800000001,27.097677],[81.13887800000001,27.097586],[81.139079,27.097586],[81.139079,27.097496],[81.13918,27.097496],[81.13918,27.097315],[81.139281,27.097315],[81.13928,27.096773],[81.139381,27.096773],[81.139381,27.096593],[81.139482,27.096593],[81.139481,27.096412],[81.139582,27.096412],[81.139582,27.095961],[81.139481,27.095961],[81.139481,27.09578],[81.13938,27.09578],[81.13938,27.09569],[81.139279,27.09569],[81.139279,27.0956],[81.138774,27.0956],[81.138774,27.09569],[81.13857299999999,27.095691],[81.13857299999999,27.095781],[81.13847199999999,27.095781],[81.13847199999999,27.095871],[81.13827000000001,27.095872],[81.13827000000001,27.096052],[81.13817,27.096052],[81.13817,27.096323],[81.138069,27.096323],[81.13807,27.097045],[81.138171,27.097045],[81.138171,27.097226],[81.138272,27.097226],[81.138272,27.097406],[81.138373,27.097406],[81.138373,27.097587],[81.138575,27.097587],[81.138575,27.097677],[81.13887800000001,27.097677]]],"type":"Polygon"}
 }
