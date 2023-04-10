@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.06723,23.18213,79.06723,23.18213",
-    "geom:latitude":23.18213,
-    "geom:longitude":79.06723,
+    "geom:bbox":"79.066541,23.181483,79.068206,23.182394",
+    "geom:latitude":23.181939,
+    "geom:longitude":79.06736,
     "gn:admin1_code":"35",
     "gn:admin2_code":"452.0",
     "gn:asciiname":"Dhana",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.04723,23.16213,79.08723,23.20213",
+    "ks:ks_id":"KSFC0D7595998D4B25B04C0744903ED72F",
+    "ks:ks_name":"Dhana",
+    "ks:ks_pop":355,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|269810",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_922753",
+    "lbl:latitude":23.18194,
+    "lbl:longitude":79.067261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.18194,
+    "mps:longitude":79.067261,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a7\u09be\u09a8\u09be"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Dh\u0101na"
+    ],
+    "name:eng_x_preferred":[
+        "Dhana"
     ],
     "name:ita_x_preferred":[
         "Dhana"
@@ -63,7 +76,13 @@
     "name:vie_x_preferred":[
         "Dhana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10537885
+        "gn:id":10537885,
+        "ks:id":"KSFC0D7595998D4B25B04C0744903ED72F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2fe8109f468744a6778f336ebd836243",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b4431ee114249c7b0a63af18b93bea56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1242818813,
-    "wof:lastmodified":1566706119,
+    "wof:lastmodified":1680670958,
     "wof:name":"Dhana",
     "wof:parent_id":1108696241,
     "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.06723000000002,
-    23.18213,
-    79.06723000000002,
-    23.18213
+    79.066541,
+    23.181483,
+    79.068206,
+    23.182394
 ],
-  "geometry": {"coordinates":[79.06723000000002,23.18213],"type":"Point"}
+  "geometry": {"coordinates":[[[79.06751300000001,23.182394],[79.067515,23.182304],[79.068101,23.182311],[79.068102,23.182221],[79.0682,23.182222],[79.068206,23.181771],[79.068108,23.18177],[79.06811,23.181679],[79.067914,23.181677],[79.067916,23.181587],[79.067623,23.181583],[79.067624,23.181493],[79.06684300000001,23.181483],[79.06684199999999,23.181573],[79.06664600000001,23.181571],[79.066644,23.181752],[79.066546,23.18175],[79.066541,23.182112],[79.066638,23.182113],[79.066637,23.182203],[79.06673499999999,23.182204],[79.066733,23.182295],[79.066929,23.182297],[79.06692700000001,23.182387],[79.06751300000001,23.182394]]],"type":"Polygon"}
 }
