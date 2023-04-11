@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.53223,27.14899,83.53223,27.14899",
-    "geom:latitude":27.14899,
-    "geom:longitude":83.53223,
+    "geom:bbox":"83.532066,27.148105,83.53299,27.149461",
+    "geom:latitude":27.148802,
+    "geom:longitude":83.532491,
     "gn:admin1_code":"36",
     "gn:admin2_code":"187.0",
     "gn:asciiname":"Kanchanpur",
@@ -24,19 +24,38 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.51223,27.12899,83.55223,27.16899",
+    "ks:ks_id":"KS359C4679393041AFB59EAC1039B69D90",
+    "ks:ks_name":"Kanchanpur",
+    "ks:ks_pop":211,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|500273",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2000536",
+    "lbl:latitude":27.148809,
+    "lbl:longitude":83.532482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.148809,
+    "mps:longitude":83.532482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Kanchanpur"
+    ],
+    "name:eng_x_preferred":[
         "Kanchanpur"
     ],
     "name:nld_x_preferred":[
         "Kanchanpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10656672
+        "gn:id":10656672,
+        "ks:id":"KS359C4679393041AFB59EAC1039B69D90"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0253373c985aaaac3ce6c96899f4369a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a390a549d935c1e831612a6f7a32de6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +82,22 @@
         }
     ],
     "wof:id":1259722981,
-    "wof:lastmodified":1566710760,
+    "wof:lastmodified":1680676985,
     "wof:name":"Kanchanpur",
     "wof:parent_id":1108695867,
     "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.53223,
-    27.14899,
-    83.53223,
-    27.14899
+    83.532066,
+    27.148105,
+    83.53299,
+    27.149461
 ],
-  "geometry": {"coordinates":[83.53223,27.14899],"type":"Point"}
+  "geometry": {"coordinates":[[[83.532696,27.149456],[83.53269400000001,27.149366],[83.532794,27.149364],[83.532792,27.149274],[83.532893,27.149272],[83.532889,27.149091],[83.53299,27.14909],[83.532988,27.148999],[83.532887,27.149001],[83.53287899999999,27.148622],[83.532873,27.14837],[83.53277199999999,27.148372],[83.53277,27.148281],[83.532669,27.148283],[83.532667,27.148193],[83.532566,27.148195],[83.53256399999999,27.148105],[83.532363,27.148108],[83.532365,27.148199],[83.532264,27.1482],[83.53226600000001,27.148291],[83.53216500000001,27.148292],[83.532167,27.148383],[83.532066,27.148384],[83.53207399999999,27.148708],[83.532085,27.149196],[83.532185,27.149194],[83.53218699999999,27.149285],[83.53228799999999,27.149283],[83.53229,27.149373],[83.532391,27.149371],[83.532393,27.149461],[83.532696,27.149456]]],"type":"Polygon"}
 }

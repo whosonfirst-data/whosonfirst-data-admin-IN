@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.30328,27.41541,81.30328,27.41541",
-    "geom:latitude":27.41541,
-    "geom:longitude":81.30328,
+    "geom:bbox":"81.301844,27.414307,81.304375,27.416384",
+    "geom:latitude":27.415335,
+    "geom:longitude":81.303143,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Basantpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.28328,27.39541,81.32328,27.43541",
+    "ks:ks_id":"KS2FA2932E3D8D4B148BB8B6A1CCC0FFBA",
+    "ks:ks_name":"Basantpur",
+    "ks:ks_pop":676,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13205268",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1901801",
+    "lbl:latitude":27.415346,
+    "lbl:longitude":81.303167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.415346,
+    "mps:longitude":81.303167,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0633\u0646\u062a \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09b8\u09a8\u09cd\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Basantpur"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab8\u0a82\u0aa4\u0aaa\u0ac1\u0ab0"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0633\u0646\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10759999
+        "gn:id":10759999,
+        "ks:id":"KS2FA2932E3D8D4B148BB8B6A1CCC0FFBA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c2e99ddc616aef384093f4f798edb1c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fcff9285297cbb501681518959cd0bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1259735725,
-    "wof:lastmodified":1577753936,
+    "wof:lastmodified":1680676680,
     "wof:name":"Basantpur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":676,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.30328,
-    27.41541,
-    81.30328,
-    27.41541
+    81.301844,
+    27.414307,
+    81.304375,
+    27.416384
 ],
-  "geometry": {"coordinates":[81.30328,27.41541],"type":"Point"}
+  "geometry": {"coordinates":[[[81.303669,27.416383],[81.303668,27.416293],[81.303871,27.416292],[81.30387,27.416202],[81.303972,27.416202],[81.303971,27.416112],[81.30407200000001,27.416111],[81.30407200000001,27.416021],[81.30417300000001,27.416021],[81.30417300000001,27.415931],[81.30427400000001,27.41593],[81.30427299999999,27.415569],[81.30437499999999,27.415569],[81.304373,27.414847],[81.304271,27.414847],[81.304271,27.414667],[81.30417,27.414667],[81.304169,27.414576],[81.304068,27.414577],[81.304068,27.414486],[81.303967,27.414487],[81.303967,27.414396],[81.303764,27.414397],[81.303764,27.414307],[81.303258,27.414308],[81.303258,27.414398],[81.302753,27.414399],[81.302753,27.414489],[81.302449,27.41449],[81.30244999999999,27.41458],[81.30214599999999,27.414581],[81.30214700000001,27.414761],[81.302046,27.414762],[81.302046,27.414852],[81.301945,27.414852],[81.301945,27.415033],[81.301844,27.415033],[81.301846,27.415845],[81.301947,27.415845],[81.301948,27.416026],[81.30215,27.416025],[81.30215,27.416116],[81.302555,27.416115],[81.302555,27.416205],[81.302859,27.416204],[81.302859,27.416295],[81.303365,27.416294],[81.303365,27.416384],[81.303669,27.416383]]],"type":"Polygon"}
 }

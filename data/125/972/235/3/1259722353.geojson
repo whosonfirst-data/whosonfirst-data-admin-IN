@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.96624,20.95279,80.96624,20.95279",
-    "geom:latitude":20.95279,
-    "geom:longitude":80.96624,
+    "geom:bbox":"80.965341,20.951627,80.967554,20.953977",
+    "geom:latitude":20.952781,
+    "geom:longitude":80.966412,
     "gn:admin1_code":"37",
     "gn:admin2_code":"409.0",
     "gn:asciiname":"Khambhat",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.94624,20.93279,80.98624,20.97279",
+    "ks:ks_alt_nam":"Kh\u0101mbh\u0101t",
+    "ks:ks_id":"KS034AC0F59A4D4E82B853408CAF6AF20F",
+    "ks:ks_name":"Khambhat",
+    "ks:ks_pop":490,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1166770",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_952524",
+    "lbl:latitude":20.952775,
+    "lbl:longitude":80.966322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.952775,
+    "mps:longitude":80.966322,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09be\u09ae\u09ad\u09be\u099f"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Khambhat"
+    ],
+    "name:eng_x_preferred":[
+        "Khambhat"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101mbh\u0101t"
     ],
     "name:epo_x_preferred":[
         "\u0124ambato"
@@ -108,7 +125,13 @@
     "name:zho_x_preferred":[
         "\u80af\u5e15\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10720260
+        "gn:id":10720260,
+        "ks:id":"KS034AC0F59A4D4E82B853408CAF6AF20F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c6b4dfefa8190a94f416396df1ea59dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95d81b3a9d779dffe83aa58de5bcacb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +158,22 @@
         }
     ],
     "wof:id":1259722353,
-    "wof:lastmodified":1566710696,
+    "wof:lastmodified":1680676948,
     "wof:name":"Khambhat",
     "wof:parent_id":1108696187,
     "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.96624,
-    20.95279,
-    80.96624,
-    20.95279
+    80.965341,
+    20.951627,
+    80.967554,
+    20.953977
 ],
-  "geometry": {"coordinates":[80.96624,20.95279],"type":"Point"}
+  "geometry": {"coordinates":[[[80.967169,20.953977],[80.967169,20.953796],[80.967265,20.953796],[80.967265,20.953706],[80.967361,20.953706],[80.967361,20.953525],[80.96745799999999,20.953525],[80.96745799999999,20.953164],[80.96755400000001,20.953164],[80.96755400000001,20.953073],[80.96745799999999,20.953073],[80.96745799999999,20.952983],[80.967361,20.952983],[80.967361,20.952893],[80.967265,20.952893],[80.967265,20.952622],[80.967169,20.952622],[80.967169,20.951989],[80.967073,20.951989],[80.967073,20.951899],[80.966977,20.951899],[80.966977,20.951718],[80.966881,20.951718],[80.966881,20.951628],[80.966015,20.951627],[80.966015,20.951718],[80.965823,20.951718],[80.965823,20.951808],[80.96563,20.951808],[80.96563,20.951898],[80.96553400000001,20.951898],[80.96553400000001,20.951989],[80.96543800000001,20.951989],[80.96543800000001,20.95235],[80.96534200000001,20.95235],[80.965341,20.952983],[80.96543800000001,20.952983],[80.96543800000001,20.953163],[80.96553400000001,20.953163],[80.96553400000001,20.953344],[80.96563,20.953344],[80.96563,20.953434],[80.965726,20.953435],[80.965726,20.953525],[80.965822,20.953525],[80.965822,20.953615],[80.966015,20.953615],[80.966015,20.953706],[80.966111,20.953706],[80.966111,20.953796],[80.966399,20.953796],[80.966399,20.953886],[80.96659200000001,20.953886],[80.96659200000001,20.953977],[80.967169,20.953977]]],"type":"Polygon"}
 }

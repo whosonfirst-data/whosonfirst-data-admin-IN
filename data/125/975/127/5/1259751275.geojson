@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.07798,27.66031,77.07798,27.66031",
-    "geom:latitude":27.66031,
-    "geom:longitude":77.07798,
+    "geom:bbox":"77.07637,27.659596,77.079315,27.660977",
+    "geom:latitude":27.66032,
+    "geom:longitude":77.077715,
     "gn:admin1_code":"24",
     "gn:admin2_code":"105.0",
     "gn:asciiname":"Nawada",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.05798,27.64031,77.09798,27.68031",
+    "ks:ks_id":"KSE3EB1A2239C94DCCA07708C5CEF70FE1",
+    "ks:ks_name":"Nawda",
+    "ks:ks_pop":537,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|771818",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1759430",
+    "lbl:latitude":27.660373,
+    "lbl:longitude":77.077596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.660373,
+    "mps:longitude":77.077596,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u062f\u0627"
@@ -50,6 +60,12 @@
     ],
     "name:ceb_x_preferred":[
         "Naw\u0101da"
+    ],
+    "name:eng_x_preferred":[
+        "Nawda"
+    ],
+    "name:eng_x_variant":[
+        "Nawada"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0648\u0627\u062f\u0627"
@@ -126,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u74e6\u8fbe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10437531
+        "gn:id":10437531,
+        "ks:id":"KSE3EB1A2239C94DCCA07708C5CEF70FE1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"db497701ec7a9c53ea481452712ade14",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71b25d178ac690fcfb1db4cb0fabab0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1259751275,
-    "wof:lastmodified":1577754030,
-    "wof:name":"Nawada",
+    "wof:lastmodified":1680676914,
+    "wof:name":"Nawda",
     "wof:parent_id":890505293,
     "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.07798000000003,
-    27.66031,
-    77.07798000000003,
-    27.66031
+    77.07637,
+    27.659596,
+    77.079315,
+    27.660977
 ],
-  "geometry": {"coordinates":[77.07798000000003,27.66031],"type":"Point"}
+  "geometry": {"coordinates":[[[77.078817,27.660761],[77.07881399999999,27.660581],[77.079016,27.660578],[77.079015,27.660488],[77.079116,27.660486],[77.079114,27.660396],[77.079216,27.660394],[77.07921399999999,27.660304],[77.07931499999999,27.660303],[77.079312,27.660122],[77.079211,27.660124],[77.07920900000001,27.660033],[77.07910800000001,27.660035],[77.079106,27.659945],[77.079004,27.659946],[77.079003,27.659856],[77.078699,27.659861],[77.07869700000001,27.65977],[77.07849400000001,27.659773],[77.07849299999999,27.659683],[77.07829,27.659686],[77.078288,27.659596],[77.077984,27.659601],[77.077986,27.659691],[77.077682,27.659695],[77.077684,27.659786],[77.076671,27.659801],[77.076672,27.659891],[77.07647,27.659894],[77.076471,27.659984],[77.07637,27.659986],[77.076384,27.660707],[77.07648500000001,27.660706],[77.07649000000001,27.660977],[77.07790900000001,27.660955],[77.077907,27.660865],[77.078312,27.660859],[77.078311,27.660769],[77.078817,27.660761]]],"type":"Polygon"}
 }

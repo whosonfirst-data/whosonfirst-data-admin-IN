@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.61272,24.77803,76.61272,24.77803",
-    "geom:latitude":24.77803,
-    "geom:longitude":76.61272,
+    "geom:bbox":"76.612189,24.777329,76.612998,24.778407",
+    "geom:latitude":24.777823,
+    "geom:longitude":76.612684,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Byaskheri",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.59272,24.75803,76.63272,24.79803",
+    "ks:ks_id":"KS8917FB1BF629498A9AD190A5933C591F",
+    "ks:ks_name":"Vyas Kheri",
+    "ks:ks_pop":329,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1100434",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_777702",
+    "lbl:latitude":24.777821,
+    "lbl:longitude":76.612724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.777821,
+    "mps:longitude":76.612724,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Vyas Kheri"
+    ],
+    "name:eng_x_variant":[
+        "Byaskheri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10333193
+        "gn:id":10333193,
+        "ks:id":"KS8917FB1BF629498A9AD190A5933C591F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1371d08ac82253663bbd9b225f56cc44",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2eb079e533274e85419cb412b26aee2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259740945,
-    "wof:lastmodified":1566710303,
-    "wof:name":"Byaskheri",
+    "wof:lastmodified":1680676724,
+    "wof:name":"Vyas Kheri",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.61272,
-    24.77803,
-    76.61272,
-    24.77803
+    76.612189,
+    24.777329,
+    76.612998,
+    24.778407
 ],
-  "geometry": {"coordinates":[76.61272,24.77803],"type":"Point"}
+  "geometry": {"coordinates":[[[76.612998,24.777329],[76.612189,24.777329],[76.612189,24.777598],[76.612459,24.777598],[76.612459,24.778407],[76.612998,24.778407],[76.612998,24.777329]]],"type":"Polygon"}
 }
