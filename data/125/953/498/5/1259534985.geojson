@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.31141,24.50492,85.31141,24.50492",
-    "geom:latitude":24.50492,
-    "geom:longitude":85.31141,
+    "geom:bbox":"85.310862,24.50461,85.313035,24.505342",
+    "geom:latitude":24.50502,
+    "geom:longitude":85.311874,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"348.0",
     "gn:asciiname":"Lohra",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.29141,24.48492,85.33141,24.52492",
+    "ks:ks_alt_nam":"Lohr\u0101",
+    "ks:ks_id":"KSA420F6D90466409988A383FCECDE1D18",
+    "ks:ks_name":"Lohra",
+    "ks:ks_pop":555,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13356231",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1147953",
+    "lbl:latitude":24.505066,
+    "lbl:longitude":85.311874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.505066,
+    "mps:longitude":85.311874,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lohra"
+    ],
+    "name:eng_x_preferred":[
+        "Lohra"
+    ],
+    "name:eng_x_variant":[
+        "Lohr\u0101"
     ],
     "name:epo_x_preferred":[
         "Lohra"
@@ -99,7 +116,13 @@
     "name:zho_x_preferred":[
         "\u6d1b\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10882967
+        "gn:id":10882967,
+        "ks:id":"KSA420F6D90466409988A383FCECDE1D18"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4033b089ee6f3789cbec82f69963216e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0fde076411aa90c521037af1edfe247",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +149,22 @@
         }
     ],
     "wof:id":1259534985,
-    "wof:lastmodified":1566708782,
+    "wof:lastmodified":1680675891,
     "wof:name":"Lohra",
     "wof:parent_id":1108696097,
     "wof:placetype":"locality",
+    "wof:population":555,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.31141,
-    24.50492,
-    85.31141,
-    24.50492
+    85.310862,
+    24.50461,
+    85.313035,
+    24.505342
 ],
-  "geometry": {"coordinates":[85.31141,24.50492],"type":"Point"}
+  "geometry": {"coordinates":[[[85.31234000000001,24.505342],[85.312341,24.505251],[85.312933,24.505258],[85.312934,24.505168],[85.313033,24.505169],[85.313035,24.504988],[85.312838,24.504986],[85.312839,24.504896],[85.312642,24.504894],[85.31264299999999,24.504803],[85.312347,24.5048],[85.312348,24.50471],[85.31205199999999,24.504707],[85.312051,24.504797],[85.311853,24.504795],[85.31185499999999,24.504704],[85.311657,24.504702],[85.31165900000001,24.504612],[85.31146099999999,24.50461],[85.31146,24.5047],[85.31116400000001,24.504697],[85.31116299999999,24.504787],[85.310867,24.504784],[85.310862,24.505145],[85.311059,24.505147],[85.311058,24.505237],[85.311255,24.505239],[85.31125400000001,24.50533],[85.31234000000001,24.505342]]],"type":"Polygon"}
 }

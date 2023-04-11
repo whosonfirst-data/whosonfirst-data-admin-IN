@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.95663,25.60358,80.95663,25.60358",
-    "geom:latitude":25.60358,
-    "geom:longitude":80.95663,
+    "geom:bbox":"80.955949,25.602828,80.957643,25.604273",
+    "geom:latitude":25.603574,
+    "geom:longitude":80.956787,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"170.0",
     "gn:asciiname":"Barauli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.93663,25.58358,80.97663,25.62358",
+    "ks:ks_id":"KS4ED2D1AE5431489BB3A30CDBFC7A06A4",
+    "ks:ks_name":"Barauli",
+    "ks:ks_pop":133,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13301534",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1849019",
+    "lbl:latitude":25.603551,
+    "lbl:longitude":80.956787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.603551,
+    "mps:longitude":80.956787,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0648\u0644\u064a"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09be\u09b0\u09be\u0989\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Barauli"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acc\u0ab2\u0ac0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u0644\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10844654
+        "gn:id":10844654,
+        "ks:id":"KS4ED2D1AE5431489BB3A30CDBFC7A06A4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e4b805be3a7fd400517c5a8d866eb6d6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e3782a395ebe1814446392a53e779ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1259526999,
-    "wof:lastmodified":1577753703,
+    "wof:lastmodified":1680676205,
     "wof:name":"Barauli",
     "wof:parent_id":1108695835,
     "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.95663,
-    25.60358,
-    80.95663,
-    25.60358
+    80.955949,
+    25.602828,
+    80.957643,
+    25.604273
 ],
-  "geometry": {"coordinates":[80.95663,25.60358],"type":"Point"}
+  "geometry": {"coordinates":[[[80.956647,25.604273],[80.956647,25.604183],[80.956945,25.604183],[80.956945,25.604093],[80.957145,25.604093],[80.957145,25.604002],[80.95734400000001,25.604003],[80.95734400000001,25.603912],[80.957443,25.603912],[80.957443,25.603732],[80.957543,25.603732],[80.957543,25.603551],[80.957643,25.603551],[80.957643,25.60319],[80.957543,25.60319],[80.957543,25.603009],[80.957444,25.603009],[80.957444,25.602919],[80.957245,25.602919],[80.957245,25.602829],[80.956946,25.602828],[80.956946,25.602919],[80.956547,25.602919],[80.956547,25.603009],[80.95644799999999,25.603009],[80.95644799999999,25.603099],[80.95634800000001,25.603099],[80.95634800000001,25.603189],[80.956249,25.603189],[80.956249,25.60337],[80.956149,25.60337],[80.956149,25.60346],[80.95604899999999,25.60346],[80.95604899999999,25.603641],[80.95595,25.603641],[80.955949,25.604183],[80.95604899999999,25.604183],[80.95604899999999,25.604273],[80.956647,25.604273]]],"type":"Polygon"}
 }

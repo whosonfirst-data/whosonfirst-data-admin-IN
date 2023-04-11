@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.93303,27.687,81.93303,27.687",
-    "geom:latitude":27.687,
-    "geom:longitude":81.93303,
+    "geom:bbox":"81.92188,27.683847,81.923715,27.685468",
+    "geom:latitude":27.684702,
+    "geom:longitude":81.92274,
     "gn:admin1_code":"36",
     "gn:admin2_code":"181.0",
     "gn:asciiname":"Ranipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.91303,27.667,81.95303,27.707",
+    "ks:ks_id":"KS6312FBCF1C7F46C6A823D758D4408282",
+    "ks:ks_name":"Ranipur",
+    "ks:ks_pop":350,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|911247",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2043925",
+    "lbl:latitude":27.684711,
+    "lbl:longitude":81.922631,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.684711,
+    "mps:longitude":81.922631,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0646\u064a\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b0\u09be\u09a8\u09c0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ranipur"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aa8\u0ac0\u0aaa\u0ac1\u0ab0"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0646\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10563891
+        "gn:id":10563891,
+        "ks:id":"KS6312FBCF1C7F46C6A823D758D4408282"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0eaab89b3341d3d8db3e362da8522de2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b19f8b1e7ad8caa21416a9b41ec4337",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1259536411,
-    "wof:lastmodified":1577753567,
+    "wof:lastmodified":1680675908,
     "wof:name":"Ranipur",
     "wof:parent_id":1108695853,
     "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.93303,
-    27.687,
-    81.93303,
-    27.687
+    81.92188,
+    27.683847,
+    81.923715,
+    27.685468
 ],
-  "geometry": {"coordinates":[81.93303,27.687],"type":"Point"}
+  "geometry": {"coordinates":[[[81.92351499999999,27.685465],[81.923514,27.685375],[81.923615,27.685374],[81.923614,27.685193],[81.923715,27.685193],[81.92371199999999,27.684741],[81.92361,27.684742],[81.923609,27.684652],[81.923407,27.684653],[81.923406,27.684563],[81.923304,27.684564],[81.923304,27.684473],[81.923101,27.684475],[81.92310000000001,27.684384],[81.922999,27.684385],[81.92299800000001,27.684295],[81.92289700000001,27.684295],[81.92289599999999,27.684205],[81.922794,27.684206],[81.922794,27.684116],[81.922692,27.684116],[81.922691,27.684026],[81.92259,27.684027],[81.922589,27.683936],[81.922488,27.683937],[81.922487,27.683847],[81.922082,27.683849],[81.922082,27.68394],[81.921981,27.68394],[81.921982,27.684031],[81.92188,27.684031],[81.921886,27.684663],[81.921987,27.684663],[81.921989,27.684843],[81.92209,27.684842],[81.92209099999999,27.684933],[81.922192,27.684932],[81.922194,27.685113],[81.92229500000001,27.685112],[81.922296,27.685202],[81.9226,27.6852],[81.922601,27.68529],[81.922905,27.685288],[81.922906,27.685379],[81.923108,27.685377],[81.923109,27.685468],[81.92351499999999,27.685465]]],"type":"Polygon"}
 }

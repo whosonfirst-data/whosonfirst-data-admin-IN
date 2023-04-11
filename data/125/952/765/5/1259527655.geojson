@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.27391,27.01656,78.27391,27.01656",
-    "geom:latitude":27.01656,
-    "geom:longitude":78.27391,
+    "geom:bbox":"78.273275,27.015548,78.274786,27.017185",
+    "geom:latitude":27.016448,
+    "geom:longitude":78.274025,
     "gn:admin1_code":"36",
     "gn:admin2_code":"146.0",
     "gn:asciiname":"Khera",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.25391,26.99656,78.29391,27.03656",
+    "ks:ks_id":"KS6650DC25CA504D1EA3CBAB363ACF1325",
+    "ks:ks_name":"Khera",
+    "ks:ks_pop":673,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|554939",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1743679",
+    "lbl:latitude":27.016491,
+    "lbl:longitude":78.273964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.016491,
+    "mps:longitude":78.273964,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0996\u09c7\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Khera"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u06be\u06cc\u0691\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10483627
+        "gn:id":10483627,
+        "ks:id":"KS6650DC25CA504D1EA3CBAB363ACF1325"
     },
     "wof:country":"IN",
-    "wof:geomhash":"94beca68c4daec319febc696de7c04ee",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7bfee4a0cd82cb52f83294d9edc51976",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1259527655,
-    "wof:lastmodified":1577753680,
+    "wof:lastmodified":1680676154,
     "wof:name":"Khera",
     "wof:parent_id":890508867,
     "wof:placetype":"locality",
+    "wof:population":673,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.27391,
-    27.01656,
-    78.27391,
-    27.01656
+    78.273275,
+    27.015548,
+    78.274786,
+    27.017185
 ],
-  "geometry": {"coordinates":[78.27391,27.01656],"type":"Point"}
+  "geometry": {"coordinates":[[[78.274672,27.017185],[78.274674,27.017095],[78.27477500000001,27.017097],[78.27478600000001,27.016646],[78.27468500000001,27.016644],[78.274689,27.016463],[78.27458900000001,27.016461],[78.27459500000001,27.016191],[78.274494,27.016189],[78.274503,27.015828],[78.27440199999999,27.015826],[78.274405,27.015736],[78.274304,27.015734],[78.274306,27.015644],[78.27410500000001,27.01564],[78.274107,27.01555],[78.274006,27.015548],[78.27400400000001,27.015638],[78.273702,27.015632],[78.27370000000001,27.015722],[78.273599,27.01572],[78.273597,27.015811],[78.27349599999999,27.015809],[78.273494,27.015899],[78.273393,27.015897],[78.273385,27.016258],[78.273284,27.016256],[78.273275,27.016616],[78.273376,27.016618],[78.273369,27.016889],[78.27347,27.016891],[78.27346799999999,27.016981],[78.27356899999999,27.016983],[78.273566,27.017073],[78.27386799999999,27.017079],[78.273866,27.017169],[78.274672,27.017185]]],"type":"Polygon"}
 }

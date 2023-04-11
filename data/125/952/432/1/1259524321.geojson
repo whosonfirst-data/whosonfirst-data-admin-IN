@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.48597,24.75584,84.48597,24.75584",
-    "geom:latitude":24.75584,
-    "geom:longitude":84.48597,
+    "geom:bbox":"84.485077,24.754971,84.487459,24.756134",
+    "geom:latitude":24.755522,
+    "geom:longitude":84.486214,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Badli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.46597,24.73584,84.50597,24.77584",
+    "ks:ks_id":"KSD81D7A01FD7C470B982D771AD2FFC8AC",
+    "ks:ks_name":"Badli",
+    "ks:ks_pop":249,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13288165",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1152621",
+    "lbl:latitude":24.755635,
+    "lbl:longitude":84.486072,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.755635,
+    "mps:longitude":84.486072,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062f\u0644\u064a"
@@ -41,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "B\u0101dli"
+    ],
+    "name:eng_x_preferred":[
+        "Badli"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0aa6\u0ab2\u0ac0"
@@ -78,7 +91,13 @@
     "name:vie_x_preferred":[
         "Badli"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10838435
+        "gn:id":10838435,
+        "ks:id":"KSD81D7A01FD7C470B982D771AD2FFC8AC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2f9965231a687f0061bad5444b2f367d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6c7f2f2ec7d9fae893b3d0317fe03d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1259524321,
-    "wof:lastmodified":1577753706,
+    "wof:lastmodified":1680676213,
     "wof:name":"Badli",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.48597,
-    24.75584,
-    84.48597,
-    24.75584
+    84.485077,
+    24.754971,
+    84.487459,
+    24.756134
 ],
-  "geometry": {"coordinates":[84.48596999999999,24.75584],"type":"Point"}
+  "geometry": {"coordinates":[[[84.486253,24.756134],[84.486255,24.756044],[84.486453,24.756047],[84.48645500000001,24.755957],[84.486553,24.755959],[84.486555,24.755868],[84.48675299999999,24.755872],[84.486755,24.755782],[84.486952,24.755785],[84.486954,24.755695],[84.48734899999999,24.755701],[84.48735499999999,24.755431],[84.487454,24.755432],[84.487459,24.755162],[84.48736,24.75516],[84.487362,24.75507],[84.487263,24.755068],[84.48726499999999,24.754978],[84.48687,24.754971],[84.486868,24.755061],[84.486572,24.755056],[84.48657,24.755147],[84.485483,24.755128],[84.485485,24.755038],[84.485287,24.755035],[84.485283,24.755215],[84.485185,24.755214],[84.48518300000001,24.755304],[84.485084,24.755302],[84.485077,24.755663],[84.485176,24.755665],[84.48517,24.755935],[84.485467,24.75594],[84.485465,24.756031],[84.485761,24.756036],[84.485759,24.756126],[84.486253,24.756134]]],"type":"Polygon"}
 }

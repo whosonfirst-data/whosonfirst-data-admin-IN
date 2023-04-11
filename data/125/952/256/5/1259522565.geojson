@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.17278,27.91642,80.17278,27.91642",
-    "geom:latitude":27.91642,
-    "geom:longitude":80.17278,
+    "geom:bbox":"80.172124,27.9159,80.173344,27.916806",
+    "geom:latitude":27.916389,
+    "geom:longitude":80.172769,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"153.0",
     "gn:asciiname":"Kumharwa",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.15278,27.89642,80.19278,27.93642",
+    "ks:ks_id":"KS7FB7391FAE4F454889CC8C24B773383B",
+    "ks:ks_name":"Kumhrauwa",
+    "ks:ks_pop":104,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|598946",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2015469",
+    "lbl:latitude":27.916388,
+    "lbl:longitude":80.17278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.916388,
+    "mps:longitude":80.17278,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kumhrauwa"
+    ],
+    "name:eng_x_variant":[
+        "Kumharwa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11061610
+        "gn:id":11061610,
+        "ks:id":"KS7FB7391FAE4F454889CC8C24B773383B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7d95d72ad276de774fe745a1f4bc822f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"df5e232cb2c066bc748985561a0fbf9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259522565,
-    "wof:lastmodified":1566709257,
-    "wof:name":"Kumharwa",
+    "wof:lastmodified":1680676177,
+    "wof:name":"Kumhrauwa",
     "wof:parent_id":1108695813,
     "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.17278,
-    27.91642,
-    80.17278,
-    27.91642
+    80.172124,
+    27.9159,
+    80.173344,
+    27.916806
 ],
-  "geometry": {"coordinates":[80.17278,27.91642],"type":"Point"}
+  "geometry": {"coordinates":[[[80.17313799999999,27.916806],[80.17313799999999,27.916716],[80.17324000000001,27.916717],[80.173241,27.916536],[80.173343,27.916537],[80.173344,27.916356],[80.173243,27.916355],[80.173244,27.916175],[80.173142,27.916174],[80.173143,27.916084],[80.173042,27.916083],[80.173042,27.915993],[80.17294099999999,27.915993],[80.17294099999999,27.915902],[80.172636,27.9159],[80.172636,27.915991],[80.172534,27.91599],[80.172533,27.91608],[80.172432,27.91608],[80.172431,27.91617],[80.17233,27.916169],[80.172329,27.91626],[80.17222700000001,27.916259],[80.17222700000001,27.916349],[80.17212499999999,27.916349],[80.172124,27.916529],[80.172225,27.91653],[80.172224,27.91662],[80.172428,27.916621],[80.172427,27.916712],[80.17263,27.916713],[80.17263,27.916803],[80.17313799999999,27.916806]]],"type":"Polygon"}
 }

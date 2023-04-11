@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.73893,25.33076,85.73893,25.33076",
-    "geom:latitude":25.33076,
-    "geom:longitude":85.73893,
+    "geom:bbox":"85.737979,25.329229,85.740072,25.332034",
+    "geom:latitude":25.330701,
+    "geom:longitude":85.739021,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Gobindpur",
@@ -24,19 +24,41 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.71893,25.31076,85.75893,25.35076",
+    "ks:ks_id":"KS0A940D0418A943D4A4D53628C412541D",
+    "ks:ks_name":"Gobind Pur",
+    "ks:ks_pop":805,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|363840",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2068980",
+    "lbl:latitude":25.330692,
+    "lbl:longitude":85.739041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.330692,
+    "mps:longitude":85.739041,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Gobindpur"
+    ],
+    "name:eng_x_preferred":[
+        "Gobind Pur"
+    ],
+    "name:eng_x_variant":[
         "Gobindpur"
     ],
     "name:swe_x_preferred":[
         "Gobindpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11031077
+        "gn:id":11031077,
+        "ks:id":"KS0A940D0418A943D4A4D53628C412541D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"76403e6fd9bc96820c3f4e7d90ee49d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"069da2c7bd4d65bb3a347751a58ca201",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +85,22 @@
         }
     ],
     "wof:id":1259537179,
-    "wof:lastmodified":1566708823,
-    "wof:name":"Gobindpur",
+    "wof:lastmodified":1680675918,
+    "wof:name":"Gobind Pur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":805,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.73893000000002,
-    25.33076,
-    85.73893000000002,
-    25.33076
+    85.737979,
+    25.329229,
+    85.740072,
+    25.332034
 ],
-  "geometry": {"coordinates":[85.73893000000002,25.33076],"type":"Point"}
+  "geometry": {"coordinates":[[[85.739362,25.332034],[85.739363,25.331944],[85.73956200000001,25.331946],[85.739563,25.331855],[85.739662,25.331856],[85.73966299999999,25.331766],[85.739762,25.331767],[85.739763,25.331677],[85.739863,25.331677],[85.739863,25.331587],[85.739963,25.331588],[85.739965,25.331407],[85.740064,25.331408],[85.740072,25.330596],[85.73997300000001,25.330595],[85.73997799999999,25.330143],[85.739878,25.330143],[85.73988,25.329962],[85.73978099999999,25.329961],[85.739783,25.329781],[85.739683,25.32978],[85.73968499999999,25.329599],[85.739586,25.329598],[85.739587,25.329508],[85.73948799999999,25.329507],[85.73948900000001,25.329417],[85.739389,25.329416],[85.73939,25.329326],[85.73929099999999,25.329325],[85.73929200000001,25.329235],[85.738696,25.329229],[85.73869500000001,25.32932],[85.73839700000001,25.329317],[85.738395,25.329498],[85.73829600000001,25.329497],[85.738291,25.329948],[85.738191,25.329948],[85.73818799999999,25.330309],[85.738088,25.330308],[85.738084,25.330759],[85.737984,25.330758],[85.737979,25.3313],[85.738078,25.331301],[85.73807499999999,25.331572],[85.738175,25.331573],[85.738173,25.331753],[85.73827199999999,25.331754],[85.738271,25.331844],[85.738371,25.331845],[85.73837,25.331935],[85.73846899999999,25.331936],[85.738468,25.332027],[85.739362,25.332034]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.86463,27.28471,80.86463,27.28471",
-    "geom:latitude":27.28471,
-    "geom:longitude":80.86463,
+    "geom:bbox":"80.864079,27.268857,80.866301,27.270574",
+    "geom:latitude":27.269726,
+    "geom:longitude":80.865146,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Purwa",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.84463,27.26471,80.88463,27.30471",
+    "ks:ks_id":"KS24DA19D11F2545F180B19AC2B1F9DC76",
+    "ks:ks_name":"Purwa",
+    "ks:ks_pop":85,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|880838",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1896735",
+    "lbl:latitude":27.269716,
+    "lbl:longitude":80.865125,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.269716,
+    "mps:longitude":80.865125,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c1\u09b0\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Purwa"
+    ],
+    "name:eng_x_preferred":[
         "Purwa"
     ],
     "name:hin_x_preferred":[
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u666e\u5c14\u74e6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10711976
+        "gn:id":10711976,
+        "ks:id":"KS24DA19D11F2545F180B19AC2B1F9DC76"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b630a9a329a708be3149d1b224b71d4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa2ed7a8b365298bd12a868bfa059b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1259527381,
-    "wof:lastmodified":1566709223,
+    "wof:lastmodified":1680676156,
     "wof:name":"Purwa",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.86463,
-    27.28471,
-    80.86463,
-    27.28471
+    80.864079,
+    27.268857,
+    80.866301,
+    27.270574
 ],
-  "geometry": {"coordinates":[80.86463000000001,27.28471],"type":"Point"}
+  "geometry": {"coordinates":[[[80.86579500000001,27.270574],[80.86579500000001,27.270484],[80.86589600000001,27.270484],[80.86589600000001,27.270394],[80.86599699999999,27.270394],[80.865998,27.270303],[80.86609900000001,27.270303],[80.86609900000001,27.270213],[80.86620000000001,27.270213],[80.86620000000001,27.270033],[80.86630100000001,27.270033],[80.86630100000001,27.269852],[80.86620000000001,27.269852],[80.866201,27.269581],[80.86609900000001,27.269581],[80.8661,27.269401],[80.865999,27.269401],[80.865999,27.26931],[80.865898,27.26931],[80.865898,27.26922],[80.865696,27.26922],[80.865696,27.269129],[80.865595,27.269129],[80.865595,27.269039],[80.865494,27.269039],[80.865494,27.268949],[80.865393,27.268949],[80.865393,27.268858],[80.864484,27.268857],[80.864484,27.268948],[80.864282,27.268947],[80.86428100000001,27.269128],[80.86418,27.269128],[80.86418,27.269399],[80.864079,27.269399],[80.864079,27.26967],[80.86418,27.26967],[80.86417899999999,27.270031],[80.86427999999999,27.270031],[80.86427999999999,27.270211],[80.86438099999999,27.270211],[80.86438099999999,27.270302],[80.864482,27.270302],[80.864482,27.270392],[80.864684,27.270392],[80.864684,27.270483],[80.864987,27.270483],[80.864987,27.270573],[80.86579500000001,27.270574]]],"type":"Polygon"}
 }

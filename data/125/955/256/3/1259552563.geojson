@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.1686,19.66753,78.1686,19.66753",
-    "geom:latitude":19.66753,
-    "geom:longitude":78.1686,
+    "geom:bbox":"78.1676,19.66576,78.169831,19.669002",
+    "geom:latitude":19.667316,
+    "geom:longitude":78.168632,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Khera",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.1486,19.64753,78.1886,19.68753",
+    "ks:ks_id":"KS38065A36E24240D4BB7736D2510625F8",
+    "ks:ks_name":"Kherda",
+    "ks:ks_pop":500,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|555409",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_559956",
+    "lbl:latitude":19.667316,
+    "lbl:longitude":78.168654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.667316,
+    "mps:longitude":78.168654,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0996\u09c7\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Kherda"
+    ],
+    "name:eng_x_variant":[
+        "Khera"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0ab0\u0abe"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u06be\u06cc\u0691\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10523598
+        "gn:id":10523598,
+        "ks:id":"KS38065A36E24240D4BB7736D2510625F8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2d691fb70e3f3990e1a2b2453b27e4cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f91e0fa22e85c0ee7714840b614202c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1259552563,
-    "wof:lastmodified":1577753714,
-    "wof:name":"Khera",
+    "wof:lastmodified":1680676236,
+    "wof:name":"Kherda",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.1686,
-    19.66753,
-    78.1686,
-    19.66753
+    78.1676,
+    19.66576,
+    78.169831,
+    19.669002
 ],
-  "geometry": {"coordinates":[78.1686,19.66753],"type":"Point"}
+  "geometry": {"coordinates":[[[78.168451,19.669002],[78.168452,19.668912],[78.168738,19.668916],[78.16874,19.668826],[78.168835,19.668827],[78.168837,19.668737],[78.168932,19.668739],[78.16893399999999,19.668648],[78.169124,19.668651],[78.16912600000001,19.668561],[78.16922099999999,19.668563],[78.16922599999999,19.668292],[78.169321,19.668293],[78.169324,19.668113],[78.16942,19.668114],[78.169421,19.668024],[78.169516,19.668026],[78.169518,19.667935],[78.169613,19.667937],[78.169616,19.667756],[78.169712,19.667758],[78.169715,19.667577],[78.16981,19.667579],[78.169831,19.666405],[78.169735,19.666404],[78.16974,19.666133],[78.169645,19.666132],[78.169647,19.666041],[78.169551,19.66604],[78.16955299999999,19.66595],[78.16945800000001,19.665948],[78.169459,19.665858],[78.169173,19.665853],[78.169175,19.665763],[78.16898399999999,19.66576],[78.168983,19.66585],[78.16841100000001,19.665841],[78.168409,19.665932],[78.16802800000001,19.665926],[78.168027,19.666016],[78.16783599999999,19.666013],[78.167835,19.666103],[78.167739,19.666102],[78.167738,19.666192],[78.167642,19.66619],[78.16759999999999,19.668627],[78.16769499999999,19.668629],[78.16768999999999,19.6689],[78.16778499999999,19.668901],[78.167784,19.668991],[78.168451,19.669002]]],"type":"Polygon"}
 }

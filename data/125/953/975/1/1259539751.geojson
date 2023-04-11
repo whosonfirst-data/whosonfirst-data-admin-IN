@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.58833,30.21471,76.58833,30.21471",
-    "geom:latitude":30.21471,
-    "geom:longitude":76.58833,
+    "geom:bbox":"76.586406,30.212895,76.588931,30.215422",
+    "geom:latitude":30.214251,
+    "geom:longitude":76.587532,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"048",
     "gn:asciiname":"Taura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.56833,30.19471,76.60833,30.23471",
+    "ks:ks_id":"KS2109344B2A2D4BF9BFA55CA85731B8B7",
+    "ks:ks_name":"Taura",
+    "ks:ks_pop":304,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|10447947",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2629817",
+    "lbl:latitude":30.214275,
+    "lbl:longitude":76.587508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.214275,
+    "mps:longitude":76.587508,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0422\u0430\u0443\u0440\u0430"
@@ -37,6 +47,9 @@
         "Taura"
     ],
     "name:deu_x_preferred":[
+        "Taura"
+    ],
+    "name:eng_x_preferred":[
         "Taura"
     ],
     "name:epo_x_preferred":[
@@ -96,7 +109,13 @@
     "name:war_x_preferred":[
         "Taura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6989553
+        "gn:id":6989553,
+        "ks:id":"KS2109344B2A2D4BF9BFA55CA85731B8B7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"67da92522c78c026c646f12570b74525",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6fc6c2ffe493032b74275fd1ee34ae5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +142,22 @@
         }
     ],
     "wof:id":1259539751,
-    "wof:lastmodified":1566708830,
+    "wof:lastmodified":1680675922,
     "wof:name":"Taura",
     "wof:parent_id":890508851,
     "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.58833,
-    30.21471,
-    76.58833,
-    30.21471
+    76.586406,
+    30.212895,
+    76.588931,
+    30.215422
 ],
-  "geometry": {"coordinates":[76.58833,30.21471],"type":"Point"}
+  "geometry": {"coordinates":[[[76.58852,30.215408],[76.58851900000001,30.215318],[76.58883,30.215314],[76.58882699999999,30.215134],[76.588931,30.215133],[76.588928,30.214952],[76.588824,30.214954],[76.58882199999999,30.214773],[76.588718,30.214774],[76.588705,30.213963],[76.588601,30.213964],[76.588596,30.213693],[76.588493,30.213695],[76.588491,30.213604],[76.588387,30.213606],[76.588386,30.213515],[76.58828200000001,30.213517],[76.58828,30.213426],[76.588177,30.213428],[76.58817500000001,30.213337],[76.588071,30.213339],[76.58807,30.213249],[76.58796599999999,30.21325],[76.587964,30.21316],[76.587757,30.213162],[76.587755,30.213072],[76.58765099999999,30.213073],[76.58765,30.212983],[76.587442,30.212985],[76.587441,30.212895],[76.586714,30.212904],[76.586715,30.212994],[76.586611,30.212995],[76.586613,30.213086],[76.58650900000001,30.213087],[76.58651,30.213177],[76.586406,30.213178],[76.586437,30.215073],[76.586541,30.215072],[76.58654199999999,30.215162],[76.586646,30.21516],[76.586648,30.215251],[76.586855,30.215248],[76.58685699999999,30.215338],[76.58737600000001,30.215332],[76.587377,30.215422],[76.58852,30.215408]]],"type":"Polygon"}
 }

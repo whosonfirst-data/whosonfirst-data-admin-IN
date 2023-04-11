@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.0326,20.5708,77.0326,20.5708",
-    "geom:latitude":20.5708,
-    "geom:longitude":77.0326,
+    "geom:bbox":"77.032208,20.570395,77.033175,20.571304",
+    "geom:latitude":20.570864,
+    "geom:longitude":77.032662,
     "gn:admin1_code":"16",
     "gn:admin2_code":"501.0",
     "gn:asciiname":"Shahapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.0126,20.5508,77.0526,20.5908",
+    "ks:ks_alt_nam":"Sh\u0101h\u0101pur",
+    "ks:ks_id":"KSDF0B4E9E51B149B1942158DB891674DF",
+    "ks:ks_name":"Shahapur",
+    "ks:ks_pop":180,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|974984",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_853165",
+    "lbl:latitude":20.57085,
+    "lbl:longitude":77.032623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.57085,
+    "mps:longitude":77.032623,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b9\u09be\u09aa\u09c1\u09b0"
@@ -37,6 +48,12 @@
         "\u09b6\u09be\u09b9\u09be\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Sh\u0101h\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Shahapur"
+    ],
+    "name:eng_x_variant":[
         "Sh\u0101h\u0101pur"
     ],
     "name:hin_x_preferred":[
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u65af\u54c8\u54c8\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10503959
+        "gn:id":10503959,
+        "ks:id":"KSDF0B4E9E51B149B1942158DB891674DF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a80a2e82ac30b4d12121f07183869a27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"47aad941983fd21675437b0914c76fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1259555637,
-    "wof:lastmodified":1566709366,
+    "wof:lastmodified":1680676239,
     "wof:name":"Shahapur",
     "wof:parent_id":890502567,
     "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.0326,
-    20.5708,
-    77.0326,
-    20.5708
+    77.032208,
+    20.570395,
+    77.033175,
+    20.571304
 ],
-  "geometry": {"coordinates":[77.0326,20.5708],"type":"Point"}
+  "geometry": {"coordinates":[[[77.032889,20.571298],[77.032888,20.571208],[77.03308,20.571205],[77.033079,20.571115],[77.033175,20.571114],[77.03317,20.570753],[77.033074,20.570754],[77.033073,20.570664],[77.032977,20.570665],[77.032974,20.570484],[77.032878,20.570485],[77.032877,20.570395],[77.032398,20.570401],[77.032399,20.570491],[77.032303,20.570492],[77.032304,20.570582],[77.032208,20.570583],[77.032217,20.571216],[77.032409,20.571213],[77.03241,20.571304],[77.032889,20.571298]]],"type":"Polygon"}
 }
