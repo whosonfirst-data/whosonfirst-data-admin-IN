@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.55385,24.30858,84.55385,24.30858",
-    "geom:latitude":24.30858,
-    "geom:longitude":84.55385,
+    "geom:bbox":"84.554096,24.305321,84.555093,24.306583",
+    "geom:latitude":24.305974,
+    "geom:longitude":84.554573,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Marka",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.53385,24.28858,84.57385,24.32858",
+    "ks:ks_alt_nam":"M\u0101rka",
+    "ks:ks_id":"KSCD8AF748EE434C228E98AF7F11E24C7B",
+    "ks:ks_name":"Marka",
+    "ks:ks_pop":528,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13293432",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1144630",
+    "lbl:latitude":24.305966,
+    "lbl:longitude":84.554573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.305966,
+    "mps:longitude":84.554573,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Marka"
+    ],
+    "name:eng_x_preferred":[
+        "Marka"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101rka"
     ],
     "name:eus_x_preferred":[
         "Marka"
@@ -96,7 +113,13 @@
     "name:vie_x_preferred":[
         "Marka"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841282
+        "gn:id":10841282,
+        "ks:id":"KSCD8AF748EE434C228E98AF7F11E24C7B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fc0ff1ee2b8f6269d6755ac28bc85497",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4fcce9365c91dc4bae220a460565844f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +146,22 @@
         }
     ],
     "wof:id":1243605451,
-    "wof:lastmodified":1636505828,
+    "wof:lastmodified":1680671693,
     "wof:name":"Marka",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.55385,
-    24.30858,
-    84.55385,
-    24.30858
+    84.554096,
+    24.305321,
+    84.555093,
+    24.306583
 ],
-  "geometry": {"coordinates":[84.55385,24.30858],"type":"Point"}
+  "geometry": {"coordinates":[[[84.554388,24.306583],[84.55439,24.306493],[84.554784,24.306499],[84.554785,24.306409],[84.555081,24.306413],[84.555093,24.305782],[84.55499500000001,24.30578],[84.554998,24.3056],[84.5549,24.305598],[84.554901,24.305508],[84.55480300000001,24.305506],[84.554805,24.305416],[84.554706,24.305415],[84.55470800000001,24.305324],[84.55451100000001,24.305321],[84.554509,24.305411],[84.554312,24.305408],[84.55431,24.305498],[84.55421200000001,24.305497],[84.55421,24.305587],[84.554112,24.305585],[84.554096,24.306398],[84.55419500000001,24.306399],[84.554191,24.30658],[84.554388,24.306583]]],"type":"Polygon"}
 }

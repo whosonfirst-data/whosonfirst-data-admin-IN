@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.41915,24.81707,81.41915,24.81707",
-    "geom:latitude":24.81707,
-    "geom:longitude":81.41915,
+    "geom:bbox":"81.423804,24.824136,81.425092,24.82486",
+    "geom:latitude":24.824502,
+    "geom:longitude":81.424352,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Rajgarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.39915,24.79707,81.43915,24.83707",
+    "ks:ks_id":"KS9483AA1CED1D457EA4E6F692A492728E",
+    "ks:ks_name":"Rajgarh",
+    "ks:ks_pop":3379,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2314000201663800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1037453",
+    "lbl:latitude":24.824506,
+    "lbl:longitude":81.4243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.824506,
+    "mps:longitude":81.4243,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c \u062c\u0627\u0631\u0647"
@@ -40,6 +50,9 @@
         "\u09b0\u09be\u099c\u0997\u09a1\u09bc"
     ],
     "name:deu_x_preferred":[
+        "Rajgarh"
+    ],
+    "name:eng_x_preferred":[
         "Rajgarh"
     ],
     "name:guj_x_preferred":[
@@ -84,7 +97,13 @@
     "name:urd_x_variant":[
         "\u0631\u0627\u062c\u06af\u0691\u06be"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10531270
+        "gn:id":10531270,
+        "ks:id":"KS9483AA1CED1D457EA4E6F692A492728E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8f65178a750781bd65baeba82ad9d605",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a80336310d89d79dcaa9b552606e238",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +130,22 @@
         }
     ],
     "wof:id":1243598825,
-    "wof:lastmodified":1577753145,
+    "wof:lastmodified":1680671508,
     "wof:name":"Rajgarh",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":3379,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.41915,
-    24.81707,
-    81.41915,
-    24.81707
+    81.423804,
+    24.824136,
+    81.425092,
+    24.82486
 ],
-  "geometry": {"coordinates":[81.41915,24.81707],"type":"Point"}
+  "geometry": {"coordinates":[[[81.42440000000001,24.824859],[81.42440000000001,24.824768],[81.424796,24.824767],[81.424795,24.824677],[81.42489399999999,24.824677],[81.42489399999999,24.824586],[81.42509200000001,24.824586],[81.42509099999999,24.824405],[81.424992,24.824405],[81.424992,24.824315],[81.424497,24.824316],[81.424497,24.824226],[81.424299,24.824227],[81.424299,24.824136],[81.423903,24.824138],[81.423903,24.824228],[81.423804,24.824228],[81.423806,24.82468],[81.423905,24.824679],[81.423905,24.82477],[81.424004,24.824769],[81.424004,24.82486],[81.42440000000001,24.824859]]],"type":"Polygon"}
 }

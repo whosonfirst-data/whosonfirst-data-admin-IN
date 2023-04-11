@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.64798,13.10464,78.64798,13.10464",
-    "geom:latitude":13.10464,
-    "geom:longitude":78.64798,
+    "geom:bbox":"78.647339,13.103523,78.649098,13.105156",
+    "geom:latitude":13.104389,
+    "geom:longitude":78.648196,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Dharmapuri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.62798,13.08464,78.66798,13.12464",
+    "ks:ks_id":"KS7E8D651F71B041D2AD81EB4D5B922AC8",
+    "ks:ks_name":"Dharmapuri",
+    "ks:ks_pop":483,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|291244",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_310650",
+    "lbl:latitude":13.104394,
+    "lbl:longitude":78.648197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.104394,
+    "mps:longitude":78.648197,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0645\u0627\u0628\u0648\u0631\u064a"
@@ -46,6 +56,9 @@
         "Dharmapuri"
     ],
     "name:deu_x_preferred":[
+        "Dharmapuri"
+    ],
+    "name:eng_x_preferred":[
         "Dharmapuri"
     ],
     "name:fra_x_preferred":[
@@ -117,7 +130,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u5c14\u9a6c\u666e\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11326704
+        "gn:id":11326704,
+        "ks:id":"KS7E8D651F71B041D2AD81EB4D5B922AC8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9ad7218971c00011b80c2c90cd7b1cc3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"36e10b7394dd83a8a240beeb601f6249",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +163,22 @@
         }
     ],
     "wof:id":1243566709,
-    "wof:lastmodified":1577753205,
+    "wof:lastmodified":1680671641,
     "wof:name":"Dharmapuri",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.64798,
-    13.10464,
-    78.64798,
-    13.10464
+    78.647339,
+    13.103523,
+    78.649098,
+    13.105156
 ],
-  "geometry": {"coordinates":[78.64798,13.10464],"type":"Point"}
+  "geometry": {"coordinates":[[[78.648628,13.105156],[78.648629,13.105065],[78.648813,13.105067],[78.648814,13.104977],[78.648906,13.104978],[78.64890699999999,13.104887],[78.648999,13.104888],[78.649,13.104798],[78.649092,13.104799],[78.649098,13.104166],[78.649006,13.104165],[78.649007,13.104075],[78.648915,13.104074],[78.648916,13.103984],[78.648824,13.103983],[78.648825,13.103893],[78.648732,13.103892],[78.64873299999999,13.103801],[78.648549,13.1038],[78.64855,13.103709],[78.64845800000001,13.103708],[78.64845800000001,13.103618],[78.648366,13.103617],[78.64836699999999,13.103527],[78.64790600000001,13.103523],[78.64790499999999,13.103613],[78.647721,13.103611],[78.647719,13.103792],[78.647535,13.10379],[78.64753399999999,13.103881],[78.647442,13.10388],[78.647441,13.10397],[78.64734900000001,13.103969],[78.647345,13.104421],[78.647437,13.104422],[78.64743199999999,13.104874],[78.64734,13.104873],[78.647339,13.104963],[78.647524,13.104965],[78.64752300000001,13.105055],[78.647707,13.105057],[78.647706,13.105147],[78.647983,13.10515],[78.64798399999999,13.10506],[78.64825999999999,13.105062],[78.648259,13.105152],[78.648628,13.105156]]],"type":"Polygon"}
 }
