@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.98854,25.80733,81.98854,25.80733",
-    "geom:latitude":25.80733,
-    "geom:longitude":81.98854,
+    "geom:bbox":"81.999219,25.804833,82.000719,25.80628",
+    "geom:latitude":25.805597,
+    "geom:longitude":81.999916,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Dewas",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.96854,25.78733,82.00854,25.82733",
+    "ks:ks_id":"KS062E47C236A9420D89D2E2C58CE72C14",
+    "ks:ks_name":"Dewasa",
+    "ks:ks_pop":1182,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0943000405269000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1922791",
+    "lbl:latitude":25.805599,
+    "lbl:longitude":81.999902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.805599,
+    "mps:longitude":81.999902,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u0627\u0633"
@@ -52,6 +62,12 @@
         "Dewas"
     ],
     "name:deu_x_preferred":[
+        "Dewas"
+    ],
+    "name:eng_x_preferred":[
+        "Dewasa"
+    ],
+    "name:eng_x_variant":[
         "Dewas"
     ],
     "name:fas_x_preferred":[
@@ -150,7 +166,13 @@
     "name:zho_x_preferred":[
         "\u5fb7\u74e6\u65af"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -159,10 +181,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10683539
+        "gn:id":10683539,
+        "ks:id":"KS062E47C236A9420D89D2E2C58CE72C14"
     },
     "wof:country":"IN",
-    "wof:geomhash":"74a0cd77d623f704c7c17bb6e3c24c1d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a3c314c5121f9893de3741c01225442",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,20 +199,22 @@
         }
     ],
     "wof:id":1243315643,
-    "wof:lastmodified":1577752718,
-    "wof:name":"Dewas",
+    "wof:lastmodified":1680670612,
+    "wof:name":"Dewasa",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":1182,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.98854,
-    25.80733,
-    81.98854,
-    25.80733
+    81.999219,
+    25.804833,
+    82.000719,
+    25.80628
 ],
-  "geometry": {"coordinates":[81.98854,25.80733],"type":"Point"}
+  "geometry": {"coordinates":[[[82.000124,25.806277],[82.000123,25.806187],[82.000423,25.806185],[82.000422,25.806095],[82.000621,25.806093],[82.00062,25.805913],[82.000719,25.805912],[82.000716,25.805551],[82.00061700000001,25.805552],[82.000615,25.805371],[82.00051499999999,25.805372],[82.00051499999999,25.805281],[82.000415,25.805282],[82.00041400000001,25.805192],[82.000314,25.805192],[82.000314,25.805102],[82.000214,25.805103],[82.000213,25.805013],[82.000113,25.805013],[82.000113,25.804923],[82.000013,25.804924],[82.000012,25.804833],[81.99951299999999,25.804837],[81.999514,25.804927],[81.999414,25.804928],[81.999416,25.805108],[81.99931599999999,25.805109],[81.999319,25.80538],[81.999219,25.805381],[81.999224,25.806013],[81.999324,25.806012],[81.999325,25.806102],[81.999424,25.806102],[81.999425,25.806192],[81.999724,25.80619],[81.999725,25.80628],[82.000124,25.806277]]],"type":"Polygon"}
 }

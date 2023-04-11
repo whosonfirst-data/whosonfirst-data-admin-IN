@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.59457,32.06873,75.59457,32.06873",
-    "geom:latitude":32.06873,
-    "geom:longitude":75.59457,
+    "geom:bbox":"75.58717,32.057625,75.588873,32.05934",
+    "geom:latitude":32.058558,
+    "geom:longitude":75.587958,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"38.0",
     "gn:asciiname":"Molla",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.57457,32.04873,75.61457,32.08873",
+    "ks:ks_id":"KS0EF6224D2C694101AA2774B7F70C8959",
+    "ks:ks_name":"Motla",
+    "ks:ks_pop":60,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|718258",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2707205",
+    "lbl:latitude":32.058576,
+    "lbl:longitude":75.587942,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.058576,
+    "mps:longitude":75.587942,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Molla"
     ],
     "name:deu_x_preferred":[
+        "Molla"
+    ],
+    "name:eng_x_preferred":[
+        "Motla"
+    ],
+    "name:eng_x_variant":[
         "Molla"
     ],
     "name:fra_x_preferred":[
@@ -42,7 +58,13 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u043b\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10686820
+        "gn:id":10686820,
+        "ks:id":"KS0EF6224D2C694101AA2774B7F70C8959"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58922cbf7adc53e5c6086a3c09cc0781",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8585b8af1295fd64471b65fe65a80e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1243321735,
-    "wof:lastmodified":1566707305,
-    "wof:name":"Molla",
+    "wof:lastmodified":1680671618,
+    "wof:name":"Motla",
     "wof:parent_id":890508953,
     "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.59456999999998,
-    32.06873,
-    75.59456999999998,
-    32.06873
+    75.58717,
+    32.057625,
+    75.588873,
+    32.05934
 ],
-  "geometry": {"coordinates":[75.59456999999998,32.06873],"type":"Point"}
+  "geometry": {"coordinates":[[[75.588768,32.059336],[75.588767,32.059245],[75.58887300000001,32.059245],[75.588871,32.058974],[75.588765,32.058975],[75.588764,32.058794],[75.588658,32.058795],[75.588657,32.058614],[75.588551,32.058615],[75.588549,32.058344],[75.588443,32.058345],[75.588442,32.058164],[75.588336,32.058165],[75.588335,32.057984],[75.588229,32.057985],[75.588228,32.057804],[75.588122,32.057805],[75.588122,32.057715],[75.58790999999999,32.057716],[75.587909,32.057625],[75.587485,32.057627],[75.587486,32.057718],[75.58738,32.057718],[75.58738099999999,32.057899],[75.58727500000001,32.057899],[75.587276,32.058079],[75.58717,32.05808],[75.58717300000001,32.058531],[75.587279,32.058531],[75.58728000000001,32.058711],[75.587386,32.05871],[75.587388,32.058981],[75.58749400000001,32.058981],[75.587495,32.059161],[75.58760100000001,32.059161],[75.587602,32.059251],[75.58770800000001,32.05925],[75.58770800000001,32.05934],[75.588768,32.059336]]],"type":"Polygon"}
 }
