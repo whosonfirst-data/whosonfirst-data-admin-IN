@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.02659,21.6197,83.02659,21.6197",
-    "geom:latitude":21.6197,
-    "geom:longitude":83.02659,
+    "geom:bbox":"83.025572,21.619107,83.027508,21.619919",
+    "geom:latitude":21.619475,
+    "geom:longitude":83.026361,
     "gn:admin1_code":"37",
     "gn:admin2_code":"403.0",
     "gn:asciiname":"Dalal",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.00659,21.5997,83.04659,21.6397",
+    "ks:ks_alt_nam":"Dal\u0101l",
+    "ks:ks_id":"KSC3DE8CB96BEB4C4C9E396819719BD1E6",
+    "ks:ks_name":"Dalal",
+    "ks:ks_pop":229,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|244441",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_966605",
+    "lbl:latitude":21.619507,
+    "lbl:longitude":83.026282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.619507,
+    "mps:longitude":83.026282,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0644\u0627\u0644"
@@ -36,7 +47,19 @@
     "name:deu_x_preferred":[
         "Dalal"
     ],
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Dalal"
+    ],
+    "name:eng_x_variant":[
+        "Dal\u0101l"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10747710
+        "gn:id":10747710,
+        "ks:id":"KSC3DE8CB96BEB4C4C9E396819719BD1E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c106df03483529b6f65fc4450d0cdf50",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2ddb4ba9bd73acef4c0d109e26d907a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +86,22 @@
         }
     ],
     "wof:id":1243115187,
-    "wof:lastmodified":1566708364,
+    "wof:lastmodified":1680672229,
     "wof:name":"Dalal",
     "wof:parent_id":1108696179,
     "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.02659,
-    21.6197,
-    83.02659,
-    21.6197
+    83.025572,
+    21.619107,
+    83.027508,
+    21.619919
 ],
-  "geometry": {"coordinates":[83.02659,21.6197],"type":"Point"}
+  "geometry": {"coordinates":[[[83.026065,21.619916],[83.02606299999999,21.619825],[83.026546,21.61982],[83.026545,21.619729],[83.02673799999999,21.619727],[83.026736,21.619546],[83.026832,21.619545],[83.026831,21.619455],[83.027024,21.619452],[83.02702499999999,21.619543],[83.027508,21.619537],[83.027506,21.619356],[83.02740900000001,21.619357],[83.02740799999999,21.619267],[83.027215,21.61927],[83.027213,21.619179],[83.02576500000001,21.619197],[83.025764,21.619107],[83.025667,21.619108],[83.025668,21.619198],[83.025572,21.619199],[83.02557899999999,21.619741],[83.025676,21.61974],[83.025677,21.61983],[83.025774,21.619829],[83.025775,21.619919],[83.026065,21.619916]]],"type":"Polygon"}
 }

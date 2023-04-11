@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.57931,25.17563,84.57931,25.17563",
-    "geom:latitude":25.17563,
-    "geom:longitude":84.57931,
+    "geom:bbox":"84.57887,25.175112,84.580361,25.176656",
+    "geom:latitude":25.175871,
+    "geom:longitude":84.579555,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"240.0",
     "gn:asciiname":"Mahrauli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.55931,25.15563,84.59931,25.19563",
+    "ks:ks_id":"KS53E2D83896934608A971EA089D75430A",
+    "ks:ks_name":"Mahrauli",
+    "ks:ks_pop":304,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|649410",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2055005",
+    "lbl:latitude":25.175887,
+    "lbl:longitude":84.579541,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.175887,
+    "mps:longitude":84.579541,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u0631\u0648\u0644\u064a"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09be\u09b9\u09b0\u09cc\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Mahrauli"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab9\u0abe\u0ab0\u0acc\u0ab2\u0ac0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0631\u0648\u0644\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10809970
+        "gn:id":10809970,
+        "ks:id":"KS53E2D83896934608A971EA089D75430A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"67b94fee7d8c01e366f5fc651faedff5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1175b0d50dc0fdf69385ef93dcb27897",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1243117059,
-    "wof:lastmodified":1577753450,
+    "wof:lastmodified":1680672236,
     "wof:name":"Mahrauli",
     "wof:parent_id":1108695955,
     "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.57930999999998,
-    25.17563,
-    84.57930999999998,
-    25.17563
+    84.57887,
+    25.175112,
+    84.580361,
+    25.176656
 ],
-  "geometry": {"coordinates":[84.57930999999998,25.17563],"type":"Point"}
+  "geometry": {"coordinates":[[[84.579649,25.176656],[84.579651,25.176565],[84.579849,25.176569],[84.57985100000001,25.176478],[84.57995,25.17648],[84.57995200000001,25.17639],[84.580051,25.176392],[84.58005300000001,25.176301],[84.580152,25.176303],[84.58015399999999,25.176213],[84.580253,25.176214],[84.58025499999999,25.176124],[84.580354,25.176126],[84.580361,25.175765],[84.580262,25.175763],[84.580264,25.175673],[84.579966,25.175668],[84.57996799999999,25.175578],[84.579869,25.175576],[84.57987199999999,25.175396],[84.579773,25.175394],[84.579775,25.175304],[84.57967600000001,25.175302],[84.579678,25.175212],[84.579579,25.17521],[84.57958000000001,25.17512],[84.57908500000001,25.175112],[84.579083,25.175202],[84.57898400000001,25.175201],[84.578982,25.175291],[84.578883,25.175289],[84.578881,25.17538],[84.57898,25.175381],[84.57897800000001,25.175471],[84.578879,25.17547],[84.57887599999999,25.17565],[84.578975,25.175652],[84.578971,25.175832],[84.578872,25.175831],[84.57886999999999,25.175921],[84.578969,25.175923],[84.57896599999999,25.176103],[84.579065,25.176105],[84.579063,25.176195],[84.579162,25.176196],[84.579159,25.176377],[84.579258,25.176379],[84.57925400000001,25.176559],[84.579353,25.176561],[84.579352,25.176651],[84.579649,25.176656]]],"type":"Polygon"}
 }

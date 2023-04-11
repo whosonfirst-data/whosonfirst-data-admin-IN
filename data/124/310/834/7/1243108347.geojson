@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.36574,25.08095,83.36574,25.08095",
-    "geom:latitude":25.08095,
-    "geom:longitude":83.36574,
+    "geom:bbox":"83.364577,25.080236,83.366583,25.081861",
+    "geom:latitude":25.081031,
+    "geom:longitude":83.365622,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Parasia",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.34574,25.06095,83.38574,25.10095",
+    "ks:ks_id":"KSF86E57E8667E430495F78F2DB0F5ABFA",
+    "ks:ks_name":"Parasia",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12950567",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1936234",
+    "lbl:latitude":25.081009,
+    "lbl:longitude":83.365603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.081009,
+    "mps:longitude":83.365603,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09be\u09b6\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Parasia"
     ],
     "name:ita_x_preferred":[
         "Parasia"
@@ -54,7 +67,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u590f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10505516
+        "gn:id":10505516,
+        "ks:id":"KSF86E57E8667E430495F78F2DB0F5ABFA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"033a5c2bbdeb7a5079fa74e7176b337f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"228d5260b1bc21c876d7d3640612ed64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1243108347,
-    "wof:lastmodified":1566708523,
+    "wof:lastmodified":1680672326,
     "wof:name":"Parasia",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.36574,
-    25.08095,
-    83.36574,
-    25.08095
+    83.364577,
+    25.080236,
+    83.366583,
+    25.081861
 ],
-  "geometry": {"coordinates":[83.36574,25.08095],"type":"Point"}
+  "geometry": {"coordinates":[[[83.36628899999999,25.081855],[83.366287,25.081765],[83.366485,25.081762],[83.366484,25.081671],[83.36658300000001,25.08167],[83.366569,25.080948],[83.36647000000001,25.08095],[83.36646500000001,25.080679],[83.366365,25.08068],[83.366364,25.08059],[83.366265,25.080592],[83.366263,25.080502],[83.366164,25.080503],[83.366162,25.080413],[83.366063,25.080415],[83.366061,25.080324],[83.365962,25.080326],[83.36596,25.080236],[83.365168,25.080248],[83.36517000000001,25.080339],[83.36467399999999,25.080346],[83.364676,25.080437],[83.364577,25.080438],[83.36458500000001,25.080889],[83.36468499999999,25.080888],[83.364688,25.081068],[83.36478700000001,25.081067],[83.364791,25.081247],[83.36489,25.081246],[83.364895,25.081516],[83.364994,25.081515],[83.364996,25.081605],[83.365095,25.081603],[83.36509599999999,25.081694],[83.365196,25.081692],[83.36519699999999,25.081782],[83.365891,25.081771],[83.365893,25.081861],[83.36628899999999,25.081855]]],"type":"Polygon"}
 }

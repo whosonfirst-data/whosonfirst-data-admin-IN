@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.57074,26.10063,82.57074,26.10063",
-    "geom:latitude":26.10063,
-    "geom:longitude":82.57074,
+    "geom:bbox":"82.572332,26.099469,82.57314,26.100277",
+    "geom:latitude":26.099873,
+    "geom:longitude":82.572736,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Ekdala",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.55074,26.08063,82.59074,26.12063",
+    "ks:ks_id":"KS5961D01B8849438098C1778C2C2FBD44",
+    "ks:ks_name":"Ekdala",
+    "ks:ks_pop":1058,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|323287",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1396576",
+    "lbl:latitude":26.099873,
+    "lbl:longitude":82.572736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.099873,
+    "mps:longitude":82.572736,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ekdala"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10622429
+        "gn:id":10622429,
+        "ks:id":"KS5961D01B8849438098C1778C2C2FBD44"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9e3316f949bcab384165ccc9c99642eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c49b0f9a7982b90d56062acfccee65df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243106417,
-    "wof:lastmodified":1566708548,
+    "wof:lastmodified":1680672341,
     "wof:name":"Ekdala",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":1058,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.57074,
-    26.10063,
-    82.57074,
-    26.10063
+    82.572332,
+    26.099469,
+    82.57314,
+    26.100277
 ],
-  "geometry": {"coordinates":[82.57074,26.10063],"type":"Point"}
+  "geometry": {"coordinates":[[[82.57314,26.099469],[82.572332,26.099469],[82.572332,26.100277],[82.57314,26.100277],[82.57314,26.099469]]],"type":"Polygon"}
 }

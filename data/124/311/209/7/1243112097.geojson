@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Agra"
@@ -320,9 +321,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672205,
         102191569,
         85632469,
-        85672205,
         1108695793
     ],
     "wof:breaches":[],
@@ -330,7 +331,7 @@
         "gn:id":10179606
     },
     "wof:country":"IN",
-    "wof:geomhash":"162a0ccffc38a96a7255d42ab09b0eca",
+    "wof:geomhash":"ae3ee9d74ca6ebf9e9b7e578f5d43500",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -341,20 +342,22 @@
         }
     ],
     "wof:id":1243112097,
-    "wof:lastmodified":1576022437,
+    "wof:lastmodified":1680633884,
     "wof:name":"Agra",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847222879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     78.17865,
-    29.31984000000001,
+    29.31984,
     78.17865,
-    29.31984000000001
+    29.31984
 ],
-  "geometry": {"coordinates":[78.17865,29.31984000000001],"type":"Point"}
+  "geometry": {"coordinates":[78.17865,29.31984],"type":"Point"}
 }

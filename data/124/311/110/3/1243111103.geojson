@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.79983,27.38505,81.79983,27.38505",
-    "geom:latitude":27.38505,
-    "geom:longitude":81.79983,
+    "geom:bbox":"81.799344,27.384447,81.800358,27.385442",
+    "geom:latitude":27.384945,
+    "geom:longitude":81.799866,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"181.0",
     "gn:asciiname":"Chaka",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.77983,27.36505,81.81983,27.40505",
+    "ks:ks_id":"KS785745A1023A4209951E20E956AAE4DC",
+    "ks:ks_name":"Chaka",
+    "ks:ks_pop":169,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1161062",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1983503",
+    "lbl:latitude":27.384945,
+    "lbl:longitude":81.799866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.384945,
+    "mps:longitude":81.799866,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chaka"
     ],
     "name:deu_x_preferred":[
+        "Chaka"
+    ],
+    "name:eng_x_preferred":[
         "Chaka"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +64,13 @@
     "name:swe_x_preferred":[
         "Chaka"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10584063
+        "gn:id":10584063,
+        "ks:id":"KS785745A1023A4209951E20E956AAE4DC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"820099a53a6c83cafd92a4add582c6a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b1e9c209798bf00026ef0be76b26a6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1243111103,
-    "wof:lastmodified":1566708371,
+    "wof:lastmodified":1680672233,
     "wof:name":"Chaka",
     "wof:parent_id":1108695853,
     "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.79983,
-    27.38505,
-    81.79983,
-    27.38505
+    81.799344,
+    27.384447,
+    81.800358,
+    27.385442
 ],
-  "geometry": {"coordinates":[81.79983,27.38505],"type":"Point"}
+  "geometry": {"coordinates":[[[81.800057,27.38544],[81.800056,27.38535],[81.800157,27.385349],[81.800157,27.385259],[81.800258,27.385258],[81.800257,27.385168],[81.800358,27.385168],[81.800355,27.384716],[81.800254,27.384717],[81.800253,27.384626],[81.800152,27.384627],[81.800151,27.384537],[81.80005,27.384537],[81.80005,27.384447],[81.799746,27.384449],[81.799747,27.384539],[81.79954499999999,27.38454],[81.79954499999999,27.384631],[81.79944399999999,27.384631],[81.799446,27.384812],[81.799344,27.384812],[81.799346,27.385083],[81.799447,27.385082],[81.799449,27.385263],[81.79955,27.385262],[81.79955099999999,27.385353],[81.799753,27.385352],[81.799753,27.385442],[81.800057,27.38544]]],"type":"Polygon"}
 }
