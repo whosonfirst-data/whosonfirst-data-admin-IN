@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.71211,27.31253,79.71211,27.31253",
-    "geom:latitude":27.31253,
-    "geom:longitude":79.71211,
+    "geom:bbox":"79.711567,27.31084,79.712692,27.312828",
+    "geom:latitude":27.311881,
+    "geom:longitude":79.71213,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159.0",
     "gn:asciiname":"Gopalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.69211,27.29253,79.73211,27.33253",
+    "ks:ks_id":"KS100DD9EF3E324FDCB86210FDBFF5C82B",
+    "ks:ks_name":"Gopal Pur",
+    "ks:ks_pop":640,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|371392",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1898229",
+    "lbl:latitude":27.31189,
+    "lbl:longitude":79.712085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.31189,
+    "mps:longitude":79.712085,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0628\u0627\u0644\u0628\u0648\u0631"
@@ -46,6 +56,12 @@
         "Gopalpur"
     ],
     "name:deu_x_preferred":[
+        "Gopalpur"
+    ],
+    "name:eng_x_preferred":[
+        "Gopal Pur"
+    ],
+    "name:eng_x_variant":[
         "Gopalpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +109,13 @@
     "name:urd_x_preferred":[
         "\u06af\u0648\u067e\u0627\u0644 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10474181
+        "gn:id":10474181,
+        "ks:id":"KS100DD9EF3E324FDCB86210FDBFF5C82B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"548f3133c351d293d1383b40b9fce448",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"80e977e2a31196f0265362801016daf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1242827111,
-    "wof:lastmodified":1577753307,
-    "wof:name":"Gopalpur",
+    "wof:lastmodified":1680671903,
+    "wof:name":"Gopal Pur",
     "wof:parent_id":1108695821,
     "wof:placetype":"locality",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.71211,
-    27.31253,
-    79.71211,
-    27.31253
+    79.711567,
+    27.31084,
+    79.712692,
+    27.312828
 ],
-  "geometry": {"coordinates":[79.71211,27.31253],"type":"Point"}
+  "geometry": {"coordinates":[[[79.712372,27.312828],[79.712374,27.312647],[79.712475,27.312648],[79.712476,27.312558],[79.712577,27.312559],[79.71257900000001,27.312378],[79.71268000000001,27.312379],[79.712684,27.312018],[79.712583,27.312017],[79.712586,27.311746],[79.712687,27.311747],[79.712692,27.311296],[79.712591,27.311295],[79.712594,27.311024],[79.71249299999999,27.311023],[79.71249400000001,27.310933],[79.71239300000001,27.310932],[79.712394,27.310842],[79.712192,27.31084],[79.712191,27.31093],[79.71209,27.310929],[79.71208900000001,27.31102],[79.711887,27.311018],[79.71188600000001,27.311108],[79.71178500000001,27.311107],[79.71178399999999,27.311197],[79.71168299999999,27.311196],[79.711679,27.311557],[79.711578,27.311557],[79.711567,27.312459],[79.711668,27.31246],[79.711665,27.312731],[79.711766,27.312732],[79.711765,27.312822],[79.712372,27.312828]]],"type":"Polygon"}
 }

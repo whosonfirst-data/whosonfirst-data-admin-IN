@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.46898,26.26299,78.46898,26.26299",
-    "geom:latitude":26.26299,
-    "geom:longitude":78.46898,
+    "geom:bbox":"78.468173,26.262361,78.469674,26.263546",
+    "geom:latitude":26.262925,
+    "geom:longitude":78.468936,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"420.0",
     "gn:asciiname":"Bhaipura",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.44898,26.24299,78.48898,26.28299",
+    "ks:ks_id":"KS43C762CB847F406384C9EE508DE68CFE",
+    "ks:ks_name":"Bhypura",
+    "ks:ks_pop":256,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|159474",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1731024",
+    "lbl:latitude":26.262863,
+    "lbl:longitude":78.468925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.262863,
+    "mps:longitude":78.468925,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Bhypura"
+    ],
+    "name:eng_x_variant":[
         "Bhaipura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10431388
+        "gn:id":10431388,
+        "ks:id":"KS43C762CB847F406384C9EE508DE68CFE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ecbff0e6a3ed7ecaeeca6d07bdc3ae13",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"566f2ff178646ca7b60ad1513d44bedb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1242827567,
-    "wof:lastmodified":1566707748,
-    "wof:name":"Bhaipura",
+    "wof:lastmodified":1680671885,
+    "wof:name":"Bhypura",
     "wof:parent_id":1108696209,
     "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.46898,
-    26.26299,
-    78.46898,
-    26.26299
+    78.468173,
+    26.262361,
+    78.469674,
+    26.263546
 ],
-  "geometry": {"coordinates":[78.46898,26.26299],"type":"Point"}
+  "geometry": {"coordinates":[[[78.46926000000001,26.263546],[78.469262,26.263456],[78.46946199999999,26.263459],[78.469464,26.263369],[78.46956400000001,26.263371],[78.469566,26.26328],[78.469666,26.263282],[78.469674,26.262921],[78.46957399999999,26.26292],[78.46957500000001,26.262829],[78.469375,26.262826],[78.46937699999999,26.262736],[78.46927700000001,26.262734],[78.469279,26.262644],[78.469179,26.262642],[78.46918100000001,26.262552],[78.468981,26.262548],[78.46898299999999,26.262458],[78.46888300000001,26.262456],[78.468885,26.262366],[78.468585,26.262361],[78.468583,26.262451],[78.468383,26.262447],[78.46838099999999,26.262538],[78.468281,26.262536],[78.468279,26.262626],[78.46817900000001,26.262624],[78.46817299999999,26.262895],[78.468273,26.262897],[78.468271,26.262987],[78.468371,26.262989],[78.468367,26.263169],[78.468867,26.263178],[78.46886499999999,26.263268],[78.468965,26.26327],[78.468963,26.26336],[78.469064,26.263362],[78.46906,26.263542],[78.46926000000001,26.263546]]],"type":"Polygon"}
 }

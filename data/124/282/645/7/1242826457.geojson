@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.53867,28.64447,77.53867,28.64447",
-    "geom:latitude":28.64447,
-    "geom:longitude":77.53867,
+    "geom:bbox":"77.535478,28.642959,77.53952,28.646732",
+    "geom:latitude":28.644761,
+    "geom:longitude":77.537574,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"140.0",
     "gn:asciiname":"Inayatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.51867,28.62447,77.55867,28.66447",
+    "ks:ks_id":"KS5A87DD9AD99A4B41BCEA7A7B7A6157ED",
+    "ks:ks_name":"Inayatpur",
+    "ks:ks_pop":1111,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1150164",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_932944",
+    "lbl:latitude":28.644711,
+    "lbl:longitude":77.537536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.644711,
+    "mps:longitude":77.537536,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u0627\u064a\u062a\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0987\u09a8\u09be\u09df\u09be\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Inayatpur"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aa8\u0abe\u0aaf\u0aa4\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0639\u0646\u0627\u06cc\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10270132
+        "gn:id":10270132,
+        "ks:id":"KS5A87DD9AD99A4B41BCEA7A7B7A6157ED"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f287a8c51b335fa179c57786b5d22500",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d441ddf11f1d20fa8b77de728dcae38c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1242826457,
-    "wof:lastmodified":1577753296,
+    "wof:lastmodified":1680671871,
     "wof:name":"Inayatpur",
     "wof:parent_id":890511205,
     "wof:placetype":"locality",
+    "wof:population":1111,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.53867,
-    28.64447,
-    77.53867,
-    28.64447
+    77.535478,
+    28.642959,
+    77.53952,
+    28.646732
 ],
-  "geometry": {"coordinates":[77.53867,28.64447],"type":"Point"}
+  "geometry": {"coordinates":[[[77.537094,28.646732],[77.537094,28.646462],[77.537633,28.646462],[77.537633,28.646193],[77.537903,28.646193],[77.537903,28.646462],[77.538442,28.646462],[77.538442,28.645384],[77.53898100000001,28.645384],[77.53898100000001,28.644845],[77.53952,28.644845],[77.53952,28.644037],[77.53898100000001,28.644037],[77.53898100000001,28.643767],[77.53952,28.643767],[77.53952,28.642959],[77.537094,28.642959],[77.537094,28.643498],[77.53655500000001,28.643498],[77.53655500000001,28.644037],[77.536286,28.644037],[77.536286,28.644306],[77.536017,28.644306],[77.536017,28.644845],[77.535747,28.644845],[77.535747,28.645384],[77.535478,28.645384],[77.535478,28.645923],[77.536017,28.645923],[77.536017,28.646732],[77.537094,28.646732]]],"type":"Polygon"}
 }

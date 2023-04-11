@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.83539,25.87001,85.83539,25.87001",
-    "geom:latitude":25.87001,
-    "geom:longitude":85.83539,
+    "geom:bbox":"85.835103,25.867165,85.839415,25.869321",
+    "geom:latitude":25.868253,
+    "geom:longitude":85.837112,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Hansa",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.81539,25.85001,85.85539,25.89001",
+    "ks:ks_alt_nam":"H\u0101nsa",
+    "ks:ks_id":"KSC9DA588AAEA647C5B0D428C82DBE53C8",
+    "ks:ks_name":"Hansa",
+    "ks:ks_pop":1515,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|396353",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1379179",
+    "lbl:latitude":25.867996,
+    "lbl:longitude":85.836681,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.867996,
+    "mps:longitude":85.836681,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hansa"
+    ],
+    "name:eng_x_preferred":[
+        "Hansa"
+    ],
+    "name:eng_x_variant":[
+        "H\u0101nsa"
     ],
     "name:fin_x_preferred":[
         "Hansa"
@@ -60,7 +77,13 @@
     "name:vie_x_preferred":[
         "Hansa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880273
+        "gn:id":10880273,
+        "ks:id":"KSC9DA588AAEA647C5B0D428C82DBE53C8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5fe3610b29ad9513929fa267a845dc35",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05abe84708178e4485250ee36374bbc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +110,22 @@
         }
     ],
     "wof:id":1242828119,
-    "wof:lastmodified":1566707720,
+    "wof:lastmodified":1680671870,
     "wof:name":"Hansa",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":1515,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.83539,
-    25.87001,
-    85.83539,
-    25.87001
+    85.835103,
+    25.867165,
+    85.839415,
+    25.869321
 ],
-  "geometry": {"coordinates":[85.83539,25.87001],"type":"Point"}
+  "geometry": {"coordinates":[[[85.839415,25.867973],[85.838337,25.867973],[85.838337,25.867434],[85.837259,25.867434],[85.837259,25.867165],[85.83564200000001,25.867165],[85.83564200000001,25.867434],[85.83537200000001,25.867434],[85.83537200000001,25.867704],[85.835103,25.867704],[85.835103,25.868243],[85.83537200000001,25.868243],[85.83537200000001,25.869321],[85.83672,25.869321],[85.83672,25.868782],[85.838606,25.868782],[85.838606,25.869321],[85.839415,25.869321],[85.839415,25.867973]]],"type":"Polygon"}
 }

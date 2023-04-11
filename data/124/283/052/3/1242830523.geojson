@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.29742,31.76133,75.29742,31.76133",
-    "geom:latitude":31.76133,
-    "geom:longitude":75.29742,
+    "geom:bbox":"75.296372,31.75909,75.298909,31.761435",
+    "geom:latitude":31.760376,
+    "geom:longitude":75.297543,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Tara",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.27742,31.74133,75.31742,31.78133",
+    "ks:ks_id":"KSF927E368E21349E0A55484A37D5392B2",
+    "ks:ks_name":"Tara",
+    "ks:ks_pop":0,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0301000400126600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2695467",
+    "lbl:latitude":31.760442,
+    "lbl:longitude":75.297519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.760442,
+    "mps:longitude":75.297519,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u0430"
@@ -59,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03ac\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tara"
     ],
     "name:epo_x_preferred":[
         "Tara"
@@ -153,7 +166,13 @@
     "name:urd_x_preferred":[
         "\u0679\u0627\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -162,10 +181,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10700767
+        "gn:id":10700767,
+        "ks:id":"KSF927E368E21349E0A55484A37D5392B2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ddb71edb83d99cdd345b5ea02a4a288d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30f06ae17eff2170d9a9d41a5c19f1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,20 +199,21 @@
         }
     ],
     "wof:id":1242830523,
-    "wof:lastmodified":1636505832,
+    "wof:lastmodified":1680671829,
     "wof:name":"Tara",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.29742,
-    31.76133,
-    75.29742,
-    31.76133
+    75.296372,
+    31.75909,
+    75.298909,
+    31.761435
 ],
-  "geometry": {"coordinates":[75.29742,31.76133],"type":"Point"}
+  "geometry": {"coordinates":[[[75.298385,31.761432],[75.298385,31.761342],[75.29870200000001,31.761341],[75.29870099999999,31.761251],[75.298807,31.761251],[75.29880300000001,31.760078],[75.29890899999999,31.760078],[75.298908,31.759717],[75.29880199999999,31.759717],[75.29880199999999,31.759627],[75.298379,31.759628],[75.298379,31.759538],[75.29827299999999,31.759538],[75.29827400000001,31.759628],[75.298063,31.759629],[75.298062,31.759539],[75.29764,31.75954],[75.29764,31.759449],[75.297428,31.75945],[75.297428,31.75936],[75.297217,31.75936],[75.297217,31.75927],[75.297111,31.75927],[75.297111,31.75918],[75.297005,31.75918],[75.297005,31.75909],[75.296582,31.759091],[75.296583,31.759181],[75.296477,31.759181],[75.296477,31.759272],[75.29637200000001,31.759272],[75.296378,31.761166],[75.29648299999999,31.761166],[75.29648400000001,31.761256],[75.296589,31.761256],[75.29658999999999,31.761346],[75.297223,31.761345],[75.297224,31.761435],[75.298385,31.761432]]],"type":"Polygon"}
 }

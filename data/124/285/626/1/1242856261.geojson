@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.10002,17.73344,76.10002,17.73344",
-    "geom:latitude":17.73344,
-    "geom:longitude":76.10002,
+    "geom:bbox":"76.095029,17.733549,76.096107,17.734627",
+    "geom:latitude":17.734088,
+    "geom:longitude":76.095568,
     "gn:admin1_code":"16",
     "gn:admin2_code":"526.0",
     "gn:asciiname":"Harnat Tanda",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.08002,17.71344,76.12002,17.75344",
+    "ks:ks_id":"KSFEAD28F09CBD49F887BB49D46FB91D25",
+    "ks:ks_name":"Harana Tanda",
+    "ks:ks_pop":294,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|398302",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_391848",
+    "lbl:latitude":17.734088,
+    "lbl:longitude":76.095568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":17.734088,
+    "mps:longitude":76.095568,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Harana Tanda"
+    ],
+    "name:eng_x_variant":[
+        "Harnat Tanda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10438993
+        "gn:id":10438993,
+        "ks:id":"KSFEAD28F09CBD49F887BB49D46FB91D25"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2c69c8a974cf5dc86812c59e999b783d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5c5832d9de9def95d6c6303472d56126",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1242856261,
-    "wof:lastmodified":1566707785,
-    "wof:name":"Harnat Tanda",
+    "wof:lastmodified":1680671905,
+    "wof:name":"Harana Tanda",
     "wof:parent_id":890507931,
     "wof:placetype":"locality",
+    "wof:population":294,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.10002,
-    17.73343999999999,
-    76.10002,
-    17.73343999999999
+    76.095029,
+    17.733549,
+    76.096107,
+    17.734627
 ],
-  "geometry": {"coordinates":[76.10002,17.73343999999999],"type":"Point"}
+  "geometry": {"coordinates":[[[76.096107,17.733549],[76.095029,17.733549],[76.095029,17.734627],[76.096107,17.734627],[76.096107,17.733549]]],"type":"Polygon"}
 }

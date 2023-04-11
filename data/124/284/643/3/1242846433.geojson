@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.29388,20.32195,77.29388,20.32195",
-    "geom:latitude":20.32195,
-    "geom:longitude":77.29388,
+    "geom:bbox":"77.292893,20.32114,77.29491,20.322498",
+    "geom:latitude":20.321821,
+    "geom:longitude":77.293799,
     "gn:admin1_code":"16",
     "gn:admin2_code":"502.0",
     "gn:asciiname":"Jamb",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.27388,20.30195,77.31388,20.34195",
+    "ks:ks_alt_nam":"J\u0101mb",
+    "ks:ks_id":"KS829EB1799EA04CEC965CB31BEEB4A18E",
+    "ks:ks_name":"Jamb",
+    "ks:ks_pop":892,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|448062",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870359",
+    "lbl:latitude":20.321861,
+    "lbl:longitude":77.293679,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.321861,
+    "mps:longitude":77.293679,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Brancal"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Laibung"
+    ],
+    "name:eng_x_preferred":[
+        "Jamb"
+    ],
+    "name:eng_x_variant":[
+        "J\u0101mb"
     ],
     "name:epo_x_preferred":[
         "Gambo"
@@ -72,7 +89,13 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0432\u0456\u0440\u043e\u043a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10513949
+        "gn:id":10513949,
+        "ks:id":"KS829EB1799EA04CEC965CB31BEEB4A18E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d3dcaae9d3b1851b0499a81d984d648",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"50daa4c5d40a3e7aa1e48bff1e9a82f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1242846433,
-    "wof:lastmodified":1566707602,
+    "wof:lastmodified":1680671802,
     "wof:name":"Jamb",
     "wof:parent_id":1108696291,
     "wof:placetype":"locality",
+    "wof:population":892,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.29388,
-    20.32195,
-    77.29388,
-    20.32195
+    77.292893,
+    20.32114,
+    77.29491,
+    20.322498
 ],
-  "geometry": {"coordinates":[77.29388,20.32195],"type":"Point"}
+  "geometry": {"coordinates":[[[77.29396199999999,20.322489],[77.293961,20.322399],[77.294344,20.322394],[77.294342,20.322304],[77.294534,20.322301],[77.294532,20.322211],[77.294628,20.32221],[77.29462700000001,20.322119],[77.294723,20.322118],[77.294721,20.322028],[77.29481699999999,20.322027],[77.294814,20.321846],[77.29491,20.321845],[77.294909,20.321754],[77.294813,20.321756],[77.29481,20.321575],[77.294715,20.321576],[77.294713,20.321486],[77.294617,20.321487],[77.294616,20.321397],[77.29452000000001,20.321398],[77.29451899999999,20.321308],[77.29432799999999,20.321311],[77.294326,20.32122],[77.293561,20.32123],[77.293559,20.32114],[77.293272,20.321144],[77.293273,20.321234],[77.292986,20.321238],[77.29298900000001,20.321418],[77.29289300000001,20.32142],[77.29290399999999,20.322142],[77.29300000000001,20.322141],[77.293002,20.322321],[77.293098,20.32232],[77.293099,20.32241],[77.293291,20.322408],[77.29329199999999,20.322498],[77.29396199999999,20.322489]]],"type":"Polygon"}
 }
