@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.36164,20.41797,79.36164,20.41797",
-    "geom:latitude":20.41797,
-    "geom:longitude":79.36164,
+    "geom:bbox":"79.360193,20.416846,79.36345,20.419116",
+    "geom:latitude":20.417978,
+    "geom:longitude":79.361741,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Satara",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.34164,20.39797,79.38164,20.43797",
+    "ks:ks_alt_nam":"S\u0101t\u0101ra",
+    "ks:ks_id":"KS6EFB5B498CA34922A0B9CEFF6376EF2E",
+    "ks:ks_name":"Satara",
+    "ks:ks_pop":597,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|962358",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870978",
+    "lbl:latitude":20.417985,
+    "lbl:longitude":79.361578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.417985,
+    "mps:longitude":79.361578,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062a\u0627\u0631\u0627"
@@ -47,6 +58,12 @@
     ],
     "name:deu_x_preferred":[
         "Satara"
+    ],
+    "name:eng_x_preferred":[
+        "Satara"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101t\u0101ra"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aa4\u0abe\u0ab0\u0abe"
@@ -84,7 +101,13 @@
     "name:urd_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +116,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519646
+        "gn:id":10519646,
+        "ks:id":"KS6EFB5B498CA34922A0B9CEFF6376EF2E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"788f9a338d1eec129270b873c96b404f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5270f31e06dc6c4100a576bdd1719ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +134,22 @@
         }
     ],
     "wof:id":1276194841,
-    "wof:lastmodified":1577750407,
+    "wof:lastmodified":1680659391,
     "wof:name":"Satara",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":597,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.36164000000002,
-    20.41797,
-    79.36164000000002,
-    20.41797
+    79.360193,
+    20.416846,
+    79.36345,
+    20.419116
 ],
-  "geometry": {"coordinates":[79.36164000000002,20.41797],"type":"Point"}
+  "geometry": {"coordinates":[[[79.361712,20.419116],[79.36171299999999,20.419025],[79.36219199999999,20.41903],[79.362193,20.418939],[79.362672,20.418944],[79.362673,20.418854],[79.36296,20.418856],[79.362961,20.418766],[79.363153,20.418768],[79.36315399999999,20.418677],[79.363249,20.418678],[79.36324999999999,20.418588],[79.36334600000001,20.418589],[79.363347,20.418499],[79.363443,20.418499],[79.36345,20.417867],[79.363354,20.417866],[79.36335699999999,20.417595],[79.36326099999999,20.417594],[79.363263,20.417414],[79.363167,20.417413],[79.363168,20.417323],[79.362976,20.417321],[79.362977,20.41723],[79.362786,20.417229],[79.362787,20.417138],[79.362116,20.417132],[79.362117,20.417042],[79.361925,20.41704],[79.361926,20.41695],[79.361639,20.416947],[79.36163999999999,20.416857],[79.36049,20.416846],[79.360489,20.416936],[79.360393,20.416935],[79.360392,20.417025],[79.36029600000001,20.417025],[79.360294,20.417205],[79.36019899999999,20.417204],[79.360193,20.417746],[79.36028899999999,20.417747],[79.36028399999999,20.418199],[79.36038000000001,20.4182],[79.360378,20.41838],[79.360474,20.418381],[79.360471,20.418652],[79.360567,20.418653],[79.36056499999999,20.418834],[79.36066,20.418835],[79.360659,20.419015],[79.360754,20.419016],[79.360753,20.419107],[79.361712,20.419116]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.75223,24.56929,72.75223,24.56929",
-    "geom:latitude":24.56929,
-    "geom:longitude":72.75223,
+    "geom:bbox":"72.751635,24.568001,72.753233,24.570531",
+    "geom:latitude":24.569316,
+    "geom:longitude":72.75237,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"117.0",
     "gn:asciiname":"Arna",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"72.73223,24.54929,72.77223,24.58929",
+    "ks:ks_id":"KS0EF56D15AFFE453B80500D713DA4E3F8",
+    "ks:ks_name":"Arna",
+    "ks:ks_pop":197,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|46579",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_839462",
+    "lbl:latitude":24.569311,
+    "lbl:longitude":72.752386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.569311,
+    "mps:longitude":72.752386,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Arna"
@@ -37,6 +47,9 @@
         "Arna"
     ],
     "name:deu_x_preferred":[
+        "Arna"
+    ],
+    "name:eng_x_preferred":[
         "Arna"
     ],
     "name:hye_x_preferred":[
@@ -57,7 +70,13 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10249419
+        "gn:id":10249419,
+        "ks:id":"KS0EF56D15AFFE453B80500D713DA4E3F8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1fe8b1571e3ea0c85d22f2c707cb57e3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3463d1034c5432d6083222709e9975b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1276179893,
-    "wof:lastmodified":1566692100,
+    "wof:lastmodified":1680659380,
     "wof:name":"Arna",
     "wof:parent_id":890510817,
     "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.75223000000003,
-    24.56929,
-    72.75223000000003,
-    24.56929
+    72.751635,
+    24.568001,
+    72.753233,
+    24.570531
 ],
-  "geometry": {"coordinates":[72.75223000000003,24.56929],"type":"Point"}
+  "geometry": {"coordinates":[[[72.75251799999999,24.570531],[72.75252,24.570441],[72.752717,24.570444],[72.75272099999999,24.570263],[72.752819,24.570265],[72.752821,24.570174],[72.75292,24.570176],[72.752923,24.569995],[72.753021,24.569997],[72.75302499999999,24.569816],[72.753123,24.569818],[72.75313,24.569457],[72.75322799999999,24.569458],[72.75323299999999,24.569187],[72.753135,24.569186],[72.753139,24.568915],[72.753041,24.568914],[72.753044,24.568733],[72.752945,24.568732],[72.75295,24.568461],[72.75285100000001,24.56846],[72.75285599999999,24.568189],[72.752758,24.568187],[72.752759,24.568097],[72.752562,24.568094],[72.75256299999999,24.568004],[72.75236599999999,24.568001],[72.752365,24.568091],[72.75226600000001,24.56809],[72.752264,24.56818],[72.752067,24.568177],[72.752065,24.568267],[72.75196699999999,24.568266],[72.751965,24.568356],[72.75186600000001,24.568355],[72.751863,24.568535],[72.75176399999999,24.568534],[72.751761,24.568714],[72.751662,24.568713],[72.75163499999999,24.570247],[72.751734,24.570248],[72.751732,24.570339],[72.75193,24.570342],[72.75192800000001,24.570432],[72.752224,24.570436],[72.752222,24.570526],[72.75251799999999,24.570531]]],"type":"Polygon"}
 }
