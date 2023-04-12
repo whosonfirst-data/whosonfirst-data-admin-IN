@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.15463,25.31985,84.15463,25.31985",
-    "geom:latitude":25.31985,
-    "geom:longitude":84.15463,
+    "geom:bbox":"84.153995,25.319013,84.155612,25.320091",
+    "geom:latitude":25.319552,
+    "geom:longitude":84.154803,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"234.0",
     "gn:asciiname":"Bhainsara",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.13463,25.29985,84.17463,25.33985",
+    "ks:ks_id":"KS2022FA2E24F74AB39B5DD1790DC90337",
+    "ks:ks_name":"Bhainsra",
+    "ks:ks_pop":688,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1032000203518600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1343069",
+    "lbl:latitude":25.319552,
+    "lbl:longitude":84.154804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.319552,
+    "mps:longitude":84.154804,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bhainsra"
+    ],
+    "name:eng_x_variant":[
+        "Bhainsara"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835626
+        "gn:id":10835626,
+        "ks:id":"KS2022FA2E24F74AB39B5DD1790DC90337"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1e31282353033d301d5f9ec1ff4fa384",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7bae8bf6a686d83d5d36624b4655fa87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1292945575,
-    "wof:lastmodified":1566689745,
-    "wof:name":"Bhainsara",
+    "wof:lastmodified":1680657831,
+    "wof:name":"Bhainsra",
     "wof:parent_id":1108695945,
     "wof:placetype":"locality",
+    "wof:population":688,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.15463000000003,
-    25.31985,
-    84.15463000000003,
-    25.31985
+    84.153995,
+    25.319013,
+    84.155612,
+    25.320091
 ],
-  "geometry": {"coordinates":[84.15463000000003,25.31985],"type":"Point"}
+  "geometry": {"coordinates":[[[84.155612,25.319013],[84.15399499999999,25.319013],[84.15399499999999,25.320091],[84.155612,25.320091],[84.155612,25.319013]]],"type":"Polygon"}
 }

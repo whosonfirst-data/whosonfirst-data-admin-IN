@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.86391,28.64612,77.86391,28.64612",
-    "geom:latitude":28.64612,
-    "geom:longitude":77.86391,
+    "geom:bbox":"77.8614,28.645278,77.863857,28.646852",
+    "geom:latitude":28.64615,
+    "geom:longitude":77.862733,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"142.0",
     "gn:asciiname":"Pali",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.84391,28.62612,77.88391,28.66612",
+    "ks:ks_alt_nam":"P\u0101li",
+    "ks:ks_id":"KS7BB1558DA6604F8CA8DFAF23954E4FF4",
+    "ks:ks_name":"Pali",
+    "ks:ks_pop":199,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12803849",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1819155",
+    "lbl:latitude":28.646103,
+    "lbl:longitude":77.86288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.646103,
+    "mps:longitude":77.86288,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pali"
@@ -80,6 +91,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pali"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101li"
     ],
     "name:epo_x_preferred":[
         "Palia lingvo"
@@ -300,7 +317,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5229\u8bed"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -309,10 +332,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10372674
+        "gn:id":10372674,
+        "ks:id":"KS7BB1558DA6604F8CA8DFAF23954E4FF4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"986a8ec38b931717026cec6b38312d55",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"246b9339b458d0cead1e998285cb0fab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,20 +350,22 @@
         }
     ],
     "wof:id":1292944607,
-    "wof:lastmodified":1636505379,
+    "wof:lastmodified":1680657857,
     "wof:name":"Pali",
     "wof:parent_id":1108695799,
     "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.86391,
-    28.64612,
-    77.86391,
-    28.64612
+    77.8614,
+    28.645278,
+    77.863857,
+    28.646852
 ],
-  "geometry": {"coordinates":[77.86391,28.64612],"type":"Point"}
+  "geometry": {"coordinates":[[[77.863254,28.646817],[77.863252,28.646727],[77.863456,28.646723],[77.863454,28.646632],[77.863658,28.646628],[77.86365499999999,28.646538],[77.863758,28.646536],[77.863755,28.646446],[77.863857,28.646444],[77.86383499999999,28.645632],[77.863733,28.645634],[77.86372799999999,28.645454],[77.863626,28.645456],[77.863624,28.645366],[77.86352100000001,28.645368],[77.863519,28.645278],[77.86300799999999,28.645289],[77.86301,28.645379],[77.862602,28.645388],[77.862604,28.645478],[77.86239999999999,28.645482],[77.862402,28.645572],[77.8623,28.645574],[77.862302,28.645665],[77.862098,28.645669],[77.8621,28.645759],[77.861998,28.645761],[77.86200100000001,28.645851],[77.86189899999999,28.645854],[77.861901,28.645944],[77.86169700000001,28.645948],[77.861699,28.646038],[77.861597,28.64604],[77.861599,28.64613],[77.861497,28.646133],[77.861502,28.646313],[77.8614,28.646315],[77.86141000000001,28.646676],[77.861512,28.646674],[77.861514,28.646764],[77.861616,28.646762],[77.861619,28.646852],[77.863254,28.646817]]],"type":"Polygon"}
 }

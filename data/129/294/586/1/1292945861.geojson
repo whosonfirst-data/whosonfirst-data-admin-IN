@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.9953,25.41289,84.9953,25.41289",
-    "geom:latitude":25.41289,
-    "geom:longitude":84.9953,
+    "geom:bbox":"84.99466,25.411709,84.996952,25.414068",
+    "geom:latitude":25.412908,
+    "geom:longitude":84.9958,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Jagdispur",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.9753,25.39289,85.0153,25.43289",
+    "ks:ks_id":"KS37FAE671D88E486E85DF7CD3593FBB70",
+    "ks:ks_name":"Jagdishpur",
+    "ks:ks_pop":507,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1028001103000000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2057618",
+    "lbl:latitude":25.412893,
+    "lbl:longitude":84.995822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.412893,
+    "mps:longitude":84.995822,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jagd\u012bspur"
+    ],
+    "name:eng_x_preferred":[
+        "Jagdishpur"
+    ],
+    "name:eng_x_variant":[
+        "Jagdispur"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30b0\u30c7\u30a3\u30fc\u30b7\u30e5\u30d7\u30eb"
@@ -51,19 +67,29 @@
     "name:urd_x_preferred":[
         "\u062c\u06af\u062f\u06cc\u0633 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
-        890504089,
-        85672225
+        85672225,
+        890504089
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833139
+        "gn:id":10833139,
+        "ks:id":"KS37FAE671D88E486E85DF7CD3593FBB70"
     },
     "wof:country":"IN",
-    "wof:geomhash":"736003d8648002dbe12f298590e09ab8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9987261105ef09daa843e5e4934bb4cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1292945861,
-    "wof:lastmodified":1587163119,
-    "wof:name":"Jagdispur",
+    "wof:lastmodified":1680657843,
+    "wof:name":"Jagdishpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.9953,
-    25.41289,
-    84.9953,
-    25.41289
+    84.99466,
+    25.411709,
+    84.996952,
+    25.414068
 ],
-  "geometry": {"coordinates":[84.9953,25.41289],"type":"Point"}
+  "geometry": {"coordinates":[[[84.995931,25.414068],[84.99593299999999,25.413978],[84.99623099999999,25.413982],[84.99623200000001,25.413892],[84.99682799999999,25.4139],[84.99683,25.41381],[84.99692899999999,25.413811],[84.99695199999999,25.412457],[84.996852,25.412456],[84.996854,25.412366],[84.996754,25.412364],[84.996756,25.412274],[84.996657,25.412273],[84.996658,25.412182],[84.996559,25.412181],[84.99656,25.412091],[84.996461,25.412089],[84.99646199999999,25.411999],[84.996264,25.411996],[84.99626499999999,25.411906],[84.996166,25.411905],[84.996167,25.411815],[84.995869,25.41181],[84.99587,25.41172],[84.995076,25.411709],[84.995074,25.4118],[84.994975,25.411798],[84.994973,25.411889],[84.994874,25.411887],[84.994872,25.411977],[84.994773,25.411976],[84.99476799999999,25.412247],[84.994669,25.412245],[84.99466,25.412787],[84.994759,25.412788],[84.994754,25.413149],[84.99485300000001,25.413151],[84.99484699999999,25.413512],[84.994946,25.413513],[84.99494199999999,25.413784],[84.995041,25.413785],[84.995037,25.414056],[84.995931,25.414068]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.69968,28.80964,79.69968,28.80964",
-    "geom:latitude":28.80964,
-    "geom:longitude":79.69968,
+    "geom:bbox":"79.697285,28.807745,79.699849,28.810196",
+    "geom:latitude":28.808955,
+    "geom:longitude":79.69862,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"151.0",
     "gn:asciiname":"Milak",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.67968,28.78964,79.71968,28.82964",
+    "ks:ks_id":"KSB877BE363458460482B7BD8C5FD1730F",
+    "ks:ks_name":"Milak",
+    "ks:ks_pop":685,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|701684",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2031794",
+    "lbl:latitude":28.80897,
+    "lbl:longitude":79.698645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.80897,
+    "mps:longitude":79.698645,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b2\u09be\u0995"
     ],
     "name:ceb_x_preferred":[
+        "Milak"
+    ],
+    "name:eng_x_preferred":[
         "Milak"
     ],
     "name:ita_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u7c73\u62c9\u514b"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10827196
+        "gn:id":10827196,
+        "ks:id":"KSB877BE363458460482B7BD8C5FD1730F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9e213d066016f52347ff8e981f5549bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a0fe015679e77db4f8bc56572848b1df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1292944193,
-    "wof:lastmodified":1566689778,
+    "wof:lastmodified":1680657851,
     "wof:name":"Milak",
     "wof:parent_id":1108695809,
     "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.69968,
-    28.80964,
-    79.69968,
-    28.80964
+    79.697285,
+    28.807745,
+    79.699849,
+    28.810196
 ],
-  "geometry": {"coordinates":[79.69968,28.80964],"type":"Point"}
+  "geometry": {"coordinates":[[[79.69941900000001,28.810196],[79.69942,28.810106],[79.699727,28.810109],[79.69972799999999,28.810019],[79.699831,28.81002],[79.699834,28.809749],[79.699732,28.809748],[79.69974499999999,28.808665],[79.69984700000001,28.808666],[79.699849,28.808576],[79.699746,28.808575],[79.699752,28.808124],[79.69964899999999,28.808123],[79.69965000000001,28.808032],[79.699445,28.80803],[79.69944700000001,28.80794],[79.699242,28.807938],[79.699243,28.807848],[79.698731,28.807843],[79.69873200000001,28.807753],[79.697912,28.807745],[79.697911,28.807835],[79.697706,28.807833],[79.697705,28.807923],[79.697602,28.807922],[79.69760100000001,28.808013],[79.69749899999999,28.808012],[79.697498,28.808102],[79.697395,28.808101],[79.69739199999999,28.808372],[79.697289,28.808371],[79.69728499999999,28.808732],[79.69738700000001,28.808733],[79.697383,28.809094],[79.697485,28.809095],[79.69748300000001,28.809275],[79.697586,28.809276],[79.697582,28.809547],[79.69768500000001,28.809548],[79.697682,28.809728],[79.697785,28.809729],[79.697783,28.80991],[79.697885,28.809911],[79.697884,28.810001],[79.697986,28.810002],[79.697985,28.810092],[79.698498,28.810097],[79.69849600000001,28.810187],[79.69941900000001,28.810196]]],"type":"Polygon"}
 }
