@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alland"
@@ -98,9 +99,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672171,
         102191569,
         85632469,
-        85672171,
         1108696303
     ],
     "wof:breaches":[],
@@ -108,7 +109,7 @@
         "gn:id":1278989
     },
     "wof:country":"IN",
-    "wof:geomhash":"1b10de67b9f63b882905004707d9939f",
+    "wof:geomhash":"8c2c3ba6c12027cc62430e2dff34c847",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +120,22 @@
         }
     ],
     "wof:id":1259961629,
-    "wof:lastmodified":1566708934,
+    "wof:lastmodified":1680634035,
     "wof:name":"Alland",
     "wof:parent_id":1108696303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847226313
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.55188000000003,
+    75.55188,
     20.19348,
-    75.55188000000003,
+    75.55188,
     20.19348
 ],
-  "geometry": {"coordinates":[75.55188000000003,20.19348],"type":"Point"}
+  "geometry": {"coordinates":[75.55188,20.19348],"type":"Point"}
 }
