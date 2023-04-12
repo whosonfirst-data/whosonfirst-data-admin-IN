@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.77518,25.68128,87.77518,25.68128",
-    "geom:latitude":25.68128,
-    "geom:longitude":87.77518,
+    "geom:bbox":"87.774925,25.680944,87.776003,25.683369",
+    "geom:latitude":25.682069,
+    "geom:longitude":87.775399,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Malikpur",
@@ -24,19 +24,38 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.75518,25.66128,87.79518,25.70128",
+    "ks:ks_id":"KS65D350A08E9C489CB3FD734E1F5A74E2",
+    "ks:ks_name":"Malikpur",
+    "ks:ks_pop":1191,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13513321",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1545615",
+    "lbl:latitude":25.681553,
+    "lbl:longitude":87.775463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.681553,
+    "mps:longitude":87.775463,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Malikpur"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0644\u06a9\u200c\u067e\u0648\u0631"
     ],
     "name:msa_x_preferred":[
         "Malikpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014627
+        "gn:id":11014627,
+        "ks:id":"KS65D350A08E9C489CB3FD734E1F5A74E2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b510fb80195ecaea7614011ab71e27d2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e187666c252c5b881d1fea1171a360e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +82,22 @@
         }
     ],
     "wof:id":1260234877,
-    "wof:lastmodified":1566699088,
+    "wof:lastmodified":1680667209,
     "wof:name":"Malikpur",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":1191,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.77518,
-    25.68128,
-    87.77518,
-    25.68128
+    87.774925,
+    25.680944,
+    87.776003,
+    25.683369
 ],
-  "geometry": {"coordinates":[87.77518000000001,25.68128],"type":"Point"}
+  "geometry": {"coordinates":[[[87.775733,25.683369],[87.775733,25.682022],[87.776003,25.682022],[87.776003,25.680944],[87.774925,25.680944],[87.774925,25.683369],[87.775733,25.683369]]],"type":"Polygon"}
 }

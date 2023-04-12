@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.12232,31.02014,76.12232,31.02014",
-    "geom:latitude":31.02014,
-    "geom:longitude":76.12232,
+    "geom:bbox":"76.126783,31.004098,76.129307,31.006446",
+    "geom:latitude":31.005501,
+    "geom:longitude":76.127966,
     "gn:admin1_code":"23",
     "gn:admin2_code":"39.0",
     "gn:asciiname":"Hussainpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.10232,31.00014,76.14232,31.04014",
+    "ks:ks_id":"KSCF44245A4CC54FF083C9BAD95C63FE45",
+    "ks:ks_name":"Hussainpur",
+    "ks:ks_pop":1145,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0306000100613800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2659725",
+    "lbl:latitude":31.005581,
+    "lbl:longitude":76.127966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.005581,
+    "mps:longitude":76.127966,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09b8\u09c7\u0987\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b9\u09c1\u09b8\u09c7\u0987\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Hussainpur"
     ],
     "name:ita_x_preferred":[
         "Hussainpur"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u80e1\u8d5b\u6069\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10729312
+        "gn:id":10729312,
+        "ks:id":"KSCF44245A4CC54FF083C9BAD95C63FE45"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d2c77d471ba8a1f65e984931d047e14e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"59a06be2f28741c2a12e5055678bd7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1260237455,
-    "wof:lastmodified":1566699111,
+    "wof:lastmodified":1680667225,
     "wof:name":"Hussainpur",
     "wof:parent_id":890502845,
     "wof:placetype":"locality",
+    "wof:population":1145,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.12232,
-    31.02014,
-    76.12232,
-    31.02014
+    76.126783,
+    31.004098,
+    76.129307,
+    31.006446
 ],
-  "geometry": {"coordinates":[76.12232,31.02014],"type":"Point"}
+  "geometry": {"coordinates":[[[76.128891,31.00643],[76.12889,31.00634],[76.129204,31.006337],[76.12920200000001,31.006157],[76.129307,31.006156],[76.129306,31.006066],[76.12920099999999,31.006067],[76.129195,31.005525],[76.129299,31.005524],[76.129293,31.004983],[76.129188,31.004984],[76.129187,31.004894],[76.128978,31.004896],[76.12897700000001,31.004805],[76.128348,31.004811],[76.12834700000001,31.004721],[76.127824,31.004725],[76.12782300000001,31.004635],[76.127718,31.004636],[76.127717,31.004546],[76.127612,31.004547],[76.12761,31.004366],[76.127505,31.004367],[76.127504,31.004277],[76.127399,31.004278],[76.127398,31.004188],[76.12729400000001,31.004189],[76.12729299999999,31.004098],[76.127083,31.0041],[76.127084,31.00419],[76.12697900000001,31.004191],[76.126985,31.004642],[76.127089,31.004641],[76.12709,31.004732],[76.126986,31.004733],[76.12698899999999,31.005003],[76.126884,31.005004],[76.126887,31.005275],[76.126783,31.005276],[76.12679300000001,31.006178],[76.126898,31.006177],[76.12689899999999,31.006267],[76.127004,31.006266],[76.127005,31.006356],[76.12711,31.006356],[76.127111,31.006446],[76.128891,31.00643]]],"type":"Polygon"}
 }

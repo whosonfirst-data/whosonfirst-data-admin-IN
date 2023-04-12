@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.95599,31.98806,74.95599,31.98806",
-    "geom:latitude":31.98806,
-    "geom:longitude":74.95599,
+    "geom:bbox":"74.95519,31.986332,74.958259,31.988587",
+    "geom:latitude":31.987443,
+    "geom:longitude":74.956701,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Ram Diwali",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.93599,31.96806,74.97599,32.00806",
+    "ks:ks_id":"KS9C28A98DD6EA4237BA70C9CAD978B626",
+    "ks:ks_name":"Ram Diwali",
+    "ks:ks_pop":500,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|897466",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2527489",
+    "lbl:latitude":31.987457,
+    "lbl:longitude":74.956672,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.987457,
+    "mps:longitude":74.956672,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ram Diwali"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0645 \u062f\u06cc\u0648\u0627\u0644\u06cc"
     ],
@@ -39,7 +52,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645 \u062f\u06cc\u0648\u0627\u0644\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695407
+        "gn:id":10695407,
+        "ks:id":"KS9C28A98DD6EA4237BA70C9CAD978B626"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1dfbcdcea47c488cb074600e5a55fac3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7090e644fdfed1560b88244153d12ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1260239647,
-    "wof:lastmodified":1566699040,
+    "wof:lastmodified":1680667175,
     "wof:name":"Ram Diwali",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.95599,
-    31.98806,
-    74.95599,
-    31.98806
+    74.95519,
+    31.986332,
+    74.958259,
+    31.988587
 ],
-  "geometry": {"coordinates":[74.95599,31.98806],"type":"Point"}
+  "geometry": {"coordinates":[[[74.955613,31.988587],[74.955613,31.988497],[74.956036,31.988497],[74.956036,31.988407],[74.95646000000001,31.988407],[74.95646000000001,31.988317],[74.957095,31.988317],[74.957095,31.988227],[74.957836,31.988227],[74.957836,31.988137],[74.95804800000001,31.988137],[74.95804800000001,31.988046],[74.958259,31.988047],[74.958259,31.987595],[74.95815399999999,31.987595],[74.95815399999999,31.986874],[74.95804800000001,31.986874],[74.95804800000001,31.986693],[74.957942,31.986693],[74.957942,31.986603],[74.957837,31.986603],[74.957837,31.986513],[74.957731,31.986513],[74.957731,31.986422],[74.95762499999999,31.986422],[74.95762499999999,31.986332],[74.95699,31.986332],[74.95699,31.986422],[74.956566,31.986422],[74.956566,31.986512],[74.956249,31.986512],[74.956249,31.986602],[74.95593100000001,31.986602],[74.95593100000001,31.986692],[74.955614,31.986692],[74.955613,31.986783],[74.95550799999999,31.986783],[74.95550799999999,31.986873],[74.95540200000001,31.986873],[74.95540200000001,31.986963],[74.955296,31.986963],[74.955296,31.987234],[74.95519,31.987234],[74.95519,31.987775],[74.95529500000001,31.987775],[74.95529500000001,31.988497],[74.95540099999999,31.988497],[74.95540099999999,31.988587],[74.955613,31.988587]]],"type":"Polygon"}
 }
