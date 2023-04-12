@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.3972,28.49851,75.3972,28.49851",
-    "geom:latitude":28.49851,
-    "geom:longitude":75.3972,
+    "geom:bbox":"75.394485,28.497432,75.397553,28.499692",
+    "geom:latitude":28.49866,
+    "geom:longitude":75.396019,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"102.0",
     "gn:asciiname":"Jaitpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.3772,28.47851,75.4172,28.51851",
+    "ks:ks_id":"KS8CD46C0CD8AE43F8874E59FBC6D87790",
+    "ks:ks_name":"Jetpura",
+    "ks:ks_pop":990,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|460972",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1781077",
+    "lbl:latitude":28.498561,
+    "lbl:longitude":75.396048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.498561,
+    "mps:longitude":75.396048,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0628\u0648\u0631\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099c\u09be\u0987\u09a4\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Jetpura"
+    ],
+    "name:eng_x_variant":[
+        "Jaitpura"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abe\u0ab2\u0abf\u0a9f\u0aaa\u0ac1\u0ab0\u0abe"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u062c\u06cc\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10180351
+        "gn:id":10180351,
+        "ks:id":"KS8CD46C0CD8AE43F8874E59FBC6D87790"
     },
     "wof:country":"IN",
-    "wof:geomhash":"071b33ab210b875b751be6b5998024da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d6785a806f5f58b224d13389824eb14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1260250183,
-    "wof:lastmodified":1577751314,
-    "wof:name":"Jaitpura",
+    "wof:lastmodified":1680667422,
+    "wof:name":"Jetpura",
     "wof:parent_id":890511339,
     "wof:placetype":"locality",
+    "wof:population":990,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.3972,
-    28.49851,
-    75.3972,
-    28.49851
+    75.394485,
+    28.497432,
+    75.397553,
+    28.499692
 ],
-  "geometry": {"coordinates":[75.3972,28.49851],"type":"Point"}
+  "geometry": {"coordinates":[[[75.396328,28.499689],[75.396327,28.499599],[75.39653199999999,28.499598],[75.39653199999999,28.499688],[75.39714499999999,28.499687],[75.39714499999999,28.499596],[75.39734900000001,28.499596],[75.39734900000001,28.499505],[75.397451,28.499505],[75.39745000000001,28.499415],[75.397553,28.499415],[75.397549,28.498512],[75.397447,28.498512],[75.397446,28.498241],[75.397344,28.498242],[75.397344,28.498151],[75.39724099999999,28.498152],[75.39724099999999,28.498062],[75.397139,28.498062],[75.397139,28.497972],[75.397036,28.497972],[75.397036,28.497882],[75.396934,28.497882],[75.396933,28.497792],[75.39683100000001,28.497792],[75.39683100000001,28.497702],[75.39672899999999,28.497702],[75.396728,28.497612],[75.396626,28.497612],[75.396626,28.497522],[75.39631900000001,28.497523],[75.39631900000001,28.497432],[75.395808,28.497434],[75.395809,28.497524],[75.395093,28.497526],[75.395094,28.497616],[75.39488900000001,28.497617],[75.39489,28.497888],[75.39478800000001,28.497888],[75.394789,28.498069],[75.394687,28.498069],[75.394689,28.498701],[75.394587,28.498701],[75.394587,28.498882],[75.394485,28.498882],[75.394488,28.499514],[75.394896,28.499513],[75.394897,28.499603],[75.39530499999999,28.499602],[75.39530600000001,28.499692],[75.396328,28.499689]]],"type":"Polygon"}
 }

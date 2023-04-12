@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.17033,21.21221,77.17033,21.21221",
-    "geom:latitude":21.21221,
-    "geom:longitude":77.17033,
+    "geom:bbox":"77.169344,21.211003,77.171467,21.213271",
+    "geom:latitude":21.212215,
+    "geom:longitude":77.170292,
     "gn:admin1_code":"16",
     "gn:admin2_code":"501.0",
     "gn:asciiname":"Mardi",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.15033,21.19221,77.19033,21.23221",
+    "ks:ks_alt_nam":"M\u0101rdi",
+    "ks:ks_id":"KS8703080E1D514CE580D51274C16F00D8",
+    "ks:ks_name":"Mardi",
+    "ks:ks_pop":0,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12957645",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_857783",
+    "lbl:latitude":21.212254,
+    "lbl:longitude":77.170313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.212254,
+    "mps:longitude":77.170313,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0434\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Mardi"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101rdi"
     ],
     "name:fra_x_preferred":[
         "Mardi"
@@ -39,7 +56,13 @@
     "name:por_x_preferred":[
         "Mardi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512179
+        "gn:id":10512179,
+        "ks:id":"KS8703080E1D514CE580D51274C16F00D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"64d1b752f6558b6b8b9e4af7493e5069",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8cdf2ecd06832c0f9ba207c57e12dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,21 @@
         }
     ],
     "wof:id":1260264851,
-    "wof:lastmodified":1566699687,
+    "wof:lastmodified":1680667561,
     "wof:name":"Mardi",
     "wof:parent_id":890502567,
     "wof:placetype":"locality",
+    "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.17033,
-    21.21221,
-    77.17033,
-    21.21221
+    77.169344,
+    21.211003,
+    77.171467,
+    21.213271
 ],
-  "geometry": {"coordinates":[77.17033000000001,21.21221],"type":"Point"}
+  "geometry": {"coordinates":[[[77.170609,21.213258],[77.170607,21.213167],[77.170896,21.213164],[77.170895,21.213073],[77.171088,21.213071],[77.171086,21.21298],[77.171182,21.212979],[77.171181,21.212889],[77.171374,21.212886],[77.17137099999999,21.212706],[77.17146700000001,21.212705],[77.17146200000001,21.212343],[77.17136600000001,21.212345],[77.171363,21.212164],[77.171267,21.212165],[77.17126399999999,21.211985],[77.17116799999999,21.211986],[77.171165,21.211805],[77.171069,21.211807],[77.171065,21.211536],[77.170969,21.211537],[77.170967,21.211447],[77.17087100000001,21.211448],[77.17086999999999,21.211358],[77.17077399999999,21.211359],[77.170772,21.211269],[77.170676,21.21127],[77.170675,21.21118],[77.17057800000001,21.211181],[77.17057699999999,21.211091],[77.170384,21.211093],[77.170383,21.211003],[77.169709,21.211011],[77.16970999999999,21.211102],[77.169614,21.211103],[77.16961499999999,21.211193],[77.16951899999999,21.211195],[77.169522,21.211375],[77.169426,21.211376],[77.16943999999999,21.212369],[77.169344,21.212371],[77.169354,21.213093],[77.169451,21.213092],[77.16945200000001,21.213182],[77.16954800000001,21.213181],[77.16955,21.213271],[77.170609,21.213258]]],"type":"Polygon"}
 }
