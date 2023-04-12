@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.85857,27.60758,77.85857,27.60758",
-    "geom:latitude":27.60758,
-    "geom:longitude":77.85857,
+    "geom:bbox":"77.857714,27.606906,77.859446,27.608346",
+    "geom:latitude":27.60756,
+    "geom:longitude":77.85855,
     "gn:admin1_code":"36",
     "gn:admin2_code":"143.0",
     "gn:asciiname":"Loria",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.83857,27.58758,77.87857,27.62758",
+    "ks:ks_id":"KSD1481737782E4F49A53010569F47D15F",
+    "ks:ks_name":"Loriya",
+    "ks:ks_pop":192,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|632015",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1801759",
+    "lbl:latitude":27.607569,
+    "lbl:longitude":77.85862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.607569,
+    "mps:longitude":77.85862,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loria"
     ],
     "name:deu_x_preferred":[
+        "Loria"
+    ],
+    "name:eng_x_preferred":[
+        "Loriya"
+    ],
+    "name:eng_x_variant":[
         "Loria"
     ],
     "name:eus_x_preferred":[
@@ -48,7 +64,13 @@
     "name:swe_x_preferred":[
         "Loria"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10455044
+        "gn:id":10455044,
+        "ks:id":"KSD1481737782E4F49A53010569F47D15F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"999076bcd7054f0c55d6956ad4bf2860",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ab1a092ad22c8d3728be19045bfa42ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1260019763,
-    "wof:lastmodified":1566699530,
-    "wof:name":"Loria",
+    "wof:lastmodified":1680667483,
+    "wof:name":"Loriya",
     "wof:parent_id":890510761,
     "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.85857,
-    27.60758,
-    77.85857,
-    27.60758
+    77.857714,
+    27.606906,
+    77.859446,
+    27.608346
 ],
-  "geometry": {"coordinates":[77.85857,27.60758],"type":"Point"}
+  "geometry": {"coordinates":[[[77.858754,27.608342],[77.858751,27.608252],[77.858853,27.60825],[77.85885,27.60816],[77.858952,27.608158],[77.858949,27.608068],[77.85905,27.608065],[77.859048,27.607975],[77.859149,27.607973],[77.85914699999999,27.607883],[77.85934899999999,27.607879],[77.859345,27.607699],[77.85944600000001,27.607696],[77.859441,27.607516],[77.85934,27.607518],[77.85933799999999,27.607428],[77.859236,27.60743],[77.85923200000001,27.60725],[77.859131,27.607252],[77.859126,27.607072],[77.859025,27.607074],[77.859022,27.606984],[77.85841499999999,27.606996],[77.858413,27.606906],[77.858008,27.606914],[77.85800999999999,27.607004],[77.85780800000001,27.607009],[77.857815,27.607279],[77.857714,27.607281],[77.85771800000001,27.607461],[77.85781900000001,27.607459],[77.857826,27.60773],[77.857928,27.607728],[77.85793200000001,27.607908],[77.858034,27.607906],[77.858036,27.607996],[77.858137,27.607994],[77.85814000000001,27.608084],[77.85824100000001,27.608082],[77.858243,27.608172],[77.858344,27.60817],[77.85834699999999,27.60826],[77.858549,27.608256],[77.85855100000001,27.608346],[77.858754,27.608342]]],"type":"Polygon"}
 }

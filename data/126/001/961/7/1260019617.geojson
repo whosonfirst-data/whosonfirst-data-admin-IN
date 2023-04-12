@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.04685,25.53984,81.04685,25.53984",
-    "geom:latitude":25.53984,
-    "geom:longitude":81.04685,
+    "geom:bbox":"81.04715,25.539976,81.048345,25.541872",
+    "geom:latitude":25.541072,
+    "geom:longitude":81.047619,
     "gn:admin1_code":"36",
     "gn:admin2_code":"172.0",
     "gn:asciiname":"Khalwa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.02685,25.51984,81.06685,25.55984",
+    "ks:ks_id":"KS9F8F35F150C24A29BF7068DC3B0A11C1",
+    "ks:ks_name":"Khalwa",
+    "ks:ks_pop":150,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|542709",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1848136",
+    "lbl:latitude":25.541086,
+    "lbl:longitude":81.04761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.541086,
+    "mps:longitude":81.04761,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0644\u0648\u0629"
@@ -36,13 +46,22 @@
     "name:deu_x_preferred":[
         "Chalwa"
     ],
+    "name:eng_x_preferred":[
+        "Khalwa"
+    ],
     "name:ita_x_preferred":[
         "Khalwa"
     ],
     "name:tur_x_preferred":[
         "Halvet"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10491585
+        "gn:id":10491585,
+        "ks:id":"KS9F8F35F150C24A29BF7068DC3B0A11C1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fa72201066c26ff5df47ee9bb81e1757",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd56776f0b27e3a1ac9b06303c881eda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1260019617,
-    "wof:lastmodified":1566699532,
+    "wof:lastmodified":1680667484,
     "wof:name":"Khalwa",
     "wof:parent_id":1108695837,
     "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.04685,
-    25.53984,
-    81.04685,
-    25.53984
+    81.04715,
+    25.539976,
+    81.048345,
+    25.541872
 ],
-  "geometry": {"coordinates":[81.04685000000001,25.53984],"type":"Point"}
+  "geometry": {"coordinates":[[[81.047847,25.541872],[81.047847,25.541782],[81.048046,25.541781],[81.048046,25.541691],[81.048146,25.541691],[81.048146,25.541601],[81.04824499999999,25.541601],[81.04824499999999,25.54151],[81.048345,25.54151],[81.048345,25.54142],[81.04824499999999,25.54142],[81.04824499999999,25.54133],[81.048046,25.54133],[81.048046,25.541059],[81.047946,25.541059],[81.047946,25.540608],[81.047847,25.540608],[81.047847,25.540337],[81.047747,25.540337],[81.047747,25.540246],[81.047448,25.540246],[81.047448,25.539976],[81.047349,25.539976],[81.047349,25.540066],[81.04724899999999,25.540066],[81.04724899999999,25.540517],[81.04715,25.540517],[81.04715,25.540969],[81.04725000000001,25.540969],[81.04725000000001,25.541782],[81.047349,25.541782],[81.047349,25.541872],[81.047847,25.541872]]],"type":"Polygon"}
 }

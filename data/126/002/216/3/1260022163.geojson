@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.81866,17.77154,78.81866,17.77154",
-    "geom:latitude":17.77154,
-    "geom:longitude":78.81866,
+    "geom:bbox":"78.817631,17.770456,78.819616,17.772269",
+    "geom:latitude":17.771273,
+    "geom:longitude":78.818584,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"535.0",
     "gn:asciiname":"Nabinagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.79866,17.75154,78.83866,17.79154",
+    "ks:ks_id":"KS42FB3BE63D8640109D15615F442D65A8",
+    "ks:ks_name":"Nabinagar",
+    "ks:ks_pop":218,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1274768",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_519198",
+    "lbl:latitude":17.771238,
+    "lbl:longitude":78.818603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":17.771238,
+    "mps:longitude":78.818603,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u09ac\u09c0\u09a8\u0997\u09b0"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Nab\u012bnagar"
+    ],
+    "name:eng_x_preferred":[
+        "Nabinagar"
     ],
     "name:hif_x_preferred":[
         "Nabinagar"
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u6bd4\u7eb3\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11039040
+        "gn:id":11039040,
+        "ks:id":"KS42FB3BE63D8640109D15615F442D65A8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ef3117a7552ef97946f99e6f85a1e339",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"80a16c2808eb023b150c24e3afd61741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1260022163,
-    "wof:lastmodified":1566700113,
+    "wof:lastmodified":1680667825,
     "wof:name":"Nabinagar",
     "wof:parent_id":890503991,
     "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.81866,
-    17.77153999999999,
-    78.81866,
-    17.77153999999999
+    78.817631,
+    17.770456,
+    78.819616,
+    17.772269
 ],
-  "geometry": {"coordinates":[78.81865999999999,17.77153999999999],"type":"Point"}
+  "geometry": {"coordinates":[[[78.818845,17.772269],[78.81884599999999,17.772178],[78.81894,17.77218],[78.818941,17.772089],[78.819035,17.77209],[78.81903699999999,17.772],[78.819131,17.772001],[78.81913299999999,17.77182],[78.819227,17.771821],[78.819233,17.77137],[78.819327,17.771371],[78.819329,17.77119],[78.819424,17.771191],[78.819425,17.771101],[78.819519,17.771102],[78.81952,17.771012],[78.819614,17.771013],[78.819616,17.770832],[78.81952200000001,17.770831],[78.819523,17.770741],[78.819429,17.77074],[78.81943,17.770649],[78.81895900000001,17.770644],[78.81896,17.770554],[78.818583,17.77055],[78.818584,17.770459],[78.81830100000001,17.770456],[78.81829999999999,17.770546],[78.818017,17.770543],[78.818016,17.770634],[78.81782699999999,17.770631],[78.817826,17.770722],[78.817638,17.77072],[78.81763100000001,17.771262],[78.81772599999999,17.771263],[78.817724,17.771353],[78.817819,17.771354],[78.817818,17.771444],[78.81791200000001,17.771445],[78.817911,17.771536],[78.818005,17.771537],[78.818004,17.771627],[78.81809800000001,17.771628],[78.818096,17.771809],[78.81819,17.77181],[78.81818699999999,17.772081],[78.818281,17.772082],[78.818279,17.772263],[78.818845,17.772269]]],"type":"Polygon"}
 }

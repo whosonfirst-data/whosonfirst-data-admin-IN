@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.96582,26.60902,79.96582,26.60902",
-    "geom:latitude":26.60902,
-    "geom:longitude":79.96582,
+    "geom:bbox":"79.965506,26.608331,79.966818,26.609598",
+    "geom:latitude":26.609,
+    "geom:longitude":79.966168,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"163.0",
     "gn:asciiname":"Ramgarh",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.94582,26.58902,79.98582,26.62902",
+    "ks:ks_alt_nam":"R\u0101mgarh",
+    "ks:ks_id":"KS6793444395B64A63925A6D1A25F68B19",
+    "ks:ks_name":"Ramgarh",
+    "ks:ks_pop":416,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|902532",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1875391",
+    "lbl:latitude":26.609001,
+    "lbl:longitude":79.966181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.609001,
+    "mps:longitude":79.966181,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u062c\u0631\u0627\u0647"
@@ -47,6 +58,12 @@
     ],
     "name:deu_x_preferred":[
         "Ramgarh"
+    ],
+    "name:eng_x_preferred":[
+        "Ramgarh"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101mgarh"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aae\u0a97\u0aa2"
@@ -87,7 +104,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645 \u06af\u0691\u06be"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +119,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7004414
+        "gn:id":7004414,
+        "ks:id":"KS6793444395B64A63925A6D1A25F68B19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7d0560a53b480904eefe049ac2043b2b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac58b18a183eab421c28a323442f6926",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +137,22 @@
         }
     ],
     "wof:id":1260023709,
-    "wof:lastmodified":1577751397,
+    "wof:lastmodified":1680667845,
     "wof:name":"Ramgarh",
     "wof:parent_id":890505615,
     "wof:placetype":"locality",
+    "wof:population":416,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.96582,
-    26.60902,
-    79.96582,
-    26.60902
+    79.965506,
+    26.608331,
+    79.966818,
+    26.609598
 ],
-  "geometry": {"coordinates":[79.96581999999999,26.60902],"type":"Point"}
+  "geometry": {"coordinates":[[[79.966508,26.609598],[79.966509,26.609508],[79.96661,26.609508],[79.96661,26.609418],[79.966711,26.609419],[79.966712,26.609329],[79.966812,26.609329],[79.966818,26.608697],[79.966717,26.608697],[79.966719,26.608516],[79.96661899999999,26.608515],[79.96661899999999,26.608425],[79.96651900000001,26.608424],[79.96652,26.608334],[79.96611799999999,26.608331],[79.966117,26.608421],[79.96591600000001,26.60842],[79.96591600000001,26.60851],[79.965715,26.608509],[79.96571400000001,26.608599],[79.965613,26.608598],[79.96561199999999,26.608779],[79.96551100000001,26.608778],[79.965506,26.60941],[79.96560599999999,26.609411],[79.965605,26.609501],[79.965706,26.609502],[79.965705,26.609592],[79.966508,26.609598]]],"type":"Polygon"}
 }

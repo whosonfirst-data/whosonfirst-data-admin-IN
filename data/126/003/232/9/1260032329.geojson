@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.33928,27.31691,81.33928,27.31691",
-    "geom:latitude":27.31691,
-    "geom:longitude":81.33928,
+    "geom:bbox":"81.344671,27.327812,81.345986,27.328896",
+    "geom:latitude":27.32838,
+    "geom:longitude":81.345288,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Sihala",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.31928,27.29691,81.35928,27.33691",
+    "ks:ks_id":"KS25C76ACF94474E7DAB282C7060CB1EE3",
+    "ks:ks_name":"Sihala",
+    "ks:ks_pop":200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|989524",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1898781",
+    "lbl:latitude":27.328323,
+    "lbl:longitude":81.345301,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.328323,
+    "mps:longitude":81.345301,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sihala"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0647\u0627\u0644\u0647"
     ],
@@ -39,7 +52,13 @@
     "name:urd_x_preferred":[
         "\u0633\u06c1\u0627\u0644\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10760234
+        "gn:id":10760234,
+        "ks:id":"KS25C76ACF94474E7DAB282C7060CB1EE3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"613f963f3e6807cf2c7dc5e3589b8410",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"11cecfc78dfcebaeb76b67cadcc10b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1260032329,
-    "wof:lastmodified":1566699751,
+    "wof:lastmodified":1680667593,
     "wof:name":"Sihala",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.33928,
-    27.31691,
-    81.33928,
-    27.31691
+    81.344671,
+    27.327812,
+    81.345986,
+    27.328896
 ],
-  "geometry": {"coordinates":[81.33928,27.31691],"type":"Point"}
+  "geometry": {"coordinates":[[[81.34548100000001,27.328714],[81.34548100000001,27.328624],[81.34568299999999,27.328623],[81.34568299999999,27.328533],[81.345885,27.328533],[81.345885,27.328442],[81.345986,27.328442],[81.345985,27.328261],[81.345884,27.328262],[81.345884,27.328171],[81.345783,27.328172],[81.345782,27.328081],[81.345681,27.328082],[81.345681,27.327991],[81.345479,27.327992],[81.345478,27.327902],[81.345276,27.327902],[81.345276,27.327812],[81.345175,27.327812],[81.345175,27.327902],[81.345074,27.327903],[81.345074,27.327993],[81.344973,27.327993],[81.34497399999999,27.328174],[81.34477200000001,27.328174],[81.34477200000001,27.328355],[81.34467100000001,27.328355],[81.344672,27.328535],[81.344773,27.328535],[81.344773,27.328626],[81.344874,27.328625],[81.344875,27.328896],[81.34538000000001,27.328895],[81.34538000000001,27.328714],[81.34548100000001,27.328714]]],"type":"Polygon"}
 }

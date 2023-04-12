@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.16565,21.30687,83.16565,21.30687",
-    "geom:latitude":21.30687,
-    "geom:longitude":83.16565,
+    "geom:bbox":"83.164848,21.306142,83.167257,21.307423",
+    "geom:latitude":21.306771,
+    "geom:longitude":83.166004,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Kharkhari",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.14565,21.28687,83.18565,21.32687",
+    "ks:ks_id":"KSE0335B4F7A0A4C3DBC4897A252E85A01",
+    "ks:ks_name":"Kharkhari",
+    "ks:ks_pop":565,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|549405",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_960204",
+    "lbl:latitude":21.306783,
+    "lbl:longitude":83.166027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.306783,
+    "mps:longitude":83.166027,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09be\u0996\u09be\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kharkhari"
     ],
     "name:ita_x_preferred":[
         "Kharkhari"
@@ -51,7 +64,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5c14\u5361\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10748419
+        "gn:id":10748419,
+        "ks:id":"KSE0335B4F7A0A4C3DBC4897A252E85A01"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5f8b2a3ecafe4030465015da036018db",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6d97cb12f2d8fb98a00afd6661cea2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1260031391,
-    "wof:lastmodified":1566699778,
+    "wof:lastmodified":1680667611,
     "wof:name":"Kharkhari",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.16565,
-    21.30687,
-    83.16565,
-    21.30687
+    83.164848,
+    21.306142,
+    83.167257,
+    21.307423
 ],
-  "geometry": {"coordinates":[83.16565,21.30687],"type":"Point"}
+  "geometry": {"coordinates":[[[83.165919,21.307416],[83.16591699999999,21.307326],[83.166206,21.307322],[83.16620500000001,21.307232],[83.166398,21.30723],[83.16639600000001,21.307139],[83.166493,21.307138],[83.16649099999999,21.307048],[83.166588,21.307047],[83.166586,21.306956],[83.16677900000001,21.306954],[83.16677799999999,21.306864],[83.16697000000001,21.306861],[83.16696899999999,21.306771],[83.167162,21.306768],[83.16716,21.306678],[83.16725700000001,21.306677],[83.167254,21.306496],[83.167158,21.306497],[83.16715600000001,21.306407],[83.16706000000001,21.306408],[83.16705899999999,21.306318],[83.166962,21.306319],[83.166961,21.306229],[83.16667200000001,21.306233],[83.16667099999999,21.306142],[83.166093,21.30615],[83.166094,21.30624],[83.16590100000001,21.306243],[83.165903,21.306333],[83.16571,21.306335],[83.165711,21.306426],[83.16542200000001,21.306429],[83.165424,21.30652],[83.16513399999999,21.306523],[83.165136,21.306614],[83.16503899999999,21.306615],[83.165041,21.306705],[83.16484800000001,21.306708],[83.164855,21.307159],[83.165047,21.307157],[83.165049,21.307247],[83.16524099999999,21.307245],[83.165243,21.307335],[83.165435,21.307332],[83.165437,21.307423],[83.165919,21.307416]]],"type":"Polygon"}
 }
