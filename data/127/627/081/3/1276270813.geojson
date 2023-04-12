@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.88577,25.02729,85.88577,25.02729",
-    "geom:latitude":25.02729,
-    "geom:longitude":85.88577,
+    "geom:bbox":"85.885207,25.026566,85.886894,25.027651",
+    "geom:latitude":25.027109,
+    "geom:longitude":85.886087,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"228.0",
     "gn:asciiname":"Arari",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.86577,25.00729,85.90577,25.04729",
+    "ks:ks_id":"KSFD968C6BFA35443E8739314E388755F9",
+    "ks:ks_name":"Arari",
+    "ks:ks_pop":180,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|44127",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1157826",
+    "lbl:latitude":25.027109,
+    "lbl:longitude":85.886272,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.027109,
+    "mps:longitude":85.886272,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09f1\u09be\u09b0\u09be\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Arari"
     ],
     "name:eus_x_preferred":[
         "Arari"
@@ -87,7 +100,13 @@
     "name:zho_x_preferred":[
         "\u963f\u62c9\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10842973
+        "gn:id":10842973,
+        "ks:id":"KSFD968C6BFA35443E8739314E388755F9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"475dc444de08ade89ade34d9e909587b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"acd031480eeeb47c031bb8f6b3e8c299",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +133,22 @@
         }
     ],
     "wof:id":1276270813,
-    "wof:lastmodified":1566692392,
+    "wof:lastmodified":1680659560,
     "wof:name":"Arari",
     "wof:parent_id":1108695937,
     "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.88577,
-    25.02729,
-    85.88577,
-    25.02729
+    85.885207,
+    25.026566,
+    85.886894,
+    25.027651
 ],
-  "geometry": {"coordinates":[85.88576999999999,25.02729],"type":"Point"}
+  "geometry": {"coordinates":[[[85.886393,25.027651],[85.886394,25.027561],[85.88659199999999,25.027563],[85.886593,25.027472],[85.886692,25.027473],[85.88669299999999,25.027383],[85.886792,25.027383],[85.88679500000001,25.027113],[85.886894,25.027113],[85.886894,25.027023],[85.88679500000001,25.027022],[85.886798,25.026751],[85.88669899999999,25.026751],[85.8867,25.02666],[85.8866,25.02666],[85.886601,25.026569],[85.886106,25.026566],[85.886105,25.026656],[85.88600599999999,25.026655],[85.886005,25.026745],[85.885509,25.026742],[85.885509,25.026832],[85.88531,25.026831],[85.885307,25.027192],[85.88520800000001,25.027191],[85.88520699999999,25.027281],[85.885306,25.027282],[85.885306,25.027372],[85.88540500000001,25.027373],[85.885403,25.027554],[85.88560099999999,25.027555],[85.88560200000001,25.027465],[85.885701,25.027466],[85.8857,25.027556],[85.886196,25.02756],[85.886195,25.02765],[85.886393,25.027651]]],"type":"Polygon"}
 }

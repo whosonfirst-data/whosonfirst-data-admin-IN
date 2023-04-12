@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.42116,26.42546,83.42116,26.42546",
-    "geom:latitude":26.42546,
-    "geom:longitude":83.42116,
+    "geom:bbox":"83.420162,26.424479,83.422048,26.426096",
+    "geom:latitude":26.425288,
+    "geom:longitude":83.421264,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Sakri",
@@ -24,12 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.40116,26.40546,83.44116,26.44546",
+    "ks:ks_id":"KS64744DA13EFD4B2EAD5AF2ACD4D6189D",
+    "ks:ks_name":"Sakari",
+    "ks:ks_pop":700,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|939085",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1415554",
+    "lbl:latitude":26.425288,
+    "lbl:longitude":83.42134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.425288,
+    "mps:longitude":83.42134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sakari"
+    ],
+    "name:eng_x_variant":[
+        "Sakri"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a95\u0acd\u0ab0\u0ac0"
     ],
@@ -45,7 +61,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u06a9\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10665331
+        "gn:id":10665331,
+        "ks:id":"KS64744DA13EFD4B2EAD5AF2ACD4D6189D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1a5e329abd8e8ae288d49d8f019f7966",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b70a930b50ede79a71935d7b103acf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +94,22 @@
         }
     ],
     "wof:id":1276273429,
-    "wof:lastmodified":1566692409,
-    "wof:name":"Sakri",
+    "wof:lastmodified":1680659573,
+    "wof:name":"Sakari",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.42116,
-    26.42546,
-    83.42116,
-    26.42546
+    83.420162,
+    26.424479,
+    83.422048,
+    26.426096
 ],
-  "geometry": {"coordinates":[83.42116,26.42546],"type":"Point"}
+  "geometry": {"coordinates":[[[83.422048,26.426096],[83.422048,26.424479],[83.42070099999999,26.424479],[83.42070099999999,26.425018],[83.420162,26.425018],[83.420162,26.425557],[83.42070099999999,26.425557],[83.42070099999999,26.426096],[83.422048,26.426096]]],"type":"Polygon"}
 }

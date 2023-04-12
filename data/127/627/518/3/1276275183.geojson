@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.57201,25.88744,78.57201,25.88744",
-    "geom:latitude":25.88744,
-    "geom:longitude":78.57201,
+    "geom:bbox":"78.57133,25.886367,78.57331,25.888559",
+    "geom:latitude":25.887447,
+    "geom:longitude":78.572361,
     "gn:admin1_code":"35",
     "gn:admin2_code":"422.0",
     "gn:asciiname":"Surapara",
@@ -24,17 +24,40 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.55201,25.86744,78.59201,25.90744",
+    "ks:ks_alt_nam":"S\u016br\u0101p\u0101ra",
+    "ks:ks_id":"KSB3DBC71C08A242CBA1264C1E276ED743",
+    "ks:ks_name":"Surapara",
+    "ks:ks_pop":298,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12950890",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1728206",
+    "lbl:latitude":25.88746,
+    "lbl:longitude":78.572361,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.88746,
+    "mps:longitude":78.572361,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Surapara"
+    ],
+    "name:eng_x_variant":[
+        "S\u016br\u0101p\u0101ra"
+    ],
     "name:und_x_variant":[
         "S\u016br\u0101p\u0101ra",
         "Suara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -43,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10505838
+        "gn:id":10505838,
+        "ks:id":"KSB3DBC71C08A242CBA1264C1E276ED743"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3a8d7b7264aa57c8d0dbf4c13a578dd7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2d2a769c42095ea668fce521fe96422",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +84,22 @@
         }
     ],
     "wof:id":1276275183,
-    "wof:lastmodified":1566692375,
+    "wof:lastmodified":1680659548,
     "wof:name":"Surapara",
     "wof:parent_id":890510951,
     "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.57200999999998,
-    25.88744,
-    78.57200999999998,
-    25.88744
+    78.57133,
+    25.886367,
+    78.57331,
+    25.888559
 ],
-  "geometry": {"coordinates":[78.57200999999998,25.88744],"type":"Point"}
+  "geometry": {"coordinates":[[[78.572732,25.886744],[78.572733,25.886654],[78.57263399999999,25.886652],[78.57263500000001,25.886562],[78.57233600000001,25.886557],[78.572338,25.886467],[78.572238,25.886465],[78.57223999999999,25.886375],[78.571742,25.886367],[78.57174000000001,25.886457],[78.57154,25.886454],[78.571538,25.886544],[78.571439,25.886542],[78.57143499999999,25.886723],[78.571335,25.886721],[78.57133,25.886992],[78.57142899999999,25.886993],[78.57142399999999,25.887264],[78.571524,25.887266],[78.571518,25.887536],[78.571618,25.887538],[78.571614,25.887718],[78.571714,25.88772],[78.57171,25.887901],[78.57181,25.887902],[78.571808,25.887992],[78.57190799999999,25.887994],[78.571904,25.888174],[78.572104,25.888178],[78.572102,25.888268],[78.572301,25.888271],[78.572299,25.888362],[78.572599,25.888367],[78.572597,25.888457],[78.57269599999999,25.888459],[78.572695,25.888549],[78.57329300000001,25.888559],[78.57331000000001,25.887747],[78.57321,25.887745],[78.57321399999999,25.887565],[78.573114,25.887563],[78.573121,25.887202],[78.57302199999999,25.8872],[78.573025,25.88702],[78.572925,25.887018],[78.57292700000001,25.886928],[78.572828,25.886926],[78.57283099999999,25.886746],[78.572732,25.886744]]],"type":"Polygon"}
 }
