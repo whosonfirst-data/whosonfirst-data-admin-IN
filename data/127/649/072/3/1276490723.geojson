@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.84332,25.42302,84.84332,25.42302",
-    "geom:latitude":25.42302,
-    "geom:longitude":84.84332,
+    "geom:bbox":"84.841746,25.42169,84.84444,25.423307",
+    "geom:latitude":25.422585,
+    "geom:longitude":84.843076,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Shahjahanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.82332,25.40302,84.86332,25.44302",
+    "ks:ks_id":"KSABBBA711348B430C8194BE280B6E7D66",
+    "ks:ks_name":"Shahjahanpur",
+    "ks:ks_pop":1025,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1028000802975800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1349251",
+    "lbl:latitude":25.422768,
+    "lbl:longitude":84.843076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.422768,
+    "mps:longitude":84.843076,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u062f \u062c\u0627\u0647\u0627\u0646 \u0628\u0648\u0631"
@@ -59,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c4\u03b6\u03b1\u03c7\u03b1\u03bd\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Shahjahanpur"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u200c\u062c\u0647\u0627\u0646\u200c\u067e\u0648\u0631"
@@ -144,7 +157,13 @@
     "name:zho_x_preferred":[
         "\u65af\u54c8\u8d6b\u8d3e\u6c49\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,10 +172,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833007
+        "gn:id":10833007,
+        "ks:id":"KSABBBA711348B430C8194BE280B6E7D66"
     },
     "wof:country":"IN",
-    "wof:geomhash":"732e835a324882b4248f4308653cdf0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a31d11a5c8d6f7a043a32766371945e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,20 +190,22 @@
         }
     ],
     "wof:id":1276490723,
-    "wof:lastmodified":1636505482,
+    "wof:lastmodified":1680660334,
     "wof:name":"Shahjahanpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":1025,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.84332,
-    25.42302,
-    84.84332,
-    25.42302
+    84.841746,
+    25.42169,
+    84.84444,
+    25.423307
 ],
-  "geometry": {"coordinates":[84.84332000000001,25.42302],"type":"Point"}
+  "geometry": {"coordinates":[[[84.843901,25.423307],[84.843901,25.423038],[84.84444000000001,25.423038],[84.84444000000001,25.422499],[84.844171,25.422499],[84.844171,25.422229],[84.843901,25.422229],[84.843901,25.42196],[84.843093,25.42196],[84.843093,25.422229],[84.84255400000001,25.422229],[84.84255400000001,25.42196],[84.842285,25.42196],[84.842285,25.42169],[84.841746,25.42169],[84.841746,25.422229],[84.842015,25.422229],[84.842015,25.423038],[84.84255400000001,25.423038],[84.84255400000001,25.423307],[84.843901,25.423307]]],"type":"Polygon"}
 }

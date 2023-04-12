@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000009,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.19118,25.42075,83.19118,25.42075",
-    "geom:latitude":25.42075,
-    "geom:longitude":83.19118,
+    "geom:bbox":"83.189205,25.417648,83.192708,25.422768",
+    "geom:latitude":25.420336,
+    "geom:longitude":83.191141,
     "gn:admin1_code":"36",
     "gn:admin2_code":"196.0",
     "gn:asciiname":"Sarai",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.17118,25.40075,83.21118,25.44075",
+    "ks:ks_alt_nam":"Sar\u0101i",
+    "ks:ks_id":"KS06D0A87CDD1341B4BC1E524DC95FF080",
+    "ks:ks_name":"Sarai",
+    "ks:ks_pop":1436,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|954337",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1349211",
+    "lbl:latitude":25.420134,
+    "lbl:longitude":83.191021,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.420134,
+    "mps:longitude":83.191021,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sarai"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Sarai"
+    ],
+    "name:eng_x_preferred":[
+        "Sarai"
+    ],
+    "name:eng_x_variant":[
+        "Sar\u0101i"
     ],
     "name:fra_x_preferred":[
         "Sarai"
@@ -57,7 +74,13 @@
     "name:tgl_x_preferred":[
         "Sarai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10498647
+        "gn:id":10498647,
+        "ks:id":"KS06D0A87CDD1341B4BC1E524DC95FF080"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e251cce3c79c69641eac68f8d6792755",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"817c82ad01d3ab64d65d1cad5d412fca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +107,22 @@
         }
     ],
     "wof:id":1276498677,
-    "wof:lastmodified":1566693487,
+    "wof:lastmodified":1680660319,
     "wof:name":"Sarai",
     "wof:parent_id":1108695881,
     "wof:placetype":"locality",
+    "wof:population":1436,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.19118,
-    25.42075,
-    83.19118,
-    25.42075
+    83.189205,
+    25.417648,
+    83.192708,
+    25.422768
 ],
-  "geometry": {"coordinates":[83.19118,25.42075],"type":"Point"}
+  "geometry": {"coordinates":[[[83.191361,25.421421],[83.191361,25.421151],[83.1919,25.421151],[83.1919,25.420882],[83.19216900000001,25.420882],[83.19216900000001,25.420073],[83.192708,25.420073],[83.192708,25.419534],[83.19243899999999,25.419534],[83.19243899999999,25.418995],[83.19216900000001,25.418995],[83.19216900000001,25.418726],[83.19243899999999,25.418726],[83.19243899999999,25.417648],[83.1919,25.417648],[83.1919,25.417917],[83.19163,25.417917],[83.19163,25.418456],[83.191361,25.418456],[83.191361,25.418726],[83.190552,25.418726],[83.190552,25.418995],[83.19028299999999,25.418995],[83.19028299999999,25.419265],[83.19001299999999,25.419265],[83.19001299999999,25.419804],[83.189744,25.419804],[83.189744,25.420343],[83.189205,25.420343],[83.189205,25.420882],[83.189474,25.420882],[83.189474,25.421421],[83.189744,25.421421],[83.189744,25.42169],[83.190552,25.42169],[83.190552,25.42196],[83.190822,25.42196],[83.190822,25.422499],[83.191091,25.422499],[83.191091,25.422768],[83.19216900000001,25.422768],[83.19216900000001,25.42196],[83.1919,25.42196],[83.1919,25.421421],[83.191361,25.421421]]],"type":"Polygon"}
 }

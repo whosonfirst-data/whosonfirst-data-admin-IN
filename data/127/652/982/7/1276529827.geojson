@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pingli Large",
@@ -36,9 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672171,
         102191569,
         85632469,
-        85672171,
         890502257
     ],
     "wof:breaches":[],
@@ -46,7 +47,7 @@
         "gn:id":1259637
     },
     "wof:country":"IN",
-    "wof:geomhash":"cee73fc3406bfc4f6c0557161d7b02e2",
+    "wof:geomhash":"ed6eeb2e37a5a55f2f1a5dfb81cb35e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +58,22 @@
         }
     ],
     "wof:id":1276529827,
-    "wof:lastmodified":1566693894,
+    "wof:lastmodified":1680629527,
     "wof:name":"Pingli",
     "wof:parent_id":890502257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847123633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.51238000000002,
-    17.67617000000001,
-    74.51238000000002,
-    17.67617000000001
+    74.51238,
+    17.67617,
+    74.51238,
+    17.67617
 ],
-  "geometry": {"coordinates":[74.51238000000002,17.67617000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.51237999999999,17.67617],"type":"Point"}
 }

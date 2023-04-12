@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.39781,19.59598,76.39781,19.59598",
-    "geom:latitude":19.59598,
-    "geom:longitude":76.39781,
+    "geom:bbox":"76.397404,19.595264,76.398746,19.597708",
+    "geom:latitude":19.596437,
+    "geom:longitude":76.398062,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"514.0",
     "gn:asciiname":"Khari",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.37781,19.57598,76.41781,19.61598",
+    "ks:ks_alt_nam":"Kh\u0101ri",
+    "ks:ks_id":"KS7FE13B61917B490A9C744A49B7FAC475",
+    "ks:ks_name":"Khari",
+    "ks:ks_pop":266,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|12856407",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_558966",
+    "lbl:latitude":19.596409,
+    "lbl:longitude":76.398062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.596409,
+    "mps:longitude":76.398062,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khari"
     ],
     "name:deu_x_preferred":[
         "Khari"
+    ],
+    "name:eng_x_preferred":[
+        "Khari"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101ri"
     ],
     "name:msa_x_preferred":[
         "Khari"
@@ -45,7 +62,13 @@
     "name:pol_x_preferred":[
         "Khari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10432869
+        "gn:id":10432869,
+        "ks:id":"KS7FE13B61917B490A9C744A49B7FAC475"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2083a81b35c3a6fc6981ee9bbaa888a0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc6b7f74f1cbe6930bd304664e636822",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1276516417,
-    "wof:lastmodified":1566692603,
+    "wof:lastmodified":1680659707,
     "wof:name":"Khari",
     "wof:parent_id":890501997,
     "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.39780999999998,
-    19.59598,
-    76.39780999999998,
-    19.59598
+    76.397404,
+    19.595264,
+    76.398746,
+    19.597708
 ],
-  "geometry": {"coordinates":[76.39780999999998,19.59598],"type":"Point"}
+  "geometry": {"coordinates":[[[76.39847,19.597522],[76.39846900000001,19.597431],[76.398565,19.597431],[76.39856399999999,19.59734],[76.39865899999999,19.59734],[76.398651,19.596346],[76.398746,19.596345],[76.39874399999999,19.596164],[76.39864900000001,19.596165],[76.398644,19.595623],[76.398549,19.595624],[76.39854800000001,19.595443],[76.39845200000001,19.595444],[76.39845099999999,19.595353],[76.39835600000001,19.595354],[76.398355,19.595264],[76.397783,19.595268],[76.397784,19.595359],[76.397593,19.59536],[76.397594,19.59545],[76.397499,19.595451],[76.39749999999999,19.595542],[76.39740399999999,19.595542],[76.397414,19.596626],[76.397509,19.596626],[76.39751099999999,19.596806],[76.397606,19.596806],[76.397611,19.597438],[76.397707,19.597437],[76.39770900000001,19.597708],[76.398281,19.597704],[76.39828,19.597614],[76.398376,19.597613],[76.398375,19.597522],[76.39847,19.597522]]],"type":"Polygon"}
 }

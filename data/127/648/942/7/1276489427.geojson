@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u064a\u0646\u0628\u0648\u0631"
@@ -89,9 +90,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672205,
         102191569,
         85632469,
-        85672205,
         1108695793
     ],
     "wof:breaches":[],
@@ -99,7 +100,7 @@
         "gn:id":10556893
     },
     "wof:country":"IN",
-    "wof:geomhash":"d160948787355110dd9ebfb77bfae510",
+    "wof:geomhash":"bff74d4f09aa9b75fbe10c1ec2c135cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +111,22 @@
         }
     ],
     "wof:id":1276489427,
-    "wof:lastmodified":1577750617,
+    "wof:lastmodified":1680629519,
     "wof:name":"Mohanpur",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847123453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.29153000000002,
+    78.29153,
     29.35245,
-    78.29153000000002,
+    78.29153,
     29.35245
 ],
-  "geometry": {"coordinates":[78.29153000000002,29.35245],"type":"Point"}
+  "geometry": {"coordinates":[78.29152999999999,29.35245],"type":"Point"}
 }
