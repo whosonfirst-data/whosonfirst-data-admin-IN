@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.81269,26.79922,84.81269,26.79922",
-    "geom:latitude":26.79922,
-    "geom:longitude":84.81269,
+    "geom:bbox":"84.810215,26.79746,84.813718,26.802311",
+    "geom:latitude":26.799604,
+    "geom:longitude":84.812074,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"204.0",
     "gn:asciiname":"Raghunathpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.79269,26.77922,84.83269,26.81922",
+    "ks:ks_alt_nam":"Raghun\u0101thpur",
+    "ks:ks_id":"KSC062E7FA37A943838B669F6B0BA792D0",
+    "ks:ks_name":"Raghunathpur",
+    "ks:ks_pop":969,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|886035",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1434678",
+    "lbl:latitude":26.798299,
+    "lbl:longitude":84.812685,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.798299,
+    "mps:longitude":84.812685,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u0998\u09c1\u09a8\u09be\u09a5\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Raghunathpur"
+    ],
+    "name:eng_x_preferred":[
+        "Raghunathpur"
+    ],
+    "name:eng_x_variant":[
+        "Raghun\u0101thpur"
     ],
     "name:fra_x_preferred":[
         "Raghunathpur"
@@ -54,7 +71,13 @@
     "name:swe_x_preferred":[
         "Raghunathpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10827406
+        "gn:id":10827406,
+        "ks:id":"KSC062E7FA37A943838B669F6B0BA792D0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c86b986840645c22f807108a31a1104",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e65a805e7d82ed63042d3eb9e000ef20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +104,22 @@
         }
     ],
     "wof:id":1293154535,
-    "wof:lastmodified":1566690054,
+    "wof:lastmodified":1680658034,
     "wof:name":"Raghunathpur",
     "wof:parent_id":1108695893,
     "wof:placetype":"locality",
+    "wof:population":969,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.81269,
-    26.79922,
-    84.81269,
-    26.79922
+    84.810215,
+    26.79746,
+    84.813718,
+    26.802311
 ],
-  "geometry": {"coordinates":[84.81269,26.79922],"type":"Point"}
+  "geometry": {"coordinates":[[[84.81102300000001,26.802311],[84.81102300000001,26.802041],[84.811562,26.802041],[84.811562,26.801772],[84.811832,26.801772],[84.811832,26.801233],[84.811562,26.801233],[84.811562,26.800963],[84.811832,26.800963],[84.811832,26.800694],[84.812101,26.800694],[84.812101,26.800155],[84.81264,26.800155],[84.81264,26.799616],[84.81291,26.799616],[84.81291,26.799077],[84.81344900000001,26.799077],[84.81344900000001,26.798807],[84.81371799999999,26.798807],[84.81371799999999,26.79746],[84.811832,26.79746],[84.811832,26.799616],[84.811562,26.799616],[84.811562,26.800155],[84.81129300000001,26.800155],[84.81129300000001,26.800694],[84.810484,26.800694],[84.810484,26.801772],[84.810215,26.801772],[84.810215,26.802311],[84.81102300000001,26.802311]]],"type":"Polygon"}
 }

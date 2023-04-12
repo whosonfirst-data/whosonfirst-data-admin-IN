@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.7249,24.24072,87.7249,24.24072",
-    "geom:latitude":24.24072,
-    "geom:longitude":87.7249,
+    "geom:bbox":"87.722643,24.238609,87.726955,24.241573",
+    "geom:latitude":24.240348,
+    "geom:longitude":87.725144,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"334.0",
     "gn:asciiname":"Kanaipur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.7049,24.22072,87.7449,24.26072",
+    "ks:ks_alt_nam":"K\u0101n\u0101ipur",
+    "ks:ks_id":"KSB412C6D6E8FE4912B9561C2E7E3B7E32",
+    "ks:ks_name":"Kanaipur",
+    "ks:ks_pop":466,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|499007",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1277645",
+    "lbl:latitude":24.240472,
+    "lbl:longitude":87.725616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.240472,
+    "mps:longitude":87.725616,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09be\u0987\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09be\u0987\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kanaipur"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101n\u0101ipur"
     ],
     "name:hif_x_preferred":[
         "Kanaipur"
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5948\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017993
+        "gn:id":11017993,
+        "ks:id":"KSB412C6D6E8FE4912B9561C2E7E3B7E32"
     },
     "wof:country":"IN",
-    "wof:geomhash":"aee9cf2f6cb1cb8902ab9de04a5f1fcd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3df8570c3257cc354c98030356f86928",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1293162105,
-    "wof:lastmodified":1566691292,
+    "wof:lastmodified":1680658838,
     "wof:name":"Kanaipur",
     "wof:parent_id":890501089,
     "wof:placetype":"locality",
+    "wof:population":466,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.7249,
-    24.24072,
-    87.7249,
-    24.24072
+    87.722643,
+    24.238609,
+    87.726955,
+    24.241573
 ],
-  "geometry": {"coordinates":[87.72490000000001,24.24072],"type":"Point"}
+  "geometry": {"coordinates":[[[87.726685,24.241573],[87.726685,24.241304],[87.726955,24.241304],[87.726955,24.238878],[87.726416,24.238878],[87.726416,24.238609],[87.725877,24.238609],[87.725877,24.239148],[87.725607,24.239148],[87.725607,24.239687],[87.724799,24.239687],[87.724799,24.240495],[87.723721,24.240495],[87.723721,24.239417],[87.72264300000001,24.239417],[87.72264300000001,24.240495],[87.72291199999999,24.240495],[87.72291199999999,24.240765],[87.72318199999999,24.240765],[87.72318199999999,24.241034],[87.723451,24.241034],[87.723451,24.241573],[87.724529,24.241573],[87.724529,24.241304],[87.725877,24.241304],[87.725877,24.241573],[87.726685,24.241573]]],"type":"Polygon"}
 }

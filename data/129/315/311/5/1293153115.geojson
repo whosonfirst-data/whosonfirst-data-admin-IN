@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.94756,27.50546,77.94756,27.50546",
-    "geom:latitude":27.50546,
-    "geom:longitude":77.94756,
+    "geom:bbox":"77.946534,27.504714,77.948574,27.506633",
+    "geom:latitude":27.505644,
+    "geom:longitude":77.947586,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Pitha",
@@ -24,14 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.92756,27.48546,77.96756,27.52546",
+    "ks:ks_alt_nam":"PITHA",
+    "ks:ks_id":"KS3FB8A62D21DF467DAAD794A76E8468D8",
+    "ks:ks_name":"Pitha",
+    "ks:ks_pop":240,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|857589",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1754745",
+    "lbl:latitude":27.505686,
+    "lbl:longitude":77.947567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.505686,
+    "mps:longitude":77.947567,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Pitha"
     ],
     "name:ind_x_preferred":[
         "Pitha"
@@ -45,7 +59,13 @@
     "name:ori_x_preferred":[
         "\u0b2a\u0b3f\u0b20\u0b3e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10455351
+        "gn:id":10455351,
+        "ks:id":"KS3FB8A62D21DF467DAAD794A76E8468D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cc4bb2c46ccdcff3b843acd480c61ba9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10206ae8d9444888ac09da2a1b850eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +92,22 @@
         }
     ],
     "wof:id":1293153115,
-    "wof:lastmodified":1566690091,
+    "wof:lastmodified":1680658062,
     "wof:name":"Pitha",
     "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.94756,
-    27.50546,
-    77.94756,
-    27.50546
+    77.946534,
+    27.504714,
+    77.948574,
+    27.506633
 ],
-  "geometry": {"coordinates":[77.94756,27.50546],"type":"Point"}
+  "geometry": {"coordinates":[[[77.947175,27.506629],[77.94717199999999,27.506539],[77.947678,27.506528],[77.947676,27.506438],[77.947979,27.506431],[77.94797699999999,27.506341],[77.948078,27.506339],[77.948075,27.506249],[77.948277,27.506245],[77.948275,27.506154],[77.948376,27.506152],[77.948374,27.506062],[77.948475,27.50606],[77.948472,27.50597],[77.94857399999999,27.505968],[77.94855,27.505066],[77.948448,27.505068],[77.948446,27.504978],[77.948345,27.50498],[77.94834299999999,27.50489],[77.948241,27.504892],[77.948239,27.504802],[77.948138,27.504804],[77.94813499999999,27.504714],[77.947529,27.504727],[77.947531,27.504817],[77.947329,27.504821],[77.94733100000001,27.504911],[77.94723,27.504914],[77.947233,27.505004],[77.946929,27.50501],[77.946932,27.5051],[77.946831,27.505102],[77.946833,27.505193],[77.946732,27.505195],[77.94673400000001,27.505285],[77.94663300000001,27.505287],[77.946636,27.505377],[77.946534,27.505379],[77.946547,27.50583],[77.946648,27.505828],[77.94665000000001,27.505918],[77.94675100000001,27.505916],[77.946763,27.506367],[77.94686400000001,27.506365],[77.94686900000001,27.506545],[77.94696999999999,27.506543],[77.946973,27.506633],[77.947175,27.506629]]],"type":"Polygon"}
 }
