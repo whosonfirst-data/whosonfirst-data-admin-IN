@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.89999,26.17417,79.89999,26.17417",
-    "geom:latitude":26.17417,
-    "geom:longitude":79.89999,
+    "geom:bbox":"79.899038,26.172759,79.900547,26.174201",
+    "geom:latitude":26.173555,
+    "geom:longitude":79.899858,
     "gn:admin1_code":"36",
     "gn:admin2_code":"163.0",
     "gn:asciiname":"Akbarabad",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.87999,26.15417,79.91999,26.19417",
+    "ks:ks_id":"KS7D4A445769344D5082DAAFAE33CF0D8C",
+    "ks:ks_name":"Akbarabad",
+    "ks:ks_pop":300,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|21172",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1862373",
+    "lbl:latitude":26.173567,
+    "lbl:longitude":79.899934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.173567,
+    "mps:longitude":79.899934,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u06a9\u0628\u0631 \u0623\u0628\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Akbarabad"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0628\u0631\u0622\u0628\u0627\u062f"
@@ -39,7 +52,13 @@
     "name:ron_x_preferred":[
         "Akbarabad"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10489020
+        "gn:id":10489020,
+        "ks:id":"KS7D4A445769344D5082DAAFAE33CF0D8C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"91087db43d4af6a2279e229b13be3f06",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad469208928085a8b9168b588ee40c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1326981995,
-    "wof:lastmodified":1566684528,
+    "wof:lastmodified":1680655019,
     "wof:name":"Akbarabad",
     "wof:parent_id":890505615,
     "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.89999,
-    26.17417,
-    79.89999,
-    26.17417
+    79.899038,
+    26.172759,
+    79.900547,
+    26.174201
 ],
-  "geometry": {"coordinates":[79.89999,26.17417],"type":"Point"}
+  "geometry": {"coordinates":[[[79.899636,26.174201],[79.899636,26.17411],[79.900037,26.174113],[79.900037,26.174023],[79.90043799999999,26.174026],[79.90043900000001,26.173936],[79.90053899999999,26.173937],[79.900547,26.173034],[79.900447,26.173033],[79.900448,26.172943],[79.90034799999999,26.172942],[79.90034900000001,26.172852],[79.900149,26.17285],[79.900149,26.17276],[79.89994900000001,26.172759],[79.89994799999999,26.172849],[79.89984800000001,26.172848],[79.89984800000001,26.172938],[79.899747,26.172938],[79.899747,26.173028],[79.899647,26.173027],[79.89964500000001,26.173208],[79.899445,26.173206],[79.899444,26.173296],[79.899244,26.173295],[79.899243,26.173385],[79.899143,26.173384],[79.89914,26.173655],[79.89904,26.173654],[79.899038,26.173925],[79.89913799999999,26.173926],[79.899135,26.174197],[79.899636,26.174201]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.26206,24.64653,84.26206,24.64653",
-    "geom:latitude":24.64653,
-    "geom:longitude":84.26206,
+    "geom:bbox":"84.261336,24.645352,84.263119,24.647075",
+    "geom:latitude":24.64623,
+    "geom:longitude":84.262289,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Arti",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.24206,24.62653,84.28206,24.66653",
+    "ks:ks_alt_nam":"Art\u012b",
+    "ks:ks_id":"KSE9460D06BC044BAE972A0ABBFE1A4942",
+    "ks:ks_name":"Arti",
+    "ks:ks_pop":257,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|47157",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1150421",
+    "lbl:latitude":24.646263,
+    "lbl:longitude":84.262305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.646263,
+    "mps:longitude":84.262305,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arti"
+    ],
+    "name:eng_x_preferred":[
+        "Arti"
+    ],
+    "name:eng_x_variant":[
+        "Art\u012b"
     ],
     "name:ita_x_preferred":[
         "Arti"
@@ -42,7 +59,13 @@
     "name:sqi_x_preferred":[
         "Arti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10979790
+        "gn:id":10979790,
+        "ks:id":"KSE9460D06BC044BAE972A0ABBFE1A4942"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5a0f518f6d7627325bcbcbcd40e19c8d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"44ee2fcf89d613cd6c3ab4dfcd17debb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +92,22 @@
         }
     ],
     "wof:id":1326983889,
-    "wof:lastmodified":1566684570,
+    "wof:lastmodified":1680655039,
     "wof:name":"Arti",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.26205999999998,
-    24.64653,
-    84.26205999999998,
-    24.64653
+    84.261336,
+    24.645352,
+    84.263119,
+    24.647075
 ],
-  "geometry": {"coordinates":[84.26205999999998,24.64653],"type":"Point"}
+  "geometry": {"coordinates":[[[84.262601,24.647075],[84.262603,24.646985],[84.262801,24.646988],[84.26280300000001,24.646898],[84.26300000000001,24.646902],[84.263002,24.646811],[84.26310100000001,24.646813],[84.263119,24.646001],[84.26302,24.645999],[84.26302800000001,24.645639],[84.262929,24.645637],[84.26293099999999,24.645547],[84.262832,24.645545],[84.262834,24.645455],[84.262736,24.645453],[84.262737,24.645363],[84.262145,24.645352],[84.26214299999999,24.645442],[84.26194599999999,24.645438],[84.261944,24.645529],[84.26184499999999,24.645527],[84.261843,24.645617],[84.261646,24.645613],[84.261644,24.645704],[84.261545,24.645702],[84.261543,24.645792],[84.261444,24.64579],[84.261441,24.645971],[84.261342,24.645969],[84.261336,24.64624],[84.26143500000001,24.646241],[84.261431,24.646422],[84.261529,24.646424],[84.26152399999999,24.646694],[84.261622,24.646696],[84.261618,24.646876],[84.261717,24.646878],[84.261715,24.646968],[84.261912,24.646972],[84.26191,24.647062],[84.262601,24.647075]]],"type":"Polygon"}
 }

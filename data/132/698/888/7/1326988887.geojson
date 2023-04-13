@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.47213,21.70793,83.47213,21.70793",
-    "geom:latitude":21.70793,
-    "geom:longitude":83.47213,
+    "geom:bbox":"83.471782,21.705872,83.473222,21.708507",
+    "geom:latitude":21.707142,
+    "geom:longitude":83.472506,
     "gn:admin1_code":"21",
     "gn:admin2_code":"371.0",
     "gn:asciiname":"Saraipali",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.45213,21.68793,83.49213,21.72793",
+    "ks:ks_id":"KSABFE186CB46A4B96AFA82CA77096CA3F",
+    "ks:ks_name":"Sareipali",
+    "ks:ks_pop":378,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|957853",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_968287",
+    "lbl:latitude":21.707043,
+    "lbl:longitude":83.472564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.707043,
+    "mps:longitude":83.472564,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09be\u0987\u09aa\u09be\u09b2\u09bf"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Saraip\u0101li"
+    ],
+    "name:eng_x_preferred":[
+        "Sareipali"
+    ],
+    "name:eng_x_variant":[
+        "Saraipali"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0930\u093e\u092f\u092a\u093e\u0932\u0940"
@@ -75,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u8428\u8d56\u5e15\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10750536
+        "gn:id":10750536,
+        "ks:id":"KSABFE186CB46A4B96AFA82CA77096CA3F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3fcb2b06192c7859229e6873139941d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"21c3018b2404e7986e215c905d74b957",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +124,22 @@
         }
     ],
     "wof:id":1326988887,
-    "wof:lastmodified":1566684480,
-    "wof:name":"Saraipali",
+    "wof:lastmodified":1680654999,
+    "wof:name":"Sareipali",
     "wof:parent_id":1108696135,
     "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.47213,
-    21.70793,
-    83.47213,
-    21.70793
+    83.471782,
+    21.705872,
+    83.473222,
+    21.708507
 ],
-  "geometry": {"coordinates":[83.47213000000001,21.70793],"type":"Point"}
+  "geometry": {"coordinates":[[[83.47322200000001,21.707222],[83.47320499999999,21.706229],[83.473108,21.70623],[83.473105,21.70605],[83.473009,21.706051],[83.473007,21.705961],[83.47291,21.705963],[83.472909,21.705872],[83.472523,21.705878],[83.47252400000001,21.705968],[83.472427,21.70597],[83.47242900000001,21.70606],[83.47233199999999,21.706061],[83.472334,21.706152],[83.47223700000001,21.706153],[83.472239,21.706243],[83.47214200000001,21.706245],[83.472145,21.706425],[83.472049,21.706427],[83.472053,21.706698],[83.471957,21.706699],[83.47196599999999,21.707241],[83.47187,21.707242],[83.471879,21.707784],[83.471782,21.707785],[83.471795,21.708507],[83.471988,21.708504],[83.471986,21.708414],[83.47227599999999,21.70841],[83.472274,21.70832],[83.47246800000001,21.708317],[83.472465,21.708136],[83.472561,21.708135],[83.47256,21.708044],[83.472656,21.708043],[83.472655,21.707953],[83.472751,21.707951],[83.47275,21.707861],[83.472943,21.707858],[83.47293999999999,21.707678],[83.47303599999999,21.707676],[83.473035,21.707586],[83.473131,21.707584],[83.473125,21.707223],[83.47322200000001,21.707222]]],"type":"Polygon"}
 }
