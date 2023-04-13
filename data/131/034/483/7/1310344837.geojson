@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.16123,25.24058,83.16123,25.24058",
-    "geom:latitude":25.24058,
-    "geom:longitude":83.16123,
+    "geom:bbox":"83.163603,25.238164,83.164411,25.239242",
+    "geom:latitude":25.238703,
+    "geom:longitude":83.164007,
     "gn:admin1_code":"36",
     "gn:admin2_code":"196.0",
     "gn:asciiname":"Ekauna",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.14123,25.22058,83.18123,25.26058",
+    "ks:ks_id":"KS80BFF3AEB9924EC39D7A97A16887942B",
+    "ks:ks_name":"Ekauna",
+    "ks:ks_pop":200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|323242",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1338403",
+    "lbl:latitude":25.238703,
+    "lbl:longitude":83.164007,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.238703,
+    "mps:longitude":83.164007,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ekauna"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10500304
+        "gn:id":10500304,
+        "ks:id":"KS80BFF3AEB9924EC39D7A97A16887942B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9c9712bb26db098c70bbe0a6473b099f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"42203e1aacc514a274e7d90ff0548598",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1310344837,
-    "wof:lastmodified":1566702118,
+    "wof:lastmodified":1680669035,
     "wof:name":"Ekauna",
     "wof:parent_id":1108695881,
     "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.16123,
-    25.24058,
-    83.16123,
-    25.24058
+    83.163603,
+    25.238164,
+    83.164411,
+    25.239242
 ],
-  "geometry": {"coordinates":[83.16123,25.24058],"type":"Point"}
+  "geometry": {"coordinates":[[[83.164411,25.238164],[83.16360299999999,25.238164],[83.16360299999999,25.239242],[83.164411,25.239242],[83.164411,25.238164]]],"type":"Polygon"}
 }

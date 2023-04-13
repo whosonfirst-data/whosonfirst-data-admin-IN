@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.89114,24.93668,76.89114,24.93668",
-    "geom:latitude":24.93668,
-    "geom:longitude":76.89114,
+    "geom:bbox":"76.890572,24.936278,76.891965,24.937643",
+    "geom:latitude":24.936994,
+    "geom:longitude":76.89126,
     "gn:admin1_code":"24.0",
     "gn:asciiname":"Rajpura",
     "gn:country_code":"IN",
@@ -23,11 +23,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.87114,24.91668,76.91114,24.95668",
+    "ks:ks_alt_nam":"R\u0101jpura",
+    "ks:ks_id":"KS3F40D755DE8644A1944825E8DE8450DA",
+    "ks:ks_name":"Rajpura",
+    "ks:ks_pop":227,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|894217",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_916997",
+    "lbl:latitude":24.936994,
+    "lbl:longitude":76.891247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.936994,
+    "mps:longitude":76.891247,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u099c\u09aa\u09c1\u09b0\u09be"
@@ -36,6 +47,12 @@
         "\u09b0\u09be\u099c\u09aa\u09c1\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "R\u0101jpura"
+    ],
+    "name:eng_x_preferred":[
+        "Rajpura"
+    ],
+    "name:eng_x_variant":[
         "R\u0101jpura"
     ],
     "name:hin_x_preferred":[
@@ -77,7 +94,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u6770\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -86,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10336268
+        "gn:id":10336268,
+        "ks:id":"KS3F40D755DE8644A1944825E8DE8450DA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"38fa99e8b82381c2d14d7b71eb9ad17e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a0739f24acb85dbbd5e74bf2b41356d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,20 +127,22 @@
         }
     ],
     "wof:id":1310363143,
-    "wof:lastmodified":1566701067,
+    "wof:lastmodified":1680668402,
     "wof:name":"Rajpura",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":227,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.89114000000002,
-    24.93668,
-    76.89114000000002,
-    24.93668
+    76.890572,
+    24.936278,
+    76.891965,
+    24.937643
 ],
-  "geometry": {"coordinates":[76.89114000000002,24.93668],"type":"Point"}
+  "geometry": {"coordinates":[[[76.89107799999999,24.937638],[76.891077,24.937548],[76.891473,24.937543],[76.891471,24.937453],[76.891867,24.937448],[76.89186599999999,24.937357],[76.891965,24.937356],[76.891955,24.936724],[76.891856,24.936726],[76.89185500000001,24.936635],[76.891756,24.936637],[76.89175299999999,24.936456],[76.891654,24.936457],[76.89165300000001,24.936367],[76.891554,24.936368],[76.891552,24.936278],[76.891156,24.936283],[76.891158,24.936373],[76.89096000000001,24.936376],[76.890961,24.936466],[76.890862,24.936467],[76.89086500000001,24.936648],[76.890766,24.936649],[76.890767,24.936739],[76.89066800000001,24.936741],[76.890671,24.936921],[76.89057200000001,24.936923],[76.89058199999999,24.937554],[76.890681,24.937553],[76.890682,24.937643],[76.89107799999999,24.937638]]],"type":"Polygon"}
 }

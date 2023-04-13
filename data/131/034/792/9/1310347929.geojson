@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.01336,24.0041,84.01336,24.0041",
-    "geom:latitude":24.0041,
-    "geom:longitude":84.01336,
+    "geom:bbox":"84.012807,24.00326,84.01408,24.004808",
+    "geom:latitude":24.004147,
+    "geom:longitude":84.013365,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"358.0",
     "gn:asciiname":"Semaria",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.99336,23.9841,84.03336,24.0241",
+    "ks:ks_alt_nam":"Semari\u0101",
+    "ks:ks_id":"KSABDCA5FD5216494A9FFA1BA44739AB90",
+    "ks:ks_name":"Semaria",
+    "ks:ks_pop":96,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13285206",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1140164",
+    "lbl:latitude":24.004212,
+    "lbl:longitude":84.013314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.004212,
+    "mps:longitude":84.013314,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Simaria"
+    ],
+    "name:eng_x_preferred":[
+        "Semaria"
+    ],
+    "name:eng_x_variant":[
+        "Semari\u0101"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u092e\u0930\u093f\u092f\u093e"
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u585e\u9a6c\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10836006
+        "gn:id":10836006,
+        "ks:id":"KSABDCA5FD5216494A9FFA1BA44739AB90"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2471902f0df5bc0cb3401fb72cde7c26",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"999060571231e17ed72a783760b95e82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1310347929,
-    "wof:lastmodified":1566702164,
+    "wof:lastmodified":1680669065,
     "wof:name":"Semaria",
     "wof:parent_id":1108696111,
     "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.01335999999998,
-    24.0041,
-    84.01335999999998,
-    24.0041
+    84.012807,
+    24.00326,
+    84.01408,
+    24.004808
 ],
-  "geometry": {"coordinates":[84.01335999999998,24.0041],"type":"Point"}
+  "geometry": {"coordinates":[[[84.01387699999999,24.004808],[84.013879,24.004718],[84.01407500000001,24.004722],[84.01408000000001,24.004542],[84.013981,24.00454],[84.013986,24.004359],[84.013887,24.004357],[84.01389399999999,24.004087],[84.013795,24.004085],[84.01379799999999,24.003995],[84.013699,24.003993],[84.013704,24.003812],[84.013605,24.00381],[84.013609,24.00363],[84.01351099999999,24.003628],[84.013513,24.003538],[84.01341499999999,24.003536],[84.013417,24.003446],[84.013319,24.003444],[84.013321,24.003354],[84.013223,24.003352],[84.01322500000001,24.003262],[84.013127,24.00326],[84.013125,24.00335],[84.01302699999999,24.003348],[84.013025,24.003438],[84.01292599999999,24.003436],[84.012922,24.003617],[84.01282399999999,24.003615],[84.012818,24.003885],[84.012916,24.003887],[84.012912,24.004068],[84.01281400000001,24.004066],[84.012807,24.004336],[84.012906,24.004338],[84.012901,24.004519],[84.01300000000001,24.004521],[84.012997,24.004611],[84.013096,24.004613],[84.013094,24.004703],[84.013192,24.004705],[84.01318999999999,24.004795],[84.013288,24.004797],[84.01329,24.004707],[84.01338800000001,24.004709],[84.013386,24.004799],[84.01387699999999,24.004808]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.88674,25.64612,87.88674,25.64612",
-    "geom:latitude":25.64612,
-    "geom:longitude":87.88674,
+    "geom:bbox":"87.88434,25.644562,87.88919,25.646988",
+    "geom:latitude":25.64602,
+    "geom:longitude":87.887072,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Jian",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.86674,25.62612,87.90674,25.66612",
+    "ks:ks_id":"KS77049BE39D2848879AD6E1CF74433485",
+    "ks:ks_name":"Jian",
+    "ks:ks_pop":3100,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13513512",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1541375",
+    "lbl:latitude":25.646179,
+    "lbl:longitude":87.886907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.646179,
+    "mps:longitude":87.886907,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Jian"
@@ -37,6 +47,9 @@
         "\u0164ien"
     ],
     "name:deu_x_preferred":[
+        "Jian"
+    ],
+    "name:eng_x_preferred":[
         "Jian"
     ],
     "name:epo_x_preferred":[
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u528d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014818
+        "gn:id":11014818,
+        "ks:id":"KS77049BE39D2848879AD6E1CF74433485"
     },
     "wof:country":"IN",
-    "wof:geomhash":"40e23ea76c7837c4c202d34d0f0c3482",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"782ce15551ea1c72a7af828a5dd0499b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1310346361,
-    "wof:lastmodified":1636505717,
+    "wof:lastmodified":1680669085,
     "wof:name":"Jian",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":3100,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.88674,
-    25.64612,
-    87.88674,
-    25.64612
+    87.88434,
+    25.644562,
+    87.88919,
+    25.646988
 ],
-  "geometry": {"coordinates":[87.88674,25.64612],"type":"Point"}
+  "geometry": {"coordinates":[[[87.888651,25.646988],[87.888651,25.646718],[87.88919,25.646718],[87.88919,25.64564],[87.888651,25.64564],[87.888651,25.644562],[87.887843,25.644562],[87.887843,25.646179],[87.887573,25.646179],[87.887573,25.64564],[87.88595599999999,25.64564],[87.88595599999999,25.645371],[87.884609,25.645371],[87.884609,25.64564],[87.88433999999999,25.64564],[87.88433999999999,25.646449],[87.884879,25.646449],[87.884879,25.646179],[87.885417,25.646179],[87.885417,25.646449],[87.88595599999999,25.646449],[87.88595599999999,25.646988],[87.886495,25.646988],[87.886495,25.646718],[87.887304,25.646718],[87.887304,25.646988],[87.888651,25.646988]]],"type":"Polygon"}
 }

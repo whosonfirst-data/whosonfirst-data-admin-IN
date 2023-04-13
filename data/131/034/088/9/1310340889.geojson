@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.72208,29.59282,79.72208,29.59282",
-    "geom:latitude":29.59282,
-    "geom:longitude":79.72208,
+    "geom:bbox":"79.720388,29.59084,79.721426,29.591833",
+    "geom:latitude":29.591292,
+    "geom:longitude":79.720853,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Bhatkhola",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.70208,29.57282,79.74208,29.61282",
+    "ks:ks_id":"KS81218EA896464C83969B1E2DC48D9E14",
+    "ks:ks_name":"Bhatkhola",
+    "ks:ks_pop":277,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|143385",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2037938",
+    "lbl:latitude":29.591322,
+    "lbl:longitude":79.72075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.591322,
+    "mps:longitude":79.72075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Bhatkhola"
+    ],
+    "name:eng_x_preferred":[
         "Bhatkhola"
     ],
     "name:hin_x_preferred":[
@@ -51,7 +64,13 @@
     "name:pol_x_preferred":[
         "Bhatkhola"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10811578
+        "gn:id":10811578,
+        "ks:id":"KS81218EA896464C83969B1E2DC48D9E14"
     },
     "wof:country":"IN",
-    "wof:geomhash":"98db3b9bdb786101c704ce9b4016fe61",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"59961c237e7165bea40c1183f44a3b47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1310340889,
-    "wof:lastmodified":1566702176,
+    "wof:lastmodified":1680669074,
     "wof:name":"Bhatkhola",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
+    "wof:population":277,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.72208,
-    29.59282,
-    79.72208,
-    29.59282
+    79.720388,
+    29.59084,
+    79.721426,
+    29.591833
 ],
-  "geometry": {"coordinates":[79.72208000000001,29.59282],"type":"Point"}
+  "geometry": {"coordinates":[[[79.720798,29.591833],[79.720799,29.591743],[79.721006,29.591745],[79.721009,29.591474],[79.72111200000001,29.591475],[79.721113,29.591385],[79.72132000000001,29.591387],[79.721321,29.591296],[79.721424,29.591297],[79.72142599999999,29.591117],[79.721323,29.591116],[79.721324,29.591026],[79.721221,29.591025],[79.721222,29.590934],[79.721119,29.590934],[79.72112,29.590843],[79.72081,29.59084],[79.720809,29.590931],[79.72070600000001,29.59093],[79.720705,29.59102],[79.72049800000001,29.591018],[79.72049699999999,29.591108],[79.720394,29.591107],[79.720388,29.591558],[79.72049199999999,29.591559],[79.720491,29.591649],[79.72059400000001,29.59165],[79.72059299999999,29.591741],[79.720696,29.591742],[79.72069500000001,29.591832],[79.720798,29.591833]]],"type":"Polygon"}
 }
