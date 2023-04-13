@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.5168,24.81553,82.5168,24.81553",
-    "geom:latitude":24.81553,
-    "geom:longitude":82.5168,
+    "geom:bbox":"82.516273,24.813603,82.518441,24.815786",
+    "geom:latitude":24.814703,
+    "geom:longitude":82.517288,
     "gn:admin1_code":"36",
     "gn:admin2_code":"199.0",
     "gn:asciiname":"Sarsawa",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.4968,24.79553,82.5368,24.83553",
+    "ks:ks_id":"KS294B2E161ABC4EB7B075D5181A441416",
+    "ks:ks_name":"Sarsawa",
+    "ks:ks_pop":436,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13000473",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1037194",
+    "lbl:latitude":24.814613,
+    "lbl:longitude":82.517397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.814613,
+    "mps:longitude":82.517397,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b0\u09b8\u09be\u09f1\u09be\u09a8"
+    ],
+    "name:eng_x_preferred":[
+        "Sarsawa"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0930\u0938\u093e\u0935\u093e"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u8428\u5c14\u8428\u4e07"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10549765
+        "gn:id":10549765,
+        "ks:id":"KS294B2E161ABC4EB7B075D5181A441416"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c34e13f87320ac7726c145de470b10d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ba1db4e30b2e808bbb43213f0cc74f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1326782843,
-    "wof:lastmodified":1566683797,
+    "wof:lastmodified":1680654666,
     "wof:name":"Sarsawa",
     "wof:parent_id":1108695885,
     "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.5168,
-    24.81553,
-    82.5168,
-    24.81553
+    82.516273,
+    24.813603,
+    82.518441,
+    24.815786
 ],
-  "geometry": {"coordinates":[82.5168,24.81553],"type":"Point"}
+  "geometry": {"coordinates":[[[82.51756899999999,24.815683],[82.517567,24.815503],[82.51766600000001,24.815502],[82.51766499999999,24.815411],[82.517764,24.81541],[82.51776099999999,24.81514],[82.51786,24.815139],[82.517859,24.815048],[82.517957,24.815047],[82.517956,24.814957],[82.518055,24.814956],[82.518052,24.814685],[82.518151,24.814684],[82.51815000000001,24.814594],[82.518249,24.814593],[82.518246,24.814412],[82.518345,24.814411],[82.518342,24.81414],[82.518441,24.814139],[82.51844,24.814049],[82.51834100000001,24.81405],[82.518339,24.81387],[82.51824000000001,24.813871],[82.51823899999999,24.81378],[82.51814,24.813781],[82.51813900000001,24.813691],[82.51794099999999,24.813693],[82.51794,24.813603],[82.517544,24.813607],[82.517545,24.813697],[82.516952,24.813703],[82.516953,24.813793],[82.516755,24.813795],[82.516758,24.814066],[82.516857,24.814065],[82.516858,24.814156],[82.51675899999999,24.814157],[82.51676399999999,24.814518],[82.516665,24.814519],[82.516666,24.814609],[82.516468,24.814611],[82.516469,24.814701],[82.51636999999999,24.814702],[82.51637100000001,24.814792],[82.516273,24.814793],[82.516282,24.815606],[82.516381,24.815605],[82.516384,24.815786],[82.517472,24.815775],[82.517471,24.815684],[82.51756899999999,24.815683]]],"type":"Polygon"}
 }
