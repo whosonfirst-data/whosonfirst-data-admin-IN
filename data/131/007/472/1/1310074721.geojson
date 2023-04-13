@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.81336,21.34912,77.81336,21.34912",
-    "geom:latitude":21.34912,
-    "geom:longitude":77.81336,
+    "geom:bbox":"77.812248,21.34801,77.814135,21.350436",
+    "geom:latitude":21.349153,
+    "geom:longitude":77.813221,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Devinagar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.79336,21.32912,77.83336,21.36912",
+    "ks:ks_alt_nam":"Dev\u012bnagar",
+    "ks:ks_id":"KS7832147CDDE143E09DE4F78B50A0EA18",
+    "ks:ks_name":"Devinagar",
+    "ks:ks_pop":138,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12958689",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_682423",
+    "lbl:latitude":21.349115,
+    "lbl:longitude":77.813203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.349115,
+    "mps:longitude":77.813203,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u064a \u0646\u0627\u062c\u0627\u0631"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Devinagar"
+    ],
+    "name:eng_x_preferred":[
+        "Devinagar"
+    ],
+    "name:eng_x_variant":[
+        "Dev\u012bnagar"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac7\u0ab5\u0ac0\u0aa8\u0a97\u0ab0"
@@ -81,7 +98,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u06cc \u0646\u06af\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10513191
+        "gn:id":10513191,
+        "ks:id":"KS7832147CDDE143E09DE4F78B50A0EA18"
     },
     "wof:country":"IN",
-    "wof:geomhash":"367e5bfcd804cda89e86f13178f3f899",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f1e1610deb4d02ca50bced4df4ad808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1310074721,
-    "wof:lastmodified":1577751622,
+    "wof:lastmodified":1680668377,
     "wof:name":"Devinagar",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.81336,
-    21.34912000000001,
-    77.81336,
-    21.34912000000001
+    77.812248,
+    21.34801,
+    77.814135,
+    21.350436
 ],
-  "geometry": {"coordinates":[77.81336,21.34912000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[77.81386500000001,21.350436],[77.81386500000001,21.350166],[77.81413499999999,21.350166],[77.81413499999999,21.349088],[77.81386500000001,21.349088],[77.81386500000001,21.34828],[77.813326,21.34828],[77.813326,21.34801],[77.812248,21.34801],[77.812248,21.349088],[77.812518,21.349088],[77.812518,21.349627],[77.812787,21.349627],[77.812787,21.349897],[77.813057,21.349897],[77.813057,21.350436],[77.81386500000001,21.350436]]],"type":"Polygon"}
 }

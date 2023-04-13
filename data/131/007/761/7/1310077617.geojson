@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.86677,21.3624,77.86677,21.3624",
-    "geom:latitude":21.3624,
-    "geom:longitude":77.86677,
+    "geom:bbox":"77.86534,21.360641,77.868314,21.363746",
+    "geom:latitude":21.362243,
+    "geom:longitude":77.866873,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Pimpri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.84677,21.3424,77.88677,21.3824",
+    "ks:ks_id":"KS2277CC275D1845D5A8B09FE08F6C4B9D",
+    "ks:ks_name":"Pimpri",
+    "ks:ks_pop":1193,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12958645",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_878738",
+    "lbl:latitude":21.362198,
+    "lbl:longitude":77.866901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.362198,
+    "mps:longitude":77.866901,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0645\u0628\u0631\u064a"
@@ -43,6 +53,9 @@
         "Pimpri"
     ],
     "name:ceb_x_preferred":[
+        "Pimpri"
+    ],
+    "name:eng_x_preferred":[
         "Pimpri"
     ],
     "name:guj_x_preferred":[
@@ -81,7 +94,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0645\u067e\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10513147
+        "gn:id":10513147,
+        "ks:id":"KS2277CC275D1845D5A8B09FE08F6C4B9D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ad5cce85dfd2cd0cbaca6ed7e0916616",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"18aebb1b300e9f3d8c8f10f868fa6512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +127,22 @@
         }
     ],
     "wof:id":1310077617,
-    "wof:lastmodified":1577751622,
+    "wof:lastmodified":1680668375,
     "wof:name":"Pimpri",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":1193,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.86676999999997,
-    21.3624,
-    77.86676999999997,
-    21.3624
+    77.86534,
+    21.360641,
+    77.868314,
+    21.363746
 ],
-  "geometry": {"coordinates":[77.86676999999997,21.3624],"type":"Point"}
+  "geometry": {"coordinates":[[[77.866027,21.363742],[77.86602499999999,21.363652],[77.86747,21.363627],[77.867469,21.363537],[77.867661,21.363534],[77.86766,21.363444],[77.867852,21.36344],[77.86785,21.36335],[77.867947,21.363348],[77.867941,21.363078],[77.868038,21.363076],[77.868033,21.362805],[77.868129,21.362804],[77.86812500000001,21.362623],[77.868222,21.362622],[77.868218,21.362441],[77.868314,21.36244],[77.868297,21.361537],[77.868201,21.361539],[77.868194,21.361178],[77.86809700000001,21.361179],[77.86809,21.360819],[77.867994,21.36082],[77.867992,21.36073],[77.867896,21.360732],[77.86789400000001,21.360641],[77.867412,21.36065],[77.867414,21.36074],[77.867221,21.360743],[77.867223,21.360833],[77.866934,21.360838],[77.866936,21.360928],[77.865973,21.360945],[77.86597399999999,21.361035],[77.865878,21.361037],[77.86588,21.361127],[77.86578299999999,21.361129],[77.865785,21.361219],[77.865689,21.361221],[77.865692,21.361401],[77.865596,21.361403],[77.865622,21.362756],[77.865526,21.362758],[77.86553000000001,21.362938],[77.865433,21.36294],[77.865437,21.363121],[77.86534,21.363122],[77.86534899999999,21.363573],[77.86544600000001,21.363572],[77.865447,21.363662],[77.86583299999999,21.363655],[77.86583400000001,21.363746],[77.866027,21.363742]]],"type":"Polygon"}
 }

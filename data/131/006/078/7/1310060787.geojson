@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.41401,11.43598,79.41401,11.43598",
-    "geom:latitude":11.43598,
-    "geom:longitude":79.41401,
+    "geom:bbox":"79.424716,11.433783,79.42683,11.435498",
+    "geom:latitude":11.434747,
+    "geom:longitude":79.425869,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"617.0",
     "gn:asciiname":"Kavanur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.39401,11.41598,79.43401,11.45598",
+    "ks:ks_alt_nam":"K\u0101van\u016br",
+    "ks:ks_id":"KS2A1D5495255242A8AD67DD29843D8A37",
+    "ks:ks_name":"Kavanur",
+    "ks:ks_pop":3379,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|527886",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_208757",
+    "lbl:latitude":11.434776,
+    "lbl:longitude":79.425957,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.434776,
+    "mps:longitude":79.425957,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0646\u0648\u0631"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Kavanur"
+    ],
+    "name:eng_x_preferred":[
+        "Kavanur"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101van\u016br"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab5\u0aa8\u0ac1\u0ab0"
@@ -72,7 +89,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0627\u0646\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11602311
+        "gn:id":11602311,
+        "ks:id":"KS2A1D5495255242A8AD67DD29843D8A37"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6faddb332dffec1a154461be24fb8f43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7806039f41061476d8ed3f4fe868486",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1310060787,
-    "wof:lastmodified":1577751753,
+    "wof:lastmodified":1680668611,
     "wof:name":"Kavanur",
     "wof:parent_id":890502623,
     "wof:placetype":"locality",
+    "wof:population":3379,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.41401,
-    11.43598,
-    79.41401,
-    11.43598
+    79.424716,
+    11.433783,
+    79.42683,
+    11.435498
 ],
-  "geometry": {"coordinates":[79.41401,11.43598],"type":"Point"}
+  "geometry": {"coordinates":[[[79.425814,11.435498],[79.425814,11.435408],[79.426181,11.43541],[79.426182,11.435229],[79.42627299999999,11.435229],[79.42627400000001,11.435139],[79.426457,11.43514],[79.426458,11.43505],[79.42654899999999,11.43505],[79.42655000000001,11.434869],[79.426642,11.43487],[79.426642,11.434779],[79.426734,11.43478],[79.42673499999999,11.434599],[79.426827,11.434599],[79.42683,11.433967],[79.426739,11.433966],[79.426739,11.433876],[79.42655600000001,11.433875],[79.42655600000001,11.433784],[79.426373,11.433783],[79.426373,11.433874],[79.42618899999999,11.433873],[79.42618899999999,11.433963],[79.426097,11.433963],[79.426096,11.434144],[79.42591299999999,11.434143],[79.425912,11.434233],[79.425821,11.434232],[79.42582,11.434323],[79.42563699999999,11.434322],[79.425636,11.434412],[79.425545,11.434412],[79.425544,11.434502],[79.425453,11.434502],[79.42545200000001,11.434592],[79.425269,11.434591],[79.425268,11.434682],[79.424902,11.43468],[79.424902,11.434589],[79.424719,11.434588],[79.424716,11.435131],[79.424808,11.435131],[79.424807,11.435221],[79.424899,11.435222],[79.424898,11.435312],[79.42498999999999,11.435313],[79.424989,11.435403],[79.425264,11.435405],[79.425264,11.435495],[79.425814,11.435498]]],"type":"Polygon"}
 }

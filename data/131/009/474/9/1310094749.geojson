@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000015,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.7685,21.42674,72.7685,21.42674",
-    "geom:latitude":21.42674,
-    "geom:longitude":72.7685,
+    "geom:bbox":"72.766232,21.424547,72.770813,21.431823",
+    "geom:latitude":21.427734,
+    "geom:longitude":72.768686,
     "gn:admin1_code":"9.0",
     "gn:admin2_code":"492",
     "gn:asciiname":"Koba",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"72.7485,21.40674,72.7885,21.44674",
+    "ks:ks_id":"KS56869E465BFB49DB8484B69243F759E1",
+    "ks:ks_name":"Koba",
+    "ks:ks_pop":939,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|567746",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_483580",
+    "lbl:latitude":21.427389,
+    "lbl:longitude":72.769067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.427389,
+    "mps:longitude":72.769067,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koba"
     ],
     "name:deu_x_preferred":[
+        "Koba"
+    ],
+    "name:eng_x_preferred":[
         "Koba"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Koba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1266447
+        "gn:id":1266447,
+        "ks:id":"KS56869E465BFB49DB8484B69243F759E1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0dd59d52b5ebaba27964a2537f3c0de3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c14bf18626eeb48547e41f280decba8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1310094749,
-    "wof:lastmodified":1566701046,
+    "wof:lastmodified":1680668391,
     "wof:name":"Koba",
     "wof:parent_id":1108696281,
     "wof:placetype":"locality",
+    "wof:population":939,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.7685,
-    21.42674,
-    72.7685,
-    21.42674
+    72.766232,
+    21.424547,
+    72.770813,
+    21.431823
 ],
-  "geometry": {"coordinates":[72.7685,21.42674],"type":"Point"}
+  "geometry": {"coordinates":[[[72.76946599999999,21.430475],[72.76946599999999,21.429936],[72.769735,21.429936],[72.769735,21.429397],[72.770005,21.429397],[72.770005,21.428858],[72.770274,21.428858],[72.770274,21.428589],[72.769735,21.428589],[72.769735,21.42805],[72.770274,21.42805],[72.770274,21.427781],[72.770544,21.427781],[72.770544,21.426703],[72.769735,21.426703],[72.769735,21.426164],[72.76946599999999,21.426164],[72.76946599999999,21.425894],[72.769735,21.425894],[72.769735,21.425355],[72.76919599999999,21.425355],[72.76919599999999,21.424816],[72.76892700000001,21.424816],[72.76892700000001,21.424547],[72.768657,21.424547],[72.768657,21.425086],[72.767579,21.425086],[72.767579,21.425625],[72.76677100000001,21.425625],[72.76677100000001,21.426164],[72.76650100000001,21.426164],[72.76650100000001,21.426703],[72.766232,21.426703],[72.766232,21.42805],[72.76703999999999,21.42805],[72.76703999999999,21.427511],[72.768118,21.427511],[72.768118,21.428858],[72.767579,21.428858],[72.767579,21.429667],[72.76892700000001,21.429667],[72.76892700000001,21.429128],[72.76919599999999,21.429128],[72.76919599999999,21.431553],[72.770274,21.431553],[72.770274,21.431823],[72.770813,21.431823],[72.770813,21.431014],[72.770544,21.431014],[72.770544,21.430475],[72.76946599999999,21.430475]]],"type":"Polygon"}
 }
