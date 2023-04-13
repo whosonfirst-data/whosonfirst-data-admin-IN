@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.39226,27.01303,79.39226,27.01303",
-    "geom:latitude":27.01303,
-    "geom:longitude":79.39226,
+    "geom:bbox":"79.391489,27.01155,79.393003,27.013275",
+    "geom:latitude":27.012518,
+    "geom:longitude":79.392257,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Sadarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.37226,26.99303,79.41226,27.03303",
+    "ks:ks_id":"KSC6C68126F1324CE0A6615937E444C075",
+    "ks:ks_name":"Sadarpur",
+    "ks:ks_pop":326,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|931637",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1743551",
+    "lbl:latitude":27.012584,
+    "lbl:longitude":79.392257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.012584,
+    "mps:longitude":79.392257,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062f\u0627\u0631 \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09a6\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sadarpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aa6\u0ab0\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0635\u062f\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6994247
+        "gn:id":6994247,
+        "ks:id":"KSC6C68126F1324CE0A6615937E444C075"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c5d93b7988625c0a50d361ac3b6d4f51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10ac4dc737959633f35f6a38ab1bfd8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293428743,
-    "wof:lastmodified":1577750322,
+    "wof:lastmodified":1680658859,
     "wof:name":"Sadarpur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39226,
-    27.01303,
-    79.39226,
-    27.01303
+    79.391489,
+    27.01155,
+    79.393003,
+    27.013275
 ],
-  "geometry": {"coordinates":[79.39225999999999,27.01303],"type":"Point"}
+  "geometry": {"coordinates":[[[79.392791,27.013275],[79.392793,27.013185],[79.392893,27.013186],[79.392895,27.013096],[79.392996,27.013097],[79.39300299999999,27.012555],[79.39290200000001,27.012554],[79.392906,27.012283],[79.39280599999999,27.012282],[79.392807,27.012192],[79.392706,27.012191],[79.392709,27.01201],[79.392608,27.012009],[79.39260899999999,27.011919],[79.39250800000001,27.011918],[79.39251,27.011827],[79.392409,27.011826],[79.392411,27.011646],[79.39231100000001,27.011645],[79.392312,27.011554],[79.391909,27.01155],[79.391908,27.01164],[79.391807,27.011639],[79.391802,27.012],[79.391701,27.011999],[79.391696,27.01236],[79.391595,27.012359],[79.39159100000001,27.012629],[79.391491,27.012628],[79.39148900000001,27.012718],[79.39158999999999,27.01272],[79.39158500000001,27.013081],[79.391786,27.013083],[79.391785,27.013173],[79.391987,27.013175],[79.39198500000001,27.013266],[79.392791,27.013275]]],"type":"Polygon"}
 }

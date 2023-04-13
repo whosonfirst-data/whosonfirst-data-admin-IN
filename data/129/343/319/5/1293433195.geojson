@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.12954,25.81342,82.12954,25.81342",
-    "geom:latitude":25.81342,
-    "geom:longitude":82.12954,
+    "geom:bbox":"82.12916,25.81228,82.13066,25.813995",
+    "geom:latitude":25.813172,
+    "geom:longitude":82.129844,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Bansi",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.10954,25.79342,82.14954,25.83342",
+    "ks:ks_alt_nam":"B\u0101nsi",
+    "ks:ks_id":"KS0970B185968E4816815E119241D55F58",
+    "ks:ks_name":"Bansi",
+    "ks:ks_pop":454,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12988741",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1923050",
+    "lbl:latitude":25.813227,
+    "lbl:longitude":82.129858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.813227,
+    "mps:longitude":82.129858,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09a8\u09b8\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "B\u0101nsi"
+    ],
+    "name:eng_x_preferred":[
+        "Bansi"
+    ],
+    "name:eng_x_variant":[
         "B\u0101nsi"
     ],
     "name:hin_x_preferred":[
@@ -66,7 +83,13 @@
     "name:vie_x_preferred":[
         "Bansi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10538303
+        "gn:id":10538303,
+        "ks:id":"KS0970B185968E4816815E119241D55F58"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0dc56d39679af56d4e511bdca76f41a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d1f6e544c484fabeea3b6a2986c6df6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1293433195,
-    "wof:lastmodified":1566691821,
+    "wof:lastmodified":1680659193,
     "wof:name":"Bansi",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":454,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.12954,
-    25.81342,
-    82.12954,
-    25.81342
+    82.12916,
+    25.81228,
+    82.13066,
+    25.813995
 ],
-  "geometry": {"coordinates":[82.12954000000001,25.81342],"type":"Point"}
+  "geometry": {"coordinates":[[[82.13007,25.813993],[82.13006900000001,25.813903],[82.130268,25.813901],[82.130268,25.813811],[82.13036700000001,25.81381],[82.130365,25.813539],[82.130465,25.813539],[82.130464,25.813448],[82.130563,25.813448],[82.13056,25.813086],[82.13066000000001,25.813086],[82.13065899999999,25.812995],[82.13055900000001,25.812996],[82.13055799999999,25.812906],[82.130459,25.812907],[82.130458,25.812816],[82.130358,25.812817],[82.130357,25.812727],[82.13015799999999,25.812728],[82.130157,25.812638],[82.13005699999999,25.812639],[82.130056,25.812549],[82.12995600000001,25.812549],[82.12995600000001,25.812459],[82.129856,25.81246],[82.12985500000001,25.81237],[82.129755,25.81237],[82.12975400000001,25.81228],[82.129555,25.812282],[82.12955599999999,25.812372],[82.129456,25.812373],[82.129457,25.812463],[82.129357,25.812464],[82.129358,25.812554],[82.12925799999999,25.812555],[82.12926,25.812735],[82.12916,25.812736],[82.129164,25.813097],[82.12926299999999,25.813097],[82.129268,25.813638],[82.129368,25.813637],[82.129369,25.813728],[82.129469,25.813727],[82.12947,25.813817],[82.129569,25.813816],[82.12957,25.813907],[82.12976999999999,25.813905],[82.12977100000001,25.813995],[82.13007,25.813993]]],"type":"Polygon"}
 }

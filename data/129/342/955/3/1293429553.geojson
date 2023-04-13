@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.17132,25.9237,81.17132,25.9237",
-    "geom:latitude":25.9237,
-    "geom:longitude":81.17132,
+    "geom:bbox":"81.170526,25.922762,81.172323,25.924298",
+    "geom:latitude":25.923597,
+    "geom:longitude":81.171412,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"172.0",
     "gn:asciiname":"Jagatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.15132,25.9037,81.19132,25.9437",
+    "ks:ks_id":"KS8809380AB22B443C872429DB0870641D",
+    "ks:ks_name":"Jagatpur",
+    "ks:ks_pop":210,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|440370",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1855485",
+    "lbl:latitude":25.923626,
+    "lbl:longitude":81.171429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.923626,
+    "mps:longitude":81.171429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u062c\u062a\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u099c\u0997\u09ce\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Jagatpur"
+    ],
+    "name:eng_x_preferred":[
         "Jagatpur"
     ],
     "name:guj_x_preferred":[
@@ -75,7 +88,13 @@
     "name:urd_x_preferred":[
         "\u062c\u06af\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10578378
+        "gn:id":10578378,
+        "ks:id":"KS8809380AB22B443C872429DB0870641D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e3102209a3630bdbad57d74f5d7ca839",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9a77f4c83c314911f658a84989769dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +121,22 @@
         }
     ],
     "wof:id":1293429553,
-    "wof:lastmodified":1577750322,
+    "wof:lastmodified":1680658858,
     "wof:name":"Jagatpur",
     "wof:parent_id":1108695837,
     "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.17132,
-    25.9237,
-    81.17132,
-    25.9237
+    81.170526,
+    25.922762,
+    81.172323,
+    25.924298
 ],
-  "geometry": {"coordinates":[81.17131999999999,25.9237],"type":"Point"}
+  "geometry": {"coordinates":[[[81.17162500000001,25.924297],[81.17162500000001,25.924207],[81.171725,25.924207],[81.171725,25.924116],[81.171825,25.924116],[81.171824,25.924026],[81.171924,25.924026],[81.171924,25.923935],[81.17202399999999,25.923935],[81.17202399999999,25.923845],[81.172124,25.923845],[81.172124,25.923755],[81.172224,25.923754],[81.172223,25.923664],[81.17232300000001,25.923664],[81.17232300000001,25.923483],[81.172223,25.923484],[81.172223,25.923213],[81.172123,25.923213],[81.172123,25.923032],[81.172023,25.923032],[81.172023,25.922942],[81.17192300000001,25.922942],[81.17192300000001,25.922852],[81.171823,25.922852],[81.171823,25.922762],[81.17152299999999,25.922762],[81.17152299999999,25.922852],[81.171423,25.922852],[81.171423,25.922943],[81.171324,25.922943],[81.171324,25.923033],[81.171224,25.923033],[81.171224,25.923124],[81.171024,25.923124],[81.171024,25.923214],[81.170925,25.923214],[81.170925,25.923305],[81.170725,25.923305],[81.170725,25.923395],[81.170625,25.923395],[81.170625,25.923485],[81.170526,25.923486],[81.170526,25.924027],[81.170626,25.924027],[81.170626,25.924118],[81.170726,25.924117],[81.170726,25.924208],[81.17092599999999,25.924208],[81.17092599999999,25.924298],[81.17162500000001,25.924297]]],"type":"Polygon"}
 }

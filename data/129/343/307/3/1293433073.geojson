@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.52859,27.44258,78.52859,27.44258",
-    "geom:latitude":27.44258,
-    "geom:longitude":78.52859,
+    "geom:bbox":"78.527822,27.441374,78.529676,27.444",
+    "geom:latitude":27.442669,
+    "geom:longitude":78.528765,
     "gn:admin1_code":"36",
     "gn:admin2_code":"147.0",
     "gn:asciiname":"Jaitpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.50859,27.42258,78.54859,27.46258",
+    "ks:ks_id":"KS0E66E7815D0F4FCA8CBD12D3744B3CD5",
+    "ks:ks_name":"Jaitpur",
+    "ks:ks_pop":1060,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|443733",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1753418",
+    "lbl:latitude":27.442672,
+    "lbl:longitude":78.528654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.442672,
+    "mps:longitude":78.528654,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u064a\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099c\u09be\u0987\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Jaitpur"
     ],
     "name:fra_x_preferred":[
         "Jaitpur"
@@ -72,7 +85,13 @@
     "name:urd_x_variant":[
         "\u062c\u06cc\u062a\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10488334
+        "gn:id":10488334,
+        "ks:id":"KS0E66E7815D0F4FCA8CBD12D3744B3CD5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d2f9e2a6c429c4c1e575115373e1ec45",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b73aafda235df1328d8a4a4ed836e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1293433073,
-    "wof:lastmodified":1577750367,
+    "wof:lastmodified":1680659141,
     "wof:name":"Jaitpur",
     "wof:parent_id":890511079,
     "wof:placetype":"locality",
+    "wof:population":1060,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.52859000000002,
-    27.44258,
-    78.52859000000002,
-    27.44258
+    78.527822,
+    27.441374,
+    78.529676,
+    27.444
 ],
-  "geometry": {"coordinates":[78.52859000000002,27.44258],"type":"Point"}
+  "geometry": {"coordinates":[[[78.52931599999999,27.444],[78.529318,27.44391],[78.529419,27.443912],[78.529425,27.443641],[78.529526,27.443643],[78.529538,27.443102],[78.529437,27.4431],[78.529453,27.442378],[78.529554,27.44238],[78.52956,27.44211],[78.529662,27.442111],[78.52967599999999,27.44148],[78.529574,27.441478],[78.529577,27.441388],[78.528768,27.441374],[78.528766,27.441464],[78.528564,27.44146],[78.52856199999999,27.44155],[78.52835899999999,27.441547],[78.528357,27.441637],[78.528256,27.441635],[78.528254,27.441725],[78.528153,27.441724],[78.52815099999999,27.441814],[78.52804999999999,27.441812],[78.528048,27.441902],[78.527947,27.4419],[78.52794299999999,27.442081],[78.52784200000001,27.442079],[78.527822,27.442981],[78.527923,27.442983],[78.52791499999999,27.443344],[78.52801599999999,27.443345],[78.52800999999999,27.443616],[78.528111,27.443618],[78.52810700000001,27.443798],[78.52830899999999,27.443802],[78.528307,27.443892],[78.528509,27.443895],[78.528507,27.443986],[78.52931599999999,27.444]]],"type":"Polygon"}
 }
