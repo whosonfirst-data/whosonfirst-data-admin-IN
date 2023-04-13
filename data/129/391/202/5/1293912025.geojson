@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.20998,29.51556,79.20998,29.51556",
-    "geom:latitude":29.51556,
-    "geom:longitude":79.20998,
+    "geom:bbox":"79.205206,29.515034,79.206338,29.515946",
+    "geom:latitude":29.515509,
+    "geom:longitude":79.205757,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"66.0",
     "gn:asciiname":"Okhaldhunga",
@@ -24,12 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.18998,29.49556,79.22998,29.53556",
+    "ks:ks_id":"KS1315FB2B85D1438086687CD1146A7B0E",
+    "ks:ks_name":"Okhal Dhunga",
+    "ks:ks_pop":683,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|794526",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1834694",
+    "lbl:latitude":29.515504,
+    "lbl:longitude":79.205768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.515504,
+    "mps:longitude":79.205768,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Okhal Dhunga"
+    ],
+    "name:eng_x_variant":[
+        "Okhaldhunga"
+    ],
     "name:fra_x_preferred":[
         "Okhaldhunga"
     ],
@@ -54,7 +70,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0648\u06a9\u06be\u0627\u0644\u062f\u06be\u0648\u0646\u06af\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10804234
+        "gn:id":10804234,
+        "ks:id":"KS1315FB2B85D1438086687CD1146A7B0E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1a21263f48d7013b58e47f456cd81e4a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6b6f119e9468ae79f056f77f848c8a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1293912025,
-    "wof:lastmodified":1566689078,
-    "wof:name":"Okhaldhunga",
+    "wof:lastmodified":1680657409,
+    "wof:name":"Okhal Dhunga",
     "wof:parent_id":890504093,
     "wof:placetype":"locality",
+    "wof:population":683,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.20998,
-    29.51556,
-    79.20998,
-    29.51556
+    79.205206,
+    29.515034,
+    79.206338,
+    29.515946
 ],
-  "geometry": {"coordinates":[79.20998,29.51556],"type":"Point"}
+  "geometry": {"coordinates":[[[79.206023,29.515946],[79.206025,29.515855],[79.206231,29.515858],[79.206233,29.515768],[79.20633599999999,29.515769],[79.206338,29.515679],[79.20623399999999,29.515678],[79.206238,29.515497],[79.20613400000001,29.515496],[79.20613899999999,29.515225],[79.206036,29.515224],[79.20603800000001,29.515134],[79.20541900000001,29.515125],[79.205421,29.515035],[79.20531699999999,29.515034],[79.205313,29.515304],[79.205209,29.515303],[79.205206,29.515483],[79.205309,29.515485],[79.205308,29.515575],[79.205411,29.515576],[79.20540800000001,29.515757],[79.205511,29.515758],[79.20550900000001,29.515848],[79.205612,29.51585],[79.205611,29.51594],[79.206023,29.515946]]],"type":"Polygon"}
 }
