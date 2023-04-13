@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.33416,31.42056,75.33416,31.42056",
-    "geom:latitude":31.42056,
-    "geom:longitude":75.33416,
+    "geom:bbox":"75.332226,31.418587,75.334754,31.420936",
+    "geom:latitude":31.419818,
+    "geom:longitude":75.333381,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"36.0",
     "gn:asciiname":"Khanqah",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.31416,31.40056,75.35416,31.44056",
+    "ks:ks_alt_nam":"Kh\u0101nq\u0101h",
+    "ks:ks_id":"KS7B31F1BE581B407F8FAC50BDA4C4507D",
+    "ks:ks_name":"Khanqah",
+    "ks:ks_pop":461,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13135518",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2680271",
+    "lbl:latitude":31.419833,
+    "lbl:longitude":75.333357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.419833,
+    "mps:longitude":75.333357,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646\u0642\u0627\u0647"
@@ -47,6 +58,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03ba\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Khanqah"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101nq\u0101h"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u06af\u0627\u0647"
@@ -123,7 +140,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u7d0d\u5361"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10701396
+        "gn:id":10701396,
+        "ks:id":"KS7B31F1BE581B407F8FAC50BDA4C4507D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fe583acf1f6c61c4ae5d22c4457de8a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a769500abbabf2d0c275e56ba0a499f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +173,22 @@
         }
     ],
     "wof:id":1293647447,
-    "wof:lastmodified":1566689655,
+    "wof:lastmodified":1680657765,
     "wof:name":"Khanqah",
     "wof:parent_id":890510955,
     "wof:placetype":"locality",
+    "wof:population":461,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.33416,
-    31.42056,
-    75.33416,
-    31.42056
+    75.332226,
+    31.418587,
+    75.334754,
+    31.420936
 ],
-  "geometry": {"coordinates":[75.33416,31.42056],"type":"Point"}
+  "geometry": {"coordinates":[[[75.333811,31.420932],[75.333811,31.420842],[75.334126,31.420841],[75.334126,31.420751],[75.334231,31.420751],[75.334231,31.42066],[75.33433599999999,31.42066],[75.33433599999999,31.42057],[75.334441,31.42057],[75.334441,31.420479],[75.334546,31.420479],[75.33454500000001,31.420209],[75.33465,31.420208],[75.334649,31.419938],[75.334754,31.419937],[75.334754,31.419847],[75.334649,31.419847],[75.334647,31.419486],[75.334542,31.419487],[75.334542,31.419306],[75.334436,31.419307],[75.334435,31.419036],[75.33432999999999,31.419036],[75.33432999999999,31.418946],[75.334225,31.418946],[75.33422400000001,31.418856],[75.334119,31.418856],[75.334119,31.418766],[75.33390799999999,31.418767],[75.33390799999999,31.418676],[75.33359299999999,31.418677],[75.333592,31.418587],[75.333066,31.418588],[75.333066,31.418679],[75.33285600000001,31.418679],[75.33285600000001,31.418769],[75.332646,31.41877],[75.332646,31.41886],[75.33254100000001,31.41886],[75.33254100000001,31.418951],[75.332436,31.418951],[75.332436,31.419041],[75.332331,31.419041],[75.33233199999999,31.419132],[75.33222600000001,31.419132],[75.332232,31.420666],[75.332337,31.420665],[75.33233799999999,31.420846],[75.332443,31.420846],[75.332443,31.420936],[75.333811,31.420932]]],"type":"Polygon"}
 }
