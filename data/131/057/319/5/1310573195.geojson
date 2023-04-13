@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.1349,21.04156,78.1349,21.04156",
-    "geom:latitude":21.04156,
-    "geom:longitude":78.1349,
+    "geom:bbox":"78.134453,21.040417,78.135914,21.041951",
+    "geom:latitude":21.041226,
+    "geom:longitude":78.135217,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Umarkhed",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.1149,21.02156,78.1549,21.06156",
+    "ks:ks_id":"KS82C6C80690CA4A7A96ED2B67A43D9D25",
+    "ks:ks_name":"Umarkhed",
+    "ks:ks_pop":400,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12661285",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_875601",
+    "lbl:latitude":21.041269,
+    "lbl:longitude":78.13523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.041269,
+    "mps:longitude":78.13523,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u09ae\u09b0\u0996\u09c7\u09a6"
@@ -37,6 +47,9 @@
         "\u0989\u09ae\u09b0\u0996\u09c7\u09a6"
     ],
     "name:ceb_x_preferred":[
+        "Umarkhed"
+    ],
+    "name:eng_x_preferred":[
         "Umarkhed"
     ],
     "name:hif_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u4e4c\u9a6c\u5c14\u51ef\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10212955
+        "gn:id":10212955,
+        "ks:id":"KS82C6C80690CA4A7A96ED2B67A43D9D25"
     },
     "wof:country":"IN",
-    "wof:geomhash":"394565372d0a7bf834c2c24669f3ebbe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fbd8fe449bb3b4d97f4722bf6782f51f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1310573195,
-    "wof:lastmodified":1566702073,
+    "wof:lastmodified":1680669016,
     "wof:name":"Umarkhed",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.1349,
-    21.04156,
-    78.1349,
-    21.04156
+    78.134453,
+    21.040417,
+    78.135914,
+    21.041951
 ],
-  "geometry": {"coordinates":[78.1349,21.04156],"type":"Point"}
+  "geometry": {"coordinates":[[[78.135311,21.041951],[78.135313,21.041861],[78.13560099999999,21.041866],[78.135603,21.041776],[78.135699,21.041777],[78.135701,21.041687],[78.135797,21.041689],[78.135806,21.041237],[78.135902,21.041239],[78.135914,21.040607],[78.135818,21.040606],[78.135819,21.040515],[78.135723,21.040514],[78.13572499999999,21.040424],[78.13534,21.040417],[78.135339,21.040507],[78.13514600000001,21.040504],[78.13514499999999,21.040594],[78.135049,21.040593],[78.135047,21.040683],[78.134951,21.040681],[78.13494900000001,21.040772],[78.13475699999999,21.040768],[78.134755,21.040859],[78.134659,21.040857],[78.134657,21.040947],[78.13456100000001,21.040946],[78.134558,21.041126],[78.134462,21.041124],[78.13445299999999,21.041576],[78.13454900000001,21.041577],[78.13454400000001,21.041848],[78.13464,21.04185],[78.134638,21.04194],[78.135311,21.041951]]],"type":"Polygon"}
 }

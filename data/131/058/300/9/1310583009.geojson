@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.48924,20.3649,79.48924,20.3649",
-    "geom:latitude":20.3649,
-    "geom:longitude":79.48924,
+    "geom:bbox":"79.488505,20.364085,79.49093,20.365702",
+    "geom:latitude":20.364901,
+    "geom:longitude":79.489611,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Sarandi",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.46924,20.3449,79.50924,20.3849",
+    "ks:ks_id":"KS8E4945364DDB4F768C37482B5EA14752",
+    "ks:ks_name":"Sarandi",
+    "ks:ks_pop":329,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|955857",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_648417",
+    "lbl:latitude":20.364825,
+    "lbl:longitude":79.489513,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.364825,
+    "mps:longitude":79.489513,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Sarandi"
+    ],
+    "name:eng_x_preferred":[
         "Sarandi"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +82,13 @@
     "name:vol_x_preferred":[
         "Sarandi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519695
+        "gn:id":10519695,
+        "ks:id":"KS8E4945364DDB4F768C37482B5EA14752"
     },
     "wof:country":"IN",
-    "wof:geomhash":"946a72c241c3dba84bd63bdb134090a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"329c07e92543b9b895019612b1b30821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1310583009,
-    "wof:lastmodified":1566702358,
+    "wof:lastmodified":1680669187,
     "wof:name":"Sarandi",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.48924,
-    20.3649,
-    79.48924,
-    20.3649
+    79.488505,
+    20.364085,
+    79.49093,
+    20.365702
 ],
-  "geometry": {"coordinates":[79.48924,20.3649],"type":"Point"}
+  "geometry": {"coordinates":[[[79.49093000000001,20.365702],[79.49093000000001,20.365163],[79.490661,20.365163],[79.490661,20.364894],[79.490391,20.364894],[79.490391,20.364624],[79.490122,20.364624],[79.490122,20.364085],[79.48877400000001,20.364085],[79.48877400000001,20.364355],[79.488505,20.364355],[79.488505,20.365163],[79.48877400000001,20.365163],[79.48877400000001,20.365433],[79.489313,20.365433],[79.489313,20.365702],[79.489852,20.365702],[79.489852,20.365433],[79.490391,20.365433],[79.490391,20.365702],[79.49093000000001,20.365702]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.22996,29.9996,77.22996,29.9996",
-    "geom:latitude":29.9996,
-    "geom:longitude":77.22996,
+    "geom:bbox":"77.227622,29.99932,77.229387,30.000504",
+    "geom:latitude":29.999868,
+    "geom:longitude":77.228432,
     "gn:admin1_code":"10.0",
     "gn:admin2_code":"071",
     "gn:asciiname":"Majri",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.20996,29.9796,77.24996,30.0196",
+    "ks:ks_alt_nam":"M\u0101jri",
+    "ks:ks_id":"KSCAD30C8C57314805AB08EC26F7962477",
+    "ks:ks_name":"Majri",
+    "ks:ks_source_id":"N|6224105",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1799723",
+    "lbl:latitude":29.999869,
+    "lbl:longitude":77.228415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.999869,
+    "mps:longitude":77.228415,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u0631\u064a"
@@ -38,6 +47,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09be\u099c\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Majri"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101jri"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9c\u0ab0\u0ac0"
@@ -66,7 +81,11 @@
     "name:urd_x_preferred":[
         "\u0645\u062c\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1441313
+        "gn:id":1441313,
+        "ks:id":"KSCAD30C8C57314805AB08EC26F7962477"
     },
     "wof:country":"IN",
-    "wof:geomhash":"53dc8c327b615c392333de0e913cf2a0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9663f7ae3410029a7b5b77db9529e96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +112,7 @@
         }
     ],
     "wof:id":1310579781,
-    "wof:lastmodified":1577751973,
+    "wof:lastmodified":1680669009,
     "wof:name":"Majri",
     "wof:parent_id":890509063,
     "wof:placetype":"locality",
@@ -99,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    77.22995999999998,
-    29.9996,
-    77.22995999999998,
-    29.9996
+    77.227622,
+    29.99932,
+    77.229387,
+    30.000504
 ],
-  "geometry": {"coordinates":[77.22995999999998,29.9996],"type":"Point"}
+  "geometry": {"coordinates":[[[77.228365,30.000501],[77.228363,30.000411],[77.228674,30.000406],[77.228672,30.000315],[77.22887900000001,30.000312],[77.228877,30.000222],[77.228981,30.00022],[77.228979,30.00013],[77.22908200000001,30.000128],[77.22908,30.000038],[77.229184,30.000036],[77.22918199999999,29.999946],[77.229285,29.999944],[77.229283,29.999854],[77.229387,29.999852],[77.229383,29.999672],[77.22927900000001,29.999674],[77.229277,29.999583],[77.229174,29.999585],[77.22917200000001,29.999495],[77.229068,29.999497],[77.229066,29.999407],[77.228859,29.99941],[77.228857,29.99932],[77.228132,29.999332],[77.228134,29.999422],[77.227823,29.999428],[77.227825,29.999518],[77.227721,29.99952],[77.22772500000001,29.9997],[77.227622,29.999702],[77.22763,30.000062],[77.227733,30.000061],[77.227739,30.000331],[77.22784299999999,30.000329],[77.227845,30.00042],[77.228156,30.000414],[77.22815799999999,30.000504],[77.228365,30.000501]]],"type":"Polygon"}
 }
