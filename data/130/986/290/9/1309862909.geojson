@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.36969,11.62663,79.36969,11.62663",
-    "geom:latitude":11.62663,
-    "geom:longitude":79.36969,
+    "geom:bbox":"79.36872,11.62513,79.37074,11.627843",
+    "geom:latitude":11.626487,
+    "geom:longitude":79.369978,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"617.0",
     "gn:asciiname":"Ramanathapuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.34969,11.60663,79.38969,11.64663",
+    "ks:ks_id":"KSAF0429560F9D400EA87A1C4426D585E4",
+    "ks:ks_name":"Ramanathapuram",
+    "ks:ks_pop":1364,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|899895",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_220160",
+    "lbl:latitude":11.626254,
+    "lbl:longitude":79.369962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.626254,
+    "mps:longitude":79.369962,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0627\u0646\u062a\u0628\u0648\u0631\u0645"
@@ -49,6 +59,9 @@
         "Ramanathapuram"
     ],
     "name:deu_x_preferred":[
+        "Ramanathapuram"
+    ],
+    "name:eng_x_preferred":[
         "Ramanathapuram"
     ],
     "name:fra_x_preferred":[
@@ -135,7 +148,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u9a6c\u7eb3\u5854\u666e\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -144,10 +163,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11601570
+        "gn:id":11601570,
+        "ks:id":"KSAF0429560F9D400EA87A1C4426D585E4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a2010ac097ef363f19272cd62f87615",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"572fd392db1110ebc55644247c14d86b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,20 +181,22 @@
         }
     ],
     "wof:id":1309862909,
-    "wof:lastmodified":1577752569,
+    "wof:lastmodified":1680670336,
     "wof:name":"Ramanathapuram",
     "wof:parent_id":890502623,
     "wof:placetype":"locality",
+    "wof:population":1364,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.36969,
-    11.62663,
-    79.36969,
-    11.62663
+    79.36872,
+    11.62513,
+    79.37074,
+    11.627843
 ],
-  "geometry": {"coordinates":[79.36969000000001,11.62663],"type":"Point"}
+  "geometry": {"coordinates":[[[79.370361,11.627843],[79.370361,11.627753],[79.37054500000001,11.627754],[79.37054500000001,11.627664],[79.370637,11.627664],[79.37063999999999,11.627122],[79.370548,11.627121],[79.370552,11.626579],[79.370643,11.626579],[79.370645,11.626308],[79.37073700000001,11.626309],[79.37074,11.625766],[79.370648,11.625766],[79.370651,11.625314],[79.370559,11.625313],[79.370559,11.625223],[79.370468,11.625222],[79.370468,11.625132],[79.370102,11.62513],[79.37009999999999,11.625401],[79.370008,11.625401],[79.370008,11.625491],[79.369916,11.62549],[79.36991500000001,11.625581],[79.36964,11.625579],[79.36964,11.62567],[79.36927300000001,11.625668],[79.36927300000001,11.625758],[79.369089,11.625757],[79.369089,11.625847],[79.368905,11.625846],[79.368905,11.625937],[79.368813,11.625936],[79.36881200000001,11.626027],[79.36872099999999,11.626026],[79.36872,11.626117],[79.36881200000001,11.626117],[79.36881099999999,11.626207],[79.36917800000001,11.62621],[79.36917800000001,11.6263],[79.369269,11.6263],[79.36926800000001,11.626572],[79.369359,11.626572],[79.36935699999999,11.626934],[79.369449,11.626934],[79.369446,11.627386],[79.36953800000001,11.627387],[79.36953699999999,11.627658],[79.36962800000001,11.627659],[79.36962800000001,11.627749],[79.370086,11.627752],[79.370086,11.627842],[79.370361,11.627843]]],"type":"Polygon"}
 }

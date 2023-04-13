@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000009,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.08052,28.80397,79.08052,28.80397",
-    "geom:latitude":28.80397,
-    "geom:longitude":79.08052,
+    "geom:bbox":"79.078065,28.800883,79.082376,28.804656",
+    "geom:latitude":28.802614,
+    "geom:longitude":79.080086,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"136.0",
     "gn:asciiname":"Indri",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.06052,28.78397,79.10052,28.82397",
+    "ks:ks_alt_nam":"Indr\u012b",
+    "ks:ks_id":"KS0A02D940789B42DB8A460355DB7DB90F",
+    "ks:ks_name":"Indri",
+    "ks:ks_pop":1587,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|433762",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_937930",
+    "lbl:latitude":28.802451,
+    "lbl:longitude":79.079726,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.802451,
+    "mps:longitude":79.079726,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u062f\u0631\u064a \u0634\u0627\u0626\u0639"
@@ -65,6 +76,12 @@
     ],
     "name:ell_x_preferred":[
         "\u038a\u03bd\u03c4\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Indri"
+    ],
+    "name:eng_x_variant":[
+        "Indr\u012b"
     ],
     "name:est_x_preferred":[
         "Indri"
@@ -171,7 +188,13 @@
     "name:zho_x_preferred":[
         "\u5927\u72d0\u7334"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -180,10 +203,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10329926
+        "gn:id":10329926,
+        "ks:id":"KS0A02D940789B42DB8A460355DB7DB90F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"efebede4ba11cfd275f937094c463a7b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"90ad375519e34eb912da80939b87ea34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,20 +221,22 @@
         }
     ],
     "wof:id":1309845539,
-    "wof:lastmodified":1566704234,
+    "wof:lastmodified":1680669916,
     "wof:name":"Indri",
     "wof:parent_id":890508875,
     "wof:placetype":"locality",
+    "wof:population":1587,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.08051999999998,
-    28.80397,
-    79.08051999999998,
-    28.80397
+    79.078065,
+    28.800883,
+    79.082376,
+    28.804656
 ],
-  "geometry": {"coordinates":[79.08051999999998,28.80397],"type":"Point"}
+  "geometry": {"coordinates":[[[79.08022099999999,28.804656],[79.08022099999999,28.803039],[79.08049,28.803039],[79.08049,28.802769],[79.081838,28.802769],[79.081838,28.8025],[79.08210699999999,28.8025],[79.08210699999999,28.801961],[79.082376,28.801961],[79.082376,28.801152],[79.08210699999999,28.801152],[79.08210699999999,28.800883],[79.08022099999999,28.800883],[79.08022099999999,28.801422],[79.079412,28.801422],[79.079412,28.801691],[79.079143,28.801691],[79.079143,28.801961],[79.078604,28.801961],[79.078604,28.80223],[79.078334,28.80223],[79.078334,28.803039],[79.078065,28.803039],[79.078065,28.803308],[79.078334,28.803308],[79.078334,28.804386],[79.078604,28.804386],[79.078604,28.804656],[79.08022099999999,28.804656]]],"type":"Polygon"}
 }

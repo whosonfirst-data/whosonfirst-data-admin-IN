@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.99688,26.7528,79.99688,26.7528",
-    "geom:latitude":26.7528,
-    "geom:longitude":79.99688,
+    "geom:bbox":"79.996088,26.751738,79.998303,26.753545",
+    "geom:latitude":26.752735,
+    "geom:longitude":79.997129,
     "gn:admin1_code":"36",
     "gn:admin2_code":"164.0",
     "gn:asciiname":"Karauli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.97688,26.7328,80.01688,26.7728",
+    "ks:ks_id":"KS6E79C504273A4D4F94A3F272EFEE1C5F",
+    "ks:ks_name":"Kurauli",
+    "ks:ks_pop":436,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|603556",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1879811",
+    "lbl:latitude":26.752724,
+    "lbl:longitude":79.997129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.752724,
+    "mps:longitude":79.997129,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0648\u0644\u064a"
@@ -52,6 +62,12 @@
         "Karauli"
     ],
     "name:deu_x_preferred":[
+        "Karauli"
+    ],
+    "name:eng_x_preferred":[
+        "Kurauli"
+    ],
+    "name:eng_x_variant":[
         "Karauli"
     ],
     "name:fra_x_preferred":[
@@ -120,7 +136,13 @@
     "name:zho_x_preferred":[
         "\u5361\u52b3\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -129,10 +151,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10487658
+        "gn:id":10487658,
+        "ks:id":"KS6E79C504273A4D4F94A3F272EFEE1C5F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bc1bd316d6fda6a8c118d1f87762e807",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"79d3e02991380c846bf53021590f9361",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,20 +169,22 @@
         }
     ],
     "wof:id":1309849739,
-    "wof:lastmodified":1577752421,
-    "wof:name":"Karauli",
+    "wof:lastmodified":1680669934,
+    "wof:name":"Kurauli",
     "wof:parent_id":890504051,
     "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.99688,
-    26.7528,
-    79.99688,
-    26.7528
+    79.996088,
+    26.751738,
+    79.998303,
+    26.753545
 ],
-  "geometry": {"coordinates":[79.99688,26.7528],"type":"Point"}
+  "geometry": {"coordinates":[[[79.99708800000001,26.753545],[79.997089,26.753455],[79.997793,26.75346],[79.997794,26.75337],[79.997995,26.753371],[79.997995,26.753281],[79.998096,26.753282],[79.998097,26.753191],[79.998197,26.753192],[79.998199,26.753011],[79.9983,26.753012],[79.99830300000001,26.752651],[79.99820200000001,26.75265],[79.998203,26.75256],[79.998102,26.752559],[79.998103,26.752469],[79.998003,26.752468],[79.998003,26.752378],[79.99790299999999,26.752377],[79.99790400000001,26.752287],[79.997803,26.752286],[79.997804,26.752196],[79.997703,26.752195],[79.997704,26.752105],[79.997604,26.752104],[79.997604,26.752014],[79.99750400000001,26.752013],[79.997505,26.751923],[79.997404,26.751922],[79.997405,26.751832],[79.997204,26.751831],[79.99720499999999,26.75174],[79.996802,26.751738],[79.996801,26.751828],[79.996701,26.751827],[79.9967,26.751917],[79.9966,26.751917],[79.996599,26.752007],[79.996498,26.752006],[79.99649700000001,26.752097],[79.996397,26.752096],[79.996396,26.752186],[79.996296,26.752185],[79.99629400000001,26.752366],[79.99619300000001,26.752365],[79.99619,26.752726],[79.99609,26.752726],[79.996088,26.752906],[79.996189,26.752907],[79.996184,26.753449],[79.996284,26.753449],[79.996284,26.75354],[79.99708800000001,26.753545]]],"type":"Polygon"}
 }

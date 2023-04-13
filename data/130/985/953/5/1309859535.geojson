@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.3815,25.79263,85.3815,25.79263",
-    "geom:latitude":25.79263,
-    "geom:longitude":85.3815,
+    "geom:bbox":"85.372919,25.796557,85.376962,25.798713",
+    "geom:latitude":25.797552,
+    "geom:longitude":85.374946,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Phulwaria",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.3615,25.77263,85.4015,25.81263",
+    "ks:ks_id":"KSF128E51F9F27405B82CCAB38AC9FBFA4",
+    "ks:ks_name":"Phulwaria",
+    "ks:ks_pop":2423,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|850579",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1373399",
+    "lbl:latitude":25.7975,
+    "lbl:longitude":85.375252,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.7975,
+    "mps:longitude":85.375252,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ab\u09c1\u09b2\u09f1\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Phulwaria"
     ],
     "name:ita_x_preferred":[
         "Phulwaria"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u666e\u5c14\u74e6\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11020708
+        "gn:id":11020708,
+        "ks:id":"KSF128E51F9F27405B82CCAB38AC9FBFA4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3465e2a3e6efa886fc3f8662d22fae9d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e570e2da99abb438d20b73f8ade8145",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1309859535,
-    "wof:lastmodified":1566704331,
+    "wof:lastmodified":1680669962,
     "wof:name":"Phulwaria",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":2423,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.3815,
-    25.79263,
-    85.3815,
-    25.79263
+    85.372919,
+    25.796557,
+    85.376962,
+    25.798713
 ],
-  "geometry": {"coordinates":[85.3815,25.79263],"type":"Point"}
+  "geometry": {"coordinates":[[[85.373728,25.796557],[85.373728,25.797096],[85.373458,25.797096],[85.373458,25.797366],[85.373189,25.797366],[85.373189,25.797635],[85.372919,25.797635],[85.372919,25.797905],[85.373189,25.797905],[85.373189,25.798174],[85.373728,25.798174],[85.373728,25.797905],[85.373997,25.797905],[85.373997,25.797096],[85.374267,25.797096],[85.374267,25.797366],[85.37453600000001,25.797366],[85.37453600000001,25.797635],[85.37480600000001,25.797635],[85.37480600000001,25.798174],[85.375345,25.798174],[85.375345,25.797905],[85.375614,25.797905],[85.375614,25.798174],[85.375884,25.798174],[85.375884,25.798713],[85.376423,25.798713],[85.376423,25.798444],[85.37669200000001,25.798444],[85.37669200000001,25.798174],[85.37696200000001,25.798174],[85.37696200000001,25.797905],[85.376423,25.797905],[85.376423,25.797635],[85.376153,25.797635],[85.376153,25.797366],[85.375884,25.797366],[85.375884,25.797096],[85.375345,25.797096],[85.375345,25.796827],[85.375075,25.796827],[85.375075,25.796557],[85.373728,25.796557]]],"type":"Polygon"}
 }
