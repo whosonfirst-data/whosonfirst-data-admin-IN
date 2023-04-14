@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.20269,18.86257,83.20269,18.86257",
-    "geom:latitude":18.86257,
-    "geom:longitude":83.20269,
+    "geom:bbox":"83.201601,18.862192,83.203218,18.863001",
+    "geom:latitude":18.862596,
+    "geom:longitude":83.20241,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"398.0",
     "gn:asciiname":"Baggam",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.18269,18.84257,83.22269,18.88257",
+    "ks:ks_id":"KSF5F5F52198154E56905F4F423E220ADD",
+    "ks:ks_name":"Bagam",
+    "ks:ks_pop":401,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|65701",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_449203",
+    "lbl:latitude":18.862596,
+    "lbl:longitude":83.20241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.862596,
+    "mps:longitude":83.20241,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bagam"
+    ],
+    "name:eng_x_variant":[
+        "Baggam"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10781885
+        "gn:id":10781885,
+        "ks:id":"KSF5F5F52198154E56905F4F423E220ADD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ae77b4aa0a2d8295efe3a3613d01fcaf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02d0f7023eccd3fcd05af90bf5d2b55a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1360149015,
-    "wof:lastmodified":1566702714,
-    "wof:name":"Baggam",
+    "wof:lastmodified":1680669410,
+    "wof:name":"Bagam",
     "wof:parent_id":890507445,
     "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.20269,
-    18.86257,
-    83.20269,
-    18.86257
+    83.201601,
+    18.862192,
+    83.203218,
+    18.863001
 ],
-  "geometry": {"coordinates":[83.20269,18.86257],"type":"Point"}
+  "geometry": {"coordinates":[[[83.20321800000001,18.862192],[83.201601,18.862192],[83.201601,18.863001],[83.20321800000001,18.863001],[83.20321800000001,18.862192]]],"type":"Polygon"}
 }
