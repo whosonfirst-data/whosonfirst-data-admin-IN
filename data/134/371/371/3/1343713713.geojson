@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.42912,27.03543,83.42912,27.03543",
-    "geom:latitude":27.03543,
-    "geom:longitude":83.42912,
+    "geom:bbox":"83.427391,27.018381,83.428706,27.019202",
+    "geom:latitude":27.018811,
+    "geom:longitude":83.428042,
     "gn:admin1_code":"36",
     "gn:admin2_code":"187.0",
     "gn:asciiname":"Karmahwa",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.40912,27.01543,83.44912,27.05543",
+    "ks:ks_id":"KSCA76E3635DCD401499FC64404A408A8D",
+    "ks:ks_name":"Karmahiya",
+    "ks:ks_pop":924,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|515588",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1998309",
+    "lbl:latitude":27.018792,
+    "lbl:longitude":83.42812,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.018792,
+    "mps:longitude":83.42812,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Karmahiya"
+    ],
+    "name:eng_x_variant":[
+        "Karmahwa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10656559
+        "gn:id":10656559,
+        "ks:id":"KSCA76E3635DCD401499FC64404A408A8D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2c48a65b7b42993f3987ddce6574a41e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4eca174275f10d6a3e7c8e33ccae8c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1343713713,
-    "wof:lastmodified":1566686961,
-    "wof:name":"Karmahwa",
+    "wof:lastmodified":1680656269,
+    "wof:name":"Karmahiya",
     "wof:parent_id":1108695867,
     "wof:placetype":"locality",
+    "wof:population":924,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.42912,
-    27.03543,
-    83.42912,
-    27.03543
+    83.427391,
+    27.018381,
+    83.428706,
+    27.019202
 ],
-  "geometry": {"coordinates":[83.42912,27.03543],"type":"Point"}
+  "geometry": {"coordinates":[[[83.42841,27.019193],[83.428408,27.019103],[83.42860899999999,27.019099],[83.428605,27.018919],[83.42870600000001,27.018917],[83.428704,27.018827],[83.428603,27.018829],[83.42859900000001,27.018648],[83.428499,27.01865],[83.428495,27.01847],[83.428394,27.018471],[83.428392,27.018381],[83.42788899999999,27.01839],[83.42789,27.01848],[83.42779,27.018482],[83.427792,27.018572],[83.42749000000001,27.018577],[83.427491,27.018667],[83.427391,27.018669],[83.42739899999999,27.01903],[83.427499,27.019028],[83.42750100000001,27.019118],[83.427904,27.019111],[83.42790599999999,27.019202],[83.42841,27.019193]]],"type":"Polygon"}
 }

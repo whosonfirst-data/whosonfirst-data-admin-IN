@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.10623,14.57605,80.10623,14.57605",
-    "geom:latitude":14.57605,
-    "geom:longitude":80.10623,
+    "geom:bbox":"80.104318,14.575201,80.107849,14.576643",
+    "geom:latitude":14.575916,
+    "geom:longitude":80.105985,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"550.0",
     "gn:asciiname":"Bhadrachalam",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.08623,14.55605,80.12623,14.59605",
+    "ks:ks_id":"KSE79FE0885FCC4800BDF329B8BFA78CED",
+    "ks:ks_name":"Bhadrachalam",
+    "ks:ks_pop":475,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|129375",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_366069",
+    "lbl:latitude":14.575878,
+    "lbl:longitude":80.106019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.575878,
+    "mps:longitude":80.106019,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09a6\u09cd\u09b0\u09be\u099a\u09b2\u09ae"
@@ -40,6 +50,9 @@
         "Bhadr\u0101chalam"
     ],
     "name:deu_x_preferred":[
+        "Bhadrachalam"
+    ],
+    "name:eng_x_preferred":[
         "Bhadrachalam"
     ],
     "name:hin_x_preferred":[
@@ -93,7 +106,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5fb7\u62c9\u6070\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10789593
+        "gn:id":10789593,
+        "ks:id":"KSE79FE0885FCC4800BDF329B8BFA78CED"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d355f73ec5fa05a3b65505f6af87c354",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"203c7d8a70a65eee38cba03fedd3d14d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1343669907,
-    "wof:lastmodified":1566687362,
+    "wof:lastmodified":1680656496,
     "wof:name":"Bhadrachalam",
     "wof:parent_id":1108696321,
     "wof:placetype":"locality",
+    "wof:population":475,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.10623000000002,
-    14.57605,
-    80.10623000000002,
-    14.57605
+    80.104318,
+    14.575201,
+    80.107849,
+    14.576643
 ],
-  "geometry": {"coordinates":[80.10623000000002,14.57605],"type":"Point"}
+  "geometry": {"coordinates":[[[80.105153,14.576643],[80.105154,14.576553],[80.10543199999999,14.576554],[80.10543199999999,14.576464],[80.10636100000001,14.576467],[80.10636100000001,14.576377],[80.10710400000001,14.57638],[80.10710400000001,14.576289],[80.107382,14.57629],[80.107383,14.5762],[80.107568,14.576201],[80.107569,14.57611],[80.107662,14.57611],[80.107662,14.57602],[80.107755,14.57602],[80.10775599999999,14.575749],[80.107849,14.57575],[80.107849,14.575569],[80.10775700000001,14.575568],[80.10775700000001,14.575478],[80.10757099999999,14.575477],[80.107572,14.575387],[80.107015,14.575385],[80.107015,14.575294],[80.106458,14.575292],[80.106459,14.575202],[80.106273,14.575201],[80.106273,14.575292],[80.105808,14.57529],[80.105808,14.57538],[80.105158,14.575378],[80.105158,14.575468],[80.104787,14.575467],[80.104786,14.575557],[80.104601,14.575556],[80.1046,14.575647],[80.104415,14.575646],[80.10441400000001,14.575736],[80.104321,14.575736],[80.10431800000001,14.576459],[80.104411,14.57646],[80.104411,14.57655],[80.10468899999999,14.576551],[80.10468899999999,14.576642],[80.105153,14.576643]]],"type":"Polygon"}
 }

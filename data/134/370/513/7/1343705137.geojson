@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.27094,25.84404,83.27094,25.84404",
-    "geom:latitude":25.84404,
-    "geom:longitude":83.27094,
+    "geom:bbox":"83.270323,25.84318,83.272478,25.844527",
+    "geom:latitude":25.844002,
+    "geom:longitude":83.271275,
     "gn:admin1_code":"36",
     "gn:admin2_code":"191.0",
     "gn:asciiname":"Faridpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.25094,25.82404,83.29094,25.86404",
+    "ks:ks_alt_nam":"Far\u012bdpur",
+    "ks:ks_id":"KS8C705F8486C54D0F89B7B26A74DC9F12",
+    "ks:ks_name":"Faridpur",
+    "ks:ks_pop":525,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|328409",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1377076",
+    "lbl:latitude":25.843977,
+    "lbl:longitude":83.270931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.843977,
+    "mps:longitude":83.270931,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062f\u0628\u0648\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:ceb_x_preferred":[
         "Faridpur"
+    ],
+    "name:eng_x_preferred":[
+        "Faridpur"
+    ],
+    "name:eng_x_variant":[
+        "Far\u012bdpur"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab0\u0abf\u0aa6\u0aaa\u0ac1\u0ab0"
@@ -87,7 +104,13 @@
     "name:urd_x_preferred":[
         "\u0641\u0631\u06cc\u062f \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +119,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10625627
+        "gn:id":10625627,
+        "ks:id":"KS8C705F8486C54D0F89B7B26A74DC9F12"
     },
     "wof:country":"IN",
-    "wof:geomhash":"47e30e8b79d95c23408b5d5f96a4e0bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"be4a7c9e3f7d80c6e050483d5892dba8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +137,22 @@
         }
     ],
     "wof:id":1343705137,
-    "wof:lastmodified":1577749784,
+    "wof:lastmodified":1680656215,
     "wof:name":"Faridpur",
     "wof:parent_id":1108695871,
     "wof:placetype":"locality",
+    "wof:population":525,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.27094,
-    25.84404,
-    83.27094,
-    25.84404
+    83.270323,
+    25.84318,
+    83.272478,
+    25.844527
 ],
-  "geometry": {"coordinates":[83.27094,25.84404],"type":"Point"}
+  "geometry": {"coordinates":[[[83.271401,25.843719],[83.271401,25.84318],[83.27086199999999,25.84318],[83.27086199999999,25.843449],[83.270323,25.843449],[83.270323,25.844527],[83.27247800000001,25.844527],[83.27247800000001,25.843988],[83.272209,25.843988],[83.272209,25.843719],[83.271401,25.843719]]],"type":"Polygon"}
 }

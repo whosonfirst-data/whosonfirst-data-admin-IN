@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.73425,27.45428,80.73425,27.45428",
-    "geom:latitude":27.45428,
-    "geom:longitude":80.73425,
+    "geom:bbox":"80.733406,27.453114,80.735328,27.455192",
+    "geom:latitude":27.454229,
+    "geom:longitude":80.734332,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Bilandapur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.71425,27.43428,80.75425,27.47428",
+    "ks:ks_id":"KSB01F57D70F5F463383849B713418E2E4",
+    "ks:ks_name":"Belandapur",
+    "ks:ks_pop":641,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|121362",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1903182",
+    "lbl:latitude":27.454262,
+    "lbl:longitude":80.734314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.454262,
+    "mps:longitude":80.734314,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u09be\u09a8\u09cd\u09a6\u09be\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b2\u09be\u09a8\u09cd\u09a6\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Belandapur"
+    ],
+    "name:eng_x_variant":[
+        "Bilandapur"
     ],
     "name:ita_x_preferred":[
         "Bilandapur"
@@ -57,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5170\u8fbe\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920252
+        "gn:id":10920252,
+        "ks:id":"KSB01F57D70F5F463383849B713418E2E4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b8f09ee9176f7f7235da7c458d60d653",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"09d384df9711cce552e1e6bcf4473fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1343714473,
-    "wof:lastmodified":1566686935,
-    "wof:name":"Bilandapur",
+    "wof:lastmodified":1680656255,
+    "wof:name":"Belandapur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":641,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.73425,
-    27.45428,
-    80.73425,
-    27.45428
+    80.733406,
+    27.453114,
+    80.735328,
+    27.455192
 ],
-  "geometry": {"coordinates":[80.73425,27.45428],"type":"Point"}
+  "geometry": {"coordinates":[[[80.735124,27.455192],[80.735124,27.455102],[80.735327,27.455102],[80.735328,27.454651],[80.735226,27.454651],[80.73522699999999,27.45438],[80.73512599999999,27.45438],[80.73512599999999,27.454199],[80.73502499999999,27.454199],[80.735026,27.454018],[80.73492400000001,27.454018],[80.734925,27.453838],[80.734824,27.453838],[80.734824,27.453657],[80.734723,27.453657],[80.734724,27.453296],[80.734622,27.453295],[80.734623,27.453205],[80.73442,27.453205],[80.73442,27.453115],[80.734016,27.453114],[80.734015,27.453204],[80.733914,27.453204],[80.733914,27.453294],[80.733712,27.453294],[80.733711,27.453384],[80.73361,27.453384],[80.73361,27.453474],[80.733509,27.453474],[80.733508,27.453654],[80.733407,27.453654],[80.733406,27.454286],[80.733507,27.454286],[80.73350600000001,27.454467],[80.733608,27.454467],[80.73360700000001,27.454557],[80.733709,27.454558],[80.73370799999999,27.454738],[80.73380899999999,27.454738],[80.73380899999999,27.454919],[80.73390999999999,27.454919],[80.73390999999999,27.455009],[80.734011,27.45501],[80.734011,27.4551],[80.734112,27.4551],[80.734112,27.45519],[80.735124,27.455192]]],"type":"Polygon"}
 }

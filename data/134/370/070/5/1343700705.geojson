@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.10819,27.55759,80.10819,27.55759",
-    "geom:latitude":27.55759,
-    "geom:longitude":80.10819,
+    "geom:bbox":"80.107677,27.556946,80.108997,27.557942",
+    "geom:latitude":27.557481,
+    "geom:longitude":80.10839,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Shakurabad",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.08819,27.53759,80.12819,27.57759",
+    "ks:ks_alt_nam":"Shak\u016br\u0101b\u0101d",
+    "ks:ks_id":"KS73B7EBD4A84B45BAA45E31951583F908",
+    "ks:ks_name":"Shakurabad",
+    "ks:ks_pop":218,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13563748",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1906673",
+    "lbl:latitude":27.557481,
+    "lbl:longitude":80.108403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.557481,
+    "mps:longitude":80.108403,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u06a9\u0648\u0631 \u0623\u0628\u0627\u062f"
@@ -39,13 +50,25 @@
     "name:ceb_x_preferred":[
         "Shak\u016br\u0101b\u0101d"
     ],
+    "name:eng_x_preferred":[
+        "Shakurabad"
+    ],
+    "name:eng_x_variant":[
+        "Shak\u016br\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06a9\u0648\u0631\u0622\u0628\u0627\u062f"
     ],
     "name:swe_x_preferred":[
         "Shak\u016br\u0101b\u0101d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11062051
+        "gn:id":11062051,
+        "ks:id":"KS73B7EBD4A84B45BAA45E31951583F908"
     },
     "wof:country":"IN",
-    "wof:geomhash":"992edd28abc89904c4e91cccdb87dcea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e119eff4616c49f89ed364724e4c1c73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1343700705,
-    "wof:lastmodified":1566686724,
+    "wof:lastmodified":1680656160,
     "wof:name":"Shakurabad",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.10819000000002,
-    27.55759,
-    80.10819000000002,
-    27.55759
+    80.107677,
+    27.556946,
+    80.108997,
+    27.557942
 ],
-  "geometry": {"coordinates":[80.10819000000002,27.55759],"type":"Point"}
+  "geometry": {"coordinates":[[[80.108789,27.557942],[80.10879,27.557852],[80.108891,27.557852],[80.108892,27.557762],[80.108993,27.557763],[80.108997,27.557311],[80.108895,27.557311],[80.108897,27.55713],[80.108796,27.55713],[80.108796,27.557039],[80.108695,27.557039],[80.10869599999999,27.556948],[80.10839199999999,27.556946],[80.108391,27.557037],[80.108189,27.557035],[80.108188,27.557126],[80.108087,27.557125],[80.108086,27.557215],[80.107883,27.557214],[80.107883,27.557304],[80.10768,27.557303],[80.107677,27.557664],[80.107778,27.557665],[80.107778,27.557755],[80.10798,27.557756],[80.107979,27.557847],[80.108182,27.557848],[80.108181,27.557938],[80.108789,27.557942]]],"type":"Polygon"}
 }
