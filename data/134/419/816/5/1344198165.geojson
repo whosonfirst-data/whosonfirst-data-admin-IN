@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.69534,25.02702,83.69534,25.02702",
-    "geom:latitude":25.02702,
-    "geom:longitude":83.69534,
+    "geom:bbox":"83.694867,25.025522,83.695999,25.027777",
+    "geom:latitude":25.026609,
+    "geom:longitude":83.695427,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Sagar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.67534,25.00702,83.71534,25.04702",
+    "ks:ks_alt_nam":"S\u0101gar",
+    "ks:ks_id":"KS5D90C8AE1FDD4656AD370C2A3D5541C5",
+    "ks:ks_name":"Sagar",
+    "ks:ks_pop":123,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12955305",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1044049",
+    "lbl:latitude":25.026544,
+    "lbl:longitude":83.695473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.026544,
+    "mps:longitude":83.695473,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062c\u0627\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Sagar"
+    ],
+    "name:eng_x_preferred":[
+        "Sagar"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101gar"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u063a\u0631"
@@ -93,7 +110,13 @@
     "name:vie_x_preferred":[
         "Sagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +125,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10509966
+        "gn:id":10509966,
+        "ks:id":"KS5D90C8AE1FDD4656AD370C2A3D5541C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bc26276f3acebac3aa059d74b487b325",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f105f5633825a003e1557788d235c77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +143,22 @@
         }
     ],
     "wof:id":1344198165,
-    "wof:lastmodified":1636505339,
+    "wof:lastmodified":1680656783,
     "wof:name":"Sagar",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.69534,
-    25.02702,
-    83.69534,
-    25.02702
+    83.694867,
+    25.025522,
+    83.695999,
+    25.027777
 ],
-  "geometry": {"coordinates":[83.69534,25.02702],"type":"Point"}
+  "geometry": {"coordinates":[[[83.69551,25.027776],[83.695508,25.027685],[83.695607,25.027684],[83.695605,25.027593],[83.695803,25.02759],[83.695801,25.0275],[83.695999,25.027496],[83.69597,25.026143],[83.695871,25.026145],[83.69586700000001,25.025964],[83.695768,25.025966],[83.69576600000001,25.025876],[83.695667,25.025878],[83.69566500000001,25.025787],[83.695566,25.025789],[83.695564,25.025699],[83.695465,25.025701],[83.695463,25.02561],[83.695364,25.025612],[83.695362,25.025522],[83.694867,25.025531],[83.69489299999999,25.026704],[83.694992,25.026702],[83.69500499999999,25.027333],[83.695104,25.027332],[83.695108,25.027512],[83.695207,25.02751],[83.69520900000001,25.027601],[83.695308,25.027599],[83.69531000000001,25.027689],[83.695409,25.027687],[83.69541099999999,25.027777],[83.69551,25.027776]]],"type":"Polygon"}
 }

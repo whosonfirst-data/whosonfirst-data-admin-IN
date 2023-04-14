@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.00927,25.44619,84.00927,25.44619",
-    "geom:latitude":25.44619,
-    "geom:longitude":84.00927,
+    "geom:bbox":"84.008468,25.445406,84.009546,25.446753",
+    "geom:latitude":25.446034,
+    "geom:longitude":84.009052,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"232.0",
     "gn:asciiname":"Kanpura",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.98927,25.42619,84.02927,25.46619",
+    "ks:ks_alt_nam":"K\u0101npura",
+    "ks:ks_id":"KS74C9D68C69F74866BE497E708052C59D",
+    "ks:ks_name":"Kanpura",
+    "ks:ks_pop":1236,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13284674",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1350690",
+    "lbl:latitude":25.44595,
+    "lbl:longitude":84.009095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.44595,
+    "mps:longitude":84.009095,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kanpura"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101npura"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835482
+        "gn:id":10835482,
+        "ks:id":"KS74C9D68C69F74866BE497E708052C59D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"14cb29db22699165b6bc65b78cc4844b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"598ef16347cdc2806c5a38af796db9a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1344198197,
-    "wof:lastmodified":1566687924,
+    "wof:lastmodified":1680656786,
     "wof:name":"Kanpura",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
+    "wof:population":1236,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.00927,
-    25.44619,
-    84.00927,
-    25.44619
+    84.008468,
+    25.445406,
+    84.009546,
+    25.446753
 ],
-  "geometry": {"coordinates":[84.00927,25.44619],"type":"Point"}
+  "geometry": {"coordinates":[[[84.009546,25.445406],[84.00846799999999,25.445406],[84.00846799999999,25.446214],[84.00873799999999,25.446214],[84.00873799999999,25.446753],[84.009546,25.446753],[84.009546,25.445406]]],"type":"Polygon"}
 }

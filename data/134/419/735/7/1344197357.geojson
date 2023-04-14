@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.39182,27.03215,79.39182,27.03215",
-    "geom:latitude":27.03215,
-    "geom:longitude":79.39182,
+    "geom:bbox":"79.390899,27.031133,79.392827,27.032941",
+    "geom:latitude":27.032102,
+    "geom:longitude":79.391819,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"148",
     "gn:asciiname":"Mirpur",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.37182,27.01215,79.41182,27.05215",
+    "ks:ks_id":"KS13920166E36849F6858EF949744909E9",
+    "ks:ks_name":"Mirpur",
+    "ks:ks_pop":350,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|703694",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1744066",
+    "lbl:latitude":27.032104,
+    "lbl:longitude":79.391838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.032104,
+    "mps:longitude":79.391838,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Mirpur"
     ],
     "name:ita_x_preferred":[
         "Mirpur"
@@ -42,7 +55,13 @@
     "name:snd_x_preferred":[
         "\u0645\u064a\u0631\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6994195
+        "gn:id":6994195,
+        "ks:id":"KS13920166E36849F6858EF949744909E9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b646e95b6fe776329272be47c3e8adaa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bb3c45496cdd0288d8dc8a288470990c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1344197357,
-    "wof:lastmodified":1566687948,
+    "wof:lastmodified":1680656800,
     "wof:name":"Mirpur",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39182,
-    27.03215,
-    79.39182,
-    27.03215
+    79.390899,
+    27.031133,
+    79.392827,
+    27.032941
 ],
-  "geometry": {"coordinates":[79.39182,27.03215],"type":"Point"}
+  "geometry": {"coordinates":[[[79.391806,27.032941],[79.391807,27.032851],[79.392009,27.032853],[79.39201,27.032763],[79.392212,27.032765],[79.392213,27.032675],[79.392414,27.032677],[79.392416,27.032587],[79.392516,27.032588],[79.392518,27.032498],[79.392719,27.0325],[79.39272200000001,27.03232],[79.39282300000001,27.032321],[79.392827,27.03205],[79.392726,27.032049],[79.39272800000001,27.031869],[79.392628,27.031868],[79.39263,27.031687],[79.392529,27.031686],[79.39253100000001,27.031596],[79.39243,27.031594],[79.392431,27.031504],[79.39233,27.031503],[79.39233299999999,27.031323],[79.39223200000001,27.031321],[79.392233,27.031231],[79.392133,27.03123],[79.392134,27.03114],[79.39152900000001,27.031133],[79.39152799999999,27.031223],[79.39142699999999,27.031222],[79.391425,27.031402],[79.391324,27.031401],[79.391321,27.031582],[79.39122,27.031581],[79.391217,27.031851],[79.391116,27.03185],[79.391111,27.032211],[79.39100999999999,27.03221],[79.391007,27.032391],[79.390907,27.032389],[79.390899,27.032931],[79.391806,27.032941]]],"type":"Polygon"}
 }
