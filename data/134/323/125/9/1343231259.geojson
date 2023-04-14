@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.70771,20.5787,77.70771,20.5787",
-    "geom:latitude":20.5787,
-    "geom:longitude":77.70771,
+    "geom:bbox":"77.707093,20.578308,77.708061,20.579215",
+    "geom:latitude":20.578792,
+    "geom:longitude":77.707568,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Malegaon",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.68771,20.5587,77.72771,20.5987",
+    "ks:ks_alt_nam":"M\u0101legaon",
+    "ks:ks_id":"KS719C6D796E1A4C0E8A8ED4EEF4208403",
+    "ks:ks_name":"Malegaon",
+    "ks:ks_pop":144,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|659558",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871988",
+    "lbl:latitude":20.578806,
+    "lbl:longitude":77.707568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.578806,
+    "mps:longitude":77.707568,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u063a\u0627\u0648\u0646"
@@ -62,6 +73,12 @@
     ],
     "name:deu_x_preferred":[
         "Malegaon"
+    ],
+    "name:eng_x_preferred":[
+        "Malegaon"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101legaon"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0647\u200c\u06af\u0648\u0627\u0646"
@@ -168,7 +185,13 @@
     "name:zho_x_preferred":[
         "\u99ac\u840a\u5ca1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -177,10 +200,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10507847
+        "gn:id":10507847,
+        "ks:id":"KS719C6D796E1A4C0E8A8ED4EEF4208403"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f0eeb6682da84f8790678e44c175b97d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02503dc367af37df55165f626c862ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -191,20 +218,22 @@
         }
     ],
     "wof:id":1343231259,
-    "wof:lastmodified":1636505316,
+    "wof:lastmodified":1680656243,
     "wof:name":"Malegaon",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.70771,
-    20.5787,
-    77.70771,
-    20.5787
+    77.707093,
+    20.578308,
+    77.708061,
+    20.579215
 ],
-  "geometry": {"coordinates":[77.70771000000001,20.5787],"type":"Point"}
+  "geometry": {"coordinates":[[[77.70787300000001,20.579208],[77.707871,20.579117],[77.707967,20.579116],[77.707965,20.579026],[77.708061,20.579024],[77.708055,20.578663],[77.707959,20.578665],[77.70795699999999,20.578574],[77.70786200000001,20.578576],[77.70786,20.578486],[77.707764,20.578487],[77.707763,20.578397],[77.707667,20.578398],[77.70766500000001,20.578308],[77.70756900000001,20.57831],[77.707571,20.5784],[77.707188,20.578406],[77.707189,20.578496],[77.707093,20.578498],[77.70710099999999,20.578949],[77.70719699999999,20.578947],[77.707199,20.579038],[77.707295,20.579036],[77.707296,20.579126],[77.707392,20.579125],[77.70739399999999,20.579215],[77.70787300000001,20.579208]]],"type":"Polygon"}
 }

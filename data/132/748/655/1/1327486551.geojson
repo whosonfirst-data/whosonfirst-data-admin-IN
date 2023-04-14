@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.41539,23.08008,79.41539,23.08008",
-    "geom:latitude":23.08008,
-    "geom:longitude":79.41539,
+    "geom:bbox":"79.4145,23.078809,79.416364,23.08279",
+    "geom:latitude":23.080418,
+    "geom:longitude":79.415493,
     "gn:admin1_code":"35",
     "gn:admin2_code":"452.0",
     "gn:asciiname":"Rakhi",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.39539,23.06008,79.43539,23.10008",
+    "ks:ks_alt_nam":"R\u0101khi",
+    "ks:ks_id":"KS652FDFF24A3A488EB6FCF5BC9B85BD94",
+    "ks:ks_name":"Rakhi",
+    "ks:ks_pop":360,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|896575",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_921832",
+    "lbl:latitude":23.079844,
+    "lbl:longitude":79.415511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.079844,
+    "mps:longitude":79.415511,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u0996\u09c0"
+    ],
+    "name:eng_x_preferred":[
+        "Rakhi"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101khi"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u0916\u0940"
@@ -39,7 +56,13 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u0916\u0940"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10541326
+        "gn:id":10541326,
+        "ks:id":"KS652FDFF24A3A488EB6FCF5BC9B85BD94"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ed969c6f27bbcccf2bf9ab9bb48acb6f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d74eba6ed67bd881ab09baa0272c92d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1327486551,
-    "wof:lastmodified":1566683393,
+    "wof:lastmodified":1680654480,
     "wof:name":"Rakhi",
     "wof:parent_id":1108696241,
     "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.41539,
-    23.08008,
-    79.41539,
-    23.08008
+    79.4145,
+    23.078809,
+    79.416364,
+    23.08279
 ],
-  "geometry": {"coordinates":[79.41539,23.08008],"type":"Point"}
+  "geometry": {"coordinates":[[[79.415637,23.08279],[79.415638,23.0827],[79.415736,23.082701],[79.415738,23.08252],[79.415836,23.082521],[79.41583900000001,23.08225],[79.415936,23.082251],[79.415943,23.08171],[79.41604,23.081711],[79.41605,23.080898],[79.416147,23.080899],[79.416152,23.080538],[79.41624899999999,23.080539],[79.416251,23.080358],[79.416349,23.080359],[79.416364,23.079095],[79.41626599999999,23.079094],[79.416267,23.079004],[79.41616999999999,23.079003],[79.41617100000001,23.078912],[79.415976,23.07891],[79.415977,23.07882],[79.414903,23.078809],[79.414902,23.0789],[79.414804,23.078899],[79.41480300000001,23.078989],[79.414608,23.078987],[79.41460600000001,23.079167],[79.414508,23.079166],[79.4145,23.079889],[79.414598,23.07989],[79.41459500000001,23.08007],[79.414693,23.080071],[79.414691,23.080252],[79.414788,23.080253],[79.41478499999999,23.080524],[79.414883,23.080525],[79.41488099999999,23.080705],[79.414978,23.080706],[79.414976,23.080887],[79.415074,23.080888],[79.415066,23.08152],[79.414969,23.081519],[79.41496600000001,23.08179],[79.415063,23.081791],[79.41506,23.082062],[79.41515800000001,23.082063],[79.41515699999999,23.082153],[79.415254,23.082154],[79.41524699999999,23.082786],[79.415637,23.08279]]],"type":"Polygon"}
 }

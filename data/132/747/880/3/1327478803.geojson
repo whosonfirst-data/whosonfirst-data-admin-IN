@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.30955,25.10279,85.30955,25.10279",
-    "geom:latitude":25.10279,
-    "geom:longitude":85.30955,
+    "geom:bbox":"85.308685,25.101748,85.310984,25.103649",
+    "geom:latitude":25.102643,
+    "geom:longitude":85.309758,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Nawabganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.28955,25.08279,85.32955,25.12279",
+    "ks:ks_id":"KS62C0AA9B8C4C4606933631C2F226941D",
+    "ks:ks_name":"Nabab Gang",
+    "ks:ks_pop":273,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|738750",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2066905",
+    "lbl:latitude":25.10257,
+    "lbl:longitude":85.309758,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.10257,
+    "mps:longitude":85.309758,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u0628\u063a\u0627\u0646\u062c"
@@ -52,6 +62,12 @@
         "Nawabganj"
     ],
     "name:deu_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:eng_x_preferred":[
+        "Nabab Gang"
+    ],
+    "name:eng_x_variant":[
         "Nawabganj"
     ],
     "name:fas_x_preferred":[
@@ -138,7 +154,13 @@
     "name:zho_tw_x_preferred":[
         "\u7d0d\u74e6\u5e03\u6839\u5091"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -147,10 +169,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11029120
+        "gn:id":11029120,
+        "ks:id":"KS62C0AA9B8C4C4606933631C2F226941D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0389f2622fc423fc2887669506eb4fa7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07fda8254a5ee5e29b8d7e2115060416",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,20 +187,22 @@
         }
     ],
     "wof:id":1327478803,
-    "wof:lastmodified":1636505225,
-    "wof:name":"Nawabganj",
+    "wof:lastmodified":1680654362,
+    "wof:name":"Nabab Gang",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.30955,
-    25.10279,
-    85.30955,
-    25.10279
+    85.308685,
+    25.101748,
+    85.310984,
+    25.103649
 ],
-  "geometry": {"coordinates":[85.30955,25.10279],"type":"Point"}
+  "geometry": {"coordinates":[[[85.30977,25.103649],[85.309772,25.103559],[85.309871,25.10356],[85.309872,25.10347],[85.31007,25.103472],[85.31007200000001,25.103382],[85.310171,25.103383],[85.31017199999999,25.103293],[85.31037000000001,25.103295],[85.310371,25.103205],[85.31047100000001,25.103206],[85.310472,25.103116],[85.310571,25.103117],[85.31057199999999,25.103026],[85.310671,25.103028],[85.31067299999999,25.102937],[85.310772,25.102938],[85.31077399999999,25.102758],[85.310873,25.102759],[85.310878,25.102398],[85.31097699999999,25.102399],[85.310984,25.101948],[85.310885,25.101947],[85.310886,25.101856],[85.31029100000001,25.101849],[85.310292,25.101759],[85.309301,25.101748],[85.30929999999999,25.101838],[85.309101,25.101836],[85.3091,25.101926],[85.30900099999999,25.101925],[85.309,25.102015],[85.30890100000001,25.102014],[85.308898,25.102195],[85.30879899999999,25.102194],[85.30879299999999,25.102645],[85.308694,25.102644],[85.308685,25.103276],[85.308784,25.103277],[85.30878,25.103548],[85.30897899999999,25.10355],[85.308977,25.10364],[85.30977,25.103649]]],"type":"Polygon"}
 }
