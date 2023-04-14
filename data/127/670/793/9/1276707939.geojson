@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"88.21556,22.35,88.21556,22.35",
-    "geom:latitude":22.35,
-    "geom:longitude":88.21556,
+    "geom:bbox":"88.233335,22.34514,88.235221,22.345949",
+    "geom:latitude":22.345581,
+    "geom:longitude":88.234314,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"343",
     "gn:asciiname":"Sultanganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"88.19556,22.33,88.23556,22.37",
+    "ks:ks_id":"KS4E746ED3C41749A6AC436AD7D1009FF5",
+    "ks:ks_name":"Sultanganja",
+    "ks:ks_pop":3864,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1918000503890100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1096064",
+    "lbl:latitude":22.345436,
+    "lbl:longitude":88.234238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.345436,
+    "mps:longitude":88.234238,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u0997\u099e\u09cd\u099c"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Sult\u0101nganj"
+    ],
+    "name:eng_x_preferred":[
+        "Sultanganja"
+    ],
+    "name:eng_x_variant":[
+        "Sultanganj"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0932\u094d\u0924\u093e\u0928\u0917\u0902\u091c"
@@ -72,7 +88,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u5c14\u5510\u7518\u6770"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1348929
+        "gn:id":1348929,
+        "ks:id":"KS4E746ED3C41749A6AC436AD7D1009FF5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b733d238d0889ed018084c03a54cd2c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9e466a8cc77022b01aec23de19bf8e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1276707939,
-    "wof:lastmodified":1566693705,
-    "wof:name":"Sultanganj",
+    "wof:lastmodified":1680660493,
+    "wof:name":"Sultanganja",
     "wof:parent_id":1108696085,
     "wof:placetype":"locality",
+    "wof:population":3864,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    88.21556,
-    22.35,
-    88.21556,
-    22.35
+    88.233335,
+    22.34514,
+    88.235221,
+    22.345949
 ],
-  "geometry": {"coordinates":[88.21556,22.35],"type":"Point"}
+  "geometry": {"coordinates":[[[88.235221,22.345949],[88.235221,22.34541],[88.23468200000001,22.34541],[88.23468200000001,22.34514],[88.233874,22.34514],[88.233874,22.34541],[88.233335,22.34541],[88.233335,22.345679],[88.233605,22.345679],[88.233605,22.345949],[88.234413,22.345949],[88.234413,22.345679],[88.23468200000001,22.345679],[88.23468200000001,22.345949],[88.235221,22.345949]]],"type":"Polygon"}
 }

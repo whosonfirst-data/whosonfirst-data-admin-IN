@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.42171,26.60565,83.42171,26.60565",
-    "geom:latitude":26.60565,
-    "geom:longitude":83.42171,
+    "geom:bbox":"83.42124,26.605041,83.423126,26.606119",
+    "geom:latitude":26.605524,
+    "geom:longitude":83.422088,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Gaura",
@@ -24,12 +24,23 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.40171,26.58565,83.44171,26.62565",
+    "ks:ks_id":"KSCDA74F4AA7BA447492614309D45DA0D2",
+    "ks:ks_name":"Gaura",
+    "ks:ks_source_id":"N|13096659",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1424702",
+    "lbl:latitude":26.60531,
+    "lbl:longitude":83.422353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.60531,
+    "mps:longitude":83.422353,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Gaura"
+    ],
     "name:fin_x_preferred":[
         "Kes\u00e4kynttil\u00e4t"
     ],
@@ -54,7 +65,11 @@
     "name:zho_x_preferred":[
         "\u5c71\u6843\u8349\u5c5e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +78,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10664160
+        "gn:id":10664160,
+        "ks:id":"KSCDA74F4AA7BA447492614309D45DA0D2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"01208eaf8d4176fb717fa82a3f680d31",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a61a4565514c4805fb26b01e4c0724a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +96,7 @@
         }
     ],
     "wof:id":1276713651,
-    "wof:lastmodified":1566693550,
+    "wof:lastmodified":1680660355,
     "wof:name":"Gaura",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
@@ -87,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.42171,
-    26.60565,
-    83.42171,
-    26.60565
+    83.42124,
+    26.605041,
+    83.423126,
+    26.606119
 ],
-  "geometry": {"coordinates":[83.42171,26.60565],"type":"Point"}
+  "geometry": {"coordinates":[[[83.422048,26.606119],[83.422048,26.60558],[83.423126,26.60558],[83.423126,26.605041],[83.422048,26.605041],[83.422048,26.60531],[83.42124,26.60531],[83.42124,26.606119],[83.422048,26.606119]]],"type":"Polygon"}
 }

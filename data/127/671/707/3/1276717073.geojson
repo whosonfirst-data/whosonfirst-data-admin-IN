@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boesmanstee"
@@ -164,9 +165,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672201,
         102191569,
         85632469,
-        85672201,
         890508865
     ],
     "wof:breaches":[],
@@ -174,7 +175,7 @@
         "gn:id":10249670
     },
     "wof:country":"IN",
-    "wof:geomhash":"60bca46a65fc3d01d7d32befa22a376d",
+    "wof:geomhash":"2d18878a26b46a87f665c747a09df155",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +186,22 @@
         }
     ],
     "wof:id":1276717073,
-    "wof:lastmodified":1566693556,
+    "wof:lastmodified":1680629386,
     "wof:name":"Khat",
     "wof:parent_id":890508865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847120395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     74.12448,
-    29.87512000000001,
+    29.87512,
     74.12448,
-    29.87512000000001
+    29.87512
 ],
-  "geometry": {"coordinates":[74.12448000000001,29.87512000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.12448000000001,29.87512],"type":"Point"}
 }

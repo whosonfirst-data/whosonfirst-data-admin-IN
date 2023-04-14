@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.48603,25.24402,77.48603,25.24402",
-    "geom:latitude":25.24402,
-    "geom:longitude":77.48603,
+    "geom:bbox":"77.489355,25.251222,77.490869,25.252941",
+    "geom:latitude":25.252151,
+    "geom:longitude":77.490033,
     "gn:admin1_code":"35",
     "gn:admin2_code":"423.0",
     "gn:asciiname":"Toda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.46603,25.22402,77.50603,25.26402",
+    "ks:ks_id":"KSE48C628452A64836AD55F130578C2B6D",
+    "ks:ks_name":"Toda",
+    "ks:ks_pop":55,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2306000500465500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1722770",
+    "lbl:latitude":25.252167,
+    "lbl:longitude":77.489971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.252167,
+    "mps:longitude":77.489971,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Toda"
@@ -37,6 +47,9 @@
         "Toda"
     ],
     "name:deu_x_preferred":[
+        "Toda"
+    ],
+    "name:eng_x_preferred":[
         "Toda"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +82,13 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0434\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10476443
+        "gn:id":10476443,
+        "ks:id":"KSE48C628452A64836AD55F130578C2B6D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"de04a0a50b1b167aac868c11bb2f762f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"244ea07dee590aa29a7dbd4b10c9deb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1276714337,
-    "wof:lastmodified":1566693602,
+    "wof:lastmodified":1680660397,
     "wof:name":"Toda",
     "wof:parent_id":1108696211,
     "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.48603,
-    25.24402000000001,
-    77.48603,
-    25.24402000000001
+    77.489355,
+    25.251222,
+    77.490869,
+    25.252941
 ],
-  "geometry": {"coordinates":[77.48603,25.24402000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[77.49057500000001,25.252928],[77.490573,25.252837],[77.49077200000001,25.252834],[77.49077,25.252744],[77.490869,25.252742],[77.49086200000001,25.252381],[77.490762,25.252383],[77.490759,25.252202],[77.49065899999999,25.252204],[77.490656,25.252024],[77.490557,25.252025],[77.490551,25.251755],[77.490452,25.251756],[77.49044600000001,25.251486],[77.490347,25.251487],[77.490345,25.251397],[77.490246,25.251399],[77.490244,25.251309],[77.49004600000001,25.251312],[77.490044,25.251222],[77.48964700000001,25.251228],[77.489649,25.251319],[77.48954999999999,25.25132],[77.489552,25.251411],[77.489452,25.251412],[77.48945399999999,25.251502],[77.489355,25.251504],[77.489377,25.252587],[77.489476,25.252585],[77.48948,25.252766],[77.48957900000001,25.252764],[77.489581,25.252854],[77.489779,25.252851],[77.48978099999999,25.252941],[77.49057500000001,25.252928]]],"type":"Polygon"}
 }

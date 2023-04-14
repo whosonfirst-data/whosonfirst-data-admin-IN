@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.72449,29.84019,78.72449,29.84019",
-    "geom:latitude":29.84019,
-    "geom:longitude":78.72449,
+    "geom:bbox":"78.722259,29.839814,78.724433,29.840829",
+    "geom:latitude":29.840269,
+    "geom:longitude":78.723439,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Chai",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.70449,29.82019,78.74449,29.86019",
+    "ks:ks_alt_nam":"Ch\u0101i",
+    "ks:ks_id":"KS0DF0E63105C34402B9CD08AA46467684",
+    "ks:ks_name":"Chai",
+    "ks:ks_pop":150,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|189782",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1838428",
+    "lbl:latitude":29.84023,
+    "lbl:longitude":78.723548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.84023,
+    "mps:longitude":78.723548,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chai"
     ],
     "name:deu_x_preferred":[
         "Chai"
+    ],
+    "name:eng_x_preferred":[
+        "Chai"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101i"
     ],
     "name:fra_x_preferred":[
         "Chai"
@@ -51,7 +68,13 @@
     "name:swe_x_preferred":[
         "Chai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444807
+        "gn:id":1444807,
+        "ks:id":"KS0DF0E63105C34402B9CD08AA46467684"
     },
     "wof:country":"IN",
-    "wof:geomhash":"182c4700ab33e7b684d651148c510a07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd57567ab8b126ca892202db8e906810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +101,22 @@
         }
     ],
     "wof:id":1276695191,
-    "wof:lastmodified":1566692624,
+    "wof:lastmodified":1680659721,
     "wof:name":"Chai",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.72449,
-    29.84019,
-    78.72449,
-    29.84019
+    78.722259,
+    29.839814,
+    78.724433,
+    29.840829
 ],
-  "geometry": {"coordinates":[78.72449,29.84019],"type":"Point"}
+  "geometry": {"coordinates":[[[78.724317,29.840829],[78.724321,29.840649],[78.724425,29.840651],[78.724433,29.84029],[78.72432999999999,29.840288],[78.724332,29.840198],[78.724228,29.840196],[78.72423000000001,29.840106],[78.724127,29.840104],[78.724129,29.840014],[78.724025,29.840012],[78.72402700000001,29.839922],[78.723821,29.839919],[78.723823,29.839828],[78.722995,29.839814],[78.722993,29.839904],[78.72237199999999,29.839894],[78.72237,29.839984],[78.722267,29.839982],[78.72225899999999,29.840343],[78.722673,29.84035],[78.72266999999999,29.84044],[78.722981,29.840445],[78.722979,29.840536],[78.72328899999999,29.840541],[78.723287,29.840631],[78.723597,29.840636],[78.723595,29.840727],[78.72380200000001,29.84073],[78.7238,29.84082],[78.724317,29.840829]]],"type":"Polygon"}
 }
