@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.68909,14.52074,75.68909,14.52074",
-    "geom:latitude":14.52074,
-    "geom:longitude":75.68909,
+    "geom:bbox":"75.688354,14.519919,75.690676,14.521454",
+    "geom:latitude":14.520593,
+    "geom:longitude":75.689645,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"564.0",
     "gn:asciiname":"Krishnapur",
@@ -24,19 +24,42 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.66909,14.50074,75.70909,14.54074",
+    "ks:ks_alt_nam":"Krishn\u0101pur",
+    "ks:ks_id":"KSD866FBDE424B4F09839F75989D769E77",
+    "ks:ks_name":"Krishnapur",
+    "ks:ks_pop":97,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13317550",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_289531",
+    "lbl:latitude":14.520596,
+    "lbl:longitude":75.689667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.520596,
+    "mps:longitude":75.689667,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krishnapur"
     ],
+    "name:eng_x_preferred":[
+        "Krishnapur"
+    ],
+    "name:eng_x_variant":[
+        "Krishn\u0101pur"
+    ],
     "name:swe_x_preferred":[
         "Krishnapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10850605
+        "gn:id":10850605,
+        "ks:id":"KSD866FBDE424B4F09839F75989D769E77"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6bf118364581f151fa2154de147a1914",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eccda67a9f21667a747992af56d59abd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +86,22 @@
         }
     ],
     "wof:id":1343932827,
-    "wof:lastmodified":1566687698,
+    "wof:lastmodified":1680656679,
     "wof:name":"Krishnapur",
     "wof:parent_id":1108696335,
     "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.68909000000002,
-    14.52074,
-    75.68909000000002,
-    14.52074
+    75.688354,
+    14.519919,
+    75.690676,
+    14.521454
 ],
-  "geometry": {"coordinates":[75.68909000000002,14.52074],"type":"Point"}
+  "geometry": {"coordinates":[[[75.690214,14.521453],[75.690214,14.521363],[75.69030600000001,14.521362],[75.69030600000001,14.521272],[75.690399,14.521272],[75.690399,14.521181],[75.69049099999999,14.521181],[75.69049099999999,14.521],[75.690584,14.521],[75.690583,14.520819],[75.690676,14.520819],[75.690674,14.520096],[75.690488,14.520096],[75.690488,14.520006],[75.689374,14.520009],[75.689374,14.519919],[75.689188,14.519919],[75.689188,14.52001],[75.689003,14.52001],[75.689003,14.5201],[75.68853900000001,14.520102],[75.68853900000001,14.520192],[75.688447,14.520193],[75.688447,14.520283],[75.688354,14.520283],[75.688355,14.520554],[75.68844799999999,14.520554],[75.68844799999999,14.520645],[75.688541,14.520644],[75.688541,14.520735],[75.68863399999999,14.520734],[75.68863399999999,14.520825],[75.68882000000001,14.520824],[75.68882000000001,14.520915],[75.688913,14.520914],[75.688913,14.521005],[75.689099,14.521004],[75.689099,14.521095],[75.689285,14.521094],[75.689285,14.521185],[75.68956300000001,14.521184],[75.689564,14.521274],[75.689656,14.521274],[75.689656,14.521183],[75.68974900000001,14.521183],[75.68974900000001,14.521274],[75.689842,14.521273],[75.689842,14.521364],[75.690028,14.521363],[75.690028,14.521454],[75.690214,14.521453]]],"type":"Polygon"}
 }

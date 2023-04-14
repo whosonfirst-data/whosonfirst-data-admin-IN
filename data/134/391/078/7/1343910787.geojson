@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.54026,25.12515,82.54026,25.12515",
-    "geom:latitude":25.12515,
-    "geom:longitude":82.54026,
+    "geom:bbox":"82.54001,25.124603,82.541214,25.126224",
+    "geom:latitude":25.125324,
+    "geom:longitude":82.540678,
     "gn:admin1_code":"36",
     "gn:admin2_code":"199.0",
     "gn:asciiname":"Umaria",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.52026,25.10515,82.56026,25.14515",
+    "ks:ks_id":"KSA0B4B6863FF44E3AA3818B280D299871",
+    "ks:ks_name":"Umaria",
+    "ks:ks_source_id":"N|12996419",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1907445",
+    "lbl:latitude":25.125318,
+    "lbl:longitude":82.540829,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.125318,
+    "mps:longitude":82.540829,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0627\u0631\u064a\u0627"
@@ -44,6 +52,9 @@
     ],
     "name:bpy_x_preferred":[
         "\u0989\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Umaria"
     ],
     "name:fra_x_preferred":[
         "Umaria"
@@ -111,19 +122,27 @@
     "name:zho_x_preferred":[
         "\u4e4c\u9a6c\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
-        1108695885,
-        85672205
+        85672205,
+        1108695885
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10545791
+        "gn:id":10545791,
+        "ks:id":"KSA0B4B6863FF44E3AA3818B280D299871"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6ff4d645c9c3cef9ce8262e223850cb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"78c454b9532d30152a04973bb0375770",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +153,7 @@
         }
     ],
     "wof:id":1343910787,
-    "wof:lastmodified":1587163121,
+    "wof:lastmodified":1680655541,
     "wof:name":"Umaria",
     "wof:parent_id":1108695885,
     "wof:placetype":"locality",
@@ -144,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.54026,
-    25.12515,
-    82.54026,
-    25.12515
+    82.54001,
+    25.124603,
+    82.541214,
+    25.126224
 ],
-  "geometry": {"coordinates":[82.54026,25.12515],"type":"Point"}
+  "geometry": {"coordinates":[[[82.54092199999999,25.126223],[82.540921,25.126133],[82.54102,25.126132],[82.54101799999999,25.125951],[82.541117,25.12595],[82.541115,25.12577],[82.541214,25.125769],[82.54120399999999,25.124956],[82.540609,25.124962],[82.54060800000001,25.124872],[82.540509,25.124873],[82.54050599999999,25.124692],[82.540407,25.124693],[82.540406,25.124603],[82.54001,25.124607],[82.540015,25.125059],[82.540114,25.125058],[82.540117,25.125238],[82.540216,25.125237],[82.540217,25.125327],[82.540316,25.125326],[82.540317,25.125417],[82.54041599999999,25.125416],[82.54041700000001,25.125506],[82.54051699999999,25.125505],[82.540519,25.125685],[82.54061799999999,25.125684],[82.540623,25.126046],[82.540722,25.126045],[82.540723,25.126135],[82.54082200000001,25.126134],[82.540823,25.126224],[82.54092199999999,25.126223]]],"type":"Polygon"}
 }

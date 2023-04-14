@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.29109,20.42773,78.29109,20.42773",
-    "geom:latitude":20.42773,
-    "geom:longitude":78.29109,
+    "geom:bbox":"78.289644,20.426983,78.292723,20.428587",
+    "geom:latitude":20.427751,
+    "geom:longitude":78.291093,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Ghoti",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.27109,20.40773,78.31109,20.44773",
+    "ks:ks_id":"KS10BFD5E4075140138EBE0F5FC5D834AC",
+    "ks:ks_name":"Ghoti",
+    "ks:ks_pop":665,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|359815",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871037",
+    "lbl:latitude":20.427781,
+    "lbl:longitude":78.29091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.427781,
+    "mps:longitude":78.29091,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ghoti"
@@ -40,6 +50,9 @@
         "Ghoti"
     ],
     "name:deu_x_preferred":[
+        "Ghoti"
+    ],
+    "name:eng_x_preferred":[
         "Ghoti"
     ],
     "name:epo_x_preferred":[
@@ -93,7 +106,13 @@
     "name:zho_x_preferred":[
         "Ghoti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453433
+        "gn:id":10453433,
+        "ks:id":"KS10BFD5E4075140138EBE0F5FC5D834AC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d1a932d4895d8bde80f325ba0a65880a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e661324eb7bbd7cbf2ce9f87bb56819",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1343926963,
-    "wof:lastmodified":1566687351,
+    "wof:lastmodified":1680656490,
     "wof:name":"Ghoti",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":665,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.29109,
-    20.42773,
-    78.29109,
-    20.42773
+    78.289644,
+    20.426983,
+    78.292723,
+    20.428587
 ],
-  "geometry": {"coordinates":[78.29109,20.42773],"type":"Point"}
+  "geometry": {"coordinates":[[[78.29049999999999,20.428587],[78.29050100000001,20.428497],[78.29088400000001,20.428503],[78.290886,20.428412],[78.291173,20.428417],[78.291175,20.428327],[78.29155799999999,20.428333],[78.29155900000001,20.428242],[78.291847,20.428247],[78.291848,20.428156],[78.292614,20.428168],[78.29261700000001,20.427988],[78.29271300000001,20.427989],[78.292723,20.427448],[78.292627,20.427446],[78.29263,20.427266],[78.292534,20.427264],[78.292536,20.427174],[78.29244,20.427173],[78.29244199999999,20.427082],[78.29225,20.427079],[78.292252,20.426989],[78.29186900000001,20.426983],[78.291867,20.427073],[78.291293,20.427064],[78.291291,20.427155],[78.289951,20.427134],[78.28994899999999,20.427224],[78.28975800000001,20.427221],[78.289756,20.427311],[78.28966,20.42731],[78.289644,20.428212],[78.28973999999999,20.428214],[78.28973499999999,20.428485],[78.28983100000001,20.428486],[78.28982999999999,20.428576],[78.29049999999999,20.428587]]],"type":"Polygon"}
 }

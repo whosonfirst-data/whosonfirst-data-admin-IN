@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000013,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.55418,31.60881,75.55418,31.60881",
-    "geom:latitude":31.60881,
-    "geom:longitude":75.55418,
+    "geom:bbox":"75.55065,31.606052,75.556848,31.609555",
+    "geom:latitude":31.607591,
+    "geom:longitude":75.55386,
     "gn:admin1_code":"23",
     "gn:admin2_code":"36.0",
     "gn:asciiname":"Awan",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.53418,31.58881,75.57418,31.62881",
+    "ks:ks_id":"KSD96FCEDDF5364BACA0FF67109D8E57F9",
+    "ks:ks_name":"Awan",
+    "ks:ks_pop":1442,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0303000100292600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2211365",
+    "lbl:latitude":31.607399,
+    "lbl:longitude":75.554229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.607399,
+    "mps:longitude":75.554229,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Awan"
     ],
     "name:deu_x_preferred":[
+        "Awan"
+    ],
+    "name:eng_x_preferred":[
         "Awan"
     ],
     "name:nld_x_preferred":[
@@ -48,7 +61,13 @@
     "name:swe_x_preferred":[
         "Awan"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10702695
+        "gn:id":10702695,
+        "ks:id":"KSD96FCEDDF5364BACA0FF67109D8E57F9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a699601467cb216fee7f55fccf509ce9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"57c0af338d11e216d76d3ef215b34221",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1343916167,
-    "wof:lastmodified":1566685516,
+    "wof:lastmodified":1680655540,
     "wof:name":"Awan",
     "wof:parent_id":890510955,
     "wof:placetype":"locality",
+    "wof:population":1442,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.55418,
-    31.60881,
-    75.55418,
-    31.60881
+    75.55065,
+    31.606052,
+    75.556848,
+    31.609555
 ],
-  "geometry": {"coordinates":[75.55418,31.60881],"type":"Point"}
+  "geometry": {"coordinates":[[[75.55604,31.609555],[75.55604,31.609286],[75.556309,31.609286],[75.556309,31.609016],[75.556579,31.609016],[75.556579,31.608477],[75.556848,31.608477],[75.556848,31.607669],[75.556579,31.607669],[75.556579,31.607399],[75.556309,31.607399],[75.556309,31.60713],[75.55604,31.60713],[75.55604,31.60686],[75.55523100000001,31.60686],[75.55523100000001,31.606321],[75.554692,31.606321],[75.554692,31.606052],[75.55334499999999,31.606052],[75.55334499999999,31.606321],[75.552806,31.606321],[75.552806,31.606591],[75.551728,31.606591],[75.551728,31.606052],[75.55065,31.606052],[75.55065,31.607399],[75.55118899999999,31.607399],[75.55118899999999,31.607669],[75.551728,31.607669],[75.551728,31.607938],[75.55118899999999,31.607938],[75.55118899999999,31.608747],[75.552267,31.608747],[75.552267,31.607938],[75.552806,31.607938],[75.552806,31.608208],[75.55334499999999,31.608208],[75.55334499999999,31.608477],[75.553884,31.608477],[75.553884,31.608747],[75.554423,31.608747],[75.554423,31.609016],[75.554962,31.609016],[75.554962,31.609286],[75.55550100000001,31.609286],[75.55550100000001,31.609555],[75.55604,31.609555]]],"type":"Polygon"}
 }
