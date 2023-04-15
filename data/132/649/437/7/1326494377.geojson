@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.78508,19.24584,83.78508,19.24584",
-    "geom:latitude":19.24584,
-    "geom:longitude":83.78508,
+    "geom:bbox":"83.784494,19.24483,83.785838,19.246279",
+    "geom:latitude":19.245597,
+    "geom:longitude":83.785087,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Dharapuram",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.76508,19.22584,83.80508,19.26584",
+    "ks:ks_id":"KSF77B25FA54134E61A5A227F1EA9E4730",
+    "ks:ks_name":"Dharapur",
+    "ks:ks_pop":514,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|290324",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_611467",
+    "lbl:latitude":19.245636,
+    "lbl:longitude":83.785075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.245636,
+    "mps:longitude":83.785075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a7\u09be\u09b0\u09be\u09aa\u09c1\u09b0\u09ae"
     ],
     "name:ceb_x_preferred":[
+        "Dharapuram"
+    ],
+    "name:eng_x_preferred":[
+        "Dharapur"
+    ],
+    "name:eng_x_variant":[
         "Dharapuram"
     ],
     "name:ind_x_preferred":[
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u62c9\u666e\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10780950
+        "gn:id":10780950,
+        "ks:id":"KSF77B25FA54134E61A5A227F1EA9E4730"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7eacfd675fbc52c9d56979e2b5118db0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ea23e7fdb747dbd049541021439eb14a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1326494377,
-    "wof:lastmodified":1566683556,
-    "wof:name":"Dharapuram",
+    "wof:lastmodified":1680654550,
+    "wof:name":"Dharapur",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.78508000000002,
-    19.24584,
-    83.78508000000002,
-    19.24584
+    83.784494,
+    19.24483,
+    83.785838,
+    19.246279
 ],
-  "geometry": {"coordinates":[83.78508000000002,19.24584],"type":"Point"}
+  "geometry": {"coordinates":[[[83.785465,19.246269],[83.785464,19.246178],[83.78565399999999,19.246176],[83.785652,19.246085],[83.785748,19.246084],[83.785743,19.245813],[83.785838,19.245812],[83.785836,19.245721],[83.785741,19.245723],[83.785737,19.245452],[83.785642,19.245453],[83.785639,19.245273],[83.785544,19.245274],[83.78554200000001,19.245184],[83.785447,19.245186],[83.78544599999999,19.245095],[83.78535100000001,19.245097],[83.785349,19.245006],[83.78525399999999,19.245008],[83.785253,19.244918],[83.785062,19.244921],[83.785061,19.24483],[83.78468100000001,19.244836],[83.784682,19.244926],[83.784587,19.244928],[83.784589,19.245018],[83.784494,19.245019],[83.78451,19.246012],[83.784606,19.246011],[83.78460699999999,19.246101],[83.784702,19.2461],[83.784704,19.24619],[83.78479900000001,19.246189],[83.7848,19.246279],[83.785465,19.246269]]],"type":"Polygon"}
 }

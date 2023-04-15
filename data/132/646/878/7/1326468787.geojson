@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.95518,19.24871,77.95518,19.24871",
-    "geom:latitude":19.24871,
-    "geom:longitude":77.95518,
+    "geom:bbox":"77.954231,19.247935,77.956523,19.249837",
+    "geom:latitude":19.248766,
+    "geom:longitude":77.955333,
     "gn:admin1_code":"40",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Rajura",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.93518,19.22871,77.97518,19.26871",
+    "ks:ks_alt_nam":"Raj\u016bra",
+    "ks:ks_id":"KSDF9822FF482C4D448FBD3125E9142B6E",
+    "ks:ks_name":"Rajura",
+    "ks:ks_pop":382,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1264272",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_552462",
+    "lbl:latitude":19.248794,
+    "lbl:longitude":77.955312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.248794,
+    "mps:longitude":77.955312,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u099c\u09c1\u09b0\u09be"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "R\u0101j\u016bra"
+    ],
+    "name:eng_x_preferred":[
+        "Rajura"
+    ],
+    "name:eng_x_variant":[
+        "Raj\u016bra"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0a9c\u0ac1\u0ab0\u0abe"
@@ -69,7 +86,13 @@
     "name:vie_x_preferred":[
         "Rajura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10448903
+        "gn:id":10448903,
+        "ks:id":"KSDF9822FF482C4D448FBD3125E9142B6E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"34c6af898f2d01a45a153ef7defede22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cb5d042c3275e7534cdb023df926fc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1326468787,
-    "wof:lastmodified":1566683854,
+    "wof:lastmodified":1680654697,
     "wof:name":"Rajura",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.95518,
-    19.24871,
-    77.95518,
-    19.24871
+    77.954231,
+    19.247935,
+    77.956523,
+    19.249837
 ],
-  "geometry": {"coordinates":[77.95518,19.24871],"type":"Point"}
+  "geometry": {"coordinates":[[[77.955304,19.249832],[77.95530100000001,19.249652],[77.95549099999999,19.249649],[77.955489,19.249558],[77.955584,19.249557],[77.955583,19.249466],[77.95577299999999,19.249463],[77.955771,19.249373],[77.95615100000001,19.249367],[77.95614999999999,19.249277],[77.95634,19.249274],[77.956337,19.249093],[77.95643200000001,19.249092],[77.956428,19.248911],[77.956523,19.24891],[77.956519,19.248639],[77.956424,19.24864],[77.95641999999999,19.24846],[77.95632500000001,19.248461],[77.956324,19.248371],[77.95622899999999,19.248373],[77.956227,19.248282],[77.956132,19.248284],[77.95613,19.248194],[77.956035,19.248195],[77.956034,19.248105],[77.955939,19.248107],[77.95593700000001,19.248016],[77.955367,19.248026],[77.955365,19.247935],[77.954605,19.247948],[77.954607,19.248038],[77.95441700000001,19.248041],[77.954418,19.248131],[77.954323,19.248133],[77.95432599999999,19.248313],[77.95423099999999,19.248315],[77.954238,19.248676],[77.95433300000001,19.248674],[77.954336,19.248855],[77.954431,19.248853],[77.95443400000001,19.249034],[77.95452899999999,19.249032],[77.954531,19.249122],[77.954626,19.249121],[77.95463100000001,19.249392],[77.95472599999999,19.24939],[77.954729,19.249571],[77.954824,19.249569],[77.954826,19.249659],[77.954921,19.249658],[77.95492299999999,19.249748],[77.955018,19.249746],[77.95501899999999,19.249837],[77.955304,19.249832]]],"type":"Polygon"}
 }

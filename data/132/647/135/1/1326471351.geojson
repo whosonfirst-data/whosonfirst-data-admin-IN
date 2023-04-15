@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.96057,25.20608,83.96057,25.20608",
-    "geom:latitude":25.20608,
-    "geom:longitude":83.96057,
+    "geom:bbox":"83.960498,25.205825,83.961037,25.206094",
+    "geom:latitude":25.205959,
+    "geom:longitude":83.960768,
     "gn:admin1_code":"34",
     "gn:admin2_code":"234.0",
     "gn:asciiname":"Meura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.94057,25.18608,83.98057,25.22608",
+    "ks:ks_id":"KS062BEC4013CE4CA3BB9A2F3677532458",
+    "ks:ks_name":"Meura",
+    "ks:ks_pop":330,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12956389",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1336689",
+    "lbl:latitude":25.20596,
+    "lbl:longitude":83.960768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.20596,
+    "mps:longitude":83.960768,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u043e\u0439\u0440\u0430"
@@ -37,6 +47,9 @@
         "Meura"
     ],
     "name:deu_x_preferred":[
+        "Meura"
+    ],
+    "name:eng_x_preferred":[
         "Meura"
     ],
     "name:epo_x_preferred":[
@@ -105,7 +118,13 @@
     "name:zho_x_preferred":[
         "\u83ab\u4f0a\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +133,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10511022
+        "gn:id":10511022,
+        "ks:id":"KS062BEC4013CE4CA3BB9A2F3677532458"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cf2bf0600fba2eb42ba3cc15c28543ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9cc8cc4a1f4cb1394fa4efb79c45a27d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +151,22 @@
         }
     ],
     "wof:id":1326471351,
-    "wof:lastmodified":1566683614,
+    "wof:lastmodified":1680654573,
     "wof:name":"Meura",
     "wof:parent_id":1108695945,
     "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.96056999999998,
-    25.20608,
-    83.96056999999998,
-    25.20608
+    83.960498,
+    25.205825,
+    83.961037,
+    25.206094
 ],
-  "geometry": {"coordinates":[83.96056999999998,25.20608],"type":"Point"}
+  "geometry": {"coordinates":[[[83.961037,25.205825],[83.960498,25.205825],[83.960498,25.206094],[83.961037,25.206094],[83.961037,25.205825]]],"type":"Polygon"}
 }

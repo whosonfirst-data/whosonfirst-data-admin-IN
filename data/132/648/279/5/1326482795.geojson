@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.22988,26.43345,79.22988,26.43345",
-    "geom:latitude":26.43345,
-    "geom:longitude":79.22988,
+    "geom:bbox":"79.228982,26.432564,79.230329,26.433642",
+    "geom:latitude":26.433166,
+    "geom:longitude":79.229799,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"162",
     "gn:asciiname":"Gunj",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.20988,26.41345,79.24988,26.45345",
+    "ks:ks_id":"KS3D3482E79B3D4DB6A1653F18E504B338",
+    "ks:ks_name":"Gunj",
+    "ks:ks_pop":304,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|385811",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_832858",
+    "lbl:latitude":26.43318,
+    "lbl:longitude":79.229921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.43318,
+    "mps:longitude":79.229921,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Gunj"
+    ],
     "name:und_x_variant":[
         "G\u016bnj Kal\u0101n"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6996222
+        "gn:id":6996222,
+        "ks:id":"KS3D3482E79B3D4DB6A1653F18E504B338"
     },
     "wof:country":"IN",
-    "wof:geomhash":"13b6e365dee814107ccb4feeb1d782b7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"01032f242f3c70d3a1ff75d4315bd288",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1326482795,
-    "wof:lastmodified":1566684126,
+    "wof:lastmodified":1680654844,
     "wof:name":"Gunj",
     "wof:parent_id":1108695827,
     "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.22988000000002,
-    26.43345,
-    79.22988000000002,
-    26.43345
+    79.228982,
+    26.432564,
+    79.230329,
+    26.433642
 ],
-  "geometry": {"coordinates":[79.22988000000002,26.43345],"type":"Point"}
+  "geometry": {"coordinates":[[[79.230329,26.433642],[79.230329,26.432564],[79.22952100000001,26.432564],[79.22952100000001,26.433103],[79.229251,26.433103],[79.229251,26.433373],[79.228982,26.433373],[79.228982,26.433642],[79.230329,26.433642]]],"type":"Polygon"}
 }

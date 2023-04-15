@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.70068,11.58859,75.70068,11.58859",
-    "geom:latitude":11.58859,
-    "geom:longitude":75.70068,
+    "geom:bbox":"75.709006,11.593586,75.710018,11.595213",
+    "geom:latitude":11.594464,
+    "geom:longitude":75.709519,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"591.0",
     "gn:asciiname":"Avala",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.68068,11.56859,75.72068,11.60859",
+    "ks:ks_alt_nam":"avala",
+    "ks:ks_id":"KS02F20A0BC8C349BD85E9D5BF51C7877C",
+    "ks:ks_name":"Avala",
+    "ks:ks_pop":478,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|735062",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_133928",
+    "lbl:latitude":11.594851,
+    "lbl:longitude":75.709695,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.594851,
+    "mps:longitude":75.709695,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0432\u0430\u043b\u0430"
@@ -41,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b2\u03b1\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Avala"
     ],
     "name:fra_x_preferred":[
         "Avala"
@@ -87,7 +101,13 @@
     "name:zho_x_preferred":[
         "\u963f\u74e6\u62c9\u5c71"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +116,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10925002
+        "gn:id":10925002,
+        "ks:id":"KS02F20A0BC8C349BD85E9D5BF51C7877C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3ecd9f44448e53d39fcff7caff1918fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aac22df39026110e34701498a85492c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +134,22 @@
         }
     ],
     "wof:id":1326516117,
-    "wof:lastmodified":1566682107,
+    "wof:lastmodified":1680653970,
     "wof:name":"Avala",
     "wof:parent_id":890510777,
     "wof:placetype":"locality",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.70068,
-    11.58859,
-    75.70068,
-    11.58859
+    75.709006,
+    11.593586,
+    75.710018,
+    11.595213
 ],
-  "geometry": {"coordinates":[75.70068000000001,11.58859],"type":"Point"}
+  "geometry": {"coordinates":[[[75.709835,11.595212],[75.709835,11.595122],[75.709926,11.595122],[75.709926,11.595031],[75.71001800000001,11.595031],[75.71001699999999,11.59476],[75.709925,11.59476],[75.709925,11.59467],[75.709833,11.59467],[75.709833,11.594579],[75.70965,11.59458],[75.709649,11.594489],[75.709558,11.59449],[75.709557,11.594309],[75.70946600000001,11.594309],[75.70946499999999,11.594038],[75.709373,11.594038],[75.709373,11.593857],[75.709464,11.593857],[75.709464,11.593676],[75.709372,11.593676],[75.709372,11.593586],[75.70928000000001,11.593586],[75.709281,11.593676],[75.709097,11.593677],[75.709097,11.593767],[75.709006,11.593767],[75.709006,11.593948],[75.709098,11.593948],[75.709098,11.594039],[75.70919000000001,11.594038],[75.70919000000001,11.594129],[75.709282,11.594129],[75.709283,11.59449],[75.709374,11.59449],[75.70937499999999,11.594671],[75.70946600000001,11.594671],[75.709467,11.595032],[75.709559,11.595032],[75.709559,11.595123],[75.709743,11.595122],[75.709743,11.595213],[75.709835,11.595212]]],"type":"Polygon"}
 }

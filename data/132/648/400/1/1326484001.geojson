@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.48303,25.3467,85.48303,25.3467",
-    "geom:latitude":25.3467,
-    "geom:longitude":85.48303,
+    "geom:bbox":"85.481968,25.345863,85.484453,25.347588",
+    "geom:latitude":25.346668,
+    "geom:longitude":85.483242,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Paharpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.46303,25.3267,85.50303,25.3667",
+    "ks:ks_id":"KS9D66CF6DB1DA4AB2AE00A3DE115A204A",
+    "ks:ks_name":"Paharpur",
+    "ks:ks_pop":735,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|805180",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2069101",
+    "lbl:latitude":25.346729,
+    "lbl:longitude":85.483219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.346729,
+    "mps:longitude":85.483219,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
@@ -36,10 +46,19 @@
     "name:ceb_x_preferred":[
         "Paharpur"
     ],
+    "name:eng_x_preferred":[
+        "Paharpur"
+    ],
     "name:nld_x_preferred":[
         "Paharpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028778
+        "gn:id":11028778,
+        "ks:id":"KS9D66CF6DB1DA4AB2AE00A3DE115A204A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c09d28e529df2f62dac7b1ad96a64acb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2b690afd347184df5dac1e50029a44e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1326484001,
-    "wof:lastmodified":1566684095,
+    "wof:lastmodified":1680654828,
     "wof:name":"Paharpur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":735,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.48303,
-    25.3467,
-    85.48303,
-    25.3467
+    85.481968,
+    25.345863,
+    85.484453,
+    25.347588
 ],
-  "geometry": {"coordinates":[85.48303,25.3467],"type":"Point"}
+  "geometry": {"coordinates":[[[85.483346,25.347588],[85.48334699999999,25.347498],[85.483943,25.347504],[85.48394399999999,25.347414],[85.484043,25.347415],[85.48404600000001,25.347234],[85.484244,25.347236],[85.484245,25.347146],[85.484345,25.347147],[85.48434899999999,25.346786],[85.484449,25.346787],[85.484453,25.346426],[85.484354,25.346425],[85.48435600000001,25.346244],[85.484257,25.346243],[85.484258,25.346153],[85.48415799999999,25.346152],[85.48416,25.346062],[85.48406,25.346061],[85.484061,25.34597],[85.483863,25.345968],[85.483864,25.345878],[85.483069,25.34587],[85.483068,25.34596],[85.48257099999999,25.345955],[85.482572,25.345865],[85.48237399999999,25.345863],[85.482373,25.345953],[85.482174,25.345951],[85.482173,25.346041],[85.482073,25.34604],[85.482072,25.34613],[85.481973,25.346129],[85.48196799999999,25.34649],[85.482068,25.346491],[85.48206500000001,25.346672],[85.48216499999999,25.346673],[85.482163,25.346854],[85.48226200000001,25.346855],[85.48226099999999,25.346945],[85.48236,25.346946],[85.482359,25.347036],[85.48245799999999,25.347037],[85.482456,25.347218],[85.482555,25.347219],[85.482553,25.347399],[85.482653,25.3474],[85.482651,25.347491],[85.48275099999999,25.347492],[85.48275,25.347582],[85.483346,25.347588]]],"type":"Polygon"}
 }
