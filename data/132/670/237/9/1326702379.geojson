@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.37835,20.38481,79.37835,20.38481",
-    "geom:latitude":20.38481,
-    "geom:longitude":79.37835,
+    "geom:bbox":"79.377876,20.384219,79.378841,20.385395",
+    "geom:latitude":20.384806,
+    "geom:longitude":79.378298,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Deori",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.35835,20.36481,79.39835,20.40481",
+    "ks:ks_id":"KS27FAEB9055A5450CBC36E2AF4EE0037F",
+    "ks:ks_name":"Deori",
+    "ks:ks_pop":237,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12965783",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870729",
+    "lbl:latitude":20.384791,
+    "lbl:longitude":79.378355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.384791,
+    "mps:longitude":79.378355,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Deori"
     ],
     "name:ceb_x_preferred":[
+        "Deori"
+    ],
+    "name:eng_x_preferred":[
         "Deori"
     ],
     "name:por_x_preferred":[
@@ -45,7 +58,13 @@
     "name:und_x_variant":[
         "Tukm Chaiti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519645
+        "gn:id":10519645,
+        "ks:id":"KS27FAEB9055A5450CBC36E2AF4EE0037F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"95add2adfdccb31e5a16aa2de9841b40",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a45cda98d16412730b2e7e99eef2a807",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1326702379,
-    "wof:lastmodified":1566683926,
+    "wof:lastmodified":1680654734,
     "wof:name":"Deori",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.37835,
-    20.38481,
-    79.37835,
-    20.38481
+    79.377876,
+    20.384219,
+    79.378841,
+    20.385395
 ],
-  "geometry": {"coordinates":[79.37835,20.38481],"type":"Point"}
+  "geometry": {"coordinates":[[[79.378259,20.385395],[79.37826,20.385304],[79.378451,20.385306],[79.378452,20.385216],[79.37854799999999,20.385217],[79.37854900000001,20.385126],[79.37864500000001,20.385127],[79.378646,20.385037],[79.378742,20.385038],[79.378743,20.384948],[79.378838,20.384948],[79.37884099999999,20.384677],[79.378745,20.384677],[79.378747,20.384496],[79.378652,20.384495],[79.378652,20.384405],[79.378461,20.384403],[79.378462,20.384313],[79.378366,20.384312],[79.378367,20.384221],[79.37808,20.384219],[79.378079,20.384309],[79.377983,20.384308],[79.377982,20.384398],[79.377886,20.384398],[79.377881,20.384849],[79.377977,20.38485],[79.37797399999999,20.385121],[79.37787899999999,20.38512],[79.377876,20.385391],[79.378259,20.385395]]],"type":"Polygon"}
 }
