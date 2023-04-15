@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.1964,27.27517,82.1964,27.27517",
-    "geom:latitude":27.27517,
-    "geom:longitude":82.1964,
+    "geom:bbox":"82.195701,27.274456,82.197321,27.275994",
+    "geom:latitude":27.275168,
+    "geom:longitude":82.19653,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Ramnagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.1764,27.25517,82.2164,27.29517",
+    "ks:ks_id":"KSBC36A85B1675493982317CB8C986B5AA",
+    "ks:ks_name":"Ram Nagar",
+    "ks:ks_pop":740,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|897934",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1981322",
+    "lbl:latitude":27.275182,
+    "lbl:longitude":82.196515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.275182,
+    "mps:longitude":82.196515,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0646\u0627\u063a\u0627\u0631"
@@ -46,6 +56,12 @@
         "Ramnagar"
     ],
     "name:ceb_x_preferred":[
+        "Ramnagar"
+    ],
+    "name:eng_x_preferred":[
+        "Ram Nagar"
+    ],
+    "name:eng_x_variant":[
         "Ramnagar"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +109,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645 \u0646\u06af\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10596870
+        "gn:id":10596870,
+        "ks:id":"KSBC36A85B1675493982317CB8C986B5AA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c70e73347b15398b723963bb27b150c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"61b4879df1ae377bec7fcd1b041864c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1276919787,
-    "wof:lastmodified":1576021319,
-    "wof:name":"Ramnagar",
+    "wof:lastmodified":1680660817,
+    "wof:name":"Ram Nagar",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.1964,
-    27.27517000000001,
-    82.1964,
-    27.27517000000001
+    82.195701,
+    27.274456,
+    82.197321,
+    27.275994
 ],
-  "geometry": {"coordinates":[82.1964,27.27517000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[82.19672300000001,27.275993],[82.19672199999999,27.275902],[82.196924,27.275901],[82.196922,27.27572],[82.197023,27.275719],[82.197022,27.275629],[82.197123,27.275628],[82.197121,27.275448],[82.197222,27.275447],[82.19722,27.275266],[82.197321,27.275265],[82.197315,27.274724],[82.197214,27.274725],[82.197213,27.274634],[82.197112,27.274635],[82.19711100000001,27.274545],[82.19701000000001,27.274546],[82.19700899999999,27.274456],[82.196403,27.274461],[82.196404,27.274551],[82.196101,27.274554],[82.196102,27.274644],[82.19589999999999,27.274646],[82.195902,27.274826],[82.195801,27.274827],[82.195802,27.274917],[82.195701,27.274918],[82.195707,27.27546],[82.195808,27.275459],[82.195809,27.275549],[82.19591,27.275548],[82.195911,27.275639],[82.196012,27.275638],[82.19601299999999,27.275728],[82.19611399999999,27.275727],[82.19611500000001,27.275817],[82.19631699999999,27.275816],[82.19631800000001,27.275906],[82.19652000000001,27.275904],[82.196521,27.275994],[82.19672300000001,27.275993]]],"type":"Polygon"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.68485,24.61275,81.68485,24.61275",
-    "geom:latitude":24.61275,
-    "geom:longitude":81.68485,
+    "geom:bbox":"81.685425,24.612667,81.685694,24.612937",
+    "geom:latitude":24.612802,
+    "geom:longitude":81.685559,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Shah",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.66485,24.59275,81.70485,24.63275",
+    "ks:ks_alt_nam":"Sh\u0101h",
+    "ks:ks_id":"KS7AFA173862EB43B9BE3E0DBFD8DA9594",
+    "ks:ks_name":"Shah",
+    "ks:ks_pop":103,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|974765",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_771330",
+    "lbl:latitude":24.612802,
+    "lbl:longitude":81.68556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.612802,
+    "mps:longitude":81.68556,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sjah"
@@ -77,6 +88,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03c7\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Shah"
+    ],
+    "name:eng_x_variant":[
+        "Sh\u0101h"
     ],
     "name:epo_x_preferred":[
         "\u015caho"
@@ -192,7 +209,13 @@
     "name:vie_x_preferred":[
         "Shah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -201,10 +224,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10532440
+        "gn:id":10532440,
+        "ks:id":"KS7AFA173862EB43B9BE3E0DBFD8DA9594"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0fc8361ee506882ebd384438408b2333",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7fbc0140b117d8bf3a87efb20ecd0b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,20 +242,22 @@
         }
     ],
     "wof:id":1276920617,
-    "wof:lastmodified":1566692949,
+    "wof:lastmodified":1680659956,
     "wof:name":"Shah",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.68485,
-    24.61275,
-    81.68485,
-    24.61275
+    81.685425,
+    24.612667,
+    81.685694,
+    24.612937
 ],
-  "geometry": {"coordinates":[81.68485,24.61275],"type":"Point"}
+  "geometry": {"coordinates":[[[81.685694,24.612667],[81.685425,24.612667],[81.685425,24.612937],[81.685694,24.612937],[81.685694,24.612667]]],"type":"Polygon"}
 }

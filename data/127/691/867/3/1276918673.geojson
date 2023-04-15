@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.93633,22.31981,81.93633,22.31981",
-    "geom:latitude":22.31981,
-    "geom:longitude":81.93633,
+    "geom:bbox":"81.935516,22.320886,81.937941,22.321964",
+    "geom:latitude":22.321478,
+    "geom:longitude":81.936705,
     "gn:admin1_code":"37",
     "gn:admin2_code":"406.0",
     "gn:asciiname":"Saraipali",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.91633,22.29981,81.95633,22.33981",
+    "ks:ks_alt_nam":"SARAIPALI",
+    "ks:ks_id":"KSEA31BEDB71F84E289B7DBE5F1839DC4A",
+    "ks:ks_name":"Saraipali",
+    "ks:ks_pop":447,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|955107",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_710553",
+    "lbl:latitude":22.321629,
+    "lbl:longitude":81.936803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.321629,
+    "mps:longitude":81.936803,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09be\u0987\u09aa\u09be\u09b2\u09bf"
@@ -38,6 +49,9 @@
     ],
     "name:ceb_x_preferred":[
         "Saraip\u0101li"
+    ],
+    "name:eng_x_preferred":[
+        "Saraipali"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0930\u093e\u092f\u092a\u093e\u0932\u0940"
@@ -75,7 +89,13 @@
     "name:zho_x_preferred":[
         "\u8428\u8d56\u5e15\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10727413
+        "gn:id":10727413,
+        "ks:id":"KSEA31BEDB71F84E289B7DBE5F1839DC4A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0ece7da447dcb5f3f89a99c8b3812a03",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17fbefe11dff917f5f97862588c06e60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +122,22 @@
         }
     ],
     "wof:id":1276918673,
-    "wof:lastmodified":1566694165,
+    "wof:lastmodified":1680660811,
     "wof:name":"Saraipali",
     "wof:parent_id":890506469,
     "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.93633,
-    22.31981,
-    81.93633,
-    22.31981
+    81.935516,
+    22.320886,
+    81.937941,
+    22.321964
 ],
-  "geometry": {"coordinates":[81.93633,22.31981],"type":"Point"}
+  "geometry": {"coordinates":[[[81.937133,22.321964],[81.937133,22.321694],[81.93740200000001,22.321694],[81.93740200000001,22.321425],[81.937941,22.321425],[81.937941,22.320886],[81.937133,22.320886],[81.937133,22.321155],[81.936594,22.321155],[81.936594,22.321425],[81.936324,22.321425],[81.936324,22.321155],[81.935785,22.321155],[81.935785,22.321425],[81.93551600000001,22.321425],[81.93551600000001,22.321964],[81.937133,22.321964]]],"type":"Polygon"}
 }

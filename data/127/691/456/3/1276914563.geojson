@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.83188,28.01648,79.83188,28.01648",
-    "geom:latitude":28.01648,
-    "geom:longitude":79.83188,
+    "geom:bbox":"79.829009,28.013971,79.831456,28.01604",
+    "geom:latitude":28.014989,
+    "geom:longitude":79.830181,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"152.0",
     "gn:asciiname":"Khargapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.81188,27.99648,79.85188,28.03648",
+    "ks:ks_alt_nam":"Kharg\u0101pur",
+    "ks:ks_id":"KS8B6E39B511E44EBD99A379480586831A",
+    "ks:ks_name":"Khargapur",
+    "ks:ks_pop":553,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|548379",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2017864",
+    "lbl:latitude":28.014944,
+    "lbl:longitude":79.830205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.014944,
+    "mps:longitude":79.830205,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09a1\u09bc\u0997\u09aa\u09c1\u09b0"
@@ -37,6 +48,12 @@
         "\u0996\u09a1\u09bc\u0997\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Kharg\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Khargapur"
+    ],
+    "name:eng_x_variant":[
         "Kharg\u0101pur"
     ],
     "name:ita_x_preferred":[
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5c14\u52a0\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10585492
+        "gn:id":10585492,
+        "ks:id":"KS8B6E39B511E44EBD99A379480586831A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a36cd286589c8569645cccbce6e93561",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"15eba6abc813333a48ee38cbd1b92ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1276914563,
-    "wof:lastmodified":1566694204,
+    "wof:lastmodified":1680660839,
     "wof:name":"Khargapur",
     "wof:parent_id":1108695811,
     "wof:placetype":"locality",
+    "wof:population":553,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.83188,
-    28.01648,
-    79.83188,
-    28.01648
+    79.829009,
+    28.013971,
+    79.831456,
+    28.01604
 ],
-  "geometry": {"coordinates":[79.83188,28.01648],"type":"Point"}
+  "geometry": {"coordinates":[[[79.82930500000001,28.01604],[79.829306,28.015949],[79.829713,28.015953],[79.829714,28.015862],[79.83001899999999,28.015865],[79.83002,28.015775],[79.83063,28.01578],[79.830631,28.01569],[79.83093599999999,28.015692],[79.83093700000001,28.015602],[79.831039,28.015603],[79.83104,28.015513],[79.831141,28.015514],[79.831142,28.015423],[79.831244,28.015424],[79.831247,28.015153],[79.831349,28.015154],[79.831351,28.014974],[79.831452,28.014975],[79.831456,28.014614],[79.831355,28.014613],[79.831357,28.014432],[79.831255,28.014431],[79.831256,28.014341],[79.831052,28.014339],[79.831053,28.014249],[79.830952,28.014248],[79.83095299999999,28.014158],[79.830851,28.014157],[79.83085199999999,28.014067],[79.83064899999999,28.014065],[79.83065000000001,28.013975],[79.830141,28.013971],[79.83014,28.014061],[79.829937,28.014059],[79.829936,28.014149],[79.82983400000001,28.014149],[79.82983299999999,28.014239],[79.82962999999999,28.014237],[79.829629,28.014327],[79.829527,28.014326],[79.829526,28.014417],[79.829424,28.014416],[79.82942300000001,28.014506],[79.829322,28.014505],[79.82932099999999,28.014595],[79.829117,28.014594],[79.829116,28.014684],[79.829015,28.014683],[79.829009,28.015225],[79.82911,28.015225],[79.82910200000001,28.016038],[79.82930500000001,28.01604]]],"type":"Polygon"}
 }

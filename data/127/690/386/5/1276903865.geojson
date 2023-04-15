@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.27768,29.98149,79.27768,29.98149",
-    "geom:latitude":29.98149,
-    "geom:longitude":79.27768,
+    "geom:bbox":"79.275681,29.979477,79.27703,29.980835",
+    "geom:latitude":29.97995,
+    "geom:longitude":79.276584,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"57.0",
     "gn:asciiname":"Bina",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.25768,29.96149,79.29768,30.00149",
+    "ks:ks_id":"KSBC556C7055EE40B6BC9FCEF015B48D22",
+    "ks:ks_name":"Bina",
+    "ks:ks_pop":727,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|165080",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1840433",
+    "lbl:latitude":29.979823,
+    "lbl:longitude":79.27663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.979823,
+    "mps:longitude":79.27663,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bina"
     ],
     "name:deu_x_preferred":[
+        "Bina"
+    ],
+    "name:eng_x_preferred":[
         "Bina"
     ],
     "name:heb_x_preferred":[
@@ -57,7 +70,13 @@
     "name:tur_x_preferred":[
         "Bina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10806402
+        "gn:id":10806402,
+        "ks:id":"KSBC556C7055EE40B6BC9FCEF015B48D22"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f231832bf69916124d900363ed68fcfb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f2046bf47af4ce5fcc24fc81dace3a06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1276903865,
-    "wof:lastmodified":1566693923,
+    "wof:lastmodified":1680660648,
     "wof:name":"Bina",
     "wof:parent_id":890510637,
     "wof:placetype":"locality",
+    "wof:population":727,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.27768,
-    29.98149,
-    79.27768,
-    29.98149
+    79.275681,
+    29.979477,
+    79.27703,
+    29.980835
 ],
-  "geometry": {"coordinates":[79.27768,29.98149],"type":"Point"}
+  "geometry": {"coordinates":[[[79.27659300000001,29.980835],[79.276597,29.980655],[79.27670000000001,29.980656],[79.276703,29.980476],[79.27680700000001,29.980477],[79.276808,29.980387],[79.276912,29.980388],[79.27692,29.979937],[79.277024,29.979938],[79.27703,29.979578],[79.276926,29.979576],[79.276928,29.979486],[79.276202,29.979477],[79.276201,29.979567],[79.275683,29.97956],[79.27568100000001,29.97965],[79.27619900000001,29.979657],[79.27619799999999,29.979747],[79.276301,29.979749],[79.276297,29.980019],[79.2764,29.980021],[79.276394,29.980381],[79.276498,29.980383],[79.27649,29.980834],[79.27659300000001,29.980835]]],"type":"Polygon"}
 }

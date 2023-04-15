@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.59796,24.1866,87.59796,24.1866",
-    "geom:latitude":24.1866,
-    "geom:longitude":87.59796,
+    "geom:bbox":"87.597328,24.186057,87.599214,24.186866",
+    "geom:latitude":24.186448,
+    "geom:longitude":87.598231,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"362.0",
     "gn:asciiname":"Tarachua",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.57796,24.1666,87.61796,24.2066",
+    "ks:ks_alt_nam":"T\u0101r\u0101chua",
+    "ks:ks_id":"KS2F1D10CC05C649F58D849B34F8C615AA",
+    "ks:ks_name":"Tarachua",
+    "ks:ks_pop":326,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1033196",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1272477",
+    "lbl:latitude":24.186462,
+    "lbl:longitude":87.598231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.186462,
+    "mps:longitude":87.598231,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Tarachua"
+    ],
+    "name:eng_x_variant":[
+        "T\u0101r\u0101chua"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017945
+        "gn:id":11017945,
+        "ks:id":"KS2F1D10CC05C649F58D849B34F8C615AA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"385833ac83abb2847ae1698a87e021bd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7f97745c94f26178f471bb6b46bc67ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1276918337,
-    "wof:lastmodified":1566694165,
+    "wof:lastmodified":1680660811,
     "wof:name":"Tarachua",
     "wof:parent_id":1108696121,
     "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.59796,
-    24.1866,
-    87.59796,
-    24.1866
+    87.597328,
+    24.186057,
+    87.599214,
+    24.186866
 ],
-  "geometry": {"coordinates":[87.59796,24.1866],"type":"Point"}
+  "geometry": {"coordinates":[[[87.598945,24.186866],[87.598945,24.186596],[87.599214,24.186596],[87.599214,24.186057],[87.597328,24.186057],[87.597328,24.186866],[87.598945,24.186866]]],"type":"Polygon"}
 }

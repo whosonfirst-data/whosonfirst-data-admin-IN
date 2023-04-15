@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.74281,22.56019,79.74281,22.56019",
-    "geom:latitude":22.56019,
-    "geom:longitude":79.74281,
+    "geom:bbox":"79.74229,22.559795,79.743846,22.560703",
+    "geom:latitude":22.560264,
+    "geom:longitude":79.743069,
     "gn:admin1_code":"35",
     "gn:admin2_code":"456.0",
     "gn:asciiname":"Gorakhpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.72281,22.54019,79.76281,22.58019",
+    "ks:ks_id":"KSD6F63746CBB345028EA8BFCC6A27C570",
+    "ks:ks_name":"Gorakhpur",
+    "ks:ks_pop":136,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|374212",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_984951",
+    "lbl:latitude":22.560292,
+    "lbl:longitude":79.743133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.560292,
+    "mps:longitude":79.743133,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0631\u0627\u0643\u0628\u0648\u0631"
@@ -56,6 +66,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c1\u03b1\u03ba\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Gorakhpur"
     ],
     "name:epo_x_preferred":[
         "Gorakhpur"
@@ -165,7 +178,13 @@
     "name:zho_x_preferred":[
         "\u6208\u52d2\u514b\u5e03\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -174,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10543196
+        "gn:id":10543196,
+        "ks:id":"KSD6F63746CBB345028EA8BFCC6A27C570"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7c22b623aa140ea8cdb4087d325482c5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2ef04a06886f9a87b7df03aaaf70469",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +211,22 @@
         }
     ],
     "wof:id":1276915729,
-    "wof:lastmodified":1636505501,
+    "wof:lastmodified":1680660815,
     "wof:name":"Gorakhpur",
     "wof:parent_id":890511127,
     "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.74281,
-    22.56019,
-    79.74281,
-    22.56019
+    79.74229,
+    22.559795,
+    79.743846,
+    22.560703
 ],
-  "geometry": {"coordinates":[79.74281000000001,22.56019],"type":"Point"}
+  "geometry": {"coordinates":[[[79.74355,22.560703],[79.74355199999999,22.560522],[79.743746,22.560523],[79.743747,22.560433],[79.743844,22.560434],[79.743846,22.560253],[79.74374899999999,22.560253],[79.743751,22.560072],[79.74365299999999,22.560071],[79.74365400000001,22.559981],[79.743557,22.55998],[79.74355799999999,22.55989],[79.74346,22.559889],[79.743461,22.559799],[79.742975,22.559795],[79.742974,22.559885],[79.74248799999999,22.559881],[79.742487,22.559972],[79.74239,22.559971],[79.74238800000001,22.560152],[79.74229099999999,22.560151],[79.74229,22.560241],[79.74238699999999,22.560242],[79.742385,22.560513],[79.742482,22.560514],[79.742481,22.560604],[79.742676,22.560605],[79.74267500000001,22.560696],[79.74355,22.560703]]],"type":"Polygon"}
 }

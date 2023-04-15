@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalan"
@@ -62,9 +63,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672239,
         102191569,
         85632469,
-        85672239,
         890507573
     ],
     "wof:breaches":[],
@@ -72,7 +73,7 @@
         "gn:id":10494118
     },
     "wof:country":"IN",
-    "wof:geomhash":"ddeaca23a2592b98da5937c49a52cd8c",
+    "wof:geomhash":"f80585446da0117fb0d858de8c01cd33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +84,22 @@
         }
     ],
     "wof:id":1276915997,
-    "wof:lastmodified":1566694184,
+    "wof:lastmodified":1680629626,
     "wof:name":"Kalan",
     "wof:parent_id":890507573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847125875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39558000000002,
+    79.39558,
     24.51862,
-    79.39558000000002,
+    79.39558,
     24.51862
 ],
-  "geometry": {"coordinates":[79.39558000000002,24.51862],"type":"Point"}
+  "geometry": {"coordinates":[79.39558,24.51862],"type":"Point"}
 }
