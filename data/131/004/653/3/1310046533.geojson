@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.54313,25.75369,86.54313,25.75369",
-    "geom:latitude":25.75369,
-    "geom:longitude":86.54313,
+    "geom:bbox":"86.543065,25.752899,86.543873,25.754516",
+    "geom:latitude":25.753708,
+    "geom:longitude":86.543469,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"214.0",
     "gn:asciiname":"Sonpura",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.52313,25.73369,86.56313,25.77369",
+    "ks:ks_id":"KS05CA6EE53BB94887B1492A4D6CC79808",
+    "ks:ks_name":"Sonpura",
+    "ks:ks_pop":488,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1007144",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1554065",
+    "lbl:latitude":25.753707,
+    "lbl:longitude":86.543469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.753707,
+    "mps:longitude":86.543469,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sonpura"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa8\u0aaa\u0ac1\u0ab0\u0abe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10902519
+        "gn:id":10902519,
+        "ks:id":"KS05CA6EE53BB94887B1492A4D6CC79808"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d278c5e7dded12ee12cc15dd7fc105af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4744a9824b2a29f3d3077dd7a3177517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1310046533,
-    "wof:lastmodified":1566701899,
+    "wof:lastmodified":1680668910,
     "wof:name":"Sonpura",
     "wof:parent_id":1108695911,
     "wof:placetype":"locality",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.54313,
-    25.75369,
-    86.54313,
-    25.75369
+    86.543065,
+    25.752899,
+    86.543873,
+    25.754516
 ],
-  "geometry": {"coordinates":[86.54313,25.75369],"type":"Point"}
+  "geometry": {"coordinates":[[[86.543873,25.752899],[86.543065,25.752899],[86.543065,25.754516],[86.543873,25.754516],[86.543873,25.752899]]],"type":"Polygon"}
 }

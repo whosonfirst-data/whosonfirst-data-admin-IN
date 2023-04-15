@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.31634,28.3948,79.31634,28.3948",
-    "geom:latitude":28.3948,
-    "geom:longitude":79.31634,
+    "geom:bbox":"79.32297,28.390487,79.324919,28.39147",
+    "geom:latitude":28.390992,
+    "geom:longitude":79.323961,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"150.0",
     "gn:asciiname":"Murshidabad",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.29634,28.3748,79.33634,28.4148",
+    "ks:ks_alt_nam":"Murshid\u0101b\u0101d",
+    "ks:ks_id":"KS97C454D6195E44BB8F1C62BB37B4F548",
+    "ks:ks_name":"Murshidabad",
+    "ks:ks_source_id":"N|13270506",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1814854",
+    "lbl:latitude":28.390978,
+    "lbl:longitude":79.323946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.390978,
+    "mps:longitude":79.323946,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0634\u062f \u0623\u0628\u0627\u062f"
@@ -56,6 +65,12 @@
     ],
     "name:deu_x_preferred":[
         "Murshidabad"
+    ],
+    "name:eng_x_preferred":[
+        "Murshidabad"
+    ],
+    "name:eng_x_variant":[
+        "Murshid\u0101b\u0101d"
     ],
     "name:epo_x_preferred":[
         "Mur\u015didabado"
@@ -150,7 +165,11 @@
     "name:zho_x_preferred":[
         "\u7a46\u5c14\u65af\u5e0c\u8fbe\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -159,10 +178,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10825122
+        "gn:id":10825122,
+        "ks:id":"KS97C454D6195E44BB8F1C62BB37B4F548"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b0bf6e56f4ee00484a2ee3535929d9d0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a37aa70642f9c6f4f7fe41b83d51db3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +196,7 @@
         }
     ],
     "wof:id":1310057419,
-    "wof:lastmodified":1577752039,
+    "wof:lastmodified":1680669121,
     "wof:name":"Murshidabad",
     "wof:parent_id":890508871,
     "wof:placetype":"locality",
@@ -183,10 +206,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.31634,
-    28.3948,
-    79.31634,
-    28.3948
+    79.32297,
+    28.390487,
+    79.324919,
+    28.39147
 ],
-  "geometry": {"coordinates":[79.31634,28.3948],"type":"Point"}
+  "geometry": {"coordinates":[[[79.323581,28.39147],[79.323583,28.39138],[79.32388899999999,28.391384],[79.32389000000001,28.391294],[79.324094,28.391296],[79.324096,28.391206],[79.32440200000001,28.39121],[79.324403,28.391119],[79.324709,28.391123],[79.32471099999999,28.391033],[79.32481300000001,28.391034],[79.324814,28.390944],[79.324916,28.390945],[79.32491899999999,28.390765],[79.324817,28.390764],[79.32481799999999,28.390673],[79.324716,28.390672],[79.324718,28.390582],[79.32461600000001,28.390581],[79.324617,28.39049],[79.32431099999999,28.390487],[79.32431,28.390577],[79.324003,28.390573],[79.32400199999999,28.390663],[79.323798,28.390661],[79.323797,28.390751],[79.323593,28.390748],[79.32359099999999,28.390839],[79.323387,28.390836],[79.323386,28.390926],[79.323284,28.390925],[79.32328200000001,28.391015],[79.323078,28.391013],[79.323075,28.391193],[79.322973,28.391192],[79.32297,28.391373],[79.32317399999999,28.391375],[79.323173,28.391465],[79.323581,28.39147]]],"type":"Polygon"}
 }

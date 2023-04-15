@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.14549,25.94283,85.14549,25.94283",
-    "geom:latitude":25.94283,
-    "geom:longitude":85.14549,
+    "geom:bbox":"85.133878,25.937233,85.137651,25.941276",
+    "geom:latitude":25.939088,
+    "geom:longitude":85.135908,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Shahjahanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.12549,25.92283,85.16549,25.96283",
+    "ks:ks_id":"KS08BC987628F64B7AB24F861DA8D9B718",
+    "ks:ks_name":"Shahjahanpur",
+    "ks:ks_pop":1228,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1018000101870400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1385204",
+    "lbl:latitude":25.938311,
+    "lbl:longitude":85.135278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.938311,
+    "mps:longitude":85.135278,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u062f \u062c\u0627\u0647\u0627\u0646 \u0628\u0648\u0631"
@@ -59,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c4\u03b6\u03b1\u03c7\u03b1\u03bd\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Shahjahanpur"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u200c\u062c\u0647\u0627\u0646\u200c\u067e\u0648\u0631"
@@ -144,7 +157,13 @@
     "name:zho_x_preferred":[
         "\u65af\u54c8\u8d6b\u8d3e\u6c49\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,10 +172,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010714
+        "gn:id":11010714,
+        "ks:id":"KS08BC987628F64B7AB24F861DA8D9B718"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5f2e81e775011f47110708ee35e1a124",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ef46cefd8859af43f6d980e02d79ba8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,20 +190,22 @@
         }
     ],
     "wof:id":1310046659,
-    "wof:lastmodified":1636505709,
+    "wof:lastmodified":1680668909,
     "wof:name":"Shahjahanpur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":1228,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.14549,
-    25.94283,
-    85.14549,
-    25.94283
+    85.133878,
+    25.937233,
+    85.137651,
+    25.941276
 ],
-  "geometry": {"coordinates":[85.14549,25.94283],"type":"Point"}
+  "geometry": {"coordinates":[[[85.137112,25.939928],[85.137112,25.93885],[85.137381,25.93885],[85.137381,25.938581],[85.13765100000001,25.938581],[85.13765100000001,25.937772],[85.136842,25.937772],[85.136842,25.938311],[85.136303,25.938311],[85.136303,25.937772],[85.136573,25.937772],[85.136573,25.937233],[85.13549500000001,25.937233],[85.13549500000001,25.937772],[85.134686,25.937772],[85.134686,25.938311],[85.134417,25.938311],[85.134417,25.939928],[85.134147,25.939928],[85.134147,25.940467],[85.133878,25.940467],[85.133878,25.941006],[85.134417,25.941006],[85.134417,25.940737],[85.134686,25.940737],[85.134686,25.940467],[85.134956,25.940467],[85.134956,25.939928],[85.13522500000001,25.939928],[85.13522500000001,25.93885],[85.136303,25.93885],[85.136303,25.93912],[85.136573,25.93912],[85.136573,25.939928],[85.136303,25.939928],[85.136303,25.940737],[85.136842,25.940737],[85.136842,25.941276],[85.137381,25.941276],[85.137381,25.939928],[85.137112,25.939928]]],"type":"Polygon"}
 }

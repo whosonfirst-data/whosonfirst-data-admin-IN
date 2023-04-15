@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.43667,25.9959,84.43667,25.9959",
-    "geom:latitude":25.9959,
-    "geom:longitude":84.43667,
+    "geom:bbox":"84.435782,25.995126,84.437882,25.996407",
+    "geom:latitude":25.995708,
+    "geom:longitude":84.436868,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"219.0",
     "gn:asciiname":"Bhadaur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.41667,25.9759,84.45667,26.0159",
+    "ks:ks_id":"KSFDD42BE0B58A45B083ACE34D9EDE02DA",
+    "ks:ks_name":"Bhadaur",
+    "ks:ks_pop":476,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13286321",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2063147",
+    "lbl:latitude":25.995676,
+    "lbl:longitude":84.436888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.995676,
+    "mps:longitude":84.436888,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09a6\u09be\u0989\u09b0"
@@ -40,6 +50,9 @@
         "Bhadaur"
     ],
     "name:ceb_x_preferred":[
+        "Bhadaur"
+    ],
+    "name:eng_x_preferred":[
         "Bhadaur"
     ],
     "name:ita_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u9053\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10837021
+        "gn:id":10837021,
+        "ks:id":"KSFDD42BE0B58A45B083ACE34D9EDE02DA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"02a3e8b6c9c906faded6aec898e96e12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8855b8c5c2e2856169463cf88e3f887f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1310050505,
-    "wof:lastmodified":1566702276,
+    "wof:lastmodified":1680669138,
     "wof:name":"Bhadaur",
     "wof:parent_id":1108695919,
     "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.43666999999998,
-    25.9959,
-    84.43666999999998,
-    25.9959
+    84.435782,
+    25.995126,
+    84.437882,
+    25.996407
 ],
-  "geometry": {"coordinates":[84.43666999999998,25.9959],"type":"Point"}
+  "geometry": {"coordinates":[[[84.43736699999999,25.996407],[84.437369,25.996317],[84.43746899999999,25.996318],[84.437471,25.996228],[84.43767099999999,25.996232],[84.437673,25.996142],[84.437872,25.996145],[84.437882,25.995694],[84.437782,25.995692],[84.43778399999999,25.995602],[84.437684,25.9956],[84.43768799999999,25.99542],[84.43758800000001,25.995418],[84.43759,25.995328],[84.43749099999999,25.995326],[84.437493,25.995236],[84.43719299999999,25.995231],[84.437195,25.99514],[84.436396,25.995126],[84.436395,25.995217],[84.43609499999999,25.995211],[84.436093,25.995301],[84.435993,25.9953],[84.435991,25.99539],[84.435892,25.995388],[84.43588800000001,25.995568],[84.435788,25.995567],[84.435782,25.995837],[84.43588200000001,25.995839],[84.43588,25.995929],[84.43598,25.995931],[84.43597800000001,25.996021],[84.436177,25.996025],[84.43617500000001,25.996115],[84.436674,25.996124],[84.436672,25.996214],[84.437172,25.996223],[84.43716999999999,25.996313],[84.437269,25.996315],[84.43726700000001,25.996405],[84.43736699999999,25.996407]]],"type":"Polygon"}
 }
