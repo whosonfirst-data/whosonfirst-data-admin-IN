@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.36066,20.512,78.36066,20.512",
-    "geom:latitude":20.512,
-    "geom:longitude":78.36066,
+    "geom:bbox":"78.358791,20.511202,78.361866,20.512837",
+    "geom:latitude":20.512094,
+    "geom:longitude":78.360466,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Mankapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.34066,20.492,78.38066,20.532",
+    "ks:ks_alt_nam":"M\u0101nk\u0101pur",
+    "ks:ks_id":"KS04945DA47D1D41B696431A1C283DA0C1",
+    "ks:ks_name":"Mankapur",
+    "ks:ks_pop":363,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|675724",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871582",
+    "lbl:latitude":20.512053,
+    "lbl:longitude":78.360591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.512053,
+    "mps:longitude":78.360591,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u0995\u09be\u09aa\u09c1\u09b0"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Mank\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Mankapur"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101nk\u0101pur"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0928\u0915\u093e\u092a\u0941\u0930"
@@ -75,7 +92,13 @@
     "name:zho_x_preferred":[
         "\u66fc\u5361\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453358
+        "gn:id":10453358,
+        "ks:id":"KS04945DA47D1D41B696431A1C283DA0C1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cf8eb70b9dac659b52f8cf175b9f2d87",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"abd8e79116c5f5111dd7f84e02d657a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +125,22 @@
         }
     ],
     "wof:id":1293359537,
-    "wof:lastmodified":1566690734,
+    "wof:lastmodified":1680658482,
     "wof:name":"Mankapur",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.36066,
-    20.512,
-    78.36066,
-    20.512
+    78.358791,
+    20.511202,
+    78.361866,
+    20.512837
 ],
-  "geometry": {"coordinates":[78.36066,20.512],"type":"Point"}
+  "geometry": {"coordinates":[[[78.361661,20.512837],[78.361662,20.512747],[78.36175799999999,20.512748],[78.361761,20.512567],[78.361857,20.512569],[78.36186600000001,20.512027],[78.361771,20.512026],[78.361778,20.511575],[78.361683,20.511573],[78.36168600000001,20.511393],[78.36159000000001,20.511391],[78.361591,20.511301],[78.361496,20.511299],[78.361497,20.511209],[78.361018,20.511202],[78.361017,20.511292],[78.36024999999999,20.51128],[78.360249,20.511371],[78.359961,20.511366],[78.35996,20.511457],[78.359768,20.511454],[78.35976599999999,20.511544],[78.35947899999999,20.51154],[78.359477,20.51163],[78.35919,20.511625],[78.359188,20.511716],[78.359093,20.511714],[78.35908999999999,20.511895],[78.358994,20.511893],[78.358991,20.512074],[78.358895,20.512072],[78.35889299999999,20.512163],[78.358797,20.512161],[78.358791,20.512522],[78.358887,20.512524],[78.358886,20.512614],[78.359173,20.512618],[78.359171,20.512709],[78.35965,20.512716],[78.359649,20.512806],[78.361661,20.512837]]],"type":"Polygon"}
 }

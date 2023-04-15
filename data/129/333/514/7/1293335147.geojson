@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.22213,25.44898,84.22213,25.44898",
-    "geom:latitude":25.44898,
-    "geom:longitude":84.22213,
+    "geom:bbox":"84.221554,25.448315,84.223162,25.449488",
+    "geom:latitude":25.448928,
+    "geom:longitude":84.222336,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"232.0",
     "gn:asciiname":"Kharagpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.20213,25.42898,84.24213,25.46898",
+    "ks:ks_id":"KSEDDD76E989794C6FA5BBBC5663656A03",
+    "ks:ks_name":"Kharagpur",
+    "ks:ks_pop":49,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|547342",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2057981",
+    "lbl:latitude":25.448902,
+    "lbl:longitude":84.222351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.448902,
+    "mps:longitude":84.222351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09a1\u09bc\u0997\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "Kharagpur"
     ],
     "name:deu_x_preferred":[
+        "Kharagpur"
+    ],
+    "name:eng_x_preferred":[
         "Kharagpur"
     ],
     "name:fas_x_preferred":[
@@ -111,7 +124,13 @@
     "name:zho_x_preferred":[
         "\u514b\u52d2\u683c\u5e03\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835736
+        "gn:id":10835736,
+        "ks:id":"KSEDDD76E989794C6FA5BBBC5663656A03"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4a1741d068722e1495c82e18ed3258e7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2529c536b48ff853b75611bf8eef2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +157,22 @@
         }
     ],
     "wof:id":1293335147,
-    "wof:lastmodified":1566691051,
+    "wof:lastmodified":1680658692,
     "wof:name":"Kharagpur",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.22213,
-    25.44898,
-    84.22213,
-    25.44898
+    84.221554,
+    25.448315,
+    84.223162,
+    25.449488
 ],
-  "geometry": {"coordinates":[84.22213000000001,25.44898],"type":"Point"}
+  "geometry": {"coordinates":[[[84.22234899999999,25.449488],[84.222351,25.449398],[84.222649,25.449403],[84.222651,25.449313],[84.22284999999999,25.449317],[84.222852,25.449227],[84.22295099999999,25.449229],[84.222953,25.449138],[84.22305299999999,25.44914],[84.22305900000001,25.44887],[84.223158,25.448872],[84.223162,25.448691],[84.223063,25.448689],[84.223067,25.448509],[84.22296799999999,25.448507],[84.22297,25.448417],[84.22277099999999,25.448413],[84.222773,25.448323],[84.222376,25.448315],[84.222374,25.448406],[84.222076,25.4484],[84.22207400000001,25.44849],[84.221875,25.448486],[84.22187099999999,25.448667],[84.221771,25.448665],[84.22176899999999,25.448755],[84.22167,25.448753],[84.221666,25.448934],[84.221566,25.448932],[84.221554,25.449473],[84.22234899999999,25.449488]]],"type":"Polygon"}
 }

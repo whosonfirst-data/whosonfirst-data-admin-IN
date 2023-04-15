@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.59717,23.59281,73.59717,23.59281",
-    "geom:latitude":23.59281,
-    "geom:longitude":73.59717,
+    "geom:bbox":"73.581907,23.585332,73.583187,23.586691",
+    "geom:latitude":23.585999,
+    "geom:longitude":73.582511,
     "gn:admin1_code":"9.0",
     "gn:admin2_code":"472.0",
     "gn:asciiname":"Lakhipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.57717,23.57281,73.61717,23.61281",
+    "ks:ks_id":"KSBB23DC37B22F4509ADA3BFDE1B0ADF68",
+    "ks:ks_name":"Lakhipur",
+    "ks:ks_pop":309,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1380771",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_819048",
+    "lbl:latitude":23.586012,
+    "lbl:longitude":73.582499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.586012,
+    "mps:longitude":73.582499,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:asm_x_preferred":[
         "\u09b2\u0995\u09cd\u09b7\u09c0\u09aa\u09c1\u09f0"
@@ -40,6 +50,9 @@
         "\u09b2\u0995\u09cd\u09b7\u09bf\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Lakhipur"
+    ],
+    "name:eng_x_preferred":[
         "Lakhipur"
     ],
     "name:fas_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u57fa\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10801975
+        "gn:id":10801975,
+        "ks:id":"KSBB23DC37B22F4509ADA3BFDE1B0ADF68"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cea4f3904580920349a225ee0665b111",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3d52c07882868e4c4913352c70d5f2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293384223,
-    "wof:lastmodified":1566689031,
+    "wof:lastmodified":1680657386,
     "wof:name":"Lakhipur",
     "wof:parent_id":1108696265,
     "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.59716999999998,
-    23.59281,
-    73.59716999999998,
-    23.59281
+    73.581907,
+    23.585332,
+    73.583187,
+    23.586691
 ],
-  "geometry": {"coordinates":[73.59716999999998,23.59281],"type":"Point"}
+  "geometry": {"coordinates":[[[73.58268700000001,23.586691],[73.582688,23.5866],[73.582786,23.586601],[73.582787,23.586511],[73.582885,23.586512],[73.582886,23.586421],[73.582984,23.586422],[73.58298499999999,23.586332],[73.583083,23.586333],[73.583085,23.586152],[73.58318300000001,23.586153],[73.583187,23.585792],[73.583089,23.585791],[73.583091,23.585611],[73.582993,23.58561],[73.582994,23.585519],[73.58289600000001,23.585518],[73.582897,23.585428],[73.582701,23.585426],[73.582702,23.585336],[73.582212,23.585332],[73.58221,23.585512],[73.582014,23.58551],[73.582013,23.585601],[73.581915,23.5856],[73.581907,23.586322],[73.582005,23.586323],[73.582003,23.586504],[73.58210099999999,23.586505],[73.5821,23.586595],[73.582296,23.586597],[73.582295,23.586687],[73.58268700000001,23.586691]]],"type":"Polygon"}
 }

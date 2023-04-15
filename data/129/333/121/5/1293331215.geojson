@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.51982,24.67629,84.51982,24.67629",
-    "geom:latitude":24.67629,
-    "geom:longitude":84.51982,
+    "geom:bbox":"84.518868,24.675563,84.52106,24.676912",
+    "geom:latitude":24.676258,
+    "geom:longitude":84.520044,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Mirzapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.49982,24.65629,84.53982,24.69629",
+    "ks:ks_alt_nam":"Mirz\u0101pur",
+    "ks:ks_id":"KS5D96483448C942148719D5B1710B3D82",
+    "ks:ks_name":"Mirzapur",
+    "ks:ks_pop":260,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|704050",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1151070",
+    "lbl:latitude":24.676277,
+    "lbl:longitude":84.520064,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.676277,
+    "mps:longitude":84.520064,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627\u0628\u0648\u0631"
@@ -56,6 +67,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03c1\u03b6\u03b1\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Mirzapur"
+    ],
+    "name:eng_x_variant":[
+        "Mirz\u0101pur"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u0632\u0627\u067e\u0648\u0631"
@@ -165,7 +182,13 @@
     "name:zho_x_preferred":[
         "\u5bc6\u672d\u6d66"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -174,10 +197,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10840626
+        "gn:id":10840626,
+        "ks:id":"KS5D96483448C942148719D5B1710B3D82"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ba92bfa6732e1947ea1eaf24df3f4076",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"716ba22c3e8d9fb6df4a019f8d231761",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +215,22 @@
         }
     ],
     "wof:id":1293331215,
-    "wof:lastmodified":1636505418,
+    "wof:lastmodified":1680658667,
     "wof:name":"Mirzapur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.51982,
-    24.67629,
-    84.51982,
-    24.67629
+    84.518868,
+    24.675563,
+    84.52106,
+    24.676912
 ],
-  "geometry": {"coordinates":[84.51982,24.67629],"type":"Point"}
+  "geometry": {"coordinates":[[[84.520245,24.676912],[84.520247,24.676822],[84.52034500000001,24.676823],[84.520347,24.676733],[84.520545,24.676736],[84.520546,24.676646],[84.520645,24.676648],[84.520647,24.676558],[84.520844,24.676561],[84.52084600000001,24.676471],[84.520945,24.676472],[84.520949,24.676292],[84.521047,24.676293],[84.52106000000001,24.675662],[84.520961,24.67566],[84.52096299999999,24.67557],[84.520568,24.675563],[84.520566,24.675654],[84.520171,24.675647],[84.520169,24.675737],[84.519873,24.675733],[84.51987099999999,24.675823],[84.51967399999999,24.675819],[84.519672,24.67591],[84.519474,24.675906],[84.519473,24.675997],[84.51927499999999,24.675993],[84.519273,24.676084],[84.519175,24.676082],[84.51917299999999,24.676172],[84.518975,24.676169],[84.518974,24.676259],[84.51887499999999,24.676258],[84.518868,24.676618],[84.51896600000001,24.67662],[84.51896499999999,24.67671],[84.519063,24.676712],[84.51906200000001,24.676802],[84.519457,24.676809],[84.51945499999999,24.676899],[84.519554,24.676901],[84.519555,24.67681],[84.52014800000001,24.67682],[84.520146,24.67691],[84.520245,24.676912]]],"type":"Polygon"}
 }
