@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.10636,14.49187,75.10636,14.49187",
-    "geom:latitude":14.49187,
-    "geom:longitude":75.10636,
+    "geom:bbox":"75.105984,14.49126,75.106792,14.492338",
+    "geom:latitude":14.491731,
+    "geom:longitude":75.106354,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"568.0",
     "gn:asciiname":"Hosur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.08636,14.47187,75.12636,14.51187",
+    "ks:ks_id":"KSA7BD5B6D97F543BF902675A04E49B5E7",
+    "ks:ks_name":"Hosuru",
+    "ks:ks_pop":393,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|426953",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_309515",
+    "lbl:latitude":14.491802,
+    "lbl:longitude":75.106266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.491802,
+    "mps:longitude":75.106266,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0648\u0631"
@@ -52,6 +62,12 @@
         "Hos\u016br"
     ],
     "name:deu_x_preferred":[
+        "Hosur"
+    ],
+    "name:eng_x_preferred":[
+        "Hosuru"
+    ],
+    "name:eng_x_variant":[
         "Hosur"
     ],
     "name:guj_x_preferred":[
@@ -108,7 +124,13 @@
     "name:zho_x_preferred":[
         "\u970d\u82cf\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10848245
+        "gn:id":10848245,
+        "ks:id":"KSA7BD5B6D97F543BF902675A04E49B5E7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a0cd1ad1c5a5c6669f92ae86d8e618b0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"883f85dc1d4c8af39cf9772435df14ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +157,22 @@
         }
     ],
     "wof:id":1310270065,
-    "wof:lastmodified":1577751791,
-    "wof:name":"Hosur",
+    "wof:lastmodified":1680668696,
+    "wof:name":"Hosuru",
     "wof:parent_id":890507437,
     "wof:placetype":"locality",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.10636,
-    14.49187,
-    75.10636,
-    14.49187
+    75.105984,
+    14.49126,
+    75.106792,
+    14.492338
 ],
-  "geometry": {"coordinates":[75.10636,14.49187],"type":"Point"}
+  "geometry": {"coordinates":[[[75.106253,14.492338],[75.106253,14.492068],[75.106523,14.492068],[75.106523,14.491799],[75.106792,14.491799],[75.106792,14.49126],[75.106253,14.49126],[75.106253,14.491529],[75.10598400000001,14.491529],[75.10598400000001,14.492338],[75.106253,14.492338]]],"type":"Polygon"}
 }

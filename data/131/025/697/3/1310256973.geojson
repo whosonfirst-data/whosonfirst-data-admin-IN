@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.60376,25.54112,82.60376,25.54112",
-    "geom:latitude":25.54112,
-    "geom:longitude":82.60376,
+    "geom:bbox":"82.603098,25.540141,82.604307,25.541771",
+    "geom:latitude":25.540945,
+    "geom:longitude":82.603678,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Zirakpur",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.58376,25.52112,82.62376,25.56112",
+    "ks:ks_alt_nam":"Z\u012brakpur",
+    "ks:ks_id":"KSF25DFD9DA8184ADCB9CA6CB582B47AC8",
+    "ks:ks_name":"Zirakpur",
+    "ks:ks_source_id":"N|12991301",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1915339",
+    "lbl:latitude":25.54092,
+    "lbl:longitude":82.60369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.54092,
+    "mps:longitude":82.60369,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0631\u0627\u0643\u0628\u0648\u0631"
@@ -44,6 +53,12 @@
     ],
     "name:bpy_x_preferred":[
         "\u099c\u09bf\u09b0\u0995\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Zirakpur"
+    ],
+    "name:eng_x_variant":[
+        "Z\u012brakpur"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0ab0\u0abe\u0a95\u0aaa\u0ac1\u0ab0"
@@ -108,7 +123,11 @@
     "name:zho_x_preferred":[
         "\u9f50\u62c9\u514b\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10540808
+        "gn:id":10540808,
+        "ks:id":"KSF25DFD9DA8184ADCB9CA6CB582B47AC8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9ab2f495209e339b26a9992f9c86c687",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5da50a7be6bed98fae55ad07f5a365e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +154,7 @@
         }
     ],
     "wof:id":1310256973,
-    "wof:lastmodified":1576021855,
+    "wof:lastmodified":1680668173,
     "wof:name":"Zirakpur",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
@@ -141,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.60376,
-    25.54112000000001,
-    82.60376,
-    25.54112000000001
+    82.603098,
+    25.540141,
+    82.604307,
+    25.541771
 ],
-  "geometry": {"coordinates":[82.60375999999999,25.54112000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[82.603814,25.541766],[82.603813,25.541676],[82.604012,25.541674],[82.604011,25.541583],[82.60411000000001,25.541582],[82.60410899999999,25.541492],[82.604208,25.541491],[82.604207,25.541401],[82.60430700000001,25.5414],[82.604297,25.540677],[82.604198,25.540679],[82.604195,25.540498],[82.604096,25.540499],[82.604095,25.540409],[82.603995,25.54041],[82.603994,25.54032],[82.603894,25.540321],[82.603893,25.540231],[82.60379399999999,25.540232],[82.603792,25.540141],[82.603295,25.540147],[82.603296,25.540237],[82.60319699999999,25.540238],[82.60319800000001,25.540328],[82.603098,25.540329],[82.60311,25.541232],[82.60321,25.541231],[82.603212,25.541412],[82.603312,25.541411],[82.60331499999999,25.541681],[82.603415,25.54168],[82.603416,25.541771],[82.603814,25.541766]]],"type":"Polygon"}
 }
