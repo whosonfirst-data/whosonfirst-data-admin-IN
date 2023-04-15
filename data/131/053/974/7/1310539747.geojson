@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.55561,24.36274,84.55561,24.36274",
-    "geom:latitude":24.36274,
-    "geom:longitude":84.55561,
+    "geom:bbox":"84.550691,24.363924,84.551769,24.365002",
+    "geom:latitude":24.364463,
+    "geom:longitude":84.55123,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Keswa",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.53561,24.34274,84.57561,24.38274",
+    "ks:ks_id":"KSBBE8B3196DB34B5E952960AA12905859",
+    "ks:ks_name":"Keswa",
+    "ks:ks_pop":228,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2003000200389500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1044717",
+    "lbl:latitude":24.364463,
+    "lbl:longitude":84.55123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.364463,
+    "mps:longitude":84.55123,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Keswa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841248
+        "gn:id":10841248,
+        "ks:id":"KSBBE8B3196DB34B5E952960AA12905859"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6bef0f363e5457840ec33a055b8ba26e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"968098e50dae5d0ffbcf12c15fafb1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1310539747,
-    "wof:lastmodified":1566700971,
+    "wof:lastmodified":1680668352,
     "wof:name":"Keswa",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.55561,
-    24.36274,
-    84.55561,
-    24.36274
+    84.550691,
+    24.363924,
+    84.551769,
+    24.365002
 ],
-  "geometry": {"coordinates":[84.55561,24.36274],"type":"Point"}
+  "geometry": {"coordinates":[[[84.55176899999999,24.363924],[84.550691,24.363924],[84.550691,24.365002],[84.55176899999999,24.365002],[84.55176899999999,24.363924]]],"type":"Polygon"}
 }

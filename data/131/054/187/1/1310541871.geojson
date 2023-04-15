@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.73015,25.72884,85.73015,25.72884",
-    "geom:latitude":25.72884,
-    "geom:longitude":85.73015,
+    "geom:bbox":"85.71922,25.726488,85.721106,25.727566",
+    "geom:latitude":25.726935,
+    "geom:longitude":85.720291,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Narghoghi",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.71015,25.70884,85.75015,25.74884",
+    "ks:ks_id":"KS892AE57F805943AF9731AA9E4DA38359",
+    "ks:ks_name":"Narghoghi",
+    "ks:ks_pop":611,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|762209",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1368021",
+    "lbl:latitude":25.726866,
+    "lbl:longitude":85.720556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.726866,
+    "mps:longitude":85.720556,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narghoghi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327214
+        "gn:id":11327214,
+        "ks:id":"KS892AE57F805943AF9731AA9E4DA38359"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2df5f195383d56cb40402b5c1585ad05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71521cd7977fab54d0b12d939a995c48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +76,22 @@
         }
     ],
     "wof:id":1310541871,
-    "wof:lastmodified":1566700887,
+    "wof:lastmodified":1680668299,
     "wof:name":"Narghoghi",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":611,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.73015,
-    25.72884,
-    85.73015,
-    25.72884
+    85.71922,
+    25.726488,
+    85.721106,
+    25.727566
 ],
-  "geometry": {"coordinates":[85.73014999999999,25.72884],"type":"Point"}
+  "geometry": {"coordinates":[[[85.720837,25.726488],[85.71922000000001,25.726488],[85.71922000000001,25.727027],[85.720298,25.727027],[85.720298,25.727566],[85.72110600000001,25.727566],[85.72110600000001,25.726758],[85.720837,25.726758],[85.720837,25.726488]]],"type":"Polygon"}
 }

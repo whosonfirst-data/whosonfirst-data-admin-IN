@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.43528,27.21849,82.43528,27.21849",
-    "geom:latitude":27.21849,
-    "geom:longitude":82.43528,
+    "geom:bbox":"82.434392,27.217329,82.436334,27.219944",
+    "geom:latitude":27.218584,
+    "geom:longitude":82.435448,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"182.0",
     "gn:asciiname":"Narayanpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.41528,27.19849,82.45528,27.23849",
+    "ks:ks_alt_nam":"Nar\u0101yanpur",
+    "ks:ks_id":"KS2B417EF6CF524F1BB3C6660AF557D9D4",
+    "ks:ks_name":"Narayanpur",
+    "ks:ks_pop":2009,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13059396",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1980054",
+    "lbl:latitude":27.218605,
+    "lbl:longitude":82.435429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.218605,
+    "mps:longitude":82.435429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0627\u064a\u0627\u0646 \u0628\u0648\u0631"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Narayanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:eng_x_variant":[
+        "Nar\u0101yanpur"
     ],
     "name:fra_x_preferred":[
         "Narayanpur"
@@ -81,7 +98,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u0627\u0626\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10601737
+        "gn:id":10601737,
+        "ks:id":"KS2B417EF6CF524F1BB3C6660AF557D9D4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a822acb0f9274087e72329902045dc8f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"772191ba62cc049a1cd4029c09a91cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1310553133,
-    "wof:lastmodified":1577751663,
+    "wof:lastmodified":1680668447,
     "wof:name":"Narayanpur",
     "wof:parent_id":1108695855,
     "wof:placetype":"locality",
+    "wof:population":2009,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.43528,
-    27.21849000000001,
-    82.43528,
-    27.21849000000001
+    82.434392,
+    27.217329,
+    82.436334,
+    27.219944
 ],
-  "geometry": {"coordinates":[82.43528000000001,27.21849000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[82.43613499999999,27.219941],[82.436134,27.219851],[82.436235,27.21985],[82.436233,27.21976],[82.436334,27.219759],[82.436322,27.218766],[82.436221,27.218767],[82.436213,27.218135],[82.43611199999999,27.218136],[82.43610700000001,27.217775],[82.43600600000001,27.217776],[82.436003,27.217505],[82.435902,27.217506],[82.435901,27.217416],[82.435598,27.217419],[82.435596,27.217329],[82.435294,27.217332],[82.435295,27.217422],[82.43499199999999,27.217425],[82.43499300000001,27.217516],[82.434791,27.217518],[82.434792,27.217608],[82.43459,27.21761],[82.43459199999999,27.2177],[82.43449099999999,27.217701],[82.434493,27.217882],[82.434392,27.217883],[82.434397,27.218244],[82.434498,27.218243],[82.434501,27.218514],[82.434602,27.218513],[82.434608,27.218964],[82.434709,27.218963],[82.434712,27.219234],[82.43481300000001,27.219233],[82.434814,27.219323],[82.434915,27.219322],[82.434916,27.219412],[82.435017,27.219411],[82.435019,27.219501],[82.43522,27.219499],[82.435222,27.219589],[82.435323,27.219588],[82.43532399999999,27.219679],[82.435425,27.219678],[82.43542600000001,27.219768],[82.43562799999999,27.219766],[82.43562900000001,27.219856],[82.43583099999999,27.219854],[82.435832,27.219944],[82.43613499999999,27.219941]]],"type":"Polygon"}
 }

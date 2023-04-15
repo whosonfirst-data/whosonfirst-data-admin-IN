@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.75562,22.79517,81.75562,22.79517",
-    "geom:latitude":22.79517,
-    "geom:longitude":81.75562,
+    "geom:bbox":"81.760611,22.795421,81.76237,22.797136",
+    "geom:latitude":22.796196,
+    "geom:longitude":81.761645,
     "gn:admin1_code":"35",
     "gn:admin2_code":"461.0",
     "gn:asciiname":"Bijaura",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.73562,22.77517,81.77562,22.81517",
+    "ks:ks_id":"KSB58BC8075CF34B4787BBDE8C73B05AD8",
+    "ks:ks_name":"Bijauri",
+    "ks:ks_pop":793,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|162434",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_989099",
+    "lbl:latitude":22.796108,
+    "lbl:longitude":81.761731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.796108,
+    "mps:longitude":81.761731,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Bijaura"
+    ],
+    "name:eng_x_preferred":[
+        "Bijauri"
+    ],
+    "name:eng_x_variant":[
         "Bijaura"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +67,13 @@
     "name:pol_x_preferred":[
         "Bijaura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10725763
+        "gn:id":10725763,
+        "ks:id":"KSB58BC8075CF34B4787BBDE8C73B05AD8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"650c1d9244e4916509909e7f0c06ed1c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"53532ba0b8af0b2def817c1ae3042937",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1310541609,
-    "wof:lastmodified":1566700851,
-    "wof:name":"Bijaura",
+    "wof:lastmodified":1680668275,
+    "wof:name":"Bijauri",
     "wof:parent_id":1108696249,
     "wof:placetype":"locality",
+    "wof:population":793,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.75562,
-    22.79517,
-    81.75562,
-    22.79517
+    81.760611,
+    22.795421,
+    81.76237,
+    22.797136
 ],
-  "geometry": {"coordinates":[81.75561999999999,22.79517],"type":"Point"}
+  "geometry": {"coordinates":[[[81.762176,22.797134],[81.762175,22.796954],[81.76227299999999,22.796953],[81.762272,22.796863],[81.76237,22.796863],[81.762365,22.79605],[81.76226800000001,22.79605],[81.76226699999999,22.795869],[81.762169,22.79587],[81.762169,22.79578],[81.76207100000001,22.79578],[81.76207100000001,22.79569],[81.761973,22.79569],[81.761973,22.7956],[81.761876,22.7956],[81.761875,22.79551],[81.76168,22.795511],[81.76168,22.795421],[81.761582,22.795421],[81.761583,22.795511],[81.76119300000001,22.795513],[81.761194,22.795604],[81.760999,22.795604],[81.760999,22.795695],[81.760902,22.795695],[81.760902,22.795786],[81.760805,22.795786],[81.760805,22.795876],[81.760611,22.795877],[81.76061199999999,22.796148],[81.76070900000001,22.796148],[81.76071,22.796238],[81.76090499999999,22.796237],[81.76090499999999,22.796328],[81.7611,22.796327],[81.761101,22.796417],[81.761295,22.796416],[81.761296,22.796506],[81.76149100000001,22.796505],[81.76149100000001,22.796596],[81.761589,22.796595],[81.76159,22.796776],[81.76168699999999,22.796775],[81.76168800000001,22.796866],[81.761785,22.796865],[81.761786,22.797046],[81.76188399999999,22.797046],[81.76188399999999,22.797136],[81.762176,22.797134]]],"type":"Polygon"}
 }
