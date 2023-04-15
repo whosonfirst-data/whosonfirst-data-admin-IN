@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.373,26.72514,81.373,26.72514",
-    "geom:latitude":26.72514,
-    "geom:longitude":81.373,
+    "geom:bbox":"81.37362,26.723888,81.374428,26.724696",
+    "geom:latitude":26.72433,
+    "geom:longitude":81.373947,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Basantpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.353,26.70514,81.393,26.74514",
+    "ks:ks_id":"KS4DB755C7E16B49BA997C03B914BC213B",
+    "ks:ks_name":"Basantpur",
+    "ks:ks_pop":753,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|110207",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_843606",
+    "lbl:latitude":26.724338,
+    "lbl:longitude":81.373899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.724338,
+    "mps:longitude":81.373899,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0633\u0646\u062a \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09b8\u09a8\u09cd\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Basantpur"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab8\u0a82\u0aa4\u0aaa\u0ac1\u0ab0"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0633\u0646\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10570704
+        "gn:id":10570704,
+        "ks:id":"KS4DB755C7E16B49BA997C03B914BC213B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d545157f1f6bcd18f00441ad0722c1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17cc4fe1c331650cc6f3da5e8ed7a704",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1293827393,
-    "wof:lastmodified":1577750196,
+    "wof:lastmodified":1680658100,
     "wof:name":"Basantpur",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":753,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.373,
-    26.72514,
-    81.373,
-    26.72514
+    81.37362,
+    26.723888,
+    81.374428,
+    26.724696
 ],
-  "geometry": {"coordinates":[81.373,26.72514],"type":"Point"}
+  "geometry": {"coordinates":[[[81.37415900000001,26.723888],[81.37362,26.723888],[81.37362,26.724696],[81.37442799999999,26.724696],[81.37442799999999,26.724427],[81.37415900000001,26.724427],[81.37415900000001,26.723888]]],"type":"Polygon"}
 }

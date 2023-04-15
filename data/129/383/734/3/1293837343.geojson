@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.49985,25.07677,86.49985,25.07677",
-    "geom:latitude":25.07677,
-    "geom:longitude":86.49985,
+    "geom:bbox":"86.499312,25.076045,86.500801,25.077131",
+    "geom:latitude":25.076631,
+    "geom:longitude":86.50004,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"226.0",
     "gn:asciiname":"Auraiya",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.47985,25.05677,86.51985,25.09677",
+    "ks:ks_id":"KSFA6A043A72F4418BBB16C4040A9590D6",
+    "ks:ks_name":"Auraiya",
+    "ks:ks_pop":287,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|53251",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2098778",
+    "lbl:latitude":25.076631,
+    "lbl:longitude":86.500054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.076631,
+    "mps:longitude":86.500054,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0627\u064a\u0627"
@@ -49,6 +59,9 @@
         "Auraiya"
     ],
     "name:deu_x_preferred":[
+        "Auraiya"
+    ],
+    "name:eng_x_preferred":[
         "Auraiya"
     ],
     "name:guj_x_preferred":[
@@ -126,7 +139,13 @@
     "name:zho_x_preferred":[
         "\u5965\u8d56\u8036"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +154,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10902002
+        "gn:id":10902002,
+        "ks:id":"KSFA6A043A72F4418BBB16C4040A9590D6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b71eda8984601e3e891891173b1e8ca2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd0de02fef229d5b85c4ac55d3e32ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +172,22 @@
         }
     ],
     "wof:id":1293837343,
-    "wof:lastmodified":1577750162,
+    "wof:lastmodified":1680657914,
     "wof:name":"Auraiya",
     "wof:parent_id":1108695931,
     "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.49985,
-    25.07677,
-    86.49985,
-    25.07677
+    86.499312,
+    25.076045,
+    86.500801,
+    25.077131
 ],
-  "geometry": {"coordinates":[86.49985,25.07677],"type":"Point"}
+  "geometry": {"coordinates":[[[86.500502,25.077131],[86.500502,25.077041],[86.500601,25.077041],[86.500601,25.076951],[86.50070100000001,25.076951],[86.500702,25.076681],[86.500801,25.076681],[86.500801,25.076591],[86.500702,25.07659],[86.500703,25.076319],[86.500604,25.076319],[86.500604,25.076229],[86.500505,25.076228],[86.500506,25.076138],[86.500208,25.076137],[86.500208,25.076047],[86.49981200000001,25.076045],[86.49981099999999,25.076136],[86.499613,25.076135],[86.499612,25.076316],[86.49951299999999,25.076315],[86.49951299999999,25.076406],[86.499414,25.076405],[86.499413,25.076586],[86.499314,25.076586],[86.499312,25.077037],[86.49960900000001,25.077038],[86.49960900000001,25.077128],[86.500502,25.077131]]],"type":"Polygon"}
 }

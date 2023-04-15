@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.14625,13.01423,78.14625,13.01423",
-    "geom:latitude":13.01423,
-    "geom:longitude":78.14625,
+    "geom:bbox":"78.145875,13.013368,78.147264,13.015183",
+    "geom:latitude":13.014325,
+    "geom:longitude":78.146528,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"581.0",
     "gn:asciiname":"Madivala",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.12625,12.99423,78.16625,13.03423",
+    "ks:ks_id":"KS315C96E62CF447FB9F518B86A9117888",
+    "ks:ks_name":"Madivala",
+    "ks:ks_pop":155,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|641874",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_307704",
+    "lbl:latitude":13.014355,
+    "lbl:longitude":78.146528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.014355,
+    "mps:longitude":78.146528,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062f\u064a\u0641\u0627\u0644\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09be\u09a6\u09bf\u09ad\u09be\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Madivala"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa1\u0ac0\u0ab5\u0abe\u0ab2\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0688\u06cc\u0648\u0627\u0644\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11278987
+        "gn:id":11278987,
+        "ks:id":"KS315C96E62CF447FB9F518B86A9117888"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d542ae862936feb525133ece09bd9fb2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b939f080f68af2ea6ab6507cc318c4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293858779,
-    "wof:lastmodified":1577750192,
+    "wof:lastmodified":1680658080,
     "wof:name":"Madivala",
     "wof:parent_id":890506057,
     "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.14625,
-    13.01423,
-    78.14625,
-    13.01423
+    78.145875,
+    13.013368,
+    78.147264,
+    13.015183
 ],
-  "geometry": {"coordinates":[78.14624999999999,13.01423],"type":"Point"}
+  "geometry": {"coordinates":[[[78.146883,13.015183],[78.146884,13.015092],[78.146976,13.015093],[78.14697700000001,13.015003],[78.147069,13.015004],[78.14707,13.014914],[78.14716199999999,13.014915],[78.147164,13.014734],[78.147256,13.014735],[78.14726400000001,13.014103],[78.147171,13.014102],[78.147172,13.014012],[78.14708,13.014011],[78.147081,13.01392],[78.146989,13.013919],[78.14699,13.013829],[78.14689799999999,13.013828],[78.146899,13.013738],[78.146807,13.013737],[78.14680799999999,13.013646],[78.146716,13.013645],[78.146717,13.013555],[78.146625,13.013554],[78.146626,13.013464],[78.146534,13.013463],[78.146535,13.013372],[78.14616700000001,13.013368],[78.14616599999999,13.013459],[78.146073,13.013458],[78.146072,13.013548],[78.14597999999999,13.013547],[78.145977,13.013818],[78.14588500000001,13.013817],[78.145875,13.01472],[78.145967,13.014721],[78.145966,13.014811],[78.146058,13.014812],[78.146056,13.014993],[78.146148,13.014994],[78.146147,13.015084],[78.146331,13.015086],[78.14633000000001,13.015177],[78.146883,13.015183]]],"type":"Polygon"}
 }

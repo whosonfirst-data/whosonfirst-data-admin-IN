@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.90095,27.12035,80.90095,27.12035",
-    "geom:latitude":27.12035,
-    "geom:longitude":80.90095,
+    "geom:bbox":"80.900482,27.119559,80.901794,27.120824",
+    "geom:latitude":27.120205,
+    "geom:longitude":80.901137,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"157.0",
     "gn:asciiname":"Mukandpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.88095,27.10035,80.92095,27.14035",
+    "ks:ks_id":"KSD70ADCCDB75D49B89E6A6DC0FA8397AF",
+    "ks:ks_name":"Mukandpur",
+    "ks:ks_pop":551,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|722104",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1891400",
+    "lbl:latitude":27.120162,
+    "lbl:longitude":80.90115,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.120162,
+    "mps:longitude":80.90115,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0627\u0646\u0631\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09c1\u0995\u09a8\u09cd\u09a6\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Mukandpur"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a95\u0a82\u0aa6\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06a9\u0646\u062f \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10580784
+        "gn:id":10580784,
+        "ks:id":"KSD70ADCCDB75D49B89E6A6DC0FA8397AF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f1c35a4e646e19d5a12a26113275c289",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"20a3a5162cb26984fad08b4c5f57c612",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293827521,
-    "wof:lastmodified":1577750196,
+    "wof:lastmodified":1680658097,
     "wof:name":"Mukandpur",
     "wof:parent_id":890505301,
     "wof:placetype":"locality",
+    "wof:population":551,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.90095,
-    27.12035,
-    80.90095,
-    27.12035
+    80.900482,
+    27.119559,
+    80.901794,
+    27.120824
 ],
-  "geometry": {"coordinates":[80.90094999999999,27.12035],"type":"Point"}
+  "geometry": {"coordinates":[[[80.90159199999999,27.120824],[80.90159199999999,27.120733],[80.90169299999999,27.120733],[80.90169299999999,27.120643],[80.901794,27.120643],[80.901794,27.120282],[80.90169299999999,27.120282],[80.90169299999999,27.119921],[80.90159199999999,27.119921],[80.90159300000001,27.119831],[80.901492,27.11983],[80.901492,27.11974],[80.901391,27.11974],[80.901391,27.11965],[80.900886,27.119649],[80.900887,27.119559],[80.900685,27.119559],[80.900685,27.119649],[80.90058399999999,27.119649],[80.90058399999999,27.11974],[80.90048299999999,27.119739],[80.900482,27.120281],[80.900583,27.120281],[80.900583,27.120372],[80.900684,27.120372],[80.900684,27.120462],[80.900785,27.120462],[80.900785,27.120643],[80.900886,27.120643],[80.900885,27.120733],[80.900986,27.120733],[80.900986,27.120823],[80.90159199999999,27.120824]]],"type":"Polygon"}
 }

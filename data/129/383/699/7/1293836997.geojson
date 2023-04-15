@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.99551,24.45792,81.99551,24.45792",
-    "geom:latitude":24.45792,
-    "geom:longitude":81.99551,
+    "geom:bbox":"82.000634,24.456278,82.001726,24.457453",
+    "geom:latitude":24.456834,
+    "geom:longitude":82.001186,
     "gn:admin1_code":"35",
     "gn:admin2_code":"462.0",
     "gn:asciiname":"Sarda",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.97551,24.43792,82.01551,24.47792",
+    "ks:ks_id":"KS68E4662F42BB40CF9F0CAD1FD392D607",
+    "ks:ks_name":"Sarda",
+    "ks:ks_pop":1697,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|957013",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1024908",
+    "lbl:latitude":24.456803,
+    "lbl:longitude":82.001175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.456803,
+    "mps:longitude":82.001175,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sarda"
     ],
     "name:deu_x_preferred":[
+        "Sarda"
+    ],
+    "name:eng_x_preferred":[
         "Sarda"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +67,13 @@
     "name:spa_x_preferred":[
         "Sarda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10534543
+        "gn:id":10534543,
+        "ks:id":"KS68E4662F42BB40CF9F0CAD1FD392D607"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0f59abb76caafa285016228261f42141",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0db9ef319e5a1b3dd61f6dd6b22bde15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293836997,
-    "wof:lastmodified":1566689892,
+    "wof:lastmodified":1680657926,
     "wof:name":"Sarda",
     "wof:parent_id":1108696251,
     "wof:placetype":"locality",
+    "wof:population":1697,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.99551,
-    24.45792,
-    81.99551,
-    24.45792
+    82.000634,
+    24.456278,
+    82.001726,
+    24.457453
 ],
-  "geometry": {"coordinates":[81.99551,24.45792],"type":"Point"}
+  "geometry": {"coordinates":[[[82.00123499999999,24.457452],[82.001234,24.457362],[82.00153,24.45736],[82.001529,24.45727],[82.00172600000001,24.457268],[82.001724,24.456907],[82.001625,24.456908],[82.00162400000001,24.456727],[82.001525,24.456728],[82.00152300000001,24.456547],[82.001425,24.456548],[82.001424,24.456458],[82.00132499999999,24.456458],[82.00132499999999,24.456368],[82.001226,24.456369],[82.00122500000001,24.456278],[82.000732,24.456282],[82.000733,24.456372],[82.00063400000001,24.456373],[82.000635,24.456463],[82.00073399999999,24.456462],[82.000736,24.456733],[82.000637,24.456734],[82.000638,24.456824],[82.000736,24.456823],[82.000737,24.456914],[82.00083600000001,24.456913],[82.000837,24.457094],[82.000936,24.457093],[82.00093699999999,24.457183],[82.001035,24.457183],[82.001037,24.457363],[82.001135,24.457363],[82.001136,24.457453],[82.00123499999999,24.457452]]],"type":"Polygon"}
 }

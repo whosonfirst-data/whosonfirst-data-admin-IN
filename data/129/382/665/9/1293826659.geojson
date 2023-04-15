@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.5672,24.00283,84.5672,24.00283",
-    "geom:latitude":24.00283,
-    "geom:longitude":84.5672,
+    "geom:bbox":"84.565769,24.002218,84.568029,24.003593",
+    "geom:latitude":24.002805,
+    "geom:longitude":84.567072,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Bisrampur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.5472,23.98283,84.5872,24.02283",
+    "ks:ks_alt_nam":"Bisr\u0101mpur",
+    "ks:ks_id":"KS506AB108A4D941ED9CEE62A99139460A",
+    "ks:ks_name":"Bisrampur",
+    "ks:ks_pop":514,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13293850",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1140145",
+    "lbl:latitude":24.002865,
+    "lbl:longitude":84.567411,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.002865,
+    "mps:longitude":84.567411,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bisrampur"
+    ],
+    "name:eng_x_preferred":[
+        "Bisrampur"
+    ],
+    "name:eng_x_variant":[
+        "Bisr\u0101mpur"
     ],
     "name:mai_x_preferred":[
         "\u0935\u093f\u0936\u094d\u0930\u093e\u092e\u092a\u0941\u0930"
@@ -52,7 +69,13 @@
         "Bisr\u0101mpur",
         "R\u0101mpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -61,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841695
+        "gn:id":10841695,
+        "ks:id":"KS506AB108A4D941ED9CEE62A99139460A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"978cc938125928109ac33cf8b9eff85e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"507f9ee2da541f7ca7a912dbec19f208",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,20 +102,22 @@
         }
     ],
     "wof:id":1293826659,
-    "wof:lastmodified":1566690242,
+    "wof:lastmodified":1680658159,
     "wof:name":"Bisrampur",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.5672,
-    24.00283,
-    84.5672,
-    24.00283
+    84.565769,
+    24.002218,
+    84.568029,
+    24.003593
 ],
-  "geometry": {"coordinates":[84.5672,24.00283],"type":"Point"}
+  "geometry": {"coordinates":[[[84.56781700000001,24.003593],[84.567819,24.003503],[84.56791699999999,24.003505],[84.56792,24.003324],[84.568018,24.003326],[84.568029,24.002784],[84.56793,24.002783],[84.567936,24.002512],[84.567837,24.00251],[84.56783900000001,24.00242],[84.567741,24.002419],[84.567742,24.002328],[84.56754599999999,24.002325],[84.567548,24.002235],[84.567351,24.002232],[84.56735,24.002322],[84.56676,24.002313],[84.566762,24.002222],[84.566467,24.002218],[84.56646499999999,24.002308],[84.565974,24.0023],[84.565973,24.00239],[84.56587399999999,24.002389],[84.565873,24.002479],[84.565774,24.002478],[84.565769,24.002748],[84.56586799999999,24.00275],[84.565866,24.00284],[84.56616099999999,24.002845],[84.566159,24.002935],[84.566552,24.002941],[84.56655000000001,24.003031],[84.56674700000001,24.003035],[84.566745,24.003125],[84.566941,24.003128],[84.56694,24.003218],[84.567038,24.00322],[84.567036,24.00331],[84.567134,24.003312],[84.567133,24.003402],[84.56723100000001,24.003403],[84.567229,24.003494],[84.567426,24.003497],[84.567424,24.003587],[84.56781700000001,24.003593]]],"type":"Polygon"}
 }

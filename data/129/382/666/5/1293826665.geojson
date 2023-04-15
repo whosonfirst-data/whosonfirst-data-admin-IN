@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.01636,24.06086,84.01636,24.06086",
-    "geom:latitude":24.06086,
-    "geom:longitude":84.01636,
+    "geom:bbox":"84.015475,24.059395,84.017092,24.061012",
+    "geom:latitude":24.060311,
+    "geom:longitude":84.016391,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"358.0",
     "gn:asciiname":"Bansdih",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.99636,24.04086,84.03636,24.08086",
+    "ks:ks_alt_nam":"B\u0101nsd\u012bh",
+    "ks:ks_id":"KS3F624453C12141B2BBA6587EA65AB89B",
+    "ks:ks_name":"Bansdih",
+    "ks:ks_pop":1532,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13285153",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1041225",
+    "lbl:latitude":24.060253,
+    "lbl:longitude":84.016336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.060253,
+    "mps:longitude":84.016336,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092c\u093e\u0901\u0938\u0921\u0940\u0939"
@@ -37,6 +48,12 @@
         "\u09ac\u09be\u09a8\u09b8\u09a6\u09bf\u09b9"
     ],
     "name:ceb_x_preferred":[
+        "B\u0101nsd\u012bh"
+    ],
+    "name:eng_x_preferred":[
+        "Bansdih"
+    ],
+    "name:eng_x_variant":[
         "B\u0101nsd\u012bh"
     ],
     "name:hin_x_preferred":[
@@ -72,7 +89,13 @@
     "name:zho_x_preferred":[
         "\u73ed\u65af\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835953
+        "gn:id":10835953,
+        "ks:id":"KS3F624453C12141B2BBA6587EA65AB89B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dccf7c16e6b606f8c7401e6fd9531961",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"77a06e1962384afd9438a2a3836e4e02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1293826665,
-    "wof:lastmodified":1566690193,
+    "wof:lastmodified":1680658123,
     "wof:name":"Bansdih",
     "wof:parent_id":1108696111,
     "wof:placetype":"locality",
+    "wof:population":1532,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.01635999999998,
-    24.06086,
-    84.01635999999998,
-    24.06086
+    84.015475,
+    24.059395,
+    84.017092,
+    24.061012
 ],
-  "geometry": {"coordinates":[84.01635999999998,24.06086],"type":"Point"}
+  "geometry": {"coordinates":[[[84.016553,24.061012],[84.016553,24.060473],[84.01709200000001,24.060473],[84.01709200000001,24.059395],[84.016553,24.059395],[84.016553,24.059934],[84.016014,24.059934],[84.016014,24.060473],[84.015475,24.060473],[84.015475,24.061012],[84.016553,24.061012]]],"type":"Polygon"}
 }
