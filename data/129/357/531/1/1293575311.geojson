@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.56973,9.51347,76.56973,9.51347",
-    "geom:latitude":9.51347,
-    "geom:longitude":76.56973,
+    "geom:bbox":"76.576616,9.517468,76.578502,9.518276",
+    "geom:latitude":9.517885,
+    "geom:longitude":76.577519,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"597.0",
     "gn:asciiname":"Vakathanam",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.54973,9.49347,76.58973,9.53347",
+    "ks:ks_id":"KSC61A6569E5844097983E43AD7DD64668",
+    "ks:ks_name":"Vakathanam",
+    "ks:ks_pop":2313,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1085289",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_112634",
+    "lbl:latitude":9.517872,
+    "lbl:longitude":76.577519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":9.517872,
+    "mps:longitude":76.577519,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Vakathanam"
+    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d3e\u0d15\u0d24\u0d4d\u0d24\u0d3e\u0d28\u0d02"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -43,10 +62,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11186274,
+        "ks:id":"KSC61A6569E5844097983E43AD7DD64668",
         "wk:page":"Vakathanam"
     },
     "wof:country":"IN",
-    "wof:geomhash":"98057bb9a1b5cf84bc1c6a34e4272c4b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"117f3a48973894116607b7b662471422",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +80,22 @@
         }
     ],
     "wof:id":1293575311,
-    "wof:lastmodified":1566690606,
+    "wof:lastmodified":1680658398,
     "wof:name":"Vakathanam",
     "wof:parent_id":1108696345,
     "wof:placetype":"locality",
+    "wof:population":2313,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.56973,
-    9.51347,
-    76.56973,
-    9.51347
+    76.576616,
+    9.517468,
+    76.578502,
+    9.518276
 ],
-  "geometry": {"coordinates":[76.56973000000001,9.51347],"type":"Point"}
+  "geometry": {"coordinates":[[[76.578233,9.517468],[76.576616,9.517468],[76.576616,9.518276],[76.578502,9.518276],[76.578502,9.517737],[76.578233,9.517737],[76.578233,9.517468]]],"type":"Polygon"}
 }
