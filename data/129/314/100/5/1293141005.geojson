@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.26702,24.17603,77.26702,24.17603",
-    "geom:latitude":24.17603,
-    "geom:longitude":77.26702,
+    "geom:bbox":"77.263827,24.176625,77.264635,24.178242",
+    "geom:latitude":24.177353,
+    "geom:longitude":77.264285,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Barkheri",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.24702,24.15603,77.28702,24.19603",
+    "ks:ks_id":"KSA0E8040BB6E947ED87FE8F6E92EC90BB",
+    "ks:ks_name":"Barkhedi",
+    "ks:ks_pop":160,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|105629",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_756616",
+    "lbl:latitude":24.177046,
+    "lbl:longitude":77.264231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.177046,
+    "mps:longitude":77.264231,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Barkhedi"
+    ],
+    "name:eng_x_variant":[
+        "Barkheri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10479834
+        "gn:id":10479834,
+        "ks:id":"KSA0E8040BB6E947ED87FE8F6E92EC90BB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0e5d861a2b742411a4b5b02eb56c18b2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cfbc0cdf95db07ed9237618155ea4ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1293141005,
-    "wof:lastmodified":1566690370,
-    "wof:name":"Barkheri",
+    "wof:lastmodified":1680658246,
+    "wof:name":"Barkhedi",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.26702,
-    24.17603,
-    77.26702,
-    24.17603
+    77.263827,
+    24.176625,
+    77.264635,
+    24.178242
 ],
-  "geometry": {"coordinates":[77.26702,24.17603],"type":"Point"}
+  "geometry": {"coordinates":[[[77.264635,24.176625],[77.26382700000001,24.176625],[77.26382700000001,24.177434],[77.264096,24.177434],[77.264096,24.178242],[77.264635,24.178242],[77.264635,24.176625]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.22698,24.25171,78.22698,24.25171",
-    "geom:latitude":24.25171,
-    "geom:longitude":78.22698,
+    "geom:bbox":"78.226242,24.251054,78.227834,24.252122",
+    "geom:latitude":24.251572,
+    "geom:longitude":78.227008,
     "gn:admin1_code":"35",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Maliya",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.20698,24.23171,78.24698,24.27171",
+    "ks:ks_id":"KSA9983063A3FA42D6BA528AF218C45242",
+    "ks:ks_name":"Maliya",
+    "ks:ks_pop":64,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|661680",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_932393",
+    "lbl:latitude":24.251589,
+    "lbl:longitude":78.226996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.251589,
+    "mps:longitude":78.226996,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Maliya"
@@ -36,7 +46,16 @@
     "name:deu_x_preferred":[
         "Maliya"
     ],
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Maliya"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10526028
+        "gn:id":10526028,
+        "ks:id":"KSA9983063A3FA42D6BA528AF218C45242"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f85bd30153731a5924072709a9243639",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b18defe5ef1d20b07db02e5ad933e940",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +82,22 @@
         }
     ],
     "wof:id":1293141057,
-    "wof:lastmodified":1566690327,
+    "wof:lastmodified":1680658216,
     "wof:name":"Maliya",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.22698000000003,
-    24.25171,
-    78.22698000000003,
-    24.25171
+    78.226242,
+    24.251054,
+    78.227834,
+    24.252122
 ],
-  "geometry": {"coordinates":[78.22698000000003,24.25171],"type":"Point"}
+  "geometry": {"coordinates":[[[78.226535,24.252122],[78.22653699999999,24.252032],[78.226832,24.252037],[78.226834,24.251947],[78.227031,24.25195],[78.22703300000001,24.25186],[78.22723000000001,24.251864],[78.227232,24.251773],[78.22732999999999,24.251775],[78.227332,24.251685],[78.227529,24.251689],[78.227531,24.251598],[78.227728,24.251602],[78.22772999999999,24.251512],[78.227828,24.251514],[78.227834,24.251243],[78.22773599999999,24.251241],[78.227738,24.251151],[78.227639,24.251149],[78.22764100000001,24.251059],[78.227346,24.251054],[78.227344,24.251144],[78.22704899999999,24.251138],[78.227047,24.251229],[78.226949,24.251227],[78.226947,24.251317],[78.22675,24.251313],[78.226748,24.251404],[78.226551,24.2514],[78.22654900000001,24.25149],[78.22635200000001,24.251487],[78.22635,24.251577],[78.226252,24.251575],[78.226242,24.252026],[78.22634100000001,24.252028],[78.226339,24.252118],[78.226535,24.252122]]],"type":"Polygon"}
 }

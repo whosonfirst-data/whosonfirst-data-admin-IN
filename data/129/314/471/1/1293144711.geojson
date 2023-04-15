@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.75227,25.38875,82.75227,25.38875",
-    "geom:latitude":25.38875,
-    "geom:longitude":82.75227,
+    "geom:bbox":"82.751815,25.387195,82.752893,25.38962",
+    "geom:latitude":25.388426,
+    "geom:longitude":82.752363,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Pater",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.73227,25.36875,82.77227,25.40875",
+    "ks:ks_id":"KSEC55422C5A614E4381AAE96E16EAB623",
+    "ks:ks_name":"Pater",
+    "ks:ks_pop":901,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|835434",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1347115",
+    "lbl:latitude":25.388348,
+    "lbl:longitude":82.752356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.388348,
+    "mps:longitude":82.752356,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Pater"
     ],
     "name:deu_x_preferred":[
+        "Pater"
+    ],
+    "name:eng_x_preferred":[
         "Pater"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +70,13 @@
     "name:spa_x_preferred":[
         "Pater"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10546383
+        "gn:id":10546383,
+        "ks:id":"KSEC55422C5A614E4381AAE96E16EAB623"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2ce2a9806afab45c1c271efaf7167aaf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2ad3af5d6eaa445a4800c243902d628b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1293144711,
-    "wof:lastmodified":1566690333,
+    "wof:lastmodified":1680658221,
     "wof:name":"Pater",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":901,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.75227,
-    25.38875,
-    82.75227,
-    25.38875
+    82.751815,
+    25.387195,
+    82.752893,
+    25.38962
 ],
-  "geometry": {"coordinates":[82.75227,25.38875],"type":"Point"}
+  "geometry": {"coordinates":[[[82.752354,25.387195],[82.75181499999999,25.387195],[82.75181499999999,25.388812],[82.752084,25.388812],[82.752084,25.38962],[82.752893,25.38962],[82.752893,25.387734],[82.752623,25.387734],[82.752623,25.387464],[82.752354,25.387464],[82.752354,25.387195]]],"type":"Polygon"}
 }
