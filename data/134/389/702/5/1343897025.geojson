@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.86751,21.37124,82.86751,21.37124",
-    "geom:latitude":21.37124,
-    "geom:longitude":82.86751,
+    "geom:bbox":"82.857457,21.3693,82.858804,21.370109",
+    "geom:latitude":21.369724,
+    "geom:longitude":82.858092,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Kandadongri",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.84751,21.35124,82.88751,21.39124",
+    "ks:ks_alt_nam":"K\u0101ndadongri",
+    "ks:ks_id":"KS9222B2DD69CF4066B80E88F08B5646BD",
+    "ks:ks_name":"Kandadongri",
+    "ks:ks_pop":313,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13169748",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_999905",
+    "lbl:latitude":21.369704,
+    "lbl:longitude":82.858092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.369704,
+    "mps:longitude":82.858092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kandadongri"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101ndadongri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10731297
+        "gn:id":10731297,
+        "ks:id":"KS9222B2DD69CF4066B80E88F08B5646BD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"46a2c17865b9650a26a4057449c99ac0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8f28bdce38138f50d1cc4b98bc44c13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1343897025,
-    "wof:lastmodified":1566688495,
+    "wof:lastmodified":1680657103,
     "wof:name":"Kandadongri",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
+    "wof:population":313,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.86751,
-    21.37124,
-    82.86751,
-    21.37124
+    82.857457,
+    21.3693,
+    82.858804,
+    21.370109
 ],
-  "geometry": {"coordinates":[82.86751,21.37124],"type":"Point"}
+  "geometry": {"coordinates":[[[82.858535,21.3693],[82.857457,21.3693],[82.857457,21.370109],[82.85880400000001,21.370109],[82.85880400000001,21.36957],[82.858535,21.36957],[82.858535,21.3693]]],"type":"Polygon"}
 }

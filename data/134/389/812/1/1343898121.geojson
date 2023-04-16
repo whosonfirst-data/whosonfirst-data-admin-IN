@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.43736,26.40257,81.43736,26.40257",
-    "geom:latitude":26.40257,
-    "geom:longitude":81.43736,
+    "geom:bbox":"81.436927,26.40212,81.438432,26.402932",
+    "geom:latitude":26.402514,
+    "geom:longitude":81.437695,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Durgapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.41736,26.38257,81.45736,26.42257",
+    "ks:ks_id":"KS216F4BEAF42D435DA7F8F1E155FE4FEA",
+    "ks:ks_name":"Durgapur",
+    "ks:ks_pop":198,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1180463",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1869002",
+    "lbl:latitude":26.402439,
+    "lbl:longitude":81.437634,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.402439,
+    "mps:longitude":81.437634,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u063a\u0627\u0628\u0648\u0631"
@@ -56,6 +66,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03c1\u03b3\u03ba\u03b1\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Durgapur"
     ],
     "name:epo_x_preferred":[
         "Durgapur"
@@ -162,7 +175,13 @@
     "name:zho_x_preferred":[
         "\u675c\u723e\u52a0\u5e03\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,10 +190,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10575745
+        "gn:id":10575745,
+        "ks:id":"KS216F4BEAF42D435DA7F8F1E155FE4FEA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d1892f7d21410f8de1691e1734001ead",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3400c9d6b1d4d71364b9730eaeca7684",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +208,22 @@
         }
     ],
     "wof:id":1343898121,
-    "wof:lastmodified":1576020865,
+    "wof:lastmodified":1680657109,
     "wof:name":"Durgapur",
     "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.43736,
-    26.40257,
-    81.43736,
-    26.40257
+    81.436927,
+    26.40212,
+    81.438432,
+    26.402932
 ],
-  "geometry": {"coordinates":[81.43736,26.40257],"type":"Point"}
+  "geometry": {"coordinates":[[[81.438333,26.402931],[81.438332,26.40275],[81.43843200000001,26.40275],[81.43843200000001,26.40266],[81.438332,26.40266],[81.43833100000001,26.40248],[81.438231,26.40248],[81.438231,26.40239],[81.43813,26.40239],[81.43813,26.4023],[81.43803,26.4023],[81.438029,26.40221],[81.437929,26.40221],[81.437929,26.40212],[81.437327,26.402121],[81.437327,26.402212],[81.437127,26.402212],[81.437127,26.402303],[81.437027,26.402303],[81.437027,26.402393],[81.436927,26.402394],[81.43692799999999,26.402574],[81.437028,26.402574],[81.437028,26.402664],[81.437229,26.402663],[81.437229,26.402754],[81.43763,26.402753],[81.437631,26.402843],[81.43793100000001,26.402842],[81.437932,26.402932],[81.438333,26.402931]]],"type":"Polygon"}
 }

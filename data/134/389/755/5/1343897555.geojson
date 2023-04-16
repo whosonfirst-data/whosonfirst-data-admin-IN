@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.28324,26.38519,82.28324,26.38519",
-    "geom:latitude":26.38519,
-    "geom:longitude":82.28324,
+    "geom:bbox":"82.282816,26.384486,82.283926,26.385659",
+    "geom:latitude":26.385061,
+    "geom:longitude":82.28335,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Kunchi",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.26324,26.36519,82.30324,26.40519",
+    "ks:ks_id":"KS857F380844D9408AB94C20A70FB62D23",
+    "ks:ks_name":"Konchi",
+    "ks:ks_pop":661,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|576716",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1958911",
+    "lbl:latitude":26.385117,
+    "lbl:longitude":82.283395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.385117,
+    "mps:longitude":82.283395,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Kunchi"
+    ],
+    "name:eng_x_preferred":[
+        "Konchi"
+    ],
+    "name:eng_x_variant":[
         "Kunchi"
     ],
     "name:fra_x_preferred":[
@@ -42,7 +58,13 @@
     "name:swe_x_preferred":[
         "Kunchi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10615832
+        "gn:id":10615832,
+        "ks:id":"KS857F380844D9408AB94C20A70FB62D23"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ff73c3832a0a7a44ec4b600e1069ef3b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b64c8e7556d54e7ed558c0ff0ccd46dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1343897555,
-    "wof:lastmodified":1566688466,
-    "wof:name":"Kunchi",
+    "wof:lastmodified":1680657086,
+    "wof:name":"Konchi",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":661,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.28324,
-    26.38519,
-    82.28324,
-    26.38519
+    82.282816,
+    26.384486,
+    82.283926,
+    26.385659
 ],
-  "geometry": {"coordinates":[82.28324000000001,26.38519],"type":"Point"}
+  "geometry": {"coordinates":[[[82.28373000000001,26.385656],[82.283728,26.385475],[82.283828,26.385474],[82.28382499999999,26.385203],[82.28392599999999,26.385202],[82.283924,26.385022],[82.283823,26.385023],[82.283821,26.384842],[82.283721,26.384843],[82.28372,26.384753],[82.28352,26.384755],[82.283519,26.384664],[82.283418,26.384665],[82.283417,26.384575],[82.283317,26.384576],[82.283316,26.384486],[82.282915,26.384489],[82.282916,26.384579],[82.282816,26.38458],[82.282821,26.385032],[82.282921,26.385031],[82.282923,26.385211],[82.283023,26.38521],[82.28302499999999,26.385391],[82.283126,26.38539],[82.28312699999999,26.38548],[82.283227,26.385479],[82.28322799999999,26.38557],[82.283328,26.385569],[82.28332899999999,26.385659],[82.28373000000001,26.385656]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.57592,26.71584,79.57592,26.71584",
-    "geom:latitude":26.71584,
-    "geom:longitude":79.57592,
+    "geom:bbox":"79.574698,26.715182,79.576919,26.716721",
+    "geom:latitude":26.716,
+    "geom:longitude":79.575752,
     "gn:admin1_code":"36",
     "gn:admin2_code":"162.0",
     "gn:asciiname":"Chandpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.55592,26.69584,79.59592,26.73584",
+    "ks:ks_id":"KSD653A278407A4D49AB771B5A65F896E2",
+    "ks:ks_name":"Chandpur",
+    "ks:ks_pop":350,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1198849",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1878745",
+    "lbl:latitude":26.716014,
+    "lbl:longitude":79.575731,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.716014,
+    "mps:longitude":79.575731,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "Chandpur"
     ],
     "name:deu_x_preferred":[
+        "Chandpur"
+    ],
+    "name:eng_x_preferred":[
         "Chandpur"
     ],
     "name:ita_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Chandpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10485959
+        "gn:id":10485959,
+        "ks:id":"KSD653A278407A4D49AB771B5A65F896E2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8e7ca3dc1bd732d5adc3861e44d1160d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3dd727d9f33fd929d62f63e93fc2c660",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1343897655,
-    "wof:lastmodified":1566688470,
+    "wof:lastmodified":1680657089,
     "wof:name":"Chandpur",
     "wof:parent_id":1108695827,
     "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.57592,
-    26.71584,
-    79.57592,
-    26.71584
+    79.574698,
+    26.715182,
+    79.576919,
+    26.716721
 ],
-  "geometry": {"coordinates":[79.57592,26.71584],"type":"Point"}
+  "geometry": {"coordinates":[[[79.576003,26.716721],[79.576004,26.71663],[79.576105,26.716631],[79.576106,26.716541],[79.576207,26.716542],[79.57620799999999,26.716452],[79.576308,26.716453],[79.57630899999999,26.716363],[79.57651,26.716365],[79.576511,26.716274],[79.576612,26.716275],[79.57661299999999,26.716185],[79.576714,26.716186],[79.57671499999999,26.716096],[79.576815,26.716097],[79.57681700000001,26.715916],[79.57691800000001,26.715917],[79.576919,26.715827],[79.576819,26.715826],[79.576821,26.715645],[79.57671999999999,26.715644],[79.57672100000001,26.715554],[79.576621,26.715553],[79.576622,26.715463],[79.576421,26.715461],[79.57642199999999,26.715371],[79.576322,26.71537],[79.576323,26.715279],[79.576122,26.715277],[79.576123,26.715187],[79.57562,26.715182],[79.575619,26.715272],[79.575519,26.715271],[79.575518,26.715362],[79.575417,26.715361],[79.575416,26.715451],[79.575215,26.715449],[79.57521300000001,26.715629],[79.575012,26.715627],[79.575011,26.715718],[79.57491,26.715717],[79.57490799999999,26.715897],[79.57480700000001,26.715896],[79.574803,26.716257],[79.574702,26.716256],[79.574698,26.716617],[79.574899,26.716619],[79.574898,26.716709],[79.576003,26.716721]]],"type":"Polygon"}
 }
