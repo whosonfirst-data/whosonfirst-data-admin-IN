@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.69831,29.9463,78.69831,29.9463",
-    "geom:latitude":29.9463,
-    "geom:longitude":78.69831,
+    "geom:bbox":"78.695874,29.946799,78.697028,29.948336",
+    "geom:latitude":29.947665,
+    "geom:longitude":78.696482,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Bunga",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.67831,29.9263,78.71831,29.9663",
+    "ks:ks_alt_nam":"B\u016bnga",
+    "ks:ks_id":"KS5D09AEF6DAD743ED968EE5B97E38706E",
+    "ks:ks_name":"Bunga",
+    "ks:ks_pop":519,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|185513",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1840022",
+    "lbl:latitude":29.947673,
+    "lbl:longitude":78.696471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.947673,
+    "mps:longitude":78.696471,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u062c\u0627"
@@ -44,6 +55,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03cd\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Bunga"
+    ],
+    "name:eng_x_variant":[
+        "B\u016bnga"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0627"
@@ -111,7 +128,13 @@
     "name:zho_tw_x_preferred":[
         "\u73ed\u52a0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444532
+        "gn:id":1444532,
+        "ks:id":"KS5D09AEF6DAD743ED968EE5B97E38706E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"18773ac88b64a0471a5a77ae292804ae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bbb751339bbdd15e0d69658c877c74c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +161,22 @@
         }
     ],
     "wof:id":1327469417,
-    "wof:lastmodified":1636505232,
+    "wof:lastmodified":1680654494,
     "wof:name":"Bunga",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":519,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.69831,
-    29.9463,
-    78.69831,
-    29.9463
+    78.695874,
+    29.946799,
+    78.697028,
+    29.948336
 ],
-  "geometry": {"coordinates":[78.69831000000001,29.9463],"type":"Point"}
+  "geometry": {"coordinates":[[[78.69690799999999,29.948336],[78.69691,29.948246],[78.697013,29.948248],[78.697028,29.947616],[78.696924,29.947615],[78.696943,29.946803],[78.696736,29.946799],[78.69673400000001,29.94689],[78.696423,29.946884],[78.696421,29.946974],[78.69631800000001,29.946973],[78.696315,29.947063],[78.696212,29.947061],[78.69620999999999,29.947151],[78.696106,29.947149],[78.69610400000001,29.947239],[78.696001,29.947238],[78.695992,29.947598],[78.69588899999999,29.947596],[78.695874,29.948228],[78.695978,29.94823],[78.695976,29.94832],[78.69690799999999,29.948336]]],"type":"Polygon"}
 }
