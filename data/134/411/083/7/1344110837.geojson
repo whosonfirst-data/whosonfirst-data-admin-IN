@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.51751,25.03603,86.51751,25.03603",
-    "geom:latitude":25.03603,
-    "geom:longitude":86.51751,
+    "geom:bbox":"86.51112,25.049172,86.513003,25.050711",
+    "geom:latitude":25.050026,
+    "geom:longitude":86.511968,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"226.0",
     "gn:asciiname":"Lauria",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.49751,25.01603,86.53751,25.05603",
+    "ks:ks_id":"KS767845C105494B448C717CFDBD2DA2C5",
+    "ks:ks_name":"Dauria",
+    "ks:ks_pop":1381,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1024000802738100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1210502",
+    "lbl:latitude":25.050077,
+    "lbl:longitude":86.51195,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.050077,
+    "mps:longitude":86.51195,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0648\u0631\u064a\u0627"
@@ -43,6 +53,12 @@
         "Lauria"
     ],
     "name:deu_x_preferred":[
+        "Lauria"
+    ],
+    "name:eng_x_preferred":[
+        "Dauria"
+    ],
+    "name:eng_x_variant":[
         "Lauria"
     ],
     "name:epo_x_preferred":[
@@ -135,7 +151,13 @@
     "name:zho_x_preferred":[
         "\u52b3\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -144,10 +166,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10905273
+        "gn:id":10905273,
+        "ks:id":"KS767845C105494B448C717CFDBD2DA2C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1ccd703fe24314270c489474028b5f56",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8c7418ba6df9b0cafda86aba2e8b4d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,20 +184,22 @@
         }
     ],
     "wof:id":1344110837,
-    "wof:lastmodified":1566688144,
-    "wof:name":"Lauria",
+    "wof:lastmodified":1680656918,
+    "wof:name":"Dauria",
     "wof:parent_id":1108695931,
     "wof:placetype":"locality",
+    "wof:population":1381,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.51751,
-    25.03603,
-    86.51751,
-    25.03603
+    86.51112,
+    25.049172,
+    86.513003,
+    25.050711
 ],
-  "geometry": {"coordinates":[86.51751,25.03603],"type":"Point"}
+  "geometry": {"coordinates":[[[86.512604,25.050711],[86.51260499999999,25.050621],[86.512704,25.050621],[86.512704,25.050531],[86.512902,25.050532],[86.51290299999999,25.050351],[86.513002,25.050351],[86.513003,25.050171],[86.51290400000001,25.050171],[86.51290400000001,25.05008],[86.512805,25.05008],[86.512806,25.049899],[86.51270700000001,25.049899],[86.51270700000001,25.049809],[86.512608,25.049808],[86.512608,25.049718],[86.51250899999999,25.049718],[86.51250899999999,25.049627],[86.51241,25.049627],[86.512411,25.049537],[86.51221200000001,25.049536],[86.512213,25.049446],[86.511915,25.049445],[86.511916,25.049354],[86.511618,25.049354],[86.511619,25.049263],[86.51142,25.049263],[86.511421,25.049172],[86.511222,25.049172],[86.511222,25.049262],[86.511123,25.049262],[86.51112000000001,25.049894],[86.51121999999999,25.049894],[86.511218,25.050165],[86.511318,25.050165],[86.51131700000001,25.050346],[86.511416,25.050346],[86.511415,25.050527],[86.51151400000001,25.050527],[86.51151400000001,25.050617],[86.511613,25.050618],[86.511613,25.050708],[86.512604,25.050711]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.90933,14.59044,75.90933,14.59044",
-    "geom:latitude":14.59044,
-    "geom:longitude":75.90933,
+    "geom:bbox":"75.908539,14.589625,75.910156,14.591242",
+    "geom:latitude":14.59031,
+    "geom:longitude":75.909505,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"567.0",
     "gn:asciiname":"Nagalapuram",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.88933,14.57044,75.92933,14.61044",
+    "ks:ks_id":"KS9E7EEDCF0A1D4868ADE6C16C8A69EB4F",
+    "ks:ks_name":"Nagalapura",
+    "ks:ks_pop":115,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|741648",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_311392",
+    "lbl:latitude":14.590253,
+    "lbl:longitude":75.909601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.590253,
+    "mps:longitude":75.909601,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "N\u0101gal\u0101puram"
+    ],
+    "name:eng_x_preferred":[
+        "Nagalapura"
+    ],
+    "name:eng_x_variant":[
+        "Nagalapuram"
     ],
     "name:new_x_preferred":[
         "\u0928\u093e\u0917\u0932\u093e\u092a\u0941\u0930\u0902 \u092e\u0923\u094d\u0921\u0932"
@@ -57,7 +73,13 @@
     "name:vie_x_preferred":[
         "Nagalapuram"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10855466
+        "gn:id":10855466,
+        "ks:id":"KS9E7EEDCF0A1D4868ADE6C16C8A69EB4F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bed0fe3caacbca25e1b215caf2878cbe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"baf52b668604934364f3db5452832e58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1344131697,
-    "wof:lastmodified":1566686143,
-    "wof:name":"Nagalapuram",
+    "wof:lastmodified":1680655868,
+    "wof:name":"Nagalapura",
     "wof:parent_id":890506459,
     "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.90933000000003,
-    14.59044,
-    75.90933000000003,
-    14.59044
+    75.908539,
+    14.589625,
+    75.910156,
+    14.591242
 ],
-  "geometry": {"coordinates":[75.90933000000003,14.59044],"type":"Point"}
+  "geometry": {"coordinates":[[[75.909347,14.591242],[75.909347,14.590973],[75.910156,14.590973],[75.910156,14.589625],[75.90907799999999,14.589625],[75.90907799999999,14.589895],[75.908539,14.589895],[75.908539,14.590164],[75.90880799999999,14.590164],[75.90880799999999,14.590434],[75.90907799999999,14.590434],[75.90907799999999,14.591242],[75.909347,14.591242]]],"type":"Polygon"}
 }

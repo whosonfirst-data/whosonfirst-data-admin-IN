@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.84338,28.64887,79.84338,28.64887",
-    "geom:latitude":28.64887,
-    "geom:longitude":79.84338,
+    "geom:bbox":"79.840459,28.648129,79.841999,28.649212",
+    "geom:latitude":28.648621,
+    "geom:longitude":79.841209,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"151.0",
     "gn:asciiname":"Bhartapur",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.82338,28.62887,79.86338,28.66887",
+    "ks:ks_id":"KS8F7BBE4A54F048E798BB9F00CDDA8EEB",
+    "ks:ks_name":"Bharatpur",
+    "ks:ks_pop":427,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|139578",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2029565",
+    "lbl:latitude":28.648626,
+    "lbl:longitude":79.841209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.648626,
+    "mps:longitude":79.841209,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:eng_x_variant":[
+        "Bhartapur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10831380
+        "gn:id":10831380,
+        "ks:id":"KS8F7BBE4A54F048E798BB9F00CDDA8EEB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dbcfca486ec1b905c6c741741d233a66",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"efb7b5ac75a7f7f83f490c963a93d283",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1344096057,
-    "wof:lastmodified":1566686393,
-    "wof:name":"Bhartapur",
+    "wof:lastmodified":1680655989,
+    "wof:name":"Bharatpur",
     "wof:parent_id":1108695809,
     "wof:placetype":"locality",
+    "wof:population":427,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.84338000000002,
-    28.64887,
-    79.84338000000002,
-    28.64887
+    79.840459,
+    28.648129,
+    79.841999,
+    28.649212
 ],
-  "geometry": {"coordinates":[79.84338000000002,28.64887],"type":"Point"}
+  "geometry": {"coordinates":[[[79.84117000000001,28.649212],[79.841171,28.649122],[79.841375,28.649124],[79.841376,28.649034],[79.84147900000001,28.649034],[79.84148,28.648944],[79.841684,28.648946],[79.841685,28.648856],[79.84178799999999,28.648857],[79.84178900000001,28.648766],[79.841891,28.648767],[79.841892,28.648677],[79.841994,28.648678],[79.841999,28.648227],[79.841897,28.648226],[79.841898,28.648135],[79.841182,28.648129],[79.84118100000001,28.64822],[79.84066900000001,28.648215],[79.84066799999999,28.648305],[79.840566,28.648305],[79.840565,28.648395],[79.840463,28.648394],[79.840459,28.648755],[79.84056099999999,28.648756],[79.840558,28.649026],[79.84066,28.649027],[79.840659,28.649118],[79.840762,28.649118],[79.840761,28.649209],[79.84117000000001,28.649212]]],"type":"Polygon"}
 }

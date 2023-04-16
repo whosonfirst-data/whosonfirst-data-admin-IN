@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.25748,26.52662,81.25748,26.52662",
-    "geom:latitude":26.52662,
-    "geom:longitude":81.25748,
+    "geom:bbox":"81.257025,26.524361,81.258728,26.527161",
+    "geom:latitude":26.525944,
+    "geom:longitude":81.257798,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Maharajganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.23748,26.50662,81.27748,26.54662",
+    "ks:ks_id":"KSB021DF0310E9420B9DF4E250B8DE90A8",
+    "ks:ks_name":"Maharaj Ganj",
+    "ks:ks_pop":123,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|646124",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1872752",
+    "lbl:latitude":26.526316,
+    "lbl:longitude":81.257669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.526316,
+    "mps:longitude":81.257669,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0647\u0631\u0627\u062c \u063a\u0627\u0646\u062c"
@@ -43,6 +53,12 @@
         "Maharajganj"
     ],
     "name:deu_x_preferred":[
+        "Maharajganj"
+    ],
+    "name:eng_x_preferred":[
+        "Maharaj Ganj"
+    ],
+    "name:eng_x_variant":[
         "Maharajganj"
     ],
     "name:guj_x_preferred":[
@@ -81,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0627\u0631\u0627\u062c \u06af\u0646\u062c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10570286
+        "gn:id":10570286,
+        "ks:id":"KSB021DF0310E9420B9DF4E250B8DE90A8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e7f7724c8685a71fe78ec272a15f8f54",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"27574c155c7464c162be7024776912ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +130,22 @@
         }
     ],
     "wof:id":1344099911,
-    "wof:lastmodified":1577749745,
-    "wof:name":"Maharajganj",
+    "wof:lastmodified":1680655978,
+    "wof:name":"Maharaj Ganj",
     "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.25748,
-    26.52662,
-    81.25748,
-    26.52662
+    81.257025,
+    26.524361,
+    81.258728,
+    26.527161
 ],
-  "geometry": {"coordinates":[81.25748,26.52662],"type":"Point"}
+  "geometry": {"coordinates":[[[81.258031,26.52716],[81.258031,26.52707],[81.25823200000001,26.52707],[81.25823099999999,26.526979],[81.258332,26.526979],[81.25833,26.525986],[81.258229,26.525986],[81.25822700000001,26.525174],[81.25832800000001,26.525173],[81.25832800000001,26.525083],[81.25842799999999,26.525083],[81.25842799999999,26.524993],[81.258528,26.524992],[81.258528,26.524812],[81.258728,26.524812],[81.258728,26.524721],[81.258628,26.524721],[81.258627,26.524541],[81.258527,26.524541],[81.258527,26.524451],[81.258426,26.524451],[81.258426,26.524361],[81.258326,26.524361],[81.258326,26.524451],[81.25812500000001,26.524451],[81.258126,26.524542],[81.257925,26.524542],[81.257925,26.524632],[81.257825,26.524633],[81.257825,26.524994],[81.25772499999999,26.524994],[81.25772499999999,26.525084],[81.257625,26.525084],[81.257625,26.525175],[81.257525,26.525175],[81.257525,26.525265],[81.257425,26.525265],[81.257425,26.525356],[81.257324,26.525356],[81.25732499999999,26.525446],[81.25722399999999,26.525446],[81.25722500000001,26.525717],[81.257124,26.525717],[81.257125,26.525988],[81.257025,26.525988],[81.25702699999999,26.526801],[81.257127,26.526801],[81.257127,26.526981],[81.257228,26.526981],[81.257228,26.527072],[81.257429,26.527071],[81.257429,26.527161],[81.258031,26.52716]]],"type":"Polygon"}
 }

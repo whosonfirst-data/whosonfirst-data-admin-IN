@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.80608,21.25131,76.80608,21.25131",
-    "geom:latitude":21.25131,
-    "geom:longitude":76.80608,
+    "geom:bbox":"76.804339,21.250184,76.807303,21.251531",
+    "geom:latitude":21.250934,
+    "geom:longitude":76.806062,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Talai",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.78608,21.23131,76.82608,21.27131",
+    "ks:ks_id":"KS84896A7E6417477994E3D98FB4257AE9",
+    "ks:ks_name":"Talai",
+    "ks:ks_pop":682,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1027773",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_679309",
+    "lbl:latitude":21.250992,
+    "lbl:longitude":76.806163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.250992,
+    "mps:longitude":76.806163,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b2\u09be\u0987"
     ],
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09b2\u09be\u0987"
+    ],
+    "name:eng_x_preferred":[
+        "Talai"
     ],
     "name:ita_x_preferred":[
         "Talai"
@@ -54,7 +67,13 @@
     "name:vie_x_preferred":[
         "Talai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10501424
+        "gn:id":10501424,
+        "ks:id":"KS84896A7E6417477994E3D98FB4257AE9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f865e5d997d59f16508f20a08ebe089a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"475f46ebe049f76745f0c91205ea94f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1344126149,
-    "wof:lastmodified":1566686212,
+    "wof:lastmodified":1680655902,
     "wof:name":"Talai",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":682,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.80608000000002,
-    21.25131,
-    76.80608000000002,
-    21.25131
+    76.804339,
+    21.250184,
+    76.807303,
+    21.251531
 ],
-  "geometry": {"coordinates":[76.80608000000002,21.25131],"type":"Point"}
+  "geometry": {"coordinates":[[[76.806764,21.251531],[76.806764,21.251262],[76.807034,21.251262],[76.807034,21.250992],[76.807303,21.250992],[76.807303,21.250723],[76.807034,21.250723],[76.807034,21.250453],[76.806495,21.250453],[76.806495,21.250184],[76.806225,21.250184],[76.806225,21.250453],[76.80568599999999,21.250453],[76.80568599999999,21.250723],[76.804339,21.250723],[76.804339,21.250992],[76.80514700000001,21.250992],[76.80514700000001,21.251262],[76.80568599999999,21.251262],[76.80568599999999,21.251531],[76.806764,21.251531]]],"type":"Polygon"}
 }

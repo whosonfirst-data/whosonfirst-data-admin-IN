@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.17001,25.48881,83.17001,25.48881",
-    "geom:latitude":25.48881,
-    "geom:longitude":83.17001,
+    "geom:bbox":"83.172765,25.486638,83.173574,25.487447",
+    "geom:latitude":25.487042,
+    "geom:longitude":83.17317,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Sonbarsa",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.15001,25.46881,83.19001,25.50881",
+    "ks:ks_id":"KS4C43795468E942F6A1B9585DF701E1CA",
+    "ks:ks_name":"Son Barasa",
+    "ks:ks_pop":1179,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0966000109990000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1353100",
+    "lbl:latitude":25.487043,
+    "lbl:longitude":83.17317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.487043,
+    "mps:longitude":83.17317,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Sonbarsa"
+    ],
+    "name:eng_x_preferred":[
+        "Son Barasa"
+    ],
+    "name:eng_x_variant":[
         "Sonbarsa"
     ],
     "name:mai_x_preferred":[
@@ -48,7 +64,13 @@
     "name:pol_x_preferred":[
         "Sonbarsa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10498575
+        "gn:id":10498575,
+        "ks:id":"KS4C43795468E942F6A1B9585DF701E1CA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c5181877a61050e0bebb45718e543333",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46517344d113e2d51034cea19e1bdd97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1344100343,
-    "wof:lastmodified":1566688113,
-    "wof:name":"Sonbarsa",
+    "wof:lastmodified":1680656901,
+    "wof:name":"Son Barasa",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":1179,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.17000999999998,
-    25.48881,
-    83.17000999999998,
-    25.48881
+    83.172765,
+    25.486638,
+    83.173574,
+    25.487447
 ],
-  "geometry": {"coordinates":[83.17000999999998,25.48881],"type":"Point"}
+  "geometry": {"coordinates":[[[83.173574,25.486638],[83.172765,25.486638],[83.172765,25.487447],[83.173574,25.487447],[83.173574,25.486638]]],"type":"Polygon"}
 }

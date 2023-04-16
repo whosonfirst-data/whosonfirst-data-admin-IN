@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.26318,28.9383,75.26318,28.9383",
-    "geom:latitude":28.9383,
-    "geom:longitude":75.26318,
+    "geom:bbox":"75.261213,28.937786,75.263908,28.939942",
+    "geom:latitude":28.938729,
+    "geom:longitude":75.262317,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"100.0",
     "gn:asciiname":"Dhaka",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.24318,28.9183,75.28318,28.9583",
+    "ks:ks_alt_nam":"Dh\u0101ka",
+    "ks:ks_id":"KS7803B5A8554C4A25866881077A402FC5",
+    "ks:ks_name":"Dhaka",
+    "ks:ks_pop":265,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|267849",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_943228",
+    "lbl:latitude":28.938594,
+    "lbl:longitude":75.262291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.938594,
+    "mps:longitude":75.262291,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Dhaka"
@@ -137,6 +148,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ac\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dhaka"
+    ],
+    "name:eng_x_variant":[
+        "Dh\u0101ka"
     ],
     "name:epo_x_preferred":[
         "Dako"
@@ -501,7 +518,13 @@
     "name:yor_x_preferred":[
         "Dhaka"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -510,10 +533,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":9978492
+        "gn:id":9978492,
+        "ks:id":"KS7803B5A8554C4A25866881077A402FC5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3ff5c4c2b13f68a688b6dbc965c9ef9d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7fedfeaac2fb49383433238195ffe65d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -524,20 +551,22 @@
         }
     ],
     "wof:id":1344125153,
-    "wof:lastmodified":1636505299,
+    "wof:lastmodified":1680655910,
     "wof:name":"Dhaka",
     "wof:parent_id":1108695775,
     "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.26318,
-    28.9383,
-    75.26318,
-    28.9383
+    75.261213,
+    28.937786,
+    75.263908,
+    28.939942
 ],
-  "geometry": {"coordinates":[75.26318000000001,28.9383],"type":"Point"}
+  "geometry": {"coordinates":[[[75.262291,28.939942],[75.262291,28.939403],[75.26282999999999,28.939403],[75.26282999999999,28.939133],[75.263099,28.939133],[75.263099,28.939403],[75.263908,28.939403],[75.263908,28.938864],[75.263369,28.938864],[75.263369,28.937786],[75.261213,28.937786],[75.261213,28.939942],[75.261482,28.939942],[75.261482,28.939672],[75.262021,28.939672],[75.262021,28.939942],[75.262291,28.939942]]],"type":"Polygon"}
 }

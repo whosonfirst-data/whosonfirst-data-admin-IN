@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.32259,23.13072,74.32259,23.13072",
-    "geom:latitude":23.13072,
-    "geom:longitude":74.32259,
+    "geom:bbox":"74.334654,23.125378,74.335438,23.126463",
+    "geom:latitude":23.125917,
+    "geom:longitude":74.334975,
     "gn:admin1_code":"24",
     "gn:admin2_code":"125.0",
     "gn:asciiname":"Todi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.30259,23.11072,74.34259,23.15072",
+    "ks:ks_id":"KS403AB3B66FA1445E9621C0FEFC040107",
+    "ks:ks_name":"Todi",
+    "ks:ks_pop":581,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1061407",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_804720",
+    "lbl:latitude":23.125921,
+    "lbl:longitude":74.334975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.125921,
+    "mps:longitude":74.334975,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u062f\u064a"
@@ -62,6 +72,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03cc\u03bd\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Todi"
     ],
     "name:epo_x_preferred":[
         "Todi"
@@ -186,7 +199,13 @@
     "name:zho_x_preferred":[
         "\u6258\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -195,10 +214,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10739779
+        "gn:id":10739779,
+        "ks:id":"KS403AB3B66FA1445E9621C0FEFC040107"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e02d6d58674a51af1ae93bf93bf7ba79",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0bf06221ed40750077b6b9e2b3678348",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -209,20 +232,22 @@
         }
     ],
     "wof:id":1344125095,
-    "wof:lastmodified":1566686211,
+    "wof:lastmodified":1680655901,
     "wof:name":"Todi",
     "wof:parent_id":1108695781,
     "wof:placetype":"locality",
+    "wof:population":581,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.32259,
-    23.13072,
-    74.32259,
-    23.13072
+    74.334654,
+    23.125378,
+    74.335438,
+    23.126463
 ],
-  "geometry": {"coordinates":[74.32259000000001,23.13072],"type":"Point"}
+  "geometry": {"coordinates":[[[74.335044,23.126463],[74.335044,23.126373],[74.335142,23.126373],[74.335142,23.126283],[74.33524,23.126283],[74.33524,23.126193],[74.33533799999999,23.126194],[74.335339,23.126013],[74.335437,23.126013],[74.335438,23.125833],[74.33534,23.125832],[74.33534,23.125742],[74.33524300000001,23.125742],[74.33524300000001,23.125651],[74.335145,23.125651],[74.33514599999999,23.12556],[74.335048,23.12556],[74.335049,23.12547],[74.334951,23.125469],[74.334951,23.125379],[74.334658,23.125378],[74.334654,23.126191],[74.33475199999999,23.126191],[74.334751,23.126372],[74.33484900000001,23.126372],[74.33484799999999,23.126462],[74.335044,23.126463]]],"type":"Polygon"}
 }

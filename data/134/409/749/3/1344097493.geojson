@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.01343,25.44784,84.01343,25.44784",
-    "geom:latitude":25.44784,
-    "geom:longitude":84.01343,
+    "geom:bbox":"84.011972,25.446214,84.014936,25.448909",
+    "geom:latitude":25.447661,
+    "geom:longitude":84.013352,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"232.0",
     "gn:asciiname":"Konch",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.99343,25.42784,84.03343,25.46784",
+    "ks:ks_id":"KS44AA325A33AF4B9680FEEE9209814B07",
+    "ks:ks_name":"Konch",
+    "ks:ks_pop":1088,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1030001003285000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1350823",
+    "lbl:latitude":25.448033,
+    "lbl:longitude":84.013745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.448033,
+    "mps:longitude":84.013745,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u0981\u099a"
@@ -37,6 +47,9 @@
         "Kunch"
     ],
     "name:ceb_x_preferred":[
+        "Konch"
+    ],
+    "name:eng_x_preferred":[
         "Konch"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:vie_x_preferred":[
         "Konch"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835463
+        "gn:id":10835463,
+        "ks:id":"KS44AA325A33AF4B9680FEEE9209814B07"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bdb795a7fe9437d46057204eb611de0e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7591f4d679dceb191c4e2bc6e4a9eeaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1344097493,
-    "wof:lastmodified":1566686405,
+    "wof:lastmodified":1680655996,
     "wof:name":"Konch",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
+    "wof:population":1088,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.01343,
-    25.44784,
-    84.01343,
-    25.44784
+    84.011972,
+    25.446214,
+    84.014936,
+    25.448909
 ],
-  "geometry": {"coordinates":[84.01343,25.44784],"type":"Point"}
+  "geometry": {"coordinates":[[[84.014397,25.448909],[84.014397,25.44837],[84.01493600000001,25.44837],[84.01493600000001,25.447562],[84.014397,25.447562],[84.014397,25.447292],[84.013319,25.447292],[84.013319,25.446484],[84.01278000000001,25.446484],[84.01278000000001,25.446214],[84.012241,25.446214],[84.012241,25.446484],[84.011972,25.446484],[84.011972,25.447831],[84.01305000000001,25.447831],[84.01305000000001,25.448909],[84.014397,25.448909]]],"type":"Polygon"}
 }
