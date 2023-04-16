@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.32981,16.49973,81.32981,16.49973",
-    "geom:latitude":16.49973,
-    "geom:longitude":81.32981,
+    "geom:bbox":"81.329142,16.49884,81.331299,16.500648",
+    "geom:latitude":16.4998,
+    "geom:longitude":81.330217,
     "gn:admin1_code":"2",
     "gn:admin2_code":"547.0",
     "gn:asciiname":"Amaravati",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.30981,16.47973,81.34981,16.51973",
+    "ks:ks_id":"KS3625235EF8BF492D85A05ACBEFB3387B",
+    "ks:ks_name":"Amaravathi",
+    "ks:ks_pop":1254,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|28594",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_576631",
+    "lbl:latitude":16.499778,
+    "lbl:longitude":81.330217,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":16.499778,
+    "mps:longitude":81.330217,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0985\u09ae\u09b0\u09be\u09ac\u09a4\u09c0"
@@ -38,6 +48,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03b1\u03c1\u03b1\u03b2\u03ac\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Amaravathi"
+    ],
+    "name:eng_x_variant":[
+        "Amaravati"
     ],
     "name:fra_x_preferred":[
         "Amaravati"
@@ -111,7 +127,13 @@
     "name:zho_x_preferred":[
         "\u963f\u9a6c\u62c9\u74e6\u8482"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +142,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10768921
+        "gn:id":10768921,
+        "ks:id":"KS3625235EF8BF492D85A05ACBEFB3387B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"18275702823810cf19d4c15e5b4f6791",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f13d446f39de99f6695e692ad1e24b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +160,22 @@
         }
     ],
     "wof:id":1326932855,
-    "wof:lastmodified":1636505217,
-    "wof:name":"Amaravati",
+    "wof:lastmodified":1680654146,
+    "wof:name":"Amaravathi",
     "wof:parent_id":890507425,
     "wof:placetype":"locality",
+    "wof:population":1254,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.32981,
-    16.49973,
-    81.32981,
-    16.49973
+    81.329142,
+    16.49884,
+    81.331299,
+    16.500648
 ],
-  "geometry": {"coordinates":[81.32980999999999,16.49973],"type":"Point"}
+  "geometry": {"coordinates":[[[81.33120599999999,16.500647],[81.33120599999999,16.500286],[81.331299,16.500286],[81.331299,16.500105],[81.331205,16.500105],[81.331205,16.499834],[81.33111100000001,16.499834],[81.33111100000001,16.499653],[81.331017,16.499653],[81.331017,16.499382],[81.330923,16.499382],[81.330923,16.499201],[81.33082899999999,16.499201],[81.33082899999999,16.499111],[81.330735,16.499111],[81.330735,16.499021],[81.330641,16.499021],[81.330641,16.498931],[81.330454,16.498931],[81.330454,16.49884],[81.330079,16.498841],[81.330079,16.498931],[81.32998499999999,16.498932],[81.32998499999999,16.499022],[81.329892,16.499022],[81.329892,16.499113],[81.32970400000001,16.499113],[81.329705,16.499203],[81.32942300000001,16.499204],[81.32942300000001,16.499113],[81.32923599999999,16.499114],[81.32923599999999,16.499204],[81.329142,16.499204],[81.329143,16.499747],[81.32923700000001,16.499746],[81.329238,16.500108],[81.329331,16.500108],[81.32933199999999,16.500379],[81.329425,16.500379],[81.329426,16.500469],[81.330269,16.500468],[81.330269,16.500558],[81.330456,16.500558],[81.330457,16.500648],[81.33120599999999,16.500647]]],"type":"Polygon"}
 }
