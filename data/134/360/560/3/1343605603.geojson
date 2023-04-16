@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.00185,27.19765,83.00185,27.19765",
-    "geom:latitude":27.19765,
-    "geom:longitude":83.00185,
+    "geom:bbox":"83.001319,27.196389,83.002841,27.198293",
+    "geom:latitude":27.19745,
+    "geom:longitude":83.002079,
     "gn:admin1_code":"36",
     "gn:admin2_code":"184.0",
     "gn:asciiname":"Phulpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.98185,27.17765,83.02185,27.21765",
+    "ks:ks_id":"KSE356F4C74F6046C3BA0BB03325B6733D",
+    "ks:ks_name":"Phulpur",
+    "ks:ks_pop":215,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|850456",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2001305",
+    "lbl:latitude":27.197511,
+    "lbl:longitude":83.002093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.197511,
+    "mps:longitude":83.002093,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ab\u09c1\u09b2\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Phulpur"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1\u0ab2\u0aaa\u0ac1\u0ab0"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u067e\u06be\u0648\u0644\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10654789
+        "gn:id":10654789,
+        "ks:id":"KSE356F4C74F6046C3BA0BB03325B6733D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"016a7dfb8630ad13178b05be8b1a0f80",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c31363656e0f9f1f388e8b755b56172e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343605603,
-    "wof:lastmodified":1577749864,
+    "wof:lastmodified":1680656685,
     "wof:name":"Phulpur",
     "wof:parent_id":1108695859,
     "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.00185,
-    27.19765,
-    83.00185,
-    27.19765
+    83.001319,
+    27.196389,
+    83.002841,
+    27.198293
 ],
-  "geometry": {"coordinates":[83.00185,27.19765],"type":"Point"}
+  "geometry": {"coordinates":[[[83.002242,27.198283],[83.00224,27.198192],[83.002543,27.198188],[83.00254099999999,27.198098],[83.00264199999999,27.198096],[83.002641,27.198006],[83.002741,27.198005],[83.00274,27.197915],[83.002841,27.197913],[83.00282799999999,27.197191],[83.00272699999999,27.197193],[83.00272200000001,27.196922],[83.002621,27.196923],[83.00261999999999,27.196833],[83.00251900000001,27.196835],[83.002515,27.196654],[83.002415,27.196656],[83.002413,27.196565],[83.002312,27.196567],[83.00230999999999,27.196477],[83.002109,27.19648],[83.002107,27.196389],[83.00200599999999,27.196391],[83.002008,27.196481],[83.001806,27.196484],[83.001808,27.196574],[83.001707,27.196576],[83.00171,27.196756],[83.001609,27.196757],[83.001614,27.197028],[83.001513,27.19703],[83.001516,27.19721],[83.00141499999999,27.197211],[83.00142,27.197482],[83.001319,27.197484],[83.00133,27.198115],[83.001431,27.198114],[83.00143300000001,27.198204],[83.00153400000001,27.198203],[83.001535,27.198293],[83.002242,27.198283]]],"type":"Polygon"}
 }

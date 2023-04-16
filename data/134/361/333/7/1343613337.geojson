@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.43793,28.19865,79.43793,28.19865",
-    "geom:latitude":28.19865,
-    "geom:longitude":79.43793,
+    "geom:bbox":"79.436093,28.198151,79.438049,28.20023",
+    "geom:latitude":28.199232,
+    "geom:longitude":79.437105,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"150.0",
     "gn:asciiname":"Gajsinghpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.41793,28.17865,79.45793,28.21865",
+    "ks:ks_id":"KSF257B246FB774AD89F35D020C4C3EBF1",
+    "ks:ks_name":"Gajsinghpur",
+    "ks:ks_pop":299,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|337890",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1811756",
+    "lbl:latitude":28.199233,
+    "lbl:longitude":79.437086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.199233,
+    "mps:longitude":79.437086,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u099c\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u0997\u099c\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Gajsinghpur"
     ],
     "name:ita_x_preferred":[
         "Gajsinghpur"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u52a0\u6770\u8f9b\u683c\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10825847
+        "gn:id":10825847,
+        "ks:id":"KSF257B246FB774AD89F35D020C4C3EBF1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3e2172ffc54bcb32659b42c8a99c1071",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b96b25974500b9e86769a02664b34ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1343613337,
-    "wof:lastmodified":1566687273,
+    "wof:lastmodified":1680656448,
     "wof:name":"Gajsinghpur",
     "wof:parent_id":890508871,
     "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.43793000000002,
-    28.19865,
-    79.43793000000002,
-    28.19865
+    79.436093,
+    28.198151,
+    79.438049,
+    28.20023
 ],
-  "geometry": {"coordinates":[79.43793000000002,28.19865],"type":"Point"}
+  "geometry": {"coordinates":[[[79.437515,28.20023],[79.437516,28.20014],[79.437618,28.200141],[79.437622,28.199871],[79.437724,28.199872],[79.437729,28.199511],[79.437831,28.199512],[79.437834,28.199331],[79.43793599999999,28.199333],[79.43794,28.199062],[79.438041,28.199063],[79.43804900000001,28.198522],[79.43794699999999,28.19852],[79.43795,28.19834],[79.437848,28.198339],[79.43785,28.198249],[79.437748,28.198247],[79.437749,28.198157],[79.43724,28.198151],[79.43723799999999,28.198242],[79.43703499999999,28.198239],[79.437033,28.19833],[79.436932,28.198328],[79.43693,28.198419],[79.436727,28.198416],[79.436725,28.198507],[79.436623,28.198505],[79.436622,28.198596],[79.43652,28.198594],[79.43651800000001,28.198775],[79.43641599999999,28.198774],[79.436413,28.198954],[79.436311,28.198953],[79.43630899999999,28.199134],[79.436207,28.199132],[79.43620300000001,28.199403],[79.43610099999999,28.199402],[79.436093,28.199943],[79.436195,28.199944],[79.436194,28.200035],[79.436397,28.200037],[79.436396,28.200127],[79.436702,28.200131],[79.4367,28.200221],[79.437515,28.20023]]],"type":"Polygon"}
 }

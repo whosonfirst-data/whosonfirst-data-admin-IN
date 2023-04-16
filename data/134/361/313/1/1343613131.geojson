@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.35725,21.46151,82.35725,21.46151",
-    "geom:latitude":21.46151,
-    "geom:longitude":82.35725,
+    "geom:bbox":"82.35675,21.46078,82.358195,21.462411",
+    "geom:latitude":21.461629,
+    "geom:longitude":82.35742,
     "gn:admin1_code":"37",
     "gn:admin2_code":"410.0",
     "gn:asciiname":"Alda",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.33725,21.44151,82.37725,21.48151",
+    "ks:ks_id":"KS84441A6860C841F5A4FE4A01E3DAA126",
+    "ks:ks_name":"Alda",
+    "ks:ks_pop":112,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1167668",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_963872",
+    "lbl:latitude":21.461585,
+    "lbl:longitude":82.357506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.461585,
+    "mps:longitude":82.357506,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alda"
     ],
     "name:deu_x_preferred":[
+        "Alda"
+    ],
+    "name:eng_x_preferred":[
         "Alda"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +79,13 @@
     "name:spa_x_preferred":[
         "Alda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10709207
+        "gn:id":10709207,
+        "ks:id":"KS84441A6860C841F5A4FE4A01E3DAA126"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3725c6f3b254b797579e4827570c3ddd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9d434625e4231b33863c47788ed29e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1343613131,
-    "wof:lastmodified":1566687262,
+    "wof:lastmodified":1680656442,
     "wof:name":"Alda",
     "wof:parent_id":1108696189,
     "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.35725,
-    21.46151,
-    82.35725,
-    21.46151
+    82.35675,
+    21.46078,
+    82.358195,
+    21.462411
 ],
-  "geometry": {"coordinates":[82.35724999999999,21.46151],"type":"Point"}
+  "geometry": {"coordinates":[[[82.35743100000001,21.462316],[82.35742999999999,21.462226],[82.35752599999999,21.462225],[82.357525,21.462135],[82.35762200000001,21.462134],[82.35762099999999,21.462044],[82.357814,21.462042],[82.35781299999999,21.461952],[82.35791,21.461951],[82.35790900000001,21.461861],[82.35800500000001,21.46186],[82.35800399999999,21.461679],[82.35809999999999,21.461678],[82.358098,21.461498],[82.35819499999999,21.461497],[82.358194,21.461407],[82.358098,21.461407],[82.358096,21.461227],[82.35799900000001,21.461227],[82.35799900000001,21.461137],[82.357902,21.461138],[82.357901,21.461048],[82.357805,21.461048],[82.357804,21.460958],[82.357707,21.460959],[82.357707,21.460869],[82.35751399999999,21.46087],[82.357513,21.46078],[82.35732,21.460781],[82.357321,21.460872],[82.357224,21.460872],[82.357226,21.461053],[82.357129,21.461054],[82.35713199999999,21.461325],[82.357035,21.461326],[82.35703700000001,21.461506],[82.35694100000001,21.461507],[82.35694100000001,21.461597],[82.35684500000001,21.461598],[82.356847,21.461779],[82.35675000000001,21.46178],[82.356754,21.462231],[82.35685100000001,21.46223],[82.356852,21.462411],[82.357238,21.462408],[82.357238,21.462318],[82.35743100000001,21.462316]]],"type":"Polygon"}
 }

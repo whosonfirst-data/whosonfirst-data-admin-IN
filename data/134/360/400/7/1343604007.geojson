@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.72541,24.43301,87.72541,24.43301",
-    "geom:latitude":24.43301,
-    "geom:longitude":87.72541,
+    "geom:bbox":"87.723721,24.431567,87.726416,24.436687",
+    "geom:latitude":24.433845,
+    "geom:longitude":87.725056,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"353.0",
     "gn:asciiname":"Sindri",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.70541,24.41301,87.74541,24.45301",
+    "ks:ks_id":"KS94C3E000D3EB427298334052CAB5A6D4",
+    "ks:ks_name":"Sindri",
+    "ks:ks_pop":372,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13515696",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1297077",
+    "lbl:latitude":24.434421,
+    "lbl:longitude":87.725188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.434421,
+    "mps:longitude":87.725188,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u093f\u0902\u0926\u0930\u0940"
+    ],
+    "name:eng_x_preferred":[
+        "Sindri"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0902\u0926\u0930\u0940"
@@ -60,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u8f9b\u5fb7\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11016929
+        "gn:id":11016929,
+        "ks:id":"KS94C3E000D3EB427298334052CAB5A6D4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"779a19d5151b328808fa1da593bf28fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a5726832346ca0ce62643167ebeeb20d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1343604007,
-    "wof:lastmodified":1566687765,
+    "wof:lastmodified":1680656708,
     "wof:name":"Sindri",
     "wof:parent_id":1108696107,
     "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.72541,
-    24.43301,
-    87.72541,
-    24.43301
+    87.723721,
+    24.431567,
+    87.726416,
+    24.436687
 ],
-  "geometry": {"coordinates":[87.72541,24.43301],"type":"Point"}
+  "geometry": {"coordinates":[[[87.724799,24.436687],[87.724799,24.436148],[87.72533799999999,24.436148],[87.72533799999999,24.43507],[87.725877,24.43507],[87.725877,24.432915],[87.726416,24.432915],[87.726416,24.432106],[87.724799,24.432106],[87.724799,24.431567],[87.723721,24.431567],[87.723721,24.432376],[87.724529,24.432376],[87.724529,24.432915],[87.72533799999999,24.432915],[87.72533799999999,24.433184],[87.72506799999999,24.433184],[87.72506799999999,24.433723],[87.724529,24.433723],[87.724529,24.434531],[87.72426,24.434531],[87.72426,24.43507],[87.724529,24.43507],[87.724529,24.43534],[87.72426,24.43534],[87.72426,24.436687],[87.724799,24.436687]]],"type":"Polygon"}
 }
