@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.30047,26.28855,86.30047,26.28855",
-    "geom:latitude":26.28855,
-    "geom:longitude":86.30047,
+    "geom:bbox":"86.298364,26.286768,86.302945,26.291349",
+    "geom:latitude":26.288889,
+    "geom:longitude":86.300783,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"207.0",
     "gn:asciiname":"Majhaura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.28047,26.26855,86.32047,26.30855",
+    "ks:ks_id":"KS56A039D97FBD4CA18569699D090E6EA2",
+    "ks:ks_name":"Majhaura",
+    "ks:ks_pop":731,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|653733",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1619273",
+    "lbl:latitude":26.288654,
+    "lbl:longitude":86.300402,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.288654,
+    "mps:longitude":86.300402,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u091d\u094c\u0930\u093e"
@@ -38,6 +48,9 @@
     ],
     "name:dty_x_preferred":[
         "\u092e\u091d\u094c\u0930\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Majhaura"
     ],
     "name:mai_x_preferred":[
         "\u092e\u091d\u094c\u0930\u093e"
@@ -54,7 +67,13 @@
     "name:pol_x_preferred":[
         "Majhaura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10887644
+        "gn:id":10887644,
+        "ks:id":"KS56A039D97FBD4CA18569699D090E6EA2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"41e05383ac415e887095fe5fbddb2160",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"11a8fb9f8847b5475136701c2dcd0743",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1360129557,
-    "wof:lastmodified":1566702537,
+    "wof:lastmodified":1680669300,
     "wof:name":"Majhaura",
     "wof:parent_id":1108695901,
     "wof:placetype":"locality",
+    "wof:population":731,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.30046999999998,
-    26.28855,
-    86.30046999999998,
-    26.28855
+    86.298364,
+    26.286768,
+    86.302945,
+    26.291349
 ],
-  "geometry": {"coordinates":[86.30046999999998,26.28855],"type":"Point"}
+  "geometry": {"coordinates":[[[86.30078899999999,26.29081],[86.301598,26.29081],[86.301598,26.291349],[86.302406,26.291349],[86.302406,26.290541],[86.301867,26.290541],[86.301867,26.290002],[86.301328,26.290002],[86.301328,26.289193],[86.30294499999999,26.289193],[86.30294499999999,26.288115],[86.30267600000001,26.288115],[86.30267600000001,26.287307],[86.302406,26.287307],[86.302406,26.286768],[86.301598,26.286768],[86.301598,26.287307],[86.30078899999999,26.287307],[86.30078899999999,26.287576],[86.299711,26.287576],[86.299711,26.287846],[86.298633,26.287846],[86.298633,26.288654],[86.29836400000001,26.288654],[86.29836400000001,26.289732],[86.299442,26.289732],[86.299442,26.290271],[86.299711,26.290271],[86.299711,26.29081],[86.30025000000001,26.29081],[86.30025000000001,26.289732],[86.30078899999999,26.289732],[86.30078899999999,26.29081]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.48401,26.47329,83.48401,26.47329",
-    "geom:latitude":26.47329,
-    "geom:longitude":83.48401,
+    "geom:bbox":"83.478264,26.470454,83.480253,26.472106",
+    "geom:latitude":26.471402,
+    "geom:longitude":83.479299,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Charbata",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.46401,26.45329,83.50401,26.49329",
+    "ks:ks_id":"KSB9504D8671204BFDB64AE502692ADDE6",
+    "ks:ks_name":"Charwata",
+    "ks:ks_pop":80,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|208245",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1988930",
+    "lbl:latitude":26.471736,
+    "lbl:longitude":83.478982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.471736,
+    "mps:longitude":83.478982,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Charwata"
+    ],
+    "name:eng_x_variant":[
+        "Charbata"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10665645
+        "gn:id":10665645,
+        "ks:id":"KSB9504D8671204BFDB64AE502692ADDE6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"631bfd6887c6a68830f37e45e477dfe4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30de65ed96187657cfadf5f282043497",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1360128011,
-    "wof:lastmodified":1566702623,
-    "wof:name":"Charbata",
+    "wof:lastmodified":1680669355,
+    "wof:name":"Charwata",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.48401,
-    26.47329,
-    83.48401,
-    26.47329
+    83.478264,
+    26.470454,
+    83.480253,
+    26.472106
 ],
-  "geometry": {"coordinates":[83.48401,26.47329],"type":"Point"}
+  "geometry": {"coordinates":[[[83.479376,26.47209],[83.479371,26.47182],[83.47957100000001,26.471816],[83.479569,26.471726],[83.47946899999999,26.471728],[83.479465,26.471547],[83.47956499999999,26.471545],[83.479563,26.471455],[83.479764,26.471452],[83.47976199999999,26.471362],[83.479862,26.47136],[83.47986,26.47127],[83.48006100000001,26.471266],[83.480059,26.471176],[83.480159,26.471174],[83.480153,26.470904],[83.480253,26.470902],[83.480249,26.470721],[83.480149,26.470723],[83.48014499999999,26.470543],[83.480045,26.470544],[83.48004299999999,26.470454],[83.479742,26.470459],[83.479744,26.47055],[83.47964399999999,26.470551],[83.479646,26.470642],[83.479546,26.470643],[83.479552,26.470914],[83.479451,26.470916],[83.479455,26.471096],[83.479355,26.471098],[83.479359,26.471278],[83.479259,26.47128],[83.47926099999999,26.47137],[83.478759,26.471379],[83.47876100000001,26.471469],[83.47836,26.471476],[83.478364,26.471657],[83.478264,26.471658],[83.47826999999999,26.471929],[83.47837,26.471927],[83.47837199999999,26.472017],[83.478472,26.472016],[83.47847400000001,26.472106],[83.479376,26.47209]]],"type":"Polygon"}
 }

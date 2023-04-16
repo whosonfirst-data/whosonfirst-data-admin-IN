@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.90174,22.3156,82.90174,22.3156",
-    "geom:latitude":22.3156,
-    "geom:longitude":82.90174,
+    "geom:bbox":"82.891144,22.311723,82.891952,22.312262",
+    "geom:latitude":22.311993,
+    "geom:longitude":82.891548,
     "gn:admin1_code":"37.0",
     "gn:admin2_code":"404.0",
     "gn:asciiname":"Koi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.88174,22.2956,82.92174,22.3356",
+    "ks:ks_id":"KSC4D45F588316417DA73F7BCD8123EADB",
+    "ks:ks_name":"Koi",
+    "ks:ks_pop":407,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|570966",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1024175",
+    "lbl:latitude":22.311992,
+    "lbl:longitude":82.891548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.311992,
+    "mps:longitude":82.891548,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Koi"
@@ -52,6 +62,9 @@
         "Kapr koi"
     ],
     "name:deu_x_preferred":[
+        "Koi"
+    ],
+    "name:eng_x_preferred":[
         "Koi"
     ],
     "name:epo_x_preferred":[
@@ -141,7 +154,13 @@
     "name:vie_x_preferred":[
         "Koi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -150,10 +169,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8740986
+        "gn:id":8740986,
+        "ks:id":"KSC4D45F588316417DA73F7BCD8123EADB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"56744dbfe27fb746ec886db350640f69",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a350ec9554139a6f03cd8a2eb455fba9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,20 +187,22 @@
         }
     ],
     "wof:id":1360123327,
-    "wof:lastmodified":1566702588,
+    "wof:lastmodified":1680669333,
     "wof:name":"Koi",
     "wof:parent_id":890511347,
     "wof:placetype":"locality",
+    "wof:population":407,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.90174,
-    22.3156,
-    82.90174,
-    22.3156
+    82.891144,
+    22.311723,
+    82.891952,
+    22.312262
 ],
-  "geometry": {"coordinates":[82.90174,22.3156],"type":"Point"}
+  "geometry": {"coordinates":[[[82.891952,22.311723],[82.891144,22.311723],[82.891144,22.312262],[82.891952,22.312262],[82.891952,22.311723]]],"type":"Polygon"}
 }
