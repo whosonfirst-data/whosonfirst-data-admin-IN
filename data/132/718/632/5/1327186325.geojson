@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.07846,25.13693,82.07846,25.13693",
-    "geom:latitude":25.13693,
-    "geom:longitude":82.07846,
+    "geom:bbox":"82.077825,25.135819,82.079121,25.137446",
+    "geom:latitude":25.136672,
+    "geom:longitude":82.078389,
     "gn:admin1_code":"36",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Dari",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.05846,25.11693,82.09846,25.15693",
+    "ks:ks_id":"KSA4CF8373E38E47CB85A1EE3C039FACB2",
+    "ks:ks_name":"Dari",
+    "ks:ks_source_id":"N|13003486",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1907591",
+    "lbl:latitude":25.136743,
+    "lbl:longitude":82.078401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.136743,
+    "mps:longitude":82.078401,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dari"
@@ -38,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Dari"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc"
@@ -69,7 +80,11 @@
     "name:vie_x_preferred":[
         "Dari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10552499
+        "gn:id":10552499,
+        "ks:id":"KSA4CF8373E38E47CB85A1EE3C039FACB2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0ad64c76a1ed33ae0a2ed80c2dcfa77f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0bb5cb49e9bba054798245829724684d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +111,7 @@
         }
     ],
     "wof:id":1327186325,
-    "wof:lastmodified":1566685217,
+    "wof:lastmodified":1680655368,
     "wof:name":"Dari",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
@@ -102,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.07845999999998,
-    25.13693,
-    82.07845999999998,
-    25.13693
+    82.077825,
+    25.135819,
+    82.079121,
+    25.137446
 ],
-  "geometry": {"coordinates":[82.07845999999998,25.13693],"type":"Point"}
+  "geometry": {"coordinates":[[[82.07843,25.137444],[82.07843,25.137354],[82.078727,25.137352],[82.078726,25.137261],[82.07882600000001,25.137261],[82.07882499999999,25.13717],[82.078924,25.13717],[82.078923,25.137079],[82.07902199999999,25.137079],[82.07902199999999,25.136988],[82.079121,25.136988],[82.07911799999999,25.136627],[82.079018,25.136627],[82.07901699999999,25.136447],[82.078918,25.136447],[82.078917,25.136357],[82.078818,25.136358],[82.078817,25.136268],[82.07871799999999,25.136268],[82.078717,25.136178],[82.07861800000001,25.136179],[82.078616,25.135998],[82.07851700000001,25.135999],[82.07851599999999,25.135908],[82.078417,25.135909],[82.078416,25.135819],[82.078019,25.135822],[82.07802,25.135912],[82.077921,25.135913],[82.077924,25.136274],[82.077825,25.136275],[82.077833,25.137178],[82.077932,25.137177],[82.077934,25.137358],[82.078132,25.137356],[82.07813299999999,25.137446],[82.07843,25.137444]]],"type":"Polygon"}
 }

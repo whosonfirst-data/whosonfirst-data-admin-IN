@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.24095,25.02952,87.24095,25.02952",
-    "geom:latitude":25.02952,
-    "geom:longitude":87.24095,
+    "geom:bbox":"87.245389,25.026201,87.247279,25.029903",
+    "geom:latitude":25.027977,
+    "geom:longitude":87.246356,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Dumra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.22095,25.00952,87.26095,25.04952",
+    "ks:ks_id":"KSAE3BFDDFB94F4351BF86E6AC23461A34",
+    "ks:ks_name":"Dumra",
+    "ks:ks_pop":515,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2008000401392800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1210110",
+    "lbl:latitude":25.027737,
+    "lbl:longitude":87.246243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.027737,
+    "mps:longitude":87.246243,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ae\u09b0\u09be"
@@ -37,6 +47,9 @@
         "\u09a6\u09c1\u09ae\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Dumra"
+    ],
+    "name:eng_x_preferred":[
         "Dumra"
     ],
     "name:hif_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u675c\u59c6\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10995176
+        "gn:id":10995176,
+        "ks:id":"KSAE3BFDDFB94F4351BF86E6AC23461A34"
     },
     "wof:country":"IN",
-    "wof:geomhash":"945c6f4631d7811d5eb9847158f9ca81",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ff8d4f8501c90afa1fe657c314195f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1327176761,
-    "wof:lastmodified":1566684764,
+    "wof:lastmodified":1680655137,
     "wof:name":"Dumra",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":515,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.24095,
-    25.02952,
-    87.24095,
-    25.02952
+    87.245389,
+    25.026201,
+    87.247279,
+    25.029903
 ],
-  "geometry": {"coordinates":[87.24095,25.02952],"type":"Point"}
+  "geometry": {"coordinates":[[[87.24708099999999,25.029902],[87.24708099999999,25.029812],[87.24718,25.029812],[87.247179,25.029721],[87.24727900000001,25.029721],[87.247277,25.028908],[87.24717800000001,25.028908],[87.247176,25.027825],[87.247077,25.027825],[87.247075,25.027012],[87.246976,25.027012],[87.24697500000001,25.026832],[87.246876,25.026832],[87.246876,25.026651],[87.24677699999999,25.026651],[87.246776,25.026471],[87.24667700000001,25.026471],[87.24667700000001,25.026381],[87.24647899999999,25.026381],[87.24647899999999,25.026291],[87.24638,25.026291],[87.246379,25.026201],[87.24568600000001,25.026202],[87.24568600000001,25.026292],[87.24548799999999,25.026292],[87.24548799999999,25.026383],[87.245389,25.026383],[87.245392,25.028099],[87.245491,25.028098],[87.245492,25.028279],[87.245591,25.028279],[87.245591,25.028369],[87.24569,25.028369],[87.24569,25.028459],[87.245789,25.028459],[87.245789,25.02855],[87.24588900000001,25.028549],[87.24588900000001,25.02864],[87.245988,25.02864],[87.24598899999999,25.029362],[87.246088,25.029362],[87.246089,25.029723],[87.246188,25.029723],[87.246188,25.029813],[87.246387,25.029813],[87.246387,25.029903],[87.24708099999999,25.029902]]],"type":"Polygon"}
 }

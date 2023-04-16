@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.80628,26.00625,81.80628,26.00625",
-    "geom:latitude":26.00625,
-    "geom:longitude":81.80628,
+    "geom:bbox":"81.805368,26.005678,81.807168,26.007035",
+    "geom:latitude":26.006356,
+    "geom:longitude":81.806148,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Khutar",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.78628,25.98625,81.82628,26.02625",
+    "ks:ks_alt_nam":"Khut\u0101r",
+    "ks:ks_id":"KS351CA0656E07495E8BFA1A6D260BA37F",
+    "ks:ks_name":"Khutar",
+    "ks:ks_pop":604,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13048929",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1928737",
+    "lbl:latitude":26.006408,
+    "lbl:longitude":81.805985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.006408,
+    "mps:longitude":81.805985,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09c1\u09a4\u09be\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Kh\u016bt\u0101r"
+    ],
+    "name:eng_x_preferred":[
+        "Khutar"
+    ],
+    "name:eng_x_variant":[
+        "Khut\u0101r"
     ],
     "name:ita_x_preferred":[
         "Khutar"
@@ -69,7 +86,13 @@
     "name:vie_x_preferred":[
         "Khutar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10591743
+        "gn:id":10591743,
+        "ks:id":"KS351CA0656E07495E8BFA1A6D260BA37F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f03f56eeef02b4811ca8c60050da989b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9cee811739cde93e8ffcf644dc2d86c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1327177951,
-    "wof:lastmodified":1566684759,
+    "wof:lastmodified":1680655134,
     "wof:name":"Khutar",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.80628,
-    26.00625,
-    81.80628,
-    26.00625
+    81.805368,
+    26.005678,
+    81.807168,
+    26.007035
 ],
-  "geometry": {"coordinates":[81.80628,26.00625],"type":"Point"}
+  "geometry": {"coordinates":[[[81.806174,26.007032],[81.806173,26.006942],[81.806273,26.006941],[81.806273,26.006851],[81.806472,26.00685],[81.806472,26.00676],[81.80667200000001,26.006759],[81.80667099999999,26.006668],[81.806771,26.006668],[81.80677,26.006578],[81.80697000000001,26.006576],[81.806969,26.006396],[81.807069,26.006395],[81.807068,26.006215],[81.807168,26.006214],[81.80716700000001,26.006124],[81.807067,26.006124],[81.80706600000001,26.006034],[81.806467,26.006037],[81.806466,26.005947],[81.80626599999999,26.005948],[81.806265,26.005768],[81.80616499999999,26.005768],[81.80616499999999,26.005678],[81.80576499999999,26.00568],[81.80576600000001,26.00577],[81.805666,26.005771],[81.805666,26.005861],[81.805566,26.005862],[81.805567,26.005952],[81.80546699999999,26.005953],[81.805468,26.006133],[81.805368,26.006134],[81.80537,26.006314],[81.80547,26.006314],[81.80547300000001,26.006765],[81.805573,26.006765],[81.805573,26.006855],[81.805673,26.006855],[81.805674,26.006945],[81.805774,26.006944],[81.805774,26.007035],[81.806174,26.007032]]],"type":"Polygon"}
 }

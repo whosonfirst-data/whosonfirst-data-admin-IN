@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.40188,30.947,76.40188,30.947",
-    "geom:latitude":30.947,
-    "geom:longitude":76.40188,
+    "geom:bbox":"76.400026,30.945574,76.402454,30.948099",
+    "geom:latitude":30.946799,
+    "geom:longitude":76.401177,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"51.0",
     "gn:asciiname":"Atari",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.38188,30.927,76.42188,30.967",
+    "ks:ks_id":"KS005BD86ECA744C61ABC6431FB81AE90B",
+    "ks:ks_name":"Attari",
+    "ks:ks_pop":369,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0307000200675200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2657071",
+    "lbl:latitude":30.94681,
+    "lbl:longitude":76.401153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.94681,
+    "mps:longitude":76.401153,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u062a\u0627\u0631\u064a"
@@ -52,6 +62,12 @@
         "Atari"
     ],
     "name:deu_x_preferred":[
+        "Atari"
+    ],
+    "name:eng_x_preferred":[
+        "Attari"
+    ],
+    "name:eng_x_variant":[
         "Atari"
     ],
     "name:epo_x_preferred":[
@@ -150,7 +166,13 @@
     "name:zho_x_preferred":[
         "\u96c5\u9054\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -159,10 +181,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10434542
+        "gn:id":10434542,
+        "ks:id":"KS005BD86ECA744C61ABC6431FB81AE90B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"99d87aea6ab6f28466bf90b734951ead",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b0e638cabaa499a001bc3091a8ef03d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,20 +199,22 @@
         }
     ],
     "wof:id":1327202389,
-    "wof:lastmodified":1566685037,
-    "wof:name":"Atari",
+    "wof:lastmodified":1680655274,
+    "wof:name":"Attari",
     "wof:parent_id":890508855,
     "wof:placetype":"locality",
+    "wof:population":369,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.40188,
-    30.947,
-    76.40188,
-    30.947
+    76.400026,
+    30.945574,
+    76.402454,
+    30.948099
 ],
-  "geometry": {"coordinates":[76.40188000000001,30.947],"type":"Point"}
+  "geometry": {"coordinates":[[[76.40152500000001,30.948093],[76.40152399999999,30.948003],[76.40173299999999,30.948],[76.401732,30.94791],[76.401837,30.947909],[76.40183500000001,30.947819],[76.40194,30.947818],[76.401939,30.947728],[76.40204300000001,30.947726],[76.40204199999999,30.947636],[76.402147,30.947635],[76.402145,30.947545],[76.40225,30.947544],[76.402247,30.947363],[76.40235199999999,30.947362],[76.402349,30.947182],[76.40245400000001,30.947181],[76.402445,30.946549],[76.40234,30.94655],[76.40233600000001,30.94628],[76.402232,30.946281],[76.40222799999999,30.94601],[76.402123,30.946011],[76.40212,30.945831],[76.402016,30.945832],[76.40201399999999,30.945742],[76.401386,30.945749],[76.401385,30.945659],[76.400862,30.945664],[76.40085999999999,30.945574],[76.400756,30.945575],[76.400757,30.945665],[76.40012900000001,30.945672],[76.40013,30.945762],[76.400026,30.945763],[76.400051,30.947477],[76.400155,30.947476],[76.400158,30.947657],[76.400367,30.947654],[76.400369,30.947745],[76.40047300000001,30.947743],[76.400475,30.947834],[76.400684,30.947831],[76.400685,30.947922],[76.40079,30.94792],[76.400791,30.948011],[76.40100099999999,30.948008],[76.40100200000001,30.948099],[76.40152500000001,30.948093]]],"type":"Polygon"}
 }

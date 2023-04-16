@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.90745,19.63516,83.90745,19.63516",
-    "geom:latitude":19.63516,
-    "geom:longitude":83.90745,
+    "geom:bbox":"83.906599,19.634564,83.907677,19.635911",
+    "geom:latitude":19.635269,
+    "geom:longitude":83.907146,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Bondari",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.88745,19.61516,83.92745,19.65516",
+    "ks:ks_id":"KS297540E8DA164CBCA034C6281B38B033",
+    "ks:ks_name":"Bondhari",
+    "ks:ks_pop":1062,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2127000204509800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_456069",
+    "lbl:latitude":19.63528,
+    "lbl:longitude":83.907139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.63528,
+    "mps:longitude":83.907139,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440\u044b"
     ],
     "name:deu_x_preferred":[
+        "Bondari"
+    ],
+    "name:eng_x_preferred":[
+        "Bondhari"
+    ],
+    "name:eng_x_variant":[
         "Bondari"
     ],
     "name:hye_x_preferred":[
@@ -48,7 +64,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d\u0434\u0430\u0440\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10780624
+        "gn:id":10780624,
+        "ks:id":"KS297540E8DA164CBCA034C6281B38B033"
     },
     "wof:country":"IN",
-    "wof:geomhash":"449432e3a82561cb18fcb3b8bc9e7a80",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"beec1c0896cace049c6a682db856923f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1327198201,
-    "wof:lastmodified":1566684624,
-    "wof:name":"Bondari",
+    "wof:lastmodified":1680655067,
+    "wof:name":"Bondhari",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":1062,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.90745,
-    19.63516,
-    83.90745,
-    19.63516
+    83.906599,
+    19.634564,
+    83.907677,
+    19.635911
 ],
-  "geometry": {"coordinates":[83.90745,19.63516],"type":"Point"}
+  "geometry": {"coordinates":[[[83.907408,19.635911],[83.907408,19.635642],[83.90767700000001,19.635642],[83.90767700000001,19.634564],[83.907138,19.634564],[83.907138,19.634833],[83.906599,19.634833],[83.906599,19.635911],[83.907408,19.635911]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.59574,13.9246,74.59574,13.9246",
-    "geom:latitude":13.9246,
-    "geom:longitude":74.59574,
+    "geom:bbox":"74.594752,13.919931,74.59583,13.921009",
+    "geom:latitude":13.920528,
+    "geom:longitude":74.595252,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"569.0",
     "gn:asciiname":"Kotemane",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.57574,13.9046,74.61574,13.9446",
+    "ks:ks_id":"KS8965965D62CE43CCBC78398F5951AF4C",
+    "ks:ks_name":"Kotemane",
+    "ks:ks_pop":660,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|583441",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_300225",
+    "lbl:latitude":13.920599,
+    "lbl:longitude":74.595224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.920599,
+    "mps:longitude":74.595224,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kotemane"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10979336
+        "gn:id":10979336,
+        "ks:id":"KS8965965D62CE43CCBC78398F5951AF4C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"af356388e06ea35934534c22aa8ef4d4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23f5bd370e6f099025d67e57aa2e834f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1327196109,
-    "wof:lastmodified":1566684625,
+    "wof:lastmodified":1680655067,
     "wof:name":"Kotemane",
     "wof:parent_id":890502695,
     "wof:placetype":"locality",
+    "wof:population":660,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.59574,
-    13.9246,
-    74.59574,
-    13.9246
+    74.594752,
+    13.919931,
+    74.59583,
+    13.921009
 ],
-  "geometry": {"coordinates":[74.59574000000001,13.9246],"type":"Point"}
+  "geometry": {"coordinates":[[[74.595291,13.919931],[74.594752,13.919931],[74.594752,13.921009],[74.59583000000001,13.921009],[74.59583000000001,13.920201],[74.595291,13.920201],[74.595291,13.919931]]],"type":"Polygon"}
 }
