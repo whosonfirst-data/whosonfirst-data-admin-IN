@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.7413,25.66173,85.7413,25.66173",
-    "geom:latitude":25.66173,
-    "geom:longitude":85.7413,
+    "geom:bbox":"85.746708,25.654803,85.747786,25.65615",
+    "geom:latitude":25.655417,
+    "geom:longitude":85.747217,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Khedarpur",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.7213,25.64173,85.7613,25.68173",
+    "ks:ks_id":"KS2820C169BD5A4AD29835A45EC061CAAD",
+    "ks:ks_name":"Khedarpur",
+    "ks:ks_pop":228,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|553758",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1363292",
+    "lbl:latitude":25.655347,
+    "lbl:longitude":85.747246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.655347,
+    "mps:longitude":85.747246,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khedarpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327168
+        "gn:id":11327168,
+        "ks:id":"KS2820C169BD5A4AD29835A45EC061CAAD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"45b46b7022623ed20ed589064e16cb25",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c6fd1cc2796e1c3a810c1a577b1b1f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +76,22 @@
         }
     ],
     "wof:id":1343406155,
-    "wof:lastmodified":1566687151,
+    "wof:lastmodified":1680656379,
     "wof:name":"Khedarpur",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.7413,
-    25.66173,
-    85.7413,
-    25.66173
+    85.746708,
+    25.654803,
+    85.747786,
+    25.65615
 ],
-  "geometry": {"coordinates":[85.7413,25.66173],"type":"Point"}
+  "geometry": {"coordinates":[[[85.747247,25.65615],[85.747247,25.655881],[85.747786,25.655881],[85.747786,25.654803],[85.746708,25.654803],[85.746708,25.65615],[85.747247,25.65615]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.30661,13.48006,75.30661,13.48006",
-    "geom:latitude":13.48006,
-    "geom:longitude":75.30661,
+    "geom:bbox":"75.304871,13.480655,75.30541,13.482272",
+    "geom:latitude":13.481402,
+    "geom:longitude":75.305128,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"570.0",
     "gn:asciiname":"Hosakoppa",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.28661,13.46006,75.32661,13.50006",
+    "ks:ks_id":"KSBCC9623FDF7A48AFBBAA4D3467F7773C",
+    "ks:ks_name":"Hosakoppa",
+    "ks:ks_pop":9,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|426302",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_288520",
+    "lbl:latitude":13.481404,
+    "lbl:longitude":75.305142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.481404,
+    "mps:longitude":75.305142,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Hosakoppa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10858222
+        "gn:id":10858222,
+        "ks:id":"KSBCC9623FDF7A48AFBBAA4D3467F7773C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"90024c5bf024403065c6a5ad53ee2fd7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a0d786629361f551e38ca0f2363c74a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343426213,
-    "wof:lastmodified":1566688439,
+    "wof:lastmodified":1680657071,
     "wof:name":"Hosakoppa",
     "wof:parent_id":890507585,
     "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.30660999999998,
-    13.48006,
-    75.30660999999998,
-    13.48006
+    75.304871,
+    13.480655,
+    75.30541,
+    13.482272
 ],
-  "geometry": {"coordinates":[75.30660999999998,13.48006],"type":"Point"}
+  "geometry": {"coordinates":[[[75.30513999999999,13.482272],[75.30513999999999,13.482002],[75.30540999999999,13.482002],[75.30540999999999,13.480655],[75.30487100000001,13.480655],[75.30487100000001,13.482272],[75.30513999999999,13.482272]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.61768,11.7666,77.61768,11.7666",
-    "geom:latitude":11.7666,
-    "geom:longitude":77.61768,
+    "geom:bbox":"77.61735,11.765735,77.619096,11.767367",
+    "geom:latitude":11.766425,
+    "geom:longitude":77.618175,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"610.0",
     "gn:asciiname":"Vellimalai",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.59768,11.7466,77.63768,11.7866",
+    "ks:ks_id":"KS9702E70FB66441B6947ADA130FD44DA3",
+    "ks:ks_name":"Vellimalai",
+    "ks:ks_pop":464,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1093479",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_225507",
+    "lbl:latitude":11.76646,
+    "lbl:longitude":77.618071,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.76646,
+    "mps:longitude":77.618071,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09c7\u09b2\u09cd\u09b2\u09bf\u09ae\u09be\u09b2\u09be\u0987"
+    ],
+    "name:eng_x_preferred":[
+        "Vellimalai"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u06cc\u0645\u0644\u06cc"
@@ -60,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u97e6\u5229\u9a6c\u83b1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11520536
+        "gn:id":11520536,
+        "ks:id":"KS9702E70FB66441B6947ADA130FD44DA3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ffd57f48d94bbeee2a7d87171b2af402",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16faa30532bb9fc7bc853375a44697bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1343428527,
-    "wof:lastmodified":1566688458,
+    "wof:lastmodified":1680657082,
     "wof:name":"Vellimalai",
     "wof:parent_id":890509123,
     "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.61768000000002,
-    11.7666,
-    77.61768000000002,
-    11.7666
+    77.61735,
+    11.765735,
+    77.619096,
+    11.767367
 ],
-  "geometry": {"coordinates":[77.61768000000002,11.7666],"type":"Point"}
+  "geometry": {"coordinates":[[[77.618279,11.767366],[77.61827700000001,11.767185],[77.618369,11.767184],[77.61836700000001,11.767004],[77.618458,11.767003],[77.61845700000001,11.766822],[77.61864,11.76682],[77.618639,11.76673],[77.61882300000001,11.766728],[77.61882199999999,11.766638],[77.619005,11.766636],[77.619004,11.766546],[77.619096,11.766545],[77.61909,11.765913],[77.618998,11.765914],[77.618998,11.765823],[77.618814,11.765825],[77.618813,11.765735],[77.61872200000001,11.765736],[77.61872200000001,11.765826],[77.61835600000001,11.765829],[77.618357,11.76592],[77.618081,11.765922],[77.618081,11.765832],[77.617806,11.765834],[77.617805,11.765744],[77.617621,11.765746],[77.617622,11.765836],[77.617531,11.765837],[77.617531,11.765927],[77.61744,11.765928],[77.617441,11.766109],[77.61735,11.76611],[77.617357,11.766832],[77.617448,11.766831],[77.61744899999999,11.766922],[77.617632,11.76692],[77.617633,11.76701],[77.61772499999999,11.76701],[77.617726,11.7671],[77.617818,11.767099],[77.617818,11.767189],[77.618093,11.767187],[77.618094,11.767277],[77.61818599999999,11.767276],[77.61818700000001,11.767367],[77.618279,11.767366]]],"type":"Polygon"}
 }

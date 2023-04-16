@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.67006,24.15148,87.67006,24.15148",
-    "geom:latitude":24.15148,
-    "geom:longitude":87.67006,
+    "geom:bbox":"87.668744,24.151023,87.671169,24.152101",
+    "geom:latitude":24.151572,
+    "geom:longitude":87.670024,
     "gn:admin1_code":"38.0",
     "gn:asciiname":"Dharampur",
     "gn:country_code":"IN",
@@ -23,11 +23,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.65006,24.13148,87.69006,24.17148",
+    "ks:ks_id":"KSACE5CCA8085B4EB392305E0ABFBF6512",
+    "ks:ks_name":"Daharampur",
+    "ks:ks_pop":288,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|241152",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1269901",
+    "lbl:latitude":24.151493,
+    "lbl:longitude":87.670001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.151493,
+    "mps:longitude":87.670001,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645\u0628\u0648\u0631"
@@ -37,6 +47,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a7\u09b0\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Daharampur"
+    ],
+    "name:eng_x_variant":[
+        "Dharampur"
     ],
     "name:guj_x_preferred":[
         "\u0aa7\u0ab0\u0aae\u0aaa\u0ac1\u0ab0"
@@ -65,7 +81,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06be\u0631\u0645\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -74,10 +96,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017930
+        "gn:id":11017930,
+        "ks:id":"KSACE5CCA8085B4EB392305E0ABFBF6512"
     },
     "wof:country":"IN",
-    "wof:geomhash":"98ae0f141f19ee60b630dfdb2f4e631f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"345ad997a49f7287b78531f3d9d757c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,20 +114,22 @@
         }
     ],
     "wof:id":1343399495,
-    "wof:lastmodified":1577749696,
-    "wof:name":"Dharampur",
+    "wof:lastmodified":1680655706,
+    "wof:name":"Daharampur",
     "wof:parent_id":890501089,
     "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.67005999999998,
-    24.15148,
-    87.67005999999998,
-    24.15148
+    87.668744,
+    24.151023,
+    87.671169,
+    24.152101
 ],
-  "geometry": {"coordinates":[87.67005999999998,24.15148],"type":"Point"}
+  "geometry": {"coordinates":[[[87.6709,24.152101],[87.6709,24.151562],[87.67116900000001,24.151562],[87.67116900000001,24.151023],[87.669552,24.151023],[87.669552,24.151293],[87.66901300000001,24.151293],[87.66901300000001,24.151832],[87.668744,24.151832],[87.668744,24.152101],[87.670361,24.152101],[87.670361,24.151832],[87.67063,24.151832],[87.67063,24.152101],[87.6709,24.152101]]],"type":"Polygon"}
 }

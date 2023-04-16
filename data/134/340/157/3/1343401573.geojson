@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.08299,21.76024,78.08299,21.76024",
-    "geom:latitude":21.76024,
-    "geom:longitude":78.08299,
+    "geom:bbox":"78.081254,21.75976,78.083977,21.760998",
+    "geom:latitude":21.760375,
+    "geom:longitude":78.082564,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"447.0",
     "gn:asciiname":"Semla",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.06299,21.74024,78.10299,21.78024",
+    "ks:ks_id":"KS0040F63748724835A5C11F336E3D90B5",
+    "ks:ks_name":"Semla",
+    "ks:ks_pop":147,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12660997",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_881131",
+    "lbl:latitude":21.760426,
+    "lbl:longitude":78.082564,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.760426,
+    "mps:longitude":78.082564,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0435\u043c\u043b\u0430"
@@ -37,6 +47,9 @@
         "Fastelavnsbolle"
     ],
     "name:deu_x_preferred":[
+        "Semla"
+    ],
+    "name:eng_x_preferred":[
         "Semla"
     ],
     "name:est_x_preferred":[
@@ -81,7 +94,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u043b\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10212688
+        "gn:id":10212688,
+        "ks:id":"KS0040F63748724835A5C11F336E3D90B5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"048e40d8d434797d11470eec251904fe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"099ba8fe00e60235e7bc5ee4ad81681b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +127,22 @@
         }
     ],
     "wof:id":1343401573,
-    "wof:lastmodified":1566687064,
+    "wof:lastmodified":1680656329,
     "wof:name":"Semla",
     "wof:parent_id":890506465,
     "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.08299,
-    21.76024,
-    78.08299,
-    21.76024
+    78.081254,
+    21.75976,
+    78.083977,
+    21.760998
 ],
-  "geometry": {"coordinates":[78.08299,21.76024],"type":"Point"}
+  "geometry": {"coordinates":[[[78.08173499999999,21.760998],[78.081737,21.760908],[78.082027,21.760913],[78.08202900000001,21.760823],[78.082898,21.760838],[78.0829,21.760748],[78.083286,21.760755],[78.08329000000001,21.760574],[78.083483,21.760577],[78.083485,21.760487],[78.08367800000001,21.760491],[78.08368,21.7604],[78.083777,21.760402],[78.083778,21.760312],[78.08387500000001,21.760314],[78.083879,21.760133],[78.083975,21.760135],[78.083977,21.760045],[78.08387999999999,21.760043],[78.083882,21.759953],[78.083786,21.759951],[78.083788,21.759861],[78.083691,21.759859],[78.083693,21.759769],[78.08320999999999,21.75976],[78.083208,21.759851],[78.08291800000001,21.759845],[78.082916,21.759936],[78.082627,21.759931],[78.08262499999999,21.760021],[78.08194899999999,21.760009],[78.081947,21.760099],[78.08165700000001,21.760094],[78.081655,21.760184],[78.081462,21.760181],[78.08146000000001,21.760271],[78.08136399999999,21.760269],[78.081362,21.76036],[78.081265,21.760358],[78.081254,21.760899],[78.08154399999999,21.760904],[78.081542,21.760995],[78.08173499999999,21.760998]]],"type":"Polygon"}
 }

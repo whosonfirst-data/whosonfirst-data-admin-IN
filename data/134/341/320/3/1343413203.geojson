@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.18596,26.94092,83.18596,26.94092",
-    "geom:latitude":26.94092,
-    "geom:longitude":83.18596,
+    "geom:bbox":"83.185432,26.940292,83.187049,26.94137",
+    "geom:latitude":26.940831,
+    "geom:longitude":83.18624,
     "gn:admin1_code":"36",
     "gn:admin2_code":"186.0",
     "gn:asciiname":"Harpur",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.16596,26.92092,83.20596,26.96092",
+    "ks:ks_id":"KSFEF60E44A05D47F88CAB605B428467E6",
+    "ks:ks_name":"Harpur",
+    "ks:ks_pop":191,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|413734",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1440446",
+    "lbl:latitude":26.940831,
+    "lbl:longitude":83.18624,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.940831,
+    "mps:longitude":83.18624,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Harpur"
+    ],
     "name:new_x_preferred":[
         "\u0939\u0930\u094d\u092a\u0941\u0930"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10658959
+        "gn:id":10658959,
+        "ks:id":"KSFEF60E44A05D47F88CAB605B428467E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dbd9c497b5adb42d9363e0d4a808ffa5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c4c2115769fe04e97311c804afeb096",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1343413203,
-    "wof:lastmodified":1566686632,
+    "wof:lastmodified":1680656120,
     "wof:name":"Harpur",
     "wof:parent_id":1108695865,
     "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.18596,
-    26.94092,
-    83.18596,
-    26.94092
+    83.185432,
+    26.940292,
+    83.187049,
+    26.94137
 ],
-  "geometry": {"coordinates":[83.18595999999999,26.94092],"type":"Point"}
+  "geometry": {"coordinates":[[[83.187049,26.940292],[83.18543200000001,26.940292],[83.18543200000001,26.94137],[83.187049,26.94137],[83.187049,26.940292]]],"type":"Polygon"}
 }

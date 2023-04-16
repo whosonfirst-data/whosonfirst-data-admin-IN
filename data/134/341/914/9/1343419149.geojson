@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.8456,30.62984,76.8456,30.62984",
-    "geom:latitude":30.62984,
-    "geom:longitude":76.8456,
+    "geom:bbox":"76.842068,30.627786,76.846919,30.632098",
+    "geom:latitude":30.629811,
+    "geom:longitude":76.844308,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"052",
     "gn:asciiname":"Nagla",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.8256,30.60984,76.8656,30.64984",
+    "ks:ks_id":"KS2BCDFED71AFC480699162934038968CD",
+    "ks:ks_name":"Nagla",
+    "ks:ks_pop":1097,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0317000501266100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2171012",
+    "lbl:latitude":30.629722,
+    "lbl:longitude":76.844143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.629722,
+    "mps:longitude":76.844143,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a8\u09be\u0982\u09b2\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Nagla"
     ],
     "name:hif_x_preferred":[
         "Nagla"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u683c\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6989899
+        "gn:id":6989899,
+        "ks:id":"KS2BCDFED71AFC480699162934038968CD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c78826c021e95e965a20cd53f426c3bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"50ee53cb0a26f23099dfec602f6f6d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343419149,
-    "wof:lastmodified":1566686599,
+    "wof:lastmodified":1680656101,
     "wof:name":"Nagla",
     "wof:parent_id":1108695747,
     "wof:placetype":"locality",
+    "wof:population":1097,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.8456,
-    30.62984,
-    76.8456,
-    30.62984
+    76.842068,
+    30.627786,
+    76.846919,
+    30.632098
 ],
-  "geometry": {"coordinates":[76.8456,30.62984],"type":"Point"}
+  "geometry": {"coordinates":[[[76.844224,30.632098],[76.844224,30.631829],[76.844763,30.631829],[76.844763,30.631559],[76.845032,30.631559],[76.845032,30.63129],[76.845302,30.63129],[76.845302,30.63102],[76.84557100000001,30.63102],[76.84557100000001,30.630481],[76.845302,30.630481],[76.845302,30.630212],[76.84557100000001,30.630212],[76.84557100000001,30.629942],[76.84611,30.629942],[76.84611,30.629673],[76.84638,30.629673],[76.84638,30.629942],[76.846919,30.629942],[76.846919,30.629403],[76.84638,30.629403],[76.84638,30.628864],[76.845302,30.628864],[76.845302,30.628325],[76.845032,30.628325],[76.845032,30.627786],[76.84368499999999,30.627786],[76.84368499999999,30.628325],[76.843146,30.628325],[76.843146,30.628864],[76.842607,30.628864],[76.842607,30.629403],[76.842068,30.629403],[76.842068,30.629942],[76.842607,30.629942],[76.842607,30.630481],[76.843146,30.630481],[76.843146,30.631559],[76.84341499999999,30.631559],[76.84341499999999,30.631829],[76.84368499999999,30.631829],[76.84368499999999,30.632098],[76.844224,30.632098]]],"type":"Polygon"}
 }

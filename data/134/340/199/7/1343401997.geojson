@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.37826,25.02244,85.37826,25.02244",
-    "geom:latitude":25.02244,
-    "geom:longitude":85.37826,
+    "geom:bbox":"85.377501,25.020952,85.379118,25.022569",
+    "geom:latitude":25.021852,
+    "geom:longitude":85.378357,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Muzaffarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.35826,25.00244,85.39826,25.04244",
+    "ks:ks_id":"KS3ABD5AE3A31D4BC1ABB4F8D1826BBDDF",
+    "ks:ks_name":"Mudaffar Pur",
+    "ks:ks_pop":727,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|719672",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1329418",
+    "lbl:latitude":25.021922,
+    "lbl:longitude":85.378476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.021922,
+    "mps:longitude":85.378476,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0638\u0641\u0631\u0628\u0648\u0631"
@@ -58,6 +68,12 @@
         "Muzaffarpur"
     ],
     "name:deu_x_preferred":[
+        "Muzaffarpur"
+    ],
+    "name:eng_x_preferred":[
+        "Mudaffar Pur"
+    ],
+    "name:eng_x_variant":[
         "Muzaffarpur"
     ],
     "name:fas_x_preferred":[
@@ -174,7 +190,13 @@
     "name:zho_x_preferred":[
         "\u7a46\u624e\u592b\u6cd5\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -183,10 +205,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11029192
+        "gn:id":11029192,
+        "ks:id":"KS3ABD5AE3A31D4BC1ABB4F8D1826BBDDF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c4b585f99e82aafc769fc8770328b9d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a59f9b3549cd1f811b7a9cbec0c922cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,20 +223,22 @@
         }
     ],
     "wof:id":1343401997,
-    "wof:lastmodified":1636505322,
-    "wof:name":"Muzaffarpur",
+    "wof:lastmodified":1680656369,
+    "wof:name":"Mudaffar Pur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":727,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.37826,
-    25.02244,
-    85.37826,
-    25.02244
+    85.377501,
+    25.020952,
+    85.379118,
+    25.022569
 ],
-  "geometry": {"coordinates":[85.37826,25.02244],"type":"Point"}
+  "geometry": {"coordinates":[[[85.37911800000001,25.022569],[85.37911800000001,25.021221],[85.378848,25.021221],[85.378848,25.020952],[85.37804,25.020952],[85.37804,25.021491],[85.377501,25.021491],[85.377501,25.022569],[85.37911800000001,25.022569]]],"type":"Polygon"}
 }
