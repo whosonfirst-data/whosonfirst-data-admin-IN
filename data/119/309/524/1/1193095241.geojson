@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.55633,32.08804,75.55633,32.08804",
-    "geom:latitude":32.08804,
-    "geom:longitude":75.55633,
+    "geom:bbox":"75.554185,32.086189,75.557796,32.08872",
+    "geom:latitude":32.087482,
+    "geom:longitude":75.555873,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Habibpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.53633,32.06804,75.57633,32.10804",
+    "ks:ks_id":"KS3092C9E7BC4F4CD6BB8B8C8F7B3C167A",
+    "ks:ks_name":"Habibpur",
+    "ks:ks_pop":679,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|390724",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2707932",
+    "lbl:latitude":32.087496,
+    "lbl:longitude":75.555873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.087496,
+    "mps:longitude":75.555873,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ac\u09bf\u09ac\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b9\u09be\u09ac\u09bf\u09ac\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Habibpur"
     ],
     "name:ita_x_preferred":[
         "Habibpur"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u6bd4\u5e03\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10686735
+        "gn:id":10686735,
+        "ks:id":"KS3092C9E7BC4F4CD6BB8B8C8F7B3C167A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d7b7996b878ade1dccc17017d5f96ae9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3cc6f905b4b9ff009d75bfb757475e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1193095241,
-    "wof:lastmodified":1566697523,
+    "wof:lastmodified":1680666204,
     "wof:name":"Habibpur",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.55633,
-    32.08804,
-    75.55633,
-    32.08804
+    75.554185,
+    32.086189,
+    75.557796,
+    32.08872
 ],
-  "geometry": {"coordinates":[75.55633,32.08804],"type":"Point"}
+  "geometry": {"coordinates":[[[75.557058,32.088618],[75.557058,32.088528],[75.55727,32.088527],[75.55726900000001,32.088437],[75.557481,32.088436],[75.55748,32.088256],[75.557586,32.088255],[75.557585,32.088165],[75.55769100000001,32.088165],[75.55768999999999,32.087984],[75.557796,32.087984],[75.557793,32.087442],[75.557687,32.087443],[75.557686,32.087262],[75.55758,32.087263],[75.557579,32.087173],[75.557473,32.087173],[75.557473,32.087083],[75.557367,32.087083],[75.557366,32.086903],[75.55726,32.086903],[75.557258,32.086633],[75.557152,32.086633],[75.557152,32.086543],[75.557046,32.086543],[75.557045,32.086453],[75.556939,32.086454],[75.556939,32.086364],[75.55662100000001,32.086365],[75.55662,32.086275],[75.555667,32.086279],[75.555666,32.086189],[75.55460600000001,32.086193],[75.554607,32.086284],[75.554395,32.086284],[75.554396,32.086375],[75.55428999999999,32.086375],[75.55429100000001,32.086556],[75.554185,32.086556],[75.554186,32.086827],[75.554292,32.086826],[75.554301,32.08827],[75.554407,32.088269],[75.55440900000001,32.08854],[75.55451499999999,32.088539],[75.55451600000001,32.08872],[75.555999,32.088713],[75.555999,32.088623],[75.557058,32.088618]]],"type":"Polygon"}
 }

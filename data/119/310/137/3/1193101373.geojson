@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.99543,18.97202,83.99543,18.97202",
-    "geom:latitude":18.97202,
-    "geom:longitude":83.99543,
+    "geom:bbox":"83.986907,18.972236,83.988055,18.973329",
+    "geom:latitude":18.972705,
+    "geom:longitude":83.987487,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"389.0",
     "gn:asciiname":"Taraba",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.97543,18.95202,84.01543,18.99202",
+    "ks:ks_id":"KS0A9171CA7F824CBE9F160D06474C6FB8",
+    "ks:ks_name":"Taraba",
+    "ks:ks_pop":961,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1033119",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_607835",
+    "lbl:latitude":18.972641,
+    "lbl:longitude":83.987556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.972641,
+    "mps:longitude":83.987556,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Taraba"
@@ -40,6 +50,9 @@
         "Taraba"
     ],
     "name:deu_x_preferred":[
+        "Taraba"
+    ],
+    "name:eng_x_preferred":[
         "Taraba"
     ],
     "name:heb_x_preferred":[
@@ -57,7 +70,13 @@
     "name:swe_x_preferred":[
         "Taraba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10786620
+        "gn:id":10786620,
+        "ks:id":"KS0A9171CA7F824CBE9F160D06474C6FB8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"80ca7e2688090066ce033cd5c2b34f20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2ae82a98004a870f54e3da2489cb0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1193101373,
-    "wof:lastmodified":1636505628,
+    "wof:lastmodified":1680666969,
     "wof:name":"Taraba",
     "wof:parent_id":1108696155,
     "wof:placetype":"locality",
+    "wof:population":961,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.99543,
-    18.97202,
-    83.99543,
-    18.97202
+    83.986907,
+    18.972236,
+    83.988055,
+    18.973329
 ],
-  "geometry": {"coordinates":[83.99543,18.97202],"type":"Point"}
+  "geometry": {"coordinates":[[[83.98749599999999,18.973327],[83.987494,18.973237],[83.987779,18.973232],[83.987775,18.973052],[83.98787,18.97305],[83.987869,18.97296],[83.98796400000001,18.972958],[83.98796,18.972778],[83.988055,18.972776],[83.988052,18.972596],[83.98795699999999,18.972597],[83.987951,18.972236],[83.986907,18.972253],[83.986912,18.972524],[83.98700700000001,18.972522],[83.987009,18.972613],[83.987103,18.972611],[83.98710699999999,18.972792],[83.987201,18.97279],[83.98720299999999,18.97288],[83.98710800000001,18.972882],[83.98711,18.972972],[83.987015,18.972974],[83.98701800000001,18.973154],[83.987208,18.973151],[83.98721,18.973241],[83.987399,18.973238],[83.98740100000001,18.973329],[83.98749599999999,18.973327]]],"type":"Polygon"}
 }

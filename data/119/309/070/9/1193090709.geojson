@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.18559,25.08628,84.18559,25.08628",
-    "geom:latitude":25.08628,
-    "geom:longitude":84.18559,
+    "geom:bbox":"84.18442,25.084861,84.186704,25.087385",
+    "geom:latitude":25.086199,
+    "geom:longitude":84.185572,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"234.0",
     "gn:asciiname":"Bhatauli",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.16559,25.06628,84.20559,25.10628",
+    "ks:ks_id":"KS30AF37EB339048C5BD0F9F4E54B501D8",
+    "ks:ks_name":"Bhatauli",
+    "ks:ks_pop":1387,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|142304",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2053953",
+    "lbl:latitude":25.086231,
+    "lbl:longitude":84.18555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.086231,
+    "mps:longitude":84.18555,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092d\u091f\u094c\u0932\u0940"
     ],
     "name:ceb_x_preferred":[
+        "Bhatauli"
+    ],
+    "name:eng_x_preferred":[
         "Bhatauli"
     ],
     "name:msa_x_preferred":[
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Bhatauli"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10836701
+        "gn:id":10836701,
+        "ks:id":"KS30AF37EB339048C5BD0F9F4E54B501D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"adc0479d3888cb338469dc65c50e3e2c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aa272caaf68b1dfcc57cd0a0f889c8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1193090709,
-    "wof:lastmodified":1566697476,
+    "wof:lastmodified":1680666174,
     "wof:name":"Bhatauli",
     "wof:parent_id":1108695945,
     "wof:placetype":"locality",
+    "wof:population":1387,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.18559,
-    25.08628,
-    84.18559,
-    25.08628
+    84.18442,
+    25.084861,
+    84.186704,
+    25.087385
 ],
-  "geometry": {"coordinates":[84.18559,25.08628],"type":"Point"}
+  "geometry": {"coordinates":[[[84.185596,25.087385],[84.185598,25.087294],[84.18619200000001,25.087306],[84.186194,25.087216],[84.186392,25.087219],[84.18639400000001,25.087129],[84.186592,25.087133],[84.186594,25.087043],[84.186694,25.087045],[84.18670400000001,25.086594],[84.186605,25.086592],[84.186615,25.086141],[84.186516,25.086139],[84.186528,25.085598],[84.186429,25.085596],[84.18644,25.085145],[84.186341,25.085143],[84.186345,25.084962],[84.186246,25.084961],[84.18624800000001,25.08487],[84.18575300000001,25.084861],[84.185751,25.084951],[84.185453,25.084945],[84.185451,25.085036],[84.185253,25.085032],[84.18525099999999,25.085122],[84.185053,25.085118],[84.185051,25.085209],[84.184853,25.085205],[84.18485099999999,25.085295],[84.184752,25.085293],[84.184748,25.085474],[84.18464899999999,25.085472],[84.184642,25.085742],[84.18454300000001,25.08574],[84.18453700000001,25.086011],[84.184438,25.086009],[84.18442,25.086821],[84.18451899999999,25.086823],[84.18451399999999,25.087003],[84.184613,25.087005],[84.184611,25.087095],[84.18471,25.087097],[84.184708,25.087187],[84.18480700000001,25.087189],[84.184805,25.087279],[84.18500299999999,25.087283],[84.185001,25.087373],[84.185596,25.087385]]],"type":"Polygon"}
 }

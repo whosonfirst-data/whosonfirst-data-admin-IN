@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samarien"
@@ -167,9 +168,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672205,
         102191569,
         85632469,
-        85672205,
         1108695817
     ],
     "wof:breaches":[],
@@ -177,7 +178,7 @@
         "gn:id":10477242
     },
     "wof:country":"IN",
-    "wof:geomhash":"8f28eed9d697f5e96a26e70d89ece9d4",
+    "wof:geomhash":"fcbf301852f075e1bbba952256ee5cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +189,22 @@
         }
     ],
     "wof:id":1193089541,
-    "wof:lastmodified":1566697526,
+    "wof:lastmodified":1680630847,
     "wof:name":"Samaria",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847153747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.83133000000002,
+    79.83133,
     27.45777,
-    79.83133000000002,
+    79.83133,
     27.45777
 ],
-  "geometry": {"coordinates":[79.83133000000002,27.45777],"type":"Point"}
+  "geometry": {"coordinates":[79.83132999999999,27.45777],"type":"Point"}
 }

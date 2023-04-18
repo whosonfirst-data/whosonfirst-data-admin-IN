@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Urna"
@@ -45,7 +46,7 @@
         "gn:id":10547708
     },
     "wof:country":"IN",
-    "wof:geomhash":"501e1910ef894d7855cca78aedebb60e",
+    "wof:geomhash":"c44c85ac3b5ca7db68cbe6d8ea88cd87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +57,22 @@
         }
     ],
     "wof:id":1193089103,
-    "wof:lastmodified":1566697610,
+    "wof:lastmodified":1680666261,
     "wof:name":"Urna",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847154587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     82.17549,
-    25.28587000000001,
+    25.28587,
     82.17549,
-    25.28587000000001
+    25.28587
 ],
-  "geometry": {"coordinates":[82.17549,25.28587000000001],"type":"Point"}
+  "geometry": {"coordinates":[82.17549,25.28587],"type":"Point"}
 }

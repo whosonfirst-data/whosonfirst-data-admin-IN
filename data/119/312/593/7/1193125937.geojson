@@ -24,11 +24,19 @@
     "gn:population":1324570,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.65206,29.42768,75.69206,29.46768",
-    "lbl:latitude":29.44776,
-    "lbl:longitude":75.671903,
+    "ks:ks_id":"KSEA76B1EC45E04337A7CC03ECCBE2AF3E",
+    "ks:ks_name":"Gorakhpur",
+    "ks:ks_pop":13068,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|374204",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1789752",
+    "lbl:latitude":29.446678,
+    "lbl:longitude":75.671851,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":6.0,
+    "mps:latitude":29.446678,
+    "mps:longitude":75.671851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -59,6 +67,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c1\u03b1\u03ba\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Gorakhpur"
     ],
     "name:epo_x_preferred":[
         "Gorakhpur"
@@ -193,10 +204,12 @@
     "reversegeo:longitude":75.671903,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -205,9 +218,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1270926
+        "gn:id":1270926,
+        "ks:id":"KSEA76B1EC45E04337A7CC03ECCBE2AF3E"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"3307948a43ad07b5beef6ee10472c51c",
     "wof:hierarchy":[
         {
@@ -219,12 +237,12 @@
         }
     ],
     "wof:id":1193125937,
-    "wof:lastmodified":1658780791,
+    "wof:lastmodified":1680666464,
     "wof:name":"Gorakhpur",
     "wof:parent_id":1108695759,
     "wof:placetype":"locality",
-    "wof:population":1324570,
-    "wof:population_rank":12,
+    "wof:population":13068,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
