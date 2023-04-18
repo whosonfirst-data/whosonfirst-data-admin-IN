@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.66188,24.43612,84.66188,24.43612",
-    "geom:latitude":24.43612,
-    "geom:longitude":84.66188,
+    "geom:bbox":"84.661425,24.434559,84.662314,24.436735",
+    "geom:latitude":24.435724,
+    "geom:longitude":84.661833,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Chhatarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.64188,24.41612,84.68188,24.45612",
+    "ks:ks_id":"KS532468676A1D4E51A83D0586A84651FE",
+    "ks:ks_name":"Chhatarpur",
+    "ks:ks_pop":784,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|217311",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1146912",
+    "lbl:latitude":24.436355,
+    "lbl:longitude":84.661744,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.436355,
+    "mps:longitude":84.661744,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062a\u0627\u0631\u0628\u0648\u0631"
@@ -49,6 +59,9 @@
         "Chhatarpur"
     ],
     "name:deu_x_preferred":[
+        "Chhatarpur"
+    ],
+    "name:eng_x_preferred":[
         "Chhatarpur"
     ],
     "name:fra_x_preferred":[
@@ -129,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u6070\u5854\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841457
+        "gn:id":10841457,
+        "ks:id":"KS532468676A1D4E51A83D0586A84651FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"88897d31da48ea5c0427d23206784ed9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"65d1773b49169ea869b961bf23a9eb69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +175,22 @@
         }
     ],
     "wof:id":1193068723,
-    "wof:lastmodified":1577751099,
+    "wof:lastmodified":1680666287,
     "wof:name":"Chhatarpur",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":784,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.66188000000002,
-    24.43612000000001,
-    84.66188000000002,
-    24.43612000000001
+    84.661425,
+    24.434559,
+    84.662314,
+    24.436735
 ],
-  "geometry": {"coordinates":[84.66188000000002,24.43612000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[84.661833,24.435916],[84.661838,24.435645],[84.661936,24.435646],[84.66193800000001,24.435556],[84.66213500000001,24.435559],[84.662139,24.435379],[84.662237,24.43538],[84.662245,24.434929],[84.662147,24.434928],[84.66215,24.434747],[84.662052,24.434746],[84.662053,24.434655],[84.66195500000001,24.434654],[84.661956,24.434564],[84.661661,24.434559],[84.66165700000001,24.434739],[84.661559,24.434738],[84.661557,24.434828],[84.66165599999999,24.43483],[84.661652,24.43501],[84.661554,24.435009],[84.661552,24.435099],[84.66165100000001,24.4351],[84.661646,24.435371],[84.661547,24.43537],[84.661539,24.435821],[84.66144,24.435819],[84.66142499999999,24.436631],[84.661721,24.436636],[84.66171900000001,24.436726],[84.662311,24.436735],[84.66231399999999,24.436555],[84.662215,24.436553],[84.66221899999999,24.436373],[84.66212,24.436371],[84.662122,24.436281],[84.662023,24.43628],[84.66202800000001,24.436009],[84.66193,24.436007],[84.661931,24.435917],[84.661833,24.435916]]],"type":"Polygon"}
 }

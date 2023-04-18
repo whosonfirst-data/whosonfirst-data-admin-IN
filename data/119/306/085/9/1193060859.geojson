@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.3702,19.71763,78.3702,19.71763",
-    "geom:latitude":19.71763,
-    "geom:longitude":78.3702,
+    "geom:bbox":"78.369447,19.716132,78.371552,19.718766",
+    "geom:latitude":19.717428,
+    "geom:longitude":78.37047,
     "gn:admin1_code":"40",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Girgaon",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.3502,19.69763,78.3902,19.73763",
+    "ks:ks_alt_nam":"G\u012brgaon",
+    "ks:ks_id":"KS07B765D936104BE78EE331A0F1A75133",
+    "ks:ks_name":"Girgaon",
+    "ks:ks_pop":1180,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12976106",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_560742",
+    "lbl:latitude":19.717448,
+    "lbl:longitude":78.37047,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.717448,
+    "mps:longitude":78.37047,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u062c\u0627\u0648\u0646"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0997\u09bf\u09b0\u0997\u09be\u0981\u0993"
+    ],
+    "name:eng_x_preferred":[
+        "Girgaon"
+    ],
+    "name:eng_x_variant":[
+        "G\u012brgaon"
     ],
     "name:fra_x_preferred":[
         "Girgaon"
@@ -72,7 +89,13 @@
     "name:urd_x_preferred":[
         "\u06af\u0650\u0631\u06af\u0627\u0624\u06ba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10529114
+        "gn:id":10529114,
+        "ks:id":"KS07B765D936104BE78EE331A0F1A75133"
     },
     "wof:country":"IN",
-    "wof:geomhash":"673b4bee679212587f3cc362ae93a0ee",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b2a5fb5c29f995e696adb33fa1574a04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1193060859,
-    "wof:lastmodified":1577751100,
+    "wof:lastmodified":1680666288,
     "wof:name":"Girgaon",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":1180,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.3702,
-    19.71763,
-    78.3702,
-    19.71763
+    78.369447,
+    19.716132,
+    78.371552,
+    19.718766
 ],
-  "geometry": {"coordinates":[78.3702,19.71763],"type":"Point"}
+  "geometry": {"coordinates":[[[78.37104100000001,19.718766],[78.371042,19.718675],[78.371233,19.718678],[78.371235,19.718588],[78.37133,19.718589],[78.371351,19.717325],[78.37144600000001,19.717327],[78.37145200000001,19.716966],[78.37154700000001,19.716967],[78.37155199999999,19.716696],[78.37145599999999,19.716695],[78.371459,19.716514],[78.371364,19.716513],[78.371365,19.716423],[78.37117499999999,19.71642],[78.37117600000001,19.71633],[78.370985,19.716327],[78.370987,19.716236],[78.370606,19.716231],[78.37060700000001,19.716141],[78.370035,19.716132],[78.370034,19.716223],[78.369748,19.716218],[78.36974600000001,19.716309],[78.369556,19.716306],[78.36955399999999,19.716396],[78.36945900000001,19.716395],[78.36944699999999,19.717117],[78.369542,19.717118],[78.369533,19.71766],[78.369629,19.717661],[78.36962,19.718203],[78.369715,19.718204],[78.369709,19.718565],[78.369805,19.718567],[78.369803,19.718657],[78.36989800000001,19.718659],[78.36989699999999,19.718749],[78.37104100000001,19.718766]]],"type":"Polygon"}
 }

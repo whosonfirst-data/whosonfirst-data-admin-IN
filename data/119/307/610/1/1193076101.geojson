@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.39617,26.99343,81.39617,26.99343",
-    "geom:latitude":26.99343,
-    "geom:longitude":81.39617,
+    "geom:bbox":"81.395448,26.992728,81.396859,26.993994",
+    "geom:latitude":26.993468,
+    "geom:longitude":81.396128,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Mauja",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.37617,26.97343,81.41617,27.01343",
+    "ks:ks_id":"KSE98596A4DDD5490983A299F62F14A7BA",
+    "ks:ks_name":"Mauja",
+    "ks:ks_pop":102,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|688474",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1886888",
+    "lbl:latitude":26.993481,
+    "lbl:longitude":81.396141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.993481,
+    "mps:longitude":81.396141,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Mauja"
+    ],
+    "name:eng_x_preferred":[
         "Mauja"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +64,13 @@
     "name:pol_x_preferred":[
         "Mauja"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10568959
+        "gn:id":10568959,
+        "ks:id":"KSE98596A4DDD5490983A299F62F14A7BA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e1ebd0cc76879ae2f3e76236a42739e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"09432af77cdf702f239da600a064b1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1193076101,
-    "wof:lastmodified":1566697343,
+    "wof:lastmodified":1680666093,
     "wof:name":"Mauja",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.39617,
-    26.99343,
-    81.39617,
-    26.99343
+    81.395448,
+    26.992728,
+    81.396859,
+    26.993994
 ],
-  "geometry": {"coordinates":[81.39617,26.99343],"type":"Point"}
+  "geometry": {"coordinates":[[[81.395651,26.993903],[81.395751,26.993903],[81.395752,26.993993],[81.396558,26.993991],[81.396558,26.993901],[81.396658,26.993901],[81.396658,26.99381],[81.396759,26.99381],[81.39675800000001,26.993539],[81.39685900000001,26.993539],[81.39685799999999,26.993449],[81.39675800000001,26.993449],[81.39675699999999,26.993268],[81.39665599999999,26.993269],[81.39665599999999,26.993178],[81.39655500000001,26.993179],[81.39655500000001,26.993088],[81.39645400000001,26.993089],[81.39645400000001,26.992998],[81.396353,26.992999],[81.396353,26.992908],[81.396252,26.992909],[81.396252,26.992818],[81.396151,26.992819],[81.39615000000001,26.992728],[81.395949,26.992729],[81.395949,26.992819],[81.395848,26.992819],[81.395849,26.99291],[81.395748,26.99291],[81.395749,26.993091],[81.39564799999999,26.993091],[81.39564900000001,26.993452],[81.39554800000001,26.993452],[81.395549,26.993723],[81.395448,26.993723],[81.395449,26.993994],[81.395651,26.993994],[81.395651,26.993903]]],"type":"Polygon"}
 }

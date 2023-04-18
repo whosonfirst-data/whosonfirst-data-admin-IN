@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.52291,24.57647,81.52291,24.57647",
-    "geom:latitude":24.57647,
-    "geom:longitude":81.52291,
+    "geom:bbox":"81.521428,24.575649,81.523802,24.577362",
+    "geom:latitude":24.576377,
+    "geom:longitude":81.52268,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Parsa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.50291,24.55647,81.54291,24.59647",
+    "ks:ks_id":"KS7B5B6DEFBC934F1892AF8FA3267BCBD7",
+    "ks:ks_name":"Parsa",
+    "ks:ks_pop":168,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|826774",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1028441",
+    "lbl:latitude":24.576316,
+    "lbl:longitude":81.522662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.576316,
+    "mps:longitude":81.522662,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0440\u0441\u0430"
@@ -40,6 +50,9 @@
         "Parsa"
     ],
     "name:deu_x_preferred":[
+        "Parsa"
+    ],
+    "name:eng_x_preferred":[
         "Parsa"
     ],
     "name:fas_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Parsa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10532555
+        "gn:id":10532555,
+        "ks:id":"KS7B5B6DEFBC934F1892AF8FA3267BCBD7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6aa1943b19071a8b24f56c5a914c3c42",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1af9cbb79e98fd4e5558e987e167b912",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1193077273,
-    "wof:lastmodified":1566697448,
+    "wof:lastmodified":1680666160,
     "wof:name":"Parsa",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.52291,
-    24.57647,
-    81.52291,
-    24.57647
+    81.521428,
+    24.575649,
+    81.523802,
+    24.577362
 ],
-  "geometry": {"coordinates":[81.52291,24.57647],"type":"Point"}
+  "geometry": {"coordinates":[[[81.52331100000001,24.577361],[81.52331,24.57718],[81.523409,24.57718],[81.523409,24.57709],[81.523507,24.577089],[81.523507,24.576909],[81.523605,24.576908],[81.523605,24.576818],[81.523704,24.576818],[81.523703,24.576637],[81.523802,24.576637],[81.52379999999999,24.576276],[81.523702,24.576276],[81.523701,24.576186],[81.523602,24.576186],[81.523602,24.576096],[81.52350300000001,24.576096],[81.52350300000001,24.576006],[81.523404,24.576006],[81.523404,24.575916],[81.52291,24.575917],[81.52291,24.575827],[81.522317,24.575829],[81.522317,24.575739],[81.522119,24.57574],[81.522119,24.575649],[81.521625,24.575651],[81.521625,24.575741],[81.52152700000001,24.575742],[81.52152700000001,24.575832],[81.521428,24.575832],[81.52143,24.576284],[81.521529,24.576283],[81.521529,24.576374],[81.521727,24.576373],[81.521727,24.576463],[81.521826,24.576463],[81.521826,24.576553],[81.522024,24.576553],[81.522024,24.576643],[81.522222,24.576642],[81.522222,24.576733],[81.52242,24.576732],[81.52242,24.576822],[81.522617,24.576822],[81.52261799999999,24.576912],[81.522717,24.576912],[81.522717,24.577002],[81.52281600000001,24.577002],[81.52281600000001,24.577092],[81.522915,24.577091],[81.522916,24.577272],[81.523113,24.577271],[81.52311400000001,24.577362],[81.52331100000001,24.577361]]],"type":"Polygon"}
 }

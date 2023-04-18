@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.64248,16.99974,77.64248,16.99974",
-    "geom:latitude":16.99974,
-    "geom:longitude":77.64248,
+    "geom:bbox":"77.641809,16.998555,77.644447,17.000551",
+    "geom:latitude":16.99963,
+    "geom:longitude":77.643168,
     "gn:admin1_code":"40",
     "gn:admin2_code":"538.0",
     "gn:asciiname":"Salimpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.62248,16.97974,77.66248,17.01974",
+    "ks:ks_id":"KS5ED66C30FF3B40FA87AEE443F86D0E39",
+    "ks:ks_name":"Saleempur",
+    "ks:ks_pop":211,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1285785",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_499557",
+    "lbl:latitude":16.999674,
+    "lbl:longitude":77.643194,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":16.999674,
+    "mps:longitude":77.643194,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0645 \u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09b2\u09bf\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Saleempur"
+    ],
+    "name:eng_x_variant":[
+        "Salimpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0abf\u0aae\u0abe\u0ab0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u06cc\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10461160
+        "gn:id":10461160,
+        "ks:id":"KS5ED66C30FF3B40FA87AEE443F86D0E39"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e88ee9f07b134c959d89cc779cb2de47",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82fd3ea56bdc37b71c2d92c27d394341",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1193070313,
-    "wof:lastmodified":1577751067,
-    "wof:name":"Salimpur",
+    "wof:lastmodified":1680666105,
+    "wof:name":"Saleempur",
     "wof:parent_id":890511187,
     "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.64248,
-    16.99974,
-    77.64248,
-    16.99974
+    77.641809,
+    16.998555,
+    77.644447,
+    17.000551
 ],
-  "geometry": {"coordinates":[77.64248000000001,16.99974],"type":"Point"}
+  "geometry": {"coordinates":[[[77.64407799999999,17.000535],[77.644077,17.000445],[77.644265,17.000443],[77.644263,17.000352],[77.644357,17.000351],[77.644353,17.00008],[77.644447,17.000079],[77.64443799999999,16.999447],[77.644345,16.999448],[77.64434199999999,16.999267],[77.644248,16.999269],[77.644246,16.999088],[77.64415200000001,16.999089],[77.644149,16.998909],[77.64405499999999,16.99891],[77.644054,16.99882],[77.64396000000001,16.998821],[77.643959,16.998731],[77.64386500000001,16.998732],[77.64386399999999,16.998641],[77.64358199999999,16.998645],[77.643581,16.998555],[77.643393,16.998557],[77.643395,16.998648],[77.643113,16.998651],[77.643114,16.998741],[77.642833,16.998745],[77.64283399999999,16.998835],[77.642177,16.998844],[77.642179,16.998934],[77.64208499999999,16.998935],[77.64208600000001,16.999026],[77.641992,16.999027],[77.641993,16.999117],[77.64190000000001,16.999119],[77.641903,16.999389],[77.64180899999999,16.999391],[77.641817,16.999932],[77.64191099999999,16.999931],[77.641913,17.000112],[77.64200700000001,17.000111],[77.642009,17.000201],[77.64210199999999,17.0002],[77.642104,17.00029],[77.64219799999999,17.000289],[77.64219900000001,17.000379],[77.64248000000001,17.000375],[77.642482,17.000466],[77.64285700000001,17.000461],[77.642858,17.000551],[77.64407799999999,17.000535]]],"type":"Polygon"}
 }
