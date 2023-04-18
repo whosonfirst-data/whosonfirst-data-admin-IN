@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.73135,24.42341,87.73135,24.42341",
-    "geom:latitude":24.42341,
-    "geom:longitude":87.73135,
+    "geom:bbox":"87.730997,24.422943,87.732075,24.424021",
+    "geom:latitude":24.423513,
+    "geom:longitude":87.731463,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"353.0",
     "gn:asciiname":"Birnagar",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.71135,24.40341,87.75135,24.44341",
+    "ks:ks_id":"KSF4A1B89D1FBB42ED903971C10C0F6753",
+    "ks:ks_name":"Birnagar",
+    "ks:ks_pop":86,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13515699",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1295823",
+    "lbl:latitude":24.423605,
+    "lbl:longitude":87.73141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.423605,
+    "mps:longitude":87.73141,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c0\u09b0\u09a8\u0997\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c0\u09b0\u09a8\u0997\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Birnagar"
     ],
     "name:ita_x_preferred":[
         "Birnagar"
@@ -60,16 +73,26 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u7eb3\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11016932
+        "gn:id":11016932,
+        "ks:id":"KSF4A1B89D1FBB42ED903971C10C0F6753"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c752a446915641f87e3c032fb1257777",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af868cacb28a654f1635498cc3336da4",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1209553881,
-    "wof:lastmodified":1566695080,
+    "wof:lastmodified":1680661427,
     "wof:name":"Birnagar",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.73135,
-    24.42341,
-    87.73135,
-    24.42341
+    87.730997,
+    24.422943,
+    87.732075,
+    24.424021
 ],
-  "geometry": {"coordinates":[87.73135000000001,24.42341],"type":"Point"}
+  "geometry": {"coordinates":[[[87.730997,24.422943],[87.730997,24.424021],[87.73180600000001,24.424021],[87.73180600000001,24.423752],[87.73207499999999,24.423752],[87.73207499999999,24.423213],[87.73153600000001,24.423213],[87.73153600000001,24.422943],[87.730997,24.422943]]],"type":"Polygon"}
 }

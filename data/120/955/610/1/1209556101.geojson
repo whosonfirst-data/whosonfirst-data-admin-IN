@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.23192,26.4132,87.23192,26.4132",
-    "geom:latitude":26.4132,
-    "geom:longitude":87.23192,
+    "geom:bbox":"87.231205,26.411902,87.232609,26.41416",
+    "geom:latitude":26.413118,
+    "geom:longitude":87.23198,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"209.0",
     "gn:asciiname":"Madhubani",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.21192,26.3932,87.25192,26.4332",
+    "ks:ks_id":"KSCEF7F6DE199940AC879CD0BCC6BC5F4A",
+    "ks:ks_name":"Madhubani",
+    "ks:ks_pop":163,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|640390",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2131629",
+    "lbl:latitude":26.413176,
+    "lbl:longitude":87.232036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.413176,
+    "mps:longitude":87.232036,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062f\u0647\u0648\u0628\u0627\u0646\u064a"
@@ -46,6 +56,9 @@
         "Madhubani"
     ],
     "name:deu_x_preferred":[
+        "Madhubani"
+    ],
+    "name:eng_x_preferred":[
         "Madhubani"
     ],
     "name:guj_x_preferred":[
@@ -81,16 +94,26 @@
     "name:urd_x_preferred":[
         "\u0645\u062f\u06be\u0648\u0628\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10986542
+        "gn:id":10986542,
+        "ks:id":"KSCEF7F6DE199940AC879CD0BCC6BC5F4A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d53f701f0393db9f2eff57cf2af0807f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9cce0858f02f17acb317331142e2a9f2",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -98,20 +121,22 @@
         }
     ],
     "wof:id":1209556101,
-    "wof:lastmodified":1577750754,
+    "wof:lastmodified":1680661367,
     "wof:name":"Madhubani",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.23192,
-    26.4132,
-    87.23192,
-    26.4132
+    87.231205,
+    26.411902,
+    87.232609,
+    26.41416
 ],
-  "geometry": {"coordinates":[87.23192,26.4132],"type":"Point"}
+  "geometry": {"coordinates":[[[87.231908,26.414069],[87.231908,26.413979],[87.23200799999999,26.413979],[87.23200799999999,26.413888],[87.232208,26.413888],[87.232208,26.413798],[87.232409,26.413797],[87.23240800000001,26.413707],[87.23250899999999,26.413707],[87.232508,26.413526],[87.232609,26.413526],[87.232606,26.412443],[87.232506,26.412443],[87.232506,26.412262],[87.232405,26.412262],[87.232405,26.412082],[87.232305,26.412082],[87.232305,26.411992],[87.232204,26.411992],[87.232204,26.411902],[87.232004,26.411902],[87.232004,26.411992],[87.231904,26.411992],[87.231904,26.412173],[87.231804,26.412173],[87.231804,26.412354],[87.23170399999999,26.412354],[87.23170399999999,26.412625],[87.231604,26.412625],[87.231604,26.412805],[87.231504,26.412806],[87.231504,26.412896],[87.231404,26.412896],[87.231405,26.413528],[87.231205,26.413528],[87.231205,26.41389],[87.231306,26.413889],[87.231306,26.41398],[87.23140600000001,26.41398],[87.231407,26.41416],[87.231808,26.414159],[87.231807,26.414069],[87.231908,26.414069]]],"type":"Polygon"}
 }
