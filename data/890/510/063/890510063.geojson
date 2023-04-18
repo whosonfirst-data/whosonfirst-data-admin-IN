@@ -14,11 +14,20 @@
     "gn:population":96120,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"83.95867,25.55473,83.99867,25.59473",
-    "lbl:latitude":25.567647,
-    "lbl:longitude":83.975398,
+    "ks:ks_id":"KS321E49E9BA614F41A285138692360A93",
+    "ks:ks_name":"Buxar",
+    "ks:ks_pop":83168,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1030000743001000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2802846",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.563905,
+    "lbl:longitude":83.975487,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":25.563905,
+    "mps:longitude":83.975487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -165,10 +174,12 @@
     "reversegeo:longitude":83.975398,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191569,
@@ -180,12 +191,17 @@
     "wof:concordances":{
         "gn:id":1275019,
         "gp:id":2288826,
+        "ks:id":"KS321E49E9BA614F41A285138692360A93",
         "qs_pg:id":185158,
         "wd:id":"Q861160",
         "wk:page":"Buxar"
     },
     "wof:country":"IN",
     "wof:created":1469055675,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"6a4478bf6982686f8dc6a0e3e8e7674a",
     "wof:hierarchy":[
         {
@@ -197,11 +213,11 @@
         }
     ],
     "wof:id":890510063,
-    "wof:lastmodified":1658780798,
+    "wof:lastmodified":1680670433,
     "wof:name":"Buxar",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
-    "wof:population":96120,
+    "wof:population":83168,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
