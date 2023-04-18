@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.76489,23.03941,79.76489,23.03941",
-    "geom:latitude":23.03941,
-    "geom:longitude":79.76489,
+    "geom:bbox":"79.763646,23.039028,79.766185,23.040122",
+    "geom:latitude":23.039526,
+    "geom:longitude":79.764931,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Thana",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.74489,23.01941,79.78489,23.05941",
+    "ks:ks_id":"KSF5D6DB024146487BADD20E53F53DC775",
+    "ks:ks_name":"Thana",
+    "ks:ks_pop":286,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1045141",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_994656",
+    "lbl:latitude":23.039393,
+    "lbl:longitude":79.764828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.039393,
+    "mps:longitude":79.764828,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a5\u09be\u09a8\u09be"
     ],
     "name:deu_x_preferred":[
+        "Thana"
+    ],
+    "name:eng_x_preferred":[
         "Thana"
     ],
     "name:fra_x_preferred":[
@@ -42,7 +55,13 @@
     "name:hun_x_preferred":[
         "Thana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457993
+        "gn:id":10457993,
+        "ks:id":"KSF5D6DB024146487BADD20E53F53DC775"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ab9ffadba865179ab7d0514f49c7c9fb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d5f0c29a103789fc700f3ed4ee46e8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1209756205,
-    "wof:lastmodified":1566697079,
+    "wof:lastmodified":1680662790,
     "wof:name":"Thana",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.76489000000002,
-    23.03941,
-    79.76489000000002,
-    23.03941
+    79.763646,
+    23.039028,
+    79.766185,
+    23.040122
 ],
-  "geometry": {"coordinates":[79.76489000000002,23.03941],"type":"Point"}
+  "geometry": {"coordinates":[[[79.765595,23.040122],[79.765596,23.040031],[79.765986,23.040034],[79.765987,23.039944],[79.76608400000001,23.039945],[79.766085,23.039855],[79.766183,23.039855],[79.76618499999999,23.039584],[79.766088,23.039584],[79.76608899999999,23.039403],[79.765992,23.039402],[79.76599299999999,23.039312],[79.765895,23.039311],[79.765896,23.039221],[79.765798,23.03922],[79.765799,23.03913],[79.765506,23.039128],[79.765507,23.039037],[79.764336,23.039028],[79.764335,23.039118],[79.76394500000001,23.039115],[79.763944,23.039206],[79.763749,23.039204],[79.763747,23.039385],[79.76365,23.039384],[79.76364599999999,23.039836],[79.76374300000001,23.039836],[79.76374199999999,23.039927],[79.76423,23.03993],[79.764231,23.03984],[79.76462100000001,23.039843],[79.764622,23.039753],[79.764915,23.039755],[79.764914,23.039845],[79.765109,23.039847],[79.765109,23.039937],[79.76520600000001,23.039938],[79.76520499999999,23.040028],[79.765303,23.040029],[79.76530200000001,23.040119],[79.765595,23.040122]]],"type":"Polygon"}
 }

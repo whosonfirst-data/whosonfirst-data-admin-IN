@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.16561,26.66373,83.16561,26.66373",
-    "geom:latitude":26.66373,
-    "geom:longitude":83.16561,
+    "geom:bbox":"83.164702,26.662742,83.166816,26.664745",
+    "geom:latitude":26.663743,
+    "geom:longitude":83.165835,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Jalalabad",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.14561,26.64373,83.18561,26.68373",
+    "ks:ks_alt_nam":"Jal\u0101l\u0101b\u0101d",
+    "ks:ks_id":"KSDE1BB438FE3D498F90189505AEE5B314",
+    "ks:ks_name":"Jalalabad",
+    "ks:ks_pop":198,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|445351",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1992577",
+    "lbl:latitude":26.663744,
+    "lbl:longitude":83.165855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.663744,
+    "mps:longitude":83.165855,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0627\u0644 \u0622\u0628\u0627\u062f"
@@ -62,6 +73,12 @@
     ],
     "name:deu_x_preferred":[
         "Dschalalabad"
+    ],
+    "name:eng_x_preferred":[
+        "Jalalabad"
+    ],
+    "name:eng_x_variant":[
+        "Jal\u0101l\u0101b\u0101d"
     ],
     "name:epo_x_preferred":[
         "\u011calalabado"
@@ -180,7 +197,13 @@
     "name:zho_x_preferred":[
         "\u8cc8\u62c9\u62c9\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -189,10 +212,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10659815
+        "gn:id":10659815,
+        "ks:id":"KSDE1BB438FE3D498F90189505AEE5B314"
     },
     "wof:country":"IN",
-    "wof:geomhash":"59e9bb2a01269a2005c14ccd70d905f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"84db862fffd997ee980120072c9a59b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,20 +230,22 @@
         }
     ],
     "wof:id":1209759437,
-    "wof:lastmodified":1566697151,
+    "wof:lastmodified":1680662842,
     "wof:name":"Jalalabad",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.16561,
-    26.66373,
-    83.16561,
-    26.66373
+    83.164702,
+    26.662742,
+    83.166816,
+    26.664745
 ],
-  "geometry": {"coordinates":[83.16561,26.66373],"type":"Point"}
+  "geometry": {"coordinates":[[[83.166023,26.664734],[83.166021,26.664644],[83.166222,26.664641],[83.16622,26.664551],[83.166421,26.664548],[83.166419,26.664457],[83.16652000000001,26.664456],[83.166518,26.664366],[83.166618,26.664364],[83.166617,26.664274],[83.16671700000001,26.664272],[83.166715,26.664182],[83.166816,26.664181],[83.166794,26.663008],[83.166693,26.663009],[83.166691,26.662919],[83.166591,26.66292],[83.166589,26.66283],[83.166489,26.662832],[83.166487,26.662742],[83.16548299999999,26.662757],[83.165485,26.662847],[83.165284,26.66285],[83.165285,26.66294],[83.16518499999999,26.662942],[83.165188,26.663122],[83.165088,26.663124],[83.165093,26.663395],[83.164993,26.663396],[83.164996,26.663577],[83.164896,26.663578],[83.164901,26.663849],[83.1648,26.66385],[83.16480199999999,26.663941],[83.16470200000001,26.663942],[83.16470700000001,26.664213],[83.164807,26.664211],[83.164812,26.664482],[83.165013,26.664479],[83.165015,26.664569],[83.165216,26.664566],[83.165217,26.664656],[83.165318,26.664655],[83.16531999999999,26.664745],[83.166023,26.664734]]],"type":"Polygon"}
 }

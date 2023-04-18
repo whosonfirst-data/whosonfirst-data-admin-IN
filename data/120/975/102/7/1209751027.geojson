@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.32458,29.23105,79.32458,29.23105",
-    "geom:latitude":29.23105,
-    "geom:longitude":79.32458,
+    "geom:bbox":"79.327191,29.228599,79.328323,29.22942",
+    "geom:latitude":29.229054,
+    "geom:longitude":79.327747,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"66.0",
     "gn:asciiname":"Haripura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.30458,29.21105,79.34458,29.25105",
+    "ks:ks_id":"KS44E518F8AC794D71BDF759C945FF9FB9",
+    "ks:ks_name":"Haripur",
+    "ks:ks_pop":180,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|409107",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1830225",
+    "lbl:latitude":29.229053,
+    "lbl:longitude":79.327736,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.229053,
+    "mps:longitude":79.327736,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0628\u0648\u0631\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b9\u09b0\u09bf\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Haripur"
+    ],
+    "name:eng_x_variant":[
+        "Haripura"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0abf\u0aaa\u0ac1\u0ab0\u0abe"
@@ -69,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0631\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10809639
+        "gn:id":10809639,
+        "ks:id":"KS44E518F8AC794D71BDF759C945FF9FB9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a4eda6ef1aab7cdbbafd837f8d107a08",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9de09679cddd620a7077b2cabb759e26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1209751027,
-    "wof:lastmodified":1577751034,
-    "wof:name":"Haripura",
+    "wof:lastmodified":1680662780,
+    "wof:name":"Haripur",
     "wof:parent_id":890504093,
     "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.32458000000003,
-    29.23105,
-    79.32458000000003,
-    29.23105
+    79.327191,
+    29.228599,
+    79.328323,
+    29.22942
 ],
-  "geometry": {"coordinates":[79.32458000000003,29.23105],"type":"Point"}
+  "geometry": {"coordinates":[[[79.328214,29.22942],[79.328215,29.229329],[79.328318,29.229331],[79.328323,29.22906],[79.32822,29.229059],[79.328221,29.228968],[79.328118,29.228967],[79.32812,29.228877],[79.328017,29.228876],[79.328018,29.228785],[79.327916,29.228784],[79.327917,29.228694],[79.32771099999999,29.228691],[79.327713,29.228601],[79.327507,29.228599],[79.327506,29.228689],[79.32729999999999,29.228686],[79.327297,29.228867],[79.32719400000001,29.228865],[79.327191,29.229046],[79.32729399999999,29.229047],[79.327291,29.229228],[79.327394,29.229229],[79.327393,29.229319],[79.327495,29.22932],[79.327494,29.229411],[79.328214,29.22942]]],"type":"Polygon"}
 }

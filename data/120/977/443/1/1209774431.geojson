@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.56672,19.50098,83.56672,19.50098",
-    "geom:latitude":19.50098,
-    "geom:longitude":83.56672,
+    "geom:bbox":"83.565958,19.500355,83.567575,19.501433",
+    "geom:latitude":19.500854,
+    "geom:longitude":83.566861,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Munda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.54672,19.48098,83.58672,19.52098",
+    "ks:ks_id":"KSFEF368EA61DA48D3ABF5FAF933B3E3C9",
+    "ks:ks_name":"Munda",
+    "ks:ks_pop":253,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|724607",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_454774",
+    "lbl:latitude":19.500802,
+    "lbl:longitude":83.567023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.500802,
+    "mps:longitude":83.567023,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Munda"
@@ -40,6 +50,9 @@
         "Munda"
     ],
     "name:deu_x_preferred":[
+        "Munda"
+    ],
+    "name:eng_x_preferred":[
         "Munda"
     ],
     "name:fin_x_preferred":[
@@ -66,7 +79,13 @@
     "name:swe_x_preferred":[
         "Munda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10776884
+        "gn:id":10776884,
+        "ks:id":"KSFEF368EA61DA48D3ABF5FAF933B3E3C9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6dec75e9304a7355cf32a550991743cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3090b4ab7063f4990a0d55b4da67090c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1209774431,
-    "wof:lastmodified":1566695125,
+    "wof:lastmodified":1680661461,
     "wof:name":"Munda",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.56671999999998,
-    19.50098,
-    83.56671999999998,
-    19.50098
+    83.565958,
+    19.500355,
+    83.567575,
+    19.501433
 ],
-  "geometry": {"coordinates":[83.56671999999998,19.50098],"type":"Point"}
+  "geometry": {"coordinates":[[[83.56757500000001,19.501433],[83.56757500000001,19.500355],[83.566228,19.500355],[83.566228,19.500625],[83.56595799999999,19.500625],[83.56595799999999,19.501164],[83.566767,19.501164],[83.566767,19.501433],[83.56757500000001,19.501433]]],"type":"Polygon"}
 }

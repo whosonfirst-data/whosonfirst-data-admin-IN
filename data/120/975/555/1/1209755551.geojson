@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.79817,27.27792,80.79817,27.27792",
-    "geom:latitude":27.27792,
-    "geom:longitude":80.79817,
+    "geom:bbox":"80.797685,27.277264,80.7991,27.27898",
+    "geom:latitude":27.278087,
+    "geom:longitude":80.798408,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Nizamabad",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.77817,27.25792,80.81817,27.29792",
+    "ks:ks_id":"KS0A5C123DF3EC4597AF8F04E9C0C4CB27",
+    "ks:ks_name":"Nijamabad",
+    "ks:ks_pop":230,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|782812",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1897053",
+    "lbl:latitude":27.278127,
+    "lbl:longitude":80.798492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.278127,
+    "mps:longitude":80.798492,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0632\u0627\u0645\u0627\u0628\u0627\u062f"
@@ -56,6 +66,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03b6\u03b1\u03bc\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Nijamabad"
+    ],
+    "name:eng_x_variant":[
+        "Nizamabad"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0638\u0627\u0645\u200c\u0622\u0628\u0627\u062f"
@@ -126,7 +142,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0638\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10711926
+        "gn:id":10711926,
+        "ks:id":"KS0A5C123DF3EC4597AF8F04E9C0C4CB27"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e66ba739aff3475fa8543afb4895b62c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b3ea6d3a5623f834a03196d62fe1aa10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1209755551,
-    "wof:lastmodified":1636505587,
-    "wof:name":"Nizamabad",
+    "wof:lastmodified":1680662812,
+    "wof:name":"Nijamabad",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.79817,
-    27.27792,
-    80.79817,
-    27.27792
+    80.797685,
+    27.277264,
+    80.7991,
+    27.27898
 ],
-  "geometry": {"coordinates":[80.79817,27.27792],"type":"Point"}
+  "geometry": {"coordinates":[[[80.798492,27.27898],[80.798492,27.278889],[80.798795,27.27889],[80.798795,27.2788],[80.798896,27.2788],[80.798896,27.27871],[80.798997,27.27871],[80.798998,27.278439],[80.799099,27.278439],[80.799099,27.278168],[80.798998,27.278168],[80.79899899999999,27.277987],[80.7991,27.277988],[80.7991,27.277897],[80.79899899999999,27.277897],[80.79899899999999,27.277807],[80.79889799999999,27.277807],[80.79889799999999,27.277626],[80.79879699999999,27.277626],[80.79879699999999,27.277536],[80.79859500000001,27.277535],[80.79859500000001,27.277445],[80.798393,27.277445],[80.798393,27.277355],[80.797989,27.277354],[80.797989,27.277264],[80.797888,27.277264],[80.797888,27.277354],[80.797686,27.277354],[80.797685,27.277805],[80.797786,27.277805],[80.797786,27.277986],[80.797887,27.277986],[80.797887,27.278166],[80.797988,27.278167],[80.797988,27.278257],[80.797887,27.278257],[80.79788600000001,27.278347],[80.797988,27.278347],[80.79798700000001,27.278528],[80.79808800000001,27.278528],[80.79808800000001,27.278618],[80.79818899999999,27.278618],[80.79818899999999,27.278889],[80.798391,27.278889],[80.798391,27.27898],[80.798492,27.27898]]],"type":"Polygon"}
 }

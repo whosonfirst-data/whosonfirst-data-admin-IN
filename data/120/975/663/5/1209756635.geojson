@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.61435,25.64122,85.61435,25.64122",
-    "geom:latitude":25.64122,
-    "geom:longitude":85.61435,
+    "geom:bbox":"85.613039,25.640789,85.614926,25.641598",
+    "geom:latitude":25.641193,
+    "geom:longitude":85.613983,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Chak Raman",
@@ -24,16 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.59435,25.62122,85.63435,25.66122",
+    "ks:ks_id":"KS9ACA259E5DC043E88BDA842A18080E90",
+    "ks:ks_name":"Chak Raman",
+    "ks:ks_source_id":"N|13867062",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1362443",
+    "lbl:latitude":25.641193,
+    "lbl:longitude":85.613982,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.641193,
+    "mps:longitude":85.613982,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chak Raman"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327045
+        "gn:id":11327045,
+        "ks:id":"KS9ACA259E5DC043E88BDA842A18080E90"
     },
     "wof:country":"IN",
-    "wof:geomhash":"39e956d37fb7e57deaae58a6319109a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a1e02d65cff7576211c5aa0f494446c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +72,7 @@
         }
     ],
     "wof:id":1209756635,
-    "wof:lastmodified":1566697130,
+    "wof:lastmodified":1680662827,
     "wof:name":"Chak Raman",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.61435,
-    25.64122,
-    85.61435,
-    25.64122
+    85.613039,
+    25.640789,
+    85.614926,
+    25.641598
 ],
-  "geometry": {"coordinates":[85.61435,25.64122],"type":"Point"}
+  "geometry": {"coordinates":[[[85.614926,25.640789],[85.613039,25.640789],[85.613039,25.641598],[85.614926,25.641598],[85.614926,25.640789]]],"type":"Polygon"}
 }
