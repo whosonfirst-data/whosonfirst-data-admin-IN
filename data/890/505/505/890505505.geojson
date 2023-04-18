@@ -14,11 +14,20 @@
     "gn:population":60271,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"72.87817,22.38788,72.91817,22.42788",
-    "lbl:latitude":22.408391,
-    "lbl:longitude":72.902101,
+    "ks:ks_id":"KSD412A33B1B9146E58D30AB6FACFB6D42",
+    "ks:ks_name":"Borsad",
+    "ks:ks_pop":56548,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2092283",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_752936",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":22.412635,
+    "lbl:longitude":72.903251,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":22.412635,
+    "mps:longitude":72.903251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -115,10 +124,12 @@
     "reversegeo:longitude":72.902101,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":506,
     "wof:belongsto":[
         102191569,
@@ -130,12 +141,17 @@
     "wof:concordances":{
         "gn:id":1275230,
         "gp:id":2291810,
+        "ks:id":"KSD412A33B1B9146E58D30AB6FACFB6D42",
         "qs_pg:id":466214,
         "wd:id":"Q858219",
         "wk:page":"Borsad"
     },
     "wof:country":"IN",
     "wof:created":1469055473,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"8e58c1ce6cdc9b1eecbfa03c7e066d0a",
     "wof:hierarchy":[
         {
@@ -147,11 +163,11 @@
         }
     ],
     "wof:id":890505505,
-    "wof:lastmodified":1658780793,
+    "wof:lastmodified":1680670360,
     "wof:name":"Borsad",
     "wof:parent_id":890502697,
     "wof:placetype":"locality",
-    "wof:population":60271,
+    "wof:population":56548,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

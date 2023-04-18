@@ -14,11 +14,20 @@
     "gn:population":80741,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"74.81298,30.5619,74.85298,30.6019",
-    "lbl:latitude":30.583143,
-    "lbl:longitude":74.820628,
+    "ks:ks_id":"KS01F6B66873FF43CA82BADB47E4CD5ABB",
+    "ks:ks_name":"Kot Kapura",
+    "ks:ks_pop":80785,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0313000141302000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2496558",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.581298,
+    "lbl:longitude":74.818169,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":30.581298,
+    "mps:longitude":74.818169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,7 +48,10 @@
         "Kotkapura"
     ],
     "name:eng_x_preferred":[
-        "Kotkapura"
+        "Kot Kapura"
+    ],
+    "name:eng_x_variant":[
+        "Kokalpur"
     ],
     "name:hif_x_preferred":[
         "Kot Kapura"
@@ -91,10 +103,12 @@
     "reversegeo:longitude":74.820628,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,11 +119,16 @@
     "wof:concordances":{
         "gn:id":7279734,
         "gp:id":29058075,
+        "ks:id":"KS01F6B66873FF43CA82BADB47E4CD5ABB",
         "qs_pg:id":517705,
         "wd:id":"Q2235570"
     },
     "wof:country":"IN",
     "wof:created":1469055478,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"878767332e3ca3f5cfd7266081e2e6f0",
     "wof:hierarchy":[
         {
@@ -121,11 +140,11 @@
         }
     ],
     "wof:id":890505661,
-    "wof:lastmodified":1658780793,
-    "wof:name":"Kokalpur",
+    "wof:lastmodified":1680670367,
+    "wof:name":"Kot Kapura",
     "wof:parent_id":890507607,
     "wof:placetype":"locality",
-    "wof:population":80741,
+    "wof:population":80785,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

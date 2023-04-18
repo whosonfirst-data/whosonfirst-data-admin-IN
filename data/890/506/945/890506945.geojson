@@ -14,11 +14,20 @@
     "gn:population":174035,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"78.76728,26.54672,78.80728,26.58672",
-    "lbl:latitude":26.567821,
-    "lbl:longitude":78.78631,
+    "ks:ks_id":"KS52266B7120384B8981D36CD8BD2FDCB3",
+    "ks:ks_name":"Bhind",
+    "ks:ks_pop":153752,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2303000240303000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1735065",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.559023,
+    "lbl:longitude":78.786081,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
+    "mps:latitude":26.559023,
+    "mps:longitude":78.786081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -130,10 +139,12 @@
     "reversegeo:longitude":78.78631,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":563,
     "wof:belongsto":[
         102191569,
@@ -145,12 +156,17 @@
     "wof:concordances":{
         "gn:id":1275926,
         "gp:id":2295039,
+        "ks:id":"KS52266B7120384B8981D36CD8BD2FDCB3",
         "qs_pg:id":1310093,
         "wd:id":"Q796501",
         "wk:page":"Bhind"
     },
     "wof:country":"IN",
     "wof:created":1469055531,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"fe599b19aeba7ffef0d3acb565306326",
     "wof:hierarchy":[
         {
@@ -162,11 +178,11 @@
         }
     ],
     "wof:id":890506945,
-    "wof:lastmodified":1658780801,
+    "wof:lastmodified":1680670494,
     "wof:name":"Bhind",
     "wof:parent_id":1108696209,
     "wof:placetype":"locality",
-    "wof:population":174035,
+    "wof:population":153752,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

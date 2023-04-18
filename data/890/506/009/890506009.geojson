@@ -14,11 +14,19 @@
     "gn:population":60155,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"75.38448,14.77354,75.42448,14.81354",
-    "lbl:latitude":14.78775,
-    "lbl:longitude":75.399726,
+    "ks:ks_id":"KS683FFC12229A4D3BA97B1750D00591D4",
+    "ks:ks_name":"Haveri",
+    "ks:ks_pop":55913,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2911000441105000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_292437",
+    "lbl:latitude":14.795844,
+    "lbl:longitude":75.401301,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":14.795844,
+    "mps:longitude":75.401301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -151,10 +159,12 @@
     "reversegeo:longitude":75.399726,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1048,
     "wof:belongsto":[
         102191569,
@@ -166,12 +176,17 @@
     "wof:concordances":{
         "gn:id":1270171,
         "gp:id":2293989,
+        "ks:id":"KS683FFC12229A4D3BA97B1750D00591D4",
         "qs_pg:id":1309915,
         "wd:id":"Q1026885",
         "wk:page":"Haveri"
     },
     "wof:country":"IN",
     "wof:created":1469055493,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"38722450976d1d890d6f4c6da69b0ae0",
     "wof:hierarchy":[
         {
@@ -183,11 +198,11 @@
         }
     ],
     "wof:id":890506009,
-    "wof:lastmodified":1658780801,
+    "wof:lastmodified":1680670486,
     "wof:name":"Haveri",
     "wof:parent_id":1108696335,
     "wof:placetype":"locality",
-    "wof:population":60155,
+    "wof:population":55913,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

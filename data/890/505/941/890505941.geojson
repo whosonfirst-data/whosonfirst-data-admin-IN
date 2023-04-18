@@ -4,19 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.45074,23.19899,74.45074,23.19899",
-    "geom:latitude":23.19899,
-    "geom:longitude":74.45074,
+    "geom:bbox":"74.468394,23.191013,74.469759,23.192823",
+    "geom:latitude":23.192073,
+    "geom:longitude":74.469015,
     "gn:country":"IN",
     "gn:fcode":"PPL",
     "gn:population":10349,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"74.43074,23.17899,74.47074,23.21899",
+    "ks:ks_id":"KS23CE904CFED04E9AAB1B0D7241CB491F",
+    "ks:ks_name":"Kushalgarh",
+    "ks:ks_pop":10108,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0828000542803000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_807152",
+    "lbl:latitude":23.192235,
+    "lbl:longitude":74.469072,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
+    "mps:latitude":23.192235,
+    "mps:longitude":74.469072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
@@ -105,7 +115,13 @@
     "qs:photos_sr":0,
     "qs:placetype":"Town",
     "qs:pop_sr":"6",
-    "src:population":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":273,
     "wof:belongsto":[
         102191569,
@@ -117,13 +133,17 @@
     "wof:concordances":{
         "gn:id":1265452,
         "gp:id":2291729,
+        "ks:id":"KS23CE904CFED04E9AAB1B0D7241CB491F",
         "qs_pg:id":1309687,
         "wd:id":"Q2234705",
         "wk:page":"Kushalgarh"
     },
     "wof:country":"IN",
     "wof:created":1469055491,
-    "wof:geomhash":"8e487aa8cf7e59502501752f12a7eb8d",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"4bc6649fefc97470a46de98cddfbaad4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,11 +154,11 @@
         }
     ],
     "wof:id":890505941,
-    "wof:lastmodified":1566705074,
+    "wof:lastmodified":1680670368,
     "wof:name":"Kushalgarh",
     "wof:parent_id":1108695781,
     "wof:placetype":"locality",
-    "wof:population":10349,
+    "wof:population":10108,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -146,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.45074,
-    23.19899,
-    74.45074,
-    23.19899
+    74.468394,
+    23.191013,
+    74.469759,
+    23.192823
 ],
-  "geometry": {"coordinates":[74.45074,23.19899],"type":"Point"}
+  "geometry": {"coordinates":[[[74.469464,23.192823],[74.469464,23.192733],[74.469562,23.192733],[74.469562,23.192643],[74.46966,23.192643],[74.469661,23.192463],[74.469759,23.192463],[74.469759,23.192282],[74.469662,23.192282],[74.469662,23.192192],[74.46956400000001,23.192191],[74.469565,23.192101],[74.46946699999999,23.192101],[74.46946699999999,23.19201],[74.469369,23.19201],[74.46937,23.19192],[74.469272,23.191919],[74.469272,23.191829],[74.46917500000001,23.191829],[74.46917500000001,23.191738],[74.469077,23.191738],[74.469078,23.191648],[74.46898,23.191647],[74.46898,23.191557],[74.46888300000001,23.191557],[74.46888300000001,23.191466],[74.468785,23.191466],[74.46878700000001,23.191105],[74.468689,23.191104],[74.468689,23.191014],[74.46849400000001,23.191013],[74.46849400000001,23.191104],[74.468396,23.191103],[74.468394,23.191465],[74.468492,23.191465],[74.468491,23.191646],[74.46858899999999,23.191646],[74.468587,23.192188],[74.46868499999999,23.192188],[74.468684,23.192459],[74.46878100000001,23.19246],[74.46878100000001,23.19264],[74.468878,23.192641],[74.468878,23.192731],[74.468976,23.192731],[74.468975,23.192822],[74.469464,23.192823]]],"type":"Polygon"}
 }

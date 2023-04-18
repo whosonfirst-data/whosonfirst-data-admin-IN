@@ -13,11 +13,20 @@
     "gn:fcode":"PPL",
     "gn:population":55911,
     "iso:country":"IN",
-    "lbl:bbox":"73.45141,27.54155,73.49141,27.58155",
-    "lbl:latitude":27.556243,
-    "lbl:longitude":73.474919,
+    "ks:ks_id":"KSE6B2E1DD729A4A5CAC5DEBEA7762611A",
+    "ks:ks_name":"Nokha",
+    "ks:ks_pop":49688,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0803000540303000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1619567",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":27.557681,
+    "lbl:longitude":73.471367,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":27.557681,
+    "mps:longitude":73.471367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -111,10 +120,12 @@
     "reversegeo:longitude":73.474919,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191569,
@@ -126,12 +137,17 @@
     "wof:concordances":{
         "gn:id":1261227,
         "gp:id":90885680,
+        "ks:id":"KSE6B2E1DD729A4A5CAC5DEBEA7762611A",
         "qs_pg:id":84596,
         "wd:id":"Q1749714",
         "wk:page":"Nokha"
     },
     "wof:country":"IN",
     "wof:created":1469055598,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"70a6762d08b4f3db0dba0271148b6e81",
     "wof:hierarchy":[
         {
@@ -143,12 +159,12 @@
         }
     ],
     "wof:id":890508551,
-    "wof:lastmodified":1658780800,
+    "wof:lastmodified":1680670462,
     "wof:name":"Nokha",
     "wof:parent_id":890505295,
     "wof:placetype":"locality",
-    "wof:population":55911,
-    "wof:population_rank":8,
+    "wof:population":49688,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
