@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.06002,14.3144,80.06002,14.3144",
-    "geom:latitude":14.3144,
-    "geom:longitude":80.06002,
+    "geom:bbox":"80.059751,14.313475,80.06105,14.314834",
+    "geom:latitude":14.314106,
+    "geom:longitude":80.060385,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"550.0",
     "gn:asciiname":"Ramapuram",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.04002,14.2944,80.08002,14.3344",
+    "ks:ks_id":"KS3A103633BB8A468E9D3ADE278BD5437E",
+    "ks:ks_name":"Ramapuram",
+    "ks:ks_pop":76,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|900380",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_365047",
+    "lbl:latitude":14.314081,
+    "lbl:longitude":80.060397,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.314081,
+    "mps:longitude":80.060397,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Ramapuram"
+    ],
+    "name:eng_x_preferred":[
         "Ramapuram"
     ],
     "name:ita_x_preferred":[
@@ -42,7 +55,13 @@
     "name:swe_x_preferred":[
         "Ramapuram"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10789678
+        "gn:id":10789678,
+        "ks:id":"KS3A103633BB8A468E9D3ADE278BD5437E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"eea0eac8e0a47eb99d6b9a930b7502c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4bd2b69cfd1c5a90d98ad602bdbdb666",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1193277977,
-    "wof:lastmodified":1566698601,
+    "wof:lastmodified":1680666894,
     "wof:name":"Ramapuram",
     "wof:parent_id":1108696321,
     "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.06002,
-    14.3144,
-    80.06002,
-    14.3144
+    80.059751,
+    14.313475,
+    80.06105,
+    14.314834
 ],
-  "geometry": {"coordinates":[80.06001999999999,14.3144],"type":"Point"}
+  "geometry": {"coordinates":[[[80.060675,14.314834],[80.060675,14.314744],[80.060768,14.314744],[80.06076899999999,14.314563],[80.060862,14.314564],[80.060863,14.314202],[80.060956,14.314202],[80.060957,14.313931],[80.06104999999999,14.313932],[80.06104999999999,14.313841],[80.060957,14.313841],[80.060958,14.31366],[80.06086500000001,14.31366],[80.060866,14.313569],[80.060495,14.313568],[80.060495,14.313477],[80.059939,14.313475],[80.059939,14.313566],[80.05984599999999,14.313565],[80.059845,14.313746],[80.059752,14.313746],[80.05975100000001,14.314017],[80.059844,14.314017],[80.059843,14.314198],[80.05993599999999,14.314198],[80.059934,14.31456],[80.06002700000001,14.31456],[80.06002700000001,14.314651],[80.060119,14.314651],[80.060119,14.314742],[80.06021200000001,14.314742],[80.060211,14.314832],[80.060675,14.314834]]],"type":"Polygon"}
 }
