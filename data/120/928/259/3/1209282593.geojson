@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.75529,28.01116,74.75529,28.01116",
-    "geom:latitude":28.01116,
-    "geom:longitude":74.75529,
+    "geom:bbox":"74.754731,28.010065,74.75595,28.011691",
+    "geom:latitude":28.010874,
+    "geom:longitude":74.755279,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"102",
     "gn:asciiname":"Kadiya",
@@ -24,17 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.73529,27.99116,74.77529,28.03116",
+    "ks:ks_id":"KS643AEBAD9F24499BAE16EB33C059A197",
+    "ks:ks_name":"Kadiya",
+    "ks:ks_pop":1364,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|479725",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1621425",
+    "lbl:latitude":28.010853,
+    "lbl:longitude":74.755267,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.010853,
+    "mps:longitude":74.755267,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kadiya"
+    ],
     "name:und_x_variant":[
         "K\u0101diya",
         "K\u0101dio"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -43,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1332364
+        "gn:id":1332364,
+        "ks:id":"KS643AEBAD9F24499BAE16EB33C059A197"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c83abb90a0ca794d27b5a9baff5440a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa91df7d9b4ad153d0dd0ae4a74dbf27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +80,22 @@
         }
     ],
     "wof:id":1209282593,
-    "wof:lastmodified":1672960577,
+    "wof:lastmodified":1680662725,
     "wof:name":"Kadiya",
     "wof:parent_id":890511339,
     "wof:placetype":"locality",
+    "wof:population":1364,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.75529,
-    28.01116,
-    74.75529,
-    28.01116
+    74.754731,
+    28.010065,
+    74.75595,
+    28.011691
 ],
-  "geometry": {"coordinates":[74.75529,28.01116],"type":"Point"}
+  "geometry": {"coordinates":[[[74.755644,28.011691],[74.755644,28.011601],[74.755746,28.011601],[74.755747,28.01133],[74.755848,28.01133],[74.755848,28.01124],[74.75595,28.01124],[74.75595,28.01115],[74.755849,28.01115],[74.755849,28.011059],[74.755747,28.011059],[74.755748,28.010879],[74.755646,28.010879],[74.755646,28.010698],[74.755748,28.010698],[74.755748,28.010608],[74.755646,28.010608],[74.755647,28.010427],[74.755545,28.010427],[74.755546,28.010246],[74.755444,28.010246],[74.755444,28.010156],[74.755139,28.010155],[74.755139,28.010065],[74.754834,28.010065],[74.754834,28.010155],[74.754732,28.010155],[74.75473100000001,28.010696],[74.754833,28.010697],[74.75483199999999,28.011058],[74.75493299999999,28.011058],[74.75493299999999,28.011329],[74.75503500000001,28.011329],[74.75503399999999,28.011419],[74.75513599999999,28.011419],[74.755135,28.01169],[74.755644,28.011691]]],"type":"Polygon"}
 }

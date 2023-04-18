@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.31102,19.41202,79.31102,19.41202",
-    "geom:latitude":19.41202,
-    "geom:longitude":79.31102,
+    "geom:bbox":"79.310165,19.410643,79.311778,19.413",
+    "geom:latitude":19.411824,
+    "geom:longitude":79.310962,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Jaitpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.29102,19.39202,79.33102,19.43202",
+    "ks:ks_id":"KS664E78DC90D24D61A24C41A13A3264F6",
+    "ks:ks_name":"Jaithpur",
+    "ks:ks_pop":352,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1265088",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_555728",
+    "lbl:latitude":19.411821,
+    "lbl:longitude":79.310947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.411821,
+    "mps:longitude":79.310947,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u064a\u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099c\u09be\u0987\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Jaithpur"
+    ],
+    "name:eng_x_variant":[
+        "Jaitpur"
     ],
     "name:fra_x_preferred":[
         "Jaitpur"
@@ -72,16 +88,26 @@
     "name:urd_x_variant":[
         "\u062c\u06cc\u062a\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10875793
+        "gn:id":10875793,
+        "ks:id":"KS664E78DC90D24D61A24C41A13A3264F6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58629eb56552b67bc3911d7afa963589",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bcd72ca93d203e76b544e6090938b1bf",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1209257071,
-    "wof:lastmodified":1577750846,
-    "wof:name":"Jaitpur",
+    "wof:lastmodified":1680661826,
+    "wof:name":"Jaithpur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.31102,
-    19.41202,
-    79.31102,
-    19.41202
+    79.310165,
+    19.410643,
+    79.311778,
+    19.413
 ],
-  "geometry": {"coordinates":[79.31102,19.41202],"type":"Point"}
+  "geometry": {"coordinates":[[[79.311485,19.413],[79.311486,19.41291],[79.311581,19.412911],[79.311582,19.41282],[79.311677,19.412821],[79.311678,19.412731],[79.311773,19.412732],[79.311778,19.41228],[79.311683,19.412279],[79.31168599999999,19.411918],[79.31159100000001,19.411917],[79.31159599999999,19.411465],[79.31150100000001,19.411464],[79.311502,19.411284],[79.311407,19.411283],[79.311409,19.411102],[79.311314,19.411101],[79.31131499999999,19.411011],[79.31122000000001,19.41101],[79.31122000000001,19.41092],[79.311125,19.410919],[79.311126,19.410828],[79.311031,19.410828],[79.311032,19.410737],[79.310937,19.410736],[79.31093799999999,19.410646],[79.310557,19.410643],[79.31055600000001,19.410733],[79.310461,19.410732],[79.31046000000001,19.410822],[79.310365,19.410821],[79.31036400000001,19.410912],[79.31026799999999,19.410911],[79.310265,19.411272],[79.310169,19.411271],[79.310165,19.411723],[79.31026,19.411724],[79.310254,19.412266],[79.31035,19.412267],[79.310349,19.412357],[79.310444,19.412358],[79.31044300000001,19.412448],[79.310633,19.41245],[79.310632,19.41254],[79.310728,19.412541],[79.310727,19.412632],[79.310822,19.412633],[79.310821,19.412723],[79.31091600000001,19.412724],[79.31091499999999,19.412814],[79.31101,19.412815],[79.31101,19.412905],[79.3112,19.412907],[79.311199,19.412997],[79.311485,19.413]]],"type":"Polygon"}
 }

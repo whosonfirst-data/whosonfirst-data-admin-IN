@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.47031,26.96716,82.47031,26.96716",
-    "geom:latitude":26.96716,
-    "geom:longitude":82.47031,
+    "geom:bbox":"82.469066,26.965573,82.471195,26.967383",
+    "geom:latitude":26.966513,
+    "geom:longitude":82.470162,
     "gn:admin1_code":"36",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Nagwa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.45031,26.94716,82.49031,26.98716",
+    "ks:ks_id":"KS4BDB8D590E16472E82F05F029754864F",
+    "ks:ks_name":"Nagwa",
+    "ks:ks_pop":312,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|749221",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1972902",
+    "lbl:latitude":26.966479,
+    "lbl:longitude":82.470162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.966479,
+    "mps:longitude":82.470162,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u062c\u0648\u0649"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a8\u09be\u0997\u0993\u09df\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Nagwa"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a97\u0acd\u0ab5\u0abe"
@@ -66,16 +79,26 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0648\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10614117
+        "gn:id":10614117,
+        "ks:id":"KS4BDB8D590E16472E82F05F029754864F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1cefef34fc54e6bd35ecfec982a3b067",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc3df30027c485532af4221ab29c59a7",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1209258077,
-    "wof:lastmodified":1577750856,
+    "wof:lastmodified":1680661874,
     "wof:name":"Nagwa",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":312,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.47031,
-    26.96716,
-    82.47031,
-    26.96716
+    82.469066,
+    26.965573,
+    82.471195,
+    26.967383
 ],
-  "geometry": {"coordinates":[82.47031,26.96716],"type":"Point"}
+  "geometry": {"coordinates":[[[82.470896,26.967374],[82.470895,26.967284],[82.470996,26.967283],[82.470995,26.967192],[82.47109500000001,26.967191],[82.47109399999999,26.967101],[82.47119499999999,26.9671],[82.471188,26.966558],[82.471087,26.966559],[82.471084,26.966289],[82.470983,26.96629],[82.470979,26.966019],[82.470879,26.96602],[82.470876,26.96584],[82.470776,26.965841],[82.47077400000001,26.96575],[82.470674,26.965751],[82.47067300000001,26.965661],[82.470471,26.965663],[82.47047000000001,26.965573],[82.470067,26.965577],[82.470068,26.965667],[82.46976600000001,26.965671],[82.469767,26.965761],[82.469566,26.965763],[82.469567,26.965853],[82.469365,26.965855],[82.46936700000001,26.965946],[82.469165,26.965948],[82.469166,26.966038],[82.469066,26.966039],[82.46907400000001,26.966671],[82.46917500000001,26.96667],[82.469177,26.96685],[82.469278,26.966849],[82.469279,26.966939],[82.46938,26.966938],[82.469381,26.967029],[82.469481,26.967028],[82.469483,26.967118],[82.469583,26.967117],[82.469584,26.967207],[82.469786,26.967205],[82.469787,26.967295],[82.469989,26.967293],[82.46999,26.967383],[82.470896,26.967374]]],"type":"Polygon"}
 }

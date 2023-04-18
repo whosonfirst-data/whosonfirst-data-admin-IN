@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.94244,18.42866,82.94244,18.42866",
-    "geom:latitude":18.42866,
-    "geom:longitude":82.94244,
+    "geom:bbox":"82.941176,18.427964,82.94297,18.429689",
+    "geom:latitude":18.428855,
+    "geom:longitude":82.942093,
     "gn:admin1_code":"21",
     "gn:admin2_code":"398.0",
     "gn:asciiname":"Surada",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.92244,18.40866,82.96244,18.44866",
+    "ks:ks_id":"KS0438F66CAB56448BAFDB0FFCF0DFFD79",
+    "ks:ks_name":"Surada",
+    "ks:ks_pop":1548,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1019237",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_601533",
+    "lbl:latitude":18.428877,
+    "lbl:longitude":82.94211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.428877,
+    "mps:longitude":82.94211,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b0\u09a1\u09be"
@@ -41,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "Sorada"
+    ],
+    "name:eng_x_preferred":[
+        "Surada"
     ],
     "name:ita_x_preferred":[
         "Surada"
@@ -66,16 +79,26 @@
     "name:zho_x_preferred":[
         "\u82cf\u62c9\u8fbe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10766333
+        "gn:id":10766333,
+        "ks:id":"KS0438F66CAB56448BAFDB0FFCF0DFFD79"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9219908008e54e89b33d2547a882c249",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95e677c7fc8d0832be4e800deb5756c7",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1209273211,
-    "wof:lastmodified":1566696664,
+    "wof:lastmodified":1680662511,
     "wof:name":"Surada",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":1548,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.94244,
-    18.42866,
-    82.94244,
-    18.42866
+    82.941176,
+    18.427964,
+    82.94297,
+    18.429689
 ],
-  "geometry": {"coordinates":[82.94244,18.42866],"type":"Point"}
+  "geometry": {"coordinates":[[[82.942224,18.429683],[82.942223,18.429592],[82.942318,18.429591],[82.942317,18.429501],[82.94250599999999,18.429499],[82.942505,18.429409],[82.9426,18.429408],[82.942599,18.429317],[82.94269300000001,18.429316],[82.942689,18.428955],[82.942784,18.428954],[82.94278199999999,18.428774],[82.942876,18.428773],[82.942875,18.428682],[82.94297,18.428681],[82.942965,18.42823],[82.94287,18.428231],[82.942869,18.42814],[82.94258499999999,18.428143],[82.942584,18.428053],[82.942395,18.428055],[82.94239399999999,18.427964],[82.942016,18.427968],[82.94201700000001,18.428059],[82.94192200000001,18.42806],[82.941923,18.42815],[82.941828,18.428151],[82.941829,18.428241],[82.94173499999999,18.428242],[82.94173600000001,18.428333],[82.941641,18.428333],[82.941643,18.428514],[82.941548,18.428515],[82.94154899999999,18.428605],[82.941455,18.428606],[82.941456,18.428697],[82.941361,18.428698],[82.941362,18.428788],[82.94126799999999,18.428789],[82.941271,18.42906],[82.941176,18.429061],[82.941177,18.429151],[82.941272,18.42915],[82.941276,18.429512],[82.94137000000001,18.429511],[82.941371,18.429601],[82.94156099999999,18.429599],[82.941562,18.429689],[82.942224,18.429683]]],"type":"Polygon"}
 }

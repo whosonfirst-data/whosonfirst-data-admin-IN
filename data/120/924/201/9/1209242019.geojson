@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.47908,29.93051,78.47908,29.93051",
-    "geom:latitude":29.93051,
-    "geom:longitude":78.47908,
+    "geom:bbox":"78.478569,29.930991,78.480324,29.931831",
+    "geom:latitude":29.931432,
+    "geom:longitude":78.47942,
     "gn:admin1_code":"39",
     "gn:admin2_code":"61.0",
     "gn:asciiname":"Bisi",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.45908,29.91051,78.49908,29.95051",
+    "ks:ks_id":"KSF6D6579862EF4783BF337BE81D747DF0",
+    "ks:ks_name":"Bishi",
+    "ks:ks_pop":182,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|169050",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1839781",
+    "lbl:latitude":29.931408,
+    "lbl:longitude":78.479349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.931408,
+    "mps:longitude":78.479349,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bisi"
     ],
     "name:ceb_x_preferred":[
+        "Bisi"
+    ],
+    "name:eng_x_preferred":[
+        "Bishi"
+    ],
+    "name:eng_x_variant":[
         "Bisi"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +61,13 @@
     "name:swe_x_preferred":[
         "Bisi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10749467
+        "gn:id":10749467,
+        "ks:id":"KSF6D6579862EF4783BF337BE81D747DF0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b6dcfc4510183ab4ca247f86ec9e0575",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc94dcf4dbb012834b90912474924fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +94,22 @@
         }
     ],
     "wof:id":1209242019,
-    "wof:lastmodified":1672961374,
-    "wof:name":"Bisi",
+    "wof:lastmodified":1680661626,
+    "wof:name":"Bishi",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.47908000000002,
-    29.93051,
-    78.47908000000002,
-    29.93051
+    78.478569,
+    29.930991,
+    78.480324,
+    29.931831
 ],
-  "geometry": {"coordinates":[78.47908000000002,29.93051],"type":"Point"}
+  "geometry": {"coordinates":[[[78.480214,29.931831],[78.480216,29.93174],[78.48031899999999,29.931742],[78.480324,29.931562],[78.48022,29.93156],[78.480223,29.93147],[78.48001600000001,29.931466],[78.480018,29.931376],[78.479811,29.931372],[78.47981299999999,29.931282],[78.47971,29.93128],[78.47971200000001,29.93119],[78.479608,29.931188],[78.47961100000001,29.931097],[78.479507,29.931095],[78.47951,29.931005],[78.478785,29.930991],[78.47878300000001,29.931082],[78.478679,29.93108],[78.478675,29.93126],[78.478571,29.931258],[78.47856899999999,29.931348],[78.478672,29.93135],[78.47866999999999,29.93144],[78.478774,29.931442],[78.47877099999999,29.931532],[78.478978,29.931536],[78.478976,29.931627],[78.47908,29.931628],[78.479077,29.931719],[78.47928400000001,29.931723],[78.479282,29.931813],[78.480214,29.931831]]],"type":"Polygon"}
 }
