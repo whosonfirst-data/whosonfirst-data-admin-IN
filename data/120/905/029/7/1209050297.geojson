@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.29936,25.24599,83.29936,25.24599",
-    "geom:latitude":25.24599,
-    "geom:longitude":83.29936,
+    "geom:bbox":"83.297605,25.244841,83.300492,25.247187",
+    "geom:latitude":25.245915,
+    "geom:longitude":83.299123,
     "gn:admin1_code":"36",
     "gn:admin2_code":"196.0",
     "gn:asciiname":"Bazidpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.27936,25.22599,83.31936,25.26599",
+    "ks:ks_id":"KS71E9FC514C17462895E7E63B297D84B7",
+    "ks:ks_name":"Wazidpur",
+    "ks:ks_pop":757,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1255178",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1938063",
+    "lbl:latitude":25.245893,
+    "lbl:longitude":83.29924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.245893,
+    "mps:longitude":83.29924,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0632\u062f\u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09be\u099c\u09bf\u09a6\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Wazidpur"
+    ],
+    "name:eng_x_variant":[
+        "Bazidpur"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0632\u06cc\u062f\u067e\u0648\u0631"
@@ -69,16 +85,26 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0632\u06cc\u062f \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10504916
+        "gn:id":10504916,
+        "ks:id":"KS71E9FC514C17462895E7E63B297D84B7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bf56124cd15c829edb7240cb8b68178a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8fec4fee2a1b1fb0e54bb748fc59b45",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1209050297,
-    "wof:lastmodified":1577750964,
-    "wof:name":"Bazidpur",
+    "wof:lastmodified":1680662407,
+    "wof:name":"Wazidpur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":757,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.29936,
-    25.24599,
-    83.29936,
-    25.24599
+    83.297605,
+    25.244841,
+    83.300492,
+    25.247187
 ],
-  "geometry": {"coordinates":[83.29935999999999,25.24599],"type":"Point"}
+  "geometry": {"coordinates":[[[83.299813,25.247178],[83.29981100000001,25.247088],[83.29991,25.247086],[83.299909,25.246996],[83.30000800000001,25.246994],[83.300006,25.246904],[83.300105,25.246902],[83.300104,25.246812],[83.300203,25.246811],[83.300201,25.24672],[83.30029999999999,25.246719],[83.300297,25.246538],[83.30039600000001,25.246537],[83.300393,25.246356],[83.30049200000001,25.246355],[83.300473,25.245362],[83.30037400000001,25.245364],[83.30036699999999,25.245003],[83.300268,25.245004],[83.30026599999999,25.244914],[83.29917500000001,25.244931],[83.299173,25.244841],[83.298181,25.244856],[83.29818299999999,25.244947],[83.298084,25.244948],[83.298085,25.245038],[83.29798599999999,25.24504],[83.297988,25.24513],[83.297889,25.245132],[83.29789,25.245222],[83.297791,25.245224],[83.29779499999999,25.245404],[83.297695,25.245406],[83.297704,25.245857],[83.297605,25.245858],[83.297613,25.246309],[83.297712,25.246308],[83.29771700000001,25.246579],[83.297916,25.246576],[83.297918,25.246666],[83.29861200000001,25.246655],[83.298614,25.246745],[83.29871300000001,25.246744],[83.298715,25.246834],[83.29881399999999,25.246832],[83.298816,25.246923],[83.29891499999999,25.246921],[83.298917,25.247011],[83.299115,25.247008],[83.299117,25.247098],[83.299216,25.247097],[83.299218,25.247187],[83.299813,25.247178]]],"type":"Polygon"}
 }
