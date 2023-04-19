@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.99739,19.15204,77.99739,19.15204",
-    "geom:latitude":19.15204,
-    "geom:longitude":77.99739,
+    "geom:bbox":"77.996782,19.151634,77.998303,19.152734",
+    "geom:latitude":19.152156,
+    "geom:longitude":77.997569,
     "gn:admin1_code":"40",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Wadi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.97739,19.13204,78.01739,19.17204",
+    "ks:ks_id":"KS7851A9CD8C5B4A3593DA18E54E276776",
+    "ks:ks_name":"Wadi",
+    "ks:ks_pop":250,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1264350",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_550498",
+    "lbl:latitude":19.152185,
+    "lbl:longitude":77.997555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.152185,
+    "mps:longitude":77.997555,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0639\u064a\u0628"
@@ -58,6 +68,9 @@
         "Wadi"
     ],
     "name:deu_x_preferred":[
+        "Wadi"
+    ],
+    "name:eng_x_preferred":[
         "Wadi"
     ],
     "name:epo_x_preferred":[
@@ -165,7 +178,13 @@
     "name:vie_x_preferred":[
         "Wadi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -174,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10448933
+        "gn:id":10448933,
+        "ks:id":"KS7851A9CD8C5B4A3593DA18E54E276776"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b7cdd464eb0e937c5784be0bd18a1cb9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c9a48288047495928db30b0ec7d8759b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +211,22 @@
         }
     ],
     "wof:id":1210054879,
-    "wof:lastmodified":1566697299,
+    "wof:lastmodified":1680666064,
     "wof:name":"Wadi",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.99739,
-    19.15204,
-    77.99739,
-    19.15204
+    77.996782,
+    19.151634,
+    77.998303,
+    19.152734
 ],
-  "geometry": {"coordinates":[77.99739,19.15204],"type":"Point"}
+  "geometry": {"coordinates":[[[77.99736300000001,19.152731],[77.997362,19.152641],[77.997837,19.152633],[77.99783499999999,19.152543],[77.998025,19.15254],[77.998023,19.15245],[77.99811800000001,19.152448],[77.99811699999999,19.152358],[77.998212,19.152356],[77.99820800000001,19.152176],[77.99830300000001,19.152174],[77.998295,19.151723],[77.9982,19.151724],[77.998198,19.151634],[77.997439,19.151647],[77.99744,19.151737],[77.99724999999999,19.15174],[77.997252,19.15183],[77.997062,19.151833],[77.99706399999999,19.151924],[77.99696900000001,19.151925],[77.99697,19.152015],[77.996875,19.152017],[77.996877,19.152107],[77.996782,19.152109],[77.996787,19.152379],[77.996882,19.152378],[77.99688500000001,19.152558],[77.99697999999999,19.152557],[77.996982,19.152647],[77.99717200000001,19.152644],[77.997173,19.152734],[77.99736300000001,19.152731]]],"type":"Polygon"}
 }
