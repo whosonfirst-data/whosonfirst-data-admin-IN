@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.96763,24.48054,87.96763,24.48054",
-    "geom:latitude":24.48054,
-    "geom:longitude":87.96763,
+    "geom:bbox":"87.966878,24.479796,87.968261,24.480703",
+    "geom:latitude":24.480292,
+    "geom:longitude":87.967492,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"333.0",
     "gn:asciiname":"Kalinagar",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.94763,24.46054,87.98763,24.50054",
+    "ks:ks_alt_nam":"K\u0101linagar",
+    "ks:ks_id":"KS6A326E3EB86E4E6DB0A64A2AEF4303E3",
+    "ks:ks_name":"Kalinagar",
+    "ks:ks_pop":183,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13517726",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1199689",
+    "lbl:latitude":24.480289,
+    "lbl:longitude":87.967479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.480289,
+    "mps:longitude":87.967479,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b2\u09bf\u09a8\u0997\u09b0"
     ],
     "name:ceb_x_preferred":[
         "K\u0101l\u012bnagar"
+    ],
+    "name:eng_x_preferred":[
+        "Kalinagar"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101linagar"
     ],
     "name:ita_x_preferred":[
         "Kalinagar"
@@ -69,16 +86,26 @@
     "name:zho_x_preferred":[
         "\u5361\u5229\u7eb3\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11018930
+        "gn:id":11018930,
+        "ks:id":"KS6A326E3EB86E4E6DB0A64A2AEF4303E3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d6ed5664edaed1b5b2e6c84589e47ca8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f6f981f4f96d28735b4565f829bff8d0",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1209562495,
-    "wof:lastmodified":1566696389,
+    "wof:lastmodified":1680662335,
     "wof:name":"Kalinagar",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.96763,
-    24.48054,
-    87.96763,
-    24.48054
+    87.966878,
+    24.479796,
+    87.968261,
+    24.480703
 ],
-  "geometry": {"coordinates":[87.96763,24.48054],"type":"Point"}
+  "geometry": {"coordinates":[[[87.967868,24.480698],[87.967867,24.480608],[87.968163,24.480606],[87.968163,24.480516],[87.968261,24.480515],[87.968261,24.480425],[87.96816200000001,24.480426],[87.96816099999999,24.480335],[87.968063,24.480336],[87.968062,24.480246],[87.967963,24.480246],[87.967962,24.480156],[87.96786400000001,24.480157],[87.967862,24.479886],[87.96776300000001,24.479886],[87.96776199999999,24.479796],[87.96717,24.4798],[87.96717099999999,24.47989],[87.967072,24.479891],[87.967074,24.480071],[87.96697500000001,24.480072],[87.966976,24.480253],[87.96687799999999,24.480253],[87.966881,24.480614],[87.967078,24.480613],[87.967079,24.480703],[87.967868,24.480698]]],"type":"Polygon"}
 }

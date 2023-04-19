@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.31197,32.13971,75.31197,32.13971",
-    "geom:latitude":32.13971,
-    "geom:longitude":75.31197,
+    "geom:bbox":"75.309679,32.13845,75.310741,32.139353",
+    "geom:latitude":32.138902,
+    "geom:longitude":75.310232,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Chakri",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.29197,32.11971,75.33197,32.15971",
+    "ks:ks_id":"KS96E1CBD5A3AB4BD8BB71572FF13AC276",
+    "ks:ks_name":"Chakri",
+    "ks:ks_pop":98,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0301000300046000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2709065",
+    "lbl:latitude":32.138902,
+    "lbl:longitude":75.310232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.138902,
+    "mps:longitude":75.310232,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
+        "Chakri"
+    ],
+    "name:eng_x_preferred":[
         "Chakri"
     ],
     "name:rus_x_preferred":[
@@ -39,7 +52,13 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e01\u0e23\u0e35"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10681921
+        "gn:id":10681921,
+        "ks:id":"KS96E1CBD5A3AB4BD8BB71572FF13AC276"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ac3e37b375d6d06bf96d50fcb9bd948f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2b9289340d7a109bab091a52bd3bf178",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1209573627,
-    "wof:lastmodified":1574199207,
+    "wof:lastmodified":1680661963,
     "wof:name":"Chakri",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.31197,
-    32.13971,
-    75.31197,
-    32.13971
+    75.309679,
+    32.13845,
+    75.310741,
+    32.139353
 ],
-  "geometry": {"coordinates":[75.31197,32.13971],"type":"Point"}
+  "geometry": {"coordinates":[[[75.31053,32.139352],[75.31053,32.139262],[75.310636,32.139261],[75.310635,32.139171],[75.31074099999999,32.139171],[75.31074,32.13872],[75.31063399999999,32.13872],[75.31063399999999,32.13863],[75.31052800000001,32.13863],[75.31052699999999,32.13854],[75.310315,32.138541],[75.310315,32.13845],[75.30989099999999,32.138451],[75.30989099999999,32.138542],[75.30978500000001,32.138542],[75.30978500000001,32.138632],[75.309679,32.138632],[75.30968,32.138813],[75.309786,32.138812],[75.309787,32.139083],[75.309893,32.139083],[75.309893,32.139263],[75.31,32.139263],[75.31,32.139353],[75.31053,32.139352]]],"type":"Polygon"}
 }
