@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.95041,22.6271,76.95041,22.6271",
-    "geom:latitude":22.6271,
-    "geom:longitude":76.95041,
+    "geom:bbox":"76.949176,22.626386,76.951418,22.627657",
+    "geom:latitude":22.627042,
+    "geom:longitude":76.950219,
     "gn:admin1_code":"35",
     "gn:admin2_code":"437.0",
     "gn:asciiname":"Panda",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.93041,22.6071,76.97041,22.6471",
+    "ks:ks_alt_nam":"P\u0101nda",
+    "ks:ks_id":"KSCD3893044DF74D288397AE0164CAA98B",
+    "ks:ks_name":"Panda",
+    "ks:ks_pop":310,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|815735",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_888272",
+    "lbl:latitude":22.627062,
+    "lbl:longitude":76.95031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.627062,
+    "mps:longitude":76.95031,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u062f\u0627"
@@ -44,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Panda"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101nda"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0646\u062f\u0627"
@@ -108,7 +122,13 @@
     "name:zho_tw_x_preferred":[
         "\u6f58\u9054"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10491150
+        "gn:id":10491150,
+        "ks:id":"KSCD3893044DF74D288397AE0164CAA98B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a27ef22a921443e4b348e1b51ce321e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"be405147d32121780f2f07a293a3ef25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +155,22 @@
         }
     ],
     "wof:id":1226703163,
-    "wof:lastmodified":1636505958,
+    "wof:lastmodified":1680678475,
     "wof:name":"Panda",
     "wof:parent_id":1108696223,
     "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.95041,
-    22.6271,
-    76.95041,
-    22.6271
+    76.949176,
+    22.626386,
+    76.951418,
+    22.627657
 ],
-  "geometry": {"coordinates":[76.95041000000001,22.6271],"type":"Point"}
+  "geometry": {"coordinates":[[[76.950744,22.627644],[76.950743,22.627554],[76.95093799999999,22.627551],[76.950936,22.627461],[76.95103400000001,22.62746],[76.951032,22.62737],[76.951227,22.627367],[76.95122600000001,22.627277],[76.951323,22.627276],[76.95132,22.627095],[76.951418,22.627094],[76.95141599999999,22.627004],[76.951319,22.627005],[76.95131600000001,22.626824],[76.95121899999999,22.626826],[76.951218,22.626735],[76.951121,22.626737],[76.95111900000001,22.626646],[76.95102199999999,22.626647],[76.951021,22.626557],[76.95082600000001,22.62656],[76.95082499999999,22.626469],[76.950242,22.626476],[76.95023999999999,22.626386],[76.949754,22.626392],[76.949755,22.626482],[76.949561,22.626485],[76.949562,22.626575],[76.949367,22.626577],[76.949369,22.626668],[76.94927199999999,22.626669],[76.94927300000001,22.626759],[76.94917599999999,22.62676],[76.949184,22.627392],[76.949282,22.627391],[76.94928299999999,22.627481],[76.949477,22.627479],[76.949479,22.627569],[76.949673,22.627567],[76.949675,22.627657],[76.950744,22.627644]]],"type":"Polygon"}
 }

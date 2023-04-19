@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.31848,20.17865,78.31848,20.17865",
-    "geom:latitude":20.17865,
-    "geom:longitude":78.31848,
+    "geom:bbox":"78.314065,20.177427,78.3158,20.179233",
+    "geom:latitude":20.178353,
+    "geom:longitude":78.314939,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Karmana",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.29848,20.15865,78.33848,20.19865",
+    "ks:ks_id":"KSA2675BA3ED52482A825D82A9AA9FDE32",
+    "ks:ks_name":"Karmana",
+    "ks:ks_pop":677,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|515758",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_869613",
+    "lbl:latitude":20.178372,
+    "lbl:longitude":78.314939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.178372,
+    "mps:longitude":78.314939,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0645\u0646\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Karmana"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0435\u0440\u043c\u0438\u043d\u0435"
@@ -60,7 +73,13 @@
     "name:uzb_x_preferred":[
         "Karmana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453560
+        "gn:id":10453560,
+        "ks:id":"KSA2675BA3ED52482A825D82A9AA9FDE32"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8a2a8cc0ef80cd51e97721e69756b657",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b10cabfc049a50413bc3cebc1a23c570",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1226722043,
-    "wof:lastmodified":1566710877,
+    "wof:lastmodified":1680677032,
     "wof:name":"Karmana",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":677,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.31848000000002,
-    20.17865,
-    78.31848000000002,
-    20.17865
+    78.314065,
+    20.177427,
+    78.3158,
+    20.179233
 ],
-  "geometry": {"coordinates":[78.31848000000002,20.17865],"type":"Point"}
+  "geometry": {"coordinates":[[[78.31520500000001,20.179233],[78.315206,20.179143],[78.315398,20.179146],[78.315399,20.179056],[78.315495,20.179057],[78.315496,20.178967],[78.315592,20.178968],[78.315595,20.178788],[78.315691,20.178789],[78.31569399999999,20.178609],[78.315789,20.17861],[78.3158,20.177978],[78.31570499999999,20.177977],[78.315709,20.177706],[78.315614,20.177705],[78.31561499999999,20.177614],[78.31552000000001,20.177613],[78.315521,20.177523],[78.315426,20.177521],[78.315427,20.177431],[78.31514,20.177427],[78.315139,20.177517],[78.314756,20.177511],[78.31475500000001,20.177601],[78.314564,20.177598],[78.314562,20.177689],[78.31437099999999,20.177686],[78.314369,20.177776],[78.314274,20.177775],[78.314272,20.177865],[78.314177,20.177863],[78.31417500000001,20.177954],[78.31407900000001,20.177952],[78.314065,20.178765],[78.314161,20.178766],[78.31415800000001,20.178947],[78.31425400000001,20.178948],[78.314252,20.179038],[78.314348,20.17904],[78.314346,20.17913],[78.314537,20.179133],[78.314536,20.179223],[78.31520500000001,20.179233]]],"type":"Polygon"}
 }
