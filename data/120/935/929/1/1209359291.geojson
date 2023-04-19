@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.45425,23.14619,79.45425,23.14619",
-    "geom:latitude":23.14619,
-    "geom:longitude":79.45425,
+    "geom:bbox":"79.453468,23.145394,79.455423,23.147206",
+    "geom:latitude":23.146281,
+    "geom:longitude":79.454398,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Biharipura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.43425,23.12619,79.47425,23.16619",
+    "ks:ks_id":"KS60E176E5D2314C2DA5E53FC8DEC6152A",
+    "ks:ks_name":"Biharipura",
+    "ks:ks_pop":329,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2339000204639300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_922436",
+    "lbl:latitude":23.146291,
+    "lbl:longitude":79.454417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.146291,
+    "mps:longitude":79.454417,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0647\u0627\u0631\u064a\u0628\u0648\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09bf\u09b9\u09be\u09b0\u09c0\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Biharipura"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab9\u0abe\u0ab0\u0ac0\u0aaa\u0ac1\u0ab0\u0abe"
@@ -66,16 +79,26 @@
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u0631\u06cc \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10541350
+        "gn:id":10541350,
+        "ks:id":"KS60E176E5D2314C2DA5E53FC8DEC6152A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"26996513afb16f5879971e6d6f13fa87",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"31c4c803a0dbc4efa1a2faa4986d96cb",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1209359291,
-    "wof:lastmodified":1577750921,
+    "wof:lastmodified":1680662193,
     "wof:name":"Biharipura",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.45425,
-    23.14619,
-    79.45425,
-    23.14619
+    79.453468,
+    23.145394,
+    79.455423,
+    23.147206
 ],
-  "geometry": {"coordinates":[79.45425,23.14619],"type":"Point"}
+  "geometry": {"coordinates":[[[79.454531,23.147206],[79.454532,23.147115],[79.454825,23.147118],[79.454826,23.147028],[79.455021,23.14703],[79.45502399999999,23.146759],[79.455122,23.14676],[79.455124,23.146579],[79.45522099999999,23.14658],[79.455225,23.146309],[79.455322,23.14631],[79.45532300000001,23.14622],[79.455421,23.146221],[79.455423,23.14604],[79.455325,23.146039],[79.455327,23.145859],[79.45523,23.145858],[79.455231,23.145767],[79.455133,23.145767],[79.455134,23.145676],[79.454939,23.145674],[79.45493999999999,23.145584],[79.45464699999999,23.145581],[79.45464800000001,23.145491],[79.45435500000001,23.145488],[79.454356,23.145398],[79.453965,23.145394],[79.453964,23.145484],[79.45376899999999,23.145482],[79.453768,23.145573],[79.45367,23.145572],[79.45366799999999,23.145752],[79.453571,23.145751],[79.453568,23.146022],[79.45347,23.146021],[79.453468,23.146202],[79.453566,23.146203],[79.45356200000001,23.146474],[79.45366,23.146475],[79.45365700000001,23.146745],[79.453755,23.146746],[79.45375300000001,23.146927],[79.45385,23.146928],[79.45384799999999,23.147109],[79.454043,23.147111],[79.454042,23.147201],[79.454531,23.147206]]],"type":"Polygon"}
 }

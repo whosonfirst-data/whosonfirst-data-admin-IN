@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.4818,24.69262,84.4818,24.69262",
-    "geom:latitude":24.69262,
-    "geom:longitude":84.4818,
+    "geom:bbox":"84.480623,24.691899,84.482509,24.693246",
+    "geom:latitude":24.692552,
+    "geom:longitude":84.481618,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Darbhanga",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.4618,24.67262,84.5018,24.71262",
+    "ks:ks_alt_nam":"Darbhang\u0101",
+    "ks:ks_id":"KSB76FEBCF17664C5A8FE5D1EBF565CF81",
+    "ks:ks_name":"Darbhanga",
+    "ks:ks_pop":766,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|250467",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1050367",
+    "lbl:latitude":24.692599,
+    "lbl:longitude":84.481506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.692599,
+    "mps:longitude":84.481506,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0628\u0647\u0627\u0646\u062c\u0627"
@@ -65,6 +76,12 @@
     ],
     "name:deu_x_preferred":[
         "Darbhanga"
+    ],
+    "name:eng_x_preferred":[
+        "Darbhanga"
+    ],
+    "name:eng_x_variant":[
+        "Darbhang\u0101"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0628\u0646\u06af\u0627"
@@ -180,16 +197,26 @@
     "name:zho_x_preferred":[
         "\u8fbe\u5c14\u90a6\u683c\u963f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10980226
+        "gn:id":10980226,
+        "ks:id":"KSB76FEBCF17664C5A8FE5D1EBF565CF81"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4ee4f6a94a4833bf7ebc7eb2f97ae9ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"49aa4f759731f496e0cb061121cb323e",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -197,20 +224,22 @@
         }
     ],
     "wof:id":1209355485,
-    "wof:lastmodified":1577750923,
+    "wof:lastmodified":1680662201,
     "wof:name":"Darbhanga",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":766,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.4818,
-    24.69262,
-    84.4818,
-    24.69262
+    84.480623,
+    24.691899,
+    84.482509,
+    24.693246
 ],
-  "geometry": {"coordinates":[84.48180000000001,24.69262],"type":"Point"}
+  "geometry": {"coordinates":[[[84.481701,24.693246],[84.481701,24.692977],[84.48250899999999,24.692977],[84.48250899999999,24.691899],[84.481701,24.691899],[84.481701,24.692168],[84.48062299999999,24.692168],[84.48062299999999,24.692977],[84.481162,24.692977],[84.481162,24.693246],[84.481701,24.693246]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.56455,23.27726,78.56455,23.27726",
-    "geom:latitude":23.27726,
-    "geom:longitude":78.56455,
+    "geom:bbox":"78.5643,23.276528,78.565479,23.277527",
+    "geom:latitude":23.277138,
+    "geom:longitude":78.564923,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Birpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.54455,23.25726,78.58455,23.29726",
+    "ks:ks_alt_nam":"B\u012brpur",
+    "ks:ks_id":"KS4DECD8C4E3BE4C31B926AF3E14BBFE70",
+    "ks:ks_name":"Birpur",
+    "ks:ks_pop":228,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|167887",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_923415",
+    "lbl:latitude":23.277161,
+    "lbl:longitude":78.564993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.277161,
+    "mps:longitude":78.564993,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c0\u09b0\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Birpur"
+    ],
+    "name:eng_x_variant":[
+        "B\u012brpur"
     ],
     "name:ita_x_preferred":[
         "Birpur"
@@ -63,16 +80,26 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192590
+        "gn:id":10192590,
+        "ks:id":"KS4DECD8C4E3BE4C31B926AF3E14BBFE70"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5422e7bacb67d1fcccc756ae6ab89891",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c3aad5f5411f4b20cf9f212f169faac",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -80,20 +107,22 @@
         }
     ],
     "wof:id":1209368081,
-    "wof:lastmodified":1566694482,
+    "wof:lastmodified":1680661016,
     "wof:name":"Birpur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.56455,
-    23.27726,
-    78.56455,
-    23.27726
+    78.5643,
+    23.276528,
+    78.565479,
+    23.277527
 ],
-  "geometry": {"coordinates":[78.56455,23.27726],"type":"Point"}
+  "geometry": {"coordinates":[[[78.565276,23.277527],[78.565279,23.277347],[78.56547399999999,23.27735],[78.565479,23.277079],[78.565382,23.277077],[78.565387,23.276807],[78.56528900000001,23.276805],[78.56529,23.276715],[78.565095,23.276712],[78.56509699999999,23.276622],[78.564999,23.27662],[78.565001,23.27653],[78.564903,23.276528],[78.56489999999999,23.276709],[78.564802,23.276707],[78.56479899999999,23.276888],[78.564701,23.276886],[78.564699,23.276977],[78.564504,23.276973],[78.564502,23.277064],[78.564307,23.277061],[78.5643,23.277422],[78.56449600000001,23.277425],[78.564494,23.277515],[78.565276,23.277527]]],"type":"Polygon"}
 }

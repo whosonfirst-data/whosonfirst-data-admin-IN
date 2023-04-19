@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.54833,22.74214,76.54833,22.74214",
-    "geom:latitude":22.74214,
-    "geom:longitude":76.54833,
+    "geom:bbox":"76.546944,22.741587,76.549481,22.742761",
+    "geom:latitude":22.742113,
+    "geom:longitude":76.548325,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"437.0",
     "gn:asciiname":"Kheri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.52833,22.72214,76.56833,22.76214",
+    "ks:ks_id":"KS8CEC7A9BC96E4C22A8E1F984625B11D7",
+    "ks:ks_name":"Kheri",
+    "ks:ks_pop":1685,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|555503",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_889728",
+    "lbl:latitude":22.742216,
+    "lbl:longitude":76.548555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.742216,
+    "mps:longitude":76.548555,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u064a"
@@ -46,6 +56,9 @@
         "Kheri"
     ],
     "name:ceb_x_preferred":[
+        "Kheri"
+    ],
+    "name:eng_x_preferred":[
         "Kheri"
     ],
     "name:guj_x_preferred":[
@@ -105,16 +118,26 @@
     "name:vie_x_preferred":[
         "Kheri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10839194
+        "gn:id":10839194,
+        "ks:id":"KS8CEC7A9BC96E4C22A8E1F984625B11D7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1dc22c9d1a3536c7c59f6cbb1c97526e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4b9e70e267cd6a4e8a9f228322019719",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1209368129,
-    "wof:lastmodified":1577750688,
+    "wof:lastmodified":1680661010,
     "wof:name":"Kheri",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":1685,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.54833,
-    22.74214,
-    76.54833,
-    22.74214
+    76.546944,
+    22.741587,
+    76.549481,
+    22.742761
 ],
-  "geometry": {"coordinates":[76.54833000000001,22.74214],"type":"Point"}
+  "geometry": {"coordinates":[[[76.549098,22.742753],[76.549097,22.742663],[76.549194,22.742662],[76.549193,22.742571],[76.549291,22.742571],[76.54929,22.74248],[76.549387,22.742479],[76.549384,22.742208],[76.549481,22.742207],[76.54947900000001,22.742027],[76.54938199999999,22.742028],[76.549381,22.741937],[76.549284,22.741938],[76.549283,22.741848],[76.548991,22.741851],[76.54899,22.741761],[76.548697,22.741763],[76.54869600000001,22.741673],[76.54830699999999,22.741677],[76.548306,22.741587],[76.54743000000001,22.741595],[76.547431,22.741685],[76.546944,22.74169],[76.546948,22.742051],[76.54714300000001,22.742049],[76.547144,22.74214],[76.547241,22.742139],[76.547242,22.742229],[76.547437,22.742227],[76.547436,22.742137],[76.54772800000001,22.742134],[76.547729,22.742224],[76.54792399999999,22.742223],[76.54792500000001,22.742313],[76.548022,22.742312],[76.548024,22.742492],[76.54812099999999,22.742492],[76.54812200000001,22.742582],[76.54822,22.742581],[76.548221,22.742671],[76.54831799999999,22.74267],[76.54831900000001,22.742761],[76.549098,22.742753]]],"type":"Polygon"}
 }

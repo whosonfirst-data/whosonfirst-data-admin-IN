@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.64216,27.06955,79.64216,27.06955",
-    "geom:latitude":27.06955,
-    "geom:longitude":79.64216,
+    "geom:bbox":"79.64115,27.068349,79.64377,27.070151",
+    "geom:latitude":27.069285,
+    "geom:longitude":79.642413,
     "gn:admin1_code":"36",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Mandala",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.62216,27.04955,79.66216,27.08955",
+    "ks:ks_id":"KS4E17555B7DF040F09ECFE8EB1E88B383",
+    "ks:ks_name":"Mundala",
+    "ks:ks_pop":772,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|724829",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1889548",
+    "lbl:latitude":27.069209,
+    "lbl:longitude":79.642519,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.069209,
+    "mps:longitude":79.642519,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0627\u0644\u0627"
@@ -58,6 +68,12 @@
         "Mandala"
     ],
     "name:deu_x_preferred":[
+        "Mandala"
+    ],
+    "name:eng_x_preferred":[
+        "Mundala"
+    ],
+    "name:eng_x_variant":[
         "Mandala"
     ],
     "name:epo_x_preferred":[
@@ -174,16 +190,26 @@
     "name:zho_x_preferred":[
         "\u66fc\u837c\u7f85"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10475840
+        "gn:id":10475840,
+        "ks:id":"KS4E17555B7DF040F09ECFE8EB1E88B383"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6160034b5ea033eaed66de2f0f33d27e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"63282ac3c7edc65be5a5015b28389cbc",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -191,20 +217,22 @@
         }
     ],
     "wof:id":1209367047,
-    "wof:lastmodified":1566694468,
-    "wof:name":"Mandala",
+    "wof:lastmodified":1680661007,
+    "wof:name":"Mundala",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":772,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.64216,
-    27.06955,
-    79.64216,
-    27.06955
+    79.64115,
+    27.068349,
+    79.64377,
+    27.070151
 ],
-  "geometry": {"coordinates":[79.64216,27.06955],"type":"Point"}
+  "geometry": {"coordinates":[[[79.641948,27.070151],[79.641949,27.070061],[79.643461,27.070075],[79.643462,27.069985],[79.643765,27.069988],[79.64377,27.069537],[79.643669,27.069536],[79.643674,27.069175],[79.643573,27.069174],[79.643574,27.069083],[79.643473,27.069082],[79.64347600000001,27.068812],[79.643376,27.068811],[79.643377,27.06872],[79.643276,27.068719],[79.643277,27.068629],[79.643176,27.068628],[79.64317699999999,27.068538],[79.64307599999999,27.068537],[79.64307700000001,27.068447],[79.642876,27.068445],[79.642877,27.068354],[79.64227200000001,27.068349],[79.64227099999999,27.068439],[79.641565,27.068432],[79.641564,27.068522],[79.641463,27.068521],[79.641462,27.068612],[79.641361,27.068611],[79.64136000000001,27.068701],[79.64125900000001,27.0687],[79.641257,27.06888],[79.641156,27.068879],[79.64115,27.069421],[79.641251,27.069422],[79.641244,27.069964],[79.641446,27.069966],[79.641445,27.070056],[79.641747,27.070059],[79.641746,27.070149],[79.641948,27.070151]]],"type":"Polygon"}
 }

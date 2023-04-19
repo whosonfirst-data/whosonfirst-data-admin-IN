@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.09763,27.6949,80.09763,27.6949",
-    "geom:latitude":27.6949,
-    "geom:longitude":80.09763,
+    "geom:bbox":"80.09622,27.69409,80.098859,27.695357",
+    "geom:latitude":27.69474,
+    "geom:longitude":80.097653,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Birpur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.07763,27.6749,80.11763,27.7149",
+    "ks:ks_id":"KS6F4F954CA5BD442289290BAC366CEDDE",
+    "ks:ks_name":"Bir Pur",
+    "ks:ks_pop":198,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|166340",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2009698",
+    "lbl:latitude":27.694766,
+    "lbl:longitude":80.097546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.694766,
+    "mps:longitude":80.097546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c0\u09b0\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Pur"
+    ],
+    "name:eng_x_variant":[
+        "Birpur"
     ],
     "name:ita_x_preferred":[
         "Birpur"
@@ -63,16 +79,26 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11061870
+        "gn:id":11061870,
+        "ks:id":"KS6F4F954CA5BD442289290BAC366CEDDE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"154bcad632f4fcea953c3b79cf81e87c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7ecb9cfb790a378a9d180d6554bd4c1e",
     "wof:hierarchy":[
         {
             "country_id":85632469,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1209358515,
-    "wof:lastmodified":1566696125,
-    "wof:name":"Birpur",
+    "wof:lastmodified":1680662149,
+    "wof:name":"Bir Pur",
     "wof:parent_id":85632469,
     "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.09763000000002,
-    27.6949,
-    80.09763000000002,
-    27.6949
+    80.09622,
+    27.69409,
+    80.098859,
+    27.695357
 ],
-  "geometry": {"coordinates":[80.09763000000002,27.6949],"type":"Point"}
+  "geometry": {"coordinates":[[[80.098142,27.695357],[80.09814299999999,27.695266],[80.09844699999999,27.695268],[80.098448,27.695178],[80.09854900000001,27.695179],[80.09855,27.695089],[80.098652,27.695089],[80.098653,27.694909],[80.098755,27.694909],[80.098755,27.694819],[80.098857,27.69482],[80.098859,27.694549],[80.09875700000001,27.694548],[80.098758,27.694458],[80.098555,27.694457],[80.098556,27.694366],[80.098455,27.694366],[80.098455,27.694276],[80.098354,27.694275],[80.098355,27.694185],[80.098152,27.694183],[80.098153,27.694093],[80.097646,27.69409],[80.097645,27.69418],[80.097239,27.694177],[80.097239,27.694268],[80.096934,27.694266],[80.096934,27.694356],[80.09683200000001,27.694355],[80.09683099999999,27.694445],[80.09652699999999,27.694444],[80.096526,27.694534],[80.096324,27.694532],[80.096323,27.694623],[80.096222,27.694622],[80.09622,27.694803],[80.096524,27.694805],[80.096524,27.694895],[80.096726,27.694896],[80.096726,27.694986],[80.096827,27.694987],[80.09682599999999,27.695077],[80.09692800000001,27.695078],[80.096926,27.695259],[80.097129,27.69526],[80.097128,27.69535],[80.098142,27.695357]]],"type":"Polygon"}
 }
