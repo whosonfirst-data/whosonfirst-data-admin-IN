@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.08768,24.19204,78.08768,24.19204",
-    "geom:latitude":24.19204,
-    "geom:longitude":78.08768,
+    "geom:bbox":"78.087043,24.189785,78.08896,24.193135",
+    "geom:latitude":24.191492,
+    "geom:longitude":78.087997,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"443",
     "gn:asciiname":"Madal",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.06768,24.17204,78.10768,24.21204",
+    "ks:ks_id":"KSF160A874EB6C48DA8B9DA378F3D52FFF",
+    "ks:ks_name":"Modal",
+    "ks:ks_pop":548,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|707664",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_931942",
+    "lbl:latitude":24.191505,
+    "lbl:longitude":78.087997,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.191505,
+    "mps:longitude":78.087997,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
+        "Madal"
+    ],
+    "name:eng_x_preferred":[
+        "Modal"
+    ],
+    "name:eng_x_variant":[
         "Madal"
     ],
     "name:nep_x_preferred":[
@@ -39,7 +55,13 @@
     "name:spa_x_preferred":[
         "Madal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6990529
+        "gn:id":6990529,
+        "ks:id":"KSF160A874EB6C48DA8B9DA378F3D52FFF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"125fc6977040c438409da620c5f4c278",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b9006c6109a937995208e8650e88a58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1243407547,
-    "wof:lastmodified":1566706828,
-    "wof:name":"Madal",
+    "wof:lastmodified":1680671350,
+    "wof:name":"Modal",
     "wof:parent_id":1108696231,
     "wof:placetype":"locality",
+    "wof:population":548,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.08768,
-    24.19204,
-    78.08768,
-    24.19204
+    78.087043,
+    24.189785,
+    78.08896,
+    24.193135
 ],
-  "geometry": {"coordinates":[78.08768000000001,24.19204],"type":"Point"}
+  "geometry": {"coordinates":[[[78.08830500000001,24.193135],[78.088307,24.193045],[78.08860199999999,24.193051],[78.088604,24.192961],[78.088702,24.192963],[78.08870400000001,24.192872],[78.088802,24.192874],[78.088848,24.19089],[78.08894600000001,24.190892],[78.08896,24.19026],[78.08886200000001,24.190258],[78.088864,24.190168],[78.08876600000001,24.190166],[78.088768,24.190076],[78.088669,24.190074],[78.08867100000001,24.189984],[78.088573,24.189982],[78.08857500000001,24.189892],[78.08788699999999,24.189879],[78.087889,24.189789],[78.087692,24.189785],[78.08768999999999,24.189875],[78.08749299999999,24.189871],[78.087491,24.189961],[78.08739300000001,24.18996],[78.087389,24.19014],[78.08729099999999,24.190138],[78.08728600000001,24.190318],[78.087188,24.190317],[78.08716099999999,24.191489],[78.087063,24.191487],[78.08704299999999,24.192389],[78.087141,24.192391],[78.08713299999999,24.192752],[78.087231,24.192754],[78.087227,24.192934],[78.08732500000001,24.192936],[78.087323,24.193026],[78.08752,24.19303],[78.087518,24.19312],[78.08830500000001,24.193135]]],"type":"Polygon"}
 }

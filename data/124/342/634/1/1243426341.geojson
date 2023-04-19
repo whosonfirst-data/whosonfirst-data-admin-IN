@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.12357,20.02872,79.12357,20.02872",
-    "geom:latitude":20.02872,
-    "geom:longitude":79.12357,
+    "geom:bbox":"79.122066,20.027753,79.124556,20.029476",
+    "geom:latitude":20.028598,
+    "geom:longitude":79.12327,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Kochi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.10357,20.00872,79.14357,20.04872",
+    "ks:ks_id":"KS0D2D5A24E3344D90BCEF2DD931AB9302",
+    "ks:ks_name":"Kochi",
+    "ks:ks_pop":464,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|567996",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_566516",
+    "lbl:latitude":20.028573,
+    "lbl:longitude":79.123371,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.028573,
+    "mps:longitude":79.123371,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0634\u064a"
@@ -80,6 +90,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c4\u03c3\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Kochi"
     ],
     "name:epo_x_preferred":[
         "Ko\u0109i"
@@ -255,7 +268,13 @@
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10e9\u10d8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -264,10 +283,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10574547
+        "gn:id":10574547,
+        "ks:id":"KS0D2D5A24E3344D90BCEF2DD931AB9302"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e2c8b173dbbeece72056428c2aa15e6d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5038964c90e29360e7a7747dc4aedb57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -278,20 +301,22 @@
         }
     ],
     "wof:id":1243426341,
-    "wof:lastmodified":1576022442,
+    "wof:lastmodified":1680672288,
     "wof:name":"Kochi",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.12357,
-    20.02872,
-    79.12357,
-    20.02872
+    79.122066,
+    20.027753,
+    79.124556,
+    20.029476
 ],
-  "geometry": {"coordinates":[79.12357,20.02872],"type":"Point"}
+  "geometry": {"coordinates":[[[79.1233,20.029476],[79.123301,20.029385],[79.124065,20.029394],[79.124066,20.029303],[79.124257,20.029305],[79.124259,20.029215],[79.124354,20.029216],[79.124358,20.028855],[79.124454,20.028856],[79.124458,20.028494],[79.124554,20.028495],[79.124556,20.028315],[79.12446,20.028314],[79.12446300000001,20.028133],[79.12436700000001,20.028132],[79.124368,20.028042],[79.124272,20.028041],[79.124274,20.027951],[79.124178,20.02795],[79.124179,20.027859],[79.123892,20.027856],[79.123893,20.027766],[79.122651,20.027753],[79.12264999999999,20.027843],[79.12236300000001,20.02784],[79.122362,20.02793],[79.12226699999999,20.027929],[79.122266,20.02802],[79.12217,20.028019],[79.122168,20.028199],[79.122072,20.028198],[79.122066,20.02874],[79.122162,20.028741],[79.122158,20.029012],[79.122254,20.029013],[79.12225100000001,20.029284],[79.12234599999999,20.029285],[79.122345,20.029375],[79.122536,20.029377],[79.122535,20.029468],[79.1233,20.029476]]],"type":"Polygon"}
 }
