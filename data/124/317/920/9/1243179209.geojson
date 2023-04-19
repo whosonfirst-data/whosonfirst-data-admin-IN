@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"94.16358,26.92225,94.16358,26.92225",
-    "geom:latitude":26.92225,
-    "geom:longitude":94.16358,
+    "geom:bbox":"94.162216,26.91981,94.163294,26.920619",
+    "geom:latitude":26.92019,
+    "geom:longitude":94.162718,
     "gn:admin1_code":"3.0",
     "gn:admin2_code":"312",
     "gn:asciiname":"Bamungaon",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"94.14358,26.90225,94.18358,26.94225",
+    "ks:ks_id":"KS189150B7032A45798417236FA1D4FBE2",
+    "ks:ks_name":"Bamungaon",
+    "ks:ks_pop":400,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|85959",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1962952",
+    "lbl:latitude":26.920215,
+    "lbl:longitude":94.162647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.920215,
+    "mps:longitude":94.162647,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bamungaon"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1277432
+        "gn:id":1277432,
+        "ks:id":"KS189150B7032A45798417236FA1D4FBE2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9ba93d90444a82afa30d9773e14deafd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"91b6d59253f0ba59fc6d722b2589a140",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243179209,
-    "wof:lastmodified":1566708499,
+    "wof:lastmodified":1680672311,
     "wof:name":"Bamungaon",
     "wof:parent_id":890511181,
     "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    94.16358,
-    26.92225,
-    94.16358,
-    26.92225
+    94.162216,
+    26.91981,
+    94.163294,
+    26.920619
 ],
-  "geometry": {"coordinates":[94.16358,26.92225],"type":"Point"}
+  "geometry": {"coordinates":[[[94.163025,26.920619],[94.163025,26.920349],[94.16329399999999,26.920349],[94.16329399999999,26.91981],[94.162216,26.91981],[94.162216,26.920619],[94.163025,26.920619]]],"type":"Polygon"}
 }

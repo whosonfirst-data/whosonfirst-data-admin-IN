@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.03918,13.16851,77.03918,13.16851",
-    "geom:latitude":13.16851,
-    "geom:longitude":77.03918,
+    "geom:bbox":"77.039027,13.166992,77.040687,13.168982",
+    "geom:latitude":13.168033,
+    "geom:longitude":77.039933,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"571.0",
     "gn:asciiname":"Kalyanpur",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.01918,13.14851,77.05918,13.18851",
+    "ks:ks_id":"KS055E4EBC94314C67B8D72AB13BF4B8AE",
+    "ks:ks_name":"Kalyanapura",
+    "ks:ks_pop":1023,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|493866",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_270381",
+    "lbl:latitude":13.16818,
+    "lbl:longitude":77.039949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.16818,
+    "mps:longitude":77.039949,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Kalyanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kalyanapura"
+    ],
+    "name:eng_x_variant":[
         "Kalyanpur"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +61,13 @@
     "name:swe_x_preferred":[
         "Kalyanpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10851918
+        "gn:id":10851918,
+        "ks:id":"KS055E4EBC94314C67B8D72AB13BF4B8AE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"878182643105cb0b31c35ab32e792b58",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8027af6855d2893e7485a9882b0956e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +94,22 @@
         }
     ],
     "wof:id":1243134123,
-    "wof:lastmodified":1566706906,
-    "wof:name":"Kalyanpur",
+    "wof:lastmodified":1680671396,
+    "wof:name":"Kalyanapura",
     "wof:parent_id":890508363,
     "wof:placetype":"locality",
+    "wof:population":1023,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.03918,
-    13.16851,
-    77.03918,
-    13.16851
+    77.039027,
+    13.166992,
+    77.040687,
+    13.168982
 ],
-  "geometry": {"coordinates":[77.03918,13.16851],"type":"Point"}
+  "geometry": {"coordinates":[[[77.040325,13.168979],[77.040324,13.168889],[77.040509,13.168888],[77.04050599999999,13.168526],[77.040598,13.168525],[77.040594,13.168074],[77.04068700000001,13.168073],[77.040684,13.167802],[77.040592,13.167803],[77.04058999999999,13.167531],[77.040498,13.167532],[77.040496,13.167351],[77.040404,13.167352],[77.040402,13.167171],[77.04031000000001,13.167172],[77.04031000000001,13.167082],[77.040217,13.167082],[77.040217,13.166992],[77.039755,13.166996],[77.039756,13.167086],[77.039664,13.167087],[77.039665,13.167177],[77.039573,13.167178],[77.039574,13.167359],[77.03948200000001,13.167359],[77.039485,13.167721],[77.039393,13.167722],[77.039393,13.167812],[77.03930099999999,13.167813],[77.03930200000001,13.167903],[77.03921,13.167904],[77.03921,13.167994],[77.039118,13.167995],[77.039119,13.168085],[77.039027,13.168086],[77.039029,13.168357],[77.03912099999999,13.168356],[77.039123,13.168537],[77.039215,13.168536],[77.039216,13.168627],[77.03930800000001,13.168626],[77.039309,13.168716],[77.03949299999999,13.168715],[77.039494,13.168805],[77.03977,13.168803],[77.039771,13.168894],[77.040048,13.168891],[77.040049,13.168982],[77.040325,13.168979]]],"type":"Polygon"}
 }

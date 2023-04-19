@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.3142,13.48649,75.3142,13.48649",
-    "geom:latitude":13.48649,
-    "geom:longitude":75.3142,
+    "geom:bbox":"75.309416,13.485342,75.310341,13.487059",
+    "geom:latitude":13.486137,
+    "geom:longitude":75.309905,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"570.0",
     "gn:asciiname":"Kote",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.2942,13.46649,75.3342,13.50649",
+    "ks:ks_id":"KSE78233FAD6174EA4958029F03E06F56C",
+    "ks:ks_name":"Kote",
+    "ks:ks_pop":246,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|583354",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_277585",
+    "lbl:latitude":13.485602,
+    "lbl:longitude":75.309705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.485602,
+    "mps:longitude":75.309705,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kote"
@@ -36,10 +46,19 @@
     "name:deu_x_preferred":[
         "Kote"
     ],
+    "name:eng_x_preferred":[
+        "Kote"
+    ],
     "name:swe_x_preferred":[
         "Kote"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10858480
+        "gn:id":10858480,
+        "ks:id":"KSE78233FAD6174EA4958029F03E06F56C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9fc537f1b616861faa218f74925d9646",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dcac97d3bd541db5a41dd7df9afed437",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1243137353,
-    "wof:lastmodified":1566706918,
+    "wof:lastmodified":1680671403,
     "wof:name":"Kote",
     "wof:parent_id":890507585,
     "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.3142,
-    13.48649,
-    75.3142,
-    13.48649
+    75.309416,
+    13.485342,
+    75.310341,
+    13.487059
 ],
-  "geometry": {"coordinates":[75.3142,13.48649],"type":"Point"}
+  "geometry": {"coordinates":[[[75.310249,13.487059],[75.310249,13.486969],[75.31034099999999,13.486969],[75.31034099999999,13.486878],[75.310249,13.486878],[75.310249,13.486698],[75.31034099999999,13.486698],[75.31034099999999,13.486426],[75.310248,13.486426],[75.310248,13.486336],[75.310063,13.486336],[75.310063,13.486246],[75.309971,13.486246],[75.30997000000001,13.485884],[75.309878,13.485884],[75.309878,13.485613],[75.30997000000001,13.485613],[75.30997000000001,13.485522],[75.309878,13.485523],[75.309877,13.485432],[75.30978500000001,13.485432],[75.30978500000001,13.485342],[75.3096,13.485342],[75.3096,13.485433],[75.30950799999999,13.485433],[75.30950799999999,13.485523],[75.309416,13.485523],[75.309416,13.485614],[75.30950799999999,13.485613],[75.30950799999999,13.485885],[75.309601,13.485885],[75.309601,13.485975],[75.309693,13.485975],[75.30969399999999,13.486156],[75.309786,13.486156],[75.309786,13.486337],[75.309879,13.486336],[75.309879,13.486517],[75.309971,13.486517],[75.309972,13.486788],[75.310064,13.486788],[75.310064,13.486969],[75.310157,13.486969],[75.310157,13.487059],[75.310249,13.487059]]],"type":"Polygon"}
 }

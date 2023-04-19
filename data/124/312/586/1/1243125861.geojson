@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.76887,25.02627,83.76887,25.02627",
-    "geom:latitude":25.02627,
-    "geom:longitude":83.76887,
+    "geom:bbox":"83.76786,25.024712,83.770164,25.026698",
+    "geom:latitude":25.025793,
+    "geom:longitude":83.768896,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Gora",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.74887,25.00627,83.78887,25.04627",
+    "ks:ks_id":"KSDDF6ABFDFEAB48AEB4B592F8395D47D6",
+    "ks:ks_name":"Gora",
+    "ks:ks_pop":200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|373849",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1043989",
+    "lbl:latitude":25.025749,
+    "lbl:longitude":83.768874,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.025749,
+    "mps:longitude":83.768874,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gora"
@@ -40,6 +50,9 @@
         "Gora"
     ],
     "name:deu_x_preferred":[
+        "Gora"
+    ],
+    "name:eng_x_preferred":[
         "Gora"
     ],
     "name:fin_x_preferred":[
@@ -90,7 +103,13 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -99,10 +118,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10511437
+        "gn:id":10511437,
+        "ks:id":"KSDDF6ABFDFEAB48AEB4B592F8395D47D6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4cb6119ac5ee3d4f1cf454564d9743e2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b74f0d574759b029f94d0926f0956f07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +136,22 @@
         }
     ],
     "wof:id":1243125861,
-    "wof:lastmodified":1566706643,
+    "wof:lastmodified":1680671237,
     "wof:name":"Gora",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.76886999999998,
-    25.02627,
-    83.76886999999998,
-    25.02627
+    83.76786,
+    25.024712,
+    83.770164,
+    25.026698
 ],
-  "geometry": {"coordinates":[83.76886999999998,25.02627],"type":"Point"}
+  "geometry": {"coordinates":[[[83.76937599999999,25.026687],[83.769374,25.026597],[83.76996800000001,25.026586],[83.769966,25.026496],[83.77016399999999,25.026492],[83.770158,25.026222],[83.770059,25.026223],[83.770054,25.026043],[83.769955,25.026045],[83.769949,25.025774],[83.76985000000001,25.025776],[83.76984400000001,25.025506],[83.769745,25.025507],[83.769741,25.025327],[83.769642,25.025329],[83.76964,25.025239],[83.769541,25.02524],[83.76953899999999,25.02515],[83.76944,25.025152],[83.76943799999999,25.025062],[83.769339,25.025064],[83.76933699999999,25.024974],[83.769238,25.024975],[83.76923600000001,25.024885],[83.76903799999999,25.024889],[83.769036,25.024799],[83.768838,25.024802],[83.76883599999999,25.024712],[83.76834100000001,25.024721],[83.768343,25.024812],[83.768244,25.024813],[83.768246,25.024904],[83.768147,25.024905],[83.76814899999999,25.024996],[83.76805,25.024998],[83.76805400000001,25.025178],[83.767955,25.02518],[83.767959,25.02536],[83.76786,25.025362],[83.76788500000001,25.026444],[83.768083,25.026441],[83.768085,25.026531],[83.768382,25.026525],[83.768384,25.026616],[83.76878000000001,25.026608],[83.768782,25.026698],[83.76937599999999,25.026687]]],"type":"Polygon"}
 }
