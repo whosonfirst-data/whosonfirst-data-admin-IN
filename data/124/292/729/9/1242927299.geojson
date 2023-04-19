@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.98606,26.30242,87.98606,26.30242",
-    "geom:latitude":26.30242,
-    "geom:longitude":87.98606,
+    "geom:bbox":"87.99591,26.300512,87.996988,26.30159",
+    "geom:latitude":26.301051,
+    "geom:longitude":87.996449,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"210.0",
     "gn:asciiname":"Kelabari",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.96606,26.28242,88.00606,26.32242",
+    "ks:ks_alt_nam":"KELA BARI",
+    "ks:ks_id":"KS78E732DBA8764F19814B77CC9F448761",
+    "ks:ks_name":"Kela Bari",
+    "ks:ks_pop":130,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|531410",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1620557",
+    "lbl:latitude":26.301051,
+    "lbl:longitude":87.996449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.301051,
+    "mps:longitude":87.996449,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kela Bari"
+    ],
+    "name:eng_x_variant":[
+        "Kelabari"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10988556
+        "gn:id":10988556,
+        "ks:id":"KS78E732DBA8764F19814B77CC9F448761"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a61b949c02c0b373699a6852811035a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68408c878f4a6083b9bfd685b1b7057c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1242927299,
-    "wof:lastmodified":1566706272,
-    "wof:name":"Kelabari",
+    "wof:lastmodified":1680671046,
+    "wof:name":"Kela Bari",
     "wof:parent_id":890505789,
     "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.98606,
-    26.30242,
-    87.98606,
-    26.30242
+    87.99591,
+    26.300512,
+    87.996988,
+    26.30159
 ],
-  "geometry": {"coordinates":[87.98605999999999,26.30242],"type":"Point"}
+  "geometry": {"coordinates":[[[87.996988,26.300512],[87.99590999999999,26.300512],[87.99590999999999,26.30159],[87.996988,26.30159],[87.996988,26.300512]]],"type":"Polygon"}
 }

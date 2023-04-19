@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.94782,25.56014,85.94782,25.56014",
-    "geom:latitude":25.56014,
-    "geom:longitude":85.94782,
+    "geom:bbox":"85.947482,25.562366,85.950716,25.567217",
+    "geom:latitude":25.564981,
+    "geom:longitude":85.949344,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Maheshpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.92782,25.54014,85.96782,25.58014",
+    "ks:ks_id":"KS12E628AF8A094C15AE3C0518CA6D5930",
+    "ks:ks_name":"Maheshpur",
+    "ks:ks_pop":899,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|647599",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1357858",
+    "lbl:latitude":25.565576,
+    "lbl:longitude":85.949233,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.565576,
+    "mps:longitude":85.949233,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0647\u064a\u0634\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u09ae\u09b9\u09c7\u09b6\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Maheshpur"
+    ],
+    "name:eng_x_preferred":[
         "Maheshpur"
     ],
     "name:fra_x_preferred":[
@@ -84,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u06cc\u0633 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880820
+        "gn:id":10880820,
+        "ks:id":"KS12E628AF8A094C15AE3C0518CA6D5930"
     },
     "wof:country":"IN",
-    "wof:geomhash":"92970959cb0d1bf63c4d56bdd56798c1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca114a271143426e755c8a6583b4ee51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +130,22 @@
         }
     ],
     "wof:id":1242918417,
-    "wof:lastmodified":1577753373,
+    "wof:lastmodified":1680672057,
     "wof:name":"Maheshpur",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":899,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.94782,
-    25.56014,
-    85.94782,
-    25.56014
+    85.947482,
+    25.562366,
+    85.950716,
+    25.567217
 ],
-  "geometry": {"coordinates":[85.94781999999999,25.56014],"type":"Point"}
+  "geometry": {"coordinates":[[[85.94963799999999,25.567217],[85.94963799999999,25.566948],[85.949907,25.566948],[85.949907,25.566678],[85.950177,25.566678],[85.950177,25.566139],[85.950446,25.566139],[85.950446,25.5656],[85.950177,25.5656],[85.950177,25.565331],[85.949907,25.565331],[85.949907,25.564792],[85.94963799999999,25.564792],[85.94963799999999,25.564522],[85.949907,25.564522],[85.949907,25.564253],[85.950446,25.564253],[85.950446,25.563714],[85.950177,25.563714],[85.950177,25.563444],[85.950716,25.563444],[85.950716,25.562636],[85.950177,25.562636],[85.950177,25.562366],[85.94936800000001,25.562366],[85.94936800000001,25.562905],[85.94963799999999,25.562905],[85.94963799999999,25.563714],[85.949099,25.563714],[85.949099,25.564253],[85.94936800000001,25.564253],[85.94936800000001,25.564522],[85.948829,25.564522],[85.948829,25.565061],[85.948021,25.565061],[85.948021,25.564792],[85.94748199999999,25.564792],[85.94748199999999,25.56587],[85.948021,25.56587],[85.948021,25.566139],[85.948829,25.566139],[85.948829,25.566678],[85.949099,25.566678],[85.949099,25.567217],[85.94963799999999,25.567217]]],"type":"Polygon"}
 }

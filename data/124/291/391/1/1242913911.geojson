@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.55737,21.64014,79.55737,21.64014",
-    "geom:latitude":21.64014,
-    "geom:longitude":79.55737,
+    "geom:bbox":"79.557226,21.639603,79.558573,21.640412",
+    "geom:latitude":21.64003,
+    "geom:longitude":79.557877,
     "gn:admin1_code":"35",
     "gn:admin2_code":"456.0",
     "gn:asciiname":"Jatama",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.53737,21.62014,79.57737,21.66014",
+    "ks:ks_alt_nam":"Jat\u0101ma",
+    "ks:ks_id":"KS42E45443CFAD4096914390B30955DC5B",
+    "ks:ks_name":"Jatama",
+    "ks:ks_pop":629,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|456801",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_690135",
+    "lbl:latitude":21.640084,
+    "lbl:longitude":79.55781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.640084,
+    "mps:longitude":79.55781,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Jatama"
+    ],
+    "name:eng_x_variant":[
+        "Jat\u0101ma"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10514352
+        "gn:id":10514352,
+        "ks:id":"KS42E45443CFAD4096914390B30955DC5B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4382c377fddf20f7a7e994b2cf1f1e61",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"42a801978330869596594b4007fd15c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1242913911,
-    "wof:lastmodified":1566707986,
+    "wof:lastmodified":1680672011,
     "wof:name":"Jatama",
     "wof:parent_id":890511127,
     "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.55736999999998,
-    21.64014,
-    79.55736999999998,
-    21.64014
+    79.557226,
+    21.639603,
+    79.558573,
+    21.640412
 ],
-  "geometry": {"coordinates":[79.55736999999998,21.64014],"type":"Point"}
+  "geometry": {"coordinates":[[[79.55803400000001,21.639603],[79.557226,21.639603],[79.557226,21.640142],[79.557495,21.640142],[79.557495,21.640412],[79.558573,21.640412],[79.558573,21.639873],[79.55803400000001,21.639873],[79.55803400000001,21.639603]]],"type":"Polygon"}
 }

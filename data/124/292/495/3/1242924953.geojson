@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.8106,24.22142,83.8106,24.22142",
-    "geom:latitude":24.22142,
-    "geom:longitude":83.8106,
+    "geom:bbox":"83.809738,24.220846,83.810824,24.222027",
+    "geom:latitude":24.221457,
+    "geom:longitude":83.810318,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Jala",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.7906,24.20142,83.8306,24.24142",
+    "ks:ks_alt_nam":"J\u0101la",
+    "ks:ks_id":"KS8C692FAA6A9648039D99D46C20423335",
+    "ks:ks_name":"Jala",
+    "ks:ks_pop":518,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12969261",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1018674",
+    "lbl:latitude":24.221497,
+    "lbl:longitude":83.810308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.221497,
+    "mps:longitude":83.810308,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jala"
+    ],
+    "name:eng_x_preferred":[
+        "Jala"
+    ],
+    "name:eng_x_variant":[
+        "J\u0101la"
     ],
     "name:fra_x_preferred":[
         "Jala"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Jala"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10523070
+        "gn:id":10523070,
+        "ks:id":"KS8C692FAA6A9648039D99D46C20423335"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b6b4e2a3b7aebf14a5cb8874075d7191",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"94e63e607aeee5ebbe2c80dc6b986122",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1242924953,
-    "wof:lastmodified":1566706260,
+    "wof:lastmodified":1680671038,
     "wof:name":"Jala",
     "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.8106,
-    24.22142,
-    83.8106,
-    24.22142
+    83.809738,
+    24.220846,
+    83.810824,
+    24.222027
 ],
-  "geometry": {"coordinates":[83.81059999999999,24.22142],"type":"Point"}
+  "geometry": {"coordinates":[[[83.81034200000001,24.222024],[83.81034,24.221934],[83.810636,24.221928],[83.810632,24.221748],[83.81073000000001,24.221746],[83.810726,24.221565],[83.810824,24.221564],[83.810816,24.221203],[83.81071799999999,24.221205],[83.810712,24.220934],[83.810614,24.220936],[83.81061200000001,24.220846],[83.81041500000001,24.220849],[83.810417,24.220939],[83.81031900000001,24.220941],[83.810321,24.221031],[83.810222,24.221033],[83.81022400000001,24.221123],[83.809831,24.221131],[83.80983500000001,24.221311],[83.809933,24.221309],[83.809935,24.2214],[83.809738,24.221403],[83.80974399999999,24.221674],[83.809843,24.221672],[83.809845,24.221762],[83.809943,24.22176],[83.809945,24.221851],[83.81004299999999,24.221849],[83.810045,24.221939],[83.81014399999999,24.221937],[83.810146,24.222027],[83.81034200000001,24.222024]]],"type":"Polygon"}
 }

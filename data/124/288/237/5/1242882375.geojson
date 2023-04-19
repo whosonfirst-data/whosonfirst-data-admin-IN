@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.53935,18.94246,83.53935,18.94246",
-    "geom:latitude":18.94246,
-    "geom:longitude":83.53935,
+    "geom:bbox":"83.539009,18.941963,83.540087,18.942771",
+    "geom:latitude":18.942421,
+    "geom:longitude":83.539494,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"543.0",
     "gn:asciiname":"Nelli Kikkava",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.51935,18.92246,83.55935,18.96246",
+    "ks:ks_id":"KSB346101802B74FB989D451CBE0831ABD",
+    "ks:ks_name":"Nellikikkuva",
+    "ks:ks_pop":222,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1235714",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_449591",
+    "lbl:latitude":18.94249,
+    "lbl:longitude":83.53944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.94249,
+    "mps:longitude":83.53944,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Nellikikkuva"
+    ],
+    "name:eng_x_variant":[
+        "Nelli Kikkava"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10785172
+        "gn:id":10785172,
+        "ks:id":"KSB346101802B74FB989D451CBE0831ABD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"af147f8e67156839164cd4287ba3409b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a368fc219884323f9b7daa18298a61a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1242882375,
-    "wof:lastmodified":1566705969,
-    "wof:name":"Nelli Kikkava",
+    "wof:lastmodified":1680670883,
+    "wof:name":"Nellikikkuva",
     "wof:parent_id":890508885,
     "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.53935,
-    18.94246,
-    83.53935,
-    18.94246
+    83.539009,
+    18.941963,
+    83.540087,
+    18.942771
 ],
-  "geometry": {"coordinates":[83.53935,18.94246],"type":"Point"}
+  "geometry": {"coordinates":[[[83.539548,18.941963],[83.53900899999999,18.941963],[83.53900899999999,18.942771],[83.540087,18.942771],[83.540087,18.942232],[83.539548,18.942232],[83.539548,18.941963]]],"type":"Polygon"}
 }

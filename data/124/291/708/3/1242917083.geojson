@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.75153,25.97423,83.75153,25.97423",
-    "geom:latitude":25.97423,
-    "geom:longitude":83.75153,
+    "geom:bbox":"83.75137,25.973615,83.752179,25.974423",
+    "geom:latitude":25.974053,
+    "geom:longitude":83.751741,
     "gn:admin1_code":"36",
     "gn:admin2_code":"192.0",
     "gn:asciiname":"Tarwa",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.73153,25.95423,83.77153,25.99423",
+    "ks:ks_alt_nam":"Tarw\u0101",
+    "ks:ks_id":"KSA983A5528E964641B5596990A8D3AB24",
+    "ks:ks_name":"Tarwa",
+    "ks:ks_pop":2289,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13012965",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1388132",
+    "lbl:latitude":25.974116,
+    "lbl:longitude":83.751709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.974116,
+    "mps:longitude":83.751709,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Tarwa"
+    ],
+    "name:eng_x_variant":[
+        "Tarw\u0101"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10561766
+        "gn:id":10561766,
+        "ks:id":"KSA983A5528E964641B5596990A8D3AB24"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f3207f677c0124f8af63dd221041a766",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9f71df22002bc15d8f6828b59beca1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1242917083,
-    "wof:lastmodified":1566707988,
+    "wof:lastmodified":1680672013,
     "wof:name":"Tarwa",
     "wof:parent_id":1108695873,
     "wof:placetype":"locality",
+    "wof:population":2289,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.75153,
-    25.97423,
-    83.75153,
-    25.97423
+    83.75137,
+    25.973615,
+    83.752179,
+    25.974423
 ],
-  "geometry": {"coordinates":[83.75153,25.97423],"type":"Point"}
+  "geometry": {"coordinates":[[[83.751909,25.973615],[83.75136999999999,25.973615],[83.75136999999999,25.974423],[83.752179,25.974423],[83.752179,25.973885],[83.751909,25.973885],[83.751909,25.973615]]],"type":"Polygon"}
 }
