@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.32058,20.48901,78.32058,20.48901",
-    "geom:latitude":20.48901,
-    "geom:longitude":78.32058,
+    "geom:bbox":"78.319798,20.487556,78.321453,20.490267",
+    "geom:latitude":20.488931,
+    "geom:longitude":78.320588,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Taroda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.30058,20.46901,78.34058,20.50901",
+    "ks:ks_id":"KSCD3688ECC7924C649BC7C858763A00C2",
+    "ks:ks_name":"Taroda",
+    "ks:ks_pop":351,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1034791",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871414",
+    "lbl:latitude":20.488916,
+    "lbl:longitude":78.320655,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.488916,
+    "mps:longitude":78.320655,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Taroda"
@@ -58,6 +68,9 @@
         "Taroda"
     ],
     "name:cos_x_preferred":[
+        "Taroda"
+    ],
+    "name:eng_x_preferred":[
         "Taroda"
     ],
     "name:epo_x_preferred":[
@@ -177,7 +190,13 @@
     "name:zho_x_preferred":[
         "\u5854\u7f57\u8fbe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -186,10 +205,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453429
+        "gn:id":10453429,
+        "ks:id":"KSCD3688ECC7924C649BC7C858763A00C2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"765ed94547640405f0d66b21e92d89dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a3827a91228afcf55733e582e7713c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,20 +223,22 @@
         }
     ],
     "wof:id":1242646363,
-    "wof:lastmodified":1566708174,
+    "wof:lastmodified":1680672121,
     "wof:name":"Taroda",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":351,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.32058,
-    20.48901,
-    78.32058,
-    20.48901
+    78.319798,
+    20.487556,
+    78.321453,
+    20.490267
 ],
-  "geometry": {"coordinates":[78.32058000000001,20.48901],"type":"Point"}
+  "geometry": {"coordinates":[[[78.32055800000001,20.490267],[78.320559,20.490177],[78.320847,20.490181],[78.320848,20.490091],[78.320944,20.490092],[78.32094600000001,20.490002],[78.32113699999999,20.490005],[78.32114,20.489825],[78.321236,20.489826],[78.32123900000001,20.489645],[78.321335,20.489647],[78.321341,20.489286],[78.321437,20.489287],[78.32145300000001,20.488385],[78.32135700000001,20.488383],[78.32136199999999,20.488112],[78.32126599999999,20.488111],[78.321269,20.48793],[78.321173,20.487929],[78.321175,20.487839],[78.321079,20.487837],[78.32108100000001,20.487747],[78.32098499999999,20.487746],[78.320986,20.487655],[78.320699,20.487651],[78.3207,20.487561],[78.320413,20.487556],[78.320412,20.487646],[78.32012400000001,20.487642],[78.320123,20.487732],[78.320027,20.487731],[78.320025,20.487821],[78.319929,20.48782],[78.319914,20.488722],[78.319818,20.488721],[78.31979800000001,20.489894],[78.31989299999999,20.489896],[78.319889,20.490166],[78.31998400000001,20.490168],[78.31998299999999,20.490258],[78.32055800000001,20.490267]]],"type":"Polygon"}
 }

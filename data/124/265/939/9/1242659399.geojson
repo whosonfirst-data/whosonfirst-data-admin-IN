@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.26794,20.78614,79.26794,20.78614",
-    "geom:latitude":20.78614,
-    "geom:longitude":79.26794,
+    "geom:bbox":"79.267302,20.785483,79.268651,20.786662",
+    "geom:latitude":20.786029,
+    "geom:longitude":79.267921,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Masala",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.24794,20.76614,79.28794,20.80614",
+    "ks:ks_id":"KSFD1B0FE791D04206817FD64B5C680C09",
+    "ks:ks_name":"Mhasala",
+    "ks:ks_pop":296,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|700597",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_873531",
+    "lbl:latitude":20.785997,
+    "lbl:longitude":79.267908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.785997,
+    "mps:longitude":79.267908,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Masala"
     ],
     "name:deu_x_preferred":[
+        "Masala"
+    ],
+    "name:eng_x_preferred":[
+        "Mhasala"
+    ],
+    "name:eng_x_variant":[
         "Masala"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +70,13 @@
     "name:swe_x_preferred":[
         "Masala"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10518508
+        "gn:id":10518508,
+        "ks:id":"KSFD1B0FE791D04206817FD64B5C680C09"
     },
     "wof:country":"IN",
-    "wof:geomhash":"08e74108dfc9c1c290c582b489628909",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b1fc75656040bf23eb0cad5f927f5c49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1242659399,
-    "wof:lastmodified":1566708103,
-    "wof:name":"Masala",
+    "wof:lastmodified":1680672091,
+    "wof:name":"Mhasala",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.26794,
-    20.78614,
-    79.26794,
-    20.78614
+    79.267302,
+    20.785483,
+    79.268651,
+    20.786662
 ],
-  "geometry": {"coordinates":[79.26794,20.78614],"type":"Point"}
+  "geometry": {"coordinates":[[[79.26796899999999,20.786662],[79.26797000000001,20.786572],[79.268162,20.786574],[79.268163,20.786483],[79.268259,20.786484],[79.26826,20.786394],[79.268356,20.786395],[79.26835800000001,20.786214],[79.26855,20.786216],[79.268552,20.786036],[79.268649,20.786037],[79.26865100000001,20.785856],[79.26855500000001,20.785855],[79.268557,20.785674],[79.268461,20.785673],[79.268462,20.785583],[79.26827,20.785581],[79.268271,20.785491],[79.26750199999999,20.785483],[79.2675,20.785664],[79.267404,20.785663],[79.267403,20.785753],[79.267307,20.785752],[79.267302,20.786204],[79.267398,20.786205],[79.26739499999999,20.786476],[79.26749100000001,20.786477],[79.26749,20.786567],[79.26758599999999,20.786568],[79.267585,20.786658],[79.26796899999999,20.786662]]],"type":"Polygon"}
 }

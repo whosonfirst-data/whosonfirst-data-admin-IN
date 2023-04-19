@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.35293,12.91243,76.35293,12.91243",
-    "geom:latitude":12.91243,
-    "geom:longitude":76.35293,
+    "geom:bbox":"76.359403,12.913369,76.360751,12.914177",
+    "geom:latitude":12.913773,
+    "geom:longitude":76.360077,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Mollenahalli",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.33293,12.89243,76.37293,12.93243",
+    "ks:ks_id":"KS10B1CDC94C2F435890E7B0CC05708782",
+    "ks:ks_name":"Mallenahalli",
+    "ks:ks_pop":799,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|663506",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_258587",
+    "lbl:latitude":12.913773,
+    "lbl:longitude":76.360077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.913773,
+    "mps:longitude":76.360077,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Mallenahalli"
+    ],
+    "name:eng_x_variant":[
+        "Mollenahalli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10897501
+        "gn:id":10897501,
+        "ks:id":"KS10B1CDC94C2F435890E7B0CC05708782"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4a3ffb913b3ff04c214dd24436440213",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b2139d9cd6f3229e12030d4c956465c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1242642495,
-    "wof:lastmodified":1566708169,
-    "wof:name":"Mollenahalli",
+    "wof:lastmodified":1680672119,
+    "wof:name":"Mallenahalli",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":799,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.35293,
-    12.91243,
-    76.35293,
-    12.91243
+    76.359403,
+    12.913369,
+    76.360751,
+    12.914177
 ],
-  "geometry": {"coordinates":[76.35293,12.91243],"type":"Point"}
+  "geometry": {"coordinates":[[[76.36075099999999,12.913369],[76.359403,12.913369],[76.359403,12.914177],[76.36075099999999,12.914177],[76.36075099999999,12.913369]]],"type":"Polygon"}
 }

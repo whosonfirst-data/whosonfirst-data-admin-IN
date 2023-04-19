@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.876,20.86259,77.876,20.86259",
-    "geom:latitude":20.86259,
-    "geom:longitude":77.876,
+    "geom:bbox":"77.875613,20.861747,77.876957,20.863565",
+    "geom:latitude":20.862612,
+    "geom:longitude":77.876235,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Hatla",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.856,20.84259,77.896,20.88259",
+    "ks:ks_id":"KS3E39E353518042E0B2919C6670DAF6F9",
+    "ks:ks_name":"Hatla",
+    "ks:ks_pop":800,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|417441",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_874213",
+    "lbl:latitude":20.86255,
+    "lbl:longitude":77.876167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.86255,
+    "mps:longitude":77.876167,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0637\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Hatla"
     ],
     "name:spa_x_preferred":[
         "Hatla"
@@ -39,7 +52,13 @@
     "name:vie_x_preferred":[
         "Hatla"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512556
+        "gn:id":10512556,
+        "ks:id":"KS3E39E353518042E0B2919C6670DAF6F9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8de457186ab075be1b6a2c1b1b9e8e7f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7542a62e1914262ed3652108daee9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1242649463,
-    "wof:lastmodified":1566708159,
+    "wof:lastmodified":1680672112,
     "wof:name":"Hatla",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.876,
-    20.86259,
-    77.876,
-    20.86259
+    77.875613,
+    20.861747,
+    77.876957,
+    20.863565
 ],
-  "geometry": {"coordinates":[77.876,20.86259],"type":"Point"}
+  "geometry": {"coordinates":[[[77.876311,20.863558],[77.87630900000001,20.863468],[77.87640500000001,20.863467],[77.876403,20.863376],[77.876499,20.863375],[77.876498,20.863285],[77.876594,20.863283],[77.87658999999999,20.863102],[77.87668600000001,20.863101],[77.876679,20.86274],[77.87677499999999,20.862738],[77.876772,20.862558],[77.876868,20.862556],[77.87686100000001,20.862195],[77.876957,20.862194],[77.876955,20.862103],[77.876859,20.862105],[77.876856,20.861924],[77.87676,20.861926],[77.876758,20.861836],[77.876662,20.861837],[77.876661,20.861747],[77.876276,20.861754],[77.876278,20.861844],[77.876086,20.861847],[77.876088,20.861937],[77.875896,20.861941],[77.87589800000001,20.862031],[77.87580199999999,20.862032],[77.875803,20.862123],[77.87570700000001,20.862124],[77.875709,20.862215],[77.875613,20.862216],[77.87562699999999,20.862938],[77.87572299999999,20.862936],[77.87573,20.863297],[77.875826,20.863296],[77.875829,20.863476],[77.875925,20.863475],[77.875927,20.863565],[77.876311,20.863558]]],"type":"Polygon"}
 }
