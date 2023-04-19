@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.82856,12.53278,77.82856,12.53278",
-    "geom:latitude":12.53278,
-    "geom:longitude":77.82856,
+    "geom:bbox":"77.821315,12.528277,77.82242,12.529366",
+    "geom:latitude":12.528858,
+    "geom:longitude":77.821881,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"631.0",
     "gn:asciiname":"Magadi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.80856,12.51278,77.84856,12.55278",
+    "ks:ks_id":"KSD314CD1CC2F247EF81EB86439EE486EC",
+    "ks:ks_name":"Magadi",
+    "ks:ks_pop":194,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|642922",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_251469",
+    "lbl:latitude":12.528865,
+    "lbl:longitude":77.821892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.528865,
+    "mps:longitude":77.821892,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0997\u09a6\u09bf"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Magadi Taluk"
+    ],
+    "name:eng_x_preferred":[
+        "Magadi"
     ],
     "name:ita_x_preferred":[
         "Magadi"
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u52a0\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11334493
+        "gn:id":11334493,
+        "ks:id":"KSD314CD1CC2F247EF81EB86439EE486EC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"09803afcae68abd398cddd253fa0fdda",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afff2dcd4cbd5050ba998f8715292b78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1225999915,
-    "wof:lastmodified":1566712295,
+    "wof:lastmodified":1680678012,
     "wof:name":"Magadi",
     "wof:parent_id":1108696355,
     "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.82856,
-    12.53278,
-    77.82856,
-    12.53278
+    77.821315,
+    12.528277,
+    77.82242,
+    12.529366
 ],
-  "geometry": {"coordinates":[77.82856,12.53278],"type":"Point"}
+  "geometry": {"coordinates":[[[77.821597,12.529365],[77.821596,12.529275],[77.82168799999999,12.529274],[77.82168900000001,12.529364],[77.822057,12.529361],[77.822056,12.52927],[77.82223999999999,12.529268],[77.822239,12.529178],[77.82233100000001,12.529177],[77.822328,12.528906],[77.82241999999999,12.528905],[77.82241500000001,12.528453],[77.822323,12.528454],[77.822322,12.528364],[77.822046,12.528367],[77.822045,12.528277],[77.82195299999999,12.528278],[77.82195400000001,12.528368],[77.82167800000001,12.528371],[77.821679,12.528461],[77.82158699999999,12.528462],[77.82158800000001,12.528553],[77.821496,12.528553],[77.82149699999999,12.528644],[77.821405,12.528645],[77.82140699999999,12.528825],[77.821315,12.528826],[77.82132,12.529278],[77.821504,12.529276],[77.821505,12.529366],[77.821597,12.529365]]],"type":"Polygon"}
 }

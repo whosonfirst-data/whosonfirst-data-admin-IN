@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.32645,24.90287,84.32645,24.90287",
-    "geom:latitude":24.90287,
-    "geom:longitude":84.32645,
+    "geom:bbox":"84.32496,24.901644,84.327751,24.903636",
+    "geom:latitude":24.902611,
+    "geom:longitude":84.32636,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Medan",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.30645,24.88287,84.34645,24.92287",
+    "ks:ks_id":"KS935CDF25E89B4D4F990537E30D6FAD29",
+    "ks:ks_name":"Medan",
+    "ks:ks_pop":614,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|690863",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1155374",
+    "lbl:latitude":24.902681,
+    "lbl:longitude":84.326334,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.902681,
+    "mps:longitude":84.326334,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "M\u00e8dan"
@@ -68,6 +78,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03c4\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Medan"
     ],
     "name:epo_x_preferred":[
         "Medano"
@@ -228,19 +241,29 @@
     "name:war_x_preferred":[
         "Medan"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
-        1108695947,
-        85672225
+        85672225,
+        1108695947
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10837979
+        "gn:id":10837979,
+        "ks:id":"KS935CDF25E89B4D4F990537E30D6FAD29"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c3c74f49c3220498efbae001731cd859",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b4a0dbb1fb4cf1747c01138b3c461e42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,20 +274,22 @@
         }
     ],
     "wof:id":1225989509,
-    "wof:lastmodified":1587163116,
+    "wof:lastmodified":1680678145,
     "wof:name":"Medan",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":614,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.32645,
-    24.90287,
-    84.32645,
-    24.90287
+    84.32496,
+    24.901644,
+    84.327751,
+    24.903636
 ],
-  "geometry": {"coordinates":[84.32644999999999,24.90287],"type":"Point"}
+  "geometry": {"coordinates":[[[84.326724,24.903636],[84.32672599999999,24.903545],[84.327122,24.903553],[84.327124,24.903462],[84.327223,24.903464],[84.327225,24.903374],[84.327324,24.903376],[84.327326,24.903285],[84.32742500000001,24.903287],[84.32743000000001,24.903017],[84.327529,24.903018],[84.327533,24.902838],[84.32763199999999,24.90284],[84.327636,24.902659],[84.327735,24.902661],[84.32775100000001,24.901939],[84.327652,24.901938],[84.327654,24.901847],[84.327456,24.901844],[84.32745799999999,24.901754],[84.327161,24.901748],[84.327163,24.901658],[84.32637200000001,24.901644],[84.32637,24.901734],[84.325875,24.901725],[84.325873,24.901815],[84.325379,24.901807],[84.325377,24.901897],[84.32517900000001,24.901893],[84.325177,24.901983],[84.325078,24.901982],[84.325074,24.902162],[84.32497499999999,24.90216],[84.32496,24.902882],[84.325059,24.902884],[84.325057,24.902974],[84.32515600000001,24.902976],[84.325152,24.903156],[84.32525099999999,24.903158],[84.325247,24.903338],[84.325346,24.90334],[84.325344,24.90343],[84.325541,24.903434],[84.32553900000001,24.903524],[84.325737,24.903528],[84.32573499999999,24.903618],[84.326724,24.903636]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.89112,26.89691,79.89112,26.89691",
-    "geom:latitude":26.89691,
-    "geom:longitude":79.89112,
+    "geom:bbox":"79.890404,26.895758,79.893218,26.897845",
+    "geom:latitude":26.896884,
+    "geom:longitude":79.891646,
     "gn:admin1_code":"36",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Chhatarpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.87112,26.87691,79.91112,26.91691",
+    "ks:ks_alt_nam":"Chhattar pur",
+    "ks:ks_id":"KS070BF549B2644C5BA42F854571A81EF0",
+    "ks:ks_name":"Chhattar Pur",
+    "ks:ks_pop":396,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|217723",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1883892",
+    "lbl:latitude":26.896705,
+    "lbl:longitude":79.891224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.896705,
+    "mps:longitude":79.891224,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062a\u0627\u0631\u0628\u0648\u0631"
@@ -49,6 +60,12 @@
         "Chhatarpur"
     ],
     "name:deu_x_preferred":[
+        "Chhatarpur"
+    ],
+    "name:eng_x_preferred":[
+        "Chhattar Pur"
+    ],
+    "name:eng_x_variant":[
         "Chhatarpur"
     ],
     "name:fra_x_preferred":[
@@ -129,7 +146,13 @@
     "name:zho_x_preferred":[
         "\u6070\u5854\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10487356
+        "gn:id":10487356,
+        "ks:id":"KS070BF549B2644C5BA42F854571A81EF0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2c8f8edf94eba6f790b12b59045e326c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e1305a6fe507bdc2566540809e7b710e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +179,22 @@
         }
     ],
     "wof:id":1225988157,
-    "wof:lastmodified":1577754404,
-    "wof:name":"Chhatarpur",
+    "wof:lastmodified":1680678162,
+    "wof:name":"Chhattar Pur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":396,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.89112,
-    26.89691,
-    79.89112,
-    26.89691
+    79.890404,
+    26.895758,
+    79.893218,
+    26.897845
 ],
-  "geometry": {"coordinates":[79.89112,26.89691],"type":"Point"}
+  "geometry": {"coordinates":[[[79.89260899999999,26.897845],[79.89261,26.897754],[79.893013,26.897757],[79.89301399999999,26.897667],[79.893215,26.897669],[79.893218,26.897398],[79.893117,26.897397],[79.893118,26.897307],[79.893017,26.897306],[79.893018,26.897216],[79.89291799999999,26.897215],[79.89291900000001,26.897035],[79.892819,26.897034],[79.89282,26.896943],[79.892719,26.896943],[79.89272,26.896852],[79.892518,26.896851],[79.89251899999999,26.896761],[79.892217,26.896758],[79.892218,26.896668],[79.89191599999999,26.896666],[79.891919,26.896395],[79.892019,26.896396],[79.89202400000001,26.895944],[79.89192300000001,26.895943],[79.891924,26.895853],[79.891823,26.895852],[79.891824,26.895762],[79.891321,26.895758],[79.89131999999999,26.895848],[79.89121900000001,26.895848],[79.89121799999999,26.895938],[79.890916,26.895935],[79.89091500000001,26.896026],[79.890613,26.896023],[79.890613,26.896114],[79.890512,26.896113],[79.890511,26.896203],[79.89041,26.896202],[79.890404,26.896834],[79.890505,26.896835],[79.890503,26.897016],[79.890604,26.897016],[79.890602,26.897197],[79.890703,26.897198],[79.890702,26.897288],[79.89080199999999,26.897289],[79.890801,26.897469],[79.890901,26.89747],[79.8909,26.89756],[79.891505,26.897565],[79.891504,26.897655],[79.89190600000001,26.897659],[79.89190600000001,26.897749],[79.892308,26.897752],[79.892307,26.897842],[79.89260899999999,26.897845]]],"type":"Polygon"}
 }

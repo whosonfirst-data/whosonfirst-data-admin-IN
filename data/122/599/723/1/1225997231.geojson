@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0629"
@@ -92,9 +93,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672205,
         102191569,
         85632469,
-        85672205,
         1108695809
     ],
     "wof:breaches":[],
@@ -102,7 +103,7 @@
         "gn:id":10831472
     },
     "wof:country":"IN",
-    "wof:geomhash":"da685217788df1c7e1ff2ff549916811",
+    "wof:geomhash":"ed6f93a05475c8c621c1e35606e70aab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +114,22 @@
         }
     ],
     "wof:id":1225997231,
-    "wof:lastmodified":1566712317,
+    "wof:lastmodified":1680635087,
     "wof:name":"Jar",
     "wof:parent_id":1108695809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847250291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.85625999999998,
-    28.52414000000001,
-    79.85625999999998,
-    28.52414000000001
+    79.85626,
+    28.52414,
+    79.85626,
+    28.52414
 ],
-  "geometry": {"coordinates":[79.85625999999998,28.52414000000001],"type":"Point"}
+  "geometry": {"coordinates":[79.85626000000001,28.52414],"type":"Point"}
 }

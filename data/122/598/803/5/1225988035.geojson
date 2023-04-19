@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.88638,27.80484,80.88638,27.80484",
-    "geom:latitude":27.80484,
-    "geom:longitude":80.88638,
+    "geom:bbox":"80.884536,27.803869,80.887581,27.805586",
+    "geom:latitude":27.804697,
+    "geom:longitude":80.886225,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Narsinghpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.86638,27.78484,80.90638,27.82484",
+    "ks:ks_alt_nam":"Narsingh pur",
+    "ks:ks_id":"KSDB71D4F030104B3B8092E62159AC48B0",
+    "ks:ks_name":"Narsingh Pur",
+    "ks:ks_pop":616,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|763760",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2012712",
+    "lbl:latitude":27.804637,
+    "lbl:longitude":80.886254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.804637,
+    "mps:longitude":80.886254,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0633\u064a\u0646\u062c\u0628\u0648\u0631"
@@ -50,6 +61,12 @@
     ],
     "name:ceb_x_preferred":[
         "Narsimhapur"
+    ],
+    "name:eng_x_preferred":[
+        "Narsingh Pur"
+    ],
+    "name:eng_x_variant":[
+        "Narsinghpur"
     ],
     "name:fra_x_preferred":[
         "Narsinghpur"
@@ -117,7 +134,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u5c14\u897f\u59c6\u54c8\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +149,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10710816
+        "gn:id":10710816,
+        "ks:id":"KSDB71D4F030104B3B8092E62159AC48B0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3b752b8bfa0f37ca15e2e304cee51815",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"652de93b7f1493a662516c702366a306",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +167,22 @@
         }
     ],
     "wof:id":1225988035,
-    "wof:lastmodified":1577754394,
-    "wof:name":"Narsinghpur",
+    "wof:lastmodified":1680678129,
+    "wof:name":"Narsingh Pur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":616,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.88638,
-    27.80484,
-    80.88638,
-    27.80484
+    80.884536,
+    27.803869,
+    80.887581,
+    27.805586
 ],
-  "geometry": {"coordinates":[80.88638,27.80484],"type":"Point"}
+  "geometry": {"coordinates":[[[80.887377,27.805586],[80.887378,27.805405],[80.887479,27.805405],[80.88748,27.805044],[80.887581,27.805044],[80.887581,27.804864],[80.88748,27.804864],[80.88748,27.804593],[80.887379,27.804593],[80.887379,27.804322],[80.887277,27.804322],[80.887277,27.804141],[80.887176,27.804141],[80.887176,27.804051],[80.887074,27.804051],[80.887075,27.803961],[80.886872,27.80396],[80.886872,27.80387],[80.885653,27.803869],[80.885653,27.803959],[80.885552,27.803959],[80.885552,27.80405],[80.88534900000001,27.804049],[80.88534900000001,27.80414],[80.88514499999999,27.80414],[80.88514499999999,27.80423],[80.88504399999999,27.80423],[80.88504399999999,27.80432],[80.884942,27.80432],[80.884942,27.80441],[80.884739,27.80441],[80.884739,27.804681],[80.884637,27.804681],[80.884637,27.804771],[80.884536,27.804771],[80.884536,27.804861],[80.884637,27.804861],[80.884637,27.804952],[80.884739,27.804952],[80.884738,27.805042],[80.884941,27.805042],[80.884941,27.805132],[80.885246,27.805133],[80.885246,27.805223],[80.88585500000001,27.805223],[80.88585500000001,27.805314],[80.88605800000001,27.805314],[80.88605800000001,27.805404],[80.88636200000001,27.805404],[80.88636200000001,27.805495],[80.886768,27.805495],[80.886768,27.805585],[80.887377,27.805586]]],"type":"Polygon"}
 }

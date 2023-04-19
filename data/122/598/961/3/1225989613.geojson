@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.90539,25.57797,84.90539,25.57797",
-    "geom:latitude":25.57797,
-    "geom:longitude":84.90539,
+    "geom:bbox":"84.907502,25.572877,84.910197,25.57665",
+    "geom:latitude":25.574594,
+    "geom:longitude":84.908593,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Bazidpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.88539,25.55797,84.92539,25.59797",
+    "ks:ks_id":"KSD9775760D41748F7B7227BD28DF960A4",
+    "ks:ks_name":"Bazidpur",
+    "ks:ks_pop":1067,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|117245",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1358473",
+    "lbl:latitude":25.574347,
+    "lbl:longitude":84.908236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.574347,
+    "mps:longitude":84.908236,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0632\u062f\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ac\u09be\u099c\u09bf\u09a6\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bazidpur"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0632\u06cc\u062f\u067e\u0648\u0631"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0632\u06cc\u062f \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10813012
+        "gn:id":10813012,
+        "ks:id":"KSD9775760D41748F7B7227BD28DF960A4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"68c767ae120dd4555af8bcc46323d539",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d0447e982b7fe61a32cfba50299b4ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1225989613,
-    "wof:lastmodified":1577754400,
+    "wof:lastmodified":1680678147,
     "wof:name":"Bazidpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":1067,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.90539,
-    25.57797,
-    84.90539,
-    25.57797
+    84.907502,
+    25.572877,
+    84.910197,
+    25.57665
 ],
-  "geometry": {"coordinates":[84.90539,25.57797],"type":"Point"}
+  "geometry": {"coordinates":[[[84.90885,25.575841],[84.90885,25.574494],[84.910197,25.574494],[84.910197,25.574224],[84.90992799999999,25.574224],[84.90992799999999,25.573955],[84.90965799999999,25.573955],[84.90965799999999,25.573416],[84.909389,25.573416],[84.909389,25.573146],[84.90885,25.573146],[84.90885,25.572877],[84.908311,25.572877],[84.908311,25.573146],[84.908041,25.573146],[84.908041,25.573685],[84.90750199999999,25.573685],[84.90750199999999,25.575033],[84.908041,25.575033],[84.908041,25.57665],[84.909119,25.57665],[84.909119,25.575841],[84.90885,25.575841]]],"type":"Polygon"}
 }
