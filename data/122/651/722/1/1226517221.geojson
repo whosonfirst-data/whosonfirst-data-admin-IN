@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.39458,14.47415,74.39458,14.47415",
-    "geom:latitude":14.47415,
-    "geom:longitude":74.39458,
+    "geom:bbox":"74.399882,14.474326,74.400904,14.475682",
+    "geom:latitude":14.475011,
+    "geom:longitude":74.400373,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"563.0",
     "gn:asciiname":"Masur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.37458,14.45415,74.41458,14.49415",
+    "ks:ks_id":"KS14488F79EC364028B1ED2EAF06E3106A",
+    "ks:ks_name":"Masur",
+    "ks:ks_pop":336,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|684415",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_104907",
+    "lbl:latitude":14.475018,
+    "lbl:longitude":74.400415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.475018,
+    "mps:longitude":74.400415,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Masur"
     ],
     "name:deu_x_preferred":[
+        "Masur"
+    ],
+    "name:eng_x_preferred":[
         "Masur"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +58,13 @@
     "name:swe_x_preferred":[
         "Masur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10978094
+        "gn:id":10978094,
+        "ks:id":"KS14488F79EC364028B1ED2EAF06E3106A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"43adc84fd8fb90f7872982f9b085248d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5c97a725240eb827943c24822f8efc1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1226517221,
-    "wof:lastmodified":1566711650,
+    "wof:lastmodified":1680677510,
     "wof:name":"Masur",
     "wof:parent_id":890507903,
     "wof:placetype":"locality",
+    "wof:population":336,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.39458,
-    14.47415,
-    74.39458,
-    14.47415
+    74.399882,
+    14.474326,
+    74.400904,
+    14.475682
 ],
-  "geometry": {"coordinates":[74.39458,14.47415],"type":"Point"}
+  "geometry": {"coordinates":[[[74.400345,14.475682],[74.400345,14.475592],[74.40043799999999,14.475592],[74.40043799999999,14.475502],[74.400531,14.475502],[74.400531,14.475412],[74.40062399999999,14.475412],[74.40062399999999,14.475322],[74.400717,14.475322],[74.400717,14.475231],[74.40081000000001,14.475232],[74.400811,14.475051],[74.400903,14.475051],[74.400904,14.47487],[74.400811,14.47487],[74.400811,14.47478],[74.400719,14.474779],[74.400719,14.474689],[74.400626,14.474689],[74.400627,14.474417],[74.40053399999999,14.474417],[74.40053399999999,14.474327],[74.400256,14.474326],[74.400256,14.474416],[74.40016300000001,14.474416],[74.40016300000001,14.474507],[74.400255,14.474507],[74.400255,14.474597],[74.40016199999999,14.474597],[74.40016199999999,14.474687],[74.400069,14.474687],[74.400069,14.474868],[74.399976,14.474868],[74.399975,14.475139],[74.399883,14.475139],[74.39988200000001,14.47532],[74.399975,14.47532],[74.399974,14.475501],[74.40006700000001,14.475501],[74.40006700000001,14.475591],[74.40025199999999,14.475592],[74.40025199999999,14.475682],[74.400345,14.475682]]],"type":"Polygon"}
 }
