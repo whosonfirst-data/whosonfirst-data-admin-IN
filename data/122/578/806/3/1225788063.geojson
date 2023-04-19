@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.2259,21.5168,81.2259,21.5168",
-    "geom:latitude":21.5168,
-    "geom:longitude":81.2259,
+    "geom:bbox":"81.226392,21.515828,81.227938,21.518538",
+    "geom:latitude":21.517187,
+    "geom:longitude":81.227084,
     "gn:admin1_code":"37",
     "gn:admin2_code":"409.0",
     "gn:asciiname":"Agar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.2059,21.4968,81.2459,21.5368",
+    "ks:ks_alt_nam":"\u0100gar",
+    "ks:ks_id":"KS6103593025CC4C0ABB4FB90BE0847C24",
+    "ks:ks_name":"Agar",
+    "ks:ks_pop":1587,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12874369",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_964849",
+    "lbl:latitude":21.517095,
+    "lbl:longitude":81.227069,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.517095,
+    "mps:longitude":81.227069,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Agar-agar"
@@ -56,6 +67,12 @@
     ],
     "name:deu_x_preferred":[
         "Agar"
+    ],
+    "name:eng_x_preferred":[
+        "Agar"
+    ],
+    "name:eng_x_variant":[
+        "\u0100gar"
     ],
     "name:epo_x_preferred":[
         "Agaragaro"
@@ -195,7 +212,13 @@
     "name:uzb_x_preferred":[
         "Agar-agar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -204,10 +227,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10447058
+        "gn:id":10447058,
+        "ks:id":"KS6103593025CC4C0ABB4FB90BE0847C24"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ad13864cf61ca693863082df6c5ab898",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9fbf88e92576e29cf72590bacd5cc640",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,20 +245,22 @@
         }
     ],
     "wof:id":1225788063,
-    "wof:lastmodified":1566713651,
+    "wof:lastmodified":1680678986,
     "wof:name":"Agar",
     "wof:parent_id":1108696187,
     "wof:placetype":"locality",
+    "wof:population":1587,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.2259,
-    21.5168,
-    81.2259,
-    21.5168
+    81.226392,
+    21.515828,
+    81.227938,
+    21.518538
 ],
-  "geometry": {"coordinates":[81.2259,21.5168],"type":"Point"}
+  "geometry": {"coordinates":[[[81.227361,21.518538],[81.227361,21.518447],[81.227458,21.518447],[81.227457,21.518266],[81.227554,21.518266],[81.227553,21.517814],[81.22765,21.517814],[81.227649,21.517453],[81.227746,21.517453],[81.227745,21.517182],[81.227842,21.517182],[81.227841,21.516911],[81.22793799999999,21.51691],[81.22793799999999,21.516639],[81.227841,21.51664],[81.227841,21.516459],[81.227744,21.516459],[81.227744,21.516369],[81.227648,21.516369],[81.227647,21.516278],[81.22755100000001,21.516279],[81.22755100000001,21.516188],[81.227358,21.516188],[81.227357,21.516098],[81.227261,21.516098],[81.227261,21.516008],[81.227164,21.516008],[81.227164,21.515918],[81.22697100000001,21.515918],[81.22697100000001,21.515828],[81.226874,21.515828],[81.226874,21.515918],[81.226681,21.515918],[81.226682,21.516099],[81.226585,21.516099],[81.226585,21.51628],[81.226489,21.51628],[81.226489,21.516461],[81.226392,21.516461],[81.226394,21.517635],[81.226491,21.517635],[81.226491,21.517906],[81.22658800000001,21.517906],[81.22658800000001,21.518268],[81.226685,21.518267],[81.226685,21.518448],[81.226782,21.518448],[81.226782,21.518538],[81.227361,21.518538]]],"type":"Polygon"}
 }

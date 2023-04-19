@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.85951,26.9593,78.85951,26.9593",
-    "geom:latitude":26.9593,
-    "geom:longitude":78.85951,
+    "geom:bbox":"78.859016,26.958437,78.860238,26.959883",
+    "geom:latitude":26.959204,
+    "geom:longitude":78.859584,
     "gn:admin1_code":"36",
     "gn:admin2_code":"161.0",
     "gn:asciiname":"Alai",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.83951,26.9393,78.87951,26.9793",
+    "ks:ks_id":"KSAC797E2641D445C8BB0A7919CA118E5F",
+    "ks:ks_name":"Alai",
+    "ks:ks_pop":851,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12896853",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1742253",
+    "lbl:latitude":26.959194,
+    "lbl:longitude":78.859596,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.959194,
+    "mps:longitude":78.859596,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alai"
     ],
     "name:deu_x_preferred":[
+        "Alai"
+    ],
+    "name:eng_x_preferred":[
         "Alai"
     ],
     "name:nld_x_preferred":[
@@ -51,7 +64,13 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0430\u0439"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10465756
+        "gn:id":10465756,
+        "ks:id":"KSAC797E2641D445C8BB0A7919CA118E5F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"98af6dcc181fe265d1e162990bf65648",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8fc9b52c6fedc6ca8820cdba33b0dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1225788811,
-    "wof:lastmodified":1566713604,
+    "wof:lastmodified":1680678959,
     "wof:name":"Alai",
     "wof:parent_id":890509065,
     "wof:placetype":"locality",
+    "wof:population":851,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.85951,
-    26.9593,
-    78.85951,
-    26.9593
+    78.859016,
+    26.958437,
+    78.860238,
+    26.959883
 ],
-  "geometry": {"coordinates":[78.85951,26.9593],"type":"Point"}
+  "geometry": {"coordinates":[[[78.859717,26.959883],[78.859719,26.959793],[78.859921,26.959796],[78.85992400000001,26.959616],[78.86002499999999,26.959617],[78.860028,26.959437],[78.860129,26.959438],[78.86013199999999,26.959258],[78.86023299999999,26.959259],[78.860238,26.958989],[78.86013699999999,26.958987],[78.860141,26.958807],[78.86004,26.958805],[78.86004200000001,26.958715],[78.85994100000001,26.958713],[78.859943,26.958623],[78.859842,26.958622],[78.859844,26.958531],[78.85974299999999,26.95853],[78.859745,26.95844],[78.859543,26.958437],[78.859542,26.958527],[78.859441,26.958525],[78.85943899999999,26.958616],[78.859238,26.958612],[78.859234,26.958793],[78.859134,26.958791],[78.85912999999999,26.958972],[78.85903,26.95897],[78.859016,26.959692],[78.859117,26.959694],[78.859115,26.959784],[78.859216,26.959785],[78.85921399999999,26.959876],[78.859717,26.959883]]],"type":"Polygon"}
 }

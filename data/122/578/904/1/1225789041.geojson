@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.99294,27.31705,78.99294,27.31705",
-    "geom:latitude":27.31705,
-    "geom:longitude":78.99294,
+    "geom:bbox":"78.992324,27.316081,78.993955,27.317709",
+    "geom:latitude":27.316958,
+    "geom:longitude":78.993085,
     "gn:admin1_code":"36",
     "gn:admin2_code":"148.0",
     "gn:asciiname":"Karanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.97294,27.29705,79.01294,27.33705",
+    "ks:ks_id":"KSBD2F36BD3F5C4759884E295E501A371D",
+    "ks:ks_name":"Karanpur",
+    "ks:ks_pop":219,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|511337",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1750668",
+    "lbl:latitude":27.316942,
+    "lbl:longitude":78.9931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.316942,
+    "mps:longitude":78.9931,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09a8\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u0995\u09b0\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Karanpur"
+    ],
+    "name:eng_x_preferred":[
         "Karanpur"
     ],
     "name:hin_x_preferred":[
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5170\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10479564
+        "gn:id":10479564,
+        "ks:id":"KSBD2F36BD3F5C4759884E295E501A371D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"11898d786ebf26efaac8dac67cb0569c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"58ab2936c3a1c5155aa0e354ecad4e82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1225789041,
-    "wof:lastmodified":1566713631,
+    "wof:lastmodified":1680678974,
     "wof:name":"Karanpur",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.99294,
-    27.31705,
-    78.99294,
-    27.31705
+    78.992324,
+    27.316081,
+    78.993955,
+    27.317709
 ],
-  "geometry": {"coordinates":[78.99294,27.31705],"type":"Point"}
+  "geometry": {"coordinates":[[[78.99323,27.317709],[78.99323200000001,27.317619],[78.99333300000001,27.31762],[78.993334,27.31753],[78.99353600000001,27.317533],[78.993538,27.317443],[78.993639,27.317444],[78.99364,27.317354],[78.993741,27.317356],[78.993745,27.317175],[78.993846,27.317177],[78.993847,27.317086],[78.993948,27.317088],[78.993955,27.316727],[78.993854,27.316725],[78.993855,27.316635],[78.993754,27.316634],[78.993756,27.316544],[78.993655,27.316542],[78.993657,27.316452],[78.993556,27.31645],[78.993557,27.31636],[78.99345599999999,27.316359],[78.993458,27.316269],[78.993357,27.316267],[78.993359,27.316177],[78.993156,27.316174],[78.99315799999999,27.316084],[78.99295600000001,27.316081],[78.992954,27.316171],[78.992853,27.31617],[78.992852,27.31626],[78.992751,27.316258],[78.992749,27.316349],[78.992648,27.316347],[78.99264700000001,27.316437],[78.992546,27.316436],[78.992542,27.316616],[78.992441,27.316615],[78.992436,27.316886],[78.992335,27.316884],[78.992324,27.317516],[78.992425,27.317517],[78.992423,27.317607],[78.992625,27.31761],[78.99262400000001,27.317701],[78.99323,27.317709]]],"type":"Polygon"}
 }
