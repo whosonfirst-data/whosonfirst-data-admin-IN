@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.85106,26.20022,80.85106,26.20022",
-    "geom:latitude":26.20022,
-    "geom:longitude":80.85106,
+    "geom:bbox":"80.849729,26.199458,80.852332,26.200903",
+    "geom:latitude":26.200156,
+    "geom:longitude":80.850998,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Malpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.83106,26.18022,80.87106,26.22022",
+    "ks:ks_alt_nam":"M\u0101lpur",
+    "ks:ks_id":"KS97703795E42347A684A3F6F446CF7A19",
+    "ks:ks_name":"Malpur",
+    "ks:ks_pop":502,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|664579",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1863132",
+    "lbl:latitude":26.200136,
+    "lbl:longitude":80.850843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.200136,
+    "mps:longitude":80.850843,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0628\u0648\u0631"
@@ -43,6 +54,12 @@
         "\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "M\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Malpur"
+    ],
+    "name:eng_x_variant":[
         "M\u0101lpur"
     ],
     "name:guj_x_preferred":[
@@ -96,7 +113,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10555661
+        "gn:id":10555661,
+        "ks:id":"KS97703795E42347A684A3F6F446CF7A19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cf658a1c00c7d11443858bb9c6eed0f3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22cbe2fbfc399a7aeb6a6617e8bf1a0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +146,22 @@
         }
     ],
     "wof:id":1226788849,
-    "wof:lastmodified":1577754452,
+    "wof:lastmodified":1680678314,
     "wof:name":"Malpur",
     "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.85106,
-    26.20022,
-    80.85106,
-    26.20022
+    80.849729,
+    26.199458,
+    80.852332,
+    26.200903
 ],
-  "geometry": {"coordinates":[80.85106,26.20022],"type":"Point"}
+  "geometry": {"coordinates":[[[80.85052899999999,26.200903],[80.85053000000001,26.200813],[80.85113,26.200814],[80.85113,26.200723],[80.85133,26.200723],[80.85133,26.200633],[80.851631,26.200633],[80.851631,26.200543],[80.852031,26.200544],[80.852031,26.200453],[80.852232,26.200453],[80.852232,26.200363],[80.852332,26.200363],[80.852332,26.200002],[80.852232,26.200002],[80.852232,26.199912],[80.852132,26.199912],[80.852132,26.199821],[80.85203199999999,26.199821],[80.85203199999999,26.199731],[80.85193200000001,26.199731],[80.85193200000001,26.19964],[80.851832,26.19964],[80.851832,26.19955],[80.851732,26.19955],[80.851732,26.19946],[80.850431,26.199458],[80.850431,26.199549],[80.85023099999999,26.199548],[80.85023099999999,26.199729],[80.850131,26.199729],[80.85012999999999,26.19991],[80.85003,26.199909],[80.85003,26.20018],[80.84993,26.20018],[80.84993,26.200361],[80.849829,26.200361],[80.849829,26.200451],[80.849729,26.200451],[80.849729,26.200812],[80.849929,26.200812],[80.849929,26.200903],[80.85002900000001,26.200903],[80.85002900000001,26.200812],[80.85042900000001,26.200813],[80.85042900000001,26.200903],[80.85052899999999,26.200903]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bishunpur"
@@ -44,9 +45,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672205,
         102191569,
         85632469,
-        85672205,
         1108695859
     ],
     "wof:breaches":[],
@@ -54,7 +55,7 @@
         "gn:id":10655146
     },
     "wof:country":"IN",
-    "wof:geomhash":"d677f4fe0e4641de2cc952cca4f43cab",
+    "wof:geomhash":"4c051e249cf7c2812773e6703c7cfce1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +66,22 @@
         }
     ],
     "wof:id":1226788717,
-    "wof:lastmodified":1566712674,
+    "wof:lastmodified":1680635234,
     "wof:name":"Bishunpur",
     "wof:parent_id":1108695859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847253655
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     83.09546,
-    27.11779000000001,
+    27.11779,
     83.09546,
-    27.11779000000001
+    27.11779
 ],
-  "geometry": {"coordinates":[83.09546,27.11779000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.09546,27.11779],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.31305,23.29274,74.31305,23.29274",
-    "geom:latitude":23.29274,
-    "geom:longitude":74.31305,
+    "geom:bbox":"74.307495,23.297519,74.308673,23.2986",
+    "geom:latitude":23.298013,
+    "geom:longitude":74.308032,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"125.0",
     "gn:asciiname":"Itala",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.29305,23.27274,74.33305,23.31274",
+    "ks:ks_alt_nam":"It\u0101la",
+    "ks:ks_id":"KSDACC5EE92C3C4A66A696F50E89C7A4BE",
+    "ks:ks_name":"Itala",
+    "ks:ks_pop":4704,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|436569",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_810386",
+    "lbl:latitude":23.298023,
+    "lbl:longitude":74.307992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.298023,
+    "mps:longitude":74.307992,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Itala"
+    ],
+    "name:eng_x_preferred":[
+        "Itala"
+    ],
+    "name:eng_x_variant":[
+        "It\u0101la"
     ],
     "name:fin_x_preferred":[
         "Itala"
@@ -66,7 +83,13 @@
     "name:ukr_x_preferred":[
         "Itala"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10802947
+        "gn:id":10802947,
+        "ks:id":"KSDACC5EE92C3C4A66A696F50E89C7A4BE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d56c38459788c7d078872ef9ec74bfe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71f2db52f3035bb72fd987eb0807e42e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1226804757,
-    "wof:lastmodified":1566711358,
+    "wof:lastmodified":1680677291,
     "wof:name":"Itala",
     "wof:parent_id":1108695781,
     "wof:placetype":"locality",
+    "wof:population":4704,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.31305,
-    23.29274,
-    74.31305,
-    23.29274
+    74.307495,
+    23.297519,
+    74.308673,
+    23.2986
 ],
-  "geometry": {"coordinates":[74.31305,23.29274],"type":"Point"}
+  "geometry": {"coordinates":[[[74.30768999999999,23.2986],[74.30769100000001,23.29851],[74.307886,23.298511],[74.30788699999999,23.29842],[74.307984,23.298421],[74.307985,23.29833],[74.30817999999999,23.298331],[74.308181,23.298241],[74.308279,23.298241],[74.308279,23.298151],[74.30837699999999,23.298151],[74.30837699999999,23.298061],[74.308475,23.298062],[74.308476,23.297971],[74.308573,23.297972],[74.30857399999999,23.297791],[74.308672,23.297791],[74.308673,23.297611],[74.308575,23.29761],[74.308576,23.29752],[74.30828200000001,23.297519],[74.30828200000001,23.297609],[74.30798900000001,23.297608],[74.30798799999999,23.297698],[74.307793,23.297697],[74.30779200000001,23.297788],[74.307694,23.297787],[74.307694,23.297877],[74.307596,23.297877],[74.30759500000001,23.298148],[74.307497,23.298148],[74.307495,23.298599],[74.30768999999999,23.2986]]],"type":"Polygon"}
 }
