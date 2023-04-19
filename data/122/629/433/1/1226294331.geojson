@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.99839,22.30585,82.99839,22.30585",
-    "geom:latitude":22.30585,
-    "geom:longitude":82.99839,
+    "geom:bbox":"82.996786,22.304446,82.99948,22.307141",
+    "geom:latitude":22.305637,
+    "geom:longitude":82.998198,
     "gn:admin1_code":"37",
     "gn:admin2_code":"404.0",
     "gn:asciiname":"Champa",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.97839,22.28585,83.01839,22.32585",
+    "ks:ks_alt_nam":"Ch\u0101mpa",
+    "ks:ks_id":"KS780DD8F01CE34D2F8908A81773523DCE",
+    "ks:ks_name":"Champa",
+    "ks:ks_pop":1265,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|198924",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1024065",
+    "lbl:latitude":22.30564,
+    "lbl:longitude":82.998089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.30564,
+    "mps:longitude":82.998089,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Champa"
@@ -59,6 +70,12 @@
     ],
     "name:deu_x_preferred":[
         "Champa"
+    ],
+    "name:eng_x_preferred":[
+        "Champa"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101mpa"
     ],
     "name:epo_x_preferred":[
         "\u0108ampa"
@@ -153,7 +170,13 @@
     "name:vie_x_preferred":[
         "Ch\u0103m Pa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -162,10 +185,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10707606
+        "gn:id":10707606,
+        "ks:id":"KS780DD8F01CE34D2F8908A81773523DCE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"854bfcc5ac29781e85653691f52a0452",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b806ecc20024126c113c12b1dae36ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,20 +203,22 @@
         }
     ],
     "wof:id":1226294331,
-    "wof:lastmodified":1566711561,
+    "wof:lastmodified":1680677456,
     "wof:name":"Champa",
     "wof:parent_id":890511347,
     "wof:placetype":"locality",
+    "wof:population":1265,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.99839,
-    22.30585,
-    82.99839,
-    22.30585
+    82.996786,
+    22.304446,
+    82.99948,
+    22.307141
 ],
-  "geometry": {"coordinates":[82.99839,22.30585],"type":"Point"}
+  "geometry": {"coordinates":[[[82.998941,22.307141],[82.998941,22.306063],[82.99948000000001,22.306063],[82.99948000000001,22.304446],[82.998402,22.304446],[82.998402,22.304716],[82.996786,22.304716],[82.996786,22.305794],[82.997055,22.305794],[82.997055,22.306602],[82.997863,22.306602],[82.997863,22.306872],[82.998402,22.306872],[82.998402,22.307141],[82.998941,22.307141]]],"type":"Polygon"}
 }

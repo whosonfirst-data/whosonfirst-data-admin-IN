@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.26205,11.54717,79.26205,11.54717",
-    "geom:latitude":11.54717,
-    "geom:longitude":79.26205,
+    "geom:bbox":"79.264133,11.544419,79.265416,11.545237",
+    "geom:latitude":11.544865,
+    "geom:longitude":79.264706,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"617.0",
     "gn:asciiname":"Rajapalaiyam",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.24205,11.52717,79.28205,11.56717",
+    "ks:ks_id":"KSC6FD241DFFE5451D86B4DB2712D9DE26",
+    "ks:ks_name":"Rasapalayam",
+    "ks:ks_pop":1210,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|912843",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_215471",
+    "lbl:latitude":11.544883,
+    "lbl:longitude":79.264694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.544883,
+    "mps:longitude":79.264694,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u0627\u0628\u0627\u0644\u064a\u0627\u0645"
@@ -38,6 +48,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03c4\u03b6\u03b1\u03c0\u03b1\u03bb\u03b1\u0390\u03b3\u03b9\u03b1\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Rasapalayam"
+    ],
+    "name:eng_x_variant":[
+        "Rajapalaiyam"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u062c\u0627\u067e\u0627\u0644\u0627\u06cc\u0627\u0645"
@@ -78,7 +94,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u062c\u0627\u067e\u0627\u0644\u0627\u0626\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11601510
+        "gn:id":11601510,
+        "ks:id":"KSC6FD241DFFE5451D86B4DB2712D9DE26"
     },
     "wof:country":"IN",
-    "wof:geomhash":"27c007f38ec28cf4e3495312e889b35c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1659d63967dbe5c7404613503a608ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +127,22 @@
         }
     ],
     "wof:id":1226310431,
-    "wof:lastmodified":1636505975,
-    "wof:name":"Rajapalaiyam",
+    "wof:lastmodified":1680678873,
+    "wof:name":"Rasapalayam",
     "wof:parent_id":890502623,
     "wof:placetype":"locality",
+    "wof:population":1210,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.26205,
-    11.54717,
-    79.26205,
-    11.54717
+    79.264133,
+    11.544419,
+    79.265416,
+    11.545237
 ],
-  "geometry": {"coordinates":[79.26205,11.54717],"type":"Point"}
+  "geometry": {"coordinates":[[[79.264864,11.545237],[79.264864,11.545146],[79.265323,11.545149],[79.265323,11.545059],[79.265415,11.545059],[79.265416,11.544878],[79.26532400000001,11.544878],[79.265325,11.544787],[79.265142,11.544786],[79.265142,11.544696],[79.265051,11.544695],[79.265051,11.544605],[79.264684,11.544603],[79.264685,11.544512],[79.26450199999999,11.544511],[79.26450199999999,11.544421],[79.26422700000001,11.544419],[79.26422599999999,11.5446],[79.264134,11.5446],[79.264133,11.544871],[79.264224,11.544871],[79.264223,11.545052],[79.264315,11.545053],[79.264314,11.545143],[79.26440599999999,11.545144],[79.26440599999999,11.545234],[79.264864,11.545237]]],"type":"Polygon"}
 }
