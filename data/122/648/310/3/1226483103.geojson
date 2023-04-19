@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000017,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.35431,25.26714,84.35431,25.26714",
-    "geom:latitude":25.26714,
-    "geom:longitude":84.35431,
+    "geom:bbox":"84.351265,25.262688,84.356386,25.269156",
+    "geom:latitude":25.26618,
+    "geom:longitude":84.353447,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"231.0",
     "gn:asciiname":"Katar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.33431,25.24714,84.37431,25.28714",
+    "ks:ks_alt_nam":"K\u0101tar",
+    "ks:ks_id":"KSECABD28533444FDDAD8860DC8A037726",
+    "ks:ks_name":"Katar",
+    "ks:ks_pop":10168,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13287375",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1340306",
+    "lbl:latitude":25.266731,
+    "lbl:longitude":84.353835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.266731,
+    "mps:longitude":84.353835,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Katar"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Katar"
+    ],
+    "name:eng_x_preferred":[
+        "Katar"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101tar"
     ],
     "name:epo_x_preferred":[
         "Kataro"
@@ -66,7 +83,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10837653
+        "gn:id":10837653,
+        "ks:id":"KSECABD28533444FDDAD8860DC8A037726"
     },
     "wof:country":"IN",
-    "wof:geomhash":"29db2a74cf2f9c23fc028146abbd1cde",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a1503629790cdc3524d66589fc085af7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1226483103,
-    "wof:lastmodified":1566712976,
+    "wof:lastmodified":1680678563,
     "wof:name":"Katar",
     "wof:parent_id":1108695939,
     "wof:placetype":"locality",
+    "wof:population":10168,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.35431,
-    25.26714,
-    84.35431,
-    25.26714
+    84.351265,
+    25.262688,
+    84.356386,
+    25.269156
 ],
-  "geometry": {"coordinates":[84.35431,25.26714],"type":"Point"}
+  "geometry": {"coordinates":[[[84.353691,25.269156],[84.353691,25.268078],[84.35396,25.268078],[84.35396,25.268887],[84.354769,25.268887],[84.354769,25.268348],[84.35503799999999,25.268348],[84.35503799999999,25.267809],[84.35530799999999,25.267809],[84.35530799999999,25.267],[84.356116,25.267],[84.356116,25.266731],[84.356386,25.266731],[84.356386,25.266192],[84.355847,25.266192],[84.355847,25.265922],[84.355577,25.265922],[84.355577,25.265653],[84.355847,25.265653],[84.355847,25.265114],[84.354769,25.265114],[84.354769,25.264844],[84.35503799999999,25.264844],[84.35503799999999,25.264575],[84.35396,25.264575],[84.35396,25.265383],[84.353421,25.265383],[84.353421,25.264844],[84.35288199999999,25.264844],[84.35288199999999,25.264036],[84.35261300000001,25.264036],[84.35261300000001,25.262688],[84.351804,25.262688],[84.351804,25.263497],[84.351265,25.263497],[84.351265,25.266731],[84.352074,25.266731],[84.352074,25.266461],[84.352343,25.266461],[84.352343,25.267539],[84.35261300000001,25.267539],[84.35261300000001,25.268348],[84.352343,25.268348],[84.352343,25.268617],[84.35261300000001,25.268617],[84.35261300000001,25.268887],[84.35288199999999,25.268887],[84.35288199999999,25.269156],[84.353691,25.269156]]],"type":"Polygon"}
 }

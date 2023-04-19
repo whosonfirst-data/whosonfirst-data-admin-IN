@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.35247,26.283,83.35247,26.283",
-    "geom:latitude":26.283,
-    "geom:longitude":83.35247,
+    "geom:bbox":"83.351792,26.281642,83.353415,26.283728",
+    "geom:latitude":26.282749,
+    "geom:longitude":83.352611,
     "gn:admin1_code":"36",
     "gn:admin2_code":"191.0",
     "gn:asciiname":"Patna",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.33247,26.263,83.37247,26.303",
+    "ks:ks_id":"KSA05C1A3F18B94D5BB664C08EE4C6BD96",
+    "ks:ks_name":"Patna",
+    "ks:ks_source_id":"N|13097492",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1956745",
+    "lbl:latitude":26.282777,
+    "lbl:longitude":83.352595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.282777,
+    "mps:longitude":83.352595,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Patna"
@@ -92,6 +100,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c4\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Patna"
     ],
     "name:epo_x_preferred":[
         "Patnao"
@@ -306,7 +317,11 @@
     "name:zho_x_preferred":[
         "\u5df4\u7279\u90a3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -315,10 +330,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10664994
+        "gn:id":10664994,
+        "ks:id":"KSA05C1A3F18B94D5BB664C08EE4C6BD96"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0113b7e5c7433291fc729833fe62bba1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3cf5e473810566742cc08bad25d9e44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -329,7 +348,7 @@
         }
     ],
     "wof:id":1226486049,
-    "wof:lastmodified":1576022827,
+    "wof:lastmodified":1680678513,
     "wof:name":"Patna",
     "wof:parent_id":1108695871,
     "wof:placetype":"locality",
@@ -339,10 +358,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.35247,
-    26.283,
-    83.35247,
-    26.283
+    83.351792,
+    26.281642,
+    83.353415,
+    26.283728
 ],
-  "geometry": {"coordinates":[83.35247,26.283],"type":"Point"}
+  "geometry": {"coordinates":[[[83.353122,26.283715],[83.35312,26.283625],[83.35321999999999,26.283623],[83.353219,26.283533],[83.353319,26.283531],[83.35331499999999,26.283351],[83.353415,26.283349],[83.353397,26.282447],[83.353297,26.282449],[83.35329299999999,26.282268],[83.353193,26.28227],[83.353184,26.281819],[83.353084,26.281821],[83.353082,26.28173],[83.352982,26.281732],[83.35298,26.281642],[83.35268000000001,26.281647],[83.352682,26.281737],[83.35238200000001,26.281742],[83.352383,26.281832],[83.352183,26.281835],[83.35218500000001,26.281926],[83.352085,26.281927],[83.352087,26.282017],[83.35198699999999,26.282019],[83.351989,26.282109],[83.351888,26.282111],[83.35189200000001,26.282291],[83.351792,26.282293],[83.351812,26.283285],[83.351912,26.283284],[83.351918,26.283554],[83.352118,26.283551],[83.35212,26.283641],[83.35232000000001,26.283638],[83.352322,26.283728],[83.353122,26.283715]]],"type":"Polygon"}
 }

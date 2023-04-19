@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.46404,24.92305,81.46404,24.92305",
-    "geom:latitude":24.92305,
-    "geom:longitude":81.46404,
+    "geom:bbox":"81.45092,24.933422,81.452506,24.934235",
+    "geom:latitude":24.93384,
+    "geom:longitude":81.451725,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Purwa",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.44404,24.90305,81.48404,24.94305",
+    "ks:ks_id":"KS6B0A28DDE971477D987D9C91DDF0AF37",
+    "ks:ks_name":"Purwa",
+    "ks:ks_pop":19,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|880907",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1040817",
+    "lbl:latitude":24.933783,
+    "lbl:longitude":81.451804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.933783,
+    "mps:longitude":81.451804,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c1\u09b0\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Purwa"
+    ],
+    "name:eng_x_preferred":[
         "Purwa"
     ],
     "name:hin_x_preferred":[
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u666e\u5c14\u74e6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10531303
+        "gn:id":10531303,
+        "ks:id":"KS6B0A28DDE971477D987D9C91DDF0AF37"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f8998a0c1d0c63b63aaf91178d960bbf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"90d61abf51c1dccf0db518d03e9b36fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1226482791,
-    "wof:lastmodified":1566712940,
+    "wof:lastmodified":1680678541,
     "wof:name":"Purwa",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.46404,
-    24.92305,
-    81.46404,
-    24.92305
+    81.45092,
+    24.933422,
+    81.452506,
+    24.934235
 ],
-  "geometry": {"coordinates":[81.46404,24.92305],"type":"Point"}
+  "geometry": {"coordinates":[[[81.452308,24.934233],[81.452308,24.934143],[81.452506,24.934142],[81.452505,24.933962],[81.452406,24.933962],[81.452406,24.933872],[81.452307,24.933872],[81.45230599999999,24.933782],[81.452207,24.933782],[81.452207,24.933692],[81.452108,24.933692],[81.452108,24.933602],[81.452009,24.933602],[81.45200800000001,24.933512],[81.45180999999999,24.933512],[81.45180999999999,24.933422],[81.451711,24.933422],[81.451711,24.933513],[81.451117,24.933514],[81.451117,24.933605],[81.451018,24.933605],[81.451019,24.933695],[81.45092,24.933696],[81.45092099999999,24.933966],[81.45161400000001,24.933964],[81.45161400000001,24.934055],[81.451713,24.934054],[81.451714,24.934145],[81.451813,24.934144],[81.451813,24.934235],[81.452308,24.934233]]],"type":"Polygon"}
 }

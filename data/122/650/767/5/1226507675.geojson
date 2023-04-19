@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.65855,12.87541,76.65855,12.87541",
-    "geom:latitude":12.87541,
-    "geom:longitude":76.65855,
+    "geom:bbox":"76.65763,12.875243,76.659657,12.876244",
+    "geom:latitude":12.875811,
+    "geom:longitude":76.658571,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"573.0",
     "gn:asciiname":"Hosur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.63855,12.85541,76.67855,12.89541",
+    "ks:ks_alt_nam":"Hos\u016br",
+    "ks:ks_id":"KS66F9044BCDFD4D7D967907B211702F6E",
+    "ks:ks_name":"Hosur",
+    "ks:ks_pop":290,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13376210",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_261935",
+    "lbl:latitude":12.875695,
+    "lbl:longitude":76.658724,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.875695,
+    "mps:longitude":76.658724,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0648\u0631"
@@ -53,6 +64,12 @@
     ],
     "name:deu_x_preferred":[
         "Hosur"
+    ],
+    "name:eng_x_preferred":[
+        "Hosur"
+    ],
+    "name:eng_x_variant":[
+        "Hos\u016br"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab8\u0ac1\u0ab0"
@@ -108,7 +125,13 @@
     "name:zho_x_preferred":[
         "\u970d\u82cf\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10896060
+        "gn:id":10896060,
+        "ks:id":"KS66F9044BCDFD4D7D967907B211702F6E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4beadb52b92ab7422474172a76e15d9c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"310271775f98292c128c5b9bc2729eec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +158,22 @@
         }
     ],
     "wof:id":1226507675,
-    "wof:lastmodified":1577754315,
+    "wof:lastmodified":1680677836,
     "wof:name":"Hosur",
     "wof:parent_id":890506059,
     "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.65855,
-    12.87541,
-    76.65855,
-    12.87541
+    76.65763,
+    12.875243,
+    76.659657,
+    12.876244
 ],
-  "geometry": {"coordinates":[76.65855000000001,12.87541],"type":"Point"}
+  "geometry": {"coordinates":[[[76.65845899999999,12.876058],[76.65891999999999,12.876055],[76.65891999999999,12.876145],[76.659657,12.876141],[76.659657,12.87605],[76.659565,12.876051],[76.65956300000001,12.87587],[76.659471,12.875871],[76.659471,12.87578],[76.659194,12.875782],[76.659193,12.875511],[76.659008,12.875512],[76.659008,12.875422],[76.658916,12.875422],[76.65891499999999,12.875332],[76.65863899999999,12.875334],[76.658638,12.875243],[76.658546,12.875244],[76.658547,12.875425],[76.658455,12.875425],[76.658455,12.875516],[76.65836299999999,12.875516],[76.65836400000001,12.875606],[76.658272,12.875607],[76.658271,12.875426],[76.65817800000001,12.875427],[76.65817800000001,12.875336],[76.658086,12.875337],[76.658086,12.875427],[76.65790200000001,12.875429],[76.657903,12.875609],[76.657811,12.87561],[76.65781200000001,12.8757],[76.65772,12.875701],[76.657721,12.875882],[76.657813,12.875881],[76.657815,12.876152],[76.65763,12.876153],[76.65763099999999,12.876244],[76.65818400000001,12.87624],[76.65818299999999,12.87615],[76.65846000000001,12.876148],[76.65845899999999,12.876058]]],"type":"Polygon"}
 }

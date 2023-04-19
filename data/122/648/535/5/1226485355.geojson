@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.7955,26.40819,80.7955,26.40819",
-    "geom:latitude":26.40819,
-    "geom:longitude":80.7955,
+    "geom:bbox":"80.794311,26.407609,80.796017,26.408693",
+    "geom:latitude":26.408179,
+    "geom:longitude":80.795244,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156.0",
     "gn:asciiname":"Saloni",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.7755,26.38819,80.8155,26.42819",
+    "ks:ks_id":"KS138333192ADA418EA638F65163797C45",
+    "ks:ks_name":"Saloli",
+    "ks:ks_pop":175,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|943347",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1869181",
+    "lbl:latitude":26.408203,
+    "lbl:longitude":80.795261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.408203,
+    "mps:longitude":80.795261,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0627\u0644\u0648\u0646\u064a"
@@ -40,6 +50,12 @@
         "\u09b8\u09be\u09b2\u09cb\u09a8\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Saloni"
+    ],
+    "name:eng_x_preferred":[
+        "Saloli"
+    ],
+    "name:eng_x_variant":[
         "Saloni"
     ],
     "name:guj_x_preferred":[
@@ -69,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u0648\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10553694
+        "gn:id":10553694,
+        "ks:id":"KS138333192ADA418EA638F65163797C45"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d684b111d1332d4590c2df12e31a78fa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9b25418fa32a59e2b99bbecc9f1ea5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1226485355,
-    "wof:lastmodified":1577754533,
-    "wof:name":"Saloni",
+    "wof:lastmodified":1680678498,
+    "wof:name":"Saloli",
     "wof:parent_id":1108695819,
     "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.7955,
-    26.40819,
-    80.7955,
-    26.40819
+    80.794311,
+    26.407609,
+    80.796017,
+    26.408693
 ],
-  "geometry": {"coordinates":[80.7955,26.40819],"type":"Point"}
+  "geometry": {"coordinates":[[[80.795113,26.408693],[80.795113,26.408602],[80.795615,26.408603],[80.795615,26.408513],[80.795715,26.408513],[80.795715,26.408423],[80.795816,26.408423],[80.795816,26.408333],[80.79591600000001,26.408333],[80.79591600000001,26.408242],[80.79601599999999,26.408243],[80.79601700000001,26.407972],[80.795917,26.407972],[80.795917,26.407791],[80.795817,26.407791],[80.795817,26.4077],[80.795616,26.4077],[80.79561699999999,26.40761],[80.795215,26.407609],[80.795215,26.4077],[80.79501500000001,26.407699],[80.79501399999999,26.40788],[80.79491400000001,26.40788],[80.79491400000001,26.40797],[80.794814,26.40797],[80.794814,26.40806],[80.794613,26.40806],[80.794613,26.40815],[80.79451299999999,26.40815],[80.794512,26.40824],[80.79441199999999,26.40824],[80.79441199999999,26.408421],[80.79431200000001,26.408421],[80.79431099999999,26.408511],[80.794512,26.408511],[80.794512,26.408602],[80.794813,26.408602],[80.79481199999999,26.408692],[80.795113,26.408693]]],"type":"Polygon"}
 }
