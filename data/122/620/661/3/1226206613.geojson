@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.00222,19.40136,83.00222,19.40136",
-    "geom:latitude":19.40136,
-    "geom:longitude":83.00222,
+    "geom:bbox":"83.001636,19.400912,83.002714,19.40172",
+    "geom:latitude":19.401316,
+    "geom:longitude":83.002175,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Ghumudisupel",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.98222,19.38136,83.02222,19.42136",
+    "ks:ks_id":"KSA1AFA3FEF48C4624847296F47F3C511E",
+    "ks:ks_name":"Ghumundisupel",
+    "ks:ks_pop":392,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2127001004700200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_453772",
+    "lbl:latitude":19.401316,
+    "lbl:longitude":83.002175,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.401316,
+    "mps:longitude":83.002175,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ghumundisupel"
+    ],
+    "name:eng_x_variant":[
+        "Ghumudisupel"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10775112
+        "gn:id":10775112,
+        "ks:id":"KSA1AFA3FEF48C4624847296F47F3C511E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d41997fc2eb35c4ea66618d4bf3eea9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed6d346edcffc27433c4751c3c36a643",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1226206613,
-    "wof:lastmodified":1566711502,
-    "wof:name":"Ghumudisupel",
+    "wof:lastmodified":1680677406,
+    "wof:name":"Ghumundisupel",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":392,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.00222,
-    19.40136,
-    83.00222,
-    19.40136
+    83.001636,
+    19.400912,
+    83.002714,
+    19.40172
 ],
-  "geometry": {"coordinates":[83.00221999999999,19.40136],"type":"Point"}
+  "geometry": {"coordinates":[[[83.002714,19.400912],[83.001636,19.400912],[83.001636,19.40172],[83.002714,19.40172],[83.002714,19.400912]]],"type":"Polygon"}
 }
