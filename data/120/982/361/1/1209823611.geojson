@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Allahabad"
@@ -287,9 +288,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672141,
         102191569,
         85632469,
-        85672141,
         890503989
     ],
     "wof:breaches":[],
@@ -297,7 +298,7 @@
         "gn:id":11268765
     },
     "wof:country":"IN",
-    "wof:geomhash":"b53a95bc0268e4963d0d02df9ee30e8d",
+    "wof:geomhash":"7e8907b42e637a9881204db4daf0ddf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -308,20 +309,22 @@
         }
     ],
     "wof:id":1209823611,
-    "wof:lastmodified":1577750832,
+    "wof:lastmodified":1680630123,
     "wof:name":"Allahabad",
     "wof:parent_id":890503989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847137231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.99868000000002,
+    77.99868,
     15.29049,
-    77.99868000000002,
+    77.99868,
     15.29049
 ],
-  "geometry": {"coordinates":[77.99868000000002,15.29049],"type":"Point"}
+  "geometry": {"coordinates":[77.99867999999999,15.29049],"type":"Point"}
 }

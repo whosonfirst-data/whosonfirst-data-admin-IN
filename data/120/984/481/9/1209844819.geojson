@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.81822,30.8621,77.81822,30.8621",
-    "geom:latitude":30.8621,
-    "geom:longitude":77.81822,
+    "geom:bbox":"77.817311,30.861211,77.818782,30.863476",
+    "geom:latitude":30.862259,
+    "geom:longitude":77.817958,
     "gn:admin1_code":"39",
     "gn:admin2_code":"60.0",
     "gn:asciiname":"Anu",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.79822,30.8421,77.83822,30.8821",
+    "ks:ks_alt_nam":"\u0100nu",
+    "ks:ks_id":"KS5B4A893C86E64B6AABF26E869ED0F066",
+    "ks:ks_name":"Anu",
+    "ks:ks_pop":605,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|41870",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2654010",
+    "lbl:latitude":30.862166,
+    "lbl:longitude":77.817972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.862166,
+    "mps:longitude":77.817972,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Anoe"
@@ -56,6 +67,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Anu"
+    ],
+    "name:eng_x_variant":[
+        "\u0100nu"
     ],
     "name:epo_x_preferred":[
         "Anu"
@@ -162,7 +179,13 @@
     "name:vie_x_preferred":[
         "Anu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,10 +194,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10744854
+        "gn:id":10744854,
+        "ks:id":"KS5B4A893C86E64B6AABF26E869ED0F066"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d49336c806b390c01ddbbe5173e2fc22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"785e62c83c785a3e0178a0efa098be50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +212,22 @@
         }
     ],
     "wof:id":1209844819,
-    "wof:lastmodified":1566695137,
+    "wof:lastmodified":1680661469,
     "wof:name":"Anu",
     "wof:parent_id":890507905,
     "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.81822,
-    30.8621,
-    77.81822,
-    30.8621
+    77.817311,
+    30.861211,
+    77.818782,
+    30.863476
 ],
-  "geometry": {"coordinates":[77.81822,30.8621],"type":"Point"}
+  "geometry": {"coordinates":[[[77.817677,30.863471],[77.81767499999999,30.863381],[77.81788400000001,30.863376],[77.817881,30.863286],[77.81809,30.863282],[77.81808700000001,30.863192],[77.818192,30.863189],[77.81818699999999,30.863009],[77.818291,30.863007],[77.818288,30.862917],[77.818393,30.862914],[77.818388,30.862734],[77.81849200000001,30.862732],[77.818487,30.862552],[77.818591,30.862549],[77.818583,30.862279],[77.81868799999999,30.862277],[77.81867699999999,30.861916],[77.818782,30.861914],[77.818776,30.861734],[77.81867200000001,30.861736],[77.818667,30.861556],[77.818562,30.861558],[77.81856000000001,30.861468],[77.818455,30.86147],[77.81845199999999,30.86138],[77.81824400000001,30.861385],[77.818241,30.861294],[77.81792799999999,30.861301],[77.817925,30.861211],[77.81782,30.861213],[77.817823,30.861304],[77.81761400000001,30.861308],[77.817617,30.861398],[77.81751199999999,30.8614],[77.817515,30.861491],[77.81741,30.861493],[77.81741599999999,30.861673],[77.817311,30.861675],[77.817335,30.862487],[77.81743899999999,30.862484],[77.81746099999999,30.863205],[77.817356,30.863208],[77.81736100000001,30.863388],[77.817466,30.863385],[77.81746800000001,30.863476],[77.817677,30.863471]]],"type":"Polygon"}
 }

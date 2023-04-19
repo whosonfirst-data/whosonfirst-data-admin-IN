@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.35062,26.67556,81.35062,26.67556",
-    "geom:latitude":26.67556,
-    "geom:longitude":81.35062,
+    "geom:bbox":"81.350022,26.674857,81.35143,26.676664",
+    "geom:latitude":26.675762,
+    "geom:longitude":81.350733,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Muzaffarpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.33062,26.65556,81.37062,26.69556",
+    "ks:ks_alt_nam":"MUZAFFAR PUR",
+    "ks:ks_id":"KS8499524925E34ACCA1D317C11BB3627C",
+    "ks:ks_name":"Muzaffar Pur",
+    "ks:ks_pop":474,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|159811",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1877512",
+    "lbl:latitude":26.67576,
+    "lbl:longitude":81.350733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.67576,
+    "mps:longitude":81.350733,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0638\u0641\u0631\u0628\u0648\u0631"
@@ -58,6 +69,12 @@
         "Muzaffarpur"
     ],
     "name:deu_x_preferred":[
+        "Muzaffarpur"
+    ],
+    "name:eng_x_preferred":[
+        "Muzaffar Pur"
+    ],
+    "name:eng_x_variant":[
         "Muzaffarpur"
     ],
     "name:fas_x_preferred":[
@@ -174,7 +191,13 @@
     "name:zho_x_preferred":[
         "\u7a46\u624e\u592b\u6cd5\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -183,10 +206,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10569965
+        "gn:id":10569965,
+        "ks:id":"KS8499524925E34ACCA1D317C11BB3627C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7a651e020b0f7ff048bd63c10103519e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"691643fed6ef627fdca94b350f488a03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,20 +224,22 @@
         }
     ],
     "wof:id":1209854911,
-    "wof:lastmodified":1636505541,
-    "wof:name":"Muzaffarpur",
+    "wof:lastmodified":1680661698,
+    "wof:name":"Muzaffar Pur",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":474,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.35062,
-    26.67556,
-    81.35062,
-    26.67556
+    81.350022,
+    26.674857,
+    81.35143,
+    26.676664
 ],
-  "geometry": {"coordinates":[81.35062000000001,26.67556],"type":"Point"}
+  "geometry": {"coordinates":[[[81.351032,26.676663],[81.35103100000001,26.676572],[81.35113200000001,26.676572],[81.35113200000001,26.676482],[81.351232,26.676482],[81.351231,26.676211],[81.351332,26.67621],[81.35133,26.675488],[81.35142999999999,26.675488],[81.351429,26.675307],[81.35132900000001,26.675308],[81.351328,26.675127],[81.35122800000001,26.675127],[81.35122800000001,26.675037],[81.35112700000001,26.675037],[81.35112700000001,26.674947],[81.351026,26.674947],[81.351026,26.674857],[81.350725,26.674858],[81.350725,26.674948],[81.35052399999999,26.674948],[81.35052399999999,26.675039],[81.350323,26.675039],[81.350323,26.675129],[81.350223,26.67513],[81.350223,26.67522],[81.350123,26.67522],[81.350123,26.675311],[81.350022,26.675311],[81.35002299999999,26.675582],[81.35012399999999,26.675581],[81.350126,26.676304],[81.35022600000001,26.676303],[81.350227,26.676484],[81.350328,26.676484],[81.350328,26.676574],[81.350629,26.676573],[81.35063,26.676664],[81.351032,26.676663]]],"type":"Polygon"}
 }

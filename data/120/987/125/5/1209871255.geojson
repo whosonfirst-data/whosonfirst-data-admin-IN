@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.34642,11.51031,79.34642,11.51031",
-    "geom:latitude":11.51031,
-    "geom:longitude":79.34642,
+    "geom:bbox":"79.345134,11.508763,79.34702,11.511189",
+    "geom:latitude":11.509989,
+    "geom:longitude":79.346257,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"617.0",
     "gn:asciiname":"Ponneri",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.32642,11.49031,79.36642,11.53031",
+    "ks:ks_alt_nam":"Ponn\u0113ri",
+    "ks:ks_id":"KSB38E83CB56F3460EA98E0E8457132BBF",
+    "ks:ks_name":"Ponneri",
+    "ks:ks_source_id":"N|14235868",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_193687",
+    "lbl:latitude":11.510003,
+    "lbl:longitude":79.346351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.510003,
+    "mps:longitude":79.346351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u09a8\u09c7\u09b0\u09bf"
@@ -38,6 +47,12 @@
     ],
     "name:deu_x_preferred":[
         "Ponneri"
+    ],
+    "name:eng_x_preferred":[
+        "Ponneri"
+    ],
+    "name:eng_x_variant":[
+        "Ponn\u0113ri"
     ],
     "name:hif_x_preferred":[
         "Ponneri"
@@ -75,7 +90,11 @@
     "name:zho_x_preferred":[
         "\u6ce2\u5185\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11601528
+        "gn:id":11601528,
+        "ks:id":"KSB38E83CB56F3460EA98E0E8457132BBF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"06bc0ace068705b5d6420bf92beac7f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"87bd83898605f159c297338b3e7c5c85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +121,7 @@
         }
     ],
     "wof:id":1209871255,
-    "wof:lastmodified":1566696713,
+    "wof:lastmodified":1680662547,
     "wof:name":"Ponneri",
     "wof:parent_id":890502623,
     "wof:placetype":"locality",
@@ -108,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.34642,
-    11.51031,
-    79.34642,
-    11.51031
+    79.345134,
+    11.508763,
+    79.34702,
+    11.511189
 ],
-  "geometry": {"coordinates":[79.34641999999999,11.51031],"type":"Point"}
+  "geometry": {"coordinates":[[[79.34594199999999,11.509033],[79.34594199999999,11.508763],[79.34567300000001,11.508763],[79.34567300000001,11.509033],[79.345134,11.509033],[79.345134,11.509572],[79.34567300000001,11.509572],[79.34567300000001,11.51065],[79.34594199999999,11.51065],[79.34594199999999,11.511189],[79.34702,11.511189],[79.34702,11.509302],[79.346751,11.509302],[79.346751,11.509033],[79.34594199999999,11.509033]]],"type":"Polygon"}
 }

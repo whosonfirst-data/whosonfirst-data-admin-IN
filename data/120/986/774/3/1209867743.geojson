@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.47787,21.05255,82.47787,21.05255",
-    "geom:latitude":21.05255,
-    "geom:longitude":82.47787,
+    "geom:bbox":"82.47693,21.051836,82.478278,21.052914",
+    "geom:latitude":21.052366,
+    "geom:longitude":82.477676,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Kusapali",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.45787,21.03255,82.49787,21.07255",
+    "ks:ks_id":"KSCC5E29B505F64AA59763C33690992BCB",
+    "ks:ks_name":"Kuspali",
+    "ks:ks_pop":77,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|607931",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_993892",
+    "lbl:latitude":21.052375,
+    "lbl:longitude":82.477676,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.052375,
+    "mps:longitude":82.477676,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kuspali"
+    ],
+    "name:eng_x_variant":[
+        "Kusapali"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10709413
+        "gn:id":10709413,
+        "ks:id":"KSCC5E29B505F64AA59763C33690992BCB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a2ee6c44ef9ddc5b0b149ffb4dad7f04",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b41c4ec6cae9c46b3f765d3e060a9b33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1209867743,
-    "wof:lastmodified":1566697239,
-    "wof:name":"Kusapali",
+    "wof:lastmodified":1680662903,
+    "wof:name":"Kuspali",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.47787,
-    21.05255,
-    82.47787,
-    21.05255
+    82.47693,
+    21.051836,
+    82.478278,
+    21.052914
 ],
-  "geometry": {"coordinates":[82.47787,21.05255],"type":"Point"}
+  "geometry": {"coordinates":[[[82.478008,21.052644],[82.478008,21.052375],[82.478278,21.052375],[82.478278,21.051836],[82.477469,21.051836],[82.477469,21.052105],[82.47693,21.052105],[82.47693,21.052644],[82.477469,21.052644],[82.477469,21.052914],[82.478278,21.052914],[82.478278,21.052644],[82.478008,21.052644]]],"type":"Polygon"}
 }

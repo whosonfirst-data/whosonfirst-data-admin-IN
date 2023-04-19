@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.36213,24.85744,84.36213,24.85744",
-    "geom:latitude":24.85744,
-    "geom:longitude":84.36213,
+    "geom:bbox":"84.361353,24.856429,84.363433,24.857883",
+    "geom:latitude":24.857165,
+    "geom:longitude":84.362311,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Islampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.34213,24.83744,84.38213,24.87744",
+    "ks:ks_id":"KS4B8CC53C5F2B4C848BCCEC0CCFB41C58",
+    "ks:ks_name":"Islampur",
+    "ks:ks_pop":105,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|435788",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1154565",
+    "lbl:latitude":24.857157,
+    "lbl:longitude":84.362227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.857157,
+    "mps:longitude":84.362227,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "Islampur"
     ],
     "name:deu_x_preferred":[
+        "Islampur"
+    ],
+    "name:eng_x_preferred":[
         "Islampur"
     ],
     "name:new_x_preferred":[
@@ -51,7 +64,13 @@
     "name:vie_x_preferred":[
         "Islampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10838184
+        "gn:id":10838184,
+        "ks:id":"KS4B8CC53C5F2B4C848BCCEC0CCFB41C58"
     },
     "wof:country":"IN",
-    "wof:geomhash":"65dc0cf00da5aece2591b8f2ee032ee1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5722df9ef79563a230fe1725a1453ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1209856525,
-    "wof:lastmodified":1566695515,
+    "wof:lastmodified":1680661724,
     "wof:name":"Islampur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.36213000000002,
-    24.85744,
-    84.36213000000002,
-    24.85744
+    84.361353,
+    24.856429,
+    84.363433,
+    24.857883
 ],
-  "geometry": {"coordinates":[84.36213000000002,24.85744],"type":"Point"}
+  "geometry": {"coordinates":[[[84.36242900000001,24.857883],[84.362431,24.857793],[84.362629,24.857796],[84.36263099999999,24.857706],[84.362927,24.857711],[84.36292899999999,24.857621],[84.363028,24.857623],[84.36302999999999,24.857533],[84.36322800000001,24.857536],[84.36323,24.857446],[84.36332899999999,24.857448],[84.36333,24.857357],[84.363429,24.857359],[84.363433,24.857179],[84.36333399999999,24.857177],[84.363338,24.856997],[84.36323899999999,24.856995],[84.363241,24.856905],[84.363142,24.856903],[84.36314400000001,24.856813],[84.363045,24.856811],[84.36304699999999,24.856721],[84.362849,24.856717],[84.36285100000001,24.856627],[84.36265400000001,24.856624],[84.362656,24.856533],[84.362557,24.856532],[84.362559,24.856441],[84.36186600000001,24.856429],[84.361864,24.856519],[84.361766,24.856518],[84.36176399999999,24.856608],[84.361665,24.856606],[84.36166299999999,24.856696],[84.361564,24.856694],[84.36156200000001,24.856785],[84.361463,24.856783],[84.36146100000001,24.856873],[84.361362,24.856871],[84.36135299999999,24.857323],[84.361452,24.857324],[84.361448,24.857505],[84.361547,24.857506],[84.361543,24.857687],[84.361642,24.857689],[84.36163999999999,24.857779],[84.36183800000001,24.857782],[84.361836,24.857873],[84.36242900000001,24.857883]]],"type":"Polygon"}
 }
