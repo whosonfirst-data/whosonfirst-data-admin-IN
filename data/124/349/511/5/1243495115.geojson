@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.25636,24.58964,84.25636,24.58964",
-    "geom:latitude":24.58964,
-    "geom:longitude":84.25636,
+    "geom:bbox":"84.246162,24.591377,84.24751,24.592455",
+    "geom:latitude":24.591987,
+    "geom:longitude":84.246852,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Anhkupa",
@@ -24,13 +24,37 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.23636,24.56964,84.27636,24.60964",
+    "ks:ks_alt_nam":"Ankup\u0101",
+    "ks:ks_id":"KS9EC28349DF3349F7BD7306BEDCC8EA24",
+    "ks:ks_name":"Ankupa",
+    "ks:ks_pop":567,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13284487",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1048287",
+    "lbl:latitude":24.592024,
+    "lbl:longitude":84.246906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.592024,
+    "mps:longitude":84.246906,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ankupa"
+    ],
+    "name:eng_x_variant":[
+        "Anhkupa",
+        "Ankup\u0101"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10979838
+        "gn:id":10979838,
+        "ks:id":"KS9EC28349DF3349F7BD7306BEDCC8EA24"
     },
     "wof:country":"IN",
-    "wof:geomhash":"72b296f9f5cc1c472bc179611a420fad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1171b29cd1747d66489b8a75890fdd1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +81,22 @@
         }
     ],
     "wof:id":1243495115,
-    "wof:lastmodified":1566706755,
-    "wof:name":"Anhkupa",
+    "wof:lastmodified":1680671305,
+    "wof:name":"Ankupa",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":567,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.25636,
-    24.58964,
-    84.25636,
-    24.58964
+    84.246162,
+    24.591377,
+    84.24751,
+    24.592455
 ],
-  "geometry": {"coordinates":[84.25636,24.58964],"type":"Point"}
+  "geometry": {"coordinates":[[[84.246701,24.591377],[84.246701,24.591647],[84.246162,24.591647],[84.246162,24.592455],[84.24751000000001,24.592455],[84.24751000000001,24.591647],[84.24724000000001,24.591647],[84.24724000000001,24.591377],[84.246701,24.591377]]],"type":"Polygon"}
 }

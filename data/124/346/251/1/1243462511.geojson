@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.84176,17.28619,81.84176,17.28619",
-    "geom:latitude":17.28619,
-    "geom:longitude":81.84176,
+    "geom:bbox":"81.841303,17.285047,81.843093,17.286858",
+    "geom:latitude":17.286049,
+    "geom:longitude":81.842224,
     "gn:admin1_code":"2",
     "gn:admin2_code":"545.0",
     "gn:asciiname":"Venkatapuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.82176,17.26619,81.86176,17.30619",
+    "ks:ks_id":"KSF9AC16090AA54BBAAEAF35B51FBE1B8F",
+    "ks:ks_name":"Venkatapuram",
+    "ks:ks_pop":137,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1094860",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_588006",
+    "lbl:latitude":17.286094,
+    "lbl:longitude":81.842241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":17.286094,
+    "mps:longitude":81.842241,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0643\u0627\u062a\u0628\u0648\u0631\u0627\u0645"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09c7\u0999\u09cd\u0995\u099f\u09aa\u09c2\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Venkatapuram"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a82\u0a95\u0a9f\u0aaa\u0ac1\u0ab0\u0aae"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06a9\u0679\u0627 \u067e\u0648\u0631\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10746315
+        "gn:id":10746315,
+        "ks:id":"KSF9AC16090AA54BBAAEAF35B51FBE1B8F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"984bfbae7e7bbd642045fdae15681a65",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"930960cbea8685ff6b4ad986ff7d9f10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1243462511,
-    "wof:lastmodified":1577752973,
+    "wof:lastmodified":1680671158,
     "wof:name":"Venkatapuram",
     "wof:parent_id":890506393,
     "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.84176,
-    17.28619,
-    81.84176,
-    17.28619
+    81.841303,
+    17.285047,
+    81.843093,
+    17.286858
 ],
-  "geometry": {"coordinates":[81.84175999999999,17.28619],"type":"Point"}
+  "geometry": {"coordinates":[[[81.842625,17.286855],[81.842625,17.286765],[81.84281300000001,17.286764],[81.842812,17.286583],[81.842906,17.286583],[81.842906,17.286492],[81.843,17.286492],[81.84299900000001,17.286311],[81.843093,17.286311],[81.84309,17.285678],[81.842996,17.285678],[81.842995,17.285498],[81.842901,17.285498],[81.8429,17.285227],[81.842806,17.285227],[81.842805,17.285137],[81.842617,17.285138],[81.842617,17.285047],[81.842523,17.285048],[81.842523,17.285138],[81.84233500000001,17.285139],[81.84233500000001,17.285229],[81.842147,17.28523],[81.84214799999999,17.28532],[81.84196,17.285321],[81.84196,17.285412],[81.841866,17.285412],[81.841866,17.285502],[81.841584,17.285503],[81.841584,17.285594],[81.84148999999999,17.285594],[81.841491,17.285685],[81.841397,17.285685],[81.841397,17.285775],[81.841303,17.285776],[81.841307,17.286589],[81.841401,17.286589],[81.841401,17.286679],[81.84149499999999,17.286679],[81.84149600000001,17.286769],[81.841872,17.286768],[81.841872,17.286858],[81.842625,17.286855]]],"type":"Polygon"}
 }

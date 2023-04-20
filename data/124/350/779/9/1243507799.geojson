@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.6451,23.08675,78.6451,23.08675",
-    "geom:latitude":23.08675,
-    "geom:longitude":78.6451,
+    "geom:bbox":"78.644045,23.085546,78.646218,23.087983",
+    "geom:latitude":23.086811,
+    "geom:longitude":78.645155,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Kumhari",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.6251,23.06675,78.6651,23.10675",
+    "ks:ks_id":"KS934E372074884A869029EEED92FF7739",
+    "ks:ks_name":"Kumhadi",
+    "ks:ks_pop":331,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|597989",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_921891",
+    "lbl:latitude":23.086847,
+    "lbl:longitude":78.645176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.086847,
+    "mps:longitude":78.645176,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09b9\u09be\u09b0\u09bf"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Kumh\u0101ri"
+    ],
+    "name:eng_x_preferred":[
+        "Kumhadi"
+    ],
+    "name:eng_x_variant":[
+        "Kumhari"
     ],
     "name:ita_x_preferred":[
         "Kumhari"
@@ -69,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5e93\u59c6\u54c8\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192992
+        "gn:id":10192992,
+        "ks:id":"KS934E372074884A869029EEED92FF7739"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a3eedc2913e5c763eeedc25eb745b571",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f23df0e8a8d46864775086ea4235c7a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1243507799,
-    "wof:lastmodified":1566707186,
-    "wof:name":"Kumhari",
+    "wof:lastmodified":1680671554,
+    "wof:name":"Kumhadi",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.6451,
-    23.08675,
-    78.6451,
-    23.08675
+    78.644045,
+    23.085546,
+    78.646218,
+    23.087983
 ],
-  "geometry": {"coordinates":[78.6451,23.08675],"type":"Point"}
+  "geometry": {"coordinates":[[[78.64491700000001,23.087983],[78.644919,23.087893],[78.645797,23.087906],[78.645798,23.087815],[78.64589599999999,23.087817],[78.645899,23.087636],[78.64599699999999,23.087638],[78.646,23.087457],[78.646097,23.087459],[78.646107,23.086917],[78.646204,23.086919],[78.646218,23.086106],[78.64612099999999,23.086105],[78.64612200000001,23.086015],[78.64602499999999,23.086013],[78.64602600000001,23.085923],[78.645929,23.085922],[78.64593000000001,23.085831],[78.645833,23.08583],[78.64583399999999,23.08574],[78.645639,23.085737],[78.645641,23.085646],[78.645348,23.085642],[78.64534999999999,23.085552],[78.64496,23.085546],[78.644958,23.085636],[78.644763,23.085633],[78.644761,23.085724],[78.644566,23.085721],[78.644565,23.085811],[78.64446700000001,23.085809],[78.644462,23.08608],[78.64436499999999,23.086079],[78.64436000000001,23.08635],[78.644263,23.086348],[78.64425799999999,23.086619],[78.64416,23.086617],[78.644154,23.086978],[78.64405600000001,23.086977],[78.64404500000001,23.087609],[78.644143,23.08761],[78.644141,23.0877],[78.644239,23.087702],[78.644237,23.087792],[78.64443199999999,23.087795],[78.644431,23.087885],[78.644626,23.087888],[78.64462399999999,23.087979],[78.64491700000001,23.087983]]],"type":"Polygon"}
 }

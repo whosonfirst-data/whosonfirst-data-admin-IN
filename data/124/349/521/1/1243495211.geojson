@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.53458,25.90252,85.53458,25.90252",
-    "geom:latitude":25.90252,
-    "geom:longitude":85.53458,
+    "geom:bbox":"85.533808,25.902199,85.534886,25.903277",
+    "geom:latitude":25.9027,
+    "geom:longitude":85.534405,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Chakwa",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.51458,25.88252,85.55458,25.92252",
+    "ks:ks_id":"KSAFD66E3B9FE84AD993D03E41920C0648",
+    "ks:ks_name":"Chakwa",
+    "ks:ks_pop":490,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|195332",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1382124",
+    "lbl:latitude":25.902695,
+    "lbl:longitude":85.534476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.902695,
+    "mps:longitude":85.534476,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chakwa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11030356
+        "gn:id":11030356,
+        "ks:id":"KSAFD66E3B9FE84AD993D03E41920C0648"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8daa1fd1929f4afbf9835ef174c5f1d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f061252a49fbaed6103c37fe12b6c197",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243495211,
-    "wof:lastmodified":1566706744,
+    "wof:lastmodified":1680671299,
     "wof:name":"Chakwa",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.53458,
-    25.90252000000001,
-    85.53458,
-    25.90252000000001
+    85.533808,
+    25.902199,
+    85.534886,
+    25.903277
 ],
-  "geometry": {"coordinates":[85.53458000000001,25.90252000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[85.534886,25.902199],[85.53380799999999,25.902199],[85.53380799999999,25.902738],[85.534077,25.902738],[85.534077,25.903277],[85.534886,25.903277],[85.534886,25.902199]]],"type":"Polygon"}
 }

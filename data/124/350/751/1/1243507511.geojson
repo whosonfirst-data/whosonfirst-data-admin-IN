@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.46841,23.20588,79.46841,23.20588",
-    "geom:latitude":23.20588,
-    "geom:longitude":79.46841,
+    "geom:bbox":"79.475569,23.209948,79.476647,23.210757",
+    "geom:latitude":23.210377,
+    "geom:longitude":79.476071,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Gubra Khurd",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.44841,23.18588,79.48841,23.22588",
+    "ks:ks_id":"KS2FDE7E6D661548AB9D9DDD5988370293",
+    "ks:ks_name":"Gubarakhurd",
+    "ks:ks_pop":339,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2339000204637100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_734790",
+    "lbl:latitude":23.210352,
+    "lbl:longitude":79.475999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.210352,
+    "mps:longitude":79.475999,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Gubarakhurd"
+    ],
+    "name:eng_x_variant":[
+        "Gubra Khurd"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10541357
+        "gn:id":10541357,
+        "ks:id":"KS2FDE7E6D661548AB9D9DDD5988370293"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c9c65a3ad8cd60a242cbfbcee6ab4739",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e626235ae5997a2c48da4266b11152e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1243507511,
-    "wof:lastmodified":1566707192,
-    "wof:name":"Gubra Khurd",
+    "wof:lastmodified":1680671557,
+    "wof:name":"Gubarakhurd",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.46840999999998,
-    23.20588,
-    79.46840999999998,
-    23.20588
+    79.475569,
+    23.209948,
+    79.476647,
+    23.210757
 ],
-  "geometry": {"coordinates":[79.46840999999998,23.20588],"type":"Point"}
+  "geometry": {"coordinates":[[[79.476378,23.209948],[79.47556899999999,23.209948],[79.47556899999999,23.210757],[79.476647,23.210757],[79.476647,23.210218],[79.476378,23.210218],[79.476378,23.209948]]],"type":"Polygon"}
 }
