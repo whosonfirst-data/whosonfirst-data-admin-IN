@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.59258,20.56524,80.59258,20.56524",
-    "geom:latitude":20.56524,
-    "geom:longitude":80.59258,
+    "geom:bbox":"80.593073,20.563784,80.593937,20.564689",
+    "geom:latitude":20.564246,
+    "geom:longitude":80.593474,
     "gn:admin1_code":"16",
     "gn:admin2_code":"508.0",
     "gn:asciiname":"Nagpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.57258,20.54524,80.61258,20.58524",
+    "ks:ks_id":"KSED10720DFDD64D52AC3D7E0E7D15A5B3",
+    "ks:ks_name":"Nangpur",
+    "ks:ks_pop":321,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"S|2712000401380300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_946301",
+    "lbl:latitude":20.564236,
+    "lbl:longitude":80.593466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.564236,
+    "mps:longitude":80.593466,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Nagpur"
@@ -86,6 +96,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03b3\u03ba\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Nangpur"
+    ],
+    "name:eng_x_variant":[
+        "Nagpur"
     ],
     "name:epo_x_preferred":[
         "Nagpur"
@@ -276,7 +292,13 @@
     "name:zho_x_preferred":[
         "\u90a3\u683c\u6d66\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -285,10 +307,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10719146
+        "gn:id":10719146,
+        "ks:id":"KSED10720DFDD64D52AC3D7E0E7D15A5B3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0b7a5b491d356a766fe535f5860e439c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"280c080345dd8d100da0336dfb4c3f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -299,20 +325,22 @@
         }
     ],
     "wof:id":1243232839,
-    "wof:lastmodified":1576022281,
-    "wof:name":"Nagpur",
+    "wof:lastmodified":1680671204,
+    "wof:name":"Nangpur",
     "wof:parent_id":1108696297,
     "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.59258,
-    20.56524,
-    80.59258,
-    20.56524
+    80.593073,
+    20.563784,
+    80.593937,
+    20.564689
 ],
-  "geometry": {"coordinates":[80.59258,20.56524],"type":"Point"}
+  "geometry": {"coordinates":[[[80.593648,20.564689],[80.593649,20.564598],[80.593745,20.564598],[80.593745,20.564508],[80.593841,20.564508],[80.593841,20.564328],[80.593937,20.564328],[80.593937,20.564237],[80.593841,20.564237],[80.593842,20.564056],[80.593746,20.564056],[80.593746,20.563966],[80.59365,20.563966],[80.59365099999999,20.563875],[80.59355499999999,20.563875],[80.59355499999999,20.563785],[80.593267,20.563784],[80.593267,20.563965],[80.593171,20.563965],[80.59317,20.564055],[80.593074,20.564055],[80.593073,20.564416],[80.593169,20.564416],[80.593169,20.564507],[80.593265,20.564507],[80.593265,20.564597],[80.593361,20.564597],[80.593361,20.564688],[80.593648,20.564689]]],"type":"Polygon"}
 }

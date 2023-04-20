@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.72973,29.64644,79.72973,29.64644",
-    "geom:latitude":29.64644,
-    "geom:longitude":79.72973,
+    "geom:bbox":"79.728365,29.646232,79.729709,29.647412",
+    "geom:latitude":29.646919,
+    "geom:longitude":79.728968,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Chirala",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.70973,29.62644,79.74973,29.66644",
+    "ks:ks_alt_nam":"Chir\u0101la",
+    "ks:ks_id":"KSB9AF96F514684D96B6961A9A16523FB3",
+    "ks:ks_name":"Chirala",
+    "ks:ks_pop":135,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|228228",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2038454",
+    "lbl:latitude":29.646943,
+    "lbl:longitude":79.728866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.646943,
+    "mps:longitude":79.728866,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0627\u0644\u0627"
@@ -41,6 +52,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b9\u03c1\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chirala"
+    ],
+    "name:eng_x_variant":[
+        "Chir\u0101la"
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0631\u0627\u0644\u0627"
@@ -102,7 +119,13 @@
     "name:zho_x_preferred":[
         "\u5947\u62c9\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -111,10 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10811667
+        "gn:id":10811667,
+        "ks:id":"KSB9AF96F514684D96B6961A9A16523FB3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"087d3048b345311bc6e2a34aa27a451f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2ebc72524db4de9e755b8f40205029a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,20 +152,22 @@
         }
     ],
     "wof:id":1243201359,
-    "wof:lastmodified":1636505845,
+    "wof:lastmodified":1680672173,
     "wof:name":"Chirala",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.72973,
-    29.64644,
-    79.72973,
-    29.64644
+    79.728365,
+    29.646232,
+    79.729709,
+    29.647412
 ],
-  "geometry": {"coordinates":[79.72973,29.64644],"type":"Point"}
+  "geometry": {"coordinates":[[[79.72929000000001,29.647412],[79.729291,29.647322],[79.72949800000001,29.647324],[79.729499,29.647233],[79.729602,29.647234],[79.72960399999999,29.647054],[79.729708,29.647055],[79.729709,29.646965],[79.729606,29.646964],[79.729607,29.646873],[79.72950299999999,29.646873],[79.729505,29.646782],[79.729401,29.646781],[79.72940199999999,29.646691],[79.729196,29.646689],[79.729197,29.646599],[79.72899,29.646597],[79.72899099999999,29.646507],[79.728888,29.646506],[79.72889000000001,29.646325],[79.728787,29.646324],[79.72878799999999,29.646234],[79.728582,29.646232],[79.728577,29.646593],[79.72847400000001,29.646592],[79.72847,29.646863],[79.72836700000001,29.646862],[79.728365,29.647042],[79.72846800000001,29.647043],[79.728466,29.647224],[79.72856899999999,29.647225],[79.728568,29.647315],[79.728981,29.647319],[79.72898000000001,29.647409],[79.72929000000001,29.647412]]],"type":"Polygon"}
 }

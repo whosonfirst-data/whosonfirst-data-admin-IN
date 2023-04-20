@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.65219,25.0063,85.65219,25.0063",
-    "geom:latitude":25.0063,
-    "geom:longitude":85.65219,
+    "geom:bbox":"85.651577,25.005321,85.653733,25.006938",
+    "geom:latitude":25.00612,
+    "geom:longitude":85.652589,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Khanapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.63219,24.9863,85.67219,25.0263",
+    "ks:ks_alt_nam":"Kh\u0101n\u0101pur",
+    "ks:ks_id":"KS5A56BBCE75064D399AD82C7D3BD6DCD4",
+    "ks:ks_name":"Khanapur",
+    "ks:ks_pop":1555,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13347180",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1328854",
+    "lbl:latitude":25.006129,
+    "lbl:longitude":85.652646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.006129,
+    "mps:longitude":85.652646,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09be\u09a8\u09be\u09aa\u09c1\u09b0"
@@ -37,6 +48,12 @@
         "\u0996\u09be\u09a8\u09be\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Kh\u0101n\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Khanapur"
+    ],
+    "name:eng_x_variant":[
         "Kh\u0101n\u0101pur"
     ],
     "name:ita_x_preferred":[
@@ -81,7 +98,13 @@
     "name:zho_x_preferred":[
         "\u5361\u7eb3\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10879053
+        "gn:id":10879053,
+        "ks:id":"KS5A56BBCE75064D399AD82C7D3BD6DCD4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8335c9861a3556c18434dfce2711b184",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"666335dfc82d401fae7958c075d080b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1243217407,
-    "wof:lastmodified":1566708605,
+    "wof:lastmodified":1680672374,
     "wof:name":"Khanapur",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":1555,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.65219,
-    25.0063,
-    85.65219,
-    25.0063
+    85.651577,
+    25.005321,
+    85.653733,
+    25.006938
 ],
-  "geometry": {"coordinates":[85.65219,25.0063],"type":"Point"}
+  "geometry": {"coordinates":[[[85.653463,25.006938],[85.653463,25.006129],[85.653733,25.006129],[85.653733,25.00559],[85.653463,25.00559],[85.653463,25.005321],[85.651577,25.005321],[85.651577,25.00586],[85.65184600000001,25.00586],[85.65184600000001,25.006129],[85.651577,25.006129],[85.651577,25.006938],[85.653463,25.006938]]],"type":"Polygon"}
 }
