@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.38382,25.86506,85.38382,25.86506",
-    "geom:latitude":25.86506,
-    "geom:longitude":85.38382,
+    "geom:bbox":"85.383969,25.8642,85.384508,25.865548",
+    "geom:latitude":25.864874,
+    "geom:longitude":85.384238,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Sherpur Piare",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.36382,25.84506,85.40382,25.88506",
+    "ks:ks_id":"KS12FD2734BFAE49DE8FF806EF33D0FDD0",
+    "ks:ks_name":"Sherpur Peyare",
+    "ks:ks_pop":318,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1018000801929300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1378884",
+    "lbl:latitude":25.864874,
+    "lbl:longitude":85.384238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.864874,
+    "mps:longitude":85.384238,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sherpur Peyare"
+    ],
+    "name:eng_x_variant":[
+        "Sherpur Piare"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11020741
+        "gn:id":11020741,
+        "ks:id":"KS12FD2734BFAE49DE8FF806EF33D0FDD0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1149a7844903c913a58ebd4f067f41c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a0592a1e211c26093a2057cf0b944acf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1242731469,
-    "wof:lastmodified":1566705947,
-    "wof:name":"Sherpur Piare",
+    "wof:lastmodified":1680670869,
+    "wof:name":"Sherpur Peyare",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.38382,
-    25.86506,
-    85.38382,
-    25.86506
+    85.383969,
+    25.8642,
+    85.384508,
+    25.865548
 ],
-  "geometry": {"coordinates":[85.38382,25.86506],"type":"Point"}
+  "geometry": {"coordinates":[[[85.384508,25.8642],[85.38396899999999,25.8642],[85.38396899999999,25.865548],[85.384508,25.865548],[85.384508,25.8642]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.9271,25.37216,87.9271,25.37216",
-    "geom:latitude":25.37216,
-    "geom:longitude":87.9271,
+    "geom:bbox":"87.936493,25.372271,87.93938,25.373726",
+    "geom:latitude":25.37303,
+    "geom:longitude":87.938052,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"332.0",
     "gn:asciiname":"Bhagwanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.9071,25.35216,87.9471,25.39216",
+    "ks:ks_id":"KS25D61A3FC69047EEAC0F81496C622874",
+    "ks:ks_name":"Bhagabanpur",
+    "ks:ks_pop":282,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|130080",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2104242",
+    "lbl:latitude":25.373044,
+    "lbl:longitude":87.93808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.373044,
+    "mps:longitude":87.93808,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062c\u0648\u0627\u0646\u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u0997\u09ac\u09be\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bhagabanpur"
+    ],
+    "name:eng_x_variant":[
+        "Bhagwanpur"
     ],
     "name:fra_x_preferred":[
         "Bhagwanpur"
@@ -72,7 +88,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u06af\u0648\u0627\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11015551
+        "gn:id":11015551,
+        "ks:id":"KS25D61A3FC69047EEAC0F81496C622874"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0749cd1290393aa863a3097f272132b5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"de3fa36f405d8ce2c3f35630b0fe2741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1242728933,
-    "wof:lastmodified":1577752840,
-    "wof:name":"Bhagwanpur",
+    "wof:lastmodified":1680670906,
+    "wof:name":"Bhagabanpur",
     "wof:parent_id":1108696073,
     "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.9271,
-    25.37216,
-    87.9271,
-    25.37216
+    87.936493,
+    25.372271,
+    87.93938,
+    25.373726
 ],
-  "geometry": {"coordinates":[87.9271,25.37216],"type":"Point"}
+  "geometry": {"coordinates":[[[87.93799199999999,25.373722],[87.937991,25.373632],[87.93819000000001,25.37363],[87.938191,25.373721],[87.93828999999999,25.37372],[87.938289,25.37363],[87.938687,25.373627],[87.938686,25.373537],[87.938984,25.373535],[87.938984,25.373445],[87.93928200000001,25.373443],[87.93928099999999,25.373352],[87.93938,25.373352],[87.939376,25.37281],[87.939277,25.372811],[87.93927600000001,25.37263],[87.939176,25.372631],[87.93917500000001,25.37254],[87.939076,25.372541],[87.939075,25.372451],[87.938976,25.372451],[87.938975,25.372361],[87.93887599999999,25.372362],[87.938875,25.372271],[87.93827899999999,25.372275],[87.93828000000001,25.372366],[87.938081,25.372367],[87.938081,25.372457],[87.937783,25.372459],[87.93778399999999,25.372549],[87.937386,25.372552],[87.937387,25.372642],[87.936592,25.372647],[87.936593,25.372737],[87.936493,25.372738],[87.93649499999999,25.372919],[87.936594,25.372918],[87.936595,25.373008],[87.936694,25.373008],[87.936695,25.373098],[87.93679400000001,25.373097],[87.936796,25.373368],[87.936896,25.373368],[87.936896,25.373458],[87.93699599999999,25.373457],[87.93699700000001,25.373548],[87.937096,25.373547],[87.93709699999999,25.373637],[87.93729500000001,25.373636],[87.937296,25.373726],[87.93799199999999,25.373722]]],"type":"Polygon"}
 }
