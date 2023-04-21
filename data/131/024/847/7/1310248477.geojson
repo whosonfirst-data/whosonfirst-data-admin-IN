@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.27182,26.59562,83.27182,26.59562",
-    "geom:latitude":26.59562,
-    "geom:longitude":83.27182,
+    "geom:bbox":"83.270697,26.593781,83.271814,26.59477",
+    "geom:latitude":26.594275,
+    "geom:longitude":83.27127,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Paisa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.25182,26.57562,83.29182,26.61562",
+    "ks:ks_id":"KS0A48B2DE897B4B19B466A6E2C6BCA1D0",
+    "ks:ks_name":"Paisa",
+    "ks:ks_pop":268,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|806544",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1991269",
+    "lbl:latitude":26.594276,
+    "lbl:longitude":83.27126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.594276,
+    "mps:longitude":83.27126,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0629"
@@ -37,6 +47,9 @@
         "Paisa"
     ],
     "name:deu_x_preferred":[
+        "Paisa"
+    ],
+    "name:eng_x_preferred":[
         "Paisa"
     ],
     "name:hin_x_preferred":[
@@ -78,7 +91,13 @@
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0633\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10663848
+        "gn:id":10663848,
+        "ks:id":"KS0A48B2DE897B4B19B466A6E2C6BCA1D0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"acc9f52ac437e1e913c1577e03e1383a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e354f0098873e84f3a92cf53e322eaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1310248477,
-    "wof:lastmodified":1566700335,
+    "wof:lastmodified":1680667956,
     "wof:name":"Paisa",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.27181999999998,
-    26.59562,
-    83.27181999999998,
-    26.59562
+    83.270697,
+    26.593781,
+    83.271814,
+    26.59477
 ],
-  "geometry": {"coordinates":[83.27181999999998,26.59562],"type":"Point"}
+  "geometry": {"coordinates":[[[83.271717,26.594765],[83.27171300000001,26.594585],[83.27181400000001,26.594583],[83.271806,26.594222],[83.27170599999999,26.594224],[83.271704,26.594134],[83.271604,26.594135],[83.271602,26.594045],[83.271502,26.594047],[83.2715,26.593957],[83.2714,26.593958],[83.271398,26.593868],[83.271197,26.593871],[83.27119500000001,26.593781],[83.270894,26.593786],[83.27089599999999,26.593876],[83.270796,26.593878],[83.270798,26.593968],[83.270697,26.593969],[83.270703,26.59424],[83.270803,26.594238],[83.270805,26.594329],[83.270905,26.594327],[83.270909,26.594507],[83.27100900000001,26.594506],[83.271011,26.594596],[83.271111,26.594594],[83.271113,26.594685],[83.27141399999999,26.59468],[83.271416,26.59477],[83.271717,26.594765]]],"type":"Polygon"}
 }
