@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.20658,20.34467,80.20658,20.34467",
-    "geom:latitude":20.34467,
-    "geom:longitude":80.20658,
+    "geom:bbox":"80.205359,20.34351,80.20766,20.345503",
+    "geom:latitude":20.344464,
+    "geom:longitude":80.206555,
     "gn:admin1_code":"16",
     "gn:admin2_code":"508.0",
     "gn:asciiname":"Kheri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.18658,20.32467,80.22658,20.36467",
+    "ks:ks_id":"KS5934DB54EFFB43A3A9618071A1A2395F",
+    "ks:ks_name":"Khedi",
+    "ks:ks_pop":183,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|553839",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_943707",
+    "lbl:latitude":20.34435,
+    "lbl:longitude":80.206533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.34435,
+    "mps:longitude":80.206533,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u064a"
@@ -46,6 +56,12 @@
         "Kheri"
     ],
     "name:ceb_x_preferred":[
+        "Kheri"
+    ],
+    "name:eng_x_preferred":[
+        "Khedi"
+    ],
+    "name:eng_x_variant":[
         "Kheri"
     ],
     "name:guj_x_preferred":[
@@ -105,7 +121,13 @@
     "name:vie_x_preferred":[
         "Kheri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10712809
+        "gn:id":10712809,
+        "ks:id":"KS5934DB54EFFB43A3A9618071A1A2395F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"682ac1863df988a1ae1e74c5f360379a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1cd7e819df1d17aa8e61fd28af32d24d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +154,22 @@
         }
     ],
     "wof:id":1293558361,
-    "wof:lastmodified":1577750123,
-    "wof:name":"Kheri",
+    "wof:lastmodified":1680657667,
+    "wof:name":"Khedi",
     "wof:parent_id":1108696297,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.20658,
-    20.34467,
-    80.20658,
-    20.34467
+    80.205359,
+    20.34351,
+    80.20766,
+    20.345503
 ],
-  "geometry": {"coordinates":[80.20658,20.34467],"type":"Point"}
+  "geometry": {"coordinates":[[[80.20708,20.345503],[80.20708,20.345412],[80.207272,20.345413],[80.207272,20.345323],[80.207368,20.345323],[80.207369,20.345233],[80.207464,20.345233],[80.207465,20.345053],[80.207561,20.345053],[80.207562,20.344872],[80.207658,20.344873],[80.20766,20.344511],[80.207564,20.344511],[80.207565,20.34424],[80.207469,20.344239],[80.20747,20.344059],[80.207375,20.344058],[80.207376,20.343878],[80.20728,20.343877],[80.20728,20.343787],[80.207184,20.343786],[80.207185,20.343696],[80.207089,20.343696],[80.207089,20.343605],[80.20699399999999,20.343605],[80.20699399999999,20.343514],[80.20594,20.34351],[80.20594,20.3436],[80.205844,20.3436],[80.205844,20.34369],[80.205748,20.343689],[80.205747,20.34378],[80.205652,20.343779],[80.20565000000001,20.34405],[80.20555400000001,20.34405],[80.20555299999999,20.344321],[80.205457,20.344321],[80.205456,20.344592],[80.20536,20.344591],[80.205359,20.344862],[80.205454,20.344863],[80.205454,20.344953],[80.205646,20.344954],[80.205645,20.345044],[80.205933,20.345046],[80.205932,20.345136],[80.206219,20.345137],[80.206219,20.345228],[80.206506,20.345229],[80.206506,20.345319],[80.206602,20.34532],[80.20660100000001,20.34541],[80.20669700000001,20.345411],[80.20669700000001,20.345501],[80.20708,20.345503]]],"type":"Polygon"}
 }

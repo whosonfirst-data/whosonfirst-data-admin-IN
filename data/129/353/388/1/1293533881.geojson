@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.35302,24.63353,81.35302,24.63353",
-    "geom:latitude":24.63353,
-    "geom:longitude":81.35302,
+    "geom:bbox":"81.352117,24.632767,81.353501,24.633851",
+    "geom:latitude":24.633316,
+    "geom:longitude":81.352876,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Kanji",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.33302,24.61353,81.37302,24.65353",
+    "ks:ks_id":"KS4CCC78A32E694D91B3FCC724F0386F2A",
+    "ks:ks_name":"Kanji",
+    "ks:ks_pop":131,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|504077",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1030222",
+    "lbl:latitude":24.633304,
+    "lbl:longitude":81.352889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.633304,
+    "mps:longitude":81.352889,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kanji"
@@ -82,6 +92,9 @@
         "Kanji"
     ],
     "name:deu_x_preferred":[
+        "Kanji"
+    ],
+    "name:eng_x_preferred":[
         "Kanji"
     ],
     "name:est_x_preferred":[
@@ -249,7 +262,13 @@
     "name:zho_x_preferred":[
         "\u65e5\u672c\u6c49\u5b57"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -258,10 +277,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10531899
+        "gn:id":10531899,
+        "ks:id":"KS4CCC78A32E694D91B3FCC724F0386F2A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"57be5a8c31b6e62fe552e6398bdc3219",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c930b8971d203a13b3099ce981fb1cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,20 +295,22 @@
         }
     ],
     "wof:id":1293533881,
-    "wof:lastmodified":1566689333,
+    "wof:lastmodified":1680657568,
     "wof:name":"Kanji",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.35302,
-    24.63353,
-    81.35302,
-    24.63353
+    81.352117,
+    24.632767,
+    81.353501,
+    24.633851
 ],
-  "geometry": {"coordinates":[81.35302,24.63353],"type":"Point"}
+  "geometry": {"coordinates":[[[81.353403,24.63385],[81.353402,24.63367],[81.35350099999999,24.63367],[81.353499,24.633037],[81.35339999999999,24.633038],[81.35339999999999,24.632947],[81.353301,24.632948],[81.353301,24.632857],[81.353103,24.632858],[81.353103,24.632767],[81.35270800000001,24.632768],[81.35270800000001,24.632859],[81.352412,24.632859],[81.352412,24.63304],[81.352313,24.63304],[81.35231400000001,24.633131],[81.352215,24.633131],[81.352215,24.633311],[81.35211700000001,24.633312],[81.35211700000001,24.633583],[81.352315,24.633582],[81.352315,24.633672],[81.35261199999999,24.633672],[81.35261199999999,24.633762],[81.35300700000001,24.633761],[81.35300700000001,24.633851],[81.353403,24.63385]]],"type":"Polygon"}
 }

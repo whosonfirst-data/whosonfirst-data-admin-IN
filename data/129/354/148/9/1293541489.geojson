@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.20501,25.87401,82.20501,25.87401",
-    "geom:latitude":25.87401,
-    "geom:longitude":82.20501,
+    "geom:bbox":"82.204471,25.880909,82.206627,25.882795",
+    "geom:latitude":25.881987,
+    "geom:longitude":82.20549,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Hoshiarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.18501,25.85401,82.22501,25.89401",
+    "ks:ks_id":"KS66D71FB93E174560AADBFBBD1EB8F36C",
+    "ks:ks_name":"Hosiyarpur",
+    "ks:ks_pop":1028,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0943000405239900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1380305",
+    "lbl:latitude":25.881889,
+    "lbl:longitude":82.20549,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.881889,
+    "mps:longitude":82.20549,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0634\u064a\u0631\u0628\u0648\u0631"
@@ -56,6 +66,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03c3\u03b9\u03b1\u03c1\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Hosiyarpur"
+    ],
+    "name:eng_x_variant":[
+        "Hoshiarpur"
     ],
     "name:fra_x_preferred":[
         "Hoshiarpur"
@@ -150,7 +166,13 @@
     "name:zho_x_preferred":[
         "\u970d\u65af\u5e0c\u4e9a\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -159,10 +181,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10538516
+        "gn:id":10538516,
+        "ks:id":"KS66D71FB93E174560AADBFBBD1EB8F36C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"57f2fd6acd89277432f5555b50a1039a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9918fe4fa00cb408ab6f59a47bb69564",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,20 +199,22 @@
         }
     ],
     "wof:id":1293541489,
-    "wof:lastmodified":1636505366,
-    "wof:name":"Hoshiarpur",
+    "wof:lastmodified":1680657516,
+    "wof:name":"Hosiyarpur",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":1028,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.20501,
-    25.87401,
-    82.20501,
-    25.87401
+    82.204471,
+    25.880909,
+    82.206627,
+    25.882795
 ],
-  "geometry": {"coordinates":[82.20501,25.87401],"type":"Point"}
+  "geometry": {"coordinates":[[[82.204741,25.881717],[82.204741,25.882256],[82.204471,25.882256],[82.204471,25.882795],[82.20581900000001,25.882795],[82.20581900000001,25.882256],[82.20635799999999,25.882256],[82.20635799999999,25.881987],[82.206627,25.881987],[82.206627,25.881717],[82.20608799999999,25.881717],[82.20608799999999,25.881448],[82.20635799999999,25.881448],[82.20635799999999,25.881178],[82.20581900000001,25.881178],[82.20581900000001,25.880909],[82.205549,25.880909],[82.205549,25.881178],[82.20528,25.881178],[82.20528,25.881448],[82.20501,25.881448],[82.20501,25.881717],[82.204741,25.881717]]],"type":"Polygon"}
 }

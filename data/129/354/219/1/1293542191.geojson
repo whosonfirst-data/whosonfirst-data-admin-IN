@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.48958,26.69715,81.48958,26.69715",
-    "geom:latitude":26.69715,
-    "geom:longitude":81.48958,
+    "geom:bbox":"81.488806,26.696297,81.490618,26.697562",
+    "geom:latitude":26.696973,
+    "geom:longitude":81.489627,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Durgapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.46958,26.67715,81.50958,26.71715",
+    "ks:ks_id":"KS9AC39BD66DCA450F9490FF3C3BF6696C",
+    "ks:ks_name":"Durga Pur",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|318093",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1878165",
+    "lbl:latitude":26.696974,
+    "lbl:longitude":81.48961,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.696974,
+    "mps:longitude":81.48961,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u063a\u0627\u0628\u0648\u0631"
@@ -56,6 +66,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03c1\u03b3\u03ba\u03b1\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Durga Pur"
+    ],
+    "name:eng_x_variant":[
+        "Durgapur"
     ],
     "name:epo_x_preferred":[
         "Durgapur"
@@ -162,7 +178,13 @@
     "name:zho_x_preferred":[
         "\u675c\u723e\u52a0\u5e03\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10570802
+        "gn:id":10570802,
+        "ks:id":"KS9AC39BD66DCA450F9490FF3C3BF6696C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e6302c62eec19a6b5660994420d1fd84",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95c48df97f01f3eaf46fb1e864a47c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +211,22 @@
         }
     ],
     "wof:id":1293542191,
-    "wof:lastmodified":1576020950,
-    "wof:name":"Durgapur",
+    "wof:lastmodified":1680657481,
+    "wof:name":"Durga Pur",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.48958,
-    26.69715,
-    81.48958,
-    26.69715
+    81.488806,
+    26.696297,
+    81.490618,
+    26.697562
 ],
-  "geometry": {"coordinates":[81.48958,26.69715],"type":"Point"}
+  "geometry": {"coordinates":[[[81.49001699999999,26.697559],[81.490016,26.697469],[81.490318,26.697468],[81.490318,26.697378],[81.49041800000001,26.697377],[81.49041800000001,26.697287],[81.49051799999999,26.697287],[81.49051799999999,26.697196],[81.490618,26.697196],[81.490618,26.697015],[81.490517,26.697016],[81.490517,26.696925],[81.490416,26.696926],[81.490415,26.696745],[81.490315,26.696746],[81.490315,26.696655],[81.49011299999999,26.696656],[81.49011299999999,26.696566],[81.490013,26.696566],[81.49001199999999,26.696476],[81.489811,26.696476],[81.489811,26.696386],[81.489509,26.696387],[81.489509,26.696297],[81.48930799999999,26.696298],[81.48930799999999,26.696388],[81.489007,26.696389],[81.489007,26.696479],[81.488906,26.696479],[81.488907,26.69657],[81.488806,26.69657],[81.488809,26.697202],[81.48891,26.697202],[81.48891,26.697292],[81.48900999999999,26.697292],[81.489011,26.697382],[81.48911099999999,26.697382],[81.48911200000001,26.697472],[81.489313,26.697471],[81.489313,26.697562],[81.49001699999999,26.697559]]],"type":"Polygon"}
 }

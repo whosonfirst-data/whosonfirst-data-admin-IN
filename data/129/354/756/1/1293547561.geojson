@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.8531,31.69612,75.8531,31.69612",
-    "geom:latitude":31.69612,
-    "geom:longitude":75.8531,
+    "geom:bbox":"75.857045,31.699264,75.8579,31.700707",
+    "geom:latitude":31.699996,
+    "geom:longitude":75.857489,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"38.0",
     "gn:asciiname":"Dehra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.8331,31.67612,75.8731,31.71612",
+    "ks:ks_id":"KS640B15648C1D48A4A61CAA70BF889EEE",
+    "ks:ks_name":"Dehra",
+    "ks:ks_pop":239,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0305000300521900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2692784",
+    "lbl:latitude":31.699724,
+    "lbl:longitude":75.857495,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.699724,
+    "mps:longitude":75.857495,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0647\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a6\u09c7\u09b9\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Dehra"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac7\u0ab9\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0688\u06cc\u06c1\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10304195
+        "gn:id":10304195,
+        "ks:id":"KS640B15648C1D48A4A61CAA70BF889EEE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c252750be82ea1b2bb208a659d0d2a8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f5fe4c8d7649a0f97b1a88b1c25d74de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293547561,
-    "wof:lastmodified":1577750095,
+    "wof:lastmodified":1680657499,
     "wof:name":"Dehra",
     "wof:parent_id":890508953,
     "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.8531,
-    31.69612,
-    75.8531,
-    31.69612
+    75.857045,
+    31.699264,
+    75.8579,
+    31.700707
 ],
-  "geometry": {"coordinates":[75.8531,31.69612],"type":"Point"}
+  "geometry": {"coordinates":[[[75.85779599999999,31.700704],[75.857795,31.700614],[75.8579,31.700613],[75.857899,31.700432],[75.857793,31.700433],[75.857792,31.700253],[75.857686,31.700253],[75.85768299999999,31.699893],[75.857788,31.699892],[75.857787,31.699802],[75.857893,31.699801],[75.85789200000001,31.699711],[75.857787,31.699711],[75.85778500000001,31.699531],[75.857679,31.699532],[75.857679,31.699441],[75.857468,31.699443],[75.857467,31.699353],[75.85725600000001,31.699354],[75.85725499999999,31.699264],[75.85714900000001,31.699265],[75.85715,31.699355],[75.857045,31.699356],[75.85704699999999,31.699626],[75.857153,31.699625],[75.85715399999999,31.699806],[75.85726,31.699805],[75.85726200000001,31.699986],[75.857367,31.699985],[75.85737,31.700256],[75.857264,31.700256],[75.85726699999999,31.700617],[75.857373,31.700616],[75.85737399999999,31.700707],[75.85779599999999,31.700704]]],"type":"Polygon"}
 }
