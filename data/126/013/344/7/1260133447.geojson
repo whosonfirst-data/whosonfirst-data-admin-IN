@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.8147,24.09079,86.8147,24.09079",
-    "geom:latitude":24.09079,
-    "geom:longitude":86.8147,
+    "geom:bbox":"86.813821,24.090525,86.814904,24.091158",
+    "geom:latitude":24.090825,
+    "geom:longitude":86.81433,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"350.0",
     "gn:asciiname":"Asansol",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.7947,24.07079,86.8347,24.11079",
+    "ks:ks_id":"KSC0350A6F1DB34BE6BA0F93E529558228",
+    "ks:ks_name":"Asansol",
+    "ks:ks_source_id":"N|11656614",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1191703",
+    "lbl:latitude":24.090841,
+    "lbl:longitude":86.814266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.090841,
+    "mps:longitude":86.814266,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0627\u0646\u0633\u0648\u0644"
@@ -65,6 +73,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03b1\u03bd\u03c3\u03cc\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Asansol"
     ],
     "name:epo_x_preferred":[
         "Asansol"
@@ -216,7 +227,11 @@
     "name:zho_x_preferred":[
         "\u963f\u6851\u7d22\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -225,10 +240,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8439884
+        "gn:id":8439884,
+        "ks:id":"KSC0350A6F1DB34BE6BA0F93E529558228"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e6ca9417c420849799468d79f6331f35",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cdafcad3f8646e0851ac50b8f0313908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -239,7 +258,7 @@
         }
     ],
     "wof:id":1260133447,
-    "wof:lastmodified":1636505645,
+    "wof:lastmodified":1680667347,
     "wof:name":"Asansol",
     "wof:parent_id":1108696101,
     "wof:placetype":"locality",
@@ -249,10 +268,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.8147,
-    24.09079,
-    86.8147,
-    24.09079
+    86.813821,
+    24.090525,
+    86.814904,
+    24.091158
 ],
-  "geometry": {"coordinates":[86.8147,24.09079],"type":"Point"}
+  "geometry": {"coordinates":[[[86.81441100000001,24.091158],[86.81441100000001,24.091067],[86.81460800000001,24.091068],[86.81460800000001,24.090977],[86.81480500000001,24.090978],[86.81480500000001,24.090797],[86.814904,24.090797],[86.814904,24.090616],[86.81480500000001,24.090616],[86.814806,24.090526],[86.814117,24.090525],[86.814117,24.090616],[86.81392,24.090615],[86.81392,24.090706],[86.813821,24.090705],[86.813821,24.091067],[86.813919,24.091067],[86.813919,24.091157],[86.81441100000001,24.091158]]],"type":"Polygon"}
 }

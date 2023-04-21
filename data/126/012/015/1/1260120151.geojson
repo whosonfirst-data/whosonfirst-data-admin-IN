@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.97506,27.1061,81.97506,27.1061",
-    "geom:latitude":27.1061,
-    "geom:longitude":81.97506,
+    "geom:bbox":"81.974693,27.105013,81.975911,27.10682",
+    "geom:latitude":27.105902,
+    "geom:longitude":81.975294,
     "gn:admin1_code":"36",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Pachperwa",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.95506,27.0861,81.99506,27.1261",
+    "ks:ks_id":"KSAECA8F1886134091AB1F6D277E8F1C90",
+    "ks:ks_name":"Pachperwa",
+    "ks:ks_pop":123,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|800929",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1977134",
+    "lbl:latitude":27.105847,
+    "lbl:longitude":81.975306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.105847,
+    "mps:longitude":81.975306,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u099a\u09aa\u09c7\u09b0\u09c1\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Pachperwa"
+    ],
+    "name:eng_x_preferred":[
         "Pachperwa"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u5947\u4f69\u5c14\u74e6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10565922
+        "gn:id":10565922,
+        "ks:id":"KSAECA8F1886134091AB1F6D277E8F1C90"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c25d9228af97ad0de4a099759dd15e5c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5c5e6fe2aa844edac0c384729e3170f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1260120151,
-    "wof:lastmodified":1566699145,
+    "wof:lastmodified":1680667243,
     "wof:name":"Pachperwa",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.97506,
-    27.1061,
-    81.97506,
-    27.1061
+    81.974693,
+    27.105013,
+    81.975911,
+    27.10682
 ],
-  "geometry": {"coordinates":[81.97506,27.1061],"type":"Point"}
+  "geometry": {"coordinates":[[[81.97551300000001,27.106818],[81.97551199999999,27.106728],[81.975613,27.106727],[81.975612,27.106637],[81.975713,27.106636],[81.975712,27.106455],[81.975813,27.106455],[81.97581,27.106184],[81.975911,27.106183],[81.975904,27.105371],[81.975803,27.105371],[81.975802,27.105281],[81.975702,27.105282],[81.975701,27.105192],[81.9756,27.105192],[81.975599,27.105102],[81.975498,27.105103],[81.975498,27.105013],[81.975195,27.105015],[81.975196,27.105105],[81.974994,27.105106],[81.97499500000001,27.105197],[81.97489400000001,27.105197],[81.974895,27.105288],[81.974693,27.105289],[81.97470199999999,27.106372],[81.97480299999999,27.106371],[81.974805,27.106552],[81.974906,27.106551],[81.974906,27.106642],[81.97500700000001,27.106641],[81.975008,27.106731],[81.97521,27.10673],[81.975211,27.10682],[81.97551300000001,27.106818]]],"type":"Polygon"}
 }

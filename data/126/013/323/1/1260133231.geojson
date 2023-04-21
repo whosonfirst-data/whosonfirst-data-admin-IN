@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.95857,23.95925,78.95857,23.95925",
-    "geom:latitude":23.95925,
-    "geom:longitude":78.95857,
+    "geom:bbox":"78.957565,23.958319,78.959734,23.9604",
+    "geom:latitude":23.959338,
+    "geom:longitude":78.95875,
     "gn:admin1_code":"35",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Parasia",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.93857,23.93925,78.97857,23.97925",
+    "ks:ks_id":"KSE97AA0BE76B84384A557662F4CB3E613",
+    "ks:ks_name":"Parasiya",
+    "ks:ks_pop":233,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|823900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_930021",
+    "lbl:latitude":23.95931,
+    "lbl:longitude":78.958771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.95931,
+    "mps:longitude":78.958771,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09be\u09b6\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Parasiya"
+    ],
+    "name:eng_x_variant":[
+        "Parasia"
     ],
     "name:ita_x_preferred":[
         "Parasia"
@@ -54,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u590f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10530749
+        "gn:id":10530749,
+        "ks:id":"KSE97AA0BE76B84384A557662F4CB3E613"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d4a6f5e6fed927468efa284cdef6b462",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a28087ee62a874fd7455ed861cd7569",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1260133231,
-    "wof:lastmodified":1566699250,
-    "wof:name":"Parasia",
+    "wof:lastmodified":1680667316,
+    "wof:name":"Parasiya",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.95857,
-    23.95925,
-    78.95857,
-    23.95925
+    78.957565,
+    23.958319,
+    78.959734,
+    23.9604
 ],
-  "geometry": {"coordinates":[78.95856999999999,23.95925],"type":"Point"}
+  "geometry": {"coordinates":[[[78.959317,23.9604],[78.959318,23.96031],[78.959515,23.960313],[78.95951599999999,23.960222],[78.959615,23.960224],[78.959622,23.959772],[78.95972,23.959774],[78.959734,23.958871],[78.959636,23.95887],[78.959639,23.958689],[78.959541,23.958688],[78.959542,23.958598],[78.959444,23.958596],[78.959445,23.958506],[78.95934699999999,23.958505],[78.95934800000001,23.958414],[78.95925,23.958413],[78.95925200000001,23.958323],[78.958957,23.958319],[78.958955,23.958409],[78.958759,23.958407],[78.958758,23.958497],[78.958365,23.958492],[78.95836300000001,23.958582],[78.95797,23.958577],[78.95796900000001,23.958667],[78.95777200000001,23.958664],[78.95777,23.958845],[78.957671,23.958844],[78.957667,23.959114],[78.95756900000001,23.959113],[78.957565,23.959384],[78.957663,23.959385],[78.95765900000001,23.959656],[78.957757,23.959657],[78.95775399999999,23.959838],[78.957852,23.959839],[78.95785100000001,23.959929],[78.95804699999999,23.959932],[78.958046,23.960022],[78.95834000000001,23.960026],[78.958339,23.960116],[78.958634,23.96012],[78.95863199999999,23.960211],[78.95882899999999,23.960213],[78.958827,23.960304],[78.959024,23.960306],[78.959022,23.960396],[78.959317,23.9604]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.78511,29.722,76.78511,29.722",
-    "geom:latitude":29.722,
-    "geom:longitude":76.78511,
+    "geom:bbox":"76.782981,29.720534,76.785054,29.722169",
+    "geom:latitude":29.72144,
+    "geom:longitude":76.784009,
     "gn:admin1_code":"10.0",
     "gn:admin2_code":"74.0",
     "gn:asciiname":"Bhojpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.76511,29.702,76.80511,29.742",
+    "ks:ks_id":"KS16B18F1A2C7542898149022688444FFF",
+    "ks:ks_name":"Bhojpur",
+    "ks:ks_pop":149,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|153429",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1794313",
+    "lbl:latitude":29.721455,
+    "lbl:longitude":76.783989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.721455,
+    "mps:longitude":76.783989,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0648\u062c\u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "Bhojpur"
     ],
     "name:deu_x_preferred":[
+        "Bhojpur"
+    ],
+    "name:eng_x_preferred":[
         "Bhojpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +106,13 @@
     "name:vie_x_preferred":[
         "Bhojpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":9901252
+        "gn:id":9901252,
+        "ks:id":"KS16B18F1A2C7542898149022688444FFF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"519951f4641f8b586b0e348813b442fe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7cd5297b4a3ddb1f4cc966311b09703",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1260169955,
-    "wof:lastmodified":1636505653,
+    "wof:lastmodified":1680667540,
     "wof:name":"Bhojpur",
     "wof:parent_id":890503069,
     "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.78511,
-    29.722,
-    76.78511,
-    29.722
+    76.782981,
+    29.720534,
+    76.785054,
+    29.722169
 ],
-  "geometry": {"coordinates":[76.78511,29.722],"type":"Point"}
+  "geometry": {"coordinates":[[[76.784441,29.722156],[76.78443900000001,29.722066],[76.78474900000001,29.722062],[76.784747,29.721972],[76.784954,29.721969],[76.78495100000001,29.721789],[76.785054,29.721787],[76.785048,29.721426],[76.78494499999999,29.721428],[76.78494000000001,29.721157],[76.784836,29.721159],[76.784835,29.721068],[76.78473099999999,29.72107],[76.78473,29.72098],[76.784627,29.720981],[76.784623,29.720801],[76.78452,29.720802],[76.78451800000001,29.720712],[76.784415,29.720713],[76.784413,29.720623],[76.78431,29.720624],[76.78430899999999,29.720534],[76.783998,29.720538],[76.78400000000001,29.720628],[76.783793,29.720631],[76.783795,29.720721],[76.783692,29.720723],[76.783693,29.720813],[76.783383,29.720817],[76.783385,29.720907],[76.78317800000001,29.72091],[76.783181,29.721091],[76.783078,29.721092],[76.783084,29.721453],[76.78298100000001,29.721454],[76.78298599999999,29.721725],[76.783089,29.721723],[76.78309400000001,29.721994],[76.783197,29.721993],[76.783199,29.722083],[76.783509,29.722079],[76.78351000000001,29.722169],[76.784441,29.722156]]],"type":"Polygon"}
 }

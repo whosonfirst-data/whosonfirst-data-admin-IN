@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.16361,26.52929,83.16361,26.52929",
-    "geom:latitude":26.52929,
-    "geom:longitude":83.16361,
+    "geom:bbox":"83.162794,26.528235,83.16495,26.53066",
+    "geom:latitude":26.529418,
+    "geom:longitude":83.163708,
     "gn:admin1_code":"36",
     "gn:admin2_code":"186.0",
     "gn:asciiname":"Tama",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.14361,26.50929,83.18361,26.54929",
+    "ks:ks_alt_nam":"T\u0101ma",
+    "ks:ks_id":"KSDE2538694EF34791BF27420DFFE70465",
+    "ks:ks_name":"Tama",
+    "ks:ks_pop":863,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1029970",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1420906",
+    "lbl:latitude":26.529448,
+    "lbl:longitude":83.163728,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.529448,
+    "mps:longitude":83.163728,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0627"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Tama"
+    ],
+    "name:eng_x_preferred":[
+        "Tama"
+    ],
+    "name:eng_x_variant":[
+        "T\u0101ma"
     ],
     "name:fin_x_preferred":[
         "Tama"
@@ -102,7 +119,13 @@
     "name:vie_x_preferred":[
         "Tama"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -111,10 +134,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10659694
+        "gn:id":10659694,
+        "ks:id":"KSDE2538694EF34791BF27420DFFE70465"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e25ff693b997a3409be782a8bb0cb354",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7b07b5ad71c09fd44e6a58271a9be84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,20 +152,22 @@
         }
     ],
     "wof:id":1260132077,
-    "wof:lastmodified":1566699282,
+    "wof:lastmodified":1680667334,
     "wof:name":"Tama",
     "wof:parent_id":1108695865,
     "wof:placetype":"locality",
+    "wof:population":863,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.16360999999998,
-    26.52929,
-    83.16360999999998,
-    26.52929
+    83.162794,
+    26.528235,
+    83.16495,
+    26.53066
 ],
-  "geometry": {"coordinates":[83.16360999999998,26.52929],"type":"Point"}
+  "geometry": {"coordinates":[[[83.163872,26.53066],[83.163872,26.530391],[83.164411,26.530391],[83.164411,26.529582],[83.16495,26.529582],[83.16495,26.529313],[83.164681,26.529313],[83.164681,26.529043],[83.164411,26.529043],[83.164411,26.528774],[83.164142,26.528774],[83.164142,26.528504],[83.163872,26.528504],[83.163872,26.528235],[83.16306400000001,26.528235],[83.16306400000001,26.528504],[83.16279400000001,26.528504],[83.16279400000001,26.529043],[83.16306400000001,26.529043],[83.16306400000001,26.529852],[83.16279400000001,26.529852],[83.16279400000001,26.530121],[83.16306400000001,26.530121],[83.16306400000001,26.530391],[83.16333299999999,26.530391],[83.16333299999999,26.53066],[83.163872,26.53066]]],"type":"Polygon"}
 }
