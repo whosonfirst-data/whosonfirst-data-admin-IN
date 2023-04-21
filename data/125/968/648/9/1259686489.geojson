@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.97033,18.68733,83.97033,18.68733",
-    "geom:latitude":18.68733,
-    "geom:longitude":83.97033,
+    "geom:bbox":"83.969554,18.686953,83.971362,18.687868",
+    "geom:latitude":18.687438,
+    "geom:longitude":83.97037,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"542.0",
     "gn:asciiname":"Lakshmipuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.95033,18.66733,83.99033,18.70733",
+    "ks:ks_id":"KSBBE313BF4C2E4A409A364795B8F497DE",
+    "ks:ks_name":"Laxmipuram",
+    "ks:ks_pop":232,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|624494",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_604501",
+    "lbl:latitude":18.68741,
+    "lbl:longitude":83.97037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.68741,
+    "mps:longitude":83.97037,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0634\u0645\u064a\u0628\u0648\u0631\u0627\u0645"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09c1\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Laxmipuram"
+    ],
+    "name:eng_x_variant":[
+        "Lakshmipuram"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a95\u0acd\u0ab7\u0acd\u0aae\u0abf\u0aaa\u0ac1\u0ab0\u0aae"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0644\u06a9\u0634\u0645\u06cc \u067e\u0648\u0631\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10787001
+        "gn:id":10787001,
+        "ks:id":"KSBBE313BF4C2E4A409A364795B8F497DE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d4b63618cf78508a70569a4c7e18342b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e74178db9cc93f9a7c6a87efba3f4245",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1259686489,
-    "wof:lastmodified":1577753812,
-    "wof:name":"Lakshmipuram",
+    "wof:lastmodified":1680676432,
+    "wof:name":"Laxmipuram",
     "wof:parent_id":1108696317,
     "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.97033,
-    18.68733,
-    83.97033,
-    18.68733
+    83.969554,
+    18.686953,
+    83.971362,
+    18.687868
 ],
-  "geometry": {"coordinates":[83.97033,18.68733],"type":"Point"}
+  "geometry": {"coordinates":[[[83.97098699999999,18.687851],[83.970985,18.687761],[83.971175,18.687758],[83.97117299999999,18.687668],[83.971362,18.687665],[83.971361,18.687575],[83.971266,18.687576],[83.971265,18.687486],[83.97117,18.687487],[83.97116800000001,18.687397],[83.971074,18.687399],[83.97107,18.687218],[83.97097599999999,18.68722],[83.970974,18.687129],[83.970879,18.687131],[83.970878,18.68704],[83.970688,18.687043],[83.970687,18.686953],[83.970024,18.686964],[83.970026,18.687054],[83.969741,18.687058],[83.96974299999999,18.687149],[83.969554,18.687152],[83.96956299999999,18.687693],[83.969658,18.687692],[83.96965899999999,18.687782],[83.969943,18.687778],[83.969945,18.687868],[83.97098699999999,18.687851]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.78114,13.26909,79.78114,13.26909",
-    "geom:latitude":13.26909,
-    "geom:longitude":79.78114,
+    "geom:bbox":"79.780189,13.268141,79.782593,13.269678",
+    "geom:latitude":13.268868,
+    "geom:longitude":79.78136,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"602.0",
     "gn:asciiname":"Rajapalaiyam",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.76114,13.24909,79.80114,13.28909",
+    "ks:ks_id":"KSDDFBE78E8CB34D0FAC1827F7CFC74A64",
+    "ks:ks_name":"Rajapalayam",
+    "ks:ks_pop":339,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1113162",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_360030",
+    "lbl:latitude":13.268821,
+    "lbl:longitude":79.781337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.268821,
+    "mps:longitude":79.781337,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u0627\u0628\u0627\u0644\u064a\u0627\u0645"
@@ -38,6 +48,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03c4\u03b6\u03b1\u03c0\u03b1\u03bb\u03b1\u0390\u03b3\u03b9\u03b1\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Rajapalayam"
+    ],
+    "name:eng_x_variant":[
+        "Rajapalaiyam"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u062c\u0627\u067e\u0627\u0644\u0627\u06cc\u0627\u0645"
@@ -78,7 +94,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u062c\u0627\u067e\u0627\u0644\u0627\u0626\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11424445
+        "gn:id":11424445,
+        "ks:id":"KSDDFBE78E8CB34D0FAC1827F7CFC74A64"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0fc1a8d89186bea931b409dcc25d7182",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ef141ca3b328489361a931a6bd6a29a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +127,22 @@
         }
     ],
     "wof:id":1259651165,
-    "wof:lastmodified":1636505857,
-    "wof:name":"Rajapalaiyam",
+    "wof:lastmodified":1680675940,
+    "wof:name":"Rajapalayam",
     "wof:parent_id":890502919,
     "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.78114,
-    13.26909,
-    79.78114,
-    13.26909
+    79.780189,
+    13.268141,
+    79.782593,
+    13.269678
 ],
-  "geometry": {"coordinates":[79.78113999999999,13.26909],"type":"Point"}
+  "geometry": {"coordinates":[[[79.781111,13.269678],[79.781111,13.269588],[79.781296,13.269589],[79.781296,13.269499],[79.78157299999999,13.2695],[79.78157299999999,13.269409],[79.78185000000001,13.269411],[79.781851,13.26932],[79.78203499999999,13.269321],[79.78203600000001,13.269231],[79.782128,13.269231],[79.782129,13.269141],[79.78222100000001,13.269141],[79.78222100000001,13.269051],[79.78240599999999,13.269052],[79.78240599999999,13.268961],[79.782499,13.268962],[79.7825,13.268781],[79.78259199999999,13.268782],[79.78259300000001,13.268601],[79.7825,13.2686],[79.78250199999999,13.268239],[79.78241,13.268238],[79.78241,13.268148],[79.781026,13.268141],[79.781025,13.268232],[79.780841,13.268231],[79.78084,13.268321],[79.780748,13.268321],[79.780748,13.268411],[79.780655,13.268411],[79.780655,13.268501],[79.780563,13.268501],[79.780562,13.268681],[79.780469,13.268681],[79.780469,13.268771],[79.780377,13.268771],[79.780376,13.268952],[79.78028399999999,13.268951],[79.780283,13.269042],[79.780191,13.269041],[79.78018899999999,13.269403],[79.780281,13.269403],[79.78028,13.269584],[79.780373,13.269585],[79.780372,13.269675],[79.781111,13.269678]]],"type":"Polygon"}
 }
