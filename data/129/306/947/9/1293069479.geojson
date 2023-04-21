@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.57309,31.13493,76.57309,31.13493",
-    "geom:latitude":31.13493,
-    "geom:longitude":76.57309,
+    "geom:bbox":"76.566037,31.13114,76.566991,31.132226",
+    "geom:latitude":31.131709,
+    "geom:longitude":76.566457,
     "gn:admin1_code":"23",
     "gn:admin2_code":"51.0",
     "gn:asciiname":"Bal",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.55309,31.11493,76.59309,31.15493",
+    "ks:ks_id":"KS1BAD3AA7B28344B38C850E5271C58EA6",
+    "ks:ks_name":"Bal",
+    "ks:ks_pop":108,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0307000100660100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2666232",
+    "lbl:latitude":31.131737,
+    "lbl:longitude":76.566448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.131737,
+    "mps:longitude":76.566448,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Bal"
     ],
     "name:ceb_x_preferred":[
+        "Bal"
+    ],
+    "name:eng_x_preferred":[
         "Bal"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +67,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u044c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10730903
+        "gn:id":10730903,
+        "ks:id":"KS1BAD3AA7B28344B38C850E5271C58EA6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4d01b7abcca0ec51fee70911ec30d2a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5eca6b7ef7f675a7db1e83340f40dae9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293069479,
-    "wof:lastmodified":1566689409,
+    "wof:lastmodified":1680657600,
     "wof:name":"Bal",
     "wof:parent_id":890508855,
     "wof:placetype":"locality",
+    "wof:population":108,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.57309000000002,
-    31.13493,
-    76.57309000000002,
-    31.13493
+    76.566037,
+    31.13114,
+    76.566991,
+    31.132226
 ],
-  "geometry": {"coordinates":[76.57309000000002,31.13493],"type":"Point"}
+  "geometry": {"coordinates":[[[76.566681,31.132221],[76.56668000000001,31.132131],[76.566785,31.13213],[76.566783,31.13204],[76.56688800000001,31.132038],[76.56688699999999,31.131948],[76.566991,31.131947],[76.56698799999999,31.131767],[76.566884,31.131768],[76.566879,31.131497],[76.566774,31.131499],[76.566773,31.131408],[76.56666800000001,31.13141],[76.566665,31.131229],[76.56656,31.13123],[76.566559,31.13114],[76.566244,31.131144],[76.56624600000001,31.131234],[76.566141,31.131236],[76.566142,31.131326],[76.56603699999999,31.131327],[76.56604900000001,31.132049],[76.566154,31.132047],[76.56615600000001,31.132138],[76.56626,31.132136],[76.56626199999999,31.132226],[76.566681,31.132221]]],"type":"Polygon"}
 }

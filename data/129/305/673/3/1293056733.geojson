@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.05462,27.64192,77.05462,27.64192",
-    "geom:latitude":27.64192,
-    "geom:longitude":77.05462,
+    "geom:bbox":"77.053629,27.64117,77.05556,27.642267",
+    "geom:latitude":27.64174,
+    "geom:longitude":77.054644,
     "gn:admin1_code":"24",
     "gn:admin2_code":"105.0",
     "gn:asciiname":"Madhogarh",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.03462,27.62192,77.07462,27.66192",
+    "ks:ks_alt_nam":"M\u0101dhogarh",
+    "ks:ks_id":"KS9C27984AEF114037BD80FF64F2D401FB",
+    "ks:ks_name":"Madhogarh",
+    "ks:ks_pop":297,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|639826",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1758662",
+    "lbl:latitude":27.641719,
+    "lbl:longitude":77.054644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.641719,
+    "mps:longitude":77.054644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a7\u09cb\u0997\u09a1\u09bc"
     ],
     "name:ceb_x_preferred":[
+        "M\u0101dhogarh"
+    ],
+    "name:eng_x_preferred":[
+        "Madhogarh"
+    ],
+    "name:eng_x_variant":[
         "M\u0101dhogarh"
     ],
     "name:hin_x_preferred":[
@@ -69,7 +86,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u591a\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10437535
+        "gn:id":10437535,
+        "ks:id":"KS9C27984AEF114037BD80FF64F2D401FB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6b205472aa8bdd58777e83e22a61f8ad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b718e369b269102f0dc9f8a1f202b8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1293056733,
-    "wof:lastmodified":1566691076,
+    "wof:lastmodified":1680658713,
     "wof:name":"Madhogarh",
     "wof:parent_id":890505293,
     "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.05462,
-    27.64192,
-    77.05462,
-    27.64192
+    77.053629,
+    27.64117,
+    77.05556,
+    27.642267
 ],
-  "geometry": {"coordinates":[77.05462,27.64192],"type":"Point"}
+  "geometry": {"coordinates":[[[77.054653,27.642261],[77.054652,27.64217],[77.05475300000001,27.642169],[77.054755,27.642259],[77.055261,27.642252],[77.05526,27.642161],[77.055361,27.64216],[77.055359,27.64207],[77.05546,27.642068],[77.055459,27.641978],[77.05556,27.641976],[77.055553,27.641616],[77.055452,27.641617],[77.055449,27.641437],[77.055347,27.641438],[77.055346,27.641348],[77.055244,27.641349],[77.055243,27.641259],[77.05514100000001,27.641261],[77.05513999999999,27.64117],[77.054633,27.641178],[77.054635,27.641268],[77.05412800000001,27.641276],[77.05413,27.641366],[77.053927,27.641369],[77.053929,27.641459],[77.053828,27.641461],[77.05382899999999,27.641551],[77.05372800000001,27.641552],[77.05373,27.641643],[77.053629,27.641644],[77.053635,27.642005],[77.053939,27.642],[77.05394099999999,27.642091],[77.054143,27.642088],[77.05414500000001,27.642178],[77.05424600000001,27.642176],[77.054248,27.642267],[77.054653,27.642261]]],"type":"Polygon"}
 }

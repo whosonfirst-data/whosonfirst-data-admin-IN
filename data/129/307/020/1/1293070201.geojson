@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.08057,20.45266,79.08057,20.45266",
-    "geom:latitude":20.45266,
-    "geom:longitude":79.08057,
+    "geom:bbox":"79.079774,20.451467,79.081991,20.453556",
+    "geom:latitude":20.452559,
+    "geom:longitude":79.080846,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Susa",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.06057,20.43266,79.10057,20.47266",
+    "ks:ks_alt_nam":"S\u016bsa",
+    "ks:ks_id":"KS484D5320BAD846ADA20B43AB28DB8233",
+    "ks:ks_name":"Susa",
+    "ks:ks_pop":666,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1021620",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871189",
+    "lbl:latitude":20.452601,
+    "lbl:longitude":79.080832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.452601,
+    "mps:longitude":79.080832,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Susa"
@@ -71,6 +82,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Susa"
+    ],
+    "name:eng_x_variant":[
+        "S\u016bsa"
     ],
     "name:epo_x_preferred":[
         "Suzo"
@@ -198,7 +215,13 @@
     "name:war_x_preferred":[
         "Susa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -207,10 +230,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519491
+        "gn:id":10519491,
+        "ks:id":"KS484D5320BAD846ADA20B43AB28DB8233"
     },
     "wof:country":"IN",
-    "wof:geomhash":"64b1c8042599db738dfb430c05dc4484",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e82dae6516dcd6e2525b8a8832de5fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,20 +248,22 @@
         }
     ],
     "wof:id":1293070201,
-    "wof:lastmodified":1566689020,
+    "wof:lastmodified":1680657381,
     "wof:name":"Susa",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":666,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.08057,
-    20.45266,
-    79.08057,
-    20.45266
+    79.079774,
+    20.451467,
+    79.081991,
+    20.453556
 ],
-  "geometry": {"coordinates":[79.08056999999999,20.45266],"type":"Point"}
+  "geometry": {"coordinates":[[[79.08130199999999,20.453556],[79.081304,20.453465],[79.081495,20.453468],[79.081496,20.453377],[79.081688,20.453379],[79.081689,20.453289],[79.081881,20.453291],[79.081883,20.453111],[79.081979,20.453112],[79.081991,20.452118],[79.081895,20.452117],[79.081898,20.451937],[79.081802,20.451935],[79.08180299999999,20.451845],[79.08170699999999,20.451844],[79.08170800000001,20.451754],[79.08151700000001,20.451752],[79.081518,20.451661],[79.081039,20.451656],[79.08104,20.451566],[79.080465,20.451559],[79.080466,20.451469],[79.080274,20.451467],[79.08027300000001,20.451557],[79.08008100000001,20.451555],[79.08008,20.451645],[79.07998499999999,20.451644],[79.079983,20.451735],[79.079888,20.451734],[79.07988400000001,20.452005],[79.07978799999999,20.452004],[79.079774,20.453178],[79.07987,20.453179],[79.07986699999999,20.453359],[79.07996300000001,20.45336],[79.07996199999999,20.453451],[79.08025000000001,20.453454],[79.080248,20.453544],[79.08130199999999,20.453556]]],"type":"Polygon"}
 }

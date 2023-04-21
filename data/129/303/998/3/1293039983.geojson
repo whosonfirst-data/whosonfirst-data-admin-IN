@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.91378,26.05354,82.91378,26.05354",
-    "geom:latitude":26.05354,
-    "geom:longitude":82.91378,
+    "geom:bbox":"82.914185,26.056077,82.916185,26.058077",
+    "geom:latitude":26.057038,
+    "geom:longitude":82.915139,
     "gn:admin1_code":"36",
     "gn:admin2_code":"191.0",
     "gn:asciiname":"Shahpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.89378,26.03354,82.93378,26.07354",
+    "ks:ks_alt_nam":"Sh\u0101hpur",
+    "ks:ks_id":"KSE7C9947C37FD40FDB830A3C8DD889A85",
+    "ks:ks_name":"Shahpur",
+    "ks:ks_pop":281,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|975653",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1952429",
+    "lbl:latitude":26.057031,
+    "lbl:longitude":82.91512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.057031,
+    "mps:longitude":82.91512,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u0628\u0648\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:cat_x_preferred":[
         "Shapur"
+    ],
+    "name:eng_x_preferred":[
+        "Shahpur"
+    ],
+    "name:eng_x_variant":[
+        "Sh\u0101hpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0"
@@ -81,7 +98,13 @@
     "name:urd_x_preferred":[
         "\u0634\u0627\u06c1 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10653370
+        "gn:id":10653370,
+        "ks:id":"KSE7C9947C37FD40FDB830A3C8DD889A85"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d75b645642fb69abf993b8e35243c89",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"923a214dd0714a37def95d948c8158da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1293039983,
-    "wof:lastmodified":1577750246,
+    "wof:lastmodified":1680658400,
     "wof:name":"Shahpur",
     "wof:parent_id":1108695871,
     "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.91378,
-    26.05354,
-    82.91378,
-    26.05354
+    82.914185,
+    26.056077,
+    82.916185,
+    26.058077
 ],
-  "geometry": {"coordinates":[82.91378,26.05354],"type":"Point"}
+  "geometry": {"coordinates":[[[82.914604,26.058076],[82.914603,26.057985],[82.91480300000001,26.057983],[82.914801,26.057892],[82.915201,26.057887],[82.915199,26.057797],[82.915499,26.057793],[82.915498,26.057703],[82.91569699999999,26.0577],[82.915694,26.057519],[82.91579400000001,26.057518],[82.915791,26.057338],[82.915891,26.057336],[82.91589,26.057246],[82.91598999999999,26.057245],[82.915988,26.057155],[82.916088,26.057153],[82.916085,26.056973],[82.916185,26.056971],[82.916179,26.05661],[82.916079,26.056612],[82.916077,26.056431],[82.915977,26.056433],[82.91597400000001,26.056252],[82.915874,26.056253],[82.91587199999999,26.056163],[82.91557299999999,26.056167],[82.915571,26.056077],[82.915471,26.056078],[82.91547300000001,26.056168],[82.914973,26.056175],[82.914975,26.056265],[82.91477500000001,26.056268],[82.914776,26.056358],[82.914676,26.05636],[82.91467799999999,26.05645],[82.91457800000001,26.056451],[82.914579,26.056541],[82.914479,26.056543],[82.91448099999999,26.056633],[82.91438100000001,26.056634],[82.914382,26.056724],[82.914282,26.056726],[82.91428500000001,26.056906],[82.914185,26.056908],[82.914196,26.057539],[82.91429599999999,26.057538],[82.91430200000001,26.057899],[82.914401,26.057898],[82.91440299999999,26.057988],[82.914503,26.057987],[82.91450399999999,26.058077],[82.914604,26.058076]]],"type":"Polygon"}
 }
