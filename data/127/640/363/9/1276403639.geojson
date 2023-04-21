@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.23495,19.95828,83.23495,19.95828",
-    "geom:latitude":19.95828,
-    "geom:longitude":83.23495,
+    "geom:bbox":"83.234447,19.954864,83.236172,19.956042",
+    "geom:latitude":19.955412,
+    "geom:longitude":83.235181,
     "gn:admin1_code":"21",
     "gn:admin2_code":"395.0",
     "gn:asciiname":"Janakpur",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.21495,19.93828,83.25495,19.97828",
+    "ks:ks_id":"KSD288C76B5FBD496E93ACBB5D4995B6FA",
+    "ks:ks_name":"Janakpur",
+    "ks:ks_pop":417,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13221558",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_619458",
+    "lbl:latitude":19.955405,
+    "lbl:longitude":83.235079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.955405,
+    "mps:longitude":83.235079,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Janakpur"
+    ],
     "name:fra_x_preferred":[
         "Janakpur"
     ],
@@ -57,7 +70,13 @@
     "name:swe_x_preferred":[
         "Janakpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10772190
+        "gn:id":10772190,
+        "ks:id":"KSD288C76B5FBD496E93ACBB5D4995B6FA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4b6e641dd0bab531b6e9f5bc12e52088",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8d19f891e11a92522b5e35298424ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1276403639,
-    "wof:lastmodified":1636505486,
+    "wof:lastmodified":1680660415,
     "wof:name":"Janakpur",
     "wof:parent_id":1108696169,
     "wof:placetype":"locality",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.23495,
-    19.95828,
-    83.23495,
-    19.95828
+    83.234447,
+    19.954864,
+    83.236172,
+    19.956042
 ],
-  "geometry": {"coordinates":[83.23495,19.95828],"type":"Point"}
+  "geometry": {"coordinates":[[[83.235225,19.956039],[83.235223,19.955949],[83.235319,19.955948],[83.23531800000001,19.955857],[83.235604,19.955854],[83.235603,19.955763],[83.235794,19.955761],[83.235793,19.955671],[83.236079,19.955667],[83.23607699999999,19.955486],[83.236172,19.955485],[83.236171,19.955395],[83.236075,19.955396],[83.236074,19.955306],[83.235883,19.955308],[83.235882,19.955218],[83.235786,19.955219],[83.23578500000001,19.955129],[83.23568899999999,19.95513],[83.235688,19.95504],[83.23559299999999,19.955041],[83.235591,19.954951],[83.235305,19.954954],[83.235304,19.954864],[83.234635,19.954872],[83.23463599999999,19.954963],[83.23454099999999,19.954964],[83.234542,19.955054],[83.234447,19.955055],[83.23445599999999,19.955688],[83.234551,19.955686],[83.23455199999999,19.955777],[83.23464800000001,19.955775],[83.234649,19.955866],[83.23484000000001,19.955863],[83.234841,19.955954],[83.235032,19.955951],[83.235034,19.956042],[83.235225,19.956039]]],"type":"Polygon"}
 }
