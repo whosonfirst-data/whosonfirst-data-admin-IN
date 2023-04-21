@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.44967,21.114,77.44967,21.114",
-    "geom:latitude":21.114,
-    "geom:longitude":77.44967,
+    "geom:bbox":"77.449006,21.113096,77.450557,21.114903",
+    "geom:latitude":21.114015,
+    "geom:longitude":77.449753,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Narsinghpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.42967,21.094,77.46967,21.134",
+    "ks:ks_id":"KS25ECA6618AAE4EA6A454A0E580FC7203",
+    "ks:ks_name":"Narsingpur",
+    "ks:ks_pop":249,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|763916",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_876212",
+    "lbl:latitude":21.113997,
+    "lbl:longitude":77.449768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.113997,
+    "mps:longitude":77.449768,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0633\u064a\u0646\u062c\u0628\u0648\u0631"
@@ -50,6 +60,12 @@
     ],
     "name:ceb_x_preferred":[
         "Narsimhapur"
+    ],
+    "name:eng_x_preferred":[
+        "Narsingpur"
+    ],
+    "name:eng_x_variant":[
+        "Narsinghpur"
     ],
     "name:fra_x_preferred":[
         "Narsinghpur"
@@ -117,7 +133,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u5c14\u897f\u59c6\u54c8\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +148,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512590
+        "gn:id":10512590,
+        "ks:id":"KS25ECA6618AAE4EA6A454A0E580FC7203"
     },
     "wof:country":"IN",
-    "wof:geomhash":"db641a0f39dbb5baec71d570dd03d1b1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"702b6e92da702290549b800bd712347a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +166,22 @@
         }
     ],
     "wof:id":1293273989,
-    "wof:lastmodified":1577750315,
-    "wof:name":"Narsinghpur",
+    "wof:lastmodified":1680658818,
+    "wof:name":"Narsingpur",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.44967,
-    21.114,
-    77.44967,
-    21.114
+    77.449006,
+    21.113096,
+    77.450557,
+    21.114903
 ],
-  "geometry": {"coordinates":[77.44967,21.114],"type":"Point"}
+  "geometry": {"coordinates":[[[77.450085,21.114895],[77.45008300000001,21.114805],[77.45017900000001,21.114803],[77.45017799999999,21.114713],[77.45027399999999,21.114712],[77.450273,21.114621],[77.45036899999999,21.11462],[77.450367,21.11453],[77.450464,21.114528],[77.450461,21.114348],[77.450557,21.114346],[77.450547,21.113714],[77.45045,21.113716],[77.45044900000001,21.113626],[77.45035300000001,21.113627],[77.450351,21.113537],[77.450255,21.113538],[77.450253,21.113448],[77.450157,21.113449],[77.45015600000001,21.113359],[77.45005999999999,21.11336],[77.450058,21.11327],[77.449866,21.113273],[77.44986400000001,21.113183],[77.44957599999999,21.113187],[77.449574,21.113096],[77.449285,21.113101],[77.449287,21.113191],[77.449095,21.113194],[77.449102,21.113645],[77.449006,21.113646],[77.44901299999999,21.114098],[77.44910900000001,21.114096],[77.44911500000001,21.114458],[77.449212,21.114456],[77.449214,21.114637],[77.44931099999999,21.114635],[77.449314,21.114816],[77.449506,21.114813],[77.44950799999999,21.114903],[77.450085,21.114895]]],"type":"Polygon"}
 }
