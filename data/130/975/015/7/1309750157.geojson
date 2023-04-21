@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.2832,29.04128,77.2832,29.04128",
-    "geom:latitude":29.04128,
-    "geom:longitude":77.2832,
+    "geom:bbox":"77.279188,29.038846,77.2835,29.043428",
+    "geom:latitude":29.041015,
+    "geom:longitude":77.281538,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"139.0",
     "gn:asciiname":"Bam",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.2632,29.02128,77.3032,29.06128",
+    "ks:ks_alt_nam":"B\u0101m",
+    "ks:ks_id":"KS4F491A10B70D435AB348E80F4D17741C",
+    "ks:ks_name":"Bam",
+    "ks:ks_pop":1190,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|84320",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_947447",
+    "lbl:latitude":29.041002,
+    "lbl:longitude":77.281579,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.041002,
+    "mps:longitude":77.281579,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bam"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Bam"
+    ],
+    "name:eng_x_preferred":[
+        "Bam"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101m"
     ],
     "name:fin_x_preferred":[
         "Bam"
@@ -72,7 +89,13 @@
     "name:uzb_x_preferred":[
         "Bam"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10202192
+        "gn:id":10202192,
+        "ks:id":"KS4F491A10B70D435AB348E80F4D17741C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"076824e593ddd4fe7d32e01791e11223",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f20dfea653a228453b399c83105bf2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1309750157,
-    "wof:lastmodified":1636505762,
+    "wof:lastmodified":1680670258,
     "wof:name":"Bam",
     "wof:parent_id":1108695797,
     "wof:placetype":"locality",
+    "wof:population":1190,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.2832,
-    29.04128,
-    77.2832,
-    29.04128
+    77.279188,
+    29.038846,
+    77.2835,
+    29.043428
 ],
-  "geometry": {"coordinates":[77.28319999999999,29.04128],"type":"Point"}
+  "geometry": {"coordinates":[[[77.282961,29.043428],[77.282961,29.04208],[77.2835,29.04208],[77.2835,29.039655],[77.28188299999999,29.039655],[77.28188299999999,29.039385],[77.281344,29.039385],[77.281344,29.038846],[77.281075,29.038846],[77.281075,29.039116],[77.280536,29.039116],[77.280536,29.038846],[77.27999699999999,29.038846],[77.27999699999999,29.039116],[77.27972699999999,29.039116],[77.27972699999999,29.040194],[77.280266,29.040194],[77.280266,29.040733],[77.27972699999999,29.040733],[77.27972699999999,29.041272],[77.279188,29.041272],[77.279188,29.04208],[77.27999699999999,29.04208],[77.27999699999999,29.04235],[77.281344,29.04235],[77.281344,29.042619],[77.281614,29.042619],[77.281614,29.042889],[77.28188299999999,29.042889],[77.28188299999999,29.043158],[77.282692,29.043158],[77.282692,29.043428],[77.282961,29.043428]]],"type":"Polygon"}
 }
