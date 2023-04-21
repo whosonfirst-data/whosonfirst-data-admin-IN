@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.47934,20.72386,75.47934,20.72386",
-    "geom:latitude":20.72386,
-    "geom:longitude":75.47934,
+    "geom:bbox":"75.478457,20.722719,75.480381,20.725069",
+    "geom:latitude":20.724011,
+    "geom:longitude":75.479345,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"499.0",
     "gn:asciiname":"Lakh",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.45934,20.70386,75.49934,20.74386",
+    "ks:ks_id":"KS301E196322F141CA9D79F6338D2BBD1D",
+    "ks:ks_name":"Lakh",
+    "ks:ks_pop":2192,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|614006",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_854363",
+    "lbl:latitude":20.724048,
+    "lbl:longitude":75.479345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.724048,
+    "mps:longitude":75.479345,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0996"
     ],
     "name:deu_x_preferred":[
+        "Lakh"
+    ],
+    "name:eng_x_preferred":[
         "Lakh"
     ],
     "name:fas_x_preferred":[
@@ -105,7 +118,13 @@
     "name:vie_x_preferred":[
         "Lakh"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +133,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10690695
+        "gn:id":10690695,
+        "ks:id":"KS301E196322F141CA9D79F6338D2BBD1D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d4bacf0f2a4a673e06a6d094e69589ba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1e4aceddadfc5e4009d0dc82ff0ab913",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +151,22 @@
         }
     ],
     "wof:id":1276839041,
-    "wof:lastmodified":1566693763,
+    "wof:lastmodified":1680660541,
     "wof:name":"Lakh",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
+    "wof:population":2192,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.47934000000002,
-    20.72386,
-    75.47934000000002,
-    20.72386
+    75.478457,
+    20.722719,
+    75.480381,
+    20.725069
 ],
-  "geometry": {"coordinates":[75.47934000000002,20.72386],"type":"Point"}
+  "geometry": {"coordinates":[[[75.479614,20.725067],[75.479614,20.724977],[75.47999799999999,20.724976],[75.47999799999999,20.724885],[75.48018999999999,20.724885],[75.480189,20.724794],[75.48028499999999,20.724794],[75.48028499999999,20.724704],[75.48038099999999,20.724703],[75.480379,20.724071],[75.480283,20.724071],[75.480283,20.72389],[75.480187,20.723891],[75.480186,20.72371],[75.48009,20.72371],[75.48008900000001,20.72353],[75.47999299999999,20.72353],[75.47999299999999,20.723349],[75.47989699999999,20.723349],[75.479896,20.723169],[75.4798,20.723169],[75.4798,20.723079],[75.479704,20.723079],[75.479703,20.722989],[75.479607,20.722989],[75.479607,20.722898],[75.479511,20.722899],[75.479511,20.722808],[75.479319,20.722809],[75.47931800000001,20.722719],[75.47912599999999,20.722719],[75.47912700000001,20.722809],[75.47883899999999,20.72281],[75.47883899999999,20.722901],[75.47874299999999,20.722901],[75.47874299999999,20.722991],[75.478647,20.722991],[75.47864800000001,20.723172],[75.47855199999999,20.723172],[75.478554,20.723805],[75.47845700000001,20.723805],[75.47846,20.724709],[75.478556,20.724708],[75.478557,20.724889],[75.47865299999999,20.724889],[75.47865299999999,20.724979],[75.47894100000001,20.724978],[75.478942,20.725069],[75.479614,20.725067]]],"type":"Polygon"}
 }
