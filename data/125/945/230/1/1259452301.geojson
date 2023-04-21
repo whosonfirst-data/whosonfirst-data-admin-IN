@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.53118,20.86901,78.53118,20.86901",
-    "geom:latitude":20.86901,
-    "geom:longitude":78.53118,
+    "geom:bbox":"78.530804,20.868574,78.532156,20.869664",
+    "geom:latitude":20.869103,
+    "geom:longitude":78.531479,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Seva",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.51118,20.84901,78.55118,20.88901",
+    "ks:ks_id":"KSAA41B5AEF99247D5BF6421D0ADE07DE4",
+    "ks:ks_name":"Seva",
+    "ks:ks_pop":26,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|973901",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_874266",
+    "lbl:latitude":20.869119,
+    "lbl:longitude":78.531492,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.869119,
+    "mps:longitude":78.531492,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0641\u0627"
     ],
     "name:ceb_x_preferred":[
+        "Seva"
+    ],
+    "name:eng_x_preferred":[
         "Seva"
     ],
     "name:hye_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Seva"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453688
+        "gn:id":10453688,
+        "ks:id":"KSAA41B5AEF99247D5BF6421D0ADE07DE4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3078df51aa5b6e2cb59266654cc1eed2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa0dc37d3a12664815eb71f47ccb4f66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1259452301,
-    "wof:lastmodified":1566710481,
+    "wof:lastmodified":1680676826,
     "wof:name":"Seva",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.53118,
-    20.86901,
-    78.53118,
-    20.86901
+    78.530804,
+    20.868574,
+    78.532156,
+    20.869664
 ],
-  "geometry": {"coordinates":[78.53118000000001,20.86901],"type":"Point"}
+  "geometry": {"coordinates":[[[78.531758,20.869664],[78.53176000000001,20.869574],[78.531856,20.869575],[78.531857,20.869485],[78.531953,20.869486],[78.531955,20.869396],[78.532051,20.869398],[78.532054,20.869217],[78.53215,20.869218],[78.532156,20.868857],[78.53206,20.868856],[78.532061,20.868766],[78.531965,20.868764],[78.53196699999999,20.868674],[78.53187,20.868673],[78.53187200000001,20.868582],[78.531296,20.868574],[78.531294,20.868664],[78.531006,20.86866],[78.53100499999999,20.86875],[78.53090899999999,20.868749],[78.530906,20.86893],[78.53081,20.868928],[78.530804,20.869289],[78.5309,20.869291],[78.530897,20.869471],[78.530993,20.869473],[78.530991,20.869563],[78.531375,20.869568],[78.531374,20.869659],[78.531758,20.869664]]],"type":"Polygon"}
 }

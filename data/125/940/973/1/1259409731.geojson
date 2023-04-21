@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.90594,29.84681,78.90594,29.84681",
-    "geom:latitude":29.84681,
-    "geom:longitude":78.90594,
+    "geom:bbox":"78.904045,29.846333,78.904359,29.846605",
+    "geom:latitude":29.846484,
+    "geom:longitude":78.904185,
     "gn:admin1_code":"39",
     "gn:admin2_code":"61.0",
     "gn:asciiname":"Kola",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.88594,29.82681,78.92594,29.86681",
+    "ks:ks_id":"KSF78B1DFAD1E74F9DB13FCB0CCC23A105",
+    "ks:ks_name":"Kola",
+    "ks:ks_pop":578,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|572674",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1838514",
+    "lbl:latitude":29.846513,
+    "lbl:longitude":78.904167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.846513,
+    "mps:longitude":78.904167,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0627"
@@ -59,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kola"
     ],
     "name:epo_x_preferred":[
         "Kola"
@@ -162,7 +175,13 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Kola"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,10 +190,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10749924
+        "gn:id":10749924,
+        "ks:id":"KSF78B1DFAD1E74F9DB13FCB0CCC23A105"
     },
     "wof:country":"IN",
-    "wof:geomhash":"13f1b0be395ba99fb81c18caecd7bf08",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"785936468f45431c4cdb21f42a79a75c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +208,22 @@
         }
     ],
     "wof:id":1259409731,
-    "wof:lastmodified":1636505877,
+    "wof:lastmodified":1680676351,
     "wof:name":"Kola",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":578,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.90594,
-    29.84681,
-    78.90594,
-    29.84681
+    78.904045,
+    29.846333,
+    78.904359,
+    29.846605
 ],
-  "geometry": {"coordinates":[78.90594,29.84681],"type":"Point"}
+  "geometry": {"coordinates":[[[78.904252,29.846605],[78.90425399999999,29.846515],[78.904357,29.846517],[78.904359,29.846427],[78.904256,29.846425],[78.904258,29.846335],[78.90415400000001,29.846333],[78.904152,29.846423],[78.904049,29.846422],[78.904045,29.846602],[78.904252,29.846605]]],"type":"Polygon"}
 }

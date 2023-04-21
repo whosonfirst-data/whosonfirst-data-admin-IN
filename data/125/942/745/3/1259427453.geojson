@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.05951,21.61707,76.05951,21.61707",
-    "geom:latitude":21.61707,
-    "geom:longitude":76.05951,
+    "geom:bbox":"76.069463,21.606597,76.070721,21.608134",
+    "geom:latitude":21.60742,
+    "geom:longitude":76.070044,
     "gn:admin1_code":"35",
     "gn:admin2_code":"440.0",
     "gn:asciiname":"Bari",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.03951,21.59707,76.07951,21.63707",
+    "ks:ks_id":"KSC419FB9EC2674430A6F1210023CBD87A",
+    "ks:ks_name":"Bari",
+    "ks:ks_source_id":"N|12934818",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_859637",
+    "lbl:latitude":21.607408,
+    "lbl:longitude":76.070056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.607408,
+    "mps:longitude":76.070056,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bari"
@@ -103,6 +111,9 @@
         "\u039c\u03c0\u03ac\u03c1\u03b9"
     ],
     "name:eml_x_preferred":[
+        "Bari"
+    ],
+    "name:eng_x_preferred":[
         "Bari"
     ],
     "name:epo_x_preferred":[
@@ -360,7 +371,11 @@
     "name:yor_x_preferred":[
         "Bari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -369,10 +384,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10495116
+        "gn:id":10495116,
+        "ks:id":"KSC419FB9EC2674430A6F1210023CBD87A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fa8fc1dc9f39a72c1fb2987b42aee133",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6c6224c3a0dbcc05ea7ab00a7d4d9549",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,7 +402,7 @@
         }
     ],
     "wof:id":1259427453,
-    "wof:lastmodified":1577753986,
+    "wof:lastmodified":1680676807,
     "wof:name":"Bari",
     "wof:parent_id":1108696225,
     "wof:placetype":"locality",
@@ -393,10 +412,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.05951,
-    21.61707,
-    76.05951,
-    21.61707
+    76.069463,
+    21.606597,
+    76.070721,
+    21.608134
 ],
-  "geometry": {"coordinates":[76.05951,21.61707],"type":"Point"}
+  "geometry": {"coordinates":[[[76.070241,21.60813],[76.070241,21.60804],[76.07043400000001,21.608038],[76.07043299999999,21.607948],[76.07053000000001,21.607947],[76.070528,21.607767],[76.07062500000001,21.607766],[76.070624,21.607676],[76.07072100000001,21.607675],[76.070718,21.607314],[76.070622,21.607314],[76.07062000000001,21.607134],[76.07052400000001,21.607134],[76.07052299999999,21.607044],[76.070426,21.607045],[76.070426,21.606954],[76.070329,21.606955],[76.070328,21.606865],[76.070232,21.606865],[76.07023100000001,21.606775],[76.07013499999999,21.606776],[76.070134,21.606685],[76.069844,21.606687],[76.06984300000001,21.606597],[76.06965,21.606598],[76.06965099999999,21.606688],[76.069554,21.606689],[76.06956,21.607412],[76.069463,21.607412],[76.069464,21.607593],[76.06956099999999,21.607592],[76.069564,21.608044],[76.069661,21.608043],[76.06966199999999,21.608134],[76.070241,21.60813]]],"type":"Polygon"}
 }

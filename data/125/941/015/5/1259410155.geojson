@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.93706,30.96841,77.93706,30.96841",
-    "geom:latitude":30.96841,
-    "geom:longitude":77.93706,
+    "geom:bbox":"77.934628,30.968071,77.936411,30.969244",
+    "geom:latitude":30.968787,
+    "geom:longitude":77.935483,
     "gn:admin1_code":"39",
     "gn:admin2_code":"60.0",
     "gn:asciiname":"Chatra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.91706,30.94841,77.95706,30.98841",
+    "ks:ks_id":"KS66DE641A71D449B593356349E1843DF3",
+    "ks:ks_name":"Chatra",
+    "ks:ks_pop":651,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|209026",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2657962",
+    "lbl:latitude":30.968776,
+    "lbl:longitude":77.935469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.968776,
+    "mps:longitude":77.935469,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062a\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099b\u09be\u09a4\u09cd\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Chatra"
     ],
     "name:guj_x_preferred":[
         "\u0a9b\u0abe\u0aa4\u0acd\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0686\u062a\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10745070
+        "gn:id":10745070,
+        "ks:id":"KS66DE641A71D449B593356349E1843DF3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1dab6aa0d1242a7da2735ddc957bd694",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8d27a25fae770967f381d08bc06b4946",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1259410155,
-    "wof:lastmodified":1577753766,
+    "wof:lastmodified":1680676348,
     "wof:name":"Chatra",
     "wof:parent_id":890507905,
     "wof:placetype":"locality",
+    "wof:population":651,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.93706,
-    30.96841,
-    77.93706,
-    30.96841
+    77.934628,
+    30.968071,
+    77.936411,
+    30.969244
 ],
-  "geometry": {"coordinates":[77.93706,30.96841],"type":"Point"}
+  "geometry": {"coordinates":[[[77.935795,30.969237],[77.93579200000001,30.969147],[77.936001,30.969142],[77.935999,30.969052],[77.93620799999999,30.969048],[77.936205,30.968957],[77.93631000000001,30.968955],[77.936307,30.968865],[77.93641100000001,30.968863],[77.936403,30.968592],[77.936089,30.968599],[77.936087,30.968509],[77.935982,30.968512],[77.935979,30.968422],[77.935666,30.968429],[77.93566300000001,30.968339],[77.935558,30.968341],[77.93555000000001,30.968071],[77.935445,30.968073],[77.93545399999999,30.968343],[77.93514,30.96835],[77.93514500000001,30.968531],[77.934727,30.96854],[77.93473299999999,30.96872],[77.934628,30.968723],[77.934639,30.969083],[77.93474399999999,30.969081],[77.934746,30.969171],[77.935478,30.969154],[77.935481,30.969244],[77.935795,30.969237]]],"type":"Polygon"}
 }
