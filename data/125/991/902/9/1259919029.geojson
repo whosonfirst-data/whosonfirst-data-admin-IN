@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.27935,26.43392,79.27935,26.43392",
-    "geom:latitude":26.43392,
-    "geom:longitude":79.27935,
+    "geom:bbox":"79.27828,26.43307,79.280198,26.434507",
+    "geom:latitude":26.433833,
+    "geom:longitude":79.279321,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"165",
     "gn:asciiname":"Bera",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.25935,26.41392,79.29935,26.45392",
+    "ks:ks_id":"KSCA8371459AFE43C6A2DFE5647A8C78CC",
+    "ks:ks_name":"Bera",
+    "ks:ks_pop":214,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|125726",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1732939",
+    "lbl:latitude":26.433966,
+    "lbl:longitude":79.279241,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.433966,
+    "mps:longitude":79.279241,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bera"
@@ -37,6 +47,9 @@
         "Bera"
     ],
     "name:deu_x_preferred":[
+        "Bera"
+    ],
+    "name:eng_x_preferred":[
         "Bera"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +76,13 @@
     "name:swe_x_preferred":[
         "Bera"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7002076
+        "gn:id":7002076,
+        "ks:id":"KSCA8371459AFE43C6A2DFE5647A8C78CC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d0f97f1026f30a8bea91eec5032db037",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b51a145a1bd32340bca98bfe0680055a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1259919029,
-    "wof:lastmodified":1566708904,
+    "wof:lastmodified":1680675970,
     "wof:name":"Bera",
     "wof:parent_id":1108695829,
     "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.27935,
-    26.43392,
-    79.27935,
-    26.43392
+    79.27828,
+    26.43307,
+    79.280198,
+    26.434507
 ],
-  "geometry": {"coordinates":[79.27934999999999,26.43392],"type":"Point"}
+  "geometry": {"coordinates":[[[79.279177,26.434507],[79.279179,26.434416],[79.279279,26.434418],[79.27928,26.434327],[79.279481,26.43433],[79.279482,26.434239],[79.279582,26.434241],[79.279584,26.43415],[79.27978400000001,26.434153],[79.279785,26.434063],[79.279886,26.434064],[79.279888,26.433883],[79.279989,26.433884],[79.27999,26.433794],[79.28009,26.433795],[79.280095,26.433434],[79.280196,26.433436],[79.280198,26.433255],[79.280098,26.433254],[79.280101,26.433073],[79.27979999999999,26.43307],[79.279799,26.43316],[79.27959799999999,26.433158],[79.279597,26.433248],[79.27949700000001,26.433247],[79.279495,26.433337],[79.27939499999999,26.433336],[79.279394,26.433426],[79.27929399999999,26.433425],[79.279292,26.433515],[79.27919199999999,26.433514],[79.279191,26.433604],[79.27898999999999,26.433602],[79.278989,26.433692],[79.278688,26.433688],[79.27868700000001,26.433779],[79.278486,26.433776],[79.27848299999999,26.433957],[79.278283,26.433954],[79.27828,26.434135],[79.278381,26.434136],[79.278379,26.434226],[79.278479,26.434227],[79.27847800000001,26.434318],[79.278679,26.43432],[79.278677,26.43441],[79.278978,26.434414],[79.278977,26.434504],[79.279177,26.434507]]],"type":"Polygon"}
 }

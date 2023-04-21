@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.03655,25.5765,86.03655,25.5765",
-    "geom:latitude":25.5765,
-    "geom:longitude":86.03655,
+    "geom:bbox":"86.034798,25.574224,86.037224,25.577727",
+    "geom:latitude":25.57585,
+    "geom:longitude":86.036089,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Isapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.01655,25.5565,86.05655,25.5965",
+    "ks:ks_alt_nam":"\u012as\u0101pur",
+    "ks:ks_id":"KS614DFCE035664310A8A4B4245987B16F",
+    "ks:ks_name":"Isapur",
+    "ks:ks_pop":1872,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13372522",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1534266",
+    "lbl:latitude":25.576111,
+    "lbl:longitude":86.036172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.576111,
+    "mps:longitude":86.036172,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062f \u0625\u0633\u0627\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0987\u09b8\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Isapur"
+    ],
+    "name:eng_x_variant":[
+        "\u012as\u0101pur"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0abe\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0639\u06cc\u0633\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10893914
+        "gn:id":10893914,
+        "ks:id":"KS614DFCE035664310A8A4B4245987B16F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"71c82d02d05337ce2faec92d8b935cc1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96b016a7b73c13c15b51f44aef312873",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1259920695,
-    "wof:lastmodified":1577753852,
+    "wof:lastmodified":1680676504,
     "wof:name":"Isapur",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":1872,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.03655,
-    25.5765,
-    86.03655,
-    25.5765
+    86.034798,
+    25.574224,
+    86.037224,
+    25.577727
 ],
-  "geometry": {"coordinates":[86.03655000000001,25.5765],"type":"Point"}
+  "geometry": {"coordinates":[[[86.035876,25.574224],[86.03479799999999,25.574224],[86.03479799999999,25.575572],[86.035337,25.575572],[86.035337,25.576111],[86.035607,25.576111],[86.035607,25.57665],[86.03641500000001,25.57665],[86.03641500000001,25.577727],[86.03722399999999,25.577727],[86.03722399999999,25.575572],[86.036146,25.575572],[86.036146,25.574494],[86.035876,25.574494],[86.035876,25.574224]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.8019,25.87298,85.8019,25.87298",
-    "geom:latitude":25.87298,
-    "geom:longitude":85.8019,
+    "geom:bbox":"85.797104,25.866626,85.798182,25.867704",
+    "geom:latitude":25.867192,
+    "geom:longitude":85.79767,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Sari",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.7819,25.85298,85.8219,25.89298",
+    "ks:ks_alt_nam":"S\u0101ri",
+    "ks:ks_id":"KS452866FC1B0C4F76AB49F41209C86330",
+    "ks:ks_name":"Sari",
+    "ks:ks_pop":1480,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|958371",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1379060",
+    "lbl:latitude":25.867229,
+    "lbl:longitude":85.797699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.867229,
+    "mps:longitude":85.797699,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u064a"
@@ -59,6 +70,12 @@
     ],
     "name:dsb_x_preferred":[
         "Sari"
+    ],
+    "name:eng_x_preferred":[
+        "Sari"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101ri"
     ],
     "name:epo_x_preferred":[
         "Sario"
@@ -204,7 +221,13 @@
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10e0\u10d8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -213,10 +236,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880093
+        "gn:id":10880093,
+        "ks:id":"KS452866FC1B0C4F76AB49F41209C86330"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ea56a27665f7072d69f43fd09cc1f1a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0af54d02a186ed96839bbac88c808240",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -227,20 +254,22 @@
         }
     ],
     "wof:id":1259933745,
-    "wof:lastmodified":1566710053,
+    "wof:lastmodified":1680676589,
     "wof:name":"Sari",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":1480,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.8019,
-    25.87298,
-    85.8019,
-    25.87298
+    85.797104,
+    25.866626,
+    85.798182,
+    25.867704
 ],
-  "geometry": {"coordinates":[85.8019,25.87298],"type":"Point"}
+  "geometry": {"coordinates":[[[85.798182,25.867704],[85.798182,25.866626],[85.79737299999999,25.866626],[85.79737299999999,25.866895],[85.797104,25.866895],[85.797104,25.867704],[85.798182,25.867704]]],"type":"Polygon"}
 }
