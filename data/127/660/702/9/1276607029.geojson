@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.43724,26.09668,84.43724,26.09668",
-    "geom:latitude":26.09668,
-    "geom:longitude":84.43724,
+    "geom:bbox":"84.436695,26.096505,84.437504,26.097583",
+    "geom:latitude":26.097044,
+    "geom:longitude":84.4371,
     "gn:admin1_code":"34",
     "gn:admin2_code":"218.0",
     "gn:asciiname":"Milki Madhwapur",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.41724,26.07668,84.45724,26.11668",
+    "ks:ks_alt_nam":"Milki Madhw\u0101pur",
+    "ks:ks_id":"KS2E6C9E04E53C40D281335A63B5531808",
+    "ks:ks_name":"Milki Madhwapur",
+    "ks:ks_pop":572,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13220159",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1396413",
+    "lbl:latitude":26.097044,
+    "lbl:longitude":84.437099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.097044,
+    "mps:longitude":84.437099,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Milki Madhwapur"
+    ],
+    "name:eng_x_variant":[
+        "Milki Madhw\u0101pur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10771296
+        "gn:id":10771296,
+        "ks:id":"KS2E6C9E04E53C40D281335A63B5531808"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b4f2c563fb8fb5db1deb751f4f24f0b7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"40aabb6704c7c61038f06bf58f65e14b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1276607029,
-    "wof:lastmodified":1566692715,
+    "wof:lastmodified":1680659789,
     "wof:name":"Milki Madhwapur",
     "wof:parent_id":1108695917,
     "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.43724,
-    26.09668,
-    84.43724,
-    26.09668
+    84.436695,
+    26.096505,
+    84.437504,
+    26.097583
 ],
-  "geometry": {"coordinates":[84.43724,26.09668],"type":"Point"}
+  "geometry": {"coordinates":[[[84.437504,26.096505],[84.436695,26.096505],[84.436695,26.097583],[84.437504,26.097583],[84.437504,26.096505]]],"type":"Polygon"}
 }

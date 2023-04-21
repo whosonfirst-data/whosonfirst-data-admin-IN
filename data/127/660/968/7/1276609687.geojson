@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.21115,31.27303,75.21115,31.27303",
-    "geom:latitude":31.27303,
-    "geom:longitude":75.21115,
+    "geom:bbox":"75.208908,31.271148,75.210168,31.272592",
+    "geom:latitude":31.271833,
+    "geom:longitude":75.209439,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"36.0",
     "gn:asciiname":"Lau",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.19115,31.25303,75.23115,31.29303",
+    "ks:ks_id":"KS30C1AFEDA8AB450195FEDE6CD507789B",
+    "ks:ks_name":"Lau",
+    "ks:ks_pop":76,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0303000300327400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2673726",
+    "lbl:latitude":31.271798,
+    "lbl:longitude":75.209427,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.271798,
+    "mps:longitude":75.209427,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lau"
@@ -37,6 +47,9 @@
         "Lau"
     ],
     "name:deu_x_preferred":[
+        "Lau"
+    ],
+    "name:eng_x_preferred":[
         "Lau"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +67,13 @@
     "name:ukr_x_preferred":[
         "LAU"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10698750
+        "gn:id":10698750,
+        "ks:id":"KS30C1AFEDA8AB450195FEDE6CD507789B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ce777cc2554d59e2d9a8019b4cdcdd1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68ac2b82d1a63005ba11afab8d5a1067",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1276609687,
-    "wof:lastmodified":1566692716,
+    "wof:lastmodified":1680659789,
     "wof:name":"Lau",
     "wof:parent_id":890510955,
     "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.21115,
-    31.27303,
-    75.21115,
-    31.27303
+    75.208908,
+    31.271148,
+    75.210168,
+    31.272592
 ],
-  "geometry": {"coordinates":[75.21115,31.27303],"type":"Point"}
+  "geometry": {"coordinates":[[[75.209435,31.272592],[75.209435,31.272502],[75.20964499999999,31.272501],[75.20964499999999,31.272411],[75.20975,31.272411],[75.209749,31.27223],[75.20985400000001,31.27223],[75.20985400000001,31.27196],[75.209959,31.271959],[75.209958,31.271779],[75.210064,31.271779],[75.21006300000001,31.271508],[75.210168,31.271508],[75.210168,31.271418],[75.21006300000001,31.271418],[75.21006300000001,31.271328],[75.209957,31.271328],[75.209957,31.271238],[75.20974699999999,31.271238],[75.20974699999999,31.271148],[75.20911700000001,31.271149],[75.20911700000001,31.271329],[75.209012,31.271329],[75.209013,31.2716],[75.20890799999999,31.2716],[75.20891,31.272502],[75.20901499999999,31.272502],[75.20901499999999,31.272592],[75.209435,31.272592]]],"type":"Polygon"}
 }
