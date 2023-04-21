@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.01785,22.42767,79.01785,22.42767",
-    "geom:latitude":22.42767,
-    "geom:longitude":79.01785,
+    "geom:bbox":"79.016889,22.427066,79.018506,22.427875",
+    "geom:latitude":22.42747,
+    "geom:longitude":79.017697,
     "gn:admin1_code":"35",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Manakwari",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.99785,22.40767,79.03785,22.44767",
+    "ks:ks_id":"KS497CF59B2FDF4BDE8CD5E4C8862102F4",
+    "ks:ks_name":"Manakwadi",
+    "ks:ks_pop":1581,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|666747",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_712469",
+    "lbl:latitude":22.427471,
+    "lbl:longitude":79.017698,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.427471,
+    "mps:longitude":79.017698,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Manakwadi"
+    ],
+    "name:eng_x_variant":[
+        "Manakwari"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10462733
+        "gn:id":10462733,
+        "ks:id":"KS497CF59B2FDF4BDE8CD5E4C8862102F4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7ddcbe9321b9a9d6bd904b40ebf98e15",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"562c405bf26d15dc7eb1826430dd405c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1293737147,
-    "wof:lastmodified":1566691416,
-    "wof:name":"Manakwari",
+    "wof:lastmodified":1680658925,
+    "wof:name":"Manakwadi",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":1581,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.01785,
-    22.42767000000001,
-    79.01785,
-    22.42767000000001
+    79.016889,
+    22.427066,
+    79.018506,
+    22.427875
 ],
-  "geometry": {"coordinates":[79.01785,22.42767000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.018506,22.427066],[79.01688900000001,22.427066],[79.01688900000001,22.427875],[79.018506,22.427875],[79.018506,22.427066]]],"type":"Polygon"}
 }

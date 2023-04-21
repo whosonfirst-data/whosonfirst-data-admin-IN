@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.12286,19.10183,83.12286,19.10183",
-    "geom:latitude":19.10183,
-    "geom:longitude":83.12286,
+    "geom:bbox":"83.122101,19.101234,83.123178,19.102312",
+    "geom:latitude":19.10168,
+    "geom:longitude":83.122608,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Sargipadar",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.10286,19.08183,83.14286,19.12183",
+    "ks:ks_id":"KSEE0672E187FF4B269C3086EA65F74395",
+    "ks:ks_name":"Sargipadara",
+    "ks:ks_pop":246,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2127001104734800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_450692",
+    "lbl:latitude":19.101638,
+    "lbl:longitude":83.122608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.101638,
+    "mps:longitude":83.122608,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sargipadara"
+    ],
+    "name:eng_x_variant":[
+        "Sargipadar"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10775690
+        "gn:id":10775690,
+        "ks:id":"KSEE0672E187FF4B269C3086EA65F74395"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ba2b63eefef6556839ebd14d60da596d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8574fcc6f29ab5e5051abb3458d24dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1293742495,
-    "wof:lastmodified":1566691482,
-    "wof:name":"Sargipadar",
+    "wof:lastmodified":1680658970,
+    "wof:name":"Sargipadara",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.12286,
-    19.10183,
-    83.12286,
-    19.10183
+    83.122101,
+    19.101234,
+    83.123178,
+    19.102312
 ],
-  "geometry": {"coordinates":[83.12286,19.10183],"type":"Point"}
+  "geometry": {"coordinates":[[[83.12237,19.102312],[83.12237,19.102042],[83.123178,19.102042],[83.123178,19.101234],[83.122101,19.101234],[83.122101,19.102312],[83.12237,19.102312]]],"type":"Polygon"}
 }

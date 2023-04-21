@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.49155,18.64334,77.49155,18.64334",
-    "geom:latitude":18.64334,
-    "geom:longitude":77.49155,
+    "geom:bbox":"77.491277,18.642806,77.492604,18.643625",
+    "geom:latitude":18.643201,
+    "geom:longitude":77.491946,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Jamkhed",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.47155,18.62334,77.51155,18.66334",
+    "ks:ks_alt_nam":"J\u0101mkhed",
+    "ks:ks_id":"KS54F5B079407B4461A621DDBAF41A40F5",
+    "ks:ks_name":"Jamkhed",
+    "ks:ks_pop":165,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|449526",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_538658",
+    "lbl:latitude":18.64318,
+    "lbl:longitude":77.491959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.64318,
+    "mps:longitude":77.491959,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u0996\u09c7\u09a6"
@@ -37,6 +48,12 @@
         "\u099c\u09be\u09ae\u0996\u09c7\u09a6"
     ],
     "name:ceb_x_preferred":[
+        "J\u0101mkhed"
+    ],
+    "name:eng_x_preferred":[
+        "Jamkhed"
+    ],
+    "name:eng_x_variant":[
         "J\u0101mkhed"
     ],
     "name:ita_x_preferred":[
@@ -69,7 +86,13 @@
     "name:zho_x_preferred":[
         "\u8d3e\u59c6\u51ef\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10449386
+        "gn:id":10449386,
+        "ks:id":"KS54F5B079407B4461A621DDBAF41A40F5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"043ed1efb19d81f25fcbaf19626b2460",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2fe16758c945e55c7a2982dc98ae455e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1293752769,
-    "wof:lastmodified":1566691588,
+    "wof:lastmodified":1680659038,
     "wof:name":"Jamkhed",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.49155,
-    18.64334,
-    77.49155,
-    18.64334
+    77.491277,
+    18.642806,
+    77.492604,
+    18.643625
 ],
-  "geometry": {"coordinates":[77.49155,18.64334],"type":"Point"}
+  "geometry": {"coordinates":[[[77.492231,18.643621],[77.49223000000001,18.643531],[77.49232499999999,18.643529],[77.492323,18.643439],[77.492418,18.643438],[77.492417,18.643347],[77.49251099999999,18.643346],[77.492509,18.643166],[77.492604,18.643164],[77.49260200000001,18.643074],[77.492508,18.643075],[77.49250499999999,18.642895],[77.49241000000001,18.642896],[77.49240899999999,18.642806],[77.491556,18.642817],[77.491558,18.642907],[77.491652,18.642906],[77.491654,18.642996],[77.49146399999999,18.642999],[77.491467,18.643179],[77.491277,18.643182],[77.491281,18.643453],[77.491376,18.643452],[77.491377,18.643542],[77.491946,18.643534],[77.491947,18.643625],[77.492231,18.643621]]],"type":"Polygon"}
 }

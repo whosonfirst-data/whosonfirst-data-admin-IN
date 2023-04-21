@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.95902,21.77036,77.95902,21.77036",
-    "geom:latitude":21.77036,
-    "geom:longitude":77.95902,
+    "geom:bbox":"77.958102,21.769575,77.960432,21.771112",
+    "geom:latitude":21.770412,
+    "geom:longitude":77.959156,
     "gn:admin1_code":"35",
     "gn:admin2_code":"447.0",
     "gn:asciiname":"Chhata",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.93902,21.75036,77.97902,21.79036",
+    "ks:ks_alt_nam":"Chh\u0101ta",
+    "ks:ks_id":"KSF9AFF89CEA1746579D43FF35B35B4048",
+    "ks:ks_name":"Chhata",
+    "ks:ks_pop":478,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12954665",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_881190",
+    "lbl:latitude":21.770426,
+    "lbl:longitude":77.959134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.770426,
+    "mps:longitude":77.959134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099b\u09be\u09a4\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Chh\u0101ta"
+    ],
+    "name:eng_x_preferred":[
+        "Chhata"
+    ],
+    "name:eng_x_variant":[
         "Chh\u0101ta"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +83,13 @@
     "name:vie_x_preferred":[
         "Chhata"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10509331
+        "gn:id":10509331,
+        "ks:id":"KSF9AFF89CEA1746579D43FF35B35B4048"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8f57e9f6a7da2770b81c121b6bbd175b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23a750eebde977edba7024d6fb53e0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1293736939,
-    "wof:lastmodified":1566691410,
+    "wof:lastmodified":1680658922,
     "wof:name":"Chhata",
     "wof:parent_id":890506465,
     "wof:placetype":"locality",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.95902,
-    21.77036,
-    77.95902,
-    21.77036
+    77.958102,
+    21.769575,
+    77.960432,
+    21.771112
 ],
-  "geometry": {"coordinates":[77.95902,21.77036],"type":"Point"}
+  "geometry": {"coordinates":[[[77.959284,21.7711],[77.959282,21.77101],[77.959861,21.770999],[77.95986000000001,21.770909],[77.960149,21.770904],[77.960148,21.770814],[77.960244,21.770812],[77.96024199999999,21.770722],[77.960339,21.77072],[77.960335,21.77054],[77.960432,21.770538],[77.96043,21.770448],[77.96033300000001,21.770449],[77.96033,21.770269],[77.960233,21.770271],[77.96023099999999,21.77018],[77.96013499999999,21.770182],[77.960133,21.770092],[77.960036,21.770094],[77.96003399999999,21.770003],[77.959841,21.770007],[77.959839,21.769917],[77.959453,21.769924],[77.959451,21.769833],[77.95916099999999,21.769838],[77.959159,21.769748],[77.958966,21.769752],[77.95896399999999,21.769661],[77.958771,21.769665],[77.958769,21.769575],[77.958673,21.769576],[77.958675,21.769667],[77.95848100000001,21.76967],[77.958483,21.76976],[77.95829000000001,21.769764],[77.958294,21.769944],[77.958197,21.769946],[77.95819899999999,21.770036],[77.958102,21.770038],[77.95811399999999,21.770579],[77.95820999999999,21.770578],[77.958214,21.770758],[77.95831,21.770756],[77.95831200000001,21.770847],[77.958409,21.770845],[77.958411,21.770935],[77.958507,21.770933],[77.95850900000001,21.771024],[77.958606,21.771022],[77.958608,21.771112],[77.959284,21.7711]]],"type":"Polygon"}
 }
