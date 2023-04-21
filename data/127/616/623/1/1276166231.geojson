@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.1049,24.82918,87.1049,24.82918",
-    "geom:latitude":24.82918,
-    "geom:longitude":87.1049,
+    "geom:bbox":"87.108619,24.817653,87.111093,24.819731",
+    "geom:latitude":24.818602,
+    "geom:longitude":87.109673,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Kusmara",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.0849,24.80918,87.1249,24.84918",
+    "ks:ks_id":"KS4F6FE30DE1FD4A028932CD79964CE7AD",
+    "ks:ks_name":"Kusmara",
+    "ks:ks_pop":317,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2008000601442000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1206144",
+    "lbl:latitude":24.818641,
+    "lbl:longitude":87.109526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.818641,
+    "mps:longitude":87.109526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c1\u09b8\u09cd\u09ae\u09be\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Kusmara"
+    ],
+    "name:eng_x_preferred":[
         "Kusmara"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5e93\u65af\u9a6c\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11015927
+        "gn:id":11015927,
+        "ks:id":"KS4F6FE30DE1FD4A028932CD79964CE7AD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a3c10b928dc281df752901a19276ad92",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c4d8aa9db805c45bf46c1ab9b46cad6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1276166231,
-    "wof:lastmodified":1566692532,
+    "wof:lastmodified":1680659655,
     "wof:name":"Kusmara",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":317,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.1049,
-    24.82918,
-    87.1049,
-    24.82918
+    87.108619,
+    24.817653,
+    87.111093,
+    24.819731
 ],
-  "geometry": {"coordinates":[87.1049,24.82918],"type":"Point"}
+  "geometry": {"coordinates":[[[87.109709,24.819731],[87.109709,24.81955],[87.109808,24.81955],[87.109808,24.81946],[87.10990700000001,24.81946],[87.10990700000001,24.81937],[87.110006,24.819369],[87.110006,24.819279],[87.110204,24.819279],[87.110204,24.819189],[87.110303,24.819189],[87.110303,24.819008],[87.11040199999999,24.819008],[87.110401,24.818918],[87.1105,24.818918],[87.1105,24.818827],[87.11059899999999,24.818827],[87.11059899999999,24.818647],[87.110698,24.818646],[87.110698,24.818556],[87.11079700000001,24.818556],[87.11079700000001,24.818466],[87.110896,24.818466],[87.110896,24.818285],[87.110995,24.818285],[87.11099400000001,24.817924],[87.111093,24.817924],[87.111093,24.817833],[87.11099400000001,24.817833],[87.11099400000001,24.817743],[87.110895,24.817743],[87.110895,24.817653],[87.110202,24.817653],[87.110203,24.817744],[87.109708,24.817744],[87.109708,24.817834],[87.10891599999999,24.817835],[87.10891599999999,24.817925],[87.108718,24.817925],[87.108718,24.818016],[87.108619,24.818016],[87.108621,24.819461],[87.10872000000001,24.819461],[87.10872000000001,24.819551],[87.108819,24.819551],[87.108819,24.819641],[87.108918,24.819641],[87.108918,24.819731],[87.109709,24.819731]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.52021,25.03173,81.52021,25.03173",
-    "geom:latitude":25.03173,
-    "geom:longitude":81.52021,
+    "geom:bbox":"81.519173,25.030821,81.521459,25.032717",
+    "geom:latitude":25.031751,
+    "geom:longitude":81.520343,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Naubasta",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.50021,25.01173,81.54021,25.05173",
+    "ks:ks_id":"KS9072F1F794A047FBA02CE86A8845FBAC",
+    "ks:ks_name":"Naubasta",
+    "ks:ks_pop":236,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|766806",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1044295",
+    "lbl:latitude":25.03168,
+    "lbl:longitude":81.520365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.03168,
+    "mps:longitude":81.520365,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Naubasta"
+    ],
+    "name:eng_x_preferred":[
         "Naubasta"
     ],
     "name:mai_x_preferred":[
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Naubasta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10681293
+        "gn:id":10681293,
+        "ks:id":"KS9072F1F794A047FBA02CE86A8845FBAC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ae23d3f88105d960a6c68be41b0f7154",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c080490959917565726ae5133b05e608",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1276163981,
-    "wof:lastmodified":1566692465,
+    "wof:lastmodified":1680659605,
     "wof:name":"Naubasta",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.52020999999998,
-    25.03173,
-    81.52020999999998,
-    25.03173
+    81.519173,
+    25.030821,
+    81.521459,
+    25.032717
 ],
-  "geometry": {"coordinates":[81.52020999999998,25.03173],"type":"Point"}
+  "geometry": {"coordinates":[[[81.521162,25.032716],[81.521162,25.032625],[81.52136,25.032625],[81.52136,25.032534],[81.52145899999999,25.032534],[81.521455,25.031721],[81.521356,25.031722],[81.521355,25.031451],[81.52125599999999,25.031451],[81.521255,25.03127],[81.521156,25.031271],[81.521156,25.031181],[81.521057,25.031181],[81.521056,25.031091],[81.520957,25.031091],[81.520957,25.031001],[81.520858,25.031001],[81.52085700000001,25.030911],[81.52065899999999,25.030911],[81.52065899999999,25.030821],[81.519965,25.030823],[81.519965,25.030914],[81.519569,25.030915],[81.519569,25.031005],[81.51937100000001,25.031006],[81.51937100000001,25.031096],[81.519272,25.031097],[81.519272,25.031187],[81.51917299999999,25.031187],[81.519177,25.032091],[81.519276,25.03209],[81.519277,25.032181],[81.51937599999999,25.03218],[81.51937599999999,25.03227],[81.51957400000001,25.03227],[81.519575,25.03236],[81.51987200000001,25.032359],[81.51987200000001,25.032449],[81.52016999999999,25.032448],[81.52016999999999,25.032539],[81.520368,25.032538],[81.520369,25.032628],[81.52066600000001,25.032627],[81.520667,25.032717],[81.521162,25.032716]]],"type":"Polygon"}
 }
