@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.34305,23.1623,78.34305,23.1623",
-    "geom:latitude":23.1623,
-    "geom:longitude":78.34305,
+    "geom:bbox":"78.34173,23.161542,78.344076,23.163356",
+    "geom:latitude":23.162423,
+    "geom:longitude":78.343066,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Seoni",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.32305,23.1423,78.36305,23.1823",
+    "ks:ks_id":"KS98900B58F8C040DF82A94C1B09F510A4",
+    "ks:ks_name":"Seoni",
+    "ks:ks_pop":333,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|972636",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_922582",
+    "lbl:latitude":23.162355,
+    "lbl:longitude":78.343161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.162355,
+    "mps:longitude":78.343161,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u064a"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09bf\u0993\u09a8\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Seoni"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a93\u0aa8\u0ac0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0648\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10191420
+        "gn:id":10191420,
+        "ks:id":"KS98900B58F8C040DF82A94C1B09F510A4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"614f0007ed75dc307bc5d296e87ef6c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c23f37eaea1ebb481c053afd54063f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1277116797,
-    "wof:lastmodified":1577750679,
+    "wof:lastmodified":1680660966,
     "wof:name":"Seoni",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.34305,
-    23.1623,
-    78.34305,
-    23.1623
+    78.34173,
+    23.161542,
+    78.344076,
+    23.163356
 ],
-  "geometry": {"coordinates":[78.34305000000001,23.1623],"type":"Point"}
+  "geometry": {"coordinates":[[[78.343677,23.163356],[78.343678,23.163266],[78.343971,23.163271],[78.343975,23.163091],[78.344072,23.163092],[78.344076,23.162912],[78.34397800000001,23.16291],[78.34399999999999,23.161827],[78.343902,23.161826],[78.34390399999999,23.161736],[78.343806,23.161734],[78.343808,23.161644],[78.34371,23.161642],[78.343712,23.161552],[78.343127,23.161542],[78.343125,23.161632],[78.34273399999999,23.161626],[78.342733,23.161716],[78.34253699999999,23.161712],[78.342536,23.161803],[78.342341,23.161799],[78.342339,23.16189],[78.342241,23.161888],[78.34223900000001,23.161978],[78.342142,23.161977],[78.34213800000001,23.162157],[78.34204099999999,23.162155],[78.342037,23.162336],[78.341939,23.162334],[78.341936,23.162515],[78.341838,23.162513],[78.341835,23.162693],[78.34173699999999,23.162692],[78.34173,23.163053],[78.34182800000001,23.163054],[78.341829,23.162964],[78.34202500000001,23.162967],[78.342026,23.162877],[78.342612,23.162887],[78.34260999999999,23.162977],[78.342805,23.162981],[78.342804,23.163071],[78.34299900000001,23.163074],[78.342997,23.163164],[78.343192,23.163168],[78.34319000000001,23.163258],[78.34348300000001,23.163263],[78.343481,23.163353],[78.343677,23.163356]]],"type":"Polygon"}
 }

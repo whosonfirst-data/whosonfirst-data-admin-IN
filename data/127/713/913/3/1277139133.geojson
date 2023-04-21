@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.29507,15.63182,74.29507,15.63182",
-    "geom:latitude":15.63182,
-    "geom:longitude":74.29507,
+    "geom:bbox":"74.294266,15.630952,74.295613,15.631761",
+    "geom:latitude":15.631417,
+    "geom:longitude":74.29497,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"555.0",
     "gn:asciiname":"Amgaon",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.27507,15.61182,74.31507,15.65182",
+    "ks:ks_id":"KSDB152CBB4E914BB7ACDC8CE830DF373C",
+    "ks:ks_name":"Amagaon",
+    "ks:ks_pop":334,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|27620",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_328078",
+    "lbl:latitude":15.631491,
+    "lbl:longitude":74.295092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":15.631491,
+    "mps:longitude":74.295092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
+        "Amgaon"
+    ],
+    "name:eng_x_preferred":[
+        "Amagaon"
+    ],
+    "name:eng_x_variant":[
         "Amgaon"
     ],
     "name:fas_x_preferred":[
@@ -39,7 +55,13 @@
     "name:urd_x_preferred":[
         "\u0622\u0645 \u06af\u0627\u0624\u06ba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10975631
+        "gn:id":10975631,
+        "ks:id":"KSDB152CBB4E914BB7ACDC8CE830DF373C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9d0332b233148d90ca1ebc33bc281fb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88a21bf479adcb07523a5d2f03ac98ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1277139133,
-    "wof:lastmodified":1566693082,
-    "wof:name":"Amgaon",
+    "wof:lastmodified":1680660037,
+    "wof:name":"Amagaon",
     "wof:parent_id":1108696325,
     "wof:placetype":"locality",
+    "wof:population":334,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.29507,
-    15.63182,
-    74.29507,
-    15.63182
+    74.294266,
+    15.630952,
+    74.295613,
+    15.631761
 ],
-  "geometry": {"coordinates":[74.29507,15.63182],"type":"Point"}
+  "geometry": {"coordinates":[[[74.294535,15.630952],[74.29426599999999,15.630952],[74.29426599999999,15.631491],[74.294805,15.631491],[74.294805,15.631761],[74.295613,15.631761],[74.295613,15.631222],[74.294535,15.631222],[74.294535,15.630952]]],"type":"Polygon"}
 }
