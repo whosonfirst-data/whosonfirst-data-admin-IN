@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.53036,24.33507,84.53036,24.33507",
-    "geom:latitude":24.33507,
-    "geom:longitude":84.53036,
+    "geom:bbox":"84.528045,24.333867,84.530004,24.335067",
+    "geom:latitude":24.334446,
+    "geom:longitude":84.528927,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Rabda",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.51036,24.31507,84.55036,24.35507",
+    "ks:ks_id":"KS676E9C49445045939D6F324B011C5A8D",
+    "ks:ks_name":"Rabda",
+    "ks:ks_pop":219,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2003000200392300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1145129",
+    "lbl:latitude":24.334279,
+    "lbl:longitude":84.528504,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.334279,
+    "mps:longitude":84.528504,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0628\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Rabda"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0628\u062f\u0647"
@@ -42,7 +55,13 @@
     "name:vie_x_preferred":[
         "Rabda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841265
+        "gn:id":10841265,
+        "ks:id":"KS676E9C49445045939D6F324B011C5A8D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"17c043e8038df4f987692706f32e50b6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30581d29b92bb7b8a665928c626a69aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1310453189,
-    "wof:lastmodified":1566701499,
+    "wof:lastmodified":1680668677,
     "wof:name":"Rabda",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.53036,
-    24.33507,
-    84.53036,
-    24.33507
+    84.528045,
+    24.333867,
+    84.530004,
+    24.335067
 ],
-  "geometry": {"coordinates":[84.53036,24.33507],"type":"Point"}
+  "geometry": {"coordinates":[[[84.52970500000001,24.335067],[84.529707,24.334977],[84.53000299999999,24.334982],[84.53000400000001,24.334892],[84.529906,24.33489],[84.52990800000001,24.3348],[84.529809,24.334798],[84.529811,24.334708],[84.529712,24.334706],[84.529714,24.334616],[84.529616,24.334615],[84.529617,24.334524],[84.52951899999999,24.334523],[84.529521,24.334433],[84.529225,24.334428],[84.529223,24.334518],[84.52892799999999,24.334513],[84.52893,24.334423],[84.528831,24.334421],[84.52883300000001,24.334331],[84.528734,24.334329],[84.52873599999999,24.334239],[84.528638,24.334238],[84.52864099999999,24.334057],[84.528543,24.334056],[84.52854499999999,24.333965],[84.528446,24.333964],[84.528448,24.333873],[84.528054,24.333867],[84.52804500000001,24.334318],[84.52824200000001,24.334321],[84.52824,24.334412],[84.528733,24.33442],[84.52873099999999,24.33451],[84.528829,24.334512],[84.528828,24.334602],[84.529025,24.334605],[84.529023,24.334695],[84.529318,24.3347],[84.52931700000001,24.33479],[84.529415,24.334792],[84.52941300000001,24.334882],[84.529512,24.334884],[84.52950800000001,24.335064],[84.52970500000001,24.335067]]],"type":"Polygon"}
 }

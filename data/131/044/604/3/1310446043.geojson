@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.50477,23.63397,78.50477,23.63397",
-    "geom:latitude":23.63397,
-    "geom:longitude":78.50477,
+    "geom:bbox":"78.503268,23.633217,78.506116,23.635142",
+    "geom:latitude":23.634127,
+    "geom:longitude":78.504745,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Bhojpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.48477,23.61397,78.52477,23.65397",
+    "ks:ks_id":"KS7EFFBFD76EEF4F8188C88534573B40F0",
+    "ks:ks_name":"Bhojpur",
+    "ks:ks_pop":299,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|153302",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_926608",
+    "lbl:latitude":23.634135,
+    "lbl:longitude":78.50463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.634135,
+    "mps:longitude":78.50463,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0648\u062c\u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "Bhojpur"
     ],
     "name:deu_x_preferred":[
+        "Bhojpur"
+    ],
+    "name:eng_x_preferred":[
         "Bhojpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +106,13 @@
     "name:vie_x_preferred":[
         "Bhojpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10191544
+        "gn:id":10191544,
+        "ks:id":"KS7EFFBFD76EEF4F8188C88534573B40F0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5bf256d29bd482b20eb3e90868e00868",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c0a378e6f8cd1d5fb5522d452030e27c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1310446043,
-    "wof:lastmodified":1636505702,
+    "wof:lastmodified":1680668765,
     "wof:name":"Bhojpur",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.50477,
-    23.63397,
-    78.50477,
-    23.63397
+    78.503268,
+    23.633217,
+    78.506116,
+    23.635142
 ],
-  "geometry": {"coordinates":[78.50476999999999,23.63397],"type":"Point"}
+  "geometry": {"coordinates":[[[78.50550200000001,23.635142],[78.505504,23.635051],[78.505798,23.635056],[78.50579999999999,23.634966],[78.505898,23.634968],[78.505903,23.634697],[78.506001,23.634698],[78.506013,23.634067],[78.506111,23.634068],[78.50611600000001,23.633798],[78.506018,23.633796],[78.506021,23.633616],[78.505923,23.633614],[78.505925,23.633524],[78.505827,23.633522],[78.50582900000001,23.633432],[78.505731,23.63343],[78.50573199999999,23.63334],[78.505047,23.633329],[78.505045,23.633419],[78.504262,23.633407],[78.50426299999999,23.633316],[78.503871,23.63331],[78.503873,23.63322],[78.503677,23.633217],[78.503676,23.633307],[78.50348,23.633304],[78.50347600000001,23.633484],[78.503378,23.633483],[78.503371,23.633844],[78.503274,23.633842],[78.50326800000001,23.634113],[78.503366,23.634114],[78.50336299999999,23.634295],[78.503461,23.634296],[78.503456,23.634567],[78.50355399999999,23.634569],[78.503552,23.634659],[78.503846,23.634664],[78.503844,23.634754],[78.504138,23.634759],[78.504136,23.634849],[78.504724,23.634858],[78.504722,23.634949],[78.504918,23.634952],[78.50491599999999,23.635042],[78.505308,23.635048],[78.505306,23.635139],[78.50550200000001,23.635142]]],"type":"Polygon"}
 }

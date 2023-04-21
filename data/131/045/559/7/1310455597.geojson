@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.69931,25.97835,87.69931,25.97835",
-    "geom:latitude":25.97835,
-    "geom:longitude":87.69931,
+    "geom:bbox":"87.693807,25.980891,87.694885,25.982508",
+    "geom:latitude":25.981686,
+    "geom:longitude":87.694386,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"211.0",
     "gn:asciiname":"Rani",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.67931,25.95835,87.71931,25.99835",
+    "ks:ks_id":"KS3573D0D8E19E426785B412A568775716",
+    "ks:ks_name":"Rani",
+    "ks:ks_pop":2185,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1009001100777200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1581322",
+    "lbl:latitude":25.981765,
+    "lbl:longitude":87.694415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.981765,
+    "mps:longitude":87.694415,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09a8\u09c0"
+    ],
+    "name:eng_x_preferred":[
+        "Rani"
     ],
     "name:nld_x_preferred":[
         "Rani"
@@ -39,7 +52,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996660
+        "gn:id":10996660,
+        "ks:id":"KS3573D0D8E19E426785B412A568775716"
     },
     "wof:country":"IN",
-    "wof:geomhash":"72efcfc61645fdcb9dcaa5d1eb831a34",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05e33be28392f1d3021d8761b6707b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1310455597,
-    "wof:lastmodified":1566701434,
+    "wof:lastmodified":1680668634,
     "wof:name":"Rani",
     "wof:parent_id":1108695907,
     "wof:placetype":"locality",
+    "wof:population":2185,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.69931,
-    25.97835,
-    87.69931,
-    25.97835
+    87.693807,
+    25.980891,
+    87.694885,
+    25.982508
 ],
-  "geometry": {"coordinates":[87.69931,25.97835],"type":"Point"}
+  "geometry": {"coordinates":[[[87.694615,25.982508],[87.694615,25.982239],[87.694885,25.982239],[87.694885,25.980891],[87.694076,25.980891],[87.694076,25.98143],[87.69380700000001,25.98143],[87.69380700000001,25.982239],[87.694076,25.982239],[87.694076,25.982508],[87.694615,25.982508]]],"type":"Polygon"}
 }

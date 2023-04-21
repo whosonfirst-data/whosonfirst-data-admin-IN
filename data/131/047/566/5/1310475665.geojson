@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.71652,21.90273,83.71652,21.90273",
-    "geom:latitude":21.90273,
-    "geom:longitude":83.71652,
+    "geom:bbox":"83.715258,21.902091,83.716875,21.903169",
+    "geom:latitude":21.902549,
+    "geom:longitude":83.716012,
     "gn:admin1_code":"21",
     "gn:admin2_code":"374.0",
     "gn:asciiname":"Brahmani",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.69652,21.88273,83.73652,21.92273",
+    "ks:ks_id":"KSE9F244626F9A47B297F4CFB9281F73EA",
+    "ks:ks_name":"Brahmhani",
+    "ks:ks_pop":58,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1293371",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1014027",
+    "lbl:latitude":21.902495,
+    "lbl:longitude":83.716013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.902495,
+    "mps:longitude":83.716013,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0647\u0645\u0627\u0646\u064a"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03b1\u03c7\u03bc\u03ac\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Brahmhani"
+    ],
+    "name:eng_x_variant":[
+        "Brahmani"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0627\u0647\u0645\u0627\u0646\u06cc"
@@ -93,7 +109,13 @@
     "name:zho_tw_x_preferred":[
         "\u5e03\u62c9\u99ac\u5c3c\u6cb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10753219
+        "gn:id":10753219,
+        "ks:id":"KSE9F244626F9A47B297F4CFB9281F73EA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"81552d2e4aa74c9d62cb0442a3adcc90",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ce1577335ef6052a6d373b5929126de9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1310475665,
-    "wof:lastmodified":1636505683,
-    "wof:name":"Brahmani",
+    "wof:lastmodified":1680668200,
+    "wof:name":"Brahmhani",
     "wof:parent_id":1108696139,
     "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.71652,
-    21.90273,
-    83.71652,
-    21.90273
+    83.715258,
+    21.902091,
+    83.716875,
+    21.903169
 ],
-  "geometry": {"coordinates":[83.71652,21.90273],"type":"Point"}
+  "geometry": {"coordinates":[[[83.71579699999999,21.903169],[83.71579699999999,21.902899],[83.716875,21.902899],[83.716875,21.902091],[83.71525800000001,21.902091],[83.71525800000001,21.903169],[83.71579699999999,21.903169]]],"type":"Polygon"}
 }
