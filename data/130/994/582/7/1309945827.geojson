@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.87876,26.34001,80.87876,26.34001",
-    "geom:latitude":26.34001,
-    "geom:longitude":80.87876,
+    "geom:bbox":"80.877909,26.339172,80.879714,26.340707",
+    "geom:latitude":26.339972,
+    "geom:longitude":80.878888,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Malpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.85876,26.32001,80.89876,26.36001",
+    "ks:ks_id":"KSAC099C6D0EDA4569B550BD1EF908748A",
+    "ks:ks_name":"Mallpur",
+    "ks:ks_pop":502,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|664093",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1867179",
+    "lbl:latitude":26.340036,
+    "lbl:longitude":80.878905,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.340036,
+    "mps:longitude":80.878905,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0628\u0648\u0631"
@@ -44,6 +54,12 @@
     ],
     "name:ceb_x_preferred":[
         "M\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Mallpur"
+    ],
+    "name:eng_x_variant":[
+        "Malpur"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0aaa\u0ac1\u0ab0"
@@ -96,7 +112,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10553901
+        "gn:id":10553901,
+        "ks:id":"KSAC099C6D0EDA4569B550BD1EF908748A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"35a8a0e3b648a527d6229ec5b3667259",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"401f8b7ecc7abbc6edabcc296d2cff41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +145,22 @@
         }
     ],
     "wof:id":1309945827,
-    "wof:lastmodified":1577752513,
-    "wof:name":"Malpur",
+    "wof:lastmodified":1680670183,
+    "wof:name":"Mallpur",
     "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.87876,
-    26.34001,
-    80.87876,
-    26.34001
+    80.877909,
+    26.339172,
+    80.879714,
+    26.340707
 ],
-  "geometry": {"coordinates":[80.87876,26.34001],"type":"Point"}
+  "geometry": {"coordinates":[[[80.879212,26.340707],[80.879212,26.340617],[80.879412,26.340617],[80.879412,26.340527],[80.87951200000001,26.340527],[80.879513,26.340436],[80.87961300000001,26.340436],[80.87961300000001,26.339895],[80.87971400000001,26.339895],[80.87971400000001,26.339534],[80.879614,26.339533],[80.879614,26.339353],[80.879514,26.339353],[80.879514,26.339262],[80.879414,26.339262],[80.879414,26.339172],[80.879013,26.339172],[80.879013,26.339262],[80.878812,26.339262],[80.878812,26.339352],[80.878612,26.339352],[80.878612,26.339442],[80.878411,26.339442],[80.878411,26.339532],[80.878311,26.339532],[80.878311,26.339623],[80.87811000000001,26.339622],[80.87811000000001,26.339803],[80.87801,26.339803],[80.87801,26.339893],[80.87791,26.339893],[80.877909,26.340164],[80.87801,26.340164],[80.87800900000001,26.340345],[80.87811000000001,26.340345],[80.87811000000001,26.340435],[80.87831,26.340435],[80.87831,26.340526],[80.87841,26.340526],[80.87841,26.340616],[80.87851000000001,26.340616],[80.87851000000001,26.340706],[80.879212,26.340707]]],"type":"Polygon"}
 }
