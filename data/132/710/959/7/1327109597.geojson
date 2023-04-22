@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.47612,13.45252,77.47612,13.45252",
-    "geom:latitude":13.45252,
-    "geom:longitude":77.47612,
+    "geom:bbox":"77.475777,13.451549,77.476708,13.453175",
+    "geom:latitude":13.452374,
+    "geom:longitude":77.476254,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"583.0",
     "gn:asciiname":"Hoskote",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.45612,13.43252,77.49612,13.47252",
+    "ks:ks_id":"KSA340FE65A0494DB597E9BF274535ED13",
+    "ks:ks_name":"Hosakote",
+    "ks:ks_pop":225,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|426344",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_323010",
+    "lbl:latitude":13.452415,
+    "lbl:longitude":77.476246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.452415,
+    "mps:longitude":77.476246,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09b8\u0995\u09cb\u099f\u09c7"
@@ -37,6 +47,12 @@
         "\u09b9\u09cb\u09b8\u0995\u09cb\u099f\u09c7"
     ],
     "name:ceb_x_preferred":[
+        "Hoskote"
+    ],
+    "name:eng_x_preferred":[
+        "Hosakote"
+    ],
+    "name:eng_x_variant":[
         "Hoskote"
     ],
     "name:ita_x_preferred":[
@@ -72,7 +88,13 @@
     "name:zho_x_preferred":[
         "\u970d\u65af\u79d1\u6cf0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10852743
+        "gn:id":10852743,
+        "ks:id":"KSA340FE65A0494DB597E9BF274535ED13"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e484f95285720c3eb4dfa2dc4db40478",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"32e0d93a8d76ceceffcc0a27b3e3eebb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1327109597,
-    "wof:lastmodified":1566684907,
-    "wof:name":"Hoskote",
+    "wof:lastmodified":1680655218,
+    "wof:name":"Hosakote",
     "wof:parent_id":890503869,
     "wof:placetype":"locality",
+    "wof:population":225,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.47612,
-    13.45252,
-    77.47612,
-    13.45252
+    77.475777,
+    13.451549,
+    77.476708,
+    13.453175
 ],
-  "geometry": {"coordinates":[77.47611999999999,13.45252],"type":"Point"}
+  "geometry": {"coordinates":[[[77.476434,13.453173],[77.476433,13.453083],[77.476525,13.453082],[77.476524,13.452991],[77.47661600000001,13.45299],[77.476615,13.4529],[77.476708,13.452899],[77.47669999999999,13.452176],[77.476608,13.452177],[77.476603,13.451726],[77.47641900000001,13.451728],[77.476418,13.451637],[77.47623299999999,13.451639],[77.476232,13.451549],[77.47604800000001,13.45155],[77.476049,13.451641],[77.475956,13.451642],[77.47595800000001,13.451822],[77.475866,13.451823],[77.475869,13.452185],[77.47577699999999,13.452186],[77.475782,13.452637],[77.475874,13.452636],[77.475877,13.452907],[77.47596900000001,13.452906],[77.47597,13.452997],[77.476062,13.452996],[77.476063,13.453086],[77.476248,13.453084],[77.476249,13.453175],[77.476434,13.453173]]],"type":"Polygon"}
 }

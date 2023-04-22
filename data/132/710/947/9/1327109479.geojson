@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.93935,13.55555,77.93935,13.55555",
-    "geom:latitude":13.55555,
-    "geom:longitude":77.93935,
+    "geom:bbox":"77.938688,13.554399,77.94036,13.556116",
+    "geom:latitude":13.555306,
+    "geom:longitude":77.939513,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"582.0",
     "gn:asciiname":"Dasarahalli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.91935,13.53555,77.95935,13.57555",
+    "ks:ks_id":"KSFDD8BC2EE5AC4CF3B22140B0AC0EA6AC",
+    "ks:ks_name":"Dasarahalli",
+    "ks:ks_pop":282,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13797984",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_326313",
+    "lbl:latitude":13.555305,
+    "lbl:longitude":77.939498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.555305,
+    "mps:longitude":77.939498,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0633\u0627\u0631\u0627\u0647\u0627\u0644\u064a"
@@ -46,6 +56,9 @@
         "\u09a6\u09b8\u09b0\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Dasarahalli"
+    ],
+    "name:eng_x_preferred":[
         "Dasarahalli"
     ],
     "name:fas_x_preferred":[
@@ -114,7 +127,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u8428\u62c9\u54c8\u5c14\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +142,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11249124
+        "gn:id":11249124,
+        "ks:id":"KSFDD8BC2EE5AC4CF3B22140B0AC0EA6AC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f35f0c12c1757eeaf7af1eac43dc3e30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a06c60a45f8b621e5dd2e74fe645fb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +160,22 @@
         }
     ],
     "wof:id":1327109479,
-    "wof:lastmodified":1577749611,
+    "wof:lastmodified":1680655217,
     "wof:name":"Dasarahalli",
     "wof:parent_id":1108696341,
     "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.93935,
-    13.55555,
-    77.93935,
-    13.55555
+    77.938688,
+    13.554399,
+    77.94036,
+    13.556116
 ],
-  "geometry": {"coordinates":[77.93935,13.55555],"type":"Point"}
+  "geometry": {"coordinates":[[[77.939716,13.556113],[77.93971500000001,13.556022],[77.939807,13.556021],[77.939808,13.556111],[77.939993,13.556109],[77.93999100000001,13.556019],[77.940268,13.556016],[77.94026700000001,13.555925],[77.94036,13.555924],[77.940353,13.555382],[77.94026100000001,13.555384],[77.940258,13.555203],[77.940166,13.555204],[77.940163,13.554933],[77.94007000000001,13.554934],[77.94006899999999,13.554844],[77.939977,13.554845],[77.939976,13.554755],[77.93988400000001,13.554756],[77.93988299999999,13.554666],[77.93979,13.554667],[77.939789,13.554576],[77.939697,13.554577],[77.939696,13.554487],[77.939511,13.554489],[77.93951,13.554399],[77.93914100000001,13.554403],[77.939142,13.554494],[77.938957,13.554496],[77.938958,13.554586],[77.938866,13.554587],[77.938868,13.554768],[77.938776,13.554769],[77.93877999999999,13.55513],[77.938688,13.555131],[77.93869100000001,13.555402],[77.938784,13.555401],[77.938787,13.555672],[77.938879,13.555671],[77.93888099999999,13.555761],[77.938973,13.55576],[77.938974,13.55585],[77.939066,13.555849],[77.93906800000001,13.55603],[77.939438,13.556025],[77.93943899999999,13.556116],[77.939716,13.556113]]],"type":"Polygon"}
 }
