@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.81301,27.85992,76.81301,27.85992",
-    "geom:latitude":27.85992,
-    "geom:longitude":76.81301,
+    "geom:bbox":"76.811985,27.858711,76.813829,27.860706",
+    "geom:latitude":27.859748,
+    "geom:longitude":76.812927,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"104.0",
     "gn:asciiname":"Faizpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.79301,27.83992,76.83301,27.87992",
+    "ks:ks_id":"KS6F071C84136842E798EF517C60557A19",
+    "ks:ks_name":"Faizpur",
+    "ks:ks_pop":212,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|327310",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1767090",
+    "lbl:latitude":27.859759,
+    "lbl:longitude":76.812944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.859759,
+    "mps:longitude":76.812944,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ab\u09af\u09bc\u09bf\u099c\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u09ab\u09af\u09bc\u09bf\u099c\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Faizpur"
+    ],
+    "name:eng_x_preferred":[
         "Faizpur"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u6cd5\u4f0a\u5179\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10167860
+        "gn:id":10167860,
+        "ks:id":"KS6F071C84136842E798EF517C60557A19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5a1d11e673ecef4066769db6d92c80ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fe65ab1e0412c81ded039d2b636d60ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1344015863,
-    "wof:lastmodified":1566686305,
+    "wof:lastmodified":1680655942,
     "wof:name":"Faizpur",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.81300999999998,
-    27.85992,
-    76.81300999999998,
-    27.85992
+    76.811985,
+    27.858711,
+    76.813829,
+    27.860706
 ],
-  "geometry": {"coordinates":[76.81300999999998,27.85992],"type":"Point"}
+  "geometry": {"coordinates":[[[76.81322900000001,27.860696],[76.813227,27.860605],[76.81343,27.860603],[76.813429,27.860513],[76.81353,27.860511],[76.813529,27.860421],[76.81363,27.86042],[76.81362900000001,27.860329],[76.81373000000001,27.860328],[76.813727,27.860148],[76.813829,27.860146],[76.813817,27.859424],[76.813715,27.859426],[76.813711,27.859155],[76.813609,27.859156],[76.813608,27.859066],[76.813506,27.859068],[76.81350500000001,27.858977],[76.81340299999999,27.858979],[76.813402,27.858888],[76.8133,27.85889],[76.813299,27.8588],[76.813197,27.858801],[76.813196,27.858711],[76.812789,27.858716],[76.812791,27.858806],[76.81258800000001,27.858809],[76.812589,27.858899],[76.812488,27.8589],[76.812489,27.858991],[76.812388,27.858992],[76.812389,27.859082],[76.812186,27.859085],[76.81218800000001,27.859175],[76.81198500000001,27.859178],[76.811988,27.859358],[76.812089,27.859357],[76.81210400000001,27.860259],[76.812206,27.860258],[76.81220999999999,27.860529],[76.81231200000001,27.860527],[76.812313,27.860617],[76.812415,27.860616],[76.812416,27.860706],[76.81322900000001,27.860696]]],"type":"Polygon"}
 }

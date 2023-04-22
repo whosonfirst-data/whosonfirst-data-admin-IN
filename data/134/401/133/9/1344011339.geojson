@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.08384,22.66076,78.08384,22.66076",
-    "geom:latitude":22.66076,
-    "geom:longitude":78.08384,
+    "geom:bbox":"78.082983,22.660097,78.084842,22.661371",
+    "geom:latitude":22.660737,
+    "geom:longitude":78.083833,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"449.0",
     "gn:asciiname":"Kharda",
@@ -24,19 +24,42 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.06384,22.64076,78.10384,22.68076",
+    "ks:ks_alt_nam":"Kh\u0101rda",
+    "ks:ks_id":"KS84C9688CECF14B1080B542581792DA1C",
+    "ks:ks_name":"Kharda",
+    "ks:ks_pop":510,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|548066",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_918337",
+    "lbl:latitude":22.66074,
+    "lbl:longitude":78.083908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.66074,
+    "mps:longitude":78.083908,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kharda"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101rda"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30c0\u30fc"
     ],
     "name:mar_x_preferred":[
         "\u0916\u0930\u094d\u0921\u093e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10209106
+        "gn:id":10209106,
+        "ks:id":"KS84C9688CECF14B1080B542581792DA1C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"89b82e6faaef2e952786b4d3148d0353",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"020e2afa741e985042582b6e4d033036",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +86,22 @@
         }
     ],
     "wof:id":1344011339,
-    "wof:lastmodified":1566686278,
+    "wof:lastmodified":1680655926,
     "wof:name":"Kharda",
     "wof:parent_id":890503397,
     "wof:placetype":"locality",
+    "wof:population":510,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.08384000000002,
-    22.66076,
-    78.08384000000002,
-    22.66076
+    78.082983,
+    22.660097,
+    78.084842,
+    22.661371
 ],
-  "geometry": {"coordinates":[78.08384000000002,22.66076],"type":"Point"}
+  "geometry": {"coordinates":[[[78.08385199999999,22.661371],[78.083854,22.661281],[78.084243,22.661288],[78.084245,22.661198],[78.084439,22.661201],[78.084441,22.661111],[78.084636,22.661115],[78.084639,22.660934],[78.084737,22.660936],[78.08474,22.660755],[78.084838,22.660757],[78.08484199999999,22.660577],[78.084744,22.660575],[78.084746,22.660485],[78.084649,22.660483],[78.08465099999999,22.660393],[78.084554,22.660391],[78.08455600000001,22.660301],[78.084361,22.660297],[78.084363,22.660207],[78.083585,22.660193],[78.08358699999999,22.660103],[78.083296,22.660097],[78.083294,22.660188],[78.083197,22.660186],[78.083195,22.660276],[78.083097,22.660274],[78.083094,22.660455],[78.08299599999999,22.660453],[78.082983,22.661084],[78.08308,22.661086],[78.083078,22.661176],[78.08327300000001,22.66118],[78.083271,22.66127],[78.08336799999999,22.661272],[78.083366,22.661362],[78.08385199999999,22.661371]]],"type":"Polygon"}
 }

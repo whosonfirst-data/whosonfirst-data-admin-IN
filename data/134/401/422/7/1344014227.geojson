@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.3444,32.09463,75.3444,32.09463",
-    "geom:latitude":32.09463,
-    "geom:longitude":75.3444,
+    "geom:bbox":"75.34217,32.093708,75.34387,32.095785",
+    "geom:latitude":32.094738,
+    "geom:longitude":75.342991,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Rawalpindi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.3244,32.07463,75.3644,32.11463",
+    "ks:ks_id":"KSB501C53CEF914B36988D7AC44AF3C623",
+    "ks:ks_name":"Rawalpindi",
+    "ks:ks_pop":584,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1391906",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2708117",
+    "lbl:latitude":32.094743,
+    "lbl:longitude":75.342975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.094743,
+    "mps:longitude":75.342975,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rawalpindi"
@@ -76,6 +86,9 @@
         "Rawalpindi"
     ],
     "name:deu_x_preferred":[
+        "Rawalpindi"
+    ],
+    "name:eng_x_preferred":[
         "Rawalpindi"
     ],
     "name:epo_x_preferred":[
@@ -255,7 +268,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u74e6\u5c14\u54c1\u7b2c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -264,10 +283,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10682056
+        "gn:id":10682056,
+        "ks:id":"KSB501C53CEF914B36988D7AC44AF3C623"
     },
     "wof:country":"IN",
-    "wof:geomhash":"994f337f0f6bacdd2d92c0ed13ef21b4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af23f407c0fd2bae603041b85b752b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -278,20 +301,22 @@
         }
     ],
     "wof:id":1344014227,
-    "wof:lastmodified":1566686284,
+    "wof:lastmodified":1680655930,
     "wof:name":"Rawalpindi",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":584,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.3444,
-    32.09463,
-    75.3444,
-    32.09463
+    75.34217,
+    32.093708,
+    75.34387,
+    32.095785
 ],
-  "geometry": {"coordinates":[75.34439999999999,32.09463],"type":"Point"}
+  "geometry": {"coordinates":[[[75.343024,32.095784],[75.343024,32.095694],[75.34313,32.095694],[75.34313,32.095603],[75.343236,32.095603],[75.34323500000001,32.095513],[75.343447,32.095512],[75.343447,32.095422],[75.343553,32.095422],[75.343552,32.095332],[75.343658,32.095331],[75.343658,32.095241],[75.34376399999999,32.095241],[75.34376399999999,32.095151],[75.34387,32.09515],[75.343868,32.094609],[75.343762,32.094609],[75.34375900000001,32.093888],[75.343653,32.093888],[75.343653,32.093798],[75.343441,32.093798],[75.34344,32.093708],[75.343228,32.093709],[75.34322899999999,32.093799],[75.342911,32.0938],[75.342911,32.09389],[75.34259299999999,32.093891],[75.34259400000001,32.093981],[75.342382,32.093981],[75.342382,32.094072],[75.342276,32.094072],[75.342276,32.094162],[75.34217,32.094162],[75.342174,32.095245],[75.34228,32.095245],[75.342281,32.095515],[75.342387,32.095515],[75.342388,32.095696],[75.342494,32.095695],[75.342494,32.095785],[75.343024,32.095784]]],"type":"Polygon"}
 }

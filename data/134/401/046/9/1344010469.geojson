@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.78964,27.30553,79.78964,27.30553",
-    "geom:latitude":27.30553,
-    "geom:longitude":79.78964,
+    "geom:bbox":"79.788548,27.304665,79.79057,27.3063",
+    "geom:latitude":27.305509,
+    "geom:longitude":79.789547,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Deoranian",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.76964,27.28553,79.80964,27.32553",
+    "ks:ks_id":"KSD8E9D5953D954B05B4AB7548235C113C",
+    "ks:ks_name":"Deorania",
+    "ks:ks_pop":194,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0925000203267900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1897990",
+    "lbl:latitude":27.305529,
+    "lbl:longitude":79.789566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.305529,
+    "mps:longitude":79.789566,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a6\u09c7\u0993\u09b0\u09be\u09a8\u09bf\u09af\u09bc\u09be\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Deorani\u0101n"
+    ],
+    "name:eng_x_preferred":[
+        "Deorania"
+    ],
+    "name:eng_x_variant":[
+        "Deoranian"
     ],
     "name:ita_x_preferred":[
         "Deoranian"
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u5fb7\u5965\u62c9\u5c3c\u626c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10477722
+        "gn:id":10477722,
+        "ks:id":"KSD8E9D5953D954B05B4AB7548235C113C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bdc14e7d70d971fc773f9693ae632922",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4973180dc01875e2b5cb219e4435e780",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1344010469,
-    "wof:lastmodified":1566686284,
-    "wof:name":"Deoranian",
+    "wof:lastmodified":1680655930,
+    "wof:name":"Deorania",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.78964,
-    27.30553,
-    79.78964,
-    27.30553
+    79.788548,
+    27.304665,
+    79.79057,
+    27.3063
 ],
-  "geometry": {"coordinates":[79.78964000000001,27.30553],"type":"Point"}
+  "geometry": {"coordinates":[[[79.790055,27.3063],[79.79005600000001,27.30621],[79.790359,27.306212],[79.79036000000001,27.306122],[79.79056199999999,27.306124],[79.79057,27.305402],[79.790469,27.305401],[79.79047199999999,27.30513],[79.79037099999999,27.305129],[79.790372,27.305039],[79.790271,27.305038],[79.790272,27.304948],[79.790171,27.304947],[79.790172,27.304857],[79.78997,27.304855],[79.78997099999999,27.304765],[79.78946500000001,27.30476],[79.789466,27.30467],[79.78886,27.304665],[79.788859,27.304755],[79.788758,27.304754],[79.788757,27.304845],[79.788656,27.304844],[79.788653,27.305114],[79.788552,27.305114],[79.78854800000001,27.305475],[79.78864900000001,27.305475],[79.78864299999999,27.306017],[79.78874399999999,27.306018],[79.788743,27.306108],[79.788844,27.306109],[79.788844,27.306199],[79.789248,27.306203],[79.789247,27.306293],[79.790055,27.3063]]],"type":"Polygon"}
 }

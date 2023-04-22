@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.86455,20.73501,77.86455,20.73501",
-    "geom:latitude":20.73501,
-    "geom:longitude":77.86455,
+    "geom:bbox":"77.863794,20.734118,77.865334,20.735667",
+    "geom:latitude":20.734904,
+    "geom:longitude":77.864551,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Kohala",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.84455,20.71501,77.88455,20.75501",
+    "ks:ks_id":"KS495858E2434A4B52870C4FBA8553C1DF",
+    "ks:ks_name":"Kohala",
+    "ks:ks_pop":149,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|570350",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_873159",
+    "lbl:latitude":20.73489,
+    "lbl:longitude":77.864566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.73489,
+    "mps:longitude":77.864566,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kohala"
     ],
     "name:deu_x_preferred":[
+        "Kohala"
+    ],
+    "name:eng_x_preferred":[
         "Kohala"
     ],
     "name:fra_x_preferred":[
@@ -42,7 +55,13 @@
     "name:swe_x_preferred":[
         "Kohala"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512998
+        "gn:id":10512998,
+        "ks:id":"KS495858E2434A4B52870C4FBA8553C1DF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e9d33b64cb4df057ab5055f1ebbc2eaf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96e299eb9bfe5943519d37d600a1e082",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1344029855,
-    "wof:lastmodified":1566688345,
+    "wof:lastmodified":1680657032,
     "wof:name":"Kohala",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.86455,
-    20.73501,
-    77.86455,
-    20.73501
+    77.863794,
+    20.734118,
+    77.865334,
+    20.735667
 ],
-  "geometry": {"coordinates":[77.86454999999999,20.73501],"type":"Point"}
+  "geometry": {"coordinates":[[[77.864673,20.735656],[77.864671,20.735565],[77.864767,20.735564],[77.86476500000001,20.735474],[77.864957,20.73547],[77.86495600000001,20.73538],[77.86505099999999,20.735378],[77.86505,20.735288],[77.865146,20.735287],[77.865144,20.735196],[77.86524,20.735195],[77.86523800000001,20.735105],[77.865334,20.735103],[77.86532200000001,20.734471],[77.86522600000001,20.734473],[77.865225,20.734383],[77.865129,20.734384],[77.865127,20.734294],[77.865031,20.734296],[77.86502900000001,20.734205],[77.86483699999999,20.734208],[77.864836,20.734118],[77.864356,20.734126],[77.864358,20.734216],[77.864166,20.73422],[77.864169,20.7344],[77.864073,20.734402],[77.864075,20.734492],[77.863979,20.734494],[77.863983,20.734674],[77.86388700000001,20.734676],[77.86389,20.734856],[77.863794,20.734858],[77.863804,20.735399],[77.8639,20.735398],[77.86390400000001,20.735578],[77.864,20.735577],[77.864001,20.735667],[77.864673,20.735656]]],"type":"Polygon"}
 }

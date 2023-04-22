@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.04077,25.36333,74.04077,25.36333",
-    "geom:latitude":25.36333,
-    "geom:longitude":74.04077,
+    "geom:bbox":"74.040556,25.362663,74.042645,25.364025",
+    "geom:latitude":25.363401,
+    "geom:longitude":74.041618,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"122.0",
     "gn:asciiname":"Bagar",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.02077,25.34333,74.06077,25.38333",
+    "ks:ks_alt_nam":"B\u0101gar",
+    "ks:ks_id":"KS13548B54546C4529969A63C19AD0B3F4",
+    "ks:ks_name":"Bagar",
+    "ks:ks_pop":1199,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|65821",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1584296",
+    "lbl:latitude":25.363251,
+    "lbl:longitude":74.041638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.363251,
+    "mps:longitude":74.041638,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bagar"
+    ],
+    "name:eng_x_preferred":[
+        "Bagar"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101gar"
     ],
     "name:slv_x_preferred":[
         "Bagar"
@@ -39,7 +56,13 @@
     "name:swe_x_preferred":[
         "Bagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10815997
+        "gn:id":10815997,
+        "ks:id":"KS13548B54546C4529969A63C19AD0B3F4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f6b343032601496dee337d18b8468393",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02b8e0e67098c2a9f9b82482a439fa7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1344026131,
-    "wof:lastmodified":1566688354,
+    "wof:lastmodified":1680657038,
     "wof:name":"Bagar",
     "wof:parent_id":890508849,
     "wof:placetype":"locality",
+    "wof:population":1199,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.04077,
-    25.36333,
-    74.04077,
-    25.36333
+    74.040556,
+    25.362663,
+    74.042645,
+    25.364025
 ],
-  "geometry": {"coordinates":[74.04076999999999,25.36333],"type":"Point"}
+  "geometry": {"coordinates":[[[74.042542,25.363935],[74.042545,25.363573],[74.042644,25.363574],[74.04264499999999,25.363393],[74.042546,25.363393],[74.042547,25.363302],[74.042447,25.363302],[74.04244799999999,25.363212],[74.042349,25.363211],[74.042349,25.363121],[74.04225,25.36312],[74.042252,25.362939],[74.042152,25.362939],[74.042153,25.362848],[74.041954,25.362847],[74.041955,25.362757],[74.041855,25.362756],[74.041856,25.362666],[74.041459,25.362663],[74.04145800000001,25.362754],[74.041359,25.362753],[74.041358,25.362843],[74.041258,25.362843],[74.041258,25.362933],[74.041158,25.362932],[74.041158,25.363023],[74.04105800000001,25.363022],[74.041057,25.363202],[74.040858,25.363201],[74.040857,25.363291],[74.04065900000001,25.36329],[74.040657,25.363471],[74.040558,25.36347],[74.040556,25.363651],[74.040656,25.363651],[74.040654,25.363922],[74.040753,25.363923],[74.040752,25.364013],[74.04115,25.364016],[74.041151,25.363835],[74.041251,25.363836],[74.041251,25.363746],[74.041549,25.363747],[74.041549,25.363838],[74.042344,25.363843],[74.042343,25.363933],[74.04244199999999,25.363934],[74.04244199999999,25.364024],[74.042641,25.364025],[74.042641,25.363935],[74.042542,25.363935]]],"type":"Polygon"}
 }
