@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.54203,15.15936,79.54203,15.15936",
-    "geom:latitude":15.15936,
-    "geom:longitude":79.54203,
+    "geom:bbox":"79.541171,15.158527,79.542849,15.160157",
+    "geom:latitude":15.159406,
+    "geom:longitude":79.542027,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"549.0",
     "gn:asciiname":"Sankarapuram",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.52203,15.13936,79.56203,15.17936",
+    "ks:ks_alt_nam":"Sankar\u0101puram",
+    "ks:ks_id":"KS62750BD448EC439EAD27ED094A3CC89E",
+    "ks:ks_name":"Sankarapuram",
+    "ks:ks_pop":371,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|950645",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_568126",
+    "lbl:latitude":15.159389,
+    "lbl:longitude":79.542043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":15.159389,
+    "mps:longitude":79.542043,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b6\u0999\u09cd\u0995\u09b0\u09be\u09aa\u09c1\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Sankarapuram"
+    ],
+    "name:eng_x_variant":[
+        "Sankar\u0101puram"
     ],
     "name:ita_x_preferred":[
         "Sankarapuram"
@@ -54,7 +71,13 @@
     "name:zho_x_preferred":[
         "\u6851\u5361\u62c9\u666e\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11406817
+        "gn:id":11406817,
+        "ks:id":"KS62750BD448EC439EAD27ED094A3CC89E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a4bc65896951a6ea9bc47e677377359",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"11947b4c8152a7c9ff0a8b0912ebaed9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +104,22 @@
         }
     ],
     "wof:id":1343573593,
-    "wof:lastmodified":1566687506,
+    "wof:lastmodified":1680656579,
     "wof:name":"Sankarapuram",
     "wof:parent_id":890507253,
     "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.54203000000003,
-    15.15936,
-    79.54203000000003,
-    15.15936
+    79.541171,
+    15.158527,
+    79.542849,
+    15.160157
 ],
-  "geometry": {"coordinates":[79.54203000000003,15.15936],"type":"Point"}
+  "geometry": {"coordinates":[[[79.54246999999999,15.160157],[79.54246999999999,15.160067],[79.542563,15.160067],[79.542564,15.159977],[79.54265700000001,15.159978],[79.542658,15.159887],[79.542751,15.159888],[79.54275199999999,15.159707],[79.542845,15.159708],[79.542849,15.159075],[79.542756,15.159074],[79.54275699999999,15.158984],[79.542664,15.158983],[79.542665,15.158893],[79.542571,15.158893],[79.54257200000001,15.158802],[79.54238599999999,15.158801],[79.54238700000001,15.158711],[79.54219999999999,15.158709],[79.54220100000001,15.158619],[79.54201500000001,15.158618],[79.542016,15.158527],[79.541923,15.158527],[79.541922,15.158617],[79.541736,15.158616],[79.541735,15.158706],[79.541642,15.158706],[79.541642,15.158796],[79.54154800000001,15.158796],[79.54154800000001,15.158886],[79.541455,15.158885],[79.541454,15.158976],[79.54136099999999,15.158975],[79.54136,15.159156],[79.541267,15.159155],[79.54126599999999,15.159246],[79.541173,15.159245],[79.54117100000001,15.159607],[79.541264,15.159607],[79.541262,15.159878],[79.541355,15.159879],[79.541354,15.159969],[79.54144700000001,15.15997],[79.54144700000001,15.16006],[79.54154,15.160061],[79.541539,15.160151],[79.54181800000001,15.160153],[79.541819,15.160063],[79.542377,15.160066],[79.542377,15.160157],[79.54246999999999,15.160157]]],"type":"Polygon"}
 }
