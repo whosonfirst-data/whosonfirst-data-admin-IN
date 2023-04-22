@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.23512,24.90575,77.23512,24.90575",
-    "geom:latitude":24.90575,
-    "geom:longitude":77.23512,
+    "geom:bbox":"77.234543,24.905069,77.23604,24.906606",
+    "geom:latitude":24.90573,
+    "geom:longitude":77.23528,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Sherpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.21512,24.88575,77.25512,24.92575",
+    "ks:ks_id":"KS3F20B2F575344EB9A361FF0A252C7C9D",
+    "ks:ks_name":"Sherpur",
+    "ks:ks_pop":187,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|980903",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_916769",
+    "lbl:latitude":24.905708,
+    "lbl:longitude":77.235294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.905708,
+    "mps:longitude":77.235294,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0631\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Sherpur"
+    ],
+    "name:eng_x_preferred":[
         "Sherpur"
     ],
     "name:guj_x_preferred":[
@@ -78,7 +91,13 @@
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0631\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10478241
+        "gn:id":10478241,
+        "ks:id":"KS3F20B2F575344EB9A361FF0A252C7C9D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b8a5b18f3fd08e9bea5bbd2568a078c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c41c8347c1b90e0c4f342eba5f6bfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1259636581,
-    "wof:lastmodified":1577753649,
+    "wof:lastmodified":1680676089,
     "wof:name":"Sherpur",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.23512,
-    24.90575,
-    77.23512,
-    24.90575
+    77.234543,
+    24.905069,
+    77.23604,
+    24.906606
 ],
-  "geometry": {"coordinates":[77.23511999999999,24.90575],"type":"Point"}
+  "geometry": {"coordinates":[[[77.23555399999999,24.906419],[77.235552,24.906329],[77.235651,24.906327],[77.235649,24.906237],[77.235748,24.906236],[77.235747,24.906146],[77.235846,24.906144],[77.235844,24.906054],[77.23594300000001,24.906052],[77.235941,24.905962],[77.23604,24.905961],[77.23603199999999,24.905509],[77.235933,24.905511],[77.23593099999999,24.905421],[77.235832,24.905422],[77.235831,24.905332],[77.23563300000001,24.905335],[77.235631,24.905245],[77.23553200000001,24.905246],[77.23553099999999,24.905156],[77.235333,24.905159],[77.235331,24.905069],[77.23473799999999,24.905077],[77.234739,24.905168],[77.23464,24.905169],[77.23464199999999,24.905259],[77.234543,24.905261],[77.23455300000001,24.905802],[77.234652,24.905801],[77.23465299999999,24.905891],[77.234752,24.90589],[77.234754,24.90598],[77.234853,24.905978],[77.234854,24.906069],[77.234953,24.906067],[77.234955,24.906157],[77.23505400000001,24.906156],[77.235057,24.906336],[77.235156,24.906335],[77.23516100000001,24.906606],[77.23545799999999,24.906601],[77.235455,24.906421],[77.23555399999999,24.906419]]],"type":"Polygon"}
 }

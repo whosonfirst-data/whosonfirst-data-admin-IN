@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.17892,30.347,78.17892,30.347",
-    "geom:latitude":30.347,
-    "geom:longitude":78.17892,
+    "geom:bbox":"78.170616,30.348179,78.171663,30.349085",
+    "geom:latitude":30.348608,
+    "geom:longitude":78.171134,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"59.0",
     "gn:asciiname":"Dhaulagiri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.15892,30.327,78.19892,30.367",
+    "ks:ks_id":"KS61897C812EC5443DA7467A53B3770860",
+    "ks:ks_name":"Dhulagiri",
+    "ks:ks_pop":416,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|292422",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2634783",
+    "lbl:latitude":30.348634,
+    "lbl:longitude":78.171092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.348634,
+    "mps:longitude":78.171092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dhaulagiri"
@@ -80,6 +90,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03bf\u03c5\u03bb\u03b1\u03b3\u03ba\u03af\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Dhulagiri"
+    ],
+    "name:eng_x_variant":[
+        "Dhaulagiri"
     ],
     "name:epo_x_preferred":[
         "Dhaulagiri"
@@ -243,7 +259,13 @@
     "name:zho_x_preferred":[
         "\u9053\u62c9\u5409\u91cc\u5cf0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -252,10 +274,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10323170
+        "gn:id":10323170,
+        "ks:id":"KS61897C812EC5443DA7467A53B3770860"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e3c7367dcfa3cfcc6ba508394b29c98d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1519d393d45da4fd800654b31cf2ad97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -266,20 +292,22 @@
         }
     ],
     "wof:id":1259612411,
-    "wof:lastmodified":1636505882,
-    "wof:name":"Dhaulagiri",
+    "wof:lastmodified":1680676447,
+    "wof:name":"Dhulagiri",
     "wof:parent_id":890511209,
     "wof:placetype":"locality",
+    "wof:population":416,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.17892,
-    30.347,
-    78.17892,
-    30.347
+    78.170616,
+    30.348179,
+    78.171663,
+    30.349085
 ],
-  "geometry": {"coordinates":[78.17892000000001,30.347],"type":"Point"}
+  "geometry": {"coordinates":[[[78.17112299999999,30.349085],[78.171125,30.348995],[78.171437,30.349002],[78.171442,30.348822],[78.17154600000001,30.348824],[78.17155200000001,30.348644],[78.171655,30.348646],[78.171663,30.348375],[78.171559,30.348373],[78.17156199999999,30.348283],[78.17114599999999,30.348274],[78.171149,30.348184],[78.170941,30.348179],[78.17093800000001,30.34827],[78.170731,30.348265],[78.170725,30.348445],[78.170621,30.348443],[78.170616,30.348623],[78.17072,30.348626],[78.17071199999999,30.348896],[78.170816,30.348898],[78.17081399999999,30.348988],[78.17102199999999,30.348993],[78.171019,30.349083],[78.17112299999999,30.349085]]],"type":"Polygon"}
 }

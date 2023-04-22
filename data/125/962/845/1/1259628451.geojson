@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.59708,25.27523,85.59708,25.27523",
-    "geom:latitude":25.27523,
-    "geom:longitude":85.59708,
+    "geom:bbox":"85.589183,25.275515,85.590985,25.277592",
+    "geom:latitude":25.276582,
+    "geom:longitude":85.590043,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Daulatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.57708,25.25523,85.61708,25.29523",
+    "ks:ks_id":"KSB5B13ADEC9E741B5A3DC08784D6E2549",
+    "ks:ks_name":"Daulatpur",
+    "ks:ks_pop":413,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|255177",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2068579",
+    "lbl:latitude":25.276597,
+    "lbl:longitude":85.590043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.276597,
+    "mps:longitude":85.590043,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Daulatpur"
+    ],
+    "name:eng_x_preferred":[
         "Daulatpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +106,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u4e4c\u62c9\u7279\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11030866
+        "gn:id":11030866,
+        "ks:id":"KSB5B13ADEC9E741B5A3DC08784D6E2549"
     },
     "wof:country":"IN",
-    "wof:geomhash":"571590e7e7daa9145c7e418b94973092",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d04d1eda841a88a79648cf352570572f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1259628451,
-    "wof:lastmodified":1577753612,
+    "wof:lastmodified":1680675998,
     "wof:name":"Daulatpur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":413,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.59708,
-    25.27523,
-    85.59708,
-    25.27523
+    85.589183,
+    25.275515,
+    85.590985,
+    25.277592
 ],
-  "geometry": {"coordinates":[85.59708000000001,25.27523],"type":"Point"}
+  "geometry": {"coordinates":[[[85.59017299999999,25.277592],[85.590174,25.277501],[85.590372,25.277503],[85.590374,25.277323],[85.590474,25.277324],[85.590476,25.277143],[85.590575,25.277144],[85.590576,25.277054],[85.590675,25.277055],[85.590677,25.276874],[85.590777,25.276875],[85.59078,25.276604],[85.590879,25.276605],[85.590884,25.276154],[85.59098400000001,25.276155],[85.590985,25.276065],[85.590885,25.276064],[85.590887,25.275883],[85.590788,25.275882],[85.590789,25.275792],[85.59069,25.275791],[85.59069100000001,25.275701],[85.590592,25.2757],[85.590593,25.275609],[85.590394,25.275607],[85.590395,25.275517],[85.590197,25.275515],[85.59019499999999,25.275606],[85.58989800000001,25.275603],[85.58989699999999,25.275693],[85.589797,25.275692],[85.58979600000001,25.275782],[85.589697,25.275781],[85.589696,25.275872],[85.589597,25.275871],[85.589595,25.276051],[85.589495,25.27605],[85.589494,25.276141],[85.589395,25.27614],[85.589393,25.27632],[85.589294,25.276319],[85.589291,25.2765],[85.589192,25.276499],[85.58918300000001,25.277311],[85.589282,25.277312],[85.589281,25.277403],[85.58947999999999,25.277405],[85.589479,25.277495],[85.58967699999999,25.277497],[85.589676,25.277587],[85.59017299999999,25.277592]]],"type":"Polygon"}
 }

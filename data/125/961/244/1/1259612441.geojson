@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.47445,29.93185,78.47445,29.93185",
-    "geom:latitude":29.93185,
-    "geom:longitude":78.47445,
+    "geom:bbox":"78.473396,29.930622,78.474539,29.931622",
+    "geom:latitude":29.931116,
+    "geom:longitude":78.473949,
     "gn:admin1_code":"39",
     "gn:admin2_code":"61.0",
     "gn:asciiname":"Chopra",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.45445,29.91185,78.49445,29.95185",
+    "ks:ks_id":"KSF5E93F1A89B04B768AEB2A333F667422",
+    "ks:ks_name":"Chopra",
+    "ks:ks_pop":69,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|231967",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1839775",
+    "lbl:latitude":29.931137,
+    "lbl:longitude":78.473938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.931137,
+    "mps:longitude":78.473938,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chopra"
+    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d5\u05e4\u05e8\u05d4"
     ],
@@ -42,7 +55,13 @@
     "name:swe_x_preferred":[
         "Jater#C"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10749466
+        "gn:id":10749466,
+        "ks:id":"KSF5E93F1A89B04B768AEB2A333F667422"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6a1707b813387d1e05db9cff25782edf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9df8ffb1009a620d525d0e40b1e60c88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1259612441,
-    "wof:lastmodified":1566709790,
+    "wof:lastmodified":1680676446,
     "wof:name":"Chopra",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.47445,
-    29.93185,
-    78.47445,
-    29.93185
+    78.473396,
+    29.930622,
+    78.474539,
+    29.931622
 ],
-  "geometry": {"coordinates":[78.47445,29.93185],"type":"Point"}
+  "geometry": {"coordinates":[[[78.47400500000001,29.931622],[78.474008,29.931531],[78.474318,29.931537],[78.47432000000001,29.931447],[78.474424,29.931449],[78.474428,29.931269],[78.474532,29.931271],[78.47453899999999,29.931],[78.474435,29.930998],[78.47443699999999,29.930908],[78.474334,29.930906],[78.47433599999999,29.930816],[78.474233,29.930814],[78.47423499999999,29.930724],[78.47392499999999,29.930718],[78.473927,29.930628],[78.47361600000001,29.930622],[78.473614,29.930712],[78.47351,29.93071],[78.473506,29.93089],[78.47340199999999,29.930888],[78.47339599999999,29.931159],[78.473499,29.931161],[78.473495,29.931341],[78.473598,29.931343],[78.47359299999999,29.931523],[78.4738,29.931527],[78.473798,29.931618],[78.47400500000001,29.931622]]],"type":"Polygon"}
 }

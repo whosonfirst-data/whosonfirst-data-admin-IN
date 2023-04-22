@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.34442,27.03812,79.34442,27.03812",
-    "geom:latitude":27.03812,
-    "geom:longitude":79.34442,
+    "geom:bbox":"79.343742,27.037269,79.345774,27.038804",
+    "geom:latitude":27.038011,
+    "geom:longitude":79.344682,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"148",
     "gn:asciiname":"Premnagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.32442,27.01812,79.36442,27.05812",
+    "ks:ks_id":"KS2D822BE94D7C4F1FB307F7A4CB6BA32D",
+    "ks:ks_name":"Premnagar",
+    "ks:ks_pop":105,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|866299",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1744207",
+    "lbl:latitude":27.037965,
+    "lbl:longitude":79.344662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.037965,
+    "mps:longitude":79.344662,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0645 \u0646\u0627\u062c\u0627\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7\u09ae\u09a8\u0997\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Premnagar"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0ac7\u0aae\u0aa8\u0a97\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0645 \u0646\u06af\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6994170
+        "gn:id":6994170,
+        "ks:id":"KS2D822BE94D7C4F1FB307F7A4CB6BA32D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"92aba3c02cc8b94c6f726918b86d7387",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02295d0441049f9c198773b90f981c40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1259635777,
-    "wof:lastmodified":1577753661,
+    "wof:lastmodified":1680676121,
     "wof:name":"Premnagar",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.34442,
-    27.03812000000001,
-    79.34442,
-    27.03812000000001
+    79.343742,
+    27.037269,
+    79.345774,
+    27.038804
 ],
-  "geometry": {"coordinates":[79.34442,27.03812000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.34474899999999,27.038804],[79.34475,27.038714],[79.34485100000001,27.038715],[79.344852,27.038625],[79.344953,27.038626],[79.344954,27.038536],[79.345055,27.038537],[79.345056,27.038447],[79.345157,27.038448],[79.345159,27.038358],[79.345259,27.038359],[79.34526200000001,27.038179],[79.34536300000001,27.03818],[79.345364,27.03809],[79.345465,27.038091],[79.345466,27.038],[79.345567,27.038002],[79.345568,27.037911],[79.345669,27.037913],[79.34567199999999,27.037732],[79.34577299999999,27.037733],[79.34577400000001,27.037643],[79.34567300000001,27.037642],[79.345676,27.037461],[79.345575,27.03746],[79.34557599999999,27.03737],[79.34547499999999,27.037369],[79.345477,27.037278],[79.34467100000001,27.037269],[79.344669,27.037359],[79.34436700000001,27.037356],[79.34436599999999,27.037446],[79.34416400000001,27.037444],[79.34416299999999,27.037534],[79.34406199999999,27.037533],[79.344059,27.037713],[79.343958,27.037712],[79.343953,27.038073],[79.343852,27.038072],[79.34385,27.038252],[79.343749,27.038251],[79.34374200000001,27.038702],[79.34394399999999,27.038705],[79.343943,27.038795],[79.34474899999999,27.038804]]],"type":"Polygon"}
 }
