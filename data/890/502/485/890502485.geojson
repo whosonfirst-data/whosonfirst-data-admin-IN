@@ -14,11 +14,20 @@
     "gn:population":60634,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"72.94602,23.57893,72.98602,23.61893",
-    "lbl:latitude":23.596799,
-    "lbl:longitude":72.963188,
+    "ks:ks_id":"KSDE062CA5B3F045259DAF7245EC84A8F6",
+    "ks:ks_name":"Himatnagar",
+    "ks:ks_pop":56464,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2405000740504000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_820622",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":23.591038,
+    "lbl:longitude":72.970139,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":23.591038,
+    "mps:longitude":72.970139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -132,10 +141,12 @@
     "reversegeo:longitude":72.963188,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1593,
     "wof:belongsto":[
         102191569,
@@ -147,12 +158,17 @@
     "wof:concordances":{
         "gn:id":1270099,
         "gp:id":2291692,
+        "ks:id":"KSDE062CA5B3F045259DAF7245EC84A8F6",
         "qs_pg:id":260621,
         "wd:id":"Q1708155",
         "wk:page":"Himatnagar"
     },
     "wof:country":"IN",
     "wof:created":1469055340,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"f17ed02ed0464aef429a84d63b7dedb9",
     "wof:hierarchy":[
         {
@@ -164,11 +180,11 @@
         }
     ],
     "wof:id":890502485,
-    "wof:lastmodified":1658780792,
+    "wof:lastmodified":1680670344,
     "wof:name":"Himatnagar",
     "wof:parent_id":1108696265,
     "wof:placetype":"locality",
-    "wof:population":60634,
+    "wof:population":56464,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

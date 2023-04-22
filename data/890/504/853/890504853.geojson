@@ -14,11 +14,20 @@
     "gn:population":70887,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"74.00836,30.38207,74.04836,30.42207",
-    "lbl:latitude":30.404942,
-    "lbl:longitude":74.025194,
+    "ks:ks_id":"KS53E778F1F2CF4511BDDDF34FC98BF392",
+    "ks:ks_name":"Fazilka",
+    "ks:ks_pop":67427,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000441108000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2491836",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.401396,
+    "lbl:longitude":74.03091,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":30.401396,
+    "mps:longitude":74.03091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -132,10 +141,12 @@
     "reversegeo:longitude":74.025194,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":844,
     "wof:belongsto":[
         102191569,
@@ -147,12 +158,17 @@
     "wof:concordances":{
         "gn:id":1271891,
         "gp:id":2290421,
+        "ks:id":"KS53E778F1F2CF4511BDDDF34FC98BF392",
         "qs_pg:id":132068,
         "wd:id":"Q1525269",
         "wk:page":"Fazilka"
     },
     "wof:country":"IN",
     "wof:created":1469055448,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"be9ec6e2514a4b04f9efe37c0a2e892d",
     "wof:hierarchy":[
         {
@@ -164,11 +180,11 @@
         }
     ],
     "wof:id":890504853,
-    "wof:lastmodified":1658780796,
+    "wof:lastmodified":1680670405,
     "wof:name":"Fazilka",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
-    "wof:population":70887,
+    "wof:population":67427,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

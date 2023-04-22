@@ -14,11 +14,19 @@
     "gn:population":50206,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"83.18515,18.49652,83.22515,18.53652",
-    "lbl:latitude":18.515993,
-    "lbl:longitude":83.203085,
+    "ks:ks_id":"KS4AB0D6EFBD04415B856EF9C09D337C9D",
+    "ks:ks_name":"Salur",
+    "ks:ks_pop":48354,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2812001141203000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_602763",
+    "lbl:latitude":18.516362,
+    "lbl:longitude":83.205219,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":18.516362,
+    "mps:longitude":83.205219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -114,10 +122,12 @@
     "reversegeo:longitude":83.203085,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":411,
     "wof:belongsto":[
         102191569,
@@ -129,12 +139,17 @@
     "wof:concordances":{
         "gn:id":1257587,
         "gp:id":2293721,
+        "ks:id":"KS4AB0D6EFBD04415B856EF9C09D337C9D",
         "qs_pg:id":131286,
         "wd:id":"Q2563482",
         "wk:page":"Salur"
     },
     "wof:country":"IN",
     "wof:created":1469055436,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"e9911f07798c94383126cfd64a592d63",
     "wof:hierarchy":[
         {
@@ -146,12 +161,12 @@
         }
     ],
     "wof:id":890504543,
-    "wof:lastmodified":1658780795,
+    "wof:lastmodified":1680670393,
     "wof:name":"Salur",
     "wof:parent_id":890508885,
     "wof:placetype":"locality",
-    "wof:population":50206,
-    "wof:population_rank":8,
+    "wof:population":48354,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

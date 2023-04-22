@@ -14,11 +14,19 @@
     "gn:population":54620,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"72.37102,23.78366,72.41102,23.82366",
-    "lbl:latitude":23.798269,
-    "lbl:longitude":72.389399,
+    "ks:ks_id":"KS08186EA2936145AEA13AD7702B14F5C7",
+    "ks:ks_name":"Unjha",
+    "ks:ks_pop":53876,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2113872",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_768687",
+    "lbl:latitude":23.804299,
+    "lbl:longitude":72.385909,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":23.804299,
+    "mps:longitude":72.385909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -87,10 +95,12 @@
     "reversegeo:longitude":72.389399,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":111.0,
     "wd:latitude":"23.8",
     "wd:longitude":"72.4",
@@ -105,12 +115,17 @@
     "wof:concordances":{
         "gn:id":1253750,
         "gp:id":2291679,
+        "ks:id":"KS08186EA2936145AEA13AD7702B14F5C7",
         "qs_pg:id":257684,
         "wd:id":"Q767916",
         "wk:page":"Unjha"
     },
     "wof:country":"IN",
     "wof:created":1469055354,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"a6a8291897ac150ce713c10ba37ffa09",
     "wof:hierarchy":[
         {
@@ -122,11 +137,11 @@
         }
     ],
     "wof:id":890502701,
-    "wof:lastmodified":1658780792,
+    "wof:lastmodified":1680670342,
     "wof:name":"Unjha",
     "wof:parent_id":890510773,
     "wof:placetype":"locality",
-    "wof:population":54620,
+    "wof:population":53876,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

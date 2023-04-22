@@ -14,11 +14,20 @@
     "gn:population":75878,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"77.12826,19.69908,77.16826,19.73908",
-    "lbl:latitude":19.713005,
-    "lbl:longitude":77.140243,
+    "ks:ks_id":"KS1669A8936CB24BFAA83F06F0B34A4E5E",
+    "ks:ks_name":"Hingoli",
+    "ks:ks_pop":932,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2716000202088700",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_561235",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":19.7256,
+    "lbl:longitude":77.148822,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":19.7256,
+    "mps:longitude":77.148822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -136,10 +145,12 @@
     "reversegeo:longitude":77.140243,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":961,
     "wof:belongsto":[
         102191569,
@@ -151,12 +162,17 @@
     "wof:concordances":{
         "gn:id":1270072,
         "gp:id":2293158,
+        "ks:id":"KS1669A8936CB24BFAA83F06F0B34A4E5E",
         "qs_pg:id":131966,
         "wd:id":"Q1708167",
         "wk:page":"Hingoli"
     },
     "wof:country":"IN",
     "wof:created":1469055447,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"80517311a7b6f859b8b923316125dd5a",
     "wof:hierarchy":[
         {
@@ -168,12 +184,12 @@
         }
     ],
     "wof:id":890504817,
-    "wof:lastmodified":1658780795,
+    "wof:lastmodified":1680670388,
     "wof:name":"Hingoli",
     "wof:parent_id":1108696299,
     "wof:placetype":"locality",
-    "wof:population":75878,
-    "wof:population_rank":8,
+    "wof:population":932,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

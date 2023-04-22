@@ -14,11 +14,20 @@
     "gn:population":53032,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"84.65982,23.41313,84.69982,23.45313",
-    "lbl:latitude":23.429159,
-    "lbl:longitude":84.681892,
+    "ks:ks_id":"KS516E0BE7853845139D12BE66AE3B1B3B",
+    "ks:ks_name":"Lohardaga",
+    "ks:ks_pop":46196,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2015000341501000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1132040",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":23.446423,
+    "lbl:longitude":84.686464,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":23.446423,
+    "mps:longitude":84.686464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -171,10 +180,12 @@
     "reversegeo:longitude":84.681892,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1718,
     "wof:belongsto":[
         102191569,
@@ -186,12 +197,17 @@
     "wof:concordances":{
         "gn:id":1264839,
         "gp:id":2294858,
+        "ks:id":"KS516E0BE7853845139D12BE66AE3B1B3B",
         "qs_pg:id":131665,
         "wd:id":"Q920947",
         "wk:page":"Lohardaga"
     },
     "wof:country":"IN",
     "wof:created":1469055443,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"72a5e2d6f0a27656d7917ced37d1e34a",
     "wof:hierarchy":[
         {
@@ -203,12 +219,12 @@
         }
     ],
     "wof:id":890504713,
-    "wof:lastmodified":1658780795,
+    "wof:lastmodified":1680670392,
     "wof:name":"Lohardaga",
     "wof:parent_id":1108696109,
     "wof:placetype":"locality",
-    "wof:population":53032,
-    "wof:population_rank":8,
+    "wof:population":46196,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
