@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.74162,24.45556,85.74162,24.45556",
-    "geom:latitude":24.45556,
-    "geom:longitude":85.74162,
+    "geom:bbox":"85.739196,24.451085,85.740966,24.452543",
+    "geom:latitude":24.45191,
+    "geom:longitude":85.739993,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"348.0",
     "gn:asciiname":"Nawada",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.72162,24.43556,85.76162,24.47556",
+    "ks:ks_alt_nam":"Naw\u0101da",
+    "ks:ks_id":"KS2CF3B794C8C24CBB9C723EE8FF2C6FF3",
+    "ks:ks_name":"Nawada",
+    "ks:ks_pop":742,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|770335",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1147198",
+    "lbl:latitude":24.451949,
+    "lbl:longitude":85.739932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.451949,
+    "mps:longitude":85.739932,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u062f\u0627"
@@ -49,6 +60,12 @@
         "\u09a8\u09be\u09f1\u09be\u09a6\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Naw\u0101da"
+    ],
+    "name:eng_x_preferred":[
+        "Nawada"
+    ],
+    "name:eng_x_variant":[
         "Naw\u0101da"
     ],
     "name:fas_x_preferred":[
@@ -126,7 +143,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u74e6\u8fbe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885767
+        "gn:id":10885767,
+        "ks:id":"KS2CF3B794C8C24CBB9C723EE8FF2C6FF3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2e520e8ae328786baecfcafb13ea6efc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"389642e5e60842cb03cef2bfa67945a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +176,22 @@
         }
     ],
     "wof:id":1326672523,
-    "wof:lastmodified":1577749426,
+    "wof:lastmodified":1680654136,
     "wof:name":"Nawada",
     "wof:parent_id":1108696097,
     "wof:placetype":"locality",
+    "wof:population":742,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.74162,
-    24.45556,
-    85.74162,
-    24.45556
+    85.739196,
+    24.451085,
+    85.740966,
+    24.452543
 ],
-  "geometry": {"coordinates":[85.74162,24.45556],"type":"Point"}
+  "geometry": {"coordinates":[[[85.740666,24.452543],[85.740667,24.452452],[85.740765,24.452453],[85.74076599999999,24.452363],[85.740865,24.452364],[85.740866,24.452273],[85.74096400000001,24.452274],[85.740966,24.452094],[85.74086800000001,24.452093],[85.74086800000001,24.452002],[85.74077,24.452002],[85.740771,24.451911],[85.740376,24.451908],[85.740377,24.451818],[85.740278,24.451817],[85.740279,24.451727],[85.74018100000001,24.451726],[85.740182,24.451635],[85.740083,24.451635],[85.740084,24.451544],[85.739985,24.451544],[85.739986,24.451453],[85.739789,24.451452],[85.73979,24.451361],[85.73969099999999,24.45136],[85.739693,24.45118],[85.739594,24.451179],[85.73959499999999,24.451089],[85.73920099999999,24.451085],[85.73919600000001,24.451537],[85.739295,24.451538],[85.73929200000001,24.451809],[85.739391,24.45181],[85.73939,24.4519],[85.73948799999999,24.451901],[85.739487,24.451991],[85.739586,24.451992],[85.73958399999999,24.452172],[85.739683,24.452173],[85.739682,24.452263],[85.73978099999999,24.452264],[85.73978,24.452355],[85.739878,24.452355],[85.739878,24.452446],[85.739976,24.452447],[85.739975,24.452537],[85.740666,24.452543]]],"type":"Polygon"}
 }

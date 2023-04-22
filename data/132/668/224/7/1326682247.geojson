@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.11568,25.91983,82.11568,25.91983",
-    "geom:latitude":25.91983,
-    "geom:longitude":82.11568,
+    "geom:bbox":"82.114999,25.919447,82.116347,25.920794",
+    "geom:latitude":25.919956,
+    "geom:longitude":82.115733,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Narsinghpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.09568,25.89983,82.13568,25.93983",
+    "ks:ks_id":"KS9380EECE7DDB4349AF95C53B1BA55EA9",
+    "ks:ks_name":"Narsinghpur",
+    "ks:ks_pop":1638,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12988626",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1383566",
+    "lbl:latitude":25.919851,
+    "lbl:longitude":82.115733,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.919851,
+    "mps:longitude":82.115733,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0633\u064a\u0646\u062c\u0628\u0648\u0631"
@@ -50,6 +60,9 @@
     ],
     "name:ceb_x_preferred":[
         "Narsimhapur"
+    ],
+    "name:eng_x_preferred":[
+        "Narsinghpur"
     ],
     "name:fra_x_preferred":[
         "Narsinghpur"
@@ -117,7 +130,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u5c14\u897f\u59c6\u54c8\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10538188
+        "gn:id":10538188,
+        "ks:id":"KS9380EECE7DDB4349AF95C53B1BA55EA9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cb12f73c83fc804d1f0c004ce4955342",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8d7dae8a4526856a4ebc0653e1bd9729",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +163,22 @@
         }
     ],
     "wof:id":1326682247,
-    "wof:lastmodified":1577749444,
+    "wof:lastmodified":1680654241,
     "wof:name":"Narsinghpur",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":1638,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.11568,
-    25.91983,
-    82.11568,
-    25.91983
+    82.114999,
+    25.919447,
+    82.116347,
+    25.920794
 ],
-  "geometry": {"coordinates":[82.11568,25.91983],"type":"Point"}
+  "geometry": {"coordinates":[[[82.116077,25.920794],[82.116077,25.920525],[82.116347,25.920525],[82.116347,25.919447],[82.114999,25.919447],[82.114999,25.920255],[82.115808,25.920255],[82.115808,25.920794],[82.116077,25.920794]]],"type":"Polygon"}
 }

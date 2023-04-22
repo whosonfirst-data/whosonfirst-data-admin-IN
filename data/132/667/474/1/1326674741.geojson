@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.87898,25.65262,85.87898,25.65262",
-    "geom:latitude":25.65262,
-    "geom:longitude":85.87898,
+    "geom:bbox":"85.878761,25.651569,85.879569,25.653455",
+    "geom:latitude":25.652512,
+    "geom:longitude":85.879165,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Chhabilapur",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.85898,25.63262,85.89898,25.67262",
+    "ks:ks_alt_nam":"Chhabil\u0101pur",
+    "ks:ks_id":"KS418003D5CCD342E4BEC7A25B4B170676",
+    "ks:ks_name":"Chhabilapur",
+    "ks:ks_pop":1129,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13352960",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1363134",
+    "lbl:latitude":25.652512,
+    "lbl:longitude":85.879165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.652512,
+    "mps:longitude":85.879165,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chhabilapur"
+    ],
+    "name:eng_x_variant":[
+        "Chhabil\u0101pur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880692
+        "gn:id":10880692,
+        "ks:id":"KS418003D5CCD342E4BEC7A25B4B170676"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4fb13f22f3ee7d2c11d721bfecca61be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"711f8b17616fb401bf87240b21b54ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1326674741,
-    "wof:lastmodified":1566682510,
+    "wof:lastmodified":1680654126,
     "wof:name":"Chhabilapur",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":1129,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.87898,
-    25.65262,
-    85.87898,
-    25.65262
+    85.878761,
+    25.651569,
+    85.879569,
+    25.653455
 ],
-  "geometry": {"coordinates":[85.87898,25.65262],"type":"Point"}
+  "geometry": {"coordinates":[[[85.879569,25.651569],[85.878761,25.651569],[85.878761,25.653455],[85.879569,25.653455],[85.879569,25.651569]]],"type":"Polygon"}
 }

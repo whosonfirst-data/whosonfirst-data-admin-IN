@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.99709,26.46551,85.99709,26.46551",
-    "geom:latitude":26.46551,
-    "geom:longitude":85.99709,
+    "geom:bbox":"85.99649,26.464457,85.99879,26.466188",
+    "geom:latitude":26.465338,
+    "geom:longitude":85.997543,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"207.0",
     "gn:asciiname":"Mahua",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.97709,26.44551,86.01709,26.48551",
+    "ks:ks_alt_nam":"MAHUA",
+    "ks:ks_id":"KS1BCEBE9A0B0B4F4084A2AEE750817515",
+    "ks:ks_name":"Mahua",
+    "ks:ks_pop":353,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|649947",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2089680",
+    "lbl:latitude":26.465412,
+    "lbl:longitude":85.997636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.465412,
+    "mps:longitude":85.997636,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u0939\u0941\u0906"
@@ -36,10 +47,19 @@
     "name:ceb_x_preferred":[
         "Mahua"
     ],
+    "name:eng_x_preferred":[
+        "Mahua"
+    ],
     "name:swe_x_preferred":[
         "Mahua"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10886442
+        "gn:id":10886442,
+        "ks:id":"KS1BCEBE9A0B0B4F4084A2AEE750817515"
     },
     "wof:country":"IN",
-    "wof:geomhash":"148c26104dc9e89c53bd3445a580b533",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c29e741ea56015ad9335f0e868ba1f17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +86,22 @@
         }
     ],
     "wof:id":1326683459,
-    "wof:lastmodified":1566682822,
+    "wof:lastmodified":1680654252,
     "wof:name":"Mahua",
     "wof:parent_id":1108695901,
     "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.99709,
-    26.46551,
-    85.99709,
-    26.46551
+    85.99649,
+    26.464457,
+    85.99879,
+    26.466188
 ],
-  "geometry": {"coordinates":[85.99709,26.46551],"type":"Point"}
+  "geometry": {"coordinates":[[[85.99839299999999,26.465553],[85.998395,26.465372],[85.99849500000001,26.465373],[85.998497,26.465193],[85.998597,26.465193],[85.998599,26.464922],[85.998499,26.464922],[85.99850000000001,26.464831],[85.9984,26.464831],[85.9984,26.46474],[85.9983,26.46474],[85.998301,26.464649],[85.9979,26.464647],[85.997899,26.464737],[85.99739700000001,26.464733],[85.997398,26.464643],[85.997298,26.464642],[85.997299,26.464552],[85.99709799999999,26.464551],[85.99709900000001,26.46446],[85.99659699999999,26.464457],[85.996596,26.464638],[85.996495,26.464637],[85.99648999999999,26.465269],[85.99659,26.465269],[85.99658599999999,26.465721],[85.99668699999999,26.465722],[85.996685,26.465902],[85.996785,26.465903],[85.996785,26.465993],[85.997286,26.465997],[85.99728500000001,26.466087],[85.998288,26.466094],[85.998288,26.466184],[85.998789,26.466188],[85.99879,26.466097],[85.99869,26.466097],[85.99869,26.466006],[85.99858999999999,26.466006],[85.998592,26.465825],[85.998491,26.465825],[85.99849399999999,26.465554],[85.99839299999999,26.465553]]],"type":"Polygon"}
 }
