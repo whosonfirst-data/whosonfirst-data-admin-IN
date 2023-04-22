@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.19859,20.51524,80.19859,20.51524",
-    "geom:latitude":20.51524,
-    "geom:longitude":80.19859,
+    "geom:bbox":"80.197673,20.514338,80.199975,20.515788",
+    "geom:latitude":20.515136,
+    "geom:longitude":80.198826,
     "gn:admin1_code":"16",
     "gn:admin2_code":"508.0",
     "gn:asciiname":"Kosi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.17859,20.49524,80.21859,20.53524",
+    "ks:ks_id":"KSC37A6F71C4AD4A50804532E353B2555B",
+    "ks:ks_name":"Kosi",
+    "ks:ks_pop":211,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|582083",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_945768",
+    "lbl:latitude":20.515153,
+    "lbl:longitude":80.198848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.515153,
+    "mps:longitude":80.198848,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0438"
@@ -37,6 +47,9 @@
         "Kosi"
     ],
     "name:deu_x_preferred":[
+        "Kosi"
+    ],
+    "name:eng_x_preferred":[
         "Kosi"
     ],
     "name:nld_x_preferred":[
@@ -54,7 +67,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10710387
+        "gn:id":10710387,
+        "ks:id":"KSC37A6F71C4AD4A50804532E353B2555B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"215d8805a38f150341f7a3f642fd6ca6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b07905128377a2c4a7442622dbb7074d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1327405839,
-    "wof:lastmodified":1566683072,
+    "wof:lastmodified":1680654348,
     "wof:name":"Kosi",
     "wof:parent_id":1108696297,
     "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.19859,
-    20.51524,
-    80.19859,
-    20.51524
+    80.197673,
+    20.514338,
+    80.199975,
+    20.515788
 ],
-  "geometry": {"coordinates":[80.19859,20.51524],"type":"Point"}
+  "geometry": {"coordinates":[[[80.19930100000001,20.515788],[80.199302,20.515697],[80.199685,20.515699],[80.199686,20.515609],[80.199878,20.51561],[80.199878,20.515519],[80.199974,20.51552],[80.19997499999999,20.515339],[80.199879,20.515339],[80.19987999999999,20.515068],[80.19978500000001,20.515067],[80.199786,20.514886],[80.19969,20.514886],[80.19969,20.514796],[80.199594,20.514795],[80.199595,20.514705],[80.199403,20.514704],[80.199403,20.514614],[80.19882800000001,20.514611],[80.19882800000001,20.514521],[80.19873200000001,20.51452],[80.198733,20.51443],[80.19854100000001,20.514429],[80.198542,20.514339],[80.19835,20.514338],[80.198348,20.514609],[80.19815699999999,20.514608],[80.198156,20.514698],[80.197964,20.514697],[80.197964,20.514788],[80.197868,20.514787],[80.197867,20.514878],[80.197772,20.514877],[80.197771,20.514967],[80.197675,20.514967],[80.19767299999999,20.515328],[80.19776899999999,20.515329],[80.19776899999999,20.515419],[80.19786499999999,20.51542],[80.197864,20.51551],[80.19824800000001,20.515512],[80.19824699999999,20.515602],[80.19863100000001,20.515604],[80.19862999999999,20.515694],[80.19891800000001,20.515696],[80.19891800000001,20.515786],[80.19930100000001,20.515788]]],"type":"Polygon"}
 }

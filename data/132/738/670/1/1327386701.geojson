@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.60122,27.15573,83.60122,27.15573",
-    "geom:latitude":27.15573,
-    "geom:longitude":83.60122,
+    "geom:bbox":"83.600406,27.15371,83.602542,27.156155",
+    "geom:latitude":27.155188,
+    "geom:longitude":83.601327,
     "gn:admin1_code":"36",
     "gn:admin2_code":"187.0",
     "gn:asciiname":"Bhikampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.58122,27.13573,83.62122,27.17573",
+    "ks:ks_id":"KS48AF39B318854E8F852640CC9F4ABA08",
+    "ks:ks_name":"Bhikhampur",
+    "ks:ks_pop":207,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|149319",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2000654",
+    "lbl:latitude":27.155381,
+    "lbl:longitude":83.6012,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.155381,
+    "mps:longitude":83.6012,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0627\u0645\u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09bf\u0995\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bhikhampur"
+    ],
+    "name:eng_x_variant":[
+        "Bhikampur"
     ],
     "name:guj_x_preferred":[
         "\u0aad\u0abf\u0a95\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u06cc\u06a9\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10656845
+        "gn:id":10656845,
+        "ks:id":"KS48AF39B318854E8F852640CC9F4ABA08"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d8433422f6495a7bcb3cb1bd307eabd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73a6efd2d2e026c1d8df6cc958975d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1327386701,
-    "wof:lastmodified":1577749346,
-    "wof:name":"Bhikampur",
+    "wof:lastmodified":1680653663,
+    "wof:name":"Bhikhampur",
     "wof:parent_id":1108695867,
     "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.60122,
-    27.15573,
-    83.60122,
-    27.15573
+    83.600406,
+    27.15371,
+    83.602542,
+    27.156155
 ],
-  "geometry": {"coordinates":[83.60122,27.15573],"type":"Point"}
+  "geometry": {"coordinates":[[[83.602542,27.155847],[83.602529,27.155306],[83.602428,27.155307],[83.602424,27.155127],[83.602323,27.155129],[83.602321,27.155039],[83.602019,27.155044],[83.602017,27.154954],[83.601815,27.154958],[83.601805,27.154507],[83.601704,27.154509],[83.601702,27.154419],[83.6015,27.154422],[83.601496,27.154242],[83.601395,27.154244],[83.601389,27.153973],[83.601288,27.153975],[83.601286,27.153885],[83.601185,27.153887],[83.60118300000001,27.153797],[83.600981,27.1538],[83.600979,27.15371],[83.60087799999999,27.153712],[83.60088,27.153802],[83.60078,27.153804],[83.600782,27.153894],[83.60068099999999,27.153896],[83.600685,27.154077],[83.600584,27.154078],[83.600601,27.1548],[83.6005,27.154802],[83.600506,27.155072],[83.60040600000001,27.155074],[83.60042,27.155706],[83.600521,27.155704],[83.600531,27.156155],[83.60204400000001,27.156127],[83.602042,27.156036],[83.602243,27.156033],[83.60224100000001,27.155943],[83.60244299999999,27.155939],[83.602441,27.155849],[83.602542,27.155847]]],"type":"Polygon"}
 }

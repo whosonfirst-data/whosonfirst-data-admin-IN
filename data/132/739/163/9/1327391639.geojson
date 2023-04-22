@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.71962,24.96724,76.71962,24.96724",
-    "geom:latitude":24.96724,
-    "geom:longitude":76.71962,
+    "geom:bbox":"76.719094,24.966148,76.721679,24.967886",
+    "geom:latitude":24.966993,
+    "geom:longitude":76.72034,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Haripura",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.69962,24.94724,76.73962,24.98724",
+    "ks:ks_alt_nam":"Har\u012bpura",
+    "ks:ks_id":"KS19891AAE3FB14E889BC1ACB30AB2A162",
+    "ks:ks_name":"Haripura",
+    "ks:ks_pop":507,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|409336",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_917231",
+    "lbl:latitude":24.96702,
+    "lbl:longitude":76.720235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.96702,
+    "mps:longitude":76.720235,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0628\u0648\u0631\u0627"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b9\u09b0\u09bf\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Haripura"
+    ],
+    "name:eng_x_variant":[
+        "Har\u012bpura"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab0\u0abf\u0aaa\u0ac1\u0ab0\u0abe"
@@ -69,7 +86,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0631\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10333243
+        "gn:id":10333243,
+        "ks:id":"KS19891AAE3FB14E889BC1ACB30AB2A162"
     },
     "wof:country":"IN",
-    "wof:geomhash":"255a5797c9f3b59340e8bcb465201767",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9926773429d7c77f7edb613aa0ba815d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1327391639,
-    "wof:lastmodified":1577749308,
+    "wof:lastmodified":1680653432,
     "wof:name":"Haripura",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.71961999999998,
-    24.96724,
-    76.71961999999998,
-    24.96724
+    76.719094,
+    24.966148,
+    76.721679,
+    24.967886
 ],
-  "geometry": {"coordinates":[76.71961999999998,24.96724],"type":"Point"}
+  "geometry": {"coordinates":[[[76.719903,24.967882],[76.71990099999999,24.967791],[76.720198,24.967788],[76.720197,24.967698],[76.720395,24.967695],[76.720394,24.967605],[76.720592,24.967603],[76.720591,24.967513],[76.72098699999999,24.967508],[76.720986,24.967418],[76.72167899999999,24.96741],[76.721664,24.966327],[76.721565,24.966328],[76.721563,24.966237],[76.721464,24.966239],[76.721463,24.966148],[76.72136399999999,24.966149],[76.72136500000001,24.96624],[76.72116699999999,24.966242],[76.721169,24.966332],[76.720772,24.966337],[76.72077400000001,24.966427],[76.720279,24.966433],[76.720277,24.966343],[76.71998000000001,24.966346],[76.719979,24.966256],[76.719583,24.96626],[76.719584,24.966351],[76.719386,24.966353],[76.719387,24.966443],[76.71928800000001,24.966444],[76.71929,24.966535],[76.719191,24.966536],[76.719193,24.966716],[76.719094,24.966717],[76.719104,24.96744],[76.71920299999999,24.967438],[76.719206,24.967619],[76.71930500000001,24.967618],[76.719307,24.967798],[76.719505,24.967796],[76.719506,24.967886],[76.719903,24.967882]]],"type":"Polygon"}
 }

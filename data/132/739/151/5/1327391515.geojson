@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.39356,27.8954,76.39356,27.8954",
-    "geom:latitude":27.8954,
-    "geom:longitude":76.39356,
+    "geom:bbox":"76.393232,27.894457,76.394367,27.896352",
+    "geom:latitude":27.895402,
+    "geom:longitude":76.393815,
     "gn:admin1_code":"24",
     "gn:admin2_code":"104.0",
     "gn:asciiname":"Nalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.37356,27.8754,76.41356,27.9154",
+    "ks:ks_id":"KS66D411D3890E403D9AE6AA5FE517EEF5",
+    "ks:ks_name":"Nalpur",
+    "ks:ks_pop":658,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|754613",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1768414",
+    "lbl:latitude":27.895383,
+    "lbl:longitude":76.393882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.895383,
+    "mps:longitude":76.393882,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u0986\u09b2\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Nalpur"
+    ],
+    "name:eng_x_preferred":[
         "Nalpur"
     ],
     "name:hif_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u963f\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10524433
+        "gn:id":10524433,
+        "ks:id":"KS66D411D3890E403D9AE6AA5FE517EEF5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"70fb2e0fdbfdf5733ffdf44bf2b9dcc8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88ae5d8ad18749cd5d90f5d9b700261d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1327391515,
-    "wof:lastmodified":1566680764,
+    "wof:lastmodified":1680653422,
     "wof:name":"Nalpur",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
+    "wof:population":658,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.39356,
-    27.8954,
-    76.39356,
-    27.8954
+    76.393232,
+    27.894457,
+    76.394367,
+    27.896352
 ],
-  "geometry": {"coordinates":[76.39355999999999,27.8954],"type":"Point"}
+  "geometry": {"coordinates":[[[76.39386500000001,27.89635],[76.393863,27.89626],[76.39416799999999,27.896257],[76.394167,27.896167],[76.39426899999999,27.896166],[76.394265,27.895895],[76.394367,27.895894],[76.394356,27.895082],[76.394255,27.895083],[76.39425199999999,27.894902],[76.39415099999999,27.894903],[76.39415,27.894813],[76.394048,27.894814],[76.394047,27.894724],[76.393945,27.894725],[76.393944,27.894635],[76.393843,27.894636],[76.39384099999999,27.894545],[76.393638,27.894548],[76.393637,27.894457],[76.393536,27.894458],[76.39353699999999,27.894549],[76.393232,27.894552],[76.39323899999999,27.895093],[76.39334100000001,27.895092],[76.393344,27.895363],[76.393446,27.895362],[76.393456,27.896174],[76.393558,27.896173],[76.393559,27.896263],[76.39366,27.896262],[76.39366099999999,27.896352],[76.39386500000001,27.89635]]],"type":"Polygon"}
 }

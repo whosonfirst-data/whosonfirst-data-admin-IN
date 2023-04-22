@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.53054,24.63833,84.53054,24.63833",
-    "geom:latitude":24.63833,
-    "geom:longitude":84.53054,
+    "geom:bbox":"84.528323,24.63773,84.529132,24.639347",
+    "geom:latitude":24.638471,
+    "geom:longitude":84.528761,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Bhalua Chak",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.51054,24.61833,84.55054,24.65833",
+    "ks:ks_id":"KSE35750ADF04C48F28C32EE5DB37D24D5",
+    "ks:ks_name":"Bhaluachak",
+    "ks:ks_pop":241,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|135471",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1049210",
+    "lbl:latitude":24.638426,
+    "lbl:longitude":84.528729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.638426,
+    "mps:longitude":84.528729,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bhaluachak"
+    ],
+    "name:eng_x_variant":[
+        "Bhalua Chak"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10840664
+        "gn:id":10840664,
+        "ks:id":"KSE35750ADF04C48F28C32EE5DB37D24D5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5700d6039410507e6639291c310a20d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"241c1a5fa48a0dd4fc307df7777a8aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1327378909,
-    "wof:lastmodified":1566681159,
-    "wof:name":"Bhalua Chak",
+    "wof:lastmodified":1680653590,
+    "wof:name":"Bhaluachak",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.53054,
-    24.63833,
-    84.53054,
-    24.63833
+    84.528323,
+    24.63773,
+    84.529132,
+    24.639347
 ],
-  "geometry": {"coordinates":[84.53054,24.63833],"type":"Point"}
+  "geometry": {"coordinates":[[[84.529132,24.63773],[84.528323,24.63773],[84.528323,24.638808],[84.528593,24.638808],[84.528593,24.639347],[84.529132,24.639347],[84.529132,24.63773]]],"type":"Polygon"}
 }

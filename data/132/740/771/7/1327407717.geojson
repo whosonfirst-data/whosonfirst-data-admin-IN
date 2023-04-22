@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.42759,21.10545,86.42759,21.10545",
-    "geom:latitude":21.10545,
-    "geom:longitude":86.42759,
+    "geom:bbox":"86.413988,21.100249,86.414954,21.101334",
+    "geom:latitude":21.10077,
+    "geom:longitude":86.41442,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"378.0",
     "gn:asciiname":"Aranji",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.40759,21.08545,86.44759,21.12545",
+    "ks:ks_id":"KS5F17D17C209C498B874F6B9F357594D6",
+    "ks:ks_name":"Aranji",
+    "ks:ks_pop":681,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|43940",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1083071",
+    "lbl:latitude":21.100764,
+    "lbl:longitude":86.414429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.100764,
+    "mps:longitude":86.414429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Aranji"
+    ],
     "name:por_x_preferred":[
         "Aranji"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":9035846
+        "gn:id":9035846,
+        "ks:id":"KS5F17D17C209C498B874F6B9F357594D6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"92a7f58b4f8c4384cc9a6278bb72c148",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a7b9280c6b398f161933729ec47691a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1327407717,
-    "wof:lastmodified":1566683045,
+    "wof:lastmodified":1680654336,
     "wof:name":"Aranji",
     "wof:parent_id":890503477,
     "wof:placetype":"locality",
+    "wof:population":681,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.42759000000002,
-    21.10545,
-    86.42759000000002,
-    21.10545
+    86.413988,
+    21.100249,
+    86.414954,
+    21.101334
 ],
-  "geometry": {"coordinates":[86.42759000000002,21.10545],"type":"Point"}
+  "geometry": {"coordinates":[[[86.414469,21.101334],[86.41446999999999,21.101244],[86.41466200000001,21.101244],[86.41466200000001,21.101154],[86.414759,21.101154],[86.414759,21.101064],[86.414855,21.101064],[86.414856,21.100793],[86.414953,21.100794],[86.41495399999999,21.100523],[86.414857,21.100522],[86.414858,21.100432],[86.414762,21.100432],[86.414762,21.100341],[86.414666,21.100341],[86.414666,21.100251],[86.414185,21.100249],[86.41418400000001,21.100339],[86.41399199999999,21.100339],[86.413988,21.101242],[86.414181,21.101243],[86.41418,21.101333],[86.414469,21.101334]]],"type":"Polygon"}
 }

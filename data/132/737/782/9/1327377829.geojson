@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.92708,27.70269,79.92708,27.70269",
-    "geom:latitude":27.70269,
-    "geom:longitude":79.92708,
+    "geom:bbox":"79.926277,27.701809,79.928204,27.703621",
+    "geom:latitude":27.702676,
+    "geom:longitude":79.927325,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Nasirpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.90708,27.68269,79.94708,27.72269",
+    "ks:ks_id":"KSE60EE6B0E7EA4DF6815320F08A728A4F",
+    "ks:ks_name":"Naseerpur",
+    "ks:ks_pop":286,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1252670",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2009946",
+    "lbl:latitude":27.702559,
+    "lbl:longitude":79.927344,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.702559,
+    "mps:longitude":79.927344,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0635\u0631 \u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a8\u09be\u09b8\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Naseerpur"
+    ],
+    "name:eng_x_variant":[
+        "Nasirpur"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0635\u06cc\u0631\u067e\u0648\u0631"
@@ -78,7 +94,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u0635\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10474566
+        "gn:id":10474566,
+        "ks:id":"KSE60EE6B0E7EA4DF6815320F08A728A4F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"17218d6d5decb301eb2842610630eac2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfd11b093dc58d8fb588e461bfd45db8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +127,22 @@
         }
     ],
     "wof:id":1327377829,
-    "wof:lastmodified":1577749328,
-    "wof:name":"Nasirpur",
+    "wof:lastmodified":1680653557,
+    "wof:name":"Naseerpur",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.92708,
-    27.70269,
-    79.92708,
-    27.70269
+    79.926277,
+    27.701809,
+    79.928204,
+    27.703621
 ],
-  "geometry": {"coordinates":[79.92708,27.70269],"type":"Point"}
+  "geometry": {"coordinates":[[[79.92788899999999,27.703621],[79.92789,27.703531],[79.928093,27.703533],[79.928094,27.703443],[79.928195,27.703443],[79.92820399999999,27.702541],[79.92810299999999,27.70254],[79.928106,27.702269],[79.928004,27.702268],[79.928006,27.702088],[79.927904,27.702087],[79.927905,27.701997],[79.92780399999999,27.701996],[79.92780500000001,27.701906],[79.92770299999999,27.701905],[79.92770400000001,27.701815],[79.92699399999999,27.701809],[79.92699399999999,27.701899],[79.926892,27.701899],[79.926891,27.701989],[79.926587,27.701987],[79.926586,27.702077],[79.926485,27.702076],[79.926484,27.702166],[79.926382,27.702166],[79.926382,27.702256],[79.92628000000001,27.702255],[79.926277,27.702616],[79.926378,27.702617],[79.92637499999999,27.702888],[79.92647700000001,27.702888],[79.926475,27.703069],[79.926576,27.70307],[79.926576,27.70316],[79.926677,27.703161],[79.926676,27.703251],[79.927183,27.703255],[79.927182,27.703345],[79.927284,27.703346],[79.92728200000001,27.703527],[79.927485,27.703528],[79.92748400000001,27.703618],[79.92788899999999,27.703621]]],"type":"Polygon"}
 }

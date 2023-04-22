@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.86733,25.63888,85.86733,25.63888",
-    "geom:latitude":25.63888,
-    "geom:longitude":85.86733,
+    "geom:bbox":"85.864208,25.637016,85.865286,25.638094",
+    "geom:latitude":25.637555,
+    "geom:longitude":85.864747,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Santha Rashidpur",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.84733,25.61888,85.88733,25.65888",
+    "ks:ks_id":"KSF09124E624D24A41AD0B54C3D1875478",
+    "ks:ks_name":"Santha Rasidpur",
+    "ks:ks_pop":4770,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1020000602176300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1362228",
+    "lbl:latitude":25.637555,
+    "lbl:longitude":85.864747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.637555,
+    "mps:longitude":85.864747,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Santha Rasidpur"
+    ],
+    "name:eng_x_variant":[
+        "Santha Rashidpur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880685
+        "gn:id":10880685,
+        "ks:id":"KSF09124E624D24A41AD0B54C3D1875478"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ebd0c559f3ce7ffcf54a377f868225ae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a86a5f6683453afac0328056d5016153",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1327374645,
-    "wof:lastmodified":1566681062,
-    "wof:name":"Santha Rashidpur",
+    "wof:lastmodified":1680653548,
+    "wof:name":"Santha Rasidpur",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":4770,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.86733000000002,
-    25.63888,
-    85.86733000000002,
-    25.63888
+    85.864208,
+    25.637016,
+    85.865286,
+    25.638094
 ],
-  "geometry": {"coordinates":[85.86733000000002,25.63888],"type":"Point"}
+  "geometry": {"coordinates":[[[85.865286,25.637016],[85.864208,25.637016],[85.864208,25.638094],[85.865286,25.638094],[85.865286,25.637016]]],"type":"Polygon"}
 }
