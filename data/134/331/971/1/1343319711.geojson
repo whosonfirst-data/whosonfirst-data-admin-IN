@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.82048,26.25858,72.82048,26.25858",
-    "geom:latitude":26.25858,
-    "geom:longitude":72.82048,
+    "geom:bbox":"72.818514,26.257662,72.821748,26.259818",
+    "geom:latitude":26.258585,
+    "geom:longitude":72.820152,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"113",
     "gn:asciiname":"Karani",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"72.80048,26.23858,72.84048,26.27858",
+    "ks:ks_alt_nam":"Kar\u0101ni",
+    "ks:ks_id":"KS8352DF2DE42D4C90BBD2159A298E5599",
+    "ks:ks_name":"Karani",
+    "ks:ks_pop":431,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|510956",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_578300",
+    "lbl:latitude":26.258555,
+    "lbl:longitude":72.82002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.258555,
+    "mps:longitude":72.82002,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0646\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Karani"
+    ],
+    "name:eng_x_variant":[
+        "Kar\u0101ni"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0631\u0627\u0646\u06cc"
@@ -40,7 +57,13 @@
         "Kar\u0101ni",
         "Karoni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -49,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1267692
+        "gn:id":1267692,
+        "ks:id":"KS8352DF2DE42D4C90BBD2159A298E5599"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1fb788d726d4f634112df5b46067ec8d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"44b66182623441bb6116845ec11561b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +90,22 @@
         }
     ],
     "wof:id":1343319711,
-    "wof:lastmodified":1566685451,
+    "wof:lastmodified":1680655504,
     "wof:name":"Karani",
     "wof:parent_id":890507095,
     "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.82048,
-    26.25858,
-    72.82048,
-    26.25858
+    72.818514,
+    26.257662,
+    72.821748,
+    26.259818
 ],
-  "geometry": {"coordinates":[72.82048,26.25858],"type":"Point"}
+  "geometry": {"coordinates":[[[72.820131,26.259818],[72.820131,26.259279],[72.82040000000001,26.259279],[72.82040000000001,26.259549],[72.820939,26.259549],[72.820939,26.259279],[72.821209,26.259279],[72.821209,26.25874],[72.821748,26.25874],[72.821748,26.257662],[72.820939,26.257662],[72.820939,26.258201],[72.82067000000001,26.258201],[72.82067000000001,26.257662],[72.819592,26.257662],[72.819592,26.257932],[72.81851399999999,26.257932],[72.81851399999999,26.25874],[72.819053,26.25874],[72.819053,26.259549],[72.819592,26.259549],[72.819592,26.259818],[72.820131,26.259818]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.36441,19.88572,78.36441,19.88572",
-    "geom:latitude":19.88572,
-    "geom:longitude":78.36441,
+    "geom:bbox":"78.363516,19.884991,78.365623,19.886438",
+    "geom:latitude":19.885725,
+    "geom:longitude":78.364543,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Sagada",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.34441,19.86572,78.38441,19.90572",
+    "ks:ks_id":"KSCA0A2992F76548998B5BF7B6542F940E",
+    "ks:ks_name":"Sagada",
+    "ks:ks_pop":881,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12976018",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_563663",
+    "lbl:latitude":19.885715,
+    "lbl:longitude":78.364543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.885715,
+    "mps:longitude":78.364543,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Sagada"
@@ -37,6 +47,9 @@
         "Sagada"
     ],
     "name:deu_x_preferred":[
+        "Sagada"
+    ],
+    "name:eng_x_preferred":[
         "Sagada"
     ],
     "name:fra_x_preferred":[
@@ -78,7 +91,13 @@
     "name:war_x_preferred":[
         "Sagada"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10529048
+        "gn:id":10529048,
+        "ks:id":"KSCA0A2992F76548998B5BF7B6542F940E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"089aef64802d8b45b798c6862b696151",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07b949ed6c27a0e77efef026015fa697",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1343333599,
-    "wof:lastmodified":1566687890,
+    "wof:lastmodified":1680656770,
     "wof:name":"Sagada",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":881,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.36440999999998,
-    19.88572000000001,
-    78.36440999999998,
-    19.88572000000001
+    78.363516,
+    19.884991,
+    78.365623,
+    19.886438
 ],
-  "geometry": {"coordinates":[78.36440999999998,19.88572000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[78.36456099999999,19.886438],[78.364563,19.886348],[78.36494399999999,19.886353],[78.364946,19.886263],[78.36542300000001,19.88627],[78.365424,19.88618],[78.36552,19.886181],[78.365521,19.886091],[78.365617,19.886092],[78.365623,19.885731],[78.365527,19.88573],[78.365532,19.885459],[78.365436,19.885458],[78.36543899999999,19.885277],[78.36534399999999,19.885276],[78.365345,19.885186],[78.36525,19.885184],[78.365252,19.885094],[78.365156,19.885092],[78.36515799999999,19.885002],[78.364394,19.884991],[78.36439300000001,19.885081],[78.364011,19.885075],[78.364009,19.885166],[78.36381900000001,19.885163],[78.363817,19.885253],[78.363722,19.885252],[78.36372,19.885342],[78.363625,19.885341],[78.363623,19.885431],[78.363528,19.885429],[78.363516,19.886152],[78.36361100000001,19.886153],[78.36360999999999,19.886243],[78.363705,19.886245],[78.363704,19.886335],[78.36399,19.886339],[78.363989,19.88643],[78.36456099999999,19.886438]]],"type":"Polygon"}
 }
