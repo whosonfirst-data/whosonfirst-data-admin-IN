@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.48881,20.53601,78.48881,20.53601",
-    "geom:latitude":20.53601,
-    "geom:longitude":78.48881,
+    "geom:bbox":"78.487875,20.535128,78.489616,20.536753",
+    "geom:latitude":20.535928,
+    "geom:longitude":78.48864,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Gangapur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.46881,20.51601,78.50881,20.55601",
+    "ks:ks_alt_nam":"Gang\u0101pur",
+    "ks:ks_id":"KSF636F8F65D7A4193829CEB01B1990179",
+    "ks:ks_name":"Gangapur",
+    "ks:ks_pop":170,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|343420",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871743",
+    "lbl:latitude":20.53594,
+    "lbl:longitude":78.488569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.53594,
+    "mps:longitude":78.488569,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0917\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:ceb_x_preferred":[
         "Gangapur"
+    ],
+    "name:eng_x_preferred":[
+        "Gangapur"
+    ],
+    "name:eng_x_variant":[
+        "Gang\u0101pur"
     ],
     "name:ita_x_preferred":[
         "Gangapur"
@@ -48,7 +65,13 @@
     "name:vie_x_preferred":[
         "Gangapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453374
+        "gn:id":10453374,
+        "ks:id":"KSF636F8F65D7A4193829CEB01B1990179"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a52edf9f48d41c335e8874ea60352cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa2d5f6b02953a0fef8f26409daaf81b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +98,22 @@
         }
     ],
     "wof:id":1259354953,
-    "wof:lastmodified":1566709964,
+    "wof:lastmodified":1680676537,
     "wof:name":"Gangapur",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.48881,
-    20.53601,
-    78.48881,
-    20.53601
+    78.487875,
+    20.535128,
+    78.489616,
+    20.536753
 ],
-  "geometry": {"coordinates":[78.48881,20.53601],"type":"Point"}
+  "geometry": {"coordinates":[[[78.488544,20.536753],[78.488545,20.536663],[78.488737,20.536665],[78.488739,20.536575],[78.48893,20.536578],[78.48893200000001,20.536488],[78.48902699999999,20.536489],[78.489029,20.536399],[78.489125,20.5364],[78.48912799999999,20.536219],[78.48931899999999,20.536222],[78.489321,20.536132],[78.489417,20.536133],[78.489418,20.536043],[78.489514,20.536044],[78.48951700000001,20.535864],[78.48961300000001,20.535865],[78.489616,20.535685],[78.48952,20.535683],[78.48952300000001,20.535503],[78.48942700000001,20.535501],[78.489429,20.535411],[78.489333,20.53541],[78.489334,20.53532],[78.489142,20.535317],[78.489144,20.535226],[78.488952,20.535224],[78.48895400000001,20.535133],[78.48857,20.535128],[78.488569,20.535218],[78.488281,20.535214],[78.48828,20.535304],[78.488184,20.535303],[78.48818300000001,20.535393],[78.48808699999999,20.535392],[78.488085,20.535482],[78.48799,20.535481],[78.487987,20.535661],[78.487891,20.53566],[78.487875,20.536653],[78.48797,20.536654],[78.48796900000001,20.536744],[78.488544,20.536753]]],"type":"Polygon"}
 }

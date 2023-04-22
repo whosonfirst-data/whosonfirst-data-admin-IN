@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.82118,21.71258,83.82118,21.71258",
-    "geom:latitude":21.71258,
-    "geom:longitude":83.82118,
+    "geom:bbox":"83.82024,21.711951,83.821979,21.71313",
+    "geom:latitude":21.712561,
+    "geom:longitude":83.821212,
     "gn:admin1_code":"21",
     "gn:admin2_code":"371.0",
     "gn:asciiname":"Jamuna",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.80118,21.69258,83.84118,21.73258",
+    "ks:ks_id":"KS13E893FC092C4BECA4B67E7B14EC3BEC",
+    "ks:ks_name":"Jamuna",
+    "ks:ks_pop":622,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|450881",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_968381",
+    "lbl:latitude":21.712638,
+    "lbl:longitude":83.821212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.712638,
+    "mps:longitude":83.821212,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09af\u09ae\u09c1\u09a8\u09be \u09a8\u09a6\u09c0"
@@ -40,6 +50,9 @@
         "Jamuna"
     ],
     "name:ceb_x_preferred":[
+        "Jamuna"
+    ],
+    "name:eng_x_preferred":[
         "Jamuna"
     ],
     "name:new_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Jamuna"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10757390
+        "gn:id":10757390,
+        "ks:id":"KS13E893FC092C4BECA4B67E7B14EC3BEC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bb67a7e4858ee8c870f342ddbf9ad132",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"305d2cff3e2c821d7e698583889279d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1259341737,
-    "wof:lastmodified":1566710176,
+    "wof:lastmodified":1680676648,
     "wof:name":"Jamuna",
     "wof:parent_id":1108696135,
     "wof:placetype":"locality",
+    "wof:population":622,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.82118,
-    21.71258,
-    83.82118,
-    21.71258
+    83.82024,
+    21.711951,
+    83.821979,
+    21.71313
 ],
-  "geometry": {"coordinates":[83.82118,21.71258],"type":"Point"}
+  "geometry": {"coordinates":[[[83.821412,21.713122],[83.82141,21.713032],[83.821603,21.713029],[83.821601,21.712938],[83.821698,21.712937],[83.82169399999999,21.712756],[83.821791,21.712755],[83.821787,21.712574],[83.821884,21.712572],[83.821882,21.712482],[83.821979,21.712481],[83.82196999999999,21.712029],[83.82129399999999,21.712041],[83.821292,21.711951],[83.821196,21.711952],[83.821197,21.712042],[83.821004,21.712046],[83.821006,21.712136],[83.820909,21.712138],[83.820913,21.712318],[83.82071999999999,21.712321],[83.820722,21.712412],[83.820528,21.712415],[83.82053000000001,21.712505],[83.82024,21.71251],[83.82024199999999,21.7126],[83.820339,21.712599],[83.820341,21.712689],[83.820437,21.712687],[83.820441,21.712868],[83.820537,21.712866],[83.820539,21.712956],[83.82063599999999,21.712955],[83.820637,21.713045],[83.820927,21.71304],[83.82092900000001,21.71313],[83.821412,21.713122]]],"type":"Polygon"}
 }

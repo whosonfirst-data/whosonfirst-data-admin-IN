@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.06958,21.42966,79.06958,21.42966",
-    "geom:latitude":21.42966,
-    "geom:longitude":79.06958,
+    "geom:bbox":"79.068622,21.42931,79.069885,21.430217",
+    "geom:latitude":21.429715,
+    "geom:longitude":79.069204,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Mogra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.04958,21.40966,79.08958,21.44966",
+    "ks:ks_id":"KS143013E37AFC4A89B92F934F6DD681F9",
+    "ks:ks_name":"Mogra",
+    "ks:ks_pop":128,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|708448",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_879301",
+    "lbl:latitude":21.429676,
+    "lbl:longitude":79.069204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.429676,
+    "mps:longitude":79.069204,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u063a\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09cb\u0997\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Mogra"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a97\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06af\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10469688
+        "gn:id":10469688,
+        "ks:id":"KS143013E37AFC4A89B92F934F6DD681F9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"957c452d3918f82e477786fce9b4281f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fee49d0ffa6544c3a5889eb7b8d7d169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1259364751,
-    "wof:lastmodified":1576022460,
+    "wof:lastmodified":1680675849,
     "wof:name":"Mogra",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.06958,
-    21.42966,
-    79.06958,
-    21.42966
+    79.068622,
+    21.42931,
+    79.069885,
+    21.430217
 ],
-  "geometry": {"coordinates":[79.06958,21.42966],"type":"Point"}
+  "geometry": {"coordinates":[[[79.069103,21.430217],[79.069104,21.430126],[79.0692,21.430128],[79.069202,21.430037],[79.069491,21.430041],[79.069492,21.42995],[79.06958899999999,21.429951],[79.06959000000001,21.429861],[79.069783,21.429863],[79.069784,21.429773],[79.06988,21.429774],[79.069885,21.429413],[79.069789,21.429412],[79.06979,21.429322],[79.068825,21.42931],[79.06882299999999,21.429491],[79.068727,21.42949],[79.068725,21.42958],[79.068629,21.429579],[79.068622,21.430121],[79.068718,21.430122],[79.06871700000001,21.430212],[79.069103,21.430217]]],"type":"Polygon"}
 }
