@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.31792,26.10853,82.31792,26.10853",
-    "geom:latitude":26.10853,
-    "geom:longitude":82.31792,
+    "geom:bbox":"82.316994,26.107365,82.31879,26.110265",
+    "geom:latitude":26.108816,
+    "geom:longitude":82.317873,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Achalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.29792,26.08853,82.33792,26.12853",
+    "ks:ks_id":"KS859B02773D8348BBAC92C08EAFD68A89",
+    "ks:ks_name":"Achalpur",
+    "ks:ks_pop":518,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|10241",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1931449",
+    "lbl:latitude":26.108706,
+    "lbl:longitude":82.31789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.108706,
+    "mps:longitude":82.31789,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0985\u099a\u09b2\u09aa\u09c1\u09b0"
@@ -43,6 +53,9 @@
         "Achalpur"
     ],
     "name:ceb_x_preferred":[
+        "Achalpur"
+    ],
+    "name:eng_x_preferred":[
         "Achalpur"
     ],
     "name:fas_x_preferred":[
@@ -99,7 +112,13 @@
     "name:zho_x_preferred":[
         "\u963f\u6070\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10617569
+        "gn:id":10617569,
+        "ks:id":"KS859B02773D8348BBAC92C08EAFD68A89"
     },
     "wof:country":"IN",
-    "wof:geomhash":"18539d6fdb6f351d3f6e38eac46d297f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"defb7476595aad5f061e03b4b439bc98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1343801321,
-    "wof:lastmodified":1566688574,
+    "wof:lastmodified":1680657142,
     "wof:name":"Achalpur",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.31792,
-    26.10853,
-    82.31792,
-    26.10853
+    82.316994,
+    26.107365,
+    82.31879,
+    26.110265
 ],
-  "geometry": {"coordinates":[82.31792,26.10853],"type":"Point"}
+  "geometry": {"coordinates":[[[82.317707,26.110261],[82.317706,26.110171],[82.31790599999999,26.110169],[82.317905,26.110079],[82.318005,26.110078],[82.318004,26.109987],[82.31810400000001,26.109986],[82.31810299999999,26.109896],[82.318203,26.109895],[82.318202,26.109805],[82.318302,26.109804],[82.31829999999999,26.109624],[82.3184,26.109623],[82.31839600000001,26.109262],[82.318496,26.109261],[82.318494,26.10908],[82.318594,26.109079],[82.318592,26.108899],[82.318692,26.108898],[82.31869,26.108717],[82.31879000000001,26.108716],[82.318781,26.107904],[82.318681,26.107905],[82.318676,26.107544],[82.31857599999999,26.107545],[82.318575,26.107454],[82.31847500000001,26.107455],[82.31847399999999,26.107365],[82.31807499999999,26.107369],[82.318076,26.107459],[82.317976,26.10746],[82.317977,26.10755],[82.31777700000001,26.107552],[82.317778,26.107642],[82.317678,26.107643],[82.317679,26.107733],[82.31757899999999,26.107734],[82.31758000000001,26.107824],[82.31738,26.107826],[82.31738199999999,26.108007],[82.31728200000001,26.108008],[82.317284,26.108188],[82.317184,26.108189],[82.31719099999999,26.108821],[82.317091,26.108822],[82.317094,26.109093],[82.31699399999999,26.109094],[82.31700499999999,26.110087],[82.317105,26.110086],[82.317106,26.110176],[82.317306,26.110174],[82.317307,26.110265],[82.317707,26.110261]]],"type":"Polygon"}
 }

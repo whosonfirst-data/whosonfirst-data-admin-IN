@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.63427,26.64692,82.63427,26.64692",
-    "geom:latitude":26.64692,
-    "geom:longitude":82.63427,
+    "geom:bbox":"82.629158,26.643284,82.630677,26.644545",
+    "geom:latitude":26.643928,
+    "geom:longitude":82.629893,
     "gn:admin1_code":"36",
     "gn:admin2_code":"185.0",
     "gn:asciiname":"Lakhanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.61427,26.62692,82.65427,26.66692",
+    "ks:ks_id":"KSB2E5EBCFA17F4F78892F7DAAF0FD8728",
+    "ks:ks_name":"Lakhanpur",
+    "ks:ks_pop":320,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|614580",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1965262",
+    "lbl:latitude":26.643913,
+    "lbl:longitude":82.629908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.643913,
+    "mps:longitude":82.629908,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0647\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b2\u09be\u0996\u09be\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Lakhanpur"
     ],
     "name:fra_x_preferred":[
         "Lakhanpur"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0644\u06a9\u06be\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10620588
+        "gn:id":10620588,
+        "ks:id":"KSB2E5EBCFA17F4F78892F7DAAF0FD8728"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a28b9955d46e8121a559a5b46e367967",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88266af98d7718a52e0472f7dc1cee1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343810283,
-    "wof:lastmodified":1577749960,
+    "wof:lastmodified":1680657232,
     "wof:name":"Lakhanpur",
     "wof:parent_id":1108695863,
     "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.63427,
-    26.64692,
-    82.63427,
-    26.64692
+    82.629158,
+    26.643284,
+    82.630677,
+    26.644545
 ],
-  "geometry": {"coordinates":[82.63427,26.64692],"type":"Point"}
+  "geometry": {"coordinates":[[[82.630578,26.644539],[82.630577,26.644449],[82.63067700000001,26.644448],[82.630673,26.644177],[82.630573,26.644178],[82.63057000000001,26.643998],[82.63047,26.643999],[82.63046900000001,26.643908],[82.630368,26.64391],[82.630366,26.643729],[82.63026499999999,26.64373],[82.630264,26.64364],[82.630163,26.643641],[82.630162,26.643551],[82.630062,26.643552],[82.63006,26.643462],[82.62996,26.643463],[82.629959,26.643373],[82.629858,26.643374],[82.629857,26.643284],[82.62945499999999,26.643288],[82.629457,26.643378],[82.629356,26.64338],[82.629357,26.64347],[82.629257,26.643471],[82.62925799999999,26.643561],[82.629158,26.643562],[82.629164,26.644014],[82.629265,26.644012],[82.629266,26.644103],[82.62946700000001,26.6441],[82.629468,26.644191],[82.62966900000001,26.644188],[82.62967,26.644279],[82.62977100000001,26.644278],[82.629772,26.644368],[82.62997300000001,26.644365],[82.629974,26.644456],[82.63007500000001,26.644455],[82.630076,26.644545],[82.630578,26.644539]]],"type":"Polygon"}
 }

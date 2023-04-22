@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.57137,30.56981,76.57137,30.56981",
-    "geom:latitude":30.56981,
-    "geom:longitude":76.57137,
+    "geom:bbox":"76.569547,30.568467,76.573507,30.570845",
+    "geom:latitude":30.569644,
+    "geom:longitude":76.57124,
     "gn:admin1_code":"23",
     "gn:admin2_code":"40.0",
     "gn:asciiname":"Haripur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.55137,30.54981,76.59137,30.58981",
+    "ks:ks_id":"KS99A24F7DB35D4BFCB310D2F3DB4FCD16",
+    "ks:ks_name":"Haripur",
+    "ks:ks_pop":198,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0308000200742400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2643592",
+    "lbl:latitude":30.569701,
+    "lbl:longitude":76.57124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.569701,
+    "mps:longitude":76.57124,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u064a\u0628\u0648\u0631"
@@ -43,6 +53,9 @@
         "Haripur"
     ],
     "name:ceb_x_preferred":[
+        "Haripur"
+    ],
+    "name:eng_x_preferred":[
         "Haripur"
     ],
     "name:fra_x_preferred":[
@@ -90,7 +103,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0631\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -99,10 +118,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10734157
+        "gn:id":10734157,
+        "ks:id":"KS99A24F7DB35D4BFCB310D2F3DB4FCD16"
     },
     "wof:country":"IN",
-    "wof:geomhash":"91173f30c0cde0dcb667658b84ae4229",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"35edb80a7687e4968053bfd100b3cad6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +136,22 @@
         }
     ],
     "wof:id":1343814229,
-    "wof:lastmodified":1577749955,
+    "wof:lastmodified":1680657207,
     "wof:name":"Haripur",
     "wof:parent_id":890511077,
     "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.57137,
-    30.56981,
-    76.57137,
-    30.56981
+    76.569547,
+    30.568467,
+    76.573507,
+    30.570845
 ],
-  "geometry": {"coordinates":[76.57137,30.56981],"type":"Point"}
+  "geometry": {"coordinates":[[[76.572594,30.570722],[76.572588,30.570361],[76.572484,30.570363],[76.572481,30.570182],[76.572377,30.570183],[76.572366,30.569552],[76.57247099999999,30.569551],[76.572469,30.569461],[76.57257300000001,30.569459],[76.57257199999999,30.569369],[76.572676,30.569368],[76.572675,30.569278],[76.57340499999999,30.569269],[76.573403,30.569179],[76.57350700000001,30.569177],[76.573504,30.568997],[76.57340000000001,30.568998],[76.57339899999999,30.568908],[76.573294,30.568909],[76.57329300000001,30.568819],[76.57308500000001,30.568822],[76.573083,30.568731],[76.572979,30.568733],[76.57297699999999,30.568642],[76.57276899999999,30.568645],[76.572767,30.568555],[76.572559,30.568557],[76.572557,30.568467],[76.571724,30.568477],[76.571725,30.568567],[76.570474,30.568582],[76.570476,30.568673],[76.569954,30.568679],[76.569956,30.568769],[76.569852,30.56877],[76.56985299999999,30.568861],[76.569749,30.568862],[76.56975,30.568952],[76.56964600000001,30.568953],[76.569652,30.569314],[76.569547,30.569315],[76.569562,30.570217],[76.569666,30.570216],[76.569671,30.570487],[76.56977500000001,30.570485],[76.569778,30.570666],[76.56988200000001,30.570665],[76.569885,30.570845],[76.572491,30.570814],[76.57249,30.570723],[76.572594,30.570722]]],"type":"Polygon"}
 }

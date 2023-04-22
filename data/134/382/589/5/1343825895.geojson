@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.1396,26.45663,76.1396,26.45663",
-    "geom:latitude":26.45663,
-    "geom:longitude":76.1396,
+    "geom:bbox":"76.142706,26.457805,76.144114,26.458711",
+    "geom:latitude":26.458241,
+    "geom:longitude":76.143448,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"120.0",
     "gn:asciiname":"Kotra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.1196,26.43663,76.1596,26.47663",
+    "ks:ks_id":"KS3687D4665A5C485EA8F7D9DC862C5ED8",
+    "ks:ks_name":"Kotra",
+    "ks:ks_pop":574,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|587101",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1686342",
+    "lbl:latitude":26.458258,
+    "lbl:longitude":76.143505,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.458258,
+    "mps:longitude":76.143505,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0995\u09cb\u099f\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Kotra"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0679\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10190978
+        "gn:id":10190978,
+        "ks:id":"KS3687D4665A5C485EA8F7D9DC862C5ED8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a25efe15018abd21df8e827c4448b9dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ca4eb7c7c65291e2d36b1f0d96e0280",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1343825895,
-    "wof:lastmodified":1577749804,
+    "wof:lastmodified":1680656311,
     "wof:name":"Kotra",
     "wof:parent_id":890511571,
     "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.1396,
-    26.45663,
-    76.1396,
-    26.45663
+    76.142706,
+    26.457805,
+    76.144114,
+    26.458711
 ],
-  "geometry": {"coordinates":[76.1396,26.45663],"type":"Point"}
+  "geometry": {"coordinates":[[[76.143816,26.458707],[76.143815,26.458617],[76.143916,26.458616],[76.14391500000001,26.458526],[76.144015,26.458525],[76.144013,26.458344],[76.144114,26.458343],[76.14411200000001,26.458163],[76.144012,26.458164],[76.14401100000001,26.458073],[76.14391000000001,26.458074],[76.14391000000001,26.457984],[76.143809,26.457985],[76.14380800000001,26.457894],[76.143708,26.457895],[76.14370700000001,26.457805],[76.143306,26.457808],[76.14330699999999,26.457898],[76.142805,26.457902],[76.14280599999999,26.457993],[76.142706,26.457994],[76.142708,26.458174],[76.142808,26.458173],[76.142809,26.458264],[76.142909,26.458263],[76.14291,26.458353],[76.14301,26.458352],[76.143011,26.458442],[76.143112,26.458442],[76.143113,26.458532],[76.143213,26.458531],[76.143214,26.458621],[76.143314,26.458621],[76.143315,26.458711],[76.143816,26.458707]]],"type":"Polygon"}
 }

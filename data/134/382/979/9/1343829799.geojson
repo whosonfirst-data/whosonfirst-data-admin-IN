@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.58196,21.3221,78.58196,21.3221",
-    "geom:latitude":21.3221,
-    "geom:longitude":78.58196,
+    "geom:bbox":"78.580039,21.320252,78.583003,21.322678",
+    "geom:latitude":21.321494,
+    "geom:longitude":78.581496,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Karla",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.56196,21.3021,78.60196,21.3421",
+    "ks:ks_alt_nam":"K\u0101rla",
+    "ks:ks_id":"KS3FC973F76D4D475CAF8DADA83AD47AC0",
+    "ks:ks_name":"Karla",
+    "ks:ks_pop":385,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|515156",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_681407",
+    "lbl:latitude":21.32133,
+    "lbl:longitude":78.581376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.32133,
+    "mps:longitude":78.581376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karla"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Karla"
+    ],
+    "name:eng_x_preferred":[
+        "Karla"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101rla"
     ],
     "name:est_x_preferred":[
         "Karla"
@@ -72,7 +89,13 @@
     "name:vol_x_preferred":[
         "Karla"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213668
+        "gn:id":10213668,
+        "ks:id":"KS3FC973F76D4D475CAF8DADA83AD47AC0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"485413f9093048c74749f6dc011f72c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cd8567431a517cfc35a256f359e27530",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1343829799,
-    "wof:lastmodified":1566687031,
+    "wof:lastmodified":1680656309,
     "wof:name":"Karla",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.58196,
-    21.3221,
-    78.58196,
-    21.3221
+    78.580039,
+    21.320252,
+    78.583003,
+    21.322678
 ],
-  "geometry": {"coordinates":[78.58196,21.3221],"type":"Point"}
+  "geometry": {"coordinates":[[[78.582734,21.322678],[78.582734,21.322408],[78.58300300000001,21.322408],[78.58300300000001,21.3216],[78.582464,21.3216],[78.582464,21.321061],[78.582195,21.321061],[78.582195,21.320522],[78.581656,21.320522],[78.581656,21.320252],[78.58138599999999,21.320252],[78.58138599999999,21.320522],[78.580578,21.320522],[78.580578,21.320252],[78.580308,21.320252],[78.580308,21.320522],[78.580039,21.320522],[78.580039,21.32133],[78.580308,21.32133],[78.580308,21.322139],[78.58138599999999,21.322139],[78.58138599999999,21.322408],[78.581656,21.322408],[78.581656,21.322678],[78.582734,21.322678]]],"type":"Polygon"}
 }
