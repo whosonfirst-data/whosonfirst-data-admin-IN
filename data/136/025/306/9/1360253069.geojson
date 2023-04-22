@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.68054,27.35914,76.68054,27.35914",
-    "geom:latitude":27.35914,
-    "geom:longitude":76.68054,
+    "geom:bbox":"76.680738,27.358113,76.681665,27.35946",
+    "geom:latitude":27.358734,
+    "geom:longitude":76.681166,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"104.0",
     "gn:asciiname":"Satana",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.66054,27.33914,76.70054,27.37914",
+    "ks:ks_alt_nam":"Sat\u0101na",
+    "ks:ks_id":"KSB7F890CCB2064E3BB69574422EEC8DF9",
+    "ks:ks_name":"Satana",
+    "ks:ks_pop":887,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|962267",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1712714",
+    "lbl:latitude":27.358581,
+    "lbl:longitude":76.681019,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.358581,
+    "mps:longitude":76.681019,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Satana"
+    ],
+    "name:eng_x_preferred":[
+        "Satana"
+    ],
+    "name:eng_x_variant":[
+        "Sat\u0101na"
     ],
     "name:fra_x_preferred":[
         "Satana"
@@ -39,7 +56,13 @@
     "name:ita_x_preferred":[
         "Satana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10166001
+        "gn:id":10166001,
+        "ks:id":"KSB7F890CCB2064E3BB69574422EEC8DF9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"48da15ecac1a1b6f838dd72e7d6a103a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6485d4d6df4a44cdcdc46044f7f4bb32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1360253069,
-    "wof:lastmodified":1566703033,
+    "wof:lastmodified":1680669522,
     "wof:name":"Satana",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
+    "wof:population":887,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.68054000000002,
-    27.35914,
-    76.68054000000002,
-    27.35914
+    76.680738,
+    27.358113,
+    76.681665,
+    27.35946
 ],
-  "geometry": {"coordinates":[76.68054000000002,27.35914],"type":"Point"}
+  "geometry": {"coordinates":[[[76.681665,27.359458],[76.681664,27.359368],[76.681563,27.359369],[76.681556,27.358918],[76.681455,27.358919],[76.68145,27.358558],[76.681349,27.358559],[76.681347,27.358469],[76.681246,27.35847],[76.68124299999999,27.35829],[76.68114199999999,27.358291],[76.681141,27.358201],[76.680939,27.358203],[76.680937,27.358113],[76.680836,27.358114],[76.68083900000001,27.358294],[76.68073800000001,27.358296],[76.680746,27.358837],[76.68115,27.358832],[76.68115299999999,27.359013],[76.681254,27.359012],[76.681258,27.359282],[76.681359,27.359281],[76.681361,27.359371],[76.681462,27.35937],[76.68146299999999,27.35946],[76.681665,27.359458]]],"type":"Polygon"}
 }
