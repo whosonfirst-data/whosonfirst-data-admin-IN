@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.65521,22.27752,79.65521,22.27752",
-    "geom:latitude":22.27752,
-    "geom:longitude":79.65521,
+    "geom:bbox":"79.654674,22.276916,79.656034,22.278005",
+    "geom:latitude":22.277427,
+    "geom:longitude":79.655532,
     "gn:admin1_code":"35",
     "gn:admin2_code":"456.0",
     "gn:asciiname":"Kanchna",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.63521,22.25752,79.67521,22.29752",
+    "ks:ks_alt_nam":"K\u0101nchna",
+    "ks:ks_id":"KSF89843AF79024C178308E3FC7B9E4F33",
+    "ks:ks_name":"Kanchna",
+    "ks:ks_pop":242,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|500555",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_980322",
+    "lbl:latitude":22.277305,
+    "lbl:longitude":79.655578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.277305,
+    "mps:longitude":79.655578,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kanchna"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101nchna"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10464817
+        "gn:id":10464817,
+        "ks:id":"KSF89843AF79024C178308E3FC7B9E4F33"
     },
     "wof:country":"IN",
-    "wof:geomhash":"95afb3c65d0ba348f55bf865c082b46f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"066be845befc4f22406fec125e250d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1326870547,
-    "wof:lastmodified":1566682011,
+    "wof:lastmodified":1680653928,
     "wof:name":"Kanchna",
     "wof:parent_id":890511127,
     "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.65521,
-    22.27752000000001,
-    79.65521,
-    22.27752000000001
+    79.654674,
+    22.276916,
+    79.656034,
+    22.278005
 ],
-  "geometry": {"coordinates":[79.65521,22.27752000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.65593,22.278005],[79.655931,22.277824],[79.656029,22.277825],[79.65603400000001,22.277283],[79.65593699999999,22.277282],[79.65593800000001,22.277101],[79.655841,22.277101],[79.65584200000001,22.27701],[79.655745,22.27701],[79.65574599999999,22.276919],[79.65535800000001,22.276916],[79.655357,22.277006],[79.65526,22.277006],[79.655259,22.277096],[79.654774,22.277092],[79.65477300000001,22.277182],[79.65467599999999,22.277181],[79.654674,22.277362],[79.65486799999999,22.277364],[79.65486900000001,22.277273],[79.655063,22.277275],[79.655062,22.277365],[79.655159,22.277366],[79.655159,22.277456],[79.65525599999999,22.277457],[79.655255,22.277547],[79.65535199999999,22.277548],[79.655348,22.277909],[79.655445,22.27791],[79.655445,22.278001],[79.65593,22.278005]]],"type":"Polygon"}
 }

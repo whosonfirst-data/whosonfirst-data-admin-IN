@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.6269,20.5771,78.6269,20.5771",
-    "geom:latitude":20.5771,
-    "geom:longitude":78.6269,
+    "geom:bbox":"78.625769,20.576273,78.628257,20.577995",
+    "geom:latitude":20.577167,
+    "geom:longitude":78.627032,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Aloda",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.6069,20.5571,78.6469,20.5971",
+    "ks:ks_alt_nam":"\u0100loda",
+    "ks:ks_id":"KS552BC7669E934646A07C7D24010EB2C9",
+    "ks:ks_name":"Aloda",
+    "ks:ks_pop":474,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|26871",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871982",
+    "lbl:latitude":20.577174,
+    "lbl:longitude":78.627056,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.577174,
+    "mps:longitude":78.627056,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u043e\u0434\u0430"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c4\u03bb\u03b9\u03bb\u03ac\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Aloda"
+    ],
+    "name:eng_x_variant":[
+        "\u0100loda"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u062f\u0627"
@@ -51,7 +68,13 @@
     "name:urd_x_preferred":[
         "\u0622\u0644\u0648\u062f\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453853
+        "gn:id":10453853,
+        "ks:id":"KS552BC7669E934646A07C7D24010EB2C9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"19df8e61fda70283711f0c113a3a578f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2537ec44fbfb17ad8a7b0e25b5329e20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +101,22 @@
         }
     ],
     "wof:id":1326899635,
-    "wof:lastmodified":1566681877,
+    "wof:lastmodified":1680653874,
     "wof:name":"Aloda",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":474,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.6269,
-    20.5771,
-    78.6269,
-    20.5771
+    78.625769,
+    20.576273,
+    78.628257,
+    20.577995
 ],
-  "geometry": {"coordinates":[78.62690000000001,20.5771],"type":"Point"}
+  "geometry": {"coordinates":[[[78.627672,20.577995],[78.627673,20.577905],[78.627961,20.577909],[78.627962,20.577818],[78.628058,20.57782],[78.62806,20.577729],[78.62815500000001,20.577731],[78.62815999999999,20.57746],[78.62825599999999,20.577461],[78.628257,20.577371],[78.62816100000001,20.57737],[78.628168,20.576918],[78.628072,20.576917],[78.628074,20.576827],[78.627978,20.576825],[78.62797999999999,20.576645],[78.62788500000001,20.576643],[78.627886,20.576553],[78.62779,20.576552],[78.627792,20.576462],[78.6276,20.576459],[78.627601,20.576369],[78.627409,20.576366],[78.627411,20.576276],[78.627219,20.576273],[78.627218,20.576363],[78.626738,20.576357],[78.62673700000001,20.576447],[78.62616199999999,20.576439],[78.62616,20.576529],[78.625969,20.576527],[78.625967,20.576617],[78.625871,20.576616],[78.62587000000001,20.576706],[78.62577400000001,20.576705],[78.62576900000001,20.577066],[78.62586400000001,20.577067],[78.625862,20.577248],[78.625957,20.577249],[78.625955,20.57743],[78.626051,20.577431],[78.62604899999999,20.577521],[78.62614499999999,20.577523],[78.626142,20.577703],[78.626238,20.577704],[78.626237,20.577795],[78.626333,20.577796],[78.62633099999999,20.577886],[78.62652300000001,20.577889],[78.626521,20.577979],[78.627672,20.577995]]],"type":"Polygon"}
 }

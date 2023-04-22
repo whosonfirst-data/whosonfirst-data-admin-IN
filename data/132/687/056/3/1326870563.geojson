@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.16501,24.24668,77.16501,24.24668",
-    "geom:latitude":24.24668,
-    "geom:longitude":77.16501,
+    "geom:bbox":"77.164208,24.246016,77.166277,24.247477",
+    "geom:latitude":24.246794,
+    "geom:longitude":77.165276,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Aligarh",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.14501,24.22668,77.18501,24.26668",
+    "ks:ks_alt_nam":"Al\u012bgarh",
+    "ks:ks_id":"KS101BDE7B4AE946D0980A6597A41AC6BD",
+    "ks:ks_name":"Aligarh",
+    "ks:ks_pop":167,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|25427",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_910579",
+    "lbl:latitude":24.246789,
+    "lbl:longitude":77.165276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.246789,
+    "mps:longitude":77.165276,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0644\u064a\u0643\u0631\u0647"
@@ -65,6 +76,12 @@
     ],
     "name:deu_x_preferred":[
         "Aligarh"
+    ],
+    "name:eng_x_preferred":[
+        "Aligarh"
+    ],
+    "name:eng_x_variant":[
+        "Al\u012bgarh"
     ],
     "name:epo_x_preferred":[
         "Aligarh"
@@ -219,7 +236,13 @@
     "name:zho_x_preferred":[
         "\u963f\u91cc\u683c\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -228,10 +251,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10478588
+        "gn:id":10478588,
+        "ks:id":"KS101BDE7B4AE946D0980A6597A41AC6BD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"234162705b0de993d63f294b6277e125",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ae7e77f9bbe02d6bb706ce9beb03ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,20 +269,22 @@
         }
     ],
     "wof:id":1326870563,
-    "wof:lastmodified":1636505210,
+    "wof:lastmodified":1680653961,
     "wof:name":"Aligarh",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.16501,
-    24.24668,
-    77.16501,
-    24.24668
+    77.164208,
+    24.246016,
+    77.166277,
+    24.247477
 ],
-  "geometry": {"coordinates":[77.16501,24.24668],"type":"Point"}
+  "geometry": {"coordinates":[[[77.16540000000001,24.247465],[77.165398,24.247374],[77.165694,24.24737],[77.16569200000001,24.24728],[77.165987,24.247276],[77.165986,24.247186],[77.166084,24.247184],[77.166083,24.247094],[77.16618099999999,24.247092],[77.166178,24.246912],[77.16627699999999,24.246911],[77.166269,24.246459],[77.16616999999999,24.246461],[77.166167,24.24628],[77.16606899999999,24.246282],[77.166067,24.246191],[77.165969,24.246193],[77.16596699999999,24.246102],[77.165672,24.246107],[77.165671,24.246016],[77.165277,24.246022],[77.165278,24.246112],[77.165082,24.246115],[77.165083,24.246205],[77.164886,24.246208],[77.164888,24.246298],[77.164789,24.2463],[77.16479099999999,24.24639],[77.164692,24.246391],[77.164694,24.246482],[77.164497,24.246485],[77.16449900000001,24.246575],[77.1644,24.246576],[77.164402,24.246666],[77.164303,24.246668],[77.164306,24.246848],[77.164208,24.24685],[77.164214,24.247211],[77.164312,24.247209],[77.164314,24.2473],[77.164412,24.247298],[77.16441399999999,24.247388],[77.164512,24.247387],[77.164514,24.247477],[77.16540000000001,24.247465]]],"type":"Polygon"}
 }

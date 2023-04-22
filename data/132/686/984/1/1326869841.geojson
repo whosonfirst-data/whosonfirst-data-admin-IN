@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.77864,25.94853,81.77864,25.94853",
-    "geom:latitude":25.94853,
-    "geom:longitude":81.77864,
+    "geom:bbox":"81.778592,25.944874,81.780086,25.946686",
+    "geom:latitude":25.945783,
+    "geom:longitude":81.779295,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Shikohabad",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.75864,25.92853,81.79864,25.96853",
+    "ks:ks_id":"KSB6C9AD728DE24C119B69965DC5783049",
+    "ks:ks_name":"Shikohabad",
+    "ks:ks_pop":733,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|982063",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1927074",
+    "lbl:latitude":25.945938,
+    "lbl:longitude":81.779171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.945938,
+    "mps:longitude":81.779171,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0936\u093f\u0915\u094b\u0939\u093e\u092c\u093e\u0926"
@@ -40,6 +50,9 @@
         "Shikoh\u0101b\u0101d"
     ],
     "name:deu_x_preferred":[
+        "Shikohabad"
+    ],
+    "name:eng_x_preferred":[
         "Shikohabad"
     ],
     "name:fas_x_preferred":[
@@ -87,7 +100,13 @@
     "name:zho_x_preferred":[
         "\u65af\u5e0c\u79d1\u54c8\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10683186
+        "gn:id":10683186,
+        "ks:id":"KSB6C9AD728DE24C119B69965DC5783049"
     },
     "wof:country":"IN",
-    "wof:geomhash":"29f9430f103209280fe92cee29ef3dcb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7396afc333717e817072247a591637d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +133,22 @@
         }
     ],
     "wof:id":1326869841,
-    "wof:lastmodified":1566681649,
+    "wof:lastmodified":1680653788,
     "wof:name":"Shikohabad",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.77864,
-    25.94853,
-    81.77864,
-    25.94853
+    81.778592,
+    25.944874,
+    81.780086,
+    25.946686
 ],
-  "geometry": {"coordinates":[81.77864,25.94853],"type":"Point"}
+  "geometry": {"coordinates":[[[81.778997,25.946684],[81.77899600000001,25.946594],[81.779196,25.946593],[81.779196,25.946503],[81.77939499999999,25.946502],[81.77939499999999,25.946411],[81.779495,25.946411],[81.779494,25.946321],[81.779594,25.94632],[81.77959300000001,25.94623],[81.77969299999999,25.946229],[81.779691,25.945958],[81.779791,25.945958],[81.77978899999999,25.945597],[81.779889,25.945596],[81.779888,25.945416],[81.77998700000001,25.945415],[81.77998599999999,25.945234],[81.780086,25.945234],[81.780085,25.945053],[81.779985,25.945054],[81.779984,25.944964],[81.77988499999999,25.944964],[81.779884,25.944874],[81.779584,25.944875],[81.779585,25.944966],[81.779385,25.944967],[81.779386,25.945147],[81.779287,25.945148],[81.779287,25.945238],[81.77918699999999,25.945239],[81.779188,25.945419],[81.77888900000001,25.945421],[81.77888900000001,25.945511],[81.77879,25.945512],[81.77879,25.945602],[81.77869,25.945603],[81.77869099999999,25.945783],[81.778592,25.945784],[81.778595,25.946235],[81.778694,25.946235],[81.77869699999999,25.946596],[81.778797,25.946595],[81.778797,25.946686],[81.778997,25.946684]]],"type":"Polygon"}
 }

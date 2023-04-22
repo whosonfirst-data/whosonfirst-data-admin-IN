@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.51035,28.44424,78.51035,28.44424",
-    "geom:latitude":28.44424,
-    "geom:longitude":78.51035,
+    "geom:bbox":"78.508885,28.443431,78.510222,28.444525",
+    "geom:latitude":28.443973,
+    "geom:longitude":78.509535,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"135.0",
     "gn:asciiname":"Birsinghpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.49035,28.42424,78.53035,28.46424",
+    "ks:ks_alt_nam":"B\u012brsinghpur",
+    "ks:ks_id":"KS3DC99B19DB5B4C2D863744917B82CD18",
+    "ks:ks_name":"Birsinghpur",
+    "ks:ks_pop":140,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13044202",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1815675",
+    "lbl:latitude":28.443979,
+    "lbl:longitude":78.509548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.443979,
+    "mps:longitude":78.509548,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c0\u09b0\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c0\u09b0\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Birsinghpur"
+    ],
+    "name:eng_x_variant":[
+        "B\u012brsinghpur"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0940\u0930\u0938\u093f\u0902\u0939\u092a\u0941\u0930"
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u6bd4\u5c14\u8f9b\u683c\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10587042
+        "gn:id":10587042,
+        "ks:id":"KS3DC99B19DB5B4C2D863744917B82CD18"
     },
     "wof:country":"IN",
-    "wof:geomhash":"181f00d27e99e2f2b1c3ed6ee5a5dfa5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6861000cdd4facb8d0c4086b19004e62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1326873667,
-    "wof:lastmodified":1566682043,
+    "wof:lastmodified":1680653942,
     "wof:name":"Birsinghpur",
     "wof:parent_id":1108695795,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.51035,
-    28.44424,
-    78.51035,
-    28.44424
+    78.508885,
+    28.443431,
+    78.510222,
+    28.444525
 ],
-  "geometry": {"coordinates":[78.51035,28.44424],"type":"Point"}
+  "geometry": {"coordinates":[[[78.50979700000001,28.444525],[78.509799,28.444434],[78.510004,28.444438],[78.510006,28.444348],[78.510108,28.44435],[78.51011,28.44426],[78.510212,28.444261],[78.510222,28.443811],[78.51012,28.443809],[78.510122,28.443718],[78.51002,28.443717],[78.510023,28.443626],[78.50992100000001,28.443625],[78.509923,28.443534],[78.509821,28.443533],[78.509823,28.443442],[78.50921099999999,28.443431],[78.509208,28.443521],[78.509004,28.443518],[78.509002,28.443608],[78.5089,28.443606],[78.50888500000001,28.444237],[78.508987,28.444239],[78.508985,28.444329],[78.50918900000001,28.444333],[78.509187,28.444423],[78.509289,28.444425],[78.509287,28.444515],[78.50979700000001,28.444525]]],"type":"Polygon"}
 }
