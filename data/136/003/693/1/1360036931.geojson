@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.2552,20.76801,82.2552,20.76801",
-    "geom:latitude":20.76801,
-    "geom:longitude":82.2552,
+    "geom:bbox":"82.254304,20.767408,82.256131,20.768769",
+    "geom:latitude":20.768029,
+    "geom:longitude":82.255269,
     "gn:admin1_code":"37",
     "gn:admin2_code":"410.0",
     "gn:asciiname":"Raksi",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.2352,20.74801,82.2752,20.78801",
+    "ks:ks_id":"KS17E60460B2114ABFB3377D88CCE38BF8",
+    "ks:ks_name":"Raksi",
+    "ks:ks_pop":238,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1168272",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_949333",
+    "lbl:latitude":20.76809,
+    "lbl:longitude":82.255287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.76809,
+    "mps:longitude":82.255287,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:dty_x_preferred":[
         "\u0930\u0915\u094d\u0938\u0940"
+    ],
+    "name:eng_x_preferred":[
+        "Raksi"
     ],
     "name:fra_x_preferred":[
         "Raksi"
@@ -54,7 +67,13 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0441\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10736787
+        "gn:id":10736787,
+        "ks:id":"KS17E60460B2114ABFB3377D88CCE38BF8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"79c88c89738cea1dd175c123f636381e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd055d862353ce99da0318ffe1729638",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1360036931,
-    "wof:lastmodified":1566703533,
+    "wof:lastmodified":1680669636,
     "wof:name":"Raksi",
     "wof:parent_id":1108696189,
     "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.2552,
-    20.76801,
-    82.2552,
-    20.76801
+    82.254304,
+    20.767408,
+    82.256131,
+    20.768769
 ],
-  "geometry": {"coordinates":[82.2552,20.76801],"type":"Point"}
+  "geometry": {"coordinates":[[[82.255178,20.768769],[82.255177,20.768678],[82.255465,20.768676],[82.255464,20.768586],[82.255656,20.768584],[82.255656,20.768494],[82.255752,20.768493],[82.255751,20.768403],[82.255847,20.768402],[82.25584600000001,20.768312],[82.255942,20.768311],[82.25594100000001,20.768131],[82.25603700000001,20.76813],[82.256035,20.767949],[82.256131,20.767948],[82.256129,20.767677],[82.256033,20.767678],[82.256032,20.767497],[82.25593600000001,20.767498],[82.25593499999999,20.767408],[82.255455,20.767411],[82.255455,20.767502],[82.255167,20.767504],[82.255168,20.767594],[82.254688,20.767598],[82.254689,20.767688],[82.254304,20.767691],[82.254306,20.767871],[82.254402,20.767871],[82.254403,20.768051],[82.254499,20.768051],[82.254501,20.768231],[82.254597,20.768231],[82.254598,20.768411],[82.254694,20.768411],[82.254696,20.768591],[82.25488799999999,20.76859],[82.25488900000001,20.76868],[82.255081,20.768679],[82.255082,20.768769],[82.255178,20.768769]]],"type":"Polygon"}
 }

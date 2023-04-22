@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.93894,13.20915,77.93894,13.20915",
-    "geom:latitude":13.20915,
-    "geom:longitude":77.93894,
+    "geom:bbox":"77.938454,13.208203,77.94068,13.210371",
+    "geom:latitude":13.20906,
+    "geom:longitude":77.93977,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"583.0",
     "gn:asciiname":"Shettihalli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.91894,13.18915,77.95894,13.22915",
+    "ks:ks_id":"KSB09022F2CBB14E759ECB442C5747222D",
+    "ks:ks_name":"K Settihalli",
+    "ks:ks_pop":228,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|474920",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_314736",
+    "lbl:latitude":13.2089,
+    "lbl:longitude":77.940014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.2089,
+    "mps:longitude":77.940014,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u0627\u0647\u0627\u0644\u064a"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b6\u09c7\u099f\u09cd\u099f\u09bf\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "K Settihalli"
+    ],
+    "name:eng_x_variant":[
+        "Shettihalli"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0a9f\u0acd\u0a9f\u0ac0\u0ab9\u0ab2\u0acd\u0ab2\u0ac0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0679\u06cc \u06c1\u0644\u0651\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10855055
+        "gn:id":10855055,
+        "ks:id":"KSB09022F2CBB14E759ECB442C5747222D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0fb88aba33b719fbd21036864ad15f57",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"510c1c1770aa0c3ce410d7d138f5084c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1360050531,
-    "wof:lastmodified":1577752332,
-    "wof:name":"Shettihalli",
+    "wof:lastmodified":1680669699,
+    "wof:name":"K Settihalli",
     "wof:parent_id":890503869,
     "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.93894,
-    13.20915,
-    77.93894,
-    13.20915
+    77.938454,
+    13.208203,
+    77.94068,
+    13.210371
 ],
-  "geometry": {"coordinates":[77.93894,13.20915],"type":"Point"}
+  "geometry": {"coordinates":[[[77.94040699999999,13.210369],[77.940406,13.210279],[77.94059,13.210277],[77.94058800000001,13.210096],[77.94068,13.210095],[77.940674,13.209553],[77.94058099999999,13.209554],[77.940577,13.209193],[77.940669,13.209192],[77.94065999999999,13.208379],[77.94047500000001,13.208381],[77.94047399999999,13.208291],[77.94029,13.208293],[77.94028900000001,13.208203],[77.93908999999999,13.208217],[77.939092,13.208307],[77.938907,13.208309],[77.938908,13.208399],[77.938816,13.2084],[77.938817,13.208491],[77.93872500000001,13.208492],[77.938726,13.208582],[77.93863399999999,13.208583],[77.938636,13.208764],[77.93854399999999,13.208765],[77.938546,13.208945],[77.93845399999999,13.208947],[77.938457,13.209217],[77.93854899999999,13.209216],[77.93855000000001,13.209307],[77.938643,13.209306],[77.938644,13.209396],[77.939565,13.209385],[77.939566,13.209476],[77.939751,13.209474],[77.939753,13.209654],[77.93984500000001,13.209653],[77.939848,13.209924],[77.939941,13.209923],[77.939943,13.210104],[77.94003499999999,13.210102],[77.94003600000001,13.210193],[77.940128,13.210192],[77.940129,13.210282],[77.94022099999999,13.210281],[77.940223,13.210371],[77.94040699999999,13.210369]]],"type":"Polygon"}
 }

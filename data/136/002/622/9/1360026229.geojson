@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.81927,24.58848,84.81927,24.58848",
-    "geom:latitude":24.58848,
-    "geom:longitude":84.81927,
+    "geom:bbox":"84.818838,24.587874,84.820186,24.589491",
+    "geom:latitude":24.588702,
+    "geom:longitude":84.819499,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Kishunpur",
@@ -24,14 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.79927,24.56848,84.83927,24.60848",
+    "ks:ks_alt_nam":"KISHUNPUR",
+    "ks:ks_id":"KS24299A2834004CB49615A8A9EA0F26DC",
+    "ks:ks_name":"Kishunpur",
+    "ks:ks_pop":260,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1362935",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1048235",
+    "lbl:latitude":24.588798,
+    "lbl:longitude":84.819512,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.588798,
+    "mps:longitude":84.819512,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09bf\u09b6\u09c1\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kishunpur"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0936\u0941\u0928\u092a\u0941\u0930"
@@ -63,7 +77,13 @@
     "name:zho_x_preferred":[
         "\u57fa\u65af\u6d2a\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10981096
+        "gn:id":10981096,
+        "ks:id":"KS24299A2834004CB49615A8A9EA0F26DC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c0e5a172183d326150c8a8b844e1d7f5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb1186757f53992cf4b491cce837aa93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +110,22 @@
         }
     ],
     "wof:id":1360026229,
-    "wof:lastmodified":1566703899,
+    "wof:lastmodified":1680669760,
     "wof:name":"Kishunpur",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.81926999999997,
-    24.58848,
-    84.81926999999997,
-    24.58848
+    84.818838,
+    24.587874,
+    84.820186,
+    24.589491
 ],
-  "geometry": {"coordinates":[84.81926999999997,24.58848],"type":"Point"}
+  "geometry": {"coordinates":[[[84.819647,24.587874],[84.818838,24.587874],[84.818838,24.588682],[84.819108,24.588682],[84.819108,24.589221],[84.819377,24.589221],[84.819377,24.589491],[84.82018600000001,24.589491],[84.82018600000001,24.588682],[84.81991600000001,24.588682],[84.81991600000001,24.588413],[84.819647,24.588413],[84.819647,24.587874]]],"type":"Polygon"}
 }
