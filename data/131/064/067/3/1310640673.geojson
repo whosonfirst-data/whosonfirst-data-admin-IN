@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.53403,26.01587,82.53403,26.01587",
-    "geom:latitude":26.01587,
-    "geom:longitude":82.53403,
+    "geom:bbox":"82.533367,26.015313,82.534578,26.016761",
+    "geom:latitude":26.016025,
+    "geom:longitude":82.533997,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Fatehgarh",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.51403,25.99587,82.55403,26.03587",
+    "ks:ks_id":"KSFF6DB1E776A148C28C2E64175A411600",
+    "ks:ks_name":"Fatehgarh",
+    "ks:ks_source_id":"N|13080557",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1929026",
+    "lbl:latitude":26.016039,
+    "lbl:longitude":82.533998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.016039,
+    "mps:longitude":82.533998,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u062d \u062c\u0627\u0631\u0647"
@@ -52,6 +60,9 @@
         "Fatehgarh"
     ],
     "name:deu_x_preferred":[
+        "Fatehgarh"
+    ],
+    "name:eng_x_preferred":[
         "Fatehgarh"
     ],
     "name:fra_x_preferred":[
@@ -126,7 +137,11 @@
     "name:zho_x_preferred":[
         "\u6cd5\u6cf0\u8d6b\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +150,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10622578
+        "gn:id":10622578,
+        "ks:id":"KSFF6DB1E776A148C28C2E64175A411600"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4f2cad569dcca714062e90331d3715a0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c7101cff9fcf61f7fb76ada8ab1c3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +168,7 @@
         }
     ],
     "wof:id":1310640673,
-    "wof:lastmodified":1577751724,
+    "wof:lastmodified":1680668549,
     "wof:name":"Fatehgarh",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
@@ -159,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.53403,
-    26.01587,
-    82.53403,
-    26.01587
+    82.533367,
+    26.015313,
+    82.534578,
+    26.016761
 ],
-  "geometry": {"coordinates":[82.53403,26.01587],"type":"Point"}
+  "geometry": {"coordinates":[[[82.53428099999999,26.016758],[82.53428,26.016667],[82.53448,26.016665],[82.534479,26.016575],[82.534578,26.016574],[82.534569,26.015852],[82.534469,26.015853],[82.53446599999999,26.015582],[82.53436600000001,26.015583],[82.534363,26.015403],[82.53426399999999,26.015404],[82.534262,26.015313],[82.53376299999999,26.015319],[82.53376400000001,26.015409],[82.533664,26.01541],[82.533665,26.0155],[82.533466,26.015502],[82.533467,26.015593],[82.533367,26.015594],[82.53337500000001,26.016226],[82.533475,26.016225],[82.53347599999999,26.016315],[82.533576,26.016314],[82.53357800000001,26.016494],[82.53367799999999,26.016493],[82.53367900000001,26.016584],[82.533779,26.016582],[82.53377999999999,26.016673],[82.53398,26.016671],[82.533981,26.016761],[82.53428099999999,26.016758]]],"type":"Polygon"}
 }

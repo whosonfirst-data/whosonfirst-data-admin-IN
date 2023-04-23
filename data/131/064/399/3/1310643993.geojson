@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.48385,27.17694,82.48385,27.17694",
-    "geom:latitude":27.17694,
-    "geom:longitude":82.48385,
+    "geom:bbox":"82.483216,27.175755,82.484842,27.177921",
+    "geom:latitude":27.176854,
+    "geom:longitude":82.483992,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"184.0",
     "gn:asciiname":"Sonbarsa",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.46385,27.15694,82.50385,27.19694",
+    "ks:ks_id":"KSADB105A2ED5C4EE2ADA93EDD63527BB9",
+    "ks:ks_name":"Sonbarsa",
+    "ks:ks_pop":50,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1006053",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1978974",
+    "lbl:latitude":27.176836,
+    "lbl:longitude":82.483976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.176836,
+    "mps:longitude":82.483976,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Sonbarsa"
+    ],
+    "name:eng_x_preferred":[
         "Sonbarsa"
     ],
     "name:mai_x_preferred":[
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Sonbarsa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10601866
+        "gn:id":10601866,
+        "ks:id":"KSADB105A2ED5C4EE2ADA93EDD63527BB9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e8565c77bf874692ec9e546e14ea3c20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a4a789581ac6375ac6c51b8db7f79caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1310643993,
-    "wof:lastmodified":1566701212,
+    "wof:lastmodified":1680668500,
     "wof:name":"Sonbarsa",
     "wof:parent_id":1108695859,
     "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.48385,
-    27.17694,
-    82.48385,
-    27.17694
+    82.483216,
+    27.175755,
+    82.484842,
+    27.177921
 ],
-  "geometry": {"coordinates":[82.48385,27.17694],"type":"Point"}
+  "geometry": {"coordinates":[[[82.484346,27.177916],[82.484345,27.177826],[82.48444600000001,27.177825],[82.48444499999999,27.177735],[82.48454599999999,27.177734],[82.484544,27.177644],[82.484645,27.177642],[82.484644,27.177552],[82.484745,27.177551],[82.484741,27.17728],[82.484842,27.177279],[82.48483400000001,27.176648],[82.48473300000001,27.176649],[82.484731,27.176468],[82.48463,27.176469],[82.484627,27.176289],[82.484526,27.17629],[82.484525,27.176199],[82.484424,27.176201],[82.48442300000001,27.17611],[82.48432200000001,27.176111],[82.48432099999999,27.176021],[82.48421999999999,27.176022],[82.484219,27.175932],[82.48401699999999,27.175934],[82.484016,27.175844],[82.483915,27.175845],[82.483914,27.175755],[82.48340899999999,27.17576],[82.483412,27.17594],[82.483311,27.175942],[82.483317,27.176393],[82.483216,27.176394],[82.483226,27.177206],[82.483327,27.177205],[82.48333,27.177386],[82.483431,27.177385],[82.48343300000001,27.177565],[82.48353400000001,27.177564],[82.483536,27.177744],[82.483738,27.177742],[82.483739,27.177833],[82.483941,27.17783],[82.483942,27.177921],[82.484346,27.177916]]],"type":"Polygon"}
 }

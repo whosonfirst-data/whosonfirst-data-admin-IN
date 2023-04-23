@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.03692,10.89541,79.03692,10.89541",
-    "geom:latitude":10.89541,
-    "geom:longitude":79.03692,
+    "geom:bbox":"79.036291,10.900752,79.037667,10.902291",
+    "geom:latitude":10.90157,
+    "geom:longitude":79.036858,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"616.0",
     "gn:asciiname":"Pudukkottai",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.01692,10.87541,79.05692,10.91541",
+    "ks:ks_id":"KS136A14C4BF034FAE8E6906DB9329D06F",
+    "ks:ks_name":"Pudhukottai",
+    "ks:ks_pop":1440,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|867171",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_182710",
+    "lbl:latitude":10.901607,
+    "lbl:longitude":79.036845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.901607,
+    "mps:longitude":79.036845,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u0648\u0643\u0648\u062a\u062a\u064a"
@@ -52,6 +62,12 @@
         "Pudukkottai"
     ],
     "name:deu_x_preferred":[
+        "Pudukkottai"
+    ],
+    "name:eng_x_preferred":[
+        "Pudhukottai"
+    ],
+    "name:eng_x_variant":[
         "Pudukkottai"
     ],
     "name:fra_x_preferred":[
@@ -126,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u666e\u675c\u79d1\u6cf0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11607048
+        "gn:id":11607048,
+        "ks:id":"KS136A14C4BF034FAE8E6906DB9329D06F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d151ab43b9a0721b1e98e303e2c6057c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"178d1367f7614d8bdd04a789ffce2c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1310657831,
-    "wof:lastmodified":1577751553,
-    "wof:name":"Pudukkottai",
+    "wof:lastmodified":1680668239,
+    "wof:name":"Pudhukottai",
     "wof:parent_id":890509067,
     "wof:placetype":"locality",
+    "wof:population":1440,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.03692,
-    10.89541,
-    79.03692,
-    10.89541
+    79.036291,
+    10.900752,
+    79.037667,
+    10.902291
 ],
-  "geometry": {"coordinates":[79.03691999999999,10.89541],"type":"Point"}
+  "geometry": {"coordinates":[[[79.03693,10.902291],[79.036931,10.902201],[79.037114,10.902202],[79.037114,10.902112],[79.037297,10.902113],[79.03729800000001,10.902023],[79.037389,10.902023],[79.03739,10.901933],[79.037481,10.901933],[79.037482,10.901843],[79.03757400000001,10.901844],[79.03757400000001,10.901753],[79.037666,10.901754],[79.037667,10.901483],[79.037576,10.901482],[79.037576,10.901392],[79.037485,10.901391],[79.037486,10.901301],[79.03730299999999,10.901299],[79.03730299999999,10.901209],[79.037212,10.901209],[79.037212,10.901118],[79.037121,10.901118],[79.037122,10.901027],[79.03703,10.901027],[79.037031,10.900936],[79.036939,10.900936],[79.03694,10.900845],[79.03675699999999,10.900844],[79.03675800000001,10.900754],[79.036483,10.900752],[79.036483,10.900842],[79.03639099999999,10.900842],[79.03639,10.901022],[79.036299,10.901022],[79.03629100000001,10.902107],[79.036383,10.902107],[79.036382,10.902197],[79.036474,10.902198],[79.036473,10.902288],[79.03693,10.902291]]],"type":"Polygon"}
 }

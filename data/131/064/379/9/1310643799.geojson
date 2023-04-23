@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.62852,29.51722,77.62852,29.51722",
-    "geom:latitude":29.51722,
-    "geom:longitude":77.62852,
+    "geom:bbox":"77.626527,29.516429,77.628085,29.517884",
+    "geom:latitude":29.517133,
+    "geom:longitude":77.627197,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"133.0",
     "gn:asciiname":"Azizpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.60852,29.49722,77.64852,29.53722",
+    "ks:ks_alt_nam":"Az\u012bzpur",
+    "ks:ks_id":"KS2B7F2BD66AF848DA86D7386E2A0AEA4B",
+    "ks:ks_name":"Azizpur",
+    "ks:ks_pop":97,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|56032",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1834718",
+    "lbl:latitude":29.517108,
+    "lbl:longitude":77.627134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.517108,
+    "mps:longitude":77.627134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0905\u091c\u0940\u091c\u092a\u0941\u0930"
@@ -37,6 +48,12 @@
         "\u0986\u099c\u09bf\u099c\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Az\u012bzpur"
+    ],
+    "name:eng_x_preferred":[
+        "Azizpur"
+    ],
+    "name:eng_x_variant":[
         "Az\u012bzpur"
     ],
     "name:fas_x_preferred":[
@@ -72,7 +89,13 @@
     "name:zho_x_preferred":[
         "\u963f\u9f50\u5179\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10204895
+        "gn:id":10204895,
+        "ks:id":"KS2B7F2BD66AF848DA86D7386E2A0AEA4B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"006e84dc8505239a685320ec901d264f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"617f1068e7ceaceadb5b5afdd40a0658",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1310643799,
-    "wof:lastmodified":1566701241,
+    "wof:lastmodified":1680668517,
     "wof:name":"Azizpur",
     "wof:parent_id":890506721,
     "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.62852,
-    29.51722,
-    77.62852,
-    29.51722
+    77.626527,
+    29.516429,
+    77.628085,
+    29.517884
 ],
-  "geometry": {"coordinates":[77.62851999999999,29.51722],"type":"Point"}
+  "geometry": {"coordinates":[[[77.626761,29.517882],[77.62675900000001,29.517792],[77.627171,29.517784],[77.62716899999999,29.517693],[77.627478,29.517687],[77.627476,29.517597],[77.62768199999999,29.517593],[77.627679,29.517503],[77.627886,29.517499],[77.627883,29.517409],[77.62798600000001,29.517407],[77.627982,29.517226],[77.628085,29.517224],[77.62808,29.517044],[77.627977,29.517046],[77.627972,29.516866],[77.627869,29.516868],[77.62786699999999,29.516778],[77.627764,29.51678],[77.627762,29.516689],[77.627658,29.516691],[77.627656,29.516601],[77.62745,29.516605],[77.627448,29.516515],[77.627241,29.516519],[77.627239,29.516429],[77.62682700000001,29.516437],[77.626829,29.516527],[77.62672600000001,29.516529],[77.626728,29.51662],[77.626625,29.516622],[77.62663000000001,29.516802],[77.626527,29.516804],[77.626553,29.517796],[77.626656,29.517794],[77.62665800000001,29.517884],[77.626761,29.517882]]],"type":"Polygon"}
 }
