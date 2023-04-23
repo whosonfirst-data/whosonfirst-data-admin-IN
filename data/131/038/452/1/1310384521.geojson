@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.54779,11.82519,75.54779,11.82519",
-    "geom:latitude":11.82519,
-    "geom:longitude":75.54779,
+    "geom:bbox":"75.546877,11.823802,75.549572,11.826767",
+    "geom:latitude":11.825307,
+    "geom:longitude":75.548284,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"589",
     "gn:asciiname":"Kottayam",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.52779,11.80519,75.56779,11.84519",
+    "ks:ks_alt_nam":"K\u014dttayam",
+    "ks:ks_id":"KS2628717297354D3A8E85001B18296241",
+    "ks:ks_name":"Kottayam",
+    "ks:ks_pop":17501,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2101654",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_206148",
+    "lbl:latitude":11.825092,
+    "lbl:longitude":75.548124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.825092,
+    "mps:longitude":75.548124,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627\u064a\u0627\u0645"
@@ -50,6 +61,12 @@
     ],
     "name:deu_x_preferred":[
         "Kottayam"
+    ],
+    "name:eng_x_preferred":[
+        "Kottayam"
+    ],
+    "name:eng_x_variant":[
+        "K\u014dttayam"
     ],
     "name:fra_x_preferred":[
         "Kottayam"
@@ -145,7 +162,13 @@
     "name:zho_x_preferred":[
         "\u6208\u5fb7\u4e9a\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -154,10 +177,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1265910
+        "gn:id":1265910,
+        "ks:id":"KS2628717297354D3A8E85001B18296241"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a79ce9833b0c8237db402f48ca4d8fab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b1eb96f564f3a53422fd281ee9221949",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,20 +195,22 @@
         }
     ],
     "wof:id":1310384521,
-    "wof:lastmodified":1577751612,
+    "wof:lastmodified":1680668355,
     "wof:name":"Kottayam",
     "wof:parent_id":890503071,
     "wof:placetype":"locality",
+    "wof:population":17501,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.54779,
-    11.82519,
-    75.54779,
-    11.82519
+    75.546877,
+    11.823802,
+    75.549572,
+    11.826767
 ],
-  "geometry": {"coordinates":[75.54779000000001,11.82519],"type":"Point"}
+  "geometry": {"coordinates":[[[75.54876299999999,11.826767],[75.54876299999999,11.826497],[75.54903299999999,11.826497],[75.54903299999999,11.825958],[75.54849400000001,11.825958],[75.54849400000001,11.825689],[75.54903299999999,11.825689],[75.54903299999999,11.825419],[75.549572,11.825419],[75.549572,11.823802],[75.54876299999999,11.823802],[75.54876299999999,11.824072],[75.54849400000001,11.824072],[75.54849400000001,11.824341],[75.547416,11.824341],[75.547416,11.82488],[75.54687699999999,11.82488],[75.54687699999999,11.825419],[75.547416,11.825419],[75.547416,11.825958],[75.54687699999999,11.825958],[75.54687699999999,11.826767],[75.547416,11.826767],[75.547416,11.826228],[75.547955,11.826228],[75.547955,11.826767],[75.54876299999999,11.826767]]],"type":"Polygon"}
 }
