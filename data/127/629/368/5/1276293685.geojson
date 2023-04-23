@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.25199,13.65291,77.25199,13.65291",
-    "geom:latitude":13.65291,
-    "geom:longitude":77.25199,
+    "geom:bbox":"77.252426,13.653525,77.253446,13.65434",
+    "geom:latitude":13.653915,
+    "geom:longitude":77.252958,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"571.0",
     "gn:asciiname":"Puttenahalli",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.23199,13.63291,77.27199,13.67291",
+    "ks:ks_id":"KSA9021079E6404CFBAA5D0DBEAC0BED4F",
+    "ks:ks_name":"Puttenahalli",
+    "ks:ks_source_id":"N|13319720",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_329215",
+    "lbl:latitude":13.653932,
+    "lbl:longitude":77.252968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.653932,
+    "mps:longitude":77.252968,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u064a\u0646\u0647\u0627\u0644\u064a"
@@ -38,6 +46,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09aa\u09c1\u09a4\u09cd\u09a4\u09c7\u09a8\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Puttenahalli"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0aa4\u0acd\u0aa4\u0ac7\u0aa8\u0ab9\u0ab2\u0acd\u0ab2\u0ac0"
@@ -66,7 +77,11 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0679\u0651\u06cc\u0646\u0627 \u06c1\u0644\u0651\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10852522
+        "gn:id":10852522,
+        "ks:id":"KSA9021079E6404CFBAA5D0DBEAC0BED4F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8b7763f8d761ee814cf3b36f9def6746",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1458f5fe103be0ef0199e3511e21893b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +108,7 @@
         }
     ],
     "wof:id":1276293685,
-    "wof:lastmodified":1577750442,
+    "wof:lastmodified":1680659596,
     "wof:name":"Puttenahalli",
     "wof:parent_id":890508363,
     "wof:placetype":"locality",
@@ -99,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    77.25199,
-    13.65291,
-    77.25199,
-    13.65291
+    77.252426,
+    13.653525,
+    77.253446,
+    13.65434
 ],
-  "geometry": {"coordinates":[77.25199000000001,13.65291],"type":"Point"}
+  "geometry": {"coordinates":[[[77.253079,13.654338],[77.253078,13.654247],[77.253355,13.654245],[77.253354,13.654155],[77.253446,13.654154],[77.25344200000001,13.653702],[77.25335,13.653703],[77.253349,13.653612],[77.253072,13.653615],[77.25307100000001,13.653525],[77.252701,13.653528],[77.252702,13.653618],[77.252517,13.65362],[77.25251799999999,13.65371],[77.252426,13.653711],[77.25242799999999,13.653892],[77.25252,13.653891],[77.252522,13.654162],[77.25261500000001,13.654161],[77.252616,13.654252],[77.252893,13.654249],[77.252894,13.65434],[77.253079,13.654338]]],"type":"Polygon"}
 }

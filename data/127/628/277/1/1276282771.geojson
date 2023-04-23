@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.70467,27.46504,81.70467,27.46504",
-    "geom:latitude":27.46504,
-    "geom:longitude":81.70467,
+    "geom:bbox":"81.703774,27.464132,81.706007,27.465937",
+    "geom:latitude":27.465003,
+    "geom:longitude":81.704932,
     "gn:admin1_code":"36",
     "gn:admin2_code":"181.0",
     "gn:asciiname":"Pipri",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.68467,27.44504,81.72467,27.48504",
+    "ks:ks_id":"KSA1D2FE77658845348572D7B7D4636537",
+    "ks:ks_name":"Pipri",
+    "ks:ks_pop":218,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|856395",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1903572",
+    "lbl:latitude":27.46499,
+    "lbl:longitude":81.704932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.46499,
+    "mps:longitude":81.704932,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09bf\u09aa\u09b0\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Pipri"
+    ],
+    "name:eng_x_preferred":[
         "Pipri"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u76ae\u666e\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10563255
+        "gn:id":10563255,
+        "ks:id":"KSA1D2FE77658845348572D7B7D4636537"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5d62ebef80a4d678c9faef0472b017de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c910a21eda434a0bc14df780c2b5df87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1276282771,
-    "wof:lastmodified":1566692021,
+    "wof:lastmodified":1680659324,
     "wof:name":"Pipri",
     "wof:parent_id":1108695853,
     "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.70467,
-    27.46504,
-    81.70467,
-    27.46504
+    81.703774,
+    27.464132,
+    81.706007,
+    27.465937
 ],
-  "geometry": {"coordinates":[81.70466999999999,27.46504],"type":"Point"}
+  "geometry": {"coordinates":[[[81.70560399999999,27.465935],[81.70560399999999,27.465844],[81.705806,27.465843],[81.705806,27.465753],[81.705907,27.465753],[81.705906,27.465662],[81.706007,27.465662],[81.70600399999999,27.46512],[81.70590300000001,27.465121],[81.705901,27.46476],[81.705799,27.46476],[81.705798,27.46458],[81.705697,27.46458],[81.705696,27.46449],[81.705595,27.46449],[81.705595,27.4644],[81.705392,27.464401],[81.705392,27.464311],[81.70529000000001,27.464311],[81.70529000000001,27.464221],[81.70498600000001,27.464223],[81.70498600000001,27.464132],[81.704176,27.464136],[81.704177,27.464227],[81.703974,27.464228],[81.703975,27.464318],[81.703874,27.464318],[81.703875,27.464499],[81.703774,27.464499],[81.703776,27.464951],[81.703878,27.46495],[81.703878,27.465041],[81.703979,27.46504],[81.70398,27.46513],[81.704081,27.46513],[81.704082,27.46531],[81.704184,27.46531],[81.704184,27.4654],[81.704285,27.4654],[81.704286,27.46558],[81.70438799999999,27.46558],[81.70438799999999,27.46567],[81.70459099999999,27.465669],[81.70459099999999,27.465759],[81.70479400000001,27.465758],[81.70479400000001,27.465848],[81.70509800000001,27.465847],[81.70509800000001,27.465937],[81.70560399999999,27.465935]]],"type":"Polygon"}
 }

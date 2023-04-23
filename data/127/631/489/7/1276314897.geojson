@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.05698,20.74628,77.05698,20.74628",
-    "geom:latitude":20.74628,
-    "geom:longitude":77.05698,
+    "geom:bbox":"77.056039,20.745146,77.058743,20.746952",
+    "geom:latitude":20.746063,
+    "geom:longitude":77.057293,
     "gn:admin1_code":"16",
     "gn:admin2_code":"501.0",
     "gn:asciiname":"Aliabad",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.03698,20.72628,77.07698,20.76628",
+    "ks:ks_id":"KS2C4584F3056E46F29173DA50655B3A42",
+    "ks:ks_name":"Aliyabad",
+    "ks:ks_pop":419,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|26076",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_854511",
+    "lbl:latitude":20.746132,
+    "lbl:longitude":77.057293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.746132,
+    "mps:longitude":77.057293,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0644\u064a \u0622\u0628\u0627\u062f"
@@ -44,6 +54,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0986\u09b2\u09bf\u09df\u09be\u09ac\u09be\u09a6"
+    ],
+    "name:eng_x_preferred":[
+        "Aliyabad"
+    ],
+    "name:eng_x_variant":[
+        "Aliabad"
     ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f"
@@ -93,7 +109,13 @@
     "name:urd_x_preferred":[
         "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10503878
+        "gn:id":10503878,
+        "ks:id":"KS2C4584F3056E46F29173DA50655B3A42"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3690dffbb22206feba7b120c6feb9018",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c4423769dcd72b5331f66d0304b22ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1276314897,
-    "wof:lastmodified":1576021331,
-    "wof:name":"Aliabad",
+    "wof:lastmodified":1680660924,
+    "wof:name":"Aliyabad",
     "wof:parent_id":890502567,
     "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.05698000000002,
-    20.74628,
-    77.05698000000002,
-    20.74628
+    77.056039,
+    20.745146,
+    77.058743,
+    20.746952
 ],
-  "geometry": {"coordinates":[77.05698000000002,20.74628],"type":"Point"}
+  "geometry": {"coordinates":[[[77.057599,20.746942],[77.057597,20.746851],[77.057885,20.746848],[77.057884,20.746758],[77.058268,20.746753],[77.058267,20.746663],[77.058555,20.746659],[77.058554,20.746569],[77.05865,20.746568],[77.05864699999999,20.746387],[77.05874300000001,20.746386],[77.058735,20.745754],[77.058639,20.745755],[77.058637,20.745665],[77.05844500000001,20.745667],[77.05844399999999,20.745577],[77.058252,20.745579],[77.058251,20.745489],[77.057963,20.745492],[77.057962,20.745402],[77.05767400000001,20.745405],[77.05767299999999,20.745315],[77.057289,20.74532],[77.057287,20.745229],[77.05671100000001,20.745236],[77.05671,20.745146],[77.056134,20.745153],[77.056135,20.745243],[77.056039,20.745244],[77.05605199999999,20.746147],[77.05614799999999,20.746146],[77.05615400000001,20.746598],[77.05625000000001,20.746597],[77.056251,20.746687],[77.056347,20.746686],[77.056348,20.746776],[77.05654,20.746774],[77.056541,20.746864],[77.05673299999999,20.746862],[77.056735,20.746952],[77.057599,20.746942]]],"type":"Polygon"}
 }

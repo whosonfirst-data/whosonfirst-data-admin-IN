@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.58329,21.47617,78.58329,21.47617",
-    "geom:latitude":21.47617,
-    "geom:longitude":78.58329,
+    "geom:bbox":"78.582626,21.475375,78.583995,21.476819",
+    "geom:latitude":21.47609,
+    "geom:longitude":78.583268,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Sardi",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.56329,21.45617,78.60329,21.49617",
+    "ks:ks_alt_nam":"S\u0101rdi",
+    "ks:ks_id":"KSB002B861EA05473587DA2BC227056E30",
+    "ks:ks_name":"Sardi",
+    "ks:ks_pop":297,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|957736",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_879613",
+    "lbl:latitude":21.476053,
+    "lbl:longitude":78.583268,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.476053,
+    "mps:longitude":78.583268,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sardi"
     ],
     "name:deu_x_preferred":[
         "Sardi"
+    ],
+    "name:eng_x_preferred":[
+        "Sardi"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101rdi"
     ],
     "name:fra_x_preferred":[
         "Sardi"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Sardi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213633
+        "gn:id":10213633,
+        "ks:id":"KSB002B861EA05473587DA2BC227056E30"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e432416c1550f4c35d473b777e47aa0f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb3ed0134b479f71d8c04054b9c19d79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1276304379,
-    "wof:lastmodified":1566694012,
+    "wof:lastmodified":1680660703,
     "wof:name":"Sardi",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.58329,
-    21.47617,
-    78.58329,
-    21.47617
+    78.582626,
+    21.475375,
+    78.583995,
+    21.476819
 ],
-  "geometry": {"coordinates":[78.58329000000001,21.47617],"type":"Point"}
+  "geometry": {"coordinates":[[[78.58320399999999,21.476819],[78.58320500000001,21.476729],[78.583302,21.47673],[78.583303,21.47664],[78.583496,21.476643],[78.583499,21.476462],[78.583595,21.476464],[78.58359799999999,21.476283],[78.58369500000001,21.476284],[78.583696,21.476194],[78.583793,21.476196],[78.583794,21.476105],[78.58389099999999,21.476107],[78.58389200000001,21.476016],[78.583989,21.476018],[78.583995,21.475657],[78.583898,21.475655],[78.5839,21.475565],[78.583803,21.475564],[78.583805,21.475473],[78.583612,21.475471],[78.583613,21.47538],[78.58322699999999,21.475375],[78.583226,21.475465],[78.58313,21.475464],[78.583128,21.475554],[78.583032,21.475553],[78.58302999999999,21.475643],[78.58293399999999,21.475641],[78.582931,21.475822],[78.58283400000001,21.475821],[78.58283299999999,21.475911],[78.582736,21.475909],[78.58273199999999,21.47618],[78.582635,21.476179],[78.582626,21.47672],[78.582723,21.476722],[78.58272100000001,21.476812],[78.58320399999999,21.476819]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.67449,28.08782,76.67449,28.08782",
-    "geom:latitude":28.08782,
-    "geom:longitude":76.67449,
+    "geom:bbox":"76.672825,28.086991,76.674712,28.088608",
+    "geom:latitude":28.087811,
+    "geom:longitude":76.673735,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"104.0",
     "gn:asciiname":"Hajipur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.65449,28.06782,76.69449,28.10782",
+    "ks:ks_alt_nam":"H\u0101jipur",
+    "ks:ks_id":"KS865B835B8AA547B89933391108EDDE4E",
+    "ks:ks_name":"Hajipur",
+    "ks:ks_pop":609,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|392334",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_909711",
+    "lbl:latitude":28.088069,
+    "lbl:longitude":76.673735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.088069,
+    "mps:longitude":76.673735,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u062c\u064a \u0628\u0648\u0631"
@@ -47,6 +58,12 @@
     ],
     "name:ceb_x_preferred":[
         "H\u0101j\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Hajipur"
+    ],
+    "name:eng_x_variant":[
+        "H\u0101jipur"
     ],
     "name:epo_x_preferred":[
         "Ha\u011dipuro"
@@ -126,7 +143,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u5409\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":9913597
+        "gn:id":9913597,
+        "ks:id":"KS865B835B8AA547B89933391108EDDE4E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a8fc306ca33c84f98d56a91d4e1bfd0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8095192b366cac06f9ce89524e1699dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +176,22 @@
         }
     ],
     "wof:id":1276289093,
-    "wof:lastmodified":1566691974,
+    "wof:lastmodified":1680659289,
     "wof:name":"Hajipur",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
+    "wof:population":609,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.67449,
-    28.08782,
-    76.67449,
-    28.08782
+    76.672825,
+    28.086991,
+    76.674712,
+    28.088608
 ],
-  "geometry": {"coordinates":[76.67449000000001,28.08782],"type":"Point"}
+  "geometry": {"coordinates":[[[76.67336400000001,28.088608],[76.67336400000001,28.088339],[76.674173,28.088339],[76.674173,28.088069],[76.674442,28.088069],[76.674442,28.0878],[76.674712,28.0878],[76.674712,28.087261],[76.674442,28.087261],[76.674442,28.086991],[76.67363400000001,28.086991],[76.67363400000001,28.087261],[76.673903,28.087261],[76.673903,28.0878],[76.67336400000001,28.0878],[76.67336400000001,28.08753],[76.672825,28.08753],[76.672825,28.088608],[76.67336400000001,28.088608]]],"type":"Polygon"}
 }

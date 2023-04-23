@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.02192,20.46927,80.02192,20.46927",
-    "geom:latitude":20.46927,
-    "geom:longitude":80.02192,
+    "geom:bbox":"80.020757,20.468919,80.022104,20.469997",
+    "geom:latitude":20.469437,
+    "geom:longitude":80.021402,
     "gn:admin1_code":"16",
     "gn:admin2_code":"508.0",
     "gn:asciiname":"Kaneri",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.00192,20.44927,80.04192,20.48927",
+    "ks:ks_id":"KS2CF06B11BAA044B3866B47BE1C42878D",
+    "ks:ks_name":"Kaneri",
+    "ks:ks_pop":378,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|503238",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_651850",
+    "lbl:latitude":20.469458,
+    "lbl:longitude":80.021366,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.469458,
+    "mps:longitude":80.021366,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kaneri"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aa8\u0ac7\u0ab0\u0ac0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10712690
+        "gn:id":10712690,
+        "ks:id":"KS2CF06B11BAA044B3866B47BE1C42878D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"507efe8f74d63bc0883218f71e0de670",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7b3b33b4839a75e220f1835e93e0554e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1276314985,
-    "wof:lastmodified":1566694322,
+    "wof:lastmodified":1680660921,
     "wof:name":"Kaneri",
     "wof:parent_id":1108696297,
     "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.02192,
-    20.46927,
-    80.02192,
-    20.46927
+    80.020757,
+    20.468919,
+    80.022104,
+    20.469997
 ],
-  "geometry": {"coordinates":[80.02191999999999,20.46927],"type":"Point"}
+  "geometry": {"coordinates":[[[80.021835,20.469997],[80.021835,20.469727],[80.022104,20.469727],[80.022104,20.468919],[80.020757,20.468919],[80.020757,20.469997],[80.021835,20.469997]]],"type":"Polygon"}
 }
