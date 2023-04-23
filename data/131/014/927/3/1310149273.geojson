@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.63376,25.5886,82.63376,25.5886",
-    "geom:latitude":25.5886,
-    "geom:longitude":82.63376,
+    "geom:bbox":"82.631912,25.587831,82.634799,25.589121",
+    "geom:latitude":25.588519,
+    "geom:longitude":82.633378,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Jairampur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.61376,25.5686,82.65376,25.6086",
+    "ks:ks_id":"KS7EE806036EAD4E79B906C38E308F2153",
+    "ks:ks_name":"Jairampwur",
+    "ks:ks_pop":1287,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0964000509558800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1916461",
+    "lbl:latitude":25.588521,
+    "lbl:longitude":82.633378,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.588521,
+    "mps:longitude":82.633378,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u09af\u09bc\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u099c\u09af\u09bc\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Jairampwur"
+    ],
+    "name:eng_x_variant":[
+        "Jairampur"
     ],
     "name:ita_x_preferred":[
         "Jairampur"
@@ -60,7 +76,13 @@
     "name:vie_x_preferred":[
         "Jairampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10541201
+        "gn:id":10541201,
+        "ks:id":"KS7EE806036EAD4E79B906C38E308F2153"
     },
     "wof:country":"IN",
-    "wof:geomhash":"636256ee252ca4d1d9d6afcea8abd5a5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"231f79fabe084a5b80c040d5a33802f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +109,22 @@
         }
     ],
     "wof:id":1310149273,
-    "wof:lastmodified":1566700633,
-    "wof:name":"Jairampur",
+    "wof:lastmodified":1680668134,
+    "wof:name":"Jairampwur",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":1287,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.63376,
-    25.5886,
-    82.63376,
-    25.5886
+    82.631912,
+    25.587831,
+    82.634799,
+    25.589121
 ],
-  "geometry": {"coordinates":[82.63376,25.5886],"type":"Point"}
+  "geometry": {"coordinates":[[[82.633315,25.589108],[82.633314,25.589018],[82.63351299999999,25.589016],[82.633512,25.588926],[82.633612,25.588924],[82.633613,25.589015],[82.63440900000001,25.589006],[82.63440799999999,25.588916],[82.634507,25.588914],[82.634505,25.588734],[82.634604,25.588733],[82.634602,25.588552],[82.634702,25.588551],[82.634699,25.588371],[82.634799,25.58837],[82.634795,25.588099],[82.63469499999999,25.5881],[82.634694,25.58801],[82.634595,25.588011],[82.634593,25.58792],[82.634494,25.587922],[82.63449300000001,25.587831],[82.633995,25.587837],[82.633996,25.587927],[82.633698,25.58793],[82.63369899999999,25.588021],[82.633201,25.588026],[82.633202,25.588117],[82.632904,25.58812],[82.632903,25.58803],[82.63270300000001,25.588032],[82.632705,25.588122],[82.632307,25.588127],[82.63230799999999,25.588217],[82.632109,25.588219],[82.63211,25.588309],[82.63200999999999,25.58831],[82.632012,25.588401],[82.631912,25.588402],[82.631917,25.588763],[82.63201599999999,25.588762],[82.632019,25.588942],[82.63211800000001,25.588941],[82.63212,25.589031],[82.63221900000001,25.58903],[82.63222,25.589121],[82.633315,25.589108]]],"type":"Polygon"}
 }

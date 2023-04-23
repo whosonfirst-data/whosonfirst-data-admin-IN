@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.86348,27.28828,79.86348,27.28828",
-    "geom:latitude":27.28828,
-    "geom:longitude":79.86348,
+    "geom:bbox":"79.862284,27.286969,79.865636,27.289231",
+    "geom:latitude":27.288103,
+    "geom:longitude":79.863811,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Rampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.84348,27.26828,79.88348,27.30828",
+    "ks:ks_id":"KSDDAC8CBFD9B447538CB75B35744897FE",
+    "ks:ks_name":"Ram Pur",
+    "ks:ks_pop":395,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|898336",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1897414",
+    "lbl:latitude":27.288142,
+    "lbl:longitude":79.863811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.288142,
+    "mps:longitude":79.863811,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0628\u0648\u0631"
@@ -59,6 +69,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Ram Pur"
+    ],
+    "name:eng_x_variant":[
+        "Rampur"
     ],
     "name:fra_x_preferred":[
         "Rampur"
@@ -135,7 +151,13 @@
     "name:vie_x_preferred":[
         "Rampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -144,10 +166,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10477419
+        "gn:id":10477419,
+        "ks:id":"KSDDAC8CBFD9B447538CB75B35744897FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"143c532b230f02e48c20f3d52234c2b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fce066e6ffc40fd18b37271e92ccc087",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,20 +184,22 @@
         }
     ],
     "wof:id":1310158155,
-    "wof:lastmodified":1636505676,
-    "wof:name":"Rampur",
+    "wof:lastmodified":1680668017,
+    "wof:name":"Ram Pur",
     "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":395,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.86348,
-    27.28828,
-    79.86348,
-    27.28828
+    79.862284,
+    27.286969,
+    79.865636,
+    27.289231
 ],
-  "geometry": {"coordinates":[79.86348,27.28828],"type":"Point"}
+  "geometry": {"coordinates":[[[79.864402,27.289231],[79.864403,27.28914],[79.864605,27.289142],[79.86460599999999,27.289052],[79.864707,27.289052],[79.86471400000001,27.288421],[79.86481499999999,27.288421],[79.864817,27.288151],[79.86502,27.288152],[79.86502,27.288062],[79.865122,27.288063],[79.865122,27.287973],[79.865223,27.287973],[79.865224,27.287883],[79.865325,27.287884],[79.865326,27.287794],[79.865427,27.287795],[79.86542799999999,27.287704],[79.865529,27.287705],[79.865532,27.287434],[79.865633,27.287435],[79.86563599999999,27.287164],[79.86553499999999,27.287163],[79.86553600000001,27.287073],[79.864323,27.287063],[79.864324,27.286973],[79.86381900000001,27.286969],[79.86381799999999,27.287059],[79.86361599999999,27.287058],[79.863615,27.287148],[79.863514,27.287147],[79.863513,27.287237],[79.863412,27.287237],[79.863411,27.287327],[79.863209,27.287325],[79.863208,27.287415],[79.863006,27.287414],[79.863005,27.287504],[79.862702,27.287502],[79.862701,27.287592],[79.862398,27.287589],[79.862397,27.28768],[79.862296,27.287679],[79.862284,27.288852],[79.862385,27.288853],[79.86238299999999,27.289124],[79.86248399999999,27.289125],[79.862483,27.289215],[79.862988,27.289219],[79.862989,27.289129],[79.863595,27.289134],[79.86359400000001,27.289224],[79.864402,27.289231]]],"type":"Polygon"}
 }

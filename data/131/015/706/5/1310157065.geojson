@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.43708,25.08901,87.43708,25.08901",
-    "geom:latitude":25.08901,
-    "geom:longitude":87.43708,
+    "geom:bbox":"87.436907,25.088073,87.437999,25.088977",
+    "geom:latitude":25.088543,
+    "geom:longitude":87.437445,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Marpa",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.41708,25.06901,87.45708,25.10901",
+    "ks:ks_id":"KS520D93F7143B45C2951C7BFE7E0EFED0",
+    "ks:ks_name":"Marpa",
+    "ks:ks_pop":158,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|681924",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2099002",
+    "lbl:latitude":25.088525,
+    "lbl:longitude":87.437434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.088525,
+    "mps:longitude":87.437434,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Marpa"
+    ],
     "name:fra_x_preferred":[
         "Marpa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996041
+        "gn:id":10996041,
+        "ks:id":"KS520D93F7143B45C2951C7BFE7E0EFED0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d2edb571ad99901c19004a90b713d80a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7dded07bd41fcafd17ee6469b4216f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1310157065,
-    "wof:lastmodified":1566700383,
+    "wof:lastmodified":1680667984,
     "wof:name":"Marpa",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.43708000000002,
-    25.08901,
-    87.43708000000002,
-    25.08901
+    87.436907,
+    25.088073,
+    87.437999,
+    25.088977
 ],
-  "geometry": {"coordinates":[87.43708000000002,25.08901],"type":"Point"}
+  "geometry": {"coordinates":[[[87.437703,25.088976],[87.437702,25.088886],[87.437901,25.088885],[87.4379,25.088705],[87.437999,25.088704],[87.43799799999999,25.088434],[87.437899,25.088434],[87.437899,25.088344],[87.437799,25.088344],[87.437799,25.088253],[87.43770000000001,25.088254],[87.43770000000001,25.088163],[87.437601,25.088164],[87.4376,25.088073],[87.43720399999999,25.088075],[87.43720399999999,25.088165],[87.437105,25.088165],[87.437105,25.088256],[87.437006,25.088256],[87.437006,25.088436],[87.43690700000001,25.088437],[87.436908,25.088708],[87.43700699999999,25.088707],[87.43700800000001,25.088888],[87.43730600000001,25.088887],[87.43730600000001,25.088977],[87.437703,25.088976]]],"type":"Polygon"}
 }

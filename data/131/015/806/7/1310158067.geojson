@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.83702,26.78056,78.83702,26.78056",
-    "geom:latitude":26.78056,
-    "geom:longitude":78.83702,
+    "geom:bbox":"78.836546,26.779134,78.837873,26.780934",
+    "geom:latitude":26.780043,
+    "geom:longitude":78.837202,
     "gn:admin1_code":"36",
     "gn:admin2_code":"161.0",
     "gn:asciiname":"Sitapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.81702,26.76056,78.85702,26.80056",
+    "ks:ks_id":"KS7DC480D7FD7D42C88541263F24631211",
+    "ks:ks_name":"Sitapura",
+    "ks:ks_pop":281,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1000003",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1738273",
+    "lbl:latitude":26.780034,
+    "lbl:longitude":78.837202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.780034,
+    "mps:longitude":78.837202,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0627\u0628\u0648\u0631"
@@ -49,6 +59,12 @@
         "S\u012bt\u0101pur"
     ],
     "name:deu_x_preferred":[
+        "Sitapur"
+    ],
+    "name:eng_x_preferred":[
+        "Sitapura"
+    ],
+    "name:eng_x_variant":[
         "Sitapur"
     ],
     "name:fas_x_preferred":[
@@ -144,7 +160,13 @@
     "name:zho_x_preferred":[
         "\u897f\u5854\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,10 +175,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10465971
+        "gn:id":10465971,
+        "ks:id":"KS7DC480D7FD7D42C88541263F24631211"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3cd8274b001a37f0c44fd0f6e315ed0b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"086c284fe688701dc15258e27c6f9f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,20 +193,22 @@
         }
     ],
     "wof:id":1310158067,
-    "wof:lastmodified":1636505676,
-    "wof:name":"Sitapur",
+    "wof:lastmodified":1680668026,
+    "wof:name":"Sitapura",
     "wof:parent_id":890509065,
     "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.83702,
-    26.78056,
-    78.83702,
-    26.78056
+    78.836546,
+    26.779134,
+    78.837873,
+    26.780934
 ],
-  "geometry": {"coordinates":[78.83702,26.78056],"type":"Point"}
+  "geometry": {"coordinates":[[[78.837042,26.780934],[78.83704299999999,26.780844],[78.837345,26.780848],[78.837352,26.780487],[78.837452,26.780489],[78.83745399999999,26.780399],[78.837655,26.780402],[78.83766199999999,26.780041],[78.837762,26.780042],[78.837768,26.779772],[78.837868,26.779773],[78.837873,26.779502],[78.837773,26.779501],[78.837774,26.779411],[78.83767400000001,26.779409],[78.837677,26.779229],[78.837577,26.779227],[78.83757799999999,26.779137],[78.837377,26.779134],[78.83737600000001,26.779224],[78.837175,26.779221],[78.83717300000001,26.779311],[78.83707200000001,26.77931],[78.83707099999999,26.7794],[78.83696999999999,26.779398],[78.836969,26.779489],[78.836868,26.779487],[78.836865,26.779668],[78.836764,26.779666],[78.836754,26.780207],[78.836653,26.780206],[78.83665000000001,26.780386],[78.83654900000001,26.780385],[78.836546,26.780565],[78.836646,26.780567],[78.83664,26.780928],[78.837042,26.780934]]],"type":"Polygon"}
 }

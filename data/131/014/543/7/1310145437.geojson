@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.73753,27.77604,78.73753,27.77604",
-    "geom:latitude":27.77604,
-    "geom:longitude":78.73753,
+    "geom:bbox":"78.736884,27.774647,78.738232,27.776264",
+    "geom:latitude":27.775398,
+    "geom:longitude":78.737545,
     "gn:admin1_code":"36",
     "gn:admin2_code":"202.0",
     "gn:asciiname":"Mubarakpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.71753,27.75604,78.75753,27.79604",
+    "ks:ks_id":"KS02FA51F1B7564758A50C1A8C48264636",
+    "ks:ks_name":"Mubarik Pur",
+    "ks:ks_pop":431,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1175685",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_893908",
+    "lbl:latitude":27.775456,
+    "lbl:longitude":78.7376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.775456,
+    "mps:longitude":78.7376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0631\u0643 \u0628\u0648\u0631"
@@ -50,6 +60,12 @@
     ],
     "name:ceb_x_preferred":[
         "Mub\u0101rakpur"
+    ],
+    "name:eng_x_preferred":[
+        "Mubarik Pur"
+    ],
+    "name:eng_x_variant":[
+        "Mubarakpur"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0628\u0627\u0631\u06a9\u200c\u067e\u0648\u0631"
@@ -114,7 +130,13 @@
     "name:zho_x_preferred":[
         "\u7a46\u5df4\u62c9\u514b\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10484416
+        "gn:id":10484416,
+        "ks:id":"KS02FA51F1B7564758A50C1A8C48264636"
     },
     "wof:country":"IN",
-    "wof:geomhash":"28b07e5f7d2b4d0873da7ea6d74331d2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"900448a8c9f362a00c57566925eb3f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +163,22 @@
         }
     ],
     "wof:id":1310145437,
-    "wof:lastmodified":1577751487,
-    "wof:name":"Mubarakpur",
+    "wof:lastmodified":1680668104,
+    "wof:name":"Mubarik Pur",
     "wof:parent_id":1108695891,
     "wof:placetype":"locality",
+    "wof:population":431,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.73753,
-    27.77604,
-    78.73753,
-    27.77604
+    78.736884,
+    27.774647,
+    78.738232,
+    27.776264
 ],
-  "geometry": {"coordinates":[78.73753000000001,27.77604],"type":"Point"}
+  "geometry": {"coordinates":[[[78.73769299999999,27.776264],[78.73769299999999,27.775995],[78.737962,27.775995],[78.737962,27.775725],[78.738232,27.775725],[78.738232,27.775186],[78.737962,27.775186],[78.737962,27.774647],[78.737154,27.774647],[78.737154,27.774917],[78.736884,27.774917],[78.736884,27.775456],[78.737154,27.775456],[78.737154,27.776264],[78.73769299999999,27.776264]]],"type":"Polygon"}
 }

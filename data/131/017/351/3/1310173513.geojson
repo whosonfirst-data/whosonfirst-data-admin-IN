@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.89672,24.90041,76.89672,24.90041",
-    "geom:latitude":24.90041,
-    "geom:longitude":76.89672,
+    "geom:bbox":"76.895967,24.89941,76.897045,24.900757",
+    "geom:latitude":24.900128,
+    "geom:longitude":76.896551,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Banda Kalan",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.87672,24.88041,76.91672,24.92041",
+    "ks:ks_alt_nam":"Banda Kal\u0101n",
+    "ks:ks_id":"KS8D7E6ECFE043496C8309D0762D28780E",
+    "ks:ks_name":"Banda Kalan",
+    "ks:ks_pop":217,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|87357",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_780635",
+    "lbl:latitude":24.900213,
+    "lbl:longitude":76.896594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.900213,
+    "mps:longitude":76.896594,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Banda Kalan"
+    ],
+    "name:eng_x_variant":[
+        "Banda Kal\u0101n"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10336264
+        "gn:id":10336264,
+        "ks:id":"KS8D7E6ECFE043496C8309D0762D28780E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"100bad6d84fc07d5e681853c2be38d5b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"87071f0efecef2bba7b46cc0945619c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1310173513,
-    "wof:lastmodified":1566701714,
+    "wof:lastmodified":1680668805,
     "wof:name":"Banda Kalan",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.89672,
-    24.90041,
-    76.89672,
-    24.90041
+    76.895967,
+    24.89941,
+    76.897045,
+    24.900757
 ],
-  "geometry": {"coordinates":[76.89672,24.90041],"type":"Point"}
+  "geometry": {"coordinates":[[[76.89704500000001,24.900757],[76.89704500000001,24.89941],[76.896236,24.89941],[76.896236,24.899949],[76.895967,24.899949],[76.895967,24.900757],[76.89704500000001,24.900757]]],"type":"Polygon"}
 }
