@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.61924,27.42425,80.61924,27.42425",
-    "geom:latitude":27.42425,
-    "geom:longitude":80.61924,
+    "geom:bbox":"80.618546,27.423324,80.620064,27.424862",
+    "geom:latitude":27.424123,
+    "geom:longitude":80.619264,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Raipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.59924,27.40425,80.63924,27.44425",
+    "ks:ks_id":"KS843ADF11602241B3BFBCBF0115C5CE19",
+    "ks:ks_name":"Raipur",
+    "ks:ks_pop":220,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|889407",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1902113",
+    "lbl:latitude":27.424139,
+    "lbl:longitude":80.619249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.424139,
+    "mps:longitude":80.619249,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Raipur"
@@ -74,6 +84,9 @@
     ],
     "name:dty_x_preferred":[
         "\u0930\u093e\u092f\u092a\u0941\u0930"
+    ],
+    "name:eng_x_preferred":[
+        "Raipur"
     ],
     "name:epo_x_preferred":[
         "Rajpuro"
@@ -255,7 +268,13 @@
     "name:zho_x_preferred":[
         "\u8cf4\u5e03\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -264,10 +283,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920418
+        "gn:id":10920418,
+        "ks:id":"KS843ADF11602241B3BFBCBF0115C5CE19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fbd8ce7125f7bf7b99de8c8c73861c13",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"27911b684e700e73b8f338e710a8a686",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -278,20 +301,22 @@
         }
     ],
     "wof:id":1276807299,
-    "wof:lastmodified":1576021165,
+    "wof:lastmodified":1680659478,
     "wof:name":"Raipur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.61924,
-    27.42425,
-    80.61924,
-    27.42425
+    80.618546,
+    27.423324,
+    80.620064,
+    27.424862
 ],
-  "geometry": {"coordinates":[80.61924,27.42425],"type":"Point"}
+  "geometry": {"coordinates":[[[80.619657,27.424862],[80.619657,27.424772],[80.619758,27.424772],[80.619758,27.424682],[80.619961,27.424682],[80.619961,27.424502],[80.620063,27.424502],[80.620064,27.42396],[80.619963,27.42396],[80.619964,27.42387],[80.619862,27.423869],[80.619863,27.423779],[80.61976199999999,27.423779],[80.61976199999999,27.423689],[80.61966099999999,27.423688],[80.61966099999999,27.423598],[80.61945900000001,27.423597],[80.61945900000001,27.423507],[80.61935800000001,27.423507],[80.61935800000001,27.423417],[80.619055,27.423416],[80.619055,27.423326],[80.61865,27.423324],[80.618649,27.423595],[80.618548,27.423595],[80.61854599999999,27.424227],[80.618647,27.424227],[80.618646,27.424498],[80.618747,27.424498],[80.618747,27.424679],[80.618949,27.424679],[80.618949,27.42477],[80.61905,27.42477],[80.61905,27.42486],[80.619657,27.424862]]],"type":"Polygon"}
 }

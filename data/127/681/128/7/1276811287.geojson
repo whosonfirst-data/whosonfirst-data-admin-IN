@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.37489,25.26028,80.37489,25.26028",
-    "geom:latitude":25.26028,
-    "geom:longitude":80.37489,
+    "geom:bbox":"80.374603,25.259185,80.375142,25.260532",
+    "geom:latitude":25.259858,
+    "geom:longitude":80.374873,
     "gn:admin1_code":"36",
     "gn:admin2_code":"170.0",
     "gn:asciiname":"Kolawal Raipur",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.35489,25.24028,80.39489,25.28028",
+    "ks:ks_alt_nam":"Kol\u0101wal R\u0101ipur",
+    "ks:ks_id":"KS398BAE1E765B487584F32DE5B10292D2",
+    "ks:ks_name":"Kolawal Raipur",
+    "ks:ks_pop":683,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12967298",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_792112",
+    "lbl:latitude":25.259859,
+    "lbl:longitude":80.374873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.259859,
+    "mps:longitude":80.374873,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kolawal Raipur"
+    ],
+    "name:eng_x_variant":[
+        "Kol\u0101wal R\u0101ipur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10521146
+        "gn:id":10521146,
+        "ks:id":"KS398BAE1E765B487584F32DE5B10292D2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f857e0f25a51168e562dfa10587d0441",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7303b33a4fba0f22e7cf877b8d6e0c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1276811287,
-    "wof:lastmodified":1566691924,
+    "wof:lastmodified":1680659255,
     "wof:name":"Kolawal Raipur",
     "wof:parent_id":1108695835,
     "wof:placetype":"locality",
+    "wof:population":683,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.37489000000002,
-    25.26028,
-    80.37489000000002,
-    25.26028
+    80.374603,
+    25.259185,
+    80.375142,
+    25.260532
 ],
-  "geometry": {"coordinates":[80.37489000000002,25.26028],"type":"Point"}
+  "geometry": {"coordinates":[[[80.375142,25.259185],[80.37460299999999,25.259185],[80.37460299999999,25.260532],[80.375142,25.260532],[80.375142,25.259185]]],"type":"Polygon"}
 }

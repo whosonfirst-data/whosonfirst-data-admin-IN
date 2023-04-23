@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.89935,22.96476,79.89935,22.96476",
-    "geom:latitude":22.96476,
-    "geom:longitude":79.89935,
+    "geom:bbox":"79.898443,22.963793,79.900595,22.965694",
+    "geom:latitude":22.964737,
+    "geom:longitude":79.899564,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Para",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.87935,22.94476,79.91935,22.98476",
+    "ks:ks_alt_nam":"P\u0101ra",
+    "ks:ks_id":"KS4886B033DC034D9198CD6C225F6CD6C5",
+    "ks:ks_name":"Para",
+    "ks:ks_pop":1103,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|822131",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_992918",
+    "lbl:latitude":22.964743,
+    "lbl:longitude":79.899585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.964743,
+    "mps:longitude":79.899585,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430"
@@ -50,6 +61,12 @@
     ],
     "name:deu_x_preferred":[
         "Para"
+    ],
+    "name:eng_x_preferred":[
+        "Para"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101ra"
     ],
     "name:est_x_preferred":[
         "Para"
@@ -129,7 +146,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10543421
+        "gn:id":10543421,
+        "ks:id":"KS4886B033DC034D9198CD6C225F6CD6C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2cb2b6a50e5b06e86f124069dcc1469b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c4f6d439bf61c3368bf0f999d27caac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +179,22 @@
         }
     ],
     "wof:id":1276812627,
-    "wof:lastmodified":1636505439,
+    "wof:lastmodified":1680659268,
     "wof:name":"Para",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":1103,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.89935,
-    22.96476,
-    79.89935,
-    22.96476
+    79.898443,
+    22.963793,
+    79.900595,
+    22.965694
 ],
-  "geometry": {"coordinates":[79.89935,22.96476],"type":"Point"}
+  "geometry": {"coordinates":[[[79.89999899999999,22.965694],[79.89999899999999,22.965604],[79.900194,22.965605],[79.900195,22.965515],[79.900293,22.965515],[79.900293,22.965425],[79.900391,22.965426],[79.900392,22.965336],[79.90048899999999,22.965336],[79.900496,22.964433],[79.900594,22.964434],[79.900595,22.964343],[79.900497,22.964343],[79.900499,22.964162],[79.900401,22.964161],[79.900402,22.964071],[79.90030400000001,22.96407],[79.900305,22.96398],[79.90020800000001,22.963979],[79.90020800000001,22.963889],[79.900013,22.963888],[79.900014,22.963797],[79.899429,22.963793],[79.899428,22.963884],[79.899135,22.963882],[79.899135,22.963972],[79.89903700000001,22.963971],[79.899036,22.964062],[79.898939,22.964061],[79.898938,22.964151],[79.898743,22.96415],[79.898742,22.96424],[79.898645,22.96424],[79.898644,22.96433],[79.89854699999999,22.964329],[79.898545,22.96451],[79.898448,22.964509],[79.898443,22.965051],[79.89854099999999,22.965052],[79.89854,22.965142],[79.89863699999999,22.965143],[79.89863699999999,22.965233],[79.898832,22.965234],[79.898831,22.965325],[79.89902600000001,22.965326],[79.89902499999999,22.965416],[79.899123,22.965417],[79.89912200000001,22.965507],[79.89922,22.965508],[79.899219,22.965598],[79.899317,22.965599],[79.899316,22.965689],[79.89999899999999,22.965694]]],"type":"Polygon"}
 }
