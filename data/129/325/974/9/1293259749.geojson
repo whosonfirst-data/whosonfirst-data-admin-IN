@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.46969,10.82798,79.46969,10.82798",
-    "geom:latitude":10.82798,
-    "geom:longitude":79.46969,
+    "geom:bbox":"79.467854,10.826549,79.469412,10.827722",
+    "geom:latitude":10.827093,
+    "geom:longitude":79.46854,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"619.0",
     "gn:asciiname":"Ponnur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.44969,10.80798,79.48969,10.84798",
+    "ks:ks_id":"KS9A42A93C0545485187E2719AD63BC61F",
+    "ks:ks_name":"Ponnur",
+    "ks:ks_pop":464,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|861321",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_178697",
+    "lbl:latitude":10.827119,
+    "lbl:longitude":79.468357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.827119,
+    "mps:longitude":79.468357,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u09a8\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Ponnur"
+    ],
+    "name:eng_x_preferred":[
         "Ponnur"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u84ec\u52aa\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11604760
+        "gn:id":11604760,
+        "ks:id":"KS9A42A93C0545485187E2719AD63BC61F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6a3f22ce645f4fd89ca148625515bc86",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f1efbb3fe3274c87c74878f31855c750",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293259749,
-    "wof:lastmodified":1566690438,
+    "wof:lastmodified":1680658293,
     "wof:name":"Ponnur",
     "wof:parent_id":1108696353,
     "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.46969,
-    10.82798,
-    79.46969,
-    10.82798
+    79.467854,
+    10.826549,
+    79.469412,
+    10.827722
 ],
-  "geometry": {"coordinates":[79.46969,10.82798],"type":"Point"}
+  "geometry": {"coordinates":[[[79.468401,10.827722],[79.468401,10.827632],[79.468493,10.827632],[79.468493,10.827542],[79.468676,10.827543],[79.468678,10.827272],[79.46876899999999,10.827272],[79.46877000000001,10.827182],[79.469044,10.827183],[79.469044,10.827093],[79.469319,10.827094],[79.469319,10.827004],[79.46941099999999,10.827004],[79.46941200000001,10.826823],[79.46932,10.826823],[79.46932099999999,10.826732],[79.469229,10.826732],[79.46923,10.826641],[79.469047,10.826641],[79.469047,10.82655],[79.468864,10.826549],[79.468864,10.82664],[79.46858899999999,10.826638],[79.46858899999999,10.826729],[79.468132,10.826726],[79.468131,10.826817],[79.46804,10.826816],[79.468039,10.826907],[79.46794800000001,10.826906],[79.467947,10.827087],[79.467855,10.827087],[79.467854,10.827358],[79.467946,10.827358],[79.467945,10.827539],[79.468036,10.82754],[79.468035,10.82772],[79.468401,10.827722]]],"type":"Polygon"}
 }

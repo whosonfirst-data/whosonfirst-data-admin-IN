@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.86207,25.59286,85.86207,25.59286",
-    "geom:latitude":25.59286,
-    "geom:longitude":85.86207,
+    "geom:bbox":"85.858549,25.591202,85.860974,25.592819",
+    "geom:latitude":25.592067,
+    "geom:longitude":85.859849,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"222.0",
     "gn:asciiname":"Gunu Chak",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.84207,25.57286,85.88207,25.61286",
+    "ks:ks_id":"KS2EBB03B5ECF64B488078AC744B57D189",
+    "ks:ks_name":"Gomuchak",
+    "ks:ks_pop":299,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|369991",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1359616",
+    "lbl:latitude":25.591741,
+    "lbl:longitude":85.860372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.591741,
+    "mps:longitude":85.860372,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Gomuchak"
+    ],
+    "name:eng_x_variant":[
+        "Gunu Chak"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880650
+        "gn:id":10880650,
+        "ks:id":"KS2EBB03B5ECF64B488078AC744B57D189"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a9a3f9d3319b6b1fa33ae67217d3cda",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e5e5df67ce8cf3e82f738351bb2c8b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1293246083,
-    "wof:lastmodified":1566690008,
-    "wof:name":"Gunu Chak",
+    "wof:lastmodified":1680658003,
+    "wof:name":"Gomuchak",
     "wof:parent_id":1108695923,
     "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.86206999999997,
-    25.59286,
-    85.86206999999997,
-    25.59286
+    85.858549,
+    25.591202,
+    85.860974,
+    25.592819
 ],
-  "geometry": {"coordinates":[85.86206999999997,25.59286],"type":"Point"}
+  "geometry": {"coordinates":[[[85.85989600000001,25.592819],[85.85989600000001,25.59228],[85.860974,25.59228],[85.860974,25.591202],[85.85989600000001,25.591202],[85.85989600000001,25.592011],[85.858549,25.592011],[85.858549,25.592819],[85.85989600000001,25.592819]]],"type":"Polygon"}
 }

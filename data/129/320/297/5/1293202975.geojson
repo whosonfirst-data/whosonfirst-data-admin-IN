@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.10976,13.34648,79.10976,13.34648",
-    "geom:latitude":13.34648,
-    "geom:longitude":79.10976,
+    "geom:bbox":"79.109135,13.34584,79.110706,13.347562",
+    "geom:latitude":13.34672,
+    "geom:longitude":79.109973,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Kottur",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.08976,13.32648,79.12976,13.36648",
+    "ks:ks_id":"KS06D74DD44F934493AA67D4466A11A0AA",
+    "ks:ks_name":"Kothur",
+    "ks:ks_pop":77,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|586117",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_319463",
+    "lbl:latitude":13.346745,
+    "lbl:longitude":79.109958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.346745,
+    "mps:longitude":79.109958,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a4\u09cd\u09a4\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kothur"
+    ],
+    "name:eng_x_variant":[
+        "Kottur"
     ],
     "name:new_x_preferred":[
         "\u0915\u094b\u091f\u094d\u091f\u0941\u0930"
@@ -39,7 +55,13 @@
     "name:vie_x_preferred":[
         "Kottur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11420361
+        "gn:id":11420361,
+        "ks:id":"KS06D74DD44F934493AA67D4466A11A0AA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d7fb07ee0974e6073a7c5c4216fa312",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d58c099138da878c0723d26efd1232e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1293202975,
-    "wof:lastmodified":1566691234,
-    "wof:name":"Kottur",
+    "wof:lastmodified":1680658811,
+    "wof:name":"Kothur",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.10976,
-    13.34648,
-    79.10976,
-    13.34648
+    79.109135,
+    13.34584,
+    79.110706,
+    13.347562
 ],
-  "geometry": {"coordinates":[79.10975999999999,13.34648],"type":"Point"}
+  "geometry": {"coordinates":[[[79.110238,13.347562],[79.11023900000001,13.347471],[79.110608,13.347474],[79.110609,13.347384],[79.11070100000001,13.347384],[79.11070599999999,13.346661],[79.110614,13.346661],[79.11061599999999,13.346389],[79.110524,13.346389],[79.110525,13.346208],[79.110433,13.346207],[79.110435,13.346027],[79.110342,13.346026],[79.110343,13.345935],[79.110158,13.345934],[79.110159,13.345844],[79.10969799999999,13.34584],[79.109697,13.345931],[79.109512,13.345929],[79.109512,13.34602],[79.109419,13.346019],[79.10941699999999,13.34629],[79.109325,13.346289],[79.109323,13.34656],[79.10923,13.34656],[79.109229,13.346741],[79.109137,13.34674],[79.10913499999999,13.347011],[79.109227,13.347012],[79.10922600000001,13.347102],[79.109319,13.347103],[79.109318,13.347193],[79.10941,13.347194],[79.109409,13.347284],[79.109594,13.347286],[79.109593,13.347376],[79.10977800000001,13.347377],[79.10977699999999,13.347468],[79.109962,13.347469],[79.109961,13.347559],[79.110238,13.347562]]],"type":"Polygon"}
 }

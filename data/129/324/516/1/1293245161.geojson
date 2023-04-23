@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.81985,26.21321,80.81985,26.21321",
-    "geom:latitude":26.21321,
-    "geom:longitude":80.81985,
+    "geom:bbox":"80.818981,26.212156,80.820984,26.213962",
+    "geom:latitude":26.213095,
+    "geom:longitude":80.820043,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Chandpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.79985,26.19321,80.83985,26.23321",
+    "ks:ks_alt_nam":"Ch\u0101ndpur",
+    "ks:ks_id":"KS97D8A6F2615D4825BD066844994256ED",
+    "ks:ks_name":"Chandpur",
+    "ks:ks_pop":349,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13006328",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1863469",
+    "lbl:latitude":26.213124,
+    "lbl:longitude":80.820062,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.213124,
+    "mps:longitude":80.820062,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Chandpur"
+    ],
+    "name:eng_x_preferred":[
+        "Chandpur"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101ndpur"
     ],
     "name:ita_x_preferred":[
         "Chandpur"
@@ -54,7 +71,13 @@
     "name:swe_x_preferred":[
         "Chandpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10555291
+        "gn:id":10555291,
+        "ks:id":"KS97D8A6F2615D4825BD066844994256ED"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d99237e7c2ece9eb7fac90303dcfc46a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8616474a55db363d895dfd6c478ebc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +104,22 @@
         }
     ],
     "wof:id":1293245161,
-    "wof:lastmodified":1566689984,
+    "wof:lastmodified":1680657988,
     "wof:name":"Chandpur",
     "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.81985,
-    26.21321,
-    80.81985,
-    26.21321
+    80.818981,
+    26.212156,
+    80.820984,
+    26.213962
 ],
-  "geometry": {"coordinates":[80.81985,26.21321],"type":"Point"}
+  "geometry": {"coordinates":[[[80.820381,26.213962],[80.820381,26.213871],[80.820482,26.213871],[80.820482,26.213781],[80.820582,26.213781],[80.820582,26.213691],[80.82068200000001,26.213691],[80.82068200000001,26.213601],[80.82078199999999,26.213601],[80.82078300000001,26.21324],[80.82088299999999,26.21324],[80.82088299999999,26.21315],[80.820983,26.21315],[80.820984,26.212879],[80.82088400000001,26.212879],[80.82088400000001,26.212698],[80.820784,26.212698],[80.820784,26.212427],[80.820684,26.212427],[80.820684,26.212246],[80.820584,26.212246],[80.820584,26.212156],[80.82048399999999,26.212156],[80.82048399999999,26.212336],[80.820284,26.212336],[80.820284,26.212426],[80.820083,26.212426],[80.820083,26.212516],[80.819182,26.212515],[80.819182,26.212606],[80.81898200000001,26.212605],[80.81898099999999,26.213057],[80.819081,26.213057],[80.819081,26.213147],[80.819181,26.213147],[80.819181,26.213238],[80.819281,26.213238],[80.819281,26.213328],[80.81938100000001,26.213328],[80.81938100000001,26.213419],[80.819481,26.213419],[80.819481,26.213509],[80.819581,26.213509],[80.819581,26.21378],[80.819681,26.21378],[80.819681,26.213961],[80.820381,26.213962]]],"type":"Polygon"}
 }
