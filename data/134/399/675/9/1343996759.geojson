@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.69987,22.02799,81.69987,22.02799",
-    "geom:latitude":22.02799,
-    "geom:longitude":81.69987,
+    "geom:bbox":"81.699084,22.027031,81.700534,22.028842",
+    "geom:latitude":22.02795,
+    "geom:longitude":81.699883,
     "gn:admin1_code":"37",
     "gn:admin2_code":"406.0",
     "gn:asciiname":"Bhatapara",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.67987,22.00799,81.71987,22.04799",
+    "ks:ks_alt_nam":"BHATAPARA   K",
+    "ks:ks_id":"KS1C3E05EB4E644A6C9156F57E9F570EFC",
+    "ks:ks_name":"Bhatapara K",
+    "ks:ks_pop":65,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1171674",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_975279",
+    "lbl:latitude":22.027496,
+    "lbl:longitude":81.699894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.027496,
+    "mps:longitude":81.699894,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09a4\u09be\u09aa\u09be\u09b0\u09be"
@@ -38,6 +49,13 @@
     ],
     "name:ceb_x_preferred":[
         "Bh\u0101t\u0101p\u0101ra"
+    ],
+    "name:eng_x_preferred":[
+        "Bhatapara K"
+    ],
+    "name:eng_x_variant":[
+        "Bhatapara",
+        "BHATAPARA   K"
     ],
     "name:ita_x_preferred":[
         "Bhatapara"
@@ -66,7 +84,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5854\u5e15\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +99,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10725300
+        "gn:id":10725300,
+        "ks:id":"KS1C3E05EB4E644A6C9156F57E9F570EFC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f9e0adf86b7e2b01881f61d4c550f29b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"292c5e88c9853df6786bf4692d1016b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +117,22 @@
         }
     ],
     "wof:id":1343996759,
-    "wof:lastmodified":1566685858,
-    "wof:name":"Bhatapara",
+    "wof:lastmodified":1680655716,
+    "wof:name":"Bhatapara K",
     "wof:parent_id":890506469,
     "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.69986999999998,
-    22.02799,
-    81.69986999999998,
-    22.02799
+    81.699084,
+    22.027031,
+    81.700534,
+    22.028842
 ],
-  "geometry": {"coordinates":[81.69986999999998,22.02799],"type":"Point"}
+  "geometry": {"coordinates":[[[81.700343,22.028566],[81.70034099999999,22.028024],[81.70043800000001,22.028024],[81.70043699999999,22.027843],[81.700534,22.027842],[81.70053299999999,22.027662],[81.700436,22.027662],[81.700434,22.027301],[81.700337,22.027301],[81.700337,22.027211],[81.70023999999999,22.027211],[81.700239,22.027121],[81.700143,22.027121],[81.700142,22.027031],[81.699561,22.027034],[81.699561,22.027124],[81.69946400000001,22.027124],[81.699468,22.027847],[81.69956500000001,22.027847],[81.69956500000001,22.027937],[81.699856,22.027936],[81.699856,22.028026],[81.69995299999999,22.028026],[81.69995400000001,22.028206],[81.69976,22.028207],[81.699761,22.028297],[81.69947000000001,22.028299],[81.699471,22.028389],[81.699277,22.02839],[81.699277,22.02848],[81.69918,22.028481],[81.699181,22.028571],[81.699084,22.028571],[81.699085,22.028842],[81.699763,22.028839],[81.699763,22.028749],[81.70015100000001,22.028747],[81.70014999999999,22.028657],[81.700247,22.028657],[81.700247,22.028566],[81.700343,22.028566]]],"type":"Polygon"}
 }

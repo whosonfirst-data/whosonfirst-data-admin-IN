@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.78616,21.67581,79.78616,21.67581",
-    "geom:latitude":21.67581,
-    "geom:longitude":79.78616,
+    "geom:bbox":"79.786449,21.675172,79.787609,21.67635",
+    "geom:latitude":21.675772,
+    "geom:longitude":79.787038,
     "gn:admin1_code":"35",
     "gn:admin2_code":"457.0",
     "gn:asciiname":"Pipariya",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.76616,21.65581,79.80616,21.69581",
+    "ks:ks_id":"KS98FA713EA58745E3AF30BFC8022AF41F",
+    "ks:ks_name":"Pipariya",
+    "ks:ks_pop":625,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|854609",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_967681",
+    "lbl:latitude":21.67576,
+    "lbl:longitude":79.787038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.67576,
+    "mps:longitude":79.787038,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Pipariya"
+    ],
+    "name:eng_x_preferred":[
         "Pipariya"
     ],
     "name:hin_x_preferred":[
@@ -42,7 +55,13 @@
     "name:pol_x_preferred":[
         "Pipariya"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10514841
+        "gn:id":10514841,
+        "ks:id":"KS98FA713EA58745E3AF30BFC8022AF41F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8a8312654f23f49590007c3f062fc090",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6a32653fdcde22ac1cac93ed87161888",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1344002483,
-    "wof:lastmodified":1566686506,
+    "wof:lastmodified":1680656054,
     "wof:name":"Pipariya",
     "wof:parent_id":890508835,
     "wof:placetype":"locality",
+    "wof:population":625,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.78616,
-    21.67581,
-    79.78616,
-    21.67581
+    79.786449,
+    21.675172,
+    79.787609,
+    21.67635
 ],
-  "geometry": {"coordinates":[79.78616,21.67581],"type":"Point"}
+  "geometry": {"coordinates":[[[79.787413,21.67635],[79.787414,21.676259],[79.78751,21.67626],[79.78751099999999,21.67617],[79.78760800000001,21.67617],[79.787609,21.67599],[79.787513,21.675989],[79.787514,21.675808],[79.787417,21.675808],[79.78742099999999,21.675356],[79.787325,21.675355],[79.787325,21.675265],[79.787229,21.675264],[79.787229,21.675174],[79.786939,21.675172],[79.786939,21.675262],[79.786745,21.675261],[79.786745,21.675351],[79.786648,21.67535],[79.786647,21.675441],[79.786551,21.67544],[79.78654899999999,21.675621],[79.786452,21.67562],[79.786449,21.675981],[79.786643,21.675983],[79.786642,21.676073],[79.786835,21.676075],[79.786835,21.676165],[79.786931,21.676166],[79.78693,21.676256],[79.78702699999999,21.676257],[79.787026,21.676347],[79.787413,21.67635]]],"type":"Polygon"}
 }

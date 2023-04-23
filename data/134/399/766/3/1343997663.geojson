@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.47178,25.48552,82.47178,25.48552",
-    "geom:latitude":25.48552,
-    "geom:longitude":82.47178,
+    "geom:bbox":"82.474546,25.484344,82.47554,25.485252",
+    "geom:latitude":25.484851,
+    "geom:longitude":82.475044,
     "gn:admin1_code":"36",
     "gn:admin2_code":"198.0",
     "gn:asciiname":"Sujanpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.45178,25.46552,82.49178,25.50552",
+    "ks:ks_alt_nam":"Suj\u0101npur",
+    "ks:ks_id":"KSBD4DC9B5FC5040049E661271542C36A6",
+    "ks:ks_name":"Sujanpur",
+    "ks:ks_pop":530,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1013683",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1914110",
+    "lbl:latitude":25.484852,
+    "lbl:longitude":82.475044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.484852,
+    "mps:longitude":82.475044,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u099c\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u099c\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sujanpur"
+    ],
+    "name:eng_x_variant":[
+        "Suj\u0101npur"
     ],
     "name:ita_x_preferred":[
         "Sujanpur"
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u8a79\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10544209
+        "gn:id":10544209,
+        "ks:id":"KSBD4DC9B5FC5040049E661271542C36A6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f47e268a0043c9660a069c8179788759",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cbf505586cd8e460a662ac4b4b419b89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1343997663,
-    "wof:lastmodified":1566685891,
+    "wof:lastmodified":1680655736,
     "wof:name":"Sujanpur",
     "wof:parent_id":1108695883,
     "wof:placetype":"locality",
+    "wof:population":530,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.47178000000002,
-    25.48552,
-    82.47178000000002,
-    25.48552
+    82.474546,
+    25.484344,
+    82.47554,
+    25.485252
 ],
-  "geometry": {"coordinates":[82.47178000000002,25.48552],"type":"Point"}
+  "geometry": {"coordinates":[[[82.47554,25.485061],[82.475538,25.484881],[82.47543899999999,25.484882],[82.475436,25.484701],[82.475337,25.484702],[82.475335,25.484522],[82.475235,25.484523],[82.475234,25.484432],[82.47503500000001,25.484434],[82.47503399999999,25.484344],[82.474935,25.484345],[82.474936,25.484435],[82.474836,25.484436],[82.474839,25.484617],[82.474739,25.484618],[82.47474099999999,25.484798],[82.474642,25.484799],[82.474645,25.48507],[82.474546,25.485071],[82.474548,25.485252],[82.47474699999999,25.48525],[82.474746,25.485159],[82.475442,25.485152],[82.475441,25.485062],[82.47554,25.485061]]],"type":"Polygon"}
 }
