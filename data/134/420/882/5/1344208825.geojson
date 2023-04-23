@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.11191,21.57947,82.11191,21.57947",
-    "geom:latitude":21.57947,
-    "geom:longitude":82.11191,
+    "geom:bbox":"82.111268,21.578582,82.112832,21.581475",
+    "geom:latitude":21.579908,
+    "geom:longitude":82.112124,
     "gn:admin1_code":"37",
     "gn:admin2_code":"410.0",
     "gn:asciiname":"Chicholi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.09191,21.55947,82.13191,21.59947",
+    "ks:ks_id":"KS173BA1597C2F48BBB8E24CC0F170D959",
+    "ks:ks_name":"Chicholi",
+    "ks:ks_pop":229,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1167217",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_965947",
+    "lbl:latitude":21.579941,
+    "lbl:longitude":82.112109,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.579941,
+    "mps:longitude":82.112109,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u099a\u09cb\u09b2\u09bf"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Ch\u012bcholi"
+    ],
+    "name:eng_x_preferred":[
+        "Chicholi"
     ],
     "name:glg_x_preferred":[
         "Chicholi"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5947\u4e54\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10444114
+        "gn:id":10444114,
+        "ks:id":"KS173BA1597C2F48BBB8E24CC0F170D959"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7b94f31c5a51e297b3f0e12853b2b5c0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f6a18e5bd5c77f34cabb306802dedb97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1344208825,
-    "wof:lastmodified":1566688282,
+    "wof:lastmodified":1680656997,
     "wof:name":"Chicholi",
     "wof:parent_id":1108696189,
     "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.11191,
-    21.57947,
-    82.11191,
-    21.57947
+    82.111268,
+    21.578582,
+    82.112832,
+    21.581475
 ],
-  "geometry": {"coordinates":[82.11190999999999,21.57947],"type":"Point"}
+  "geometry": {"coordinates":[[[82.112736,21.581473],[82.112736,21.581382],[82.112832,21.581382],[82.112827,21.580659],[82.11273,21.58066],[82.112728,21.580389],[82.11263099999999,21.580389],[82.11262600000001,21.579667],[82.11252899999999,21.579667],[82.112528,21.579487],[82.112624,21.579486],[82.112621,21.579034],[82.112718,21.579034],[82.11271600000001,21.578763],[82.11281200000001,21.578762],[82.11281099999999,21.578672],[82.11271499999999,21.578672],[82.112714,21.578582],[82.112521,21.578583],[82.112522,21.578674],[82.111363,21.578681],[82.11136399999999,21.578862],[82.111268,21.578863],[82.111272,21.579405],[82.111368,21.579404],[82.11136999999999,21.579585],[82.11146599999999,21.579584],[82.111469,21.579945],[82.111566,21.579945],[82.11156800000001,21.580216],[82.111664,21.580215],[82.111666,21.580396],[82.111762,21.580395],[82.111766,21.580937],[82.111863,21.580936],[82.111864,21.581117],[82.11196099999999,21.581116],[82.11196099999999,21.581207],[82.112058,21.581206],[82.112059,21.581296],[82.112252,21.581295],[82.112253,21.581385],[82.11234899999999,21.581385],[82.11235000000001,21.581475],[82.112736,21.581473]]],"type":"Polygon"}
 }

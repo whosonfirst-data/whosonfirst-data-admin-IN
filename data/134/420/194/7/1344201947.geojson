@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.49864,25.04469,80.49864,25.04469",
-    "geom:latitude":25.04469,
-    "geom:longitude":80.49864,
+    "geom:bbox":"80.498254,25.044162,80.499147,25.044976",
+    "geom:latitude":25.044589,
+    "geom:longitude":80.498688,
     "gn:admin1_code":"35.0",
     "gn:asciiname":"Sakatpur",
     "gn:country_code":"IN",
@@ -23,16 +23,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.47864,25.02469,80.51864,25.06469",
+    "ks:ks_id":"KS83E1C503247D401C81862AEA852EC608",
+    "ks:ks_name":"Sakatpur",
+    "ks:ks_pop":278,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|939231",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1044835",
+    "lbl:latitude":25.044595,
+    "lbl:longitude":80.49868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.044595,
+    "mps:longitude":80.49868,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sakatpur"
+    ],
     "name:msa_x_preferred":[
         "Sakatpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -41,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10843354
+        "gn:id":10843354,
+        "ks:id":"KS83E1C503247D401C81862AEA852EC608"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c42d084db58805bd7a333e20e52828c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02e13d9069da36f8d22fa817ba34028e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +78,22 @@
         }
     ],
     "wof:id":1344201947,
-    "wof:lastmodified":1566688220,
+    "wof:lastmodified":1680656960,
     "wof:name":"Sakatpur",
     "wof:parent_id":1108695835,
     "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.49864000000002,
-    25.04469,
-    80.49864000000002,
-    25.04469
+    80.498254,
+    25.044162,
+    80.499147,
+    25.044976
 ],
-  "geometry": {"coordinates":[80.49864000000002,25.04469],"type":"Point"}
+  "geometry": {"coordinates":[[[80.498848,25.044976],[80.498848,25.044886],[80.49904600000001,25.044887],[80.499047,25.044616],[80.499146,25.044616],[80.49914699999999,25.044435],[80.499048,25.044435],[80.499048,25.044345],[80.498949,25.044344],[80.49894999999999,25.044254],[80.498751,25.044253],[80.498752,25.044163],[80.498553,25.044162],[80.498553,25.044253],[80.498454,25.044252],[80.498454,25.044343],[80.49835400000001,25.044342],[80.49835400000001,25.044433],[80.498255,25.044432],[80.498254,25.044703],[80.49835299999999,25.044704],[80.498352,25.044884],[80.498451,25.044885],[80.498451,25.044975],[80.498848,25.044976]]],"type":"Polygon"}
 }

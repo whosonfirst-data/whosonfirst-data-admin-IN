@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.62236,24.41659,76.62236,24.41659",
-    "geom:latitude":24.41659,
-    "geom:longitude":76.62236,
+    "geom:bbox":"76.621728,24.415844,76.6235,24.417033",
+    "geom:latitude":24.416473,
+    "geom:longitude":76.622677,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"129.0",
     "gn:asciiname":"Pathri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.60236,24.39659,76.64236,24.43659",
+    "ks:ks_id":"KS266C24B6F7584ADAA0F2A27A8710FAC6",
+    "ks:ks_name":"Pathari",
+    "ks:ks_pop":363,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|836825",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_912689",
+    "lbl:latitude":24.416438,
+    "lbl:longitude":76.622738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.416438,
+    "mps:longitude":76.622738,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a5\u09be\u09b0\u09bf"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "P\u0101thri"
+    ],
+    "name:eng_x_preferred":[
+        "Pathari"
+    ],
+    "name:eng_x_variant":[
+        "Pathri"
     ],
     "name:hif_x_preferred":[
         "Pathri"
@@ -69,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u7279\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10333426
+        "gn:id":10333426,
+        "ks:id":"KS266C24B6F7584ADAA0F2A27A8710FAC6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d6d0496c00a118a8672ea574039aea7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b98809c1f472f0ca2f09b34ae84a8ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1344225189,
-    "wof:lastmodified":1566686111,
-    "wof:name":"Pathri",
+    "wof:lastmodified":1680655851,
+    "wof:name":"Pathari",
     "wof:parent_id":1108695785,
     "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.62236,
-    24.41659,
-    76.62236,
-    24.41659
+    76.621728,
+    24.415844,
+    76.6235,
+    24.417033
 ],
-  "geometry": {"coordinates":[76.62236,24.41659],"type":"Point"}
+  "geometry": {"coordinates":[[[76.622423,24.417028],[76.622422,24.416938],[76.622619,24.416935],[76.622618,24.416845],[76.622815,24.416843],[76.62281400000001,24.416753],[76.62311,24.41675],[76.623109,24.416659],[76.62320699999999,24.416658],[76.623206,24.416568],[76.623403,24.416566],[76.623401,24.416385],[76.62350000000001,24.416384],[76.62349500000001,24.416023],[76.623396,24.416024],[76.623394,24.415844],[76.623,24.415848],[76.623001,24.415938],[76.622902,24.415939],[76.62290400000001,24.416029],[76.62270599999999,24.416032],[76.62270700000001,24.416122],[76.62251000000001,24.416124],[76.622511,24.416214],[76.622314,24.416216],[76.622315,24.416307],[76.62221700000001,24.416308],[76.622218,24.416398],[76.622021,24.4164],[76.622022,24.41649],[76.621923,24.416491],[76.62192400000001,24.416582],[76.621826,24.416583],[76.621827,24.416673],[76.621728,24.416674],[76.621731,24.416855],[76.62182900000001,24.416854],[76.62183,24.416944],[76.62192899999999,24.416943],[76.62193000000001,24.417033],[76.622423,24.417028]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.38609,18.61229,77.38609,18.61229",
-    "geom:latitude":18.61229,
-    "geom:longitude":77.38609,
+    "geom:bbox":"77.38549,18.61158,77.38701,18.613028",
+    "geom:latitude":18.612337,
+    "geom:longitude":77.386183,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Kasarwadi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.36609,18.59229,77.40609,18.63229",
+    "ks:ks_id":"KS25ACF85E2B36458884DDEEA1B96C5B69",
+    "ks:ks_name":"Kasarwadi",
+    "ks:ks_pop":220,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|519229",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_538001",
+    "lbl:latitude":18.612346,
+    "lbl:longitude":77.386168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.612346,
+    "mps:longitude":77.386168,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0631\u0641\u0627\u062f\u064a"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u09b0\u0993\u09df\u09be\u09a1\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kasarwadi"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0ab8\u0aa8\u0ab5\u0abe\u0aa1\u0ac0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0633\u0627\u0631 \u0648\u0627\u0688\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10449368
+        "gn:id":10449368,
+        "ks:id":"KS25ACF85E2B36458884DDEEA1B96C5B69"
     },
     "wof:country":"IN",
-    "wof:geomhash":"92a73c4dd94e8346b802002c2642e957",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"24cb4e00161e52b672ed9e94854a6eb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1344226223,
-    "wof:lastmodified":1577749721,
+    "wof:lastmodified":1680655855,
     "wof:name":"Kasarwadi",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.38609,
-    18.61229,
-    77.38609,
-    18.61229
+    77.38549,
+    18.61158,
+    77.38701,
+    18.613028
 ],
-  "geometry": {"coordinates":[77.38609,18.61229],"type":"Point"}
+  "geometry": {"coordinates":[[[77.38616500000001,18.613025],[77.38616399999999,18.612935],[77.386448,18.612931],[77.386447,18.612841],[77.38663699999999,18.612839],[77.386635,18.612748],[77.386825,18.612746],[77.38682300000001,18.612656],[77.38691799999999,18.612654],[77.386916,18.612474],[77.38701,18.612473],[77.38700799999999,18.612292],[77.38691300000001,18.612293],[77.386911,18.612113],[77.386816,18.612114],[77.386815,18.612024],[77.38672,18.612025],[77.386719,18.611934],[77.386624,18.611936],[77.386623,18.611845],[77.386528,18.611847],[77.386527,18.611756],[77.386337,18.611759],[77.386336,18.611668],[77.38614699999999,18.611671],[77.386145,18.61158],[77.38595599999999,18.611583],[77.385957,18.611673],[77.385768,18.611676],[77.38576999999999,18.611856],[77.385676,18.611857],[77.385678,18.612038],[77.385583,18.612039],[77.38558500000001,18.612129],[77.38549,18.612131],[77.385499,18.612763],[77.385593,18.612762],[77.385595,18.612852],[77.385689,18.612851],[77.38569099999999,18.612941],[77.385975,18.612937],[77.385976,18.613028],[77.38616500000001,18.613025]]],"type":"Polygon"}
 }
