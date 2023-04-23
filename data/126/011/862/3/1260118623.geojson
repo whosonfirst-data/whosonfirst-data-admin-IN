@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.18391,24.15887,84.18391,24.15887",
-    "geom:latitude":24.15887,
-    "geom:longitude":84.18391,
+    "geom:bbox":"84.183101,24.158569,84.185257,24.159647",
+    "geom:latitude":24.158973,
+    "geom:longitude":84.184089,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"358.0",
     "gn:asciiname":"Kharaunha",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.16391,24.13887,84.20391,24.17887",
+    "ks:ks_id":"KS0E1CF60287914B41A93727649098E9A9",
+    "ks:ks_name":"Kharaundha",
+    "ks:ks_pop":689,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2002000600189700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1042456",
+    "lbl:latitude":24.158839,
+    "lbl:longitude":84.184089,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.158839,
+    "mps:longitude":84.184089,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kharaundha"
+    ],
+    "name:eng_x_variant":[
+        "Kharaunha"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10836186
+        "gn:id":10836186,
+        "ks:id":"KS0E1CF60287914B41A93727649098E9A9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"33087a54aaf441b39284fc52150c7bf7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc2eb58acc6bef2ad9020c446ca903e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1260118623,
-    "wof:lastmodified":1566699624,
-    "wof:name":"Kharaunha",
+    "wof:lastmodified":1680667530,
+    "wof:name":"Kharaundha",
     "wof:parent_id":1108696111,
     "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.18391,
-    24.15887,
-    84.18391,
-    24.15887
+    84.183101,
+    24.158569,
+    84.185257,
+    24.159647
 ],
-  "geometry": {"coordinates":[84.18391,24.15887],"type":"Point"}
+  "geometry": {"coordinates":[[[84.18364,24.159647],[84.18364,24.159108],[84.18525699999999,24.159108],[84.18525699999999,24.158569],[84.18364,24.158569],[84.18364,24.158839],[84.18310099999999,24.158839],[84.18310099999999,24.159647],[84.18364,24.159647]]],"type":"Polygon"}
 }
