@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.32921,18.6287,76.32921,18.6287",
-    "geom:latitude":18.6287,
-    "geom:longitude":76.32921,
+    "geom:bbox":"76.328548,18.62843,76.329597,18.629788",
+    "geom:latitude":18.629092,
+    "geom:longitude":76.329084,
     "gn:admin1_code":"16",
     "gn:admin2_code":"523.0",
     "gn:asciiname":"Nanded",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.30921,18.6087,76.34921,18.6487",
+    "ks:ks_alt_nam":"N\u0101nded",
+    "ks:ks_id":"KS988EA4059CD34AFEABAB0E79FAF1D97E",
+    "ks:ks_name":"Nanded",
+    "ks:ks_source_id":"N|12862393",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_538336",
+    "lbl:latitude":18.629049,
+    "lbl:longitude":76.329074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.629049,
+    "mps:longitude":76.329074,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u062f\u064a\u062f"
@@ -50,6 +59,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bd\u03c4\u03ad\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Nanded"
+    ],
+    "name:eng_x_variant":[
+        "N\u0101nded"
     ],
     "name:epo_x_preferred":[
         "Nanded"
@@ -171,7 +186,11 @@
     "name:zho_x_preferred":[
         "\u6960\u4ee3\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -180,10 +199,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10436344
+        "gn:id":10436344,
+        "ks:id":"KS988EA4059CD34AFEABAB0E79FAF1D97E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"84fe1e2128168091c5190f5ab04d665c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"27a7428bd9c74842ae3fbdb5b5a38c54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +217,7 @@
         }
     ],
     "wof:id":1259861449,
-    "wof:lastmodified":1636505900,
+    "wof:lastmodified":1680677005,
     "wof:name":"Nanded",
     "wof:parent_id":1108696307,
     "wof:placetype":"locality",
@@ -204,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.32921,
-    18.6287,
-    76.32921,
-    18.6287
+    76.328548,
+    18.62843,
+    76.329597,
+    18.629788
 ],
-  "geometry": {"coordinates":[76.32921,18.6287],"type":"Point"}
+  "geometry": {"coordinates":[[[76.329409,18.629694],[76.329408,18.629604],[76.329503,18.629603],[76.329503,18.629513],[76.32959700000001,18.629512],[76.329593,18.62897],[76.329498,18.62897],[76.32949600000001,18.628609],[76.329401,18.62861],[76.32940000000001,18.628519],[76.32930500000001,18.62852],[76.32930500000001,18.62843],[76.32883099999999,18.628433],[76.32883099999999,18.628523],[76.328737,18.628524],[76.328737,18.628614],[76.328548,18.628616],[76.328552,18.629158],[76.328647,18.629157],[76.328648,18.629338],[76.328743,18.629337],[76.328745,18.629608],[76.32884,18.629608],[76.328841,18.629788],[76.32931499999999,18.629785],[76.329314,18.629695],[76.329409,18.629694]]],"type":"Polygon"}
 }

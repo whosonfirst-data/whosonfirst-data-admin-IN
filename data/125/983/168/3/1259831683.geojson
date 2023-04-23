@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.19836,25.98627,80.19836,25.98627",
-    "geom:latitude":25.98627,
-    "geom:longitude":80.19836,
+    "geom:bbox":"80.197499,25.985478,80.199699,25.987285",
+    "geom:latitude":25.986423,
+    "geom:longitude":80.198615,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"164.0",
     "gn:asciiname":"Surajpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.17836,25.96627,80.21836,26.00627",
+    "ks:ks_id":"KS5ED6A6B83FA3457DA5076F98AB5DB1B3",
+    "ks:ks_name":"Surajpur",
+    "ks:ks_pop":218,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1019523",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1857103",
+    "lbl:latitude":25.986366,
+    "lbl:longitude":80.198594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.986366,
+    "mps:longitude":80.198594,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627\u062c \u0628\u0648\u0631"
@@ -49,6 +59,9 @@
         "\u09b8\u09c1\u09b0\u099c\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Surajpur"
+    ],
+    "name:eng_x_preferred":[
         "Surajpur"
     ],
     "name:fra_x_preferred":[
@@ -108,7 +121,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u62c9\u6770\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10842561
+        "gn:id":10842561,
+        "ks:id":"KS5ED6A6B83FA3457DA5076F98AB5DB1B3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"872f37f948052e4fc309cfe4dadce471",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ecef403bcca5e3f1d85d0c2d208b141d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +154,22 @@
         }
     ],
     "wof:id":1259831683,
-    "wof:lastmodified":1577753724,
+    "wof:lastmodified":1680676258,
     "wof:name":"Surajpur",
     "wof:parent_id":890504051,
     "wof:placetype":"locality",
+    "wof:population":218,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.19836,
-    25.98627,
-    80.19836,
-    25.98627
+    80.197499,
+    25.985478,
+    80.199699,
+    25.987285
 ],
-  "geometry": {"coordinates":[80.19835999999999,25.98627],"type":"Point"}
+  "geometry": {"coordinates":[[[80.198594,25.987285],[80.198594,25.987194],[80.19919400000001,25.987198],[80.19919400000001,25.987107],[80.199494,25.987109],[80.199494,25.987019],[80.199594,25.987019],[80.199595,25.986929],[80.19969500000001,25.98693],[80.199699,25.986298],[80.19959900000001,25.986297],[80.199601,25.986026],[80.199501,25.986026],[80.19950300000001,25.985755],[80.199403,25.985754],[80.199404,25.985664],[80.199304,25.985663],[80.199304,25.985573],[80.199005,25.985571],[80.199005,25.985481],[80.19840600000001,25.985478],[80.19840499999999,25.985568],[80.198206,25.985567],[80.198205,25.985657],[80.19800499999999,25.985656],[80.19800499999999,25.985746],[80.19790500000001,25.985746],[80.19790399999999,25.985836],[80.197804,25.985836],[80.19780299999999,25.986016],[80.197703,25.986016],[80.19770200000001,25.986106],[80.197602,25.986105],[80.19760100000001,25.986286],[80.197501,25.986285],[80.19749899999999,25.986646],[80.197599,25.986647],[80.197596,25.987098],[80.19769599999999,25.987099],[80.197695,25.987189],[80.197895,25.98719],[80.19789400000001,25.987281],[80.198594,25.987285]]],"type":"Polygon"}
 }

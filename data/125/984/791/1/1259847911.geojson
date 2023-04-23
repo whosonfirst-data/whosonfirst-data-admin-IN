@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.19287,31.0675,76.19287,31.0675",
-    "geom:latitude":31.0675,
-    "geom:longitude":76.19287,
+    "geom:bbox":"76.190905,31.065409,76.193017,31.06785",
+    "geom:latitude":31.066601,
+    "geom:longitude":76.191851,
     "gn:admin1_code":"23",
     "gn:admin2_code":"39.0",
     "gn:asciiname":"Ramgarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.17287,31.0475,76.21287,31.0875",
+    "ks:ks_id":"KSF806950D8A254B7EADDB2A6FC25CD69F",
+    "ks:ks_name":"Ramgarh",
+    "ks:ks_pop":261,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0306000100616900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2662655",
+    "lbl:latitude":31.066569,
+    "lbl:longitude":76.191871,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.066569,
+    "mps:longitude":76.191871,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u062c\u0631\u0627\u0647"
@@ -46,6 +56,9 @@
         "Ramgarh"
     ],
     "name:deu_x_preferred":[
+        "Ramgarh"
+    ],
+    "name:eng_x_preferred":[
         "Ramgarh"
     ],
     "name:guj_x_preferred":[
@@ -87,7 +100,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645 \u06af\u0691\u06be"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10729275
+        "gn:id":10729275,
+        "ks:id":"KSF806950D8A254B7EADDB2A6FC25CD69F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f96e38ca8a75453210c79cbb140880bc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3e64e6b89cc434b4598744a84efaddc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +133,22 @@
         }
     ],
     "wof:id":1259847911,
-    "wof:lastmodified":1577753747,
+    "wof:lastmodified":1680676313,
     "wof:name":"Ramgarh",
     "wof:parent_id":890502845,
     "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.19287,
-    31.0675,
-    76.19287,
-    31.0675
+    76.190905,
+    31.065409,
+    76.193017,
+    31.06785
 ],
-  "geometry": {"coordinates":[76.19287,31.0675],"type":"Point"}
+  "geometry": {"coordinates":[[[76.19198,31.067846],[76.191979,31.067756],[76.192189,31.067754],[76.192187,31.067664],[76.192397,31.067662],[76.192396,31.067572],[76.19250099999999,31.067571],[76.1925,31.06748],[76.192604,31.067479],[76.19260199999999,31.067299],[76.192707,31.067298],[76.192706,31.067208],[76.19281100000001,31.067207],[76.192809,31.067117],[76.192914,31.067116],[76.19291200000001,31.066935],[76.193017,31.066934],[76.193012,31.066573],[76.19290700000001,31.066574],[76.192905,31.066394],[76.19280000000001,31.066395],[76.192797,31.066124],[76.19269199999999,31.066125],[76.19269,31.065945],[76.19258499999999,31.065946],[76.192584,31.065856],[76.19247900000001,31.065857],[76.19247799999999,31.065766],[76.192373,31.065767],[76.19237200000001,31.065677],[76.192267,31.065678],[76.192266,31.065588],[76.192161,31.065589],[76.19216,31.065499],[76.19205599999999,31.0655],[76.192054,31.065409],[76.19111100000001,31.065418],[76.191112,31.065508],[76.191008,31.065509],[76.19101000000001,31.06569],[76.190905,31.065691],[76.19091899999999,31.066773],[76.191023,31.066772],[76.191031,31.067404],[76.191136,31.067403],[76.191138,31.067583],[76.191243,31.067582],[76.191245,31.067763],[76.19156,31.06776],[76.19156099999999,31.06785],[76.19198,31.067846]]],"type":"Polygon"}
 }
