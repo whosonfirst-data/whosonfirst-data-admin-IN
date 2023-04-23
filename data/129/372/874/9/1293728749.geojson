@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.82733,21.81978,74.82733,21.81978",
-    "geom:latitude":21.81978,
-    "geom:longitude":74.82733,
+    "geom:bbox":"74.824063,21.819733,74.824741,21.820817",
+    "geom:latitude":21.820291,
+    "geom:longitude":74.824379,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"441.0",
     "gn:asciiname":"Bori",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.80733,21.79978,74.84733,21.83978",
+    "ks:ks_id":"KSB05C181CACBD42D8903ABA01EA057766",
+    "ks:ks_name":"Bori",
+    "ks:ks_pop":2612,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|176736",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_741916",
+    "lbl:latitude":21.820308,
+    "lbl:longitude":74.824406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.820308,
+    "mps:longitude":74.824406,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bori"
     ],
     "name:deu_x_preferred":[
+        "Bori"
+    ],
+    "name:eng_x_preferred":[
         "Bori"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +70,13 @@
     "name:vie_x_preferred":[
         "Bori"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10828811
+        "gn:id":10828811,
+        "ks:id":"KSB05C181CACBD42D8903ABA01EA057766"
     },
     "wof:country":"IN",
-    "wof:geomhash":"871161a06732037ecff1b5fcafde419b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"729f1b95890d922c3042c43aa37ebf9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1293728749,
-    "wof:lastmodified":1566691635,
+    "wof:lastmodified":1680659060,
     "wof:name":"Bori",
     "wof:parent_id":1108696227,
     "wof:placetype":"locality",
+    "wof:population":2612,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.82733,
-    21.81978,
-    74.82733,
-    21.81978
+    74.824063,
+    21.819733,
+    74.824741,
+    21.820817
 ],
-  "geometry": {"coordinates":[74.82733,21.81978],"type":"Point"}
+  "geometry": {"coordinates":[[[74.824546,21.820817],[74.824547,21.820727],[74.82464299999999,21.820727],[74.82464299999999,21.820637],[74.82474000000001,21.820637],[74.824741,21.820276],[74.82464400000001,21.820276],[74.82464400000001,21.820004],[74.824451,21.820004],[74.824451,21.819914],[74.824354,21.819914],[74.824354,21.819733],[74.82406400000001,21.819733],[74.824063,21.820275],[74.82416000000001,21.820275],[74.82416000000001,21.820727],[74.824353,21.820727],[74.824353,21.820817],[74.824546,21.820817]]],"type":"Polygon"}
 }
