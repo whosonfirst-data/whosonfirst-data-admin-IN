@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.44988,21.67883,82.44988,21.67883",
-    "geom:latitude":21.67883,
-    "geom:longitude":82.44988,
+    "geom:bbox":"82.448903,21.678141,82.45025,21.678949",
+    "geom:latitude":21.678564,
+    "geom:longitude":82.449615,
     "gn:admin1_code":"37",
     "gn:admin2_code":"410.0",
     "gn:asciiname":"Muriadih",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.42988,21.65883,82.46988,21.69883",
+    "ks:ks_id":"KSCDF38DAFCF3B4E3BB58A0E8D339D832D",
+    "ks:ks_name":"Muriadih",
+    "ks:ks_pop":281,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1167814",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1007251",
+    "lbl:latitude":21.678545,
+    "lbl:longitude":82.449615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.678545,
+    "mps:longitude":82.449615,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Muriadih"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10708019
+        "gn:id":10708019,
+        "ks:id":"KSCDF38DAFCF3B4E3BB58A0E8D339D832D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"731f06656c58c886d711cc9b1f23255c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"54821422f4b3c6822c5fd0930362195a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1327272881,
-    "wof:lastmodified":1566685081,
+    "wof:lastmodified":1680655297,
     "wof:name":"Muriadih",
     "wof:parent_id":1108696189,
     "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.44988000000002,
-    21.67883,
-    82.44988000000002,
-    21.67883
+    82.448903,
+    21.678141,
+    82.45025,
+    21.678949
 ],
-  "geometry": {"coordinates":[82.44988000000002,21.67883],"type":"Point"}
+  "geometry": {"coordinates":[[[82.45025,21.678949],[82.45025,21.678141],[82.449172,21.678141],[82.449172,21.67841],[82.448903,21.67841],[82.448903,21.678949],[82.45025,21.678949]]],"type":"Polygon"}
 }

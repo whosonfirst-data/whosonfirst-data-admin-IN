@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.24868,24.78021,84.24868,24.78021",
-    "geom:latitude":24.78021,
-    "geom:longitude":84.24868,
+    "geom:bbox":"84.245442,24.780172,84.248119,24.780907",
+    "geom:latitude":24.780529,
+    "geom:longitude":84.246937,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Salempur",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.22868,24.76021,84.26868,24.80021",
+    "ks:ks_id":"KS8C04298D436E4B8FAF6E901028A33881",
+    "ks:ks_name":"Salempur",
+    "ks:ks_pop":148,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|942054",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1153087",
+    "lbl:latitude":24.780493,
+    "lbl:longitude":84.24718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.780493,
+    "mps:longitude":84.24718,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Salempur"
+    ],
+    "name:eng_x_preferred":[
         "Salempur"
     ],
     "name:pol_x_preferred":[
@@ -39,7 +52,13 @@
     "name:swe_x_preferred":[
         "Salempur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10834589
+        "gn:id":10834589,
+        "ks:id":"KS8C04298D436E4B8FAF6E901028A33881"
     },
     "wof:country":"IN",
-    "wof:geomhash":"933c1dbc69f0b4f2163c0af56c787e4f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"60dce460b9ccefd78c54b944b7660e43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1327278993,
-    "wof:lastmodified":1566685168,
+    "wof:lastmodified":1680655345,
     "wof:name":"Salempur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.24868000000002,
-    24.78021,
-    84.24868000000002,
-    24.78021
+    84.245442,
+    24.780172,
+    84.248119,
+    24.780907
 ],
-  "geometry": {"coordinates":[84.24868000000002,24.78021],"type":"Point"}
+  "geometry": {"coordinates":[[[84.24761100000001,24.780907],[84.247613,24.780816],[84.24771200000001,24.780818],[84.247714,24.780728],[84.247912,24.780732],[84.24791399999999,24.780642],[84.248013,24.780643],[84.248015,24.780553],[84.248113,24.780555],[84.248119,24.780284],[84.24802099999999,24.780283],[84.248023,24.780192],[84.24693600000001,24.780172],[84.246934,24.780263],[84.24663700000001,24.780257],[84.246635,24.780347],[84.24594399999999,24.780335],[84.245942,24.780425],[84.245744,24.780421],[84.24574200000001,24.780511],[84.245544,24.780508],[84.245542,24.780598],[84.24544400000001,24.780596],[84.245442,24.780686],[84.24554000000001,24.780688],[84.245538,24.780778],[84.246329,24.780793],[84.246331,24.780703],[84.246528,24.780706],[84.246526,24.780796],[84.247218,24.780809],[84.24721599999999,24.780899],[84.24761100000001,24.780907]]],"type":"Polygon"}
 }

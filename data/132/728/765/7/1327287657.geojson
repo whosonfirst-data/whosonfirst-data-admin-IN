@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.2097,25.15719,85.2097,25.15719",
-    "geom:latitude":25.15719,
-    "geom:longitude":85.2097,
+    "geom:bbox":"85.208797,25.156238,85.210414,25.157855",
+    "geom:latitude":25.157034,
+    "geom:longitude":85.209544,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Qasimpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.1897,25.13719,85.2297,25.17719",
+    "ks:ks_id":"KSE9FBF386530E419088077B8BE9B8B8A0",
+    "ks:ks_name":"Kasimpur",
+    "ks:ks_pop":619,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1027001502906400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1334495",
+    "lbl:latitude":25.157014,
+    "lbl:longitude":85.209501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.157014,
+    "mps:longitude":85.209501,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0633\u0645 \u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0995\u09be\u09b8\u09bf\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kasimpur"
+    ],
+    "name:eng_x_variant":[
+        "Qasimpur"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0abf\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0642\u0627\u0633\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017577
+        "gn:id":11017577,
+        "ks:id":"KSE9FBF386530E419088077B8BE9B8B8A0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7de6f45d0217283eb7fedb5644ca6f85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"655a77a01ee189f324f7594ab1ddeb77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1327287657,
-    "wof:lastmodified":1577749604,
-    "wof:name":"Qasimpur",
+    "wof:lastmodified":1680655168,
+    "wof:name":"Kasimpur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":619,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.2097,
-    25.15719,
-    85.2097,
-    25.15719
+    85.208797,
+    25.156238,
+    85.210414,
+    25.157855
 ],
-  "geometry": {"coordinates":[85.2097,25.15719],"type":"Point"}
+  "geometry": {"coordinates":[[[85.210145,25.157855],[85.210145,25.157316],[85.210414,25.157316],[85.210414,25.156507],[85.210145,25.156507],[85.210145,25.156238],[85.208797,25.156238],[85.208797,25.157855],[85.210145,25.157855]]],"type":"Polygon"}
 }

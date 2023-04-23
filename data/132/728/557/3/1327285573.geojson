@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.13452,22.91367,82.13452,22.91367",
-    "geom:latitude":22.91367,
-    "geom:longitude":82.13452,
+    "geom:bbox":"82.13326,22.914059,82.13453,22.915416",
+    "geom:latitude":22.914645,
+    "geom:longitude":82.133839,
     "gn:admin1_code":"37",
     "gn:admin2_code":"406.0",
     "gn:asciiname":"Naka",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.11452,22.89367,82.15452,22.93367",
+    "ks:ks_id":"KS8CC2C0CA76CB430490BE45B3C48381A3",
+    "ks:ks_name":"Naka",
+    "ks:ks_pop":1394,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13137303",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_991730",
+    "lbl:latitude":22.91455,
+    "lbl:longitude":82.133764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.91455,
+    "mps:longitude":82.133764,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naka"
     ],
     "name:deu_x_preferred":[
+        "Naka"
+    ],
+    "name:eng_x_preferred":[
         "Naka"
     ],
     "name:fin_x_preferred":[
@@ -72,7 +85,13 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10703108
+        "gn:id":10703108,
+        "ks:id":"KS8CC2C0CA76CB430490BE45B3C48381A3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"061a3ed06a5a05e28fe7df06bf8236ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9f6775fc6d57a08fb058442ce128e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1327285573,
-    "wof:lastmodified":1566684822,
+    "wof:lastmodified":1680655168,
     "wof:name":"Naka",
     "wof:parent_id":890506469,
     "wof:placetype":"locality",
+    "wof:population":1394,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.13452,
-    22.91367,
-    82.13452,
-    22.91367
+    82.13326,
+    22.914059,
+    82.13453,
+    22.915416
 ],
-  "geometry": {"coordinates":[82.13451999999999,22.91367],"type":"Point"}
+  "geometry": {"coordinates":[[[82.134246,22.915414],[82.134244,22.915233],[82.134342,22.915233],[82.13434100000001,22.915142],[82.134243,22.915143],[82.134242,22.914962],[82.13414400000001,22.914963],[82.134141,22.914602],[82.13423899999999,22.914601],[82.134237,22.914421],[82.13453,22.914418],[82.134528,22.914238],[82.13443100000001,22.914238],[82.13442999999999,22.914148],[82.134235,22.91415],[82.13423400000001,22.914059],[82.133357,22.914066],[82.133358,22.914156],[82.13326000000001,22.914157],[82.133264,22.914608],[82.13336099999999,22.914607],[82.133363,22.914788],[82.13346,22.914787],[82.13346300000001,22.915149],[82.133561,22.915148],[82.133562,22.915238],[82.13365899999999,22.915238],[82.13366000000001,22.915328],[82.13395199999999,22.915326],[82.13395300000001,22.915416],[82.134246,22.915414]]],"type":"Polygon"}
 }

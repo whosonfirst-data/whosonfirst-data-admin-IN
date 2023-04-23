@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.83301,18.00846,80.83301,18.00846",
-    "geom:latitude":18.00846,
-    "geom:longitude":80.83301,
+    "geom:bbox":"80.833225,18.020256,80.834075,18.021883",
+    "geom:latitude":18.021106,
+    "geom:longitude":80.833682,
     "gn:admin1_code":"40",
     "gn:admin2_code":"541.0",
     "gn:asciiname":"Lingala",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.81301,17.98846,80.85301,18.02846",
+    "ks:ks_id":"KSF4C09BBE687A4C69A0B7E410921CC970",
+    "ks:ks_name":"Lingala",
+    "ks:ks_pop":128,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2810000400990200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_596841",
+    "lbl:latitude":18.021142,
+    "lbl:longitude":80.833648,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.021142,
+    "mps:longitude":80.833648,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lingala"
@@ -56,6 +66,9 @@
     ],
     "name:deu_x_preferred":[
         "Ling\u00e1la"
+    ],
+    "name:eng_x_preferred":[
+        "Lingala"
     ],
     "name:epo_x_preferred":[
         "Lingala lingvo"
@@ -198,7 +211,13 @@
     "name:zho_x_preferred":[
         "\u6797\u52a0\u62c9\u8bed"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -207,10 +226,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10759859
+        "gn:id":10759859,
+        "ks:id":"KSF4C09BBE687A4C69A0B7E410921CC970"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9468254202e7b0bbdbe0c7e0b5c71a3d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9d2d3c9f53691f55f400ec2e292ee114",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,20 +244,22 @@
         }
     ],
     "wof:id":1327276443,
-    "wof:lastmodified":1566685069,
+    "wof:lastmodified":1680655292,
     "wof:name":"Lingala",
     "wof:parent_id":890509771,
     "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.83301,
-    18.00846,
-    80.83301,
-    18.00846
+    80.833225,
+    18.020256,
+    80.834075,
+    18.021883
 ],
-  "geometry": {"coordinates":[80.83301,18.00846],"type":"Point"}
+  "geometry": {"coordinates":[[[80.83388600000001,18.021883],[80.83388600000001,18.021702],[80.83398,18.021703],[80.83398099999999,18.021522],[80.834075,18.021522],[80.834075,18.021341],[80.83398099999999,18.021341],[80.83398200000001,18.020347],[80.833887,18.020347],[80.833887,18.020256],[80.833698,18.020256],[80.833698,18.020346],[80.83360399999999,18.020346],[80.83360399999999,18.020527],[80.83350900000001,18.020527],[80.83350900000001,18.020708],[80.833414,18.020708],[80.833414,18.020889],[80.83332,18.020888],[80.83332,18.021069],[80.833225,18.021069],[80.833225,18.021431],[80.833319,18.021431],[80.833319,18.021521],[80.833414,18.021521],[80.833414,18.021702],[80.833602,18.021702],[80.833602,18.021793],[80.833697,18.021793],[80.833697,18.021883],[80.83388600000001,18.021883]]],"type":"Polygon"}
 }
