@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.06306,25.5674,83.06306,25.5674",
-    "geom:latitude":25.5674,
-    "geom:longitude":83.06306,
+    "geom:bbox":"83.054614,25.566086,83.055898,25.568442",
+    "geom:latitude":25.567247,
+    "geom:longitude":83.05525,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Nainpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.04306,25.5474,83.08306,25.5874",
+    "ks:ks_id":"KSAD76AEE5A85E4EEFBF7AD1395EF2E322",
+    "ks:ks_name":"Nainpur",
+    "ks:ks_pop":469,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0964000609648200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1942202",
+    "lbl:latitude":25.567231,
+    "lbl:longitude":83.05509,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.567231,
+    "mps:longitude":83.05509,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u09af\u09bc\u09a8\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u09a8\u09af\u09bc\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Nainpur"
+    ],
+    "name:eng_x_preferred":[
         "Nainpur"
     ],
     "name:hin_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5948\u6069\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10497191
+        "gn:id":10497191,
+        "ks:id":"KSAD76AEE5A85E4EEFBF7AD1395EF2E322"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c1e616b52f1ee6c9ce71eade18158c27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"665f6383f84cb5a335f754c724f932b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1260326769,
-    "wof:lastmodified":1566699880,
+    "wof:lastmodified":1680667679,
     "wof:name":"Nainpur",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.06306,
-    25.5674,
-    83.06306,
-    25.5674
+    83.054614,
+    25.566086,
+    83.055898,
+    25.568442
 ],
-  "geometry": {"coordinates":[83.06305999999999,25.5674],"type":"Point"}
+  "geometry": {"coordinates":[[[83.055435,25.568439],[83.05543299999999,25.568349],[83.055533,25.568348],[83.055531,25.568257],[83.05563100000001,25.568256],[83.055621,25.567714],[83.055522,25.567716],[83.055511,25.567084],[83.055611,25.567083],[83.05560699999999,25.566902],[83.055707,25.566901],[83.055701,25.56654],[83.0558,25.566538],[83.05579899999999,25.566448],[83.055898,25.566447],[83.055892,25.566086],[83.05579299999999,25.566087],[83.05579400000001,25.566177],[83.05549600000001,25.566182],[83.055497,25.566272],[83.055398,25.566273],[83.05539899999999,25.566363],[83.0552,25.566366],[83.05520199999999,25.566457],[83.05510200000001,25.566458],[83.055104,25.566548],[83.055004,25.56655],[83.05500600000001,25.56664],[83.054906,25.566641],[83.054908,25.566731],[83.05480799999999,25.566733],[83.05481,25.566823],[83.05471,25.566825],[83.054714,25.567005],[83.054614,25.567006],[83.05462199999999,25.567458],[83.054721,25.567456],[83.05472399999999,25.567637],[83.054824,25.567635],[83.05482499999999,25.567726],[83.054925,25.567724],[83.054928,25.567905],[83.055027,25.567903],[83.05503400000001,25.568264],[83.055133,25.568263],[83.05513500000001,25.568353],[83.055234,25.568352],[83.05523599999999,25.568442],[83.055435,25.568439]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.42494,13.15557,75.42494,13.15557",
-    "geom:latitude":13.15557,
-    "geom:longitude":75.42494,
+    "geom:bbox":"75.429145,13.161452,75.43053,13.162266",
+    "geom:latitude":13.1619,
+    "geom:longitude":75.429795,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"570.0",
     "gn:asciiname":"Balige",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.40494,13.13557,75.44494,13.17557",
+    "ks:ks_id":"KS978F5693E062440691B00FB9E6B8F74D",
+    "ks:ks_name":"Balige",
+    "ks:ks_pop":235,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|81358",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_270225",
+    "lbl:latitude":13.161899,
+    "lbl:longitude":75.429782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.161899,
+    "mps:longitude":75.429782,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Balige"
+    ],
     "name:ind_x_preferred":[
         "Balige"
     ],
@@ -42,7 +55,13 @@
     "name:msa_x_preferred":[
         "Balige"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10872236
+        "gn:id":10872236,
+        "ks:id":"KS978F5693E062440691B00FB9E6B8F74D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ca85d8c5d94a5e0a789fb4980f815ad6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b15eb3f2fe62aa1d0ae9177335abcb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1260354299,
-    "wof:lastmodified":1566699926,
+    "wof:lastmodified":1680667709,
     "wof:name":"Balige",
     "wof:parent_id":890507585,
     "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.42494,
-    13.15557,
-    75.42494,
-    13.15557
+    75.429145,
+    13.161452,
+    75.43053,
+    13.162266
 ],
-  "geometry": {"coordinates":[75.42494000000001,13.15557],"type":"Point"}
+  "geometry": {"coordinates":[[[75.42997699999999,13.162266],[75.42997699999999,13.162175],[75.43025299999999,13.162175],[75.43025299999999,13.162084],[75.43053,13.162084],[75.43053,13.161903],[75.430437,13.161903],[75.430437,13.161813],[75.430345,13.161813],[75.430345,13.161723],[75.43016,13.161723],[75.43016,13.161632],[75.429976,13.161633],[75.429975,13.161542],[75.42979099999999,13.161543],[75.42979099999999,13.161452],[75.42960600000001,13.161452],[75.42960600000001,13.161543],[75.429514,13.161543],[75.429514,13.161633],[75.42932999999999,13.161634],[75.42932999999999,13.161724],[75.42914500000001,13.161725],[75.429146,13.161996],[75.429238,13.161996],[75.429238,13.162086],[75.42932999999999,13.162086],[75.429331,13.162176],[75.42951499999999,13.162176],[75.42951499999999,13.162266],[75.42997699999999,13.162266]]],"type":"Polygon"}
 }

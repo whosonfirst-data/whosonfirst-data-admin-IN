@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.48584,25.66817,84.48584,25.66817",
-    "geom:latitude":25.66817,
-    "geom:longitude":84.48584,
+    "geom:bbox":"84.483959,25.667064,84.488956,25.668666",
+    "geom:latitude":25.667883,
+    "geom:longitude":84.486285,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"231.0",
     "gn:asciiname":"Sarangpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.46584,25.64817,84.50584,25.68817",
+    "ks:ks_id":"KSAA762A57FFEA46AAA70A5DF0BB914768",
+    "ks:ks_name":"Sarangpur",
+    "ks:ks_pop":903,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|956036",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2059898",
+    "lbl:latitude":25.667908,
+    "lbl:longitude":84.486083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.667908,
+    "mps:longitude":84.486083,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u063a\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09be\u09b0\u0982\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sarangpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab0\u0a82\u0a97\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0646\u06af \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10837387
+        "gn:id":10837387,
+        "ks:id":"KSAA762A57FFEA46AAA70A5DF0BB914768"
     },
     "wof:country":"IN",
-    "wof:geomhash":"09ed61d7040eb94dbf76825c377b0651",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b417bef4991f6a1dc36d3fee314669bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1260342353,
-    "wof:lastmodified":1576021793,
+    "wof:lastmodified":1680667729,
     "wof:name":"Sarangpur",
     "wof:parent_id":1108695939,
     "wof:placetype":"locality",
+    "wof:population":903,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.48584,
-    25.66817,
-    84.48584,
-    25.66817
+    84.483959,
+    25.667064,
+    84.488956,
+    25.668666
 ],
-  "geometry": {"coordinates":[84.48584,25.66817],"type":"Point"}
+  "geometry": {"coordinates":[[[84.48554799999999,25.668666],[84.48555,25.668576],[84.486446,25.668591],[84.486448,25.668501],[84.486846,25.668508],[84.48684799999999,25.668418],[84.487346,25.668426],[84.487348,25.668336],[84.48824399999999,25.668351],[84.48824500000001,25.668261],[84.488445,25.668265],[84.488446,25.668174],[84.488646,25.668178],[84.488647,25.668088],[84.488747,25.668089],[84.488749,25.667999],[84.488848,25.668001],[84.48885199999999,25.66782],[84.488952,25.667822],[84.488956,25.667642],[84.488856,25.66764],[84.48885799999999,25.66755],[84.488659,25.667546],[84.48866099999999,25.667456],[84.488462,25.667453],[84.488463,25.667362],[84.48806500000001,25.667356],[84.488067,25.667265],[84.48747,25.667255],[84.487472,25.667165],[84.487173,25.66716],[84.48717499999999,25.66707],[84.486876,25.667064],[84.486874,25.667155],[84.48667500000001,25.667151],[84.486673,25.667241],[84.48567799999999,25.667224],[84.485676,25.667314],[84.484382,25.667292],[84.48438,25.667382],[84.484281,25.667381],[84.484279,25.667471],[84.484179,25.667469],[84.484177,25.667559],[84.484078,25.667558],[84.48407400000001,25.667738],[84.483974,25.667736],[84.483959,25.668458],[84.484258,25.668463],[84.484256,25.668553],[84.484853,25.668564],[84.48485100000001,25.668654],[84.48554799999999,25.668666]]],"type":"Polygon"}
 }

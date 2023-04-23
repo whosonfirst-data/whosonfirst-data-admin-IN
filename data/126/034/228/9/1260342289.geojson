@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.62417,24.76815,85.62417,24.76815",
-    "geom:latitude":24.76815,
-    "geom:longitude":85.62417,
+    "geom:bbox":"85.623276,24.766847,85.625061,24.7692",
+    "geom:latitude":24.768078,
+    "geom:longitude":85.62416,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Gear",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.60417,24.74815,85.64417,24.78815",
+    "ks:ks_alt_nam":"Ge\u0101r",
+    "ks:ks_id":"KSD6E3E5B204E04B71B5DAF0BE4BF04484",
+    "ks:ks_name":"Gear",
+    "ks:ks_pop":279,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13359787",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1152863",
+    "lbl:latitude":24.768075,
+    "lbl:longitude":85.624177,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.768075,
+    "mps:longitude":85.624177,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1325\u122d\u1235"
@@ -74,6 +85,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b1\u03bd\u03ac\u03b6\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Gear"
+    ],
+    "name:eng_x_variant":[
+        "Ge\u0101r"
     ],
     "name:epo_x_preferred":[
         "Dentrado"
@@ -216,7 +233,13 @@
     "name:vie_x_preferred":[
         "B\u00e1nh r\u0103ng"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -225,10 +248,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885477
+        "gn:id":10885477,
+        "ks:id":"KSD6E3E5B204E04B71B5DAF0BE4BF04484"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2a70853c1bef1aed25d0336f1fb4a3be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5d563ca15e2a9d94f1e5c8348d0739c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -239,20 +266,22 @@
         }
     ],
     "wof:id":1260342289,
-    "wof:lastmodified":1566699953,
+    "wof:lastmodified":1680667725,
     "wof:name":"Gear",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.62416999999998,
-    24.76815,
-    85.62416999999998,
-    24.76815
+    85.623276,
+    24.766847,
+    85.625061,
+    24.7692
 ],
-  "geometry": {"coordinates":[85.62416999999998,24.76815],"type":"Point"}
+  "geometry": {"coordinates":[[[85.62445099999999,24.7692],[85.62445200000001,24.76911],[85.62465,24.769112],[85.624651,24.769021],[85.62475000000001,24.769022],[85.624751,24.768932],[85.62485,24.768933],[85.624852,24.768752],[85.62495,24.768753],[85.624953,24.768482],[85.625052,24.768483],[85.625061,24.767671],[85.624962,24.76767],[85.62496299999999,24.767579],[85.624865,24.767578],[85.624866,24.767488],[85.62476700000001,24.767487],[85.624768,24.767397],[85.624669,24.767396],[85.62466999999999,24.767306],[85.624571,24.767305],[85.624573,24.767124],[85.62447400000001,24.767123],[85.624475,24.767033],[85.62427700000001,24.767031],[85.624278,24.766941],[85.624179,24.76694],[85.62418,24.76685],[85.623884,24.766847],[85.62388300000001,24.766937],[85.623784,24.766936],[85.623783,24.767027],[85.623684,24.767026],[85.623683,24.767116],[85.62358399999999,24.767115],[85.623583,24.767205],[85.623484,24.767205],[85.623482,24.767385],[85.623383,24.767384],[85.62338099999999,24.767565],[85.623282,24.767564],[85.623276,24.768106],[85.623375,24.768107],[85.62336999999999,24.768558],[85.623469,24.768559],[85.62346700000001,24.768739],[85.623566,24.76874],[85.623564,24.768921],[85.62366299999999,24.768922],[85.623661,24.769102],[85.62376,24.769103],[85.62375900000001,24.769194],[85.62445099999999,24.7692]]],"type":"Polygon"}
 }

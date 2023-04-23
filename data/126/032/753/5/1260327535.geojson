@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.04779,23.33739,79.04779,23.33739",
-    "geom:latitude":23.33739,
-    "geom:longitude":79.04779,
+    "geom:bbox":"79.047669,23.337188,79.049132,23.338469",
+    "geom:latitude":23.337855,
+    "geom:longitude":79.048373,
     "gn:admin1_code":"35",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Marwa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.02779,23.31739,79.06779,23.35739",
+    "ks:ks_id":"KSF83E40D39C784B26940122BA5CB5246B",
+    "ks:ks_name":"Madwa",
+    "ks:ks_pop":369,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|642722",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_924016",
+    "lbl:latitude":23.337839,
+    "lbl:longitude":79.048362,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.337839,
+    "mps:longitude":79.048362,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0648\u0649"
@@ -39,13 +49,25 @@
     "name:deu_x_preferred":[
         "Marwa"
     ],
+    "name:eng_x_preferred":[
+        "Madwa"
+    ],
+    "name:eng_x_variant":[
+        "Marwa"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0432\u0430"
     ],
     "name:swe_x_preferred":[
         "Marwa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10537592
+        "gn:id":10537592,
+        "ks:id":"KSF83E40D39C784B26940122BA5CB5246B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3d900513d42bdea8fd99ac742acf4c08",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5741afb558878f8388d4b4fafea6a436",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +94,22 @@
         }
     ],
     "wof:id":1260327535,
-    "wof:lastmodified":1566699844,
-    "wof:name":"Marwa",
+    "wof:lastmodified":1680667657,
+    "wof:name":"Madwa",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":369,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.04779,
-    23.33739,
-    79.04779,
-    23.33739
+    79.047669,
+    23.337188,
+    79.049132,
+    23.338469
 ],
-  "geometry": {"coordinates":[79.04779000000001,23.33739],"type":"Point"}
+  "geometry": {"coordinates":[[[79.04826300000001,23.337374],[79.048264,23.337284],[79.048068,23.337282],[79.04807,23.337191],[79.047776,23.337188],[79.047774,23.337368],[79.047676,23.337367],[79.047669,23.337818],[79.04776699999999,23.33782],[79.047766,23.33791],[79.047864,23.337911],[79.04786199999999,23.338001],[79.048058,23.338004],[79.048057,23.338094],[79.04825200000001,23.338096],[79.04825099999999,23.338187],[79.048348,23.338188],[79.04834700000001,23.338278],[79.048445,23.338279],[79.048444,23.33837],[79.04863899999999,23.338372],[79.048638,23.338462],[79.049127,23.338469],[79.049132,23.338107],[79.04903400000001,23.338106],[79.049037,23.337926],[79.048939,23.337924],[79.04894,23.337834],[79.04884300000001,23.337833],[79.048844,23.337743],[79.04874599999999,23.337741],[79.04874700000001,23.337651],[79.048552,23.337649],[79.048553,23.337558],[79.048456,23.337557],[79.048457,23.337467],[79.048359,23.337466],[79.04836,23.337375],[79.04826300000001,23.337374]]],"type":"Polygon"}
 }

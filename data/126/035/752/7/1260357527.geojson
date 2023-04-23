@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.90223,26.84501,77.90223,26.84501",
-    "geom:latitude":26.84501,
-    "geom:longitude":77.90223,
+    "geom:bbox":"77.898152,26.860517,77.900579,26.861881",
+    "geom:latitude":26.861198,
+    "geom:longitude":77.899316,
     "gn:admin1_code":"24",
     "gn:admin2_code":"106.0",
     "gn:asciiname":"Kasganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.88223,26.82501,77.92223,26.86501",
+    "ks:ks_id":"KSF7A94544222B4A789E7A0B67A0F93CFB",
+    "ks:ks_name":"Kasganj",
+    "ks:ks_pop":765,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|519571",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1739990",
+    "lbl:latitude":26.861196,
+    "lbl:longitude":77.899218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.861196,
+    "mps:longitude":77.899218,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0915\u093e\u0938\u0917\u0902\u091c"
@@ -40,6 +50,9 @@
         "K\u0101sganj"
     ],
     "name:deu_x_preferred":[
+        "Kasganj"
+    ],
+    "name:eng_x_preferred":[
         "Kasganj"
     ],
     "name:fra_x_preferred":[
@@ -96,7 +109,13 @@
     "name:zho_x_preferred":[
         "\u5361\u65af\u7518\u6770"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10472887
+        "gn:id":10472887,
+        "ks:id":"KSF7A94544222B4A789E7A0B67A0F93CFB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"02cd03e3623a56b6a70ab72d71ab5582",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9d727626dfc7044fc83364be03a46dcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +142,22 @@
         }
     ],
     "wof:id":1260357527,
-    "wof:lastmodified":1566699903,
+    "wof:lastmodified":1680667694,
     "wof:name":"Kasganj",
     "wof:parent_id":1108695777,
     "wof:placetype":"locality",
+    "wof:population":765,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.90223,
-    26.84501,
-    77.90223,
-    26.84501
+    77.898152,
+    26.860517,
+    77.900579,
+    26.861881
 ],
-  "geometry": {"coordinates":[77.90223,26.84501],"type":"Point"}
+  "geometry": {"coordinates":[[[77.89988700000001,26.861859],[77.899885,26.861769],[77.900086,26.861765],[77.900083,26.861674],[77.900284,26.86167],[77.900282,26.86158],[77.90038300000001,26.861578],[77.90038,26.861488],[77.900481,26.861486],[77.900479,26.861396],[77.90057899999999,26.861393],[77.90057,26.861033],[77.900469,26.861035],[77.90046700000001,26.860945],[77.900367,26.860947],[77.900364,26.860857],[77.90016300000001,26.860861],[77.900161,26.860771],[77.89985900000001,26.860777],[77.899857,26.860687],[77.89955500000001,26.860693],[77.899553,26.860603],[77.89935199999999,26.860607],[77.89935,26.860517],[77.89834399999999,26.860537],[77.898347,26.860627],[77.898246,26.860629],[77.898253,26.8609],[77.898152,26.860902],[77.898157,26.861082],[77.898258,26.86108],[77.898264,26.861351],[77.898365,26.861349],[77.89837,26.861529],[77.89847,26.861527],[77.898472,26.861617],[77.898573,26.861615],[77.89857499999999,26.861705],[77.89867599999999,26.861703],[77.898678,26.861793],[77.898779,26.861791],[77.898781,26.861881],[77.89988700000001,26.861859]]],"type":"Polygon"}
 }
