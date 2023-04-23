@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.50501,25.50458,87.50501,25.50458",
-    "geom:latitude":25.50458,
-    "geom:longitude":87.50501,
+    "geom:bbox":"87.50543,25.502269,87.507047,25.503886",
+    "geom:latitude":25.503082,
+    "geom:longitude":87.506253,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Islampur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.48501,25.48458,87.52501,25.52458",
+    "ks:ks_alt_nam":"ISLAMPUR",
+    "ks:ks_id":"KS1D72B90043744FB891DFD3556E556474",
+    "ks:ks_name":"Islampur",
+    "ks:ks_pop":2054,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|435822",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1526821",
+    "lbl:latitude":25.503077,
+    "lbl:longitude":87.506237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.503077,
+    "mps:longitude":87.506237,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
@@ -37,6 +48,9 @@
         "Islampur"
     ],
     "name:deu_x_preferred":[
+        "Islampur"
+    ],
+    "name:eng_x_preferred":[
         "Islampur"
     ],
     "name:new_x_preferred":[
@@ -51,7 +65,13 @@
     "name:vie_x_preferred":[
         "Islampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11012925
+        "gn:id":11012925,
+        "ks:id":"KS1D72B90043744FB891DFD3556E556474"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b46a67ef7df4c4ca396c6617aded7966",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"94872be56f2ee2aafbdc164d398ecf2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +98,22 @@
         }
     ],
     "wof:id":1293937241,
-    "wof:lastmodified":1566690848,
+    "wof:lastmodified":1680658550,
     "wof:name":"Islampur",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":2054,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.50501,
-    25.50458,
-    87.50501,
-    25.50458
+    87.50543,
+    25.502269,
+    87.507047,
+    25.503886
 ],
-  "geometry": {"coordinates":[87.50501,25.50458],"type":"Point"}
+  "geometry": {"coordinates":[[[87.50596899999999,25.503886],[87.506778,25.503886],[87.506778,25.503616],[87.507047,25.503616],[87.507047,25.502808],[87.506778,25.502808],[87.506778,25.502269],[87.5057,25.502269],[87.5057,25.502808],[87.50543,25.502808],[87.50543,25.503616],[87.50596899999999,25.503616],[87.50596899999999,25.503886]]],"type":"Polygon"}
 }

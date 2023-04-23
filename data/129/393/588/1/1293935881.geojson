@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.32304,24.7538,83.32304,24.7538",
-    "geom:latitude":24.7538,
-    "geom:longitude":83.32304,
+    "geom:bbox":"83.32246,24.752805,83.323762,24.754882",
+    "geom:latitude":24.753777,
+    "geom:longitude":83.32315,
     "gn:admin1_code":"36",
     "gn:admin2_code":"200.0",
     "gn:asciiname":"Shikarpur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.30304,24.7338,83.34304,24.7738",
+    "ks:ks_alt_nam":"Shik\u0101rpur",
+    "ks:ks_id":"KSA1EC94C2A7424565A0065B7E63B6180F",
+    "ks:ks_name":"Shikarpur",
+    "ks:ks_pop":315,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|981998",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1035058",
+    "lbl:latitude":24.753708,
+    "lbl:longitude":83.323228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.753708,
+    "mps:longitude":83.323228,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shikarpur"
+    ],
+    "name:eng_x_preferred":[
+        "Shikarpur"
+    ],
+    "name:eng_x_variant":[
+        "Shik\u0101rpur"
     ],
     "name:pol_x_preferred":[
         "Shikarpur"
@@ -48,7 +65,13 @@
     "name:vie_x_preferred":[
         "Shikarpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10516014
+        "gn:id":10516014,
+        "ks:id":"KSA1EC94C2A7424565A0065B7E63B6180F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1c923ec45402d91f4ef849ee5d71f5ae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29cd6acbc0e99f4b2d2c727389d72971",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +98,22 @@
         }
     ],
     "wof:id":1293935881,
-    "wof:lastmodified":1566690846,
+    "wof:lastmodified":1680658548,
     "wof:name":"Shikarpur",
     "wof:parent_id":1108695887,
     "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.32304,
-    24.7538,
-    83.32304,
-    24.7538
+    83.32246,
+    24.752805,
+    83.323762,
+    24.754882
 ],
-  "geometry": {"coordinates":[83.32304000000001,24.7538],"type":"Point"}
+  "geometry": {"coordinates":[[[83.323671,24.754511],[83.323663,24.754059],[83.323762,24.754058],[83.32375,24.753426],[83.323651,24.753428],[83.32364800000001,24.753247],[83.323549,24.753249],[83.323547,24.753159],[83.323448,24.75316],[83.323447,24.75307],[83.323348,24.753071],[83.323346,24.752981],[83.323149,24.752984],[83.32314700000001,24.752894],[83.323048,24.752896],[83.32304600000001,24.752805],[83.32275,24.75281],[83.32275300000001,24.75299],[83.322654,24.752992],[83.32265599999999,24.753082],[83.322557,24.753084],[83.322559,24.753174],[83.32246000000001,24.753175],[83.322472,24.753807],[83.322571,24.753806],[83.32257199999999,24.753896],[83.322671,24.753894],[83.32267299999999,24.753985],[83.322772,24.753983],[83.322773,24.754073],[83.322872,24.754072],[83.322874,24.754162],[83.322973,24.75416],[83.322986,24.754882],[83.323381,24.754876],[83.32338,24.754786],[83.32347900000001,24.754784],[83.323477,24.754694],[83.323576,24.754693],[83.323572,24.754512],[83.323671,24.754511]]],"type":"Polygon"}
 }

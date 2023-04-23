@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.60886,27.05454,84.60886,27.05454",
-    "geom:latitude":27.05454,
-    "geom:longitude":84.60886,
+    "geom:bbox":"84.606207,27.051863,84.61025,27.057253",
+    "geom:latitude":27.054546,
+    "geom:longitude":84.608579,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"203.0",
     "gn:asciiname":"Parsa",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.58886,27.03454,84.62886,27.07454",
+    "ks:ks_id":"KS0264FAE400D04D9780C9988E99D0220B",
+    "ks:ks_name":"Parsa",
+    "ks:ks_pop":329,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|826716",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1443795",
+    "lbl:latitude":27.055342,
+    "lbl:longitude":84.608609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.055342,
+    "mps:longitude":84.608609,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0440\u0441\u0430"
@@ -40,6 +50,9 @@
         "Parsa"
     ],
     "name:deu_x_preferred":[
+        "Parsa"
+    ],
+    "name:eng_x_preferred":[
         "Parsa"
     ],
     "name:fas_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Parsa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10815556
+        "gn:id":10815556,
+        "ks:id":"KS0264FAE400D04D9780C9988E99D0220B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9cee3397743c4ea3c287a7807106eaaf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"615a204e4ad34b19432cdd3b494d57d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293937215,
-    "wof:lastmodified":1566690877,
+    "wof:lastmodified":1680658569,
     "wof:name":"Parsa",
     "wof:parent_id":890508821,
     "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.60885999999998,
-    27.05454000000001,
-    84.60885999999998,
-    27.05454000000001
+    84.606207,
+    27.051863,
+    84.61025,
+    27.057253
 ],
-  "geometry": {"coordinates":[84.60885999999998,27.05454000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[84.609711,27.057253],[84.609711,27.054558],[84.60997999999999,27.054558],[84.60997999999999,27.054288],[84.61024999999999,27.054288],[84.61024999999999,27.05348],[84.609711,27.05348],[84.609711,27.05321],[84.60997999999999,27.05321],[84.60997999999999,27.052402],[84.609711,27.052402],[84.609711,27.051863],[84.60782399999999,27.051863],[84.60782399999999,27.05321],[84.608363,27.05321],[84.608363,27.05348],[84.60782399999999,27.05348],[84.60782399999999,27.054558],[84.607285,27.054558],[84.607285,27.055097],[84.606207,27.055097],[84.606207,27.056175],[84.607016,27.056175],[84.607016,27.056444],[84.607285,27.056444],[84.607285,27.056175],[84.60782399999999,27.056175],[84.60782399999999,27.056444],[84.608363,27.056444],[84.608363,27.056983],[84.608633,27.056983],[84.608633,27.056714],[84.608902,27.056714],[84.608902,27.056983],[84.609172,27.056983],[84.609172,27.057253],[84.609711,27.057253]]],"type":"Polygon"}
 }
