@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.69346,19.04626,79.69346,19.04626",
-    "geom:latitude":19.04626,
-    "geom:longitude":79.69346,
+    "geom:bbox":"79.693051,19.045718,79.69386,19.047065",
+    "geom:latitude":19.046391,
+    "geom:longitude":79.693497,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Changalpet",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.67346,19.02626,79.71346,19.06626",
+    "ks:ks_id":"KS21D1A663823741A397A51A72B76B0095",
+    "ks:ks_name":"Jangalpet",
+    "ks:ks_pop":570,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1263720",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_422930",
+    "lbl:latitude":19.046392,
+    "lbl:longitude":79.693465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.046392,
+    "mps:longitude":79.693465,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Jangalpet"
+    ],
+    "name:eng_x_variant":[
+        "Changalpet"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10879535
+        "gn:id":10879535,
+        "ks:id":"KS21D1A663823741A397A51A72B76B0095"
     },
     "wof:country":"IN",
-    "wof:geomhash":"11a8ba5673d6b03432a626a9ea2a553e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f4d009886c2d8c6a5e5c0e3533bda985",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1360227163,
-    "wof:lastmodified":1566703018,
-    "wof:name":"Changalpet",
+    "wof:lastmodified":1680669516,
+    "wof:name":"Jangalpet",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":570,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.69346,
-    19.04626,
-    79.69346,
-    19.04626
+    79.693051,
+    19.045718,
+    79.69386,
+    19.047065
 ],
-  "geometry": {"coordinates":[79.69346,19.04626],"type":"Point"}
+  "geometry": {"coordinates":[[[79.69386,19.047065],[79.69386,19.045718],[79.693321,19.045718],[79.693321,19.045987],[79.693051,19.045987],[79.693051,19.046796],[79.693321,19.046796],[79.693321,19.047065],[79.69386,19.047065]]],"type":"Polygon"}
 }

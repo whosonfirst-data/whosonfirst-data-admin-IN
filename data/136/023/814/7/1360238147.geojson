@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.08922,25.68902,78.08922,25.68902",
-    "geom:latitude":25.68902,
-    "geom:longitude":78.08922,
+    "geom:bbox":"78.088035,25.688353,78.089952,25.68999",
+    "geom:latitude":25.689155,
+    "geom:longitude":78.088983,
     "gn:admin1_code":"35",
     "gn:admin2_code":"423.0",
     "gn:asciiname":"Bichi",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.06922,25.66902,78.10922,25.70902",
+    "ks:ks_id":"KS58E4E56D276D4ACE87BC5F49AF411337",
+    "ks:ks_name":"Bichi",
+    "ks:ks_pop":898,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|160407",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1726819",
+    "lbl:latitude":25.689171,
+    "lbl:longitude":78.088964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.689171,
+    "mps:longitude":78.088964,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Bichi"
+    ],
+    "name:eng_x_preferred":[
         "Bichi"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +61,13 @@
     "name:spa_x_preferred":[
         "Bichi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10501519
+        "gn:id":10501519,
+        "ks:id":"KS58E4E56D276D4ACE87BC5F49AF411337"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e93908aaafbac7821b385ce92d4a5e70",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e0254dfca2db0b48f850e9161a40d62b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1360238147,
-    "wof:lastmodified":1566702468,
+    "wof:lastmodified":1680669252,
     "wof:name":"Bichi",
     "wof:parent_id":1108696211,
     "wof:placetype":"locality",
+    "wof:population":898,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.08922,
-    25.68902000000001,
-    78.08922,
-    25.68902000000001
+    78.088035,
+    25.688353,
+    78.089952,
+    25.68999
 ],
-  "geometry": {"coordinates":[78.08922,25.68902000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[78.089322,25.68999],[78.089324,25.6899],[78.08942399999999,25.689902],[78.089426,25.689812],[78.08952499999999,25.689814],[78.08953,25.689633],[78.089629,25.689635],[78.089634,25.689455],[78.089733,25.689457],[78.089735,25.689367],[78.08983499999999,25.689369],[78.089839,25.689188],[78.089939,25.68919],[78.089952,25.688649],[78.08985199999999,25.688647],[78.089855,25.688557],[78.08965600000001,25.688553],[78.089658,25.688463],[78.08926,25.688455],[78.08926200000001,25.688365],[78.08866500000001,25.688353],[78.088662,25.688443],[78.08856299999999,25.688441],[78.088561,25.688531],[78.088461,25.688529],[78.088459,25.68862],[78.088359,25.688618],[78.088357,25.688708],[78.088258,25.688706],[78.08825299999999,25.688886],[78.088154,25.688884],[78.08815199999999,25.688974],[78.088052,25.688972],[78.088035,25.689694],[78.088234,25.689698],[78.08823099999999,25.689788],[78.08843,25.689792],[78.08842799999999,25.689882],[78.088926,25.689892],[78.08892400000001,25.689982],[78.089322,25.68999]]],"type":"Polygon"}
 }
