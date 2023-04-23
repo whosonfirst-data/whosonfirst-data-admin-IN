@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.77586,21.44433,78.77586,21.44433",
-    "geom:latitude":21.44433,
-    "geom:longitude":78.77586,
+    "geom:bbox":"78.774801,21.443457,78.777323,21.444904",
+    "geom:latitude":21.444184,
+    "geom:longitude":78.775907,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Chhatrapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.75586,21.42433,78.79586,21.46433",
+    "ks:ks_alt_nam":"Chhatr\u0101pur",
+    "ks:ks_id":"KS9CE7E345831542AC898A6CFCCAC10F44",
+    "ks:ks_name":"Chhatrapur",
+    "ks:ks_pop":606,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|217643",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_879395",
+    "lbl:latitude":21.444233,
+    "lbl:longitude":78.775907,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.444233,
+    "mps:longitude":78.775907,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099b\u09a4\u09cd\u09b0\u09aa\u09c1\u09b0"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Chatrapur"
+    ],
+    "name:eng_x_preferred":[
+        "Chhatrapur"
+    ],
+    "name:eng_x_variant":[
+        "Chhatr\u0101pur"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u062a\u0631\u0627\u067e\u0648\u0631"
@@ -96,7 +113,13 @@
     "name:zho_x_preferred":[
         "\u6070\u7279\u62c9\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10536416
+        "gn:id":10536416,
+        "ks:id":"KS9CE7E345831542AC898A6CFCCAC10F44"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0820ae9fe38b2e179bbe7d9dadfe3ed0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6dfb959572fb132e5d5740b09018780c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +146,22 @@
         }
     ],
     "wof:id":1343731341,
-    "wof:lastmodified":1566688532,
+    "wof:lastmodified":1680657122,
     "wof:name":"Chhatrapur",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":606,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.77586,
-    21.44433,
-    78.77586,
-    21.44433
+    78.774801,
+    21.443457,
+    78.777323,
+    21.444904
 ],
-  "geometry": {"coordinates":[78.77585999999999,21.44433],"type":"Point"}
+  "geometry": {"coordinates":[[[78.77547300000001,21.444904],[78.775474,21.444814],[78.776342,21.444825],[78.77634399999999,21.444735],[78.776537,21.444738],[78.776538,21.444647],[78.776731,21.44465],[78.776732,21.44456],[78.77682900000001,21.444561],[78.77683,21.444471],[78.776926,21.444472],[78.776928,21.444382],[78.777024,21.444383],[78.777027,21.444202],[78.777123,21.444204],[78.777126,21.444023],[78.77722300000001,21.444024],[78.777225,21.443844],[78.777322,21.443845],[78.777323,21.443755],[78.777227,21.443753],[78.77722799999999,21.443663],[78.77578099999999,21.443644],[78.775783,21.443554],[78.77549399999999,21.44355],[78.77549500000001,21.443459],[78.775302,21.443457],[78.775301,21.443547],[78.775108,21.443545],[78.77510599999999,21.443635],[78.77500999999999,21.443634],[78.775009,21.443724],[78.774912,21.443723],[78.77490899999999,21.443903],[78.77481299999999,21.443902],[78.774801,21.444714],[78.774897,21.444716],[78.774896,21.444806],[78.77518499999999,21.44481],[78.775184,21.4449],[78.77547300000001,21.444904]]],"type":"Polygon"}
 }
