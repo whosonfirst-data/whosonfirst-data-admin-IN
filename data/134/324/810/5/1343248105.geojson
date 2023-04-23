@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.77794,10.68762,76.77794,10.68762",
-    "geom:latitude":10.68762,
-    "geom:longitude":76.77794,
+    "geom:bbox":"76.783765,10.687227,76.785415,10.688487",
+    "geom:latitude":10.687949,
+    "geom:longitude":76.784487,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"593.0",
     "gn:asciiname":"Narni",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.75794,10.66762,76.79794,10.70762",
+    "ks:ks_alt_nam":"NARANI",
+    "ks:ks_id":"KS40F131D05B34475D9DEDAFA19337204C",
+    "ks:ks_name":"Narani",
+    "ks:ks_pop":544,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1187041",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_111243",
+    "lbl:latitude":10.688025,
+    "lbl:longitude":76.784406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.688025,
+    "mps:longitude":76.784406,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0646\u064a"
@@ -52,6 +63,12 @@
         "Narni"
     ],
     "name:deu_x_preferred":[
+        "Narni"
+    ],
+    "name:eng_x_preferred":[
+        "Narani"
+    ],
+    "name:eng_x_variant":[
         "Narni"
     ],
     "name:epo_x_preferred":[
@@ -165,7 +182,13 @@
     "name:zho_x_preferred":[
         "\u7eb3\u5c14\u5c3c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -174,10 +197,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11484422
+        "gn:id":11484422,
+        "ks:id":"KS40F131D05B34475D9DEDAFA19337204C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e514093682932bb91b53cae209515b79",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73856b84677b608b93bf130669efad50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +215,22 @@
         }
     ],
     "wof:id":1343248105,
-    "wof:lastmodified":1566686856,
-    "wof:name":"Narni",
+    "wof:lastmodified":1680656223,
+    "wof:name":"Narani",
     "wof:parent_id":890507395,
     "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.77794,
-    10.68762,
-    76.77794,
-    10.68762
+    76.783765,
+    10.687227,
+    76.785415,
+    10.688487
 ],
-  "geometry": {"coordinates":[76.77794,10.68762],"type":"Point"}
+  "geometry": {"coordinates":[[[76.785415,10.688486],[76.785414,10.688305],[76.78532300000001,10.688306],[76.78532199999999,10.688125],[76.78523,10.688126],[76.785229,10.687945],[76.785138,10.687945],[76.78513700000001,10.687855],[76.784863,10.687857],[76.784863,10.687766],[76.78467999999999,10.687767],[76.784679,10.687677],[76.784588,10.687677],[76.784587,10.687587],[76.784496,10.687588],[76.78449500000001,10.687497],[76.78440399999999,10.687498],[76.784403,10.687317],[76.784311,10.687317],[76.784311,10.687227],[76.784128,10.687228],[76.78412899999999,10.687318],[76.784037,10.687319],[76.784038,10.687409],[76.783946,10.68741],[76.783947,10.6875],[76.783856,10.687501],[76.783856,10.687591],[76.783765,10.687592],[76.783766,10.687863],[76.783858,10.687862],[76.78385900000001,10.688043],[76.78395,10.688043],[76.783951,10.688133],[76.784042,10.688133],[76.784043,10.688313],[76.78413399999999,10.688313],[76.78413500000001,10.688403],[76.78532300000001,10.688396],[76.785324,10.688487],[76.785415,10.688486]]],"type":"Polygon"}
 }
