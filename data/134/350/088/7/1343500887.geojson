@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.61565,26.37658,83.61565,26.37658",
-    "geom:latitude":26.37658,
-    "geom:longitude":83.61565,
+    "geom:bbox":"83.615545,26.37597,83.616623,26.377048",
+    "geom:latitude":26.376419,
+    "geom:longitude":83.615994,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"190.0",
     "gn:asciiname":"Sonbah",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.59565,26.35658,83.63565,26.39658",
+    "ks:ks_id":"KSEF65BAA794DB419DB3A0C45CD6C742A1",
+    "ks:ks_name":"Sonbah",
+    "ks:ks_pop":685,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13100394",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1412905",
+    "lbl:latitude":26.376263,
+    "lbl:longitude":83.61593,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.376263,
+    "mps:longitude":83.61593,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sonbah"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10667868
+        "gn:id":10667868,
+        "ks:id":"KSEF65BAA794DB419DB3A0C45CD6C742A1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fbdbe51284a59b66c29afbd841a6997b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a81715096996105cc04b072126493d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343500887,
-    "wof:lastmodified":1566687466,
+    "wof:lastmodified":1680656555,
     "wof:name":"Sonbah",
     "wof:parent_id":1108695869,
     "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.61565,
-    26.37658,
-    83.61565,
-    26.37658
+    83.615545,
+    26.37597,
+    83.616623,
+    26.377048
 ],
-  "geometry": {"coordinates":[83.61565,26.37658],"type":"Point"}
+  "geometry": {"coordinates":[[[83.616084,26.377048],[83.616084,26.376509],[83.616623,26.376509],[83.616623,26.37597],[83.615545,26.37597],[83.615545,26.377048],[83.616084,26.377048]]],"type":"Polygon"}
 }

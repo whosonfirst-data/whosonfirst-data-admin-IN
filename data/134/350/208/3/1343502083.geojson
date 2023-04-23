@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.38765,25.08264,83.38765,25.08264",
-    "geom:latitude":25.08264,
-    "geom:longitude":83.38765,
+    "geom:bbox":"83.386025,25.081588,83.389103,25.083333",
+    "geom:latitude":25.082554,
+    "geom:longitude":83.38776,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Alipur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.36765,25.06264,83.40765,25.10264",
+    "ks:ks_alt_nam":"Al\u012bpur",
+    "ks:ks_id":"KSF3364AD603704A9FB719BFF478EF33EA",
+    "ks:ks_name":"Alipur",
+    "ks:ks_pop":315,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12950793",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1936248",
+    "lbl:latitude":25.082501,
+    "lbl:longitude":83.387943,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.082501,
+    "mps:longitude":83.387943,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:ceb_x_preferred":[
         "Alipur"
+    ],
+    "name:eng_x_preferred":[
+        "Alipur"
+    ],
+    "name:eng_x_variant":[
+        "Al\u012bpur"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0abf\u0aaa\u0ac1\u0ab0"
@@ -75,7 +92,13 @@
     "name:urd_x_preferred":[
         "\u0639\u0644\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10505741
+        "gn:id":10505741,
+        "ks:id":"KSF3364AD603704A9FB719BFF478EF33EA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5a3432ad94b252390fd312d71e58e3e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd48f041a625bf640cd269de001861c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +125,22 @@
         }
     ],
     "wof:id":1343502083,
-    "wof:lastmodified":1577749844,
+    "wof:lastmodified":1680656565,
     "wof:name":"Alipur",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.38765,
-    25.08264,
-    83.38765,
-    25.08264
+    83.386025,
+    25.081588,
+    83.389103,
+    25.083333
 ],
-  "geometry": {"coordinates":[83.38764999999999,25.08264],"type":"Point"}
+  "geometry": {"coordinates":[[[83.388418,25.083306],[83.388417,25.083215],[83.38871399999999,25.083211],[83.388712,25.08312],[83.388811,25.083119],[83.38881000000001,25.083029],[83.388909,25.083027],[83.388907,25.082937],[83.38900599999999,25.082935],[83.389004,25.082845],[83.38910300000001,25.082843],[83.389087,25.082031],[83.388988,25.082033],[83.38898500000001,25.081852],[83.388886,25.081854],[83.388884,25.081764],[83.388785,25.081765],[83.388783,25.081675],[83.38858500000001,25.081678],[83.388583,25.081588],[83.387989,25.081598],[83.387991,25.081688],[83.38759400000001,25.081694],[83.387596,25.081784],[83.387398,25.081788],[83.3874,25.081878],[83.38730099999999,25.081879],[83.38730200000001,25.08197],[83.38710399999999,25.081973],[83.387106,25.082063],[83.387007,25.082065],[83.38700900000001,25.082155],[83.386909,25.082157],[83.386911,25.082247],[83.38681200000001,25.082248],[83.386814,25.082339],[83.386616,25.082342],[83.386618,25.082432],[83.386518,25.082434],[83.38652,25.082524],[83.386025,25.082532],[83.38603000000001,25.082802],[83.386129,25.082801],[83.386133,25.082981],[83.38623200000001,25.08298],[83.386233,25.08307],[83.38633299999999,25.083068],[83.38633400000001,25.083159],[83.386433,25.083157],[83.38643500000001,25.083247],[83.38673199999999,25.083242],[83.386734,25.083333],[83.388418,25.083306]]],"type":"Polygon"}
 }

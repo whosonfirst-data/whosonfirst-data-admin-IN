@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.61164,27.44269,80.61164,27.44269",
-    "geom:latitude":27.44269,
-    "geom:longitude":80.61164,
+    "geom:bbox":"80.611196,27.442263,80.612108,27.442986",
+    "geom:latitude":27.442645,
+    "geom:longitude":80.611614,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Baisui",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.59164,27.42269,80.63164,27.46269",
+    "ks:ks_id":"KS68A75A56A7A54C32A7562A0FA8059C70",
+    "ks:ks_name":"Bansui",
+    "ks:ks_pop":115,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|95329",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1902753",
+    "lbl:latitude":27.442651,
+    "lbl:longitude":80.611605,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.442651,
+    "mps:longitude":80.611605,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bansui"
+    ],
+    "name:eng_x_variant":[
+        "Baisui"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920154
+        "gn:id":10920154,
+        "ks:id":"KS68A75A56A7A54C32A7562A0FA8059C70"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c6ca4d2e27f35f19aedd6974d2f7706e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"109bbf7e33bc60ca6831a4e2e1a004cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1343513789,
-    "wof:lastmodified":1566687609,
-    "wof:name":"Baisui",
+    "wof:lastmodified":1680656635,
+    "wof:name":"Bansui",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.61164000000002,
-    27.44269,
-    80.61164000000002,
-    27.44269
+    80.611196,
+    27.442263,
+    80.612108,
+    27.442986
 ],
-  "geometry": {"coordinates":[80.61164000000002,27.44269],"type":"Point"}
+  "geometry": {"coordinates":[[[80.61180299999999,27.442986],[80.61180299999999,27.442896],[80.61200599999999,27.442897],[80.61200599999999,27.442806],[80.61210699999999,27.442807],[80.61210800000001,27.442626],[80.61200700000001,27.442626],[80.61200700000001,27.442445],[80.611906,27.442445],[80.611906,27.442355],[80.611704,27.442354],[80.611704,27.442264],[80.611502,27.442263],[80.611502,27.442354],[80.611198,27.442353],[80.61119600000001,27.442804],[80.61129800000001,27.442804],[80.61129699999999,27.442985],[80.61180299999999,27.442986]]],"type":"Polygon"}
 }
