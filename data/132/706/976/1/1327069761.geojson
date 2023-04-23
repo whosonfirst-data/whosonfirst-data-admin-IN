@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.21848,26.53044,83.21848,26.53044",
-    "geom:latitude":26.53044,
-    "geom:longitude":83.21848,
+    "geom:bbox":"83.217975,26.529889,83.219478,26.530723",
+    "geom:latitude":26.530338,
+    "geom:longitude":83.218773,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Masi",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.19848,26.51044,83.23848,26.55044",
+    "ks:ks_id":"KS1F4DB60699E246EBA09B6A5C9B55A873",
+    "ks:ks_name":"Masi",
+    "ks:ks_source_id":"N|13092460",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1990046",
+    "lbl:latitude":26.53035,
+    "lbl:longitude":83.218712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.53035,
+    "mps:longitude":83.218712,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a"
@@ -44,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Masi"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u06cc"
@@ -112,7 +123,11 @@
     "name:zho_tw_x_preferred":[
         "\u99ac\u897f\u6cb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -121,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10659975
+        "gn:id":10659975,
+        "ks:id":"KS1F4DB60699E246EBA09B6A5C9B55A873"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e36d9445e9327eaf30e128f91ec24ab3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96e46a235ce6d59317a75866c6590e53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +154,7 @@
         }
     ],
     "wof:id":1327069761,
-    "wof:lastmodified":1636505188,
+    "wof:lastmodified":1680653450,
     "wof:name":"Masi",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
@@ -145,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.21848,
-    26.53044,
-    83.21848,
-    26.53044
+    83.217975,
+    26.529889,
+    83.219478,
+    26.530723
 ],
-  "geometry": {"coordinates":[83.21848,26.53044],"type":"Point"}
+  "geometry": {"coordinates":[[[83.219478,26.530339],[83.219471,26.529978],[83.219371,26.529979],[83.219369,26.529889],[83.218767,26.529898],[83.21876899999999,26.529989],[83.218468,26.529993],[83.21847,26.530084],[83.21836999999999,26.530085],[83.218371,26.530175],[83.218171,26.530178],[83.21817299999999,26.530269],[83.21807200000001,26.53027],[83.218076,26.530451],[83.217975,26.530452],[83.21798099999999,26.530723],[83.219184,26.530704],[83.219183,26.530614],[83.219283,26.530612],[83.219281,26.530522],[83.219381,26.530521],[83.21937800000001,26.53034],[83.219478,26.530339]]],"type":"Polygon"}
 }

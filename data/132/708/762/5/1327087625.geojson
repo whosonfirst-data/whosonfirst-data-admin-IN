@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.42032,23.30889,80.42032,23.30889",
-    "geom:latitude":23.30889,
-    "geom:longitude":80.42032,
+    "geom:bbox":"80.419028,23.308176,80.420594,23.309352",
+    "geom:latitude":23.308827,
+    "geom:longitude":80.419691,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Chikhli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.40032,23.28889,80.44032,23.32889",
+    "ks:ks_id":"KSF61C8F15A25C41DC98F6129457218D2B",
+    "ks:ks_name":"Chikhli",
+    "ks:ks_pop":216,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|221821",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1002057",
+    "lbl:latitude":23.30881,
+    "lbl:longitude":80.419628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.30881,
+    "mps:longitude":80.419628,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u0996\u09b2\u09bf"
@@ -39,13 +49,22 @@
     "name:ceb_x_preferred":[
         "Chikhli"
     ],
+    "name:eng_x_preferred":[
+        "Chikhli"
+    ],
     "name:nld_x_preferred":[
         "Chikhli"
     ],
     "name:swe_x_preferred":[
         "Chikhli"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10675302
+        "gn:id":10675302,
+        "ks:id":"KSF61C8F15A25C41DC98F6129457218D2B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e05720a4d468913411bb3920a8195279",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cba569e6ed07849f70864076351d4833",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1327087625,
-    "wof:lastmodified":1566680917,
+    "wof:lastmodified":1680653485,
     "wof:name":"Chikhli",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.42031999999998,
-    23.30889,
-    80.42031999999998,
-    23.30889
+    80.419028,
+    23.308176,
+    80.420594,
+    23.309352
 ],
-  "geometry": {"coordinates":[80.42031999999998,23.30889],"type":"Point"}
+  "geometry": {"coordinates":[[[80.41981,23.309352],[80.41981,23.309262],[80.420103,23.309263],[80.42010399999999,23.309173],[80.420495,23.309174],[80.420495,23.309084],[80.420593,23.309084],[80.42059399999999,23.308904],[80.420496,23.308903],[80.420496,23.308813],[80.420399,23.308813],[80.420399,23.308722],[80.42030099999999,23.308722],[80.42030200000001,23.308632],[80.420106,23.308631],[80.420106,23.30854],[80.42000899999999,23.30854],[80.42000899999999,23.30845],[80.419911,23.308449],[80.419912,23.308359],[80.41971599999999,23.308358],[80.41971599999999,23.308268],[80.419521,23.308267],[80.419521,23.308177],[80.419326,23.308176],[80.419325,23.308267],[80.41922700000001,23.308266],[80.41922700000001,23.308357],[80.419129,23.308356],[80.419128,23.308537],[80.419031,23.308537],[80.419028,23.309078],[80.41912600000001,23.309079],[80.41912499999999,23.309259],[80.419419,23.309261],[80.41941799999999,23.309351],[80.41981,23.309352]]],"type":"Polygon"}
 }

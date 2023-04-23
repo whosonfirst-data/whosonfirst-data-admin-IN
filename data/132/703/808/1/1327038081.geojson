@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.05615,13.10619,79.05615,13.10619",
-    "geom:latitude":13.10619,
-    "geom:longitude":79.05615,
+    "geom:bbox":"79.055427,13.10498,79.056505,13.106327",
+    "geom:latitude":13.105609,
+    "geom:longitude":79.056011,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Toppatapalli",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.03615,13.08619,79.07615,13.12619",
+    "ks:ks_id":"KS10CF1ADE3AF144CD9DB4A9C02FD309F0",
+    "ks:ks_name":"Thoppatipalle",
+    "ks:ks_pop":242,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1052944",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_270717",
+    "lbl:latitude":13.105524,
+    "lbl:longitude":79.056054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.105524,
+    "mps:longitude":79.056054,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Thoppatipalle"
+    ],
+    "name:eng_x_variant":[
+        "Toppatapalli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11420690
+        "gn:id":11420690,
+        "ks:id":"KS10CF1ADE3AF144CD9DB4A9C02FD309F0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"02a5cdd995a171c67f8aa1fc493a5534",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9fb5b71a35dc8b60b2e5d1e61cc3aea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1327038081,
-    "wof:lastmodified":1566683508,
-    "wof:name":"Toppatapalli",
+    "wof:lastmodified":1680654525,
+    "wof:name":"Thoppatipalle",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.05615,
-    13.10619,
-    79.05615,
-    13.10619
+    79.055427,
+    13.10498,
+    79.056505,
+    13.106327
 ],
-  "geometry": {"coordinates":[79.05615,13.10619],"type":"Point"}
+  "geometry": {"coordinates":[[[79.056505,13.10498],[79.05542699999999,13.10498],[79.05542699999999,13.105788],[79.055697,13.105788],[79.055697,13.106327],[79.056505,13.106327],[79.056505,13.10498]]],"type":"Polygon"}
 }

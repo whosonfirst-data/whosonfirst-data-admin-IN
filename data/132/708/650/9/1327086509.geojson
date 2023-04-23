@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.3495,27.36713,78.3495,27.36713",
-    "geom:latitude":27.36713,
-    "geom:longitude":78.3495,
+    "geom:bbox":"78.348715,27.366159,78.350533,27.367807",
+    "geom:latitude":27.367027,
+    "geom:longitude":78.349608,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Kailashpur",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.3295,27.34713,78.3695,27.38713",
+    "ks:ks_id":"KSCBADEAA30F394826B8652E58B50F9F66",
+    "ks:ks_name":"Kelashpur",
+    "ks:ks_pop":400,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|531738",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1751745",
+    "lbl:latitude":27.367034,
+    "lbl:longitude":78.34959,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.367034,
+    "mps:longitude":78.34959,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c8\u09b2\u09be\u09b8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kelashpur"
+    ],
+    "name:eng_x_variant":[
+        "Kailashpur"
     ],
     "name:ita_x_preferred":[
         "Kailashpur"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u51ef\u62c9\u65af\u8d6b\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10452795
+        "gn:id":10452795,
+        "ks:id":"KSCBADEAA30F394826B8652E58B50F9F66"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1dc69b88b394b113842d919a8b5e5568",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4554a12cb8e16f77cb7329b8e04d6d05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1327086509,
-    "wof:lastmodified":1566680941,
-    "wof:name":"Kailashpur",
+    "wof:lastmodified":1680653495,
+    "wof:name":"Kelashpur",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.3495,
-    27.36713,
-    78.3495,
-    27.36713
+    78.348715,
+    27.366159,
+    78.350533,
+    27.367807
 ],
-  "geometry": {"coordinates":[78.34950000000001,27.36713],"type":"Point"}
+  "geometry": {"coordinates":[[[78.35030999999999,27.367807],[78.350312,27.367717],[78.350413,27.367719],[78.350415,27.367629],[78.350516,27.367631],[78.350533,27.366909],[78.350432,27.366908],[78.350436,27.366727],[78.350335,27.366725],[78.35033799999999,27.366635],[78.350236,27.366633],[78.350239,27.366543],[78.350138,27.366541],[78.35014,27.366451],[78.34993799999999,27.366447],[78.34994,27.366357],[78.349839,27.366355],[78.349841,27.366265],[78.349639,27.366261],[78.34964100000001,27.366171],[78.349035,27.366159],[78.34903300000001,27.366249],[78.348932,27.366247],[78.34893,27.366338],[78.34882899999999,27.366336],[78.34882399999999,27.366516],[78.34872300000001,27.366514],[78.348715,27.366875],[78.348816,27.366877],[78.34880099999999,27.367508],[78.348902,27.36751],[78.3489,27.3676],[78.349001,27.367602],[78.34899900000001,27.367692],[78.34930199999999,27.367698],[78.349299,27.367788],[78.349602,27.367794],[78.349605,27.367704],[78.349706,27.367706],[78.34970300000001,27.367796],[78.35030999999999,27.367807]]],"type":"Polygon"}
 }
