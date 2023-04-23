@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.01776,12.86191,76.01776,12.86191",
-    "geom:latitude":12.86191,
-    "geom:longitude":76.01776,
+    "geom:bbox":"76.014553,12.856193,76.015933,12.857823",
+    "geom:latitude":12.856975,
+    "geom:longitude":76.015204,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Mandara",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.99776,12.84191,76.03776,12.88191",
+    "ks:ks_id":"KS0061BDA2CC90455891ABD30B27C28867",
+    "ks:ks_name":"Mandira",
+    "ks:ks_pop":120,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000502595900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_261342",
+    "lbl:latitude":12.856872,
+    "lbl:longitude":76.01526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.856872,
+    "mps:longitude":76.01526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Mandara"
@@ -37,6 +47,12 @@
         "Mandara"
     ],
     "name:deu_x_preferred":[
+        "Mandara"
+    ],
+    "name:eng_x_preferred":[
+        "Mandira"
+    ],
+    "name:eng_x_variant":[
         "Mandara"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +67,13 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10895312
+        "gn:id":10895312,
+        "ks:id":"KS0061BDA2CC90455891ABD30B27C28867"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2e6531a39aed455d8e59a5c3604b4916",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6decd77285b5be98fbbed2697ff85a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1326605115,
-    "wof:lastmodified":1566682266,
-    "wof:name":"Mandara",
+    "wof:lastmodified":1680654030,
+    "wof:name":"Mandira",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.01776,
-    12.86191,
-    76.01776,
-    12.86191
+    76.014553,
+    12.856193,
+    76.015933,
+    12.857823
 ],
-  "geometry": {"coordinates":[76.01776,12.86191],"type":"Point"}
+  "geometry": {"coordinates":[[[76.014831,12.857823],[76.014831,12.857732],[76.014923,12.857732],[76.014923,12.857822],[76.015107,12.857822],[76.015107,12.857731],[76.015199,12.857731],[76.015198,12.85755],[76.015291,12.85755],[76.01528999999999,12.857459],[76.015382,12.857459],[76.015382,12.857369],[76.015474,12.857368],[76.015474,12.857278],[76.01556600000001,12.857277],[76.01556600000001,12.857187],[76.01575,12.857186],[76.015749,12.857006],[76.015933,12.857005],[76.01593200000001,12.856643],[76.01584,12.856644],[76.015839,12.856553],[76.015747,12.856553],[76.015747,12.856463],[76.015655,12.856463],[76.015654,12.856373],[76.015562,12.856373],[76.015562,12.856283],[76.015378,12.856284],[76.015377,12.856193],[76.01500900000001,12.856195],[76.01500900000001,12.856285],[76.014917,12.856285],[76.01491799999999,12.856466],[76.014825,12.856467],[76.014827,12.856828],[76.014735,12.856829],[76.014736,12.85719],[76.014644,12.857191],[76.014645,12.857462],[76.01455300000001,12.857462],[76.014554,12.857733],[76.01473799999999,12.857733],[76.01473900000001,12.857823],[76.014831,12.857823]]],"type":"Polygon"}
 }

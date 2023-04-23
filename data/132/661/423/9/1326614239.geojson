@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.52985,23.31897,73.52985,23.31897",
-    "geom:latitude":23.31897,
-    "geom:longitude":73.52985,
+    "geom:bbox":"73.529414,23.318431,73.53077,23.320876",
+    "geom:latitude":23.319713,
+    "geom:longitude":73.530143,
     "gn:admin1_code":"9.0",
     "gn:admin2_code":"472.0",
     "gn:asciiname":"Lalpur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.50985,23.29897,73.54985,23.33897",
+    "ks:ks_alt_nam":"L\u0101lpur",
+    "ks:ks_id":"KS4CBAD37B009B4BF3B0018872526B35E1",
+    "ks:ks_name":"Lalpur",
+    "ks:ks_pop":843,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13408646",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_810996",
+    "lbl:latitude":23.320167,
+    "lbl:longitude":73.530292,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.320167,
+    "mps:longitude":73.530292,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lalpur"
+    ],
+    "name:eng_x_preferred":[
+        "Lalpur"
+    ],
+    "name:eng_x_variant":[
+        "L\u0101lpur"
     ],
     "name:pol_x_preferred":[
         "Lalpur"
@@ -39,7 +56,13 @@
     "name:swe_x_preferred":[
         "Lalpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10919218
+        "gn:id":10919218,
+        "ks:id":"KS4CBAD37B009B4BF3B0018872526B35E1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4d7330ce5bf1ed4be99347cabf89834d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bec8219f04196a960fcce66b5c07bd2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1326614239,
-    "wof:lastmodified":1566682678,
+    "wof:lastmodified":1680654197,
     "wof:name":"Lalpur",
     "wof:parent_id":1108696265,
     "wof:placetype":"locality",
+    "wof:population":843,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.52985,
-    23.31897,
-    73.52985,
-    23.31897
+    73.529414,
+    23.318431,
+    73.53077,
+    23.320876
 ],
-  "geometry": {"coordinates":[73.52985,23.31897],"type":"Point"}
+  "geometry": {"coordinates":[[[73.53027,23.320876],[73.530271,23.320786],[73.530565,23.320789],[73.530567,23.320608],[73.530665,23.320609],[73.53066699999999,23.320428],[73.530764,23.320429],[73.53077,23.319887],[73.530672,23.319886],[73.530675,23.319616],[73.53057800000001,23.319615],[73.53058299999999,23.319163],[73.530485,23.319162],[73.53048699999999,23.318982],[73.530389,23.318981],[73.53039200000001,23.31871],[73.530294,23.318709],[73.530295,23.318619],[73.530198,23.318618],[73.530199,23.318527],[73.530101,23.318526],[73.530102,23.318436],[73.529515,23.318431],[73.52951400000001,23.318521],[73.529416,23.31852],[73.529414,23.318701],[73.529512,23.318702],[73.529511,23.318792],[73.52960899999999,23.318793],[73.529607,23.318973],[73.52970500000001,23.318974],[73.529704,23.319065],[73.52980100000001,23.319066],[73.52979999999999,23.319156],[73.529898,23.319157],[73.529895,23.319428],[73.529993,23.319429],[73.529991,23.319609],[73.529893,23.319608],[73.529889,23.319969],[73.529792,23.319969],[73.529791,23.320059],[73.52969299999999,23.320058],[73.529691,23.320239],[73.52959300000001,23.320238],[73.529588,23.320689],[73.529686,23.32069],[73.529685,23.32078],[73.53007599999999,23.320784],[73.530075,23.320874],[73.53027,23.320876]]],"type":"Polygon"}
 }

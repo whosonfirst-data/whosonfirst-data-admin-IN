@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.58192,20.08859,77.58192,20.08859",
-    "geom:latitude":20.08859,
-    "geom:longitude":77.58192,
+    "geom:bbox":"77.581102,20.086869,77.583219,20.089402",
+    "geom:latitude":20.088352,
+    "geom:longitude":77.58202,
     "gn:admin1_code":"16",
     "gn:admin2_code":"502.0",
     "gn:asciiname":"Vasantnagar",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.56192,20.06859,77.60192,20.10859",
+    "ks:ks_alt_nam":"Vasantnagar NV",
+    "ks:ks_id":"KS9E1F535135C947ECB32F43C4C22D7A45",
+    "ks:ks_name":"Vasantnagar Nv",
+    "ks:ks_pop":1110,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1089786",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_567885",
+    "lbl:latitude":20.088402,
+    "lbl:longitude":77.582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.088402,
+    "mps:longitude":77.582,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09b8\u09a8\u09cd\u09a4\u0997\u09a1\u09bc"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09b8\u09a8\u09cd\u09a4\u0997\u09a1\u09bc"
+    ],
+    "name:eng_x_preferred":[
+        "Vasantnagar Nv"
+    ],
+    "name:eng_x_variant":[
+        "Vasantnagar"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0633\u0646\u062a\u0646\u06af\u0631"
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u74e6\u6851\u7279\u7eb3\u52a0\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10511907
+        "gn:id":10511907,
+        "ks:id":"KS9E1F535135C947ECB32F43C4C22D7A45"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bb80e6d77cee7758106d01de900753bc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"685302487f9c5adf2ded76ed4aefe083",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1326611901,
-    "wof:lastmodified":1566682688,
-    "wof:name":"Vasantnagar",
+    "wof:lastmodified":1680654199,
+    "wof:name":"Vasantnagar Nv",
     "wof:parent_id":1108696291,
     "wof:placetype":"locality",
+    "wof:population":1110,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.58192,
-    20.08859,
-    77.58192,
-    20.08859
+    77.581102,
+    20.086869,
+    77.583219,
+    20.089402
 ],
-  "geometry": {"coordinates":[77.58192,20.08859],"type":"Point"}
+  "geometry": {"coordinates":[[[77.582178,20.089392],[77.582177,20.089302],[77.582368,20.089299],[77.58236599999999,20.089209],[77.58246200000001,20.089207],[77.58246,20.089117],[77.582747,20.089113],[77.582746,20.089023],[77.582841,20.089021],[77.58284,20.088931],[77.58303100000001,20.088928],[77.583029,20.088838],[77.583125,20.088837],[77.583123,20.088746],[77.583219,20.088745],[77.583213,20.088384],[77.583117,20.088385],[77.58311500000001,20.088205],[77.58301899999999,20.088206],[77.583016,20.088025],[77.58292,20.088027],[77.58291699999999,20.087846],[77.58282199999999,20.087848],[77.58282,20.087757],[77.582725,20.087759],[77.582723,20.087669],[77.582532,20.087671],[77.582531,20.087581],[77.582244,20.087585],[77.58224300000001,20.087495],[77.582052,20.087498],[77.58205,20.087408],[77.58185899999999,20.08741],[77.581853,20.087049],[77.58194899999999,20.087048],[77.581947,20.086958],[77.581852,20.086959],[77.58185,20.086869],[77.581563,20.086873],[77.581565,20.086963],[77.581469,20.086965],[77.58147099999999,20.087055],[77.58166199999999,20.087052],[77.58166300000001,20.087142],[77.58175900000001,20.087141],[77.581762,20.087321],[77.58138,20.087327],[77.58138099999999,20.087417],[77.58128600000001,20.087419],[77.581289,20.087599],[77.581193,20.087601],[77.581198,20.087872],[77.581102,20.087873],[77.581121,20.089046],[77.581217,20.089045],[77.58122,20.089226],[77.581315,20.089224],[77.581317,20.089314],[77.581508,20.089312],[77.581509,20.089402],[77.582178,20.089392]]],"type":"Polygon"}
 }
