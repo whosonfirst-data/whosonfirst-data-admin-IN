@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.96439,12.72529,75.96439,12.72529",
-    "geom:latitude":12.72529,
-    "geom:longitude":75.96439,
+    "geom:bbox":"75.96337,12.724557,75.964932,12.726277",
+    "geom:latitude":12.72537,
+    "geom:longitude":75.964209,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Matra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.94439,12.70529,75.98439,12.74529",
+    "ks:ks_id":"KS7A56180B6F2F44E692CBEFAA0C510BB7",
+    "ks:ks_name":"Mathra",
+    "ks:ks_pop":137,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000602600900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_257573",
+    "lbl:latitude":12.725007,
+    "lbl:longitude":75.964351,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.725007,
+    "mps:longitude":75.964351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Matra"
@@ -52,6 +62,12 @@
         "\u0645\u06d5\u062a\u0631\u0627"
     ],
     "name:deu_x_preferred":[
+        "Matra"
+    ],
+    "name:eng_x_preferred":[
+        "Mathra"
+    ],
+    "name:eng_x_variant":[
         "Matra"
     ],
     "name:est_x_preferred":[
@@ -126,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u99ac\u7279\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10904478
+        "gn:id":10904478,
+        "ks:id":"KS7A56180B6F2F44E692CBEFAA0C510BB7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c062e1c9e93a7f4d6103905f70595de7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73930df092163542d4f9dddfa0e85b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1293464651,
-    "wof:lastmodified":1566689811,
-    "wof:name":"Matra",
+    "wof:lastmodified":1680657871,
+    "wof:name":"Mathra",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.96439000000002,
-    12.72529,
-    75.96439000000002,
-    12.72529
+    75.96337,
+    12.724557,
+    75.964932,
+    12.726277
 ],
-  "geometry": {"coordinates":[75.96439000000002,12.72529],"type":"Point"}
+  "geometry": {"coordinates":[[[75.96410899999999,12.726277],[75.96410899999999,12.726186],[75.964201,12.726186],[75.96420000000001,12.726095],[75.96438499999999,12.726095],[75.964384,12.726004],[75.964476,12.726004],[75.964476,12.725823],[75.964568,12.725823],[75.964567,12.725552],[75.964659,12.725551],[75.964659,12.725461],[75.96475100000001,12.72546],[75.96475,12.72528],[75.964842,12.725279],[75.96484,12.724737],[75.964932,12.724736],[75.964932,12.724646],[75.964563,12.724647],[75.964563,12.724557],[75.96391800000001,12.724559],[75.963919,12.72465],[75.96382699999999,12.72465],[75.96382800000001,12.725012],[75.96392,12.725011],[75.963921,12.725283],[75.96401299999999,12.725282],[75.96401299999999,12.725373],[75.963921,12.725373],[75.963922,12.725463],[75.96383,12.725464],[75.96383,12.725554],[75.96373800000001,12.725555],[75.96373800000001,12.725645],[75.963646,12.725645],[75.963646,12.725736],[75.963554,12.725736],[75.963555,12.725826],[75.96337,12.725827],[75.963371,12.726008],[75.963463,12.726008],[75.963464,12.726098],[75.96374,12.726097],[75.96374,12.726187],[75.96392400000001,12.726187],[75.963925,12.726277],[75.96410899999999,12.726277]]],"type":"Polygon"}
 }

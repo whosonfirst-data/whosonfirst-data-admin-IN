@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.43349,24.16213,85.43349,24.16213",
-    "geom:latitude":24.16213,
-    "geom:longitude":85.43349,
+    "geom:bbox":"85.430536,24.162865,85.431523,24.163678",
+    "geom:latitude":24.163258,
+    "geom:longitude":85.431043,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"360.0",
     "gn:asciiname":"Turi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.41349,24.14213,85.45349,24.18213",
+    "ks:ks_id":"KS7DA29C2669194E579564C11F7EEACFD4",
+    "ks:ks_name":"Turi",
+    "ks:ks_pop":257,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13356858",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1142525",
+    "lbl:latitude":24.163259,
+    "lbl:longitude":85.431043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.163259,
+    "mps:longitude":85.431043,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u044b"
@@ -40,6 +50,9 @@
         "Turi"
     ],
     "name:deu_x_preferred":[
+        "Turi"
+    ],
+    "name:eng_x_preferred":[
         "Turi"
     ],
     "name:fra_x_preferred":[
@@ -81,7 +94,13 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10883480
+        "gn:id":10883480,
+        "ks:id":"KS7DA29C2669194E579564C11F7EEACFD4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"393b9dff95f265be397d8da2d139131b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aa3eddbf5bfd6c7e6756ee8ac7c094e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +127,22 @@
         }
     ],
     "wof:id":1293441223,
-    "wof:lastmodified":1566691745,
+    "wof:lastmodified":1680659139,
     "wof:name":"Turi",
     "wof:parent_id":1108696117,
     "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.43349,
-    24.16213,
-    85.43349,
-    24.16213
+    85.430536,
+    24.162865,
+    85.431523,
+    24.163678
 ],
-  "geometry": {"coordinates":[85.43349000000001,24.16213],"type":"Point"}
+  "geometry": {"coordinates":[[[85.431122,24.163678],[85.431123,24.163587],[85.43122099999999,24.163588],[85.43122200000001,24.163498],[85.431321,24.163499],[85.43132199999999,24.163409],[85.43142,24.16341],[85.431423,24.163229],[85.431521,24.16323],[85.431523,24.16305],[85.431425,24.163049],[85.431426,24.162958],[85.431327,24.162957],[85.43132900000001,24.162867],[85.43113200000001,24.162865],[85.43113099999999,24.162955],[85.430835,24.162952],[85.430834,24.163043],[85.430638,24.16304],[85.430635,24.163221],[85.430537,24.16322],[85.430536,24.16331],[85.430634,24.163311],[85.430632,24.163492],[85.43073,24.163493],[85.430729,24.163583],[85.430926,24.163585],[85.430925,24.163676],[85.431122,24.163678]]],"type":"Polygon"}
 }

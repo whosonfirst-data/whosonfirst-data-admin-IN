@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.26535,19.65374,76.26535,19.65374",
-    "geom:latitude":19.65374,
-    "geom:longitude":76.26535,
+    "geom:bbox":"76.26467,19.652444,76.266393,19.654615",
+    "geom:latitude":19.653552,
+    "geom:longitude":76.265501,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"514.0",
     "gn:asciiname":"Kandari",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.24535,19.63374,76.28535,19.67374",
+    "ks:ks_alt_nam":"Kand\u0101ri",
+    "ks:ks_id":"KS6E8A047C8E5E4480AEF915ADFEC3F07A",
+    "ks:ks_name":"Kandari",
+    "ks:ks_pop":402,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|501114",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_559768",
+    "lbl:latitude":19.653579,
+    "lbl:longitude":76.265517,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.653579,
+    "mps:longitude":76.265517,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a6\u09be\u09b0\u09bf"
     ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09cd\u09a6\u09be\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kandari"
+    ],
+    "name:eng_x_variant":[
+        "Kand\u0101ri"
     ],
     "name:ita_x_preferred":[
         "Kandari"
@@ -57,7 +74,13 @@
     "name:zho_x_preferred":[
         "\u574e\u8fbe\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10432721
+        "gn:id":10432721,
+        "ks:id":"KS6E8A047C8E5E4480AEF915ADFEC3F07A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2b6e4e1a24817b0d2b43a9ae27f90ad0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"254dfb4375447573ea799dec5549a864",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +107,22 @@
         }
     ],
     "wof:id":1293471641,
-    "wof:lastmodified":1566690290,
+    "wof:lastmodified":1680658191,
     "wof:name":"Kandari",
     "wof:parent_id":890501997,
     "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.26535,
-    19.65374,
-    76.26535,
-    19.65374
+    76.26467,
+    19.652444,
+    76.266393,
+    19.654615
 ],
-  "geometry": {"coordinates":[76.26535,19.65374],"type":"Point"}
+  "geometry": {"coordinates":[[[76.265731,19.654612],[76.26573,19.654522],[76.26592100000001,19.654521],[76.26591999999999,19.65443],[76.266111,19.654429],[76.26611,19.654248],[76.266205,19.654248],[76.266203,19.654067],[76.266299,19.654066],[76.26629699999999,19.653886],[76.26639299999999,19.653885],[76.26638699999999,19.653162],[76.26629200000001,19.653163],[76.266291,19.653072],[76.26619599999999,19.653073],[76.266195,19.652983],[76.26609999999999,19.652983],[76.266099,19.652893],[76.266004,19.652894],[76.266003,19.652803],[76.265907,19.652804],[76.265907,19.652714],[76.265811,19.652714],[76.26581,19.652534],[76.265715,19.652534],[76.265714,19.652444],[76.265237,19.652447],[76.265238,19.652538],[76.265047,19.652539],[76.26504799999999,19.652629],[76.26495199999999,19.65263],[76.26495300000001,19.65272],[76.264858,19.652721],[76.264859,19.652902],[76.264764,19.652902],[76.26476599999999,19.653174],[76.26467,19.653174],[76.26467700000001,19.653987],[76.26477199999999,19.653987],[76.264774,19.654258],[76.26487,19.654257],[76.26487,19.654347],[76.264966,19.654347],[76.264967,19.654437],[76.265062,19.654436],[76.265063,19.654527],[76.265349,19.654525],[76.265349,19.654615],[76.265731,19.654612]]],"type":"Polygon"}
 }
