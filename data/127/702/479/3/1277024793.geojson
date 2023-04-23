@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.02124,22.76193,87.02124,22.76193",
-    "geom:latitude":22.76193,
-    "geom:longitude":87.02124,
+    "geom:bbox":"87.019742,22.751979,87.020911,22.752973",
+    "geom:latitude":22.752481,
+    "geom:longitude":87.020343,
     "gn:admin1_code":"28",
     "gn:admin2_code":"339.0",
     "gn:asciiname":"Sarenga",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.00124,22.74193,87.04124,22.78193",
+    "ks:ks_alt_nam":"S\u0101renga",
+    "ks:ks_id":"KS477BB78851704C37BBD2E817A5936F67",
+    "ks:ks_name":"Sarenga",
+    "ks:ks_pop":5251,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|957909",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1163190",
+    "lbl:latitude":22.752476,
+    "lbl:longitude":87.020382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.752476,
+    "mps:longitude":87.020382,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09c7\u0999\u09cd\u0997\u09be"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09b0\u09c7\u0999\u09cd\u0997\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Sarenga"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101renga"
     ],
     "name:hif_x_preferred":[
         "Sarenga"
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u8428\u4f26\u683c\u963f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -73,10 +96,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1257189,
+        "ks:id":"KS477BB78851704C37BBD2E817A5936F67",
         "wk:page":"Sarenga"
     },
     "wof:country":"IN",
-    "wof:geomhash":"56620d6d53b7558e1a2d367e1cf6465e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7a82139d8297f1eac9765e57b4aa204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,20 +114,22 @@
         }
     ],
     "wof:id":1277024793,
-    "wof:lastmodified":1566693273,
+    "wof:lastmodified":1680660163,
     "wof:name":"Sarenga",
     "wof:parent_id":890510871,
     "wof:placetype":"locality",
+    "wof:population":5251,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.02124,
-    22.76193,
-    87.02124,
-    22.76193
+    87.019742,
+    22.751979,
+    87.020911,
+    22.752973
 ],
-  "geometry": {"coordinates":[87.02124000000001,22.76193],"type":"Point"}
+  "geometry": {"coordinates":[[[87.02071599999999,22.752973],[87.02071599999999,22.752883],[87.020813,22.752882],[87.020813,22.752702],[87.020911,22.752702],[87.020911,22.75216],[87.020813,22.75216],[87.020813,22.752069],[87.02071599999999,22.752069],[87.02071599999999,22.751979],[87.02013100000001,22.751979],[87.02013100000001,22.75207],[87.019937,22.75207],[87.019937,22.75216],[87.019839,22.75216],[87.019839,22.75225],[87.01974199999999,22.75225],[87.01974199999999,22.752702],[87.019839,22.752702],[87.019839,22.752883],[87.020034,22.752883],[87.020034,22.752973],[87.02071599999999,22.752973]]],"type":"Polygon"}
 }
