@@ -11,12 +11,20 @@
     "geom:longitude":77.72743,
     "gn:population":57831,
     "iso:country":"IN",
-    "lbl:latitude":13.4356,
-    "lbl:longitude":77.731333,
+    "ks:ks_id":"KS4776492181D847E89FFF1A0A8A2E6C51",
+    "ks:ks_name":"Chikkaballapur",
+    "ks:ks_pop":63652,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|221981",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_323005",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":13.436838,
+    "lbl:longitude":77.727162,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":13.352219,
-    "mps:longitude":77.72517,
+    "mps:latitude":13.436838,
+    "mps:longitude":77.727162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,10 +47,16 @@
     "name:eng_x_preferred":[
         "Chikkaballapur"
     ],
+    "name:eng_x_variant":[
+        "Chik Ball\u0101pur"
+    ],
     "name:fra_x_preferred":[
         "Chikkaballapur"
     ],
     "name:hin_x_preferred":[
+        "\u091a\u093f\u0915\u094d\u0915\u092c\u0932\u094d\u0932\u093e\u092a\u0941\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u091a\u093f\u0915\u092c\u0932\u092a\u0941\u0930"
     ],
     "name:ita_x_preferred":[
@@ -117,10 +131,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":1024,
     "wof:belongsto":[
         102191569,
@@ -132,13 +148,16 @@
     "wof:concordances":{
         "gn:id":1274243,
         "gp:id":2294142,
+        "ks:id":"KS4776492181D847E89FFF1A0A8A2E6C51",
         "qs_pg:id":8870,
         "wd:id":"Q1023689",
         "wk:page":"Chikkaballapur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"a5f6108c03a7ad13570adcc818e6e54b",
     "wof:hierarchy":[
@@ -151,11 +170,11 @@
         }
     ],
     "wof:id":102030527,
-    "wof:lastmodified":1658780736,
-    "wof:name":"Chik Ball\u0101pur",
+    "wof:lastmodified":1686162185,
+    "wof:name":"Chikkaballapur",
     "wof:parent_id":1108696341,
     "wof:placetype":"locality",
-    "wof:population":57831,
+    "wof:population":63652,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.80567,25.88372,85.80567,25.88372",
-    "geom:latitude":25.88372,
-    "geom:longitude":85.80567,
+    "geom:bbox":"85.801955,25.881448,85.803033,25.882795",
+    "geom:latitude":25.882121,
+    "geom:longitude":85.802494,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Manipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.78567,25.86372,85.82567,25.90372",
+    "ks:ks_id":"KS54BBC6DA7648440BBD47C0F30FD7280D",
+    "ks:ks_name":"Manipur",
+    "ks:ks_pop":829,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|674104",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1380344",
+    "lbl:latitude":25.882122,
+    "lbl:longitude":85.802494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.882122,
+    "mps:longitude":85.802494,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Manipur"
@@ -110,6 +120,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03b9\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Manipur"
     ],
     "name:epo_x_preferred":[
         "Manipuro"
@@ -345,7 +358,13 @@
     "name:zho_x_preferred":[
         "\u66fc\u5c3c\u666e\u5c14\u90a6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -354,10 +373,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10880079
+        "gn:id":10880079,
+        "ks:id":"KS54BBC6DA7648440BBD47C0F30FD7280D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2d8c04a20d7ca60a82a7dffee58d9b74",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b47b813f9f33428a597c2e7acb1d4e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -368,20 +391,22 @@
         }
     ],
     "wof:id":1276168751,
-    "wof:lastmodified":1577750446,
+    "wof:lastmodified":1686162580,
     "wof:name":"Manipur",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":829,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.80566999999998,
-    25.88372,
-    85.80566999999998,
-    25.88372
+    85.801955,
+    25.881448,
+    85.803033,
+    25.882795
 ],
-  "geometry": {"coordinates":[85.80566999999998,25.88372],"type":"Point"}
+  "geometry": {"coordinates":[[[85.802763,25.882795],[85.802763,25.882256],[85.803033,25.882256],[85.803033,25.881448],[85.802224,25.881448],[85.802224,25.881987],[85.80195500000001,25.881987],[85.80195500000001,25.882795],[85.802763,25.882795]]],"type":"Polygon"}
 }

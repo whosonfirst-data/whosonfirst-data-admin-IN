@@ -11,12 +11,20 @@
     "geom:longitude":73.060321,
     "gn:population":7480,
     "iso:country":"IN",
-    "lbl:latitude":20.758866,
-    "lbl:longitude":73.059493,
+    "ks:ks_id":"KS4FB6393022E842CCA29899EC16ECD8A4",
+    "ks:ks_name":"Chikhli",
+    "ks:ks_pop":6949,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2093283",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_727554",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.757619,
+    "lbl:longitude":73.061787,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":20.753744,
-    "mps:longitude":73.05273,
+    "mps:latitude":20.757619,
+    "mps:longitude":73.061787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,6 +47,9 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0a96\u0ab2\u0ac0"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0916\u0932\u0940"
+    ],
     "name:ind_x_preferred":[
         "Chikhli"
     ],
@@ -53,6 +64,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce58\ud074\ub9ac"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u093f\u0916\u0932\u0940"
     ],
     "name:msa_x_preferred":[
         "Chikhli"
@@ -111,10 +125,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"wk",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":19.0,
     "wd:latitude":20.75,
     "wd:longitude":73.07,
@@ -130,13 +146,16 @@
     "wof:concordances":{
         "gn:id":1274235,
         "gp:id":2275798,
+        "ks:id":"KS4FB6393022E842CCA29899EC16ECD8A4",
         "qs_pg:id":194684,
         "wd:id":"Q1945471",
         "wk:page":"Chikhli, Gujarat"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"dd5e3503a39c961b48338aec9860f7a7",
     "wof:hierarchy":[
@@ -149,11 +168,11 @@
         }
     ],
     "wof:id":102030523,
-    "wof:lastmodified":1658780748,
+    "wof:lastmodified":1686162192,
     "wof:name":"Chikhli",
     "wof:parent_id":890510757,
     "wof:placetype":"locality",
-    "wof:population":6953,
+    "wof:population":6949,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

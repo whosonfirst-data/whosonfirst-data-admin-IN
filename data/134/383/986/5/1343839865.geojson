@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.60726,21.43825,78.60726,21.43825",
-    "geom:latitude":21.43825,
-    "geom:longitude":78.60726,
+    "geom:bbox":"78.605437,21.437345,78.60853,21.438975",
+    "geom:latitude":21.438214,
+    "geom:longitude":78.60715,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Nanda",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.58726,21.41825,78.62726,21.45825",
+    "ks:ks_alt_nam":"N\u0101nda",
+    "ks:ks_id":"KS6D7309E7EE5E4B01982C84B9A748A915",
+    "ks:ks_name":"Nanda",
+    "ks:ks_pop":522,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12662243",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_879358",
+    "lbl:latitude":21.438203,
+    "lbl:longitude":78.60718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.438203,
+    "mps:longitude":78.60718,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanda"
     ],
     "name:deu_x_preferred":[
         "Nanda"
+    ],
+    "name:eng_x_preferred":[
+        "Nanda"
+    ],
+    "name:eng_x_variant":[
+        "N\u0101nda"
     ],
     "name:por_x_preferred":[
         "Nanda"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Nanda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213636
+        "gn:id":10213636,
+        "ks:id":"KS6D7309E7EE5E4B01982C84B9A748A915"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9dc10693863470a65e564d9e4baf0608",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88eecf58dc4a161d24e6e5da43224455",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1343839865,
-    "wof:lastmodified":1566686680,
+    "wof:lastmodified":1682942813,
     "wof:name":"Nanda",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":522,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.60726,
-    21.43825,
-    78.60726,
-    21.43825
+    78.605437,
+    21.437345,
+    78.60853,
+    21.438975
 ],
-  "geometry": {"coordinates":[78.60726,21.43825],"type":"Point"}
+  "geometry": {"coordinates":[[[78.607552,21.438975],[78.60755399999999,21.438885],[78.60794,21.438891],[78.607941,21.4388],[78.60813400000001,21.438803],[78.608135,21.438713],[78.608232,21.438714],[78.608233,21.438624],[78.60842599999999,21.438627],[78.608431,21.438356],[78.608527,21.438357],[78.60853,21.438177],[78.60843300000001,21.438175],[78.608439,21.437814],[78.608343,21.437813],[78.608346,21.437632],[78.608249,21.437631],[78.608251,21.437541],[78.608155,21.437539],[78.60815599999999,21.437449],[78.607963,21.437446],[78.60796499999999,21.437356],[78.607193,21.437345],[78.607192,21.437435],[78.606999,21.437432],[78.60699700000001,21.437523],[78.60680499999999,21.43752],[78.606803,21.43761],[78.606707,21.437609],[78.60670500000001,21.437699],[78.606512,21.437696],[78.606511,21.437787],[78.606318,21.437784],[78.606317,21.437874],[78.60621999999999,21.437873],[78.606219,21.437963],[78.606026,21.43796],[78.60602400000001,21.438051],[78.605735,21.438046],[78.605734,21.438137],[78.605541,21.438134],[78.60553899999999,21.438224],[78.60544299999999,21.438223],[78.60543699999999,21.438584],[78.60563,21.438587],[78.605628,21.438677],[78.606207,21.438685],[78.606205,21.438775],[78.606398,21.438778],[78.606397,21.438869],[78.60659,21.438871],[78.606588,21.438962],[78.607552,21.438975]]],"type":"Polygon"}
 }

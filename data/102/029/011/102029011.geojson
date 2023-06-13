@@ -13,12 +13,20 @@
     "gn:longitude":74.43177,
     "gn:population":53202,
     "iso:country":"IN",
-    "lbl:latitude":17.990265,
-    "lbl:longitude":74.434476,
+    "ks:ks_id":"KS96ACAEA3D7854315BDABA8DFB80120E5",
+    "ks:ks_name":"Phaltan",
+    "ks:ks_pop":50800,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2107775",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_407494",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":17.984222,
+    "lbl:longitude":74.431074,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":17.978733,
-    "mps:longitude":74.42688,
+    "mps:latitude":17.984222,
+    "mps:longitude":74.431074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,6 +59,9 @@
         "Phaltan"
     ],
     "name:hin_x_preferred":[
+        "\u092b\u0932\u091f\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u092b\u0932\u091f\u0923"
     ],
     "name:ita_x_preferred":[
@@ -130,10 +141,12 @@
     "reversegeo:longitude":74.434476,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1438,
     "wof:belongsto":[
         102191569,
@@ -145,11 +158,16 @@
     "wof:concordances":{
         "gn:id":1259811,
         "gp:id":29040062,
+        "ks:id":"KS96ACAEA3D7854315BDABA8DFB80120E5",
         "qs_pg:id":131380,
         "wd:id":"Q2341367",
         "wk:page":"Phaltan"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"0b854fd08de297eda1170f58a2c5e199",
     "wof:hierarchy":[
         {
@@ -161,11 +179,11 @@
         }
     ],
     "wof:id":102029011,
-    "wof:lastmodified":1658780764,
+    "wof:lastmodified":1686162200,
     "wof:name":"Phaltan",
     "wof:parent_id":890502257,
     "wof:placetype":"locality",
-    "wof:population":53202,
+    "wof:population":50800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.7886,23.24999,78.7886,23.24999",
-    "geom:latitude":23.24999,
-    "geom:longitude":78.7886,
+    "geom:bbox":"78.788245,23.249504,78.789126,23.2505",
+    "geom:latitude":23.250026,
+    "geom:longitude":78.78866,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Chandrapura",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.7686,23.22999,78.8086,23.26999",
+    "ks:ks_id":"KS96B62A361C5844B8923E8577CBE76E81",
+    "ks:ks_name":"Chandrapura",
+    "ks:ks_pop":179,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|203990",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_923194",
+    "lbl:latitude":23.250029,
+    "lbl:longitude":78.788668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.250029,
+    "mps:longitude":78.788668,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u0902\u0926\u094d\u0930\u092a\u0941\u0930\u093e"
     ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09a8\u09cd\u09a6\u09be\u09b0\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Chandrapura"
     ],
     "name:ita_x_preferred":[
         "Chandrapura"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u6070\u6069\u5fb7\u62c9\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10193260
+        "gn:id":10193260,
+        "ks:id":"KS96B62A361C5844B8923E8577CBE76E81"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a22c524b182364f9fe653eed0627b87c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"121cc252446b212af5a68e18f8e30e01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1343405945,
-    "wof:lastmodified":1566687062,
+    "wof:lastmodified":1682925959,
     "wof:name":"Chandrapura",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.7886,
-    23.24999,
-    78.7886,
-    23.24999
+    78.788245,
+    23.249504,
+    78.789126,
+    23.2505
 ],
-  "geometry": {"coordinates":[78.7886,23.24999],"type":"Point"}
+  "geometry": {"coordinates":[[[78.78863,23.2505],[78.78863200000001,23.250409],[78.789022,23.250415],[78.789024,23.250325],[78.78912200000001,23.250326],[78.789126,23.250055],[78.789028,23.250054],[78.789033,23.249783],[78.788935,23.249782],[78.788937,23.249691],[78.788741,23.249689],[78.788743,23.249598],[78.78854699999999,23.249596],[78.788549,23.249505],[78.78845099999999,23.249504],[78.78845,23.249594],[78.788352,23.249593],[78.78834999999999,23.249683],[78.788253,23.249682],[78.788245,23.250133],[78.788343,23.250134],[78.78834000000001,23.250315],[78.788438,23.250316],[78.78843500000001,23.250497],[78.78863,23.2505]]],"type":"Polygon"}
 }

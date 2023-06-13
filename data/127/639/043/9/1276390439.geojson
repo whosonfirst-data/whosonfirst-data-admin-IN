@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.78824,27.51984,80.78824,27.51984",
-    "geom:latitude":27.51984,
-    "geom:longitude":80.78824,
+    "geom:bbox":"80.787523,27.519291,80.78985,27.521097",
+    "geom:latitude":27.520179,
+    "geom:longitude":80.788463,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Sahajadpur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.76824,27.49984,80.80824,27.53984",
+    "ks:ks_id":"KSB3EB102C56304CA78E31B1E90F54E258",
+    "ks:ks_name":"Sahzadpur",
+    "ks:ks_pop":162,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|936604",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1905507",
+    "lbl:latitude":27.520149,
+    "lbl:longitude":80.788485,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.520149,
+    "mps:longitude":80.788485,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sahzadpur"
+    ],
+    "name:eng_x_variant":[
+        "Sahajadpur"
     ],
     "name:ita_x_preferred":[
         "Sahajadpur"
@@ -57,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u8428\u54c8\u8d3e\u5fb7\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10711507
+        "gn:id":10711507,
+        "ks:id":"KSB3EB102C56304CA78E31B1E90F54E258"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f10b5cee223205d5418a097668adf0da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7dd14d932817deb5d73554288d53004a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1276390439,
-    "wof:lastmodified":1566694080,
-    "wof:name":"Sahajadpur",
+    "wof:lastmodified":1682771702,
+    "wof:name":"Sahzadpur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.78824,
-    27.51984,
-    80.78824,
-    27.51984
+    80.787523,
+    27.519291,
+    80.78985,
+    27.521097
 ],
-  "geometry": {"coordinates":[80.78824,27.51984],"type":"Point"}
+  "geometry": {"coordinates":[[[80.78823,27.521097],[80.78823,27.521006],[80.788837,27.521007],[80.788838,27.520917],[80.78985,27.520919],[80.78985,27.520828],[80.789344,27.520828],[80.789344,27.520737],[80.78904,27.520737],[80.789041,27.520647],[80.789142,27.520647],[80.789142,27.520466],[80.789244,27.520466],[80.789244,27.520105],[80.789345,27.520105],[80.78934599999999,27.519835],[80.78924499999999,27.519834],[80.78924499999999,27.519744],[80.78914399999999,27.519744],[80.78914399999999,27.519654],[80.78904300000001,27.519654],[80.78904300000001,27.519563],[80.78894099999999,27.519563],[80.78894200000001,27.519473],[80.78883999999999,27.519473],[80.78884100000001,27.519382],[80.78863800000001,27.519382],[80.78863800000001,27.519292],[80.78792900000001,27.519291],[80.78792900000001,27.519381],[80.787727,27.519381],[80.78772600000001,27.519561],[80.78762500000001,27.519561],[80.78762500000001,27.519651],[80.787524,27.519651],[80.78752299999999,27.519922],[80.78762399999999,27.519922],[80.78762399999999,27.520103],[80.78772499999999,27.520103],[80.78772499999999,27.520283],[80.787826,27.520284],[80.787826,27.520645],[80.787927,27.520645],[80.787927,27.520735],[80.787825,27.520735],[80.787825,27.521096],[80.78823,27.521097]]],"type":"Polygon"}
 }

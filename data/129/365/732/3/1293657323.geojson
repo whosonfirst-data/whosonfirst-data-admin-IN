@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.97812,24.16815,73.97812,24.16815",
-    "geom:latitude":24.16815,
-    "geom:longitude":73.97812,
+    "geom:bbox":"73.973028,24.163959,73.978418,24.168271",
+    "geom:latitude":24.166101,
+    "geom:longitude":73.975809,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"130.0",
     "gn:asciiname":"Bassi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.95812,24.14815,73.99812,24.18815",
+    "ks:ks_id":"KS4D21B42EB80F4F64A5A86C608D6E0846",
+    "ks:ks_name":"Bassi",
+    "ks:ks_pop":698,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12671014",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_547497",
+    "lbl:latitude":24.165894,
+    "lbl:longitude":73.976972,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.165894,
+    "mps:longitude":73.976972,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bassi"
@@ -37,6 +47,9 @@
         "Bassi"
     ],
     "name:deu_x_preferred":[
+        "Bassi"
+    ],
+    "name:eng_x_preferred":[
         "Bassi"
     ],
     "name:fin_x_preferred":[
@@ -72,7 +85,13 @@
     "name:swe_x_preferred":[
         "Bassi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10304921
+        "gn:id":10304921,
+        "ks:id":"KS4D21B42EB80F4F64A5A86C608D6E0846"
     },
     "wof:country":"IN",
-    "wof:geomhash":"14b8eaa70f4e6e424328d487575979fe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae64e17dbe3929424339d96872b87a02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1293657323,
-    "wof:lastmodified":1566689100,
+    "wof:lastmodified":1682827292,
     "wof:name":"Bassi",
     "wof:parent_id":1108695787,
     "wof:placetype":"locality",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.97811999999998,
-    24.16815,
-    73.97811999999998,
-    24.16815
+    73.973028,
+    24.163959,
+    73.978418,
+    24.168271
 ],
-  "geometry": {"coordinates":[73.97811999999998,24.16815],"type":"Point"}
+  "geometry": {"coordinates":[[[73.978149,24.168271],[73.978149,24.167462],[73.97761,24.167462],[73.97761,24.167193],[73.977879,24.167193],[73.977879,24.166654],[73.978418,24.166654],[73.978418,24.165576],[73.978149,24.165576],[73.978149,24.164498],[73.97761,24.164498],[73.97761,24.164228],[73.97734,24.164228],[73.97734,24.164767],[73.977071,24.164767],[73.977071,24.165037],[73.97626200000001,24.165037],[73.97626200000001,24.164767],[73.975993,24.164767],[73.975993,24.163959],[73.975454,24.163959],[73.975454,24.164498],[73.975184,24.164498],[73.975184,24.164767],[73.974915,24.164767],[73.974915,24.165037],[73.973837,24.165037],[73.973837,24.164767],[73.973567,24.164767],[73.973567,24.165037],[73.973298,24.165037],[73.973298,24.165306],[73.973028,24.165306],[73.973028,24.166923],[73.973298,24.166923],[73.973298,24.167193],[73.973567,24.167193],[73.973567,24.167732],[73.974645,24.167732],[73.974645,24.167462],[73.975184,24.167462],[73.975184,24.166384],[73.974915,24.166384],[73.974915,24.165845],[73.975184,24.165845],[73.975184,24.165576],[73.97626200000001,24.165576],[73.97626200000001,24.166654],[73.97680099999999,24.166654],[73.97680099999999,24.167732],[73.977071,24.167732],[73.977071,24.168271],[73.978149,24.168271]]],"type":"Polygon"}
 }

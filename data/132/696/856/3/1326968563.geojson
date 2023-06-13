@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.29942,24.38575,84.29942,24.38575",
-    "geom:latitude":24.38575,
-    "geom:longitude":84.29942,
+    "geom:bbox":"84.299253,24.385214,84.3006,24.386022",
+    "geom:latitude":24.385618,
+    "geom:longitude":84.299853,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"358.0",
     "gn:asciiname":"Harna",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.27942,24.36575,84.31942,24.40575",
+    "ks:ks_alt_nam":"Harn\u0101",
+    "ks:ks_id":"KS6070C18FE9E248B5B16C51B5439C9165",
+    "ks:ks_name":"Harna",
+    "ks:ks_pop":507,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13288459",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1044976",
+    "lbl:latitude":24.385618,
+    "lbl:longitude":84.299799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.385618,
+    "mps:longitude":84.299799,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "H\u0101rn\u0101"
+    ],
+    "name:eng_x_preferred":[
+        "Harna"
+    ],
+    "name:eng_x_variant":[
+        "Harn\u0101"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0631\u0646\u0627"
@@ -42,7 +59,13 @@
     "name:swe_x_preferred":[
         "H\u0101rn\u0101"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10838643
+        "gn:id":10838643,
+        "ks:id":"KS6070C18FE9E248B5B16C51B5439C9165"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6b4fffb38653df5cb1b5cc8d4532cd40",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c1909b5c886b1eb571d17a7bd064091",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +92,22 @@
         }
     ],
     "wof:id":1326968563,
-    "wof:lastmodified":1566684384,
+    "wof:lastmodified":1682896068,
     "wof:name":"Harna",
     "wof:parent_id":1108696111,
     "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.29942,
-    24.38575,
-    84.29942,
-    24.38575
+    84.299253,
+    24.385214,
+    84.3006,
+    24.386022
 ],
-  "geometry": {"coordinates":[84.29942,24.38575],"type":"Point"}
+  "geometry": {"coordinates":[[[84.300331,24.386022],[84.300331,24.385753],[84.3006,24.385753],[84.3006,24.385483],[84.300061,24.385483],[84.300061,24.385214],[84.29925299999999,24.385214],[84.29925299999999,24.385753],[84.299522,24.385753],[84.299522,24.386022],[84.300331,24.386022]]],"type":"Polygon"}
 }

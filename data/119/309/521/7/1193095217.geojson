@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.93499,31.3747,74.93499,31.3747",
-    "geom:latitude":31.3747,
-    "geom:longitude":74.93499,
+    "geom:bbox":"74.93189,31.37213,74.935933,31.375634",
+    "geom:latitude":31.373985,
+    "geom:longitude":74.933518,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"50.0",
     "gn:asciiname":"Chambal",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.91499,31.3547,74.95499,31.3947",
+    "ks:ks_id":"KS4B6B169CB2724881AD53EE89470C709D",
+    "ks:ks_name":"Chambal",
+    "ks:ks_pop":1026,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0302000400232700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2200612",
+    "lbl:latitude":31.373882,
+    "lbl:longitude":74.933349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.373882,
+    "mps:longitude":74.933349,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0628\u0627\u0644"
@@ -38,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b1\u03bc\u03c0\u03ac\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Chambal"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d0\u05de\u05d1\u05d0\u05dc"
@@ -72,7 +85,13 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Chambal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695891
+        "gn:id":10695891,
+        "ks:id":"KS4B6B169CB2724881AD53EE89470C709D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"39cb11e20c73627348dcdbfee48d0827",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f816858a63e203d189f126e29f0b2f65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1193095217,
-    "wof:lastmodified":1636505598,
+    "wof:lastmodified":1682588574,
     "wof:name":"Chambal",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
+    "wof:population":1026,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.93499,
-    31.3747,
-    74.93499,
-    31.3747
+    74.93189,
+    31.37213,
+    74.935933,
+    31.375634
 ],
-  "geometry": {"coordinates":[74.93499,31.3747],"type":"Point"}
+  "geometry": {"coordinates":[[[74.93350700000001,31.375634],[74.93350700000001,31.375095],[74.935124,31.375095],[74.935124,31.374556],[74.93593300000001,31.374556],[74.93593300000001,31.374286],[74.93566300000001,31.374286],[74.93566300000001,31.374017],[74.935394,31.374017],[74.935394,31.373747],[74.934855,31.373747],[74.934855,31.373478],[74.934585,31.373478],[74.934585,31.372939],[74.934046,31.372939],[74.934046,31.372669],[74.93350700000001,31.372669],[74.93350700000001,31.37213],[74.932968,31.37213],[74.932968,31.3724],[74.932429,31.3724],[74.932429,31.372669],[74.93216,31.372669],[74.93216,31.373208],[74.93189,31.373208],[74.93189,31.373478],[74.93216,31.373478],[74.93216,31.373747],[74.93189,31.373747],[74.93189,31.374017],[74.93216,31.374017],[74.93216,31.374286],[74.93189,31.374286],[74.93189,31.375095],[74.932699,31.375095],[74.932699,31.375634],[74.93350700000001,31.375634]]],"type":"Polygon"}
 }

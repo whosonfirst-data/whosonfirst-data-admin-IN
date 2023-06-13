@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.08047,26.35874,83.08047,26.35874",
-    "geom:latitude":26.35874,
-    "geom:longitude":83.08047,
+    "geom:bbox":"83.07979,26.358184,83.081137,26.359262",
+    "geom:latitude":26.358723,
+    "geom:longitude":83.080464,
     "gn:admin1_code":"36",
     "gn:admin2_code":"178.0",
     "gn:asciiname":"Chak Madhopur",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.06047,26.33874,83.10047,26.37874",
+    "ks:ks_alt_nam":"Chak M\u0101dhopur",
+    "ks:ks_id":"KS48B5FB55FF4E4064A35E561A6FC09062",
+    "ks:ks_name":"Chak Madhopur",
+    "ks:ks_pop":123,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13093009",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1411949",
+    "lbl:latitude":26.358723,
+    "lbl:longitude":83.080464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.358723,
+    "mps:longitude":83.080464,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chak Madhopur"
+    ],
+    "name:eng_x_variant":[
+        "Chak M\u0101dhopur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10660522
+        "gn:id":10660522,
+        "ks:id":"KS48B5FB55FF4E4064A35E561A6FC09062"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3d051f4254e9753458d5aa44fbe98088",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"970fbed1150c4964d966b54bf0925fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1193230879,
-    "wof:lastmodified":1566697891,
+    "wof:lastmodified":1682599513,
     "wof:name":"Chak Madhopur",
     "wof:parent_id":1108695849,
     "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.08046999999998,
-    26.35874,
-    83.08046999999998,
-    26.35874
+    83.07979,
+    26.358184,
+    83.081137,
+    26.359262
 ],
-  "geometry": {"coordinates":[83.08046999999998,26.35874],"type":"Point"}
+  "geometry": {"coordinates":[[[83.07979,26.358184],[83.07979,26.359262],[83.081137,26.359262],[83.081137,26.358184],[83.07979,26.358184]]],"type":"Polygon"}
 }

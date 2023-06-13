@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.44208,26.63452,82.44208,26.63452",
-    "geom:latitude":26.63452,
-    "geom:longitude":82.44208,
+    "geom:bbox":"82.441791,26.633842,82.443106,26.635108",
+    "geom:latitude":26.634444,
+    "geom:longitude":82.442437,
     "gn:admin1_code":"36",
     "gn:admin2_code":"177.0",
     "gn:asciiname":"Rasulpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.42208,26.61452,82.46208,26.65452",
+    "ks:ks_id":"KS107A293E0BBF400D889997C3CA403757",
+    "ks:ks_name":"Rasulpur",
+    "ks:ks_pop":1597,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13073251",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1965010",
+    "lbl:latitude":26.634439,
+    "lbl:longitude":82.44245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.634439,
+    "mps:longitude":82.44245,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633\u064a\u0644\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b0\u09b8\u09c1\u09b2\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Rasulpur"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
@@ -72,7 +85,13 @@
     "name:urd_x_variant":[
         "\u0631\u0633\u0648\u0644\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10615339
+        "gn:id":10615339,
+        "ks:id":"KS107A293E0BBF400D889997C3CA403757"
     },
     "wof:country":"IN",
-    "wof:geomhash":"05675e45dcaf6ea009276c5e7eb55fdc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4bd532882c29253f7051d450fbbf4bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1293927817,
-    "wof:lastmodified":1577750241,
+    "wof:lastmodified":1682836332,
     "wof:name":"Rasulpur",
     "wof:parent_id":890510339,
     "wof:placetype":"locality",
+    "wof:population":1597,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.44208,
-    26.63452,
-    82.44208,
-    26.63452
+    82.441791,
+    26.633842,
+    82.443106,
+    26.635108
 ],
-  "geometry": {"coordinates":[82.44208,26.63452],"type":"Point"}
+  "geometry": {"coordinates":[[[82.44270899999999,26.635105],[82.442708,26.635015],[82.442908,26.635013],[82.44290599999999,26.634833],[82.44300699999999,26.634832],[82.443005,26.634741],[82.443106,26.63474],[82.4431,26.634289],[82.443,26.63429],[82.44299700000001,26.634109],[82.442897,26.63411],[82.442896,26.63402],[82.442795,26.634021],[82.44279400000001,26.633931],[82.442694,26.633932],[82.44269300000001,26.633842],[82.44199,26.633849],[82.441991,26.633939],[82.44189,26.63394],[82.441892,26.63403],[82.44179099999999,26.634031],[82.441799,26.634663],[82.44189900000001,26.634662],[82.441901,26.634752],[82.442001,26.634751],[82.442002,26.634842],[82.442103,26.634841],[82.442105,26.635021],[82.44240600000001,26.635018],[82.442407,26.635108],[82.44270899999999,26.635105]]],"type":"Polygon"}
 }

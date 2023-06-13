@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.83203,26.44385,81.83203,26.44385",
-    "geom:latitude":26.44385,
-    "geom:longitude":81.83203,
+    "geom:bbox":"81.831154,26.443253,81.833364,26.444609",
+    "geom:latitude":26.443856,
+    "geom:longitude":81.832314,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Malpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.81203,26.42385,81.85203,26.46385",
+    "ks:ks_alt_nam":"M\u0101lpur",
+    "ks:ks_id":"KS929A29CB53AC4239A228B8927F3459E7",
+    "ks:ks_name":"Malpur",
+    "ks:ks_pop":309,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|664612",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1960272",
+    "lbl:latitude":26.443824,
+    "lbl:longitude":81.832403,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.443824,
+    "mps:longitude":81.832403,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0628\u0648\u0631"
@@ -43,6 +54,12 @@
         "\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "M\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Malpur"
+    ],
+    "name:eng_x_variant":[
         "M\u0101lpur"
     ],
     "name:guj_x_preferred":[
@@ -96,7 +113,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10576718
+        "gn:id":10576718,
+        "ks:id":"KS929A29CB53AC4239A228B8927F3459E7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"93c13bee000297316c665c9eb7dde78c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ceb671ccad6d6b7a7a6d7c77997c6df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +146,22 @@
         }
     ],
     "wof:id":1293442035,
-    "wof:lastmodified":1577750362,
+    "wof:lastmodified":1682818273,
     "wof:name":"Malpur",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.83203,
-    26.44385,
-    81.83203,
-    26.44385
+    81.831154,
+    26.443253,
+    81.833364,
+    26.444609
 ],
-  "geometry": {"coordinates":[81.83203,26.44385],"type":"Point"}
+  "geometry": {"coordinates":[[[81.832866,26.444607],[81.832866,26.444516],[81.832966,26.444516],[81.832965,26.444425],[81.833066,26.444425],[81.833065,26.444335],[81.83316499999999,26.444334],[81.83316499999999,26.444244],[81.833265,26.444243],[81.833264,26.444063],[81.833364,26.444062],[81.833361,26.443611],[81.83326099999999,26.443611],[81.83326,26.443521],[81.83316000000001,26.443521],[81.83315899999999,26.443431],[81.832958,26.443432],[81.832958,26.443342],[81.832757,26.443343],[81.832756,26.443253],[81.831754,26.443259],[81.831754,26.443349],[81.83135299999999,26.443351],[81.831354,26.443442],[81.831253,26.443442],[81.831255,26.443623],[81.831154,26.443623],[81.831157,26.443985],[81.83125699999999,26.443984],[81.831259,26.444164],[81.83176,26.444162],[81.831761,26.444252],[81.83196100000001,26.444251],[81.831962,26.444341],[81.832162,26.44434],[81.83216299999999,26.44443],[81.832263,26.44443],[81.832264,26.44452],[81.832465,26.444519],[81.832465,26.444609],[81.832866,26.444607]]],"type":"Polygon"}
 }

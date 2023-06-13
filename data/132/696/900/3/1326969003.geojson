@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.30854,29.18026,78.30854,29.18026",
-    "geom:latitude":29.18026,
-    "geom:longitude":78.30854,
+    "geom:bbox":"78.306989,29.179214,78.309065,29.180747",
+    "geom:latitude":29.179963,
+    "geom:longitude":78.307967,
     "gn:admin1_code":"36",
     "gn:admin2_code":"134.0",
     "gn:asciiname":"Ibrahimpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.28854,29.16026,78.32854,29.20026",
+    "ks:ks_id":"KSAC263FF7851E4D30AF32AC79B1CA65F3",
+    "ks:ks_name":"Ibrahimpur",
+    "ks:ks_pop":790,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|429992",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1829333",
+    "lbl:latitude":29.179938,
+    "lbl:longitude":78.307967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.179938,
+    "mps:longitude":78.307967,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0987\u09ac\u09cd\u09b0\u09be\u09b9\u09bf\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ibrahimpur"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aac\u0acd\u0ab0\u0abe\u0ab9\u0ac0\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0628\u0631\u0627\u06c1\u06cc\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10569457
+        "gn:id":10569457,
+        "ks:id":"KSAC263FF7851E4D30AF32AC79B1CA65F3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8a63c361591ca0f5364acc78f5af96a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8a3017b22bee4042b51465a113444321",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1326969003,
-    "wof:lastmodified":1577749567,
+    "wof:lastmodified":1682896125,
     "wof:name":"Ibrahimpur",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.30854000000002,
-    29.18026,
-    78.30854000000002,
-    29.18026
+    78.306989,
+    29.179214,
+    78.309065,
+    29.180747
 ],
-  "geometry": {"coordinates":[78.30854000000002,29.18026],"type":"Point"}
+  "geometry": {"coordinates":[[[78.307804,29.180747],[78.307806,29.180657],[78.308114,29.180663],[78.308117,29.180573],[78.30822000000001,29.180575],[78.308222,29.180485],[78.30842699999999,29.180489],[78.30843,29.180399],[78.308532,29.180401],[78.30853500000001,29.18031],[78.308638,29.180313],[78.30864,29.180222],[78.30874300000001,29.180224],[78.308745,29.180134],[78.308848,29.180136],[78.308852,29.179956],[78.308955,29.179958],[78.30896,29.179778],[78.30906299999999,29.17978],[78.309065,29.17969],[78.30896199999999,29.179688],[78.308965,29.179597],[78.308862,29.179595],[78.308864,29.179505],[78.308761,29.179503],[78.308764,29.179413],[78.308661,29.179411],[78.308663,29.179321],[78.308561,29.179319],[78.30856300000001,29.179229],[78.307844,29.179214],[78.30784199999999,29.179304],[78.307739,29.179302],[78.30773600000001,29.179392],[78.307531,29.179388],[78.307529,29.179478],[78.30742600000001,29.179476],[78.307424,29.179566],[78.307321,29.179564],[78.307316,29.179745],[78.307213,29.179743],[78.307211,29.179833],[78.307108,29.179831],[78.307104,29.180011],[78.307001,29.180009],[78.306989,29.18046],[78.307092,29.180462],[78.307089,29.180552],[78.307192,29.180554],[78.30719000000001,29.180644],[78.30760100000001,29.180652],[78.307598,29.180743],[78.307804,29.180747]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.47932,20.00149,78.47932,20.00149",
-    "geom:latitude":20.00149,
-    "geom:longitude":78.47932,
+    "geom:bbox":"78.490566,19.989757,78.491375,19.990835",
+    "geom:latitude":19.990296,
+    "geom:longitude":78.490971,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Kolampod",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.45932,19.98149,78.49932,20.02149",
+    "ks:ks_id":"KSC4269D218A6942B28E69CE718CA3F3D7",
+    "ks:ks_name":"Kolampod",
+    "ks:ks_pop":118,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1245278",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_635914",
+    "lbl:latitude":19.990296,
+    "lbl:longitude":78.490971,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.990296,
+    "mps:longitude":78.490971,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kolampod"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453601
+        "gn:id":10453601,
+        "ks:id":"KSC4269D218A6942B28E69CE718CA3F3D7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9b9d93181cb9a7abb3c5e0b914f7e5c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c6c1cb4d9dd7c15404664c6d79f058e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1193000183,
-    "wof:lastmodified":1566697462,
+    "wof:lastmodified":1682582050,
     "wof:name":"Kolampod",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.47932,
-    20.00149,
-    78.47932,
-    20.00149
+    78.490566,
+    19.989757,
+    78.491375,
+    19.990835
 ],
-  "geometry": {"coordinates":[78.47932,20.00149],"type":"Point"}
+  "geometry": {"coordinates":[[[78.49137500000001,19.989757],[78.490566,19.989757],[78.490566,19.990835],[78.49137500000001,19.990835],[78.49137500000001,19.989757]]],"type":"Polygon"}
 }

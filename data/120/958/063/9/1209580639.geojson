@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.36142,15.95277,77.36142,15.95277",
-    "geom:latitude":15.95277,
-    "geom:longitude":77.36142,
+    "geom:bbox":"77.362774,15.95209,77.36353,15.953895",
+    "geom:latitude":15.953105,
+    "geom:longitude":77.363171,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"559.0",
     "gn:asciiname":"Tungabhadra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.34142,15.93277,77.38142,15.97277",
+    "ks:ks_id":"KS51065B6FB4A84562AD16F8D5E7397B8A",
+    "ks:ks_name":"Tungabhadra",
+    "ks:ks_pop":2097,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13380999",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_482449",
+    "lbl:latitude":15.953129,
+    "lbl:longitude":77.363178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":15.953129,
+    "mps:longitude":77.363178,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062c\u0627\u0628\u0647\u0627\u062f\u0631\u0627"
@@ -43,7 +53,7 @@
         "\u03a4\u03bf\u03c5\u03bd\u03b3\u03ba\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Tungabhadra Reservoir"
+        "Tungabhadra"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0646\u06af\u0627\u0628\u0647\u0627\u062f\u0631\u0627"
@@ -108,37 +118,55 @@
     "name:zho_tw_x_preferred":[
         "\u68df\u683c\u73c0\u5fb7\u62c9\u6c34\u5eab"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672165,
+        890508845
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10900180
+        "gn:id":10900180,
+        "ks:id":"KS51065B6FB4A84562AD16F8D5E7397B8A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"30a05a0e28e08392276385aec1416ea9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a5de58e76352f7e322f84999a07d968",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209580639
+            "county_id":890508845,
+            "locality_id":1209580639,
+            "region_id":85672165
         }
     ],
     "wof:id":1209580639,
-    "wof:lastmodified":1636505566,
+    "wof:lastmodified":1682625194,
     "wof:name":"Tungabhadra",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508845,
     "wof:placetype":"locality",
+    "wof:population":2097,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.36142,
-    15.95277,
-    77.36142,
-    15.95277
+    77.362774,
+    15.95209,
+    77.36353,
+    15.953895
 ],
-  "geometry": {"coordinates":[77.36142,15.95277],"type":"Point"}
+  "geometry": {"coordinates":[[[77.363438,15.953892],[77.363437,15.953802],[77.36353,15.953801],[77.363519,15.952807],[77.36342500000001,15.952808],[77.363423,15.952628],[77.36333,15.952629],[77.36332899999999,15.952539],[77.363235,15.95254],[77.36323400000001,15.952449],[77.363141,15.95245],[77.363139,15.95227],[77.363045,15.952271],[77.363043,15.95209],[77.36295,15.952091],[77.362951,15.952181],[77.362858,15.952182],[77.36286,15.952363],[77.362953,15.952362],[77.362955,15.952543],[77.36286200000001,15.952544],[77.36286699999999,15.952995],[77.362774,15.952996],[77.36277699999999,15.953267],[77.36287,15.953266],[77.36287400000001,15.953537],[77.362967,15.953536],[77.36296900000001,15.953717],[77.363062,15.953716],[77.363063,15.953806],[77.363157,15.953805],[77.363158,15.953895],[77.363438,15.953892]]],"type":"Polygon"}
 }

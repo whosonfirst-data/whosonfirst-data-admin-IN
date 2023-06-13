@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.10261,24.56401,84.10261,24.56401",
-    "geom:latitude":24.56401,
-    "geom:longitude":84.10261,
+    "geom:bbox":"84.10208,24.56286,84.103584,24.565034",
+    "geom:latitude":24.563961,
+    "geom:longitude":84.102845,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Bilaspur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.08261,24.54401,84.12261,24.58401",
+    "ks:ks_id":"KSFCB2BCAA9A86448CBBC2F2007AC58A49",
+    "ks:ks_name":"Belaspur",
+    "ks:ks_pop":418,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1034000803896300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1148785",
+    "lbl:latitude":24.563946,
+    "lbl:longitude":84.10286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.563946,
+    "mps:longitude":84.10286,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0633\u0628\u0648\u0631"
@@ -55,6 +65,12 @@
         "Bilaspur"
     ],
     "name:deu_x_preferred":[
+        "Bilaspur"
+    ],
+    "name:eng_x_preferred":[
+        "Belaspur"
+    ],
+    "name:eng_x_variant":[
         "Bilaspur"
     ],
     "name:guj_x_preferred":[
@@ -117,7 +133,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0644\u0627\u0633 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +148,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835018
+        "gn:id":10835018,
+        "ks:id":"KSFCB2BCAA9A86448CBBC2F2007AC58A49"
     },
     "wof:country":"IN",
-    "wof:geomhash":"462649637759ded85996c7c738c16256",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dda8f37804dc60f6117a396ae8a85488",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +166,22 @@
         }
     ],
     "wof:id":1276607185,
-    "wof:lastmodified":1636505460,
-    "wof:name":"Bilaspur",
+    "wof:lastmodified":1682780148,
+    "wof:name":"Belaspur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.10261,
-    24.56401,
-    84.10261,
-    24.56401
+    84.10208,
+    24.56286,
+    84.103584,
+    24.565034
 ],
-  "geometry": {"coordinates":[84.10261,24.56401],"type":"Point"}
+  "geometry": {"coordinates":[[[84.10315199999999,24.565034],[84.103154,24.564944],[84.103253,24.564946],[84.103255,24.564856],[84.103354,24.564858],[84.103358,24.564677],[84.10345599999999,24.564679],[84.103465,24.564318],[84.10356299999999,24.56432],[84.103584,24.563418],[84.10348500000001,24.563416],[84.10348999999999,24.563236],[84.103391,24.563234],[84.103393,24.563144],[84.10329400000001,24.563142],[84.103296,24.563052],[84.10319800000001,24.56305],[84.1032,24.56296],[84.103101,24.562958],[84.103103,24.562868],[84.102709,24.56286],[84.102707,24.56295],[84.102608,24.562948],[84.10260599999999,24.563039],[84.10240899999999,24.563035],[84.102407,24.563125],[84.10230799999999,24.563123],[84.10230199999999,24.563394],[84.102203,24.563392],[84.102197,24.563662],[84.102098,24.56366],[84.10208,24.564472],[84.10217799999999,24.564474],[84.10217400000001,24.564655],[84.102273,24.564656],[84.102271,24.564747],[84.102369,24.564749],[84.102367,24.564839],[84.102565,24.564843],[84.102563,24.564933],[84.102661,24.564935],[84.102659,24.565025],[84.10315199999999,24.565034]]],"type":"Polygon"}
 }

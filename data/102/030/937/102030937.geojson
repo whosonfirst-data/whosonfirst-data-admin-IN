@@ -10,12 +10,19 @@
     "geom:latitude":8.925303,
     "geom:longitude":76.907833,
     "iso:country":"IN",
-    "lbl:latitude":8.927512,
-    "lbl:longitude":76.913912,
+    "ks:ks_id":"KSD30A521BD39849DAB196A0E65536ED58",
+    "ks:ks_name":"Anchal",
+    "ks:ks_pop":327,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1205552",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_63678",
+    "lbl:latitude":8.92814,
+    "lbl:longitude":76.911369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":8.924206,
-    "mps:longitude":76.910954,
+    "mps:latitude":8.92814,
+    "mps:longitude":76.911369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -53,9 +60,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":1224,
     "wof:belongsto":[
         102191569,
@@ -67,13 +77,16 @@
     "wof:concordances":{
         "gn:id":1278654,
         "gp:id":55923398,
+        "ks:id":"KSD30A521BD39849DAB196A0E65536ED58",
         "qs_pg:id":211080,
         "wd:id":"Q4752594",
         "wk:page":"Anchal"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"fea2fa352dce05c253d2674c7a54e766",
     "wof:hierarchy":[
@@ -86,10 +99,12 @@
         }
     ],
     "wof:id":102030937,
-    "wof:lastmodified":1658780728,
+    "wof:lastmodified":1682525164,
     "wof:name":"Anchal",
     "wof:parent_id":890507255,
     "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

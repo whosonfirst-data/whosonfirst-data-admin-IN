@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.32773,17.31998,82.32773,17.31998",
-    "geom:latitude":17.31998,
-    "geom:longitude":82.32773,
+    "geom:bbox":"82.327544,17.319295,82.328023,17.320833",
+    "geom:latitude":17.320054,
+    "geom:longitude":82.327773,
     "gn:admin1_code":"2",
     "gn:admin2_code":"545.0",
     "gn:asciiname":"Gondi",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.30773,17.29998,82.34773,17.33998",
+    "ks:ks_id":"KSB3D23F1AE7F74C2F864591C35EBEDF0E",
+    "ks:ks_name":"Gondi",
+    "ks:ks_pop":273,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|370439",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_588385",
+    "lbl:latitude":17.319831,
+    "lbl:longitude":82.327778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":17.319831,
+    "mps:longitude":82.327778,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gondi"
     ],
     "name:deu_x_preferred":[
+        "Gondi"
+    ],
+    "name:eng_x_preferred":[
         "Gondi"
     ],
     "name:fin_x_preferred":[
@@ -51,7 +64,13 @@
     "name:swe_x_preferred":[
         "Gondi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10768564
+        "gn:id":10768564,
+        "ks:id":"KSB3D23F1AE7F74C2F864591C35EBEDF0E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"81aebbb345dff5d99a73f392c7f66c24",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9388ed7feb08acf31484af09458e62e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1226450679,
-    "wof:lastmodified":1566711273,
+    "wof:lastmodified":1682668117,
     "wof:name":"Gondi",
     "wof:parent_id":890506393,
     "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.32773,
-    17.31997999999999,
-    82.32773,
-    17.31997999999999
+    82.327544,
+    17.319295,
+    82.328023,
+    17.320833
 ],
-  "geometry": {"coordinates":[82.32773,17.31997999999999],"type":"Point"}
+  "geometry": {"coordinates":[[[82.328023,17.320831],[82.328022,17.32065],[82.327928,17.320651],[82.327923,17.320018],[82.328018,17.320017],[82.328013,17.319385],[82.32791899999999,17.319386],[82.327918,17.319295],[82.327636,17.319297],[82.32763799999999,17.319568],[82.327544,17.319569],[82.327552,17.320744],[82.327741,17.320742],[82.327741,17.320833],[82.328023,17.320831]]],"type":"Polygon"}
 }

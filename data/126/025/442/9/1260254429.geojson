@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.46093,21.29133,77.46093,21.29133",
-    "geom:latitude":21.29133,
-    "geom:longitude":77.46093,
+    "geom:bbox":"77.459451,21.290703,77.462443,21.292064",
+    "geom:latitude":21.291352,
+    "geom:longitude":77.460958,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Beni",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.44093,21.27133,77.48093,21.31133",
+    "ks:ks_id":"KSB22A315BEE2840B695AE5293434D4B2A",
+    "ks:ks_name":"Beni",
+    "ks:ks_pop":19,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|125008",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_878071",
+    "lbl:latitude":21.291349,
+    "lbl:longitude":77.460958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.291349,
+    "mps:longitude":77.460958,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u064a"
@@ -44,6 +54,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ad\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Beni"
     ],
     "name:est_x_preferred":[
         "Beni"
@@ -117,7 +130,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -126,10 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512330
+        "gn:id":10512330,
+        "ks:id":"KSB22A315BEE2840B695AE5293434D4B2A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"17aa05da6f83886b5d0265f6bf7fbb19",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f58de2594c379300977e4352ee166a92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,20 +163,22 @@
         }
     ],
     "wof:id":1260254429,
-    "wof:lastmodified":1636505649,
+    "wof:lastmodified":1682757301,
     "wof:name":"Beni",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.46093,
-    21.29133,
-    77.46093,
-    21.29133
+    77.459451,
+    21.290703,
+    77.462443,
+    21.292064
 ],
-  "geometry": {"coordinates":[77.46093,21.29133],"type":"Point"}
+  "geometry": {"coordinates":[[[77.46187399999999,21.292058],[77.461872,21.291968],[77.462065,21.291965],[77.462063,21.291875],[77.46216,21.291873],[77.462158,21.291783],[77.462255,21.291782],[77.462253,21.291691],[77.462349,21.29169],[77.462346,21.29151],[77.46244299999999,21.291508],[77.46243699999999,21.291147],[77.46234,21.291148],[77.46233700000001,21.290968],[77.46224100000001,21.290969],[77.462239,21.290879],[77.462143,21.29088],[77.462142,21.29079],[77.461949,21.290793],[77.46194800000001,21.290703],[77.459829,21.290734],[77.45983,21.290824],[77.459637,21.290827],[77.459639,21.290917],[77.459543,21.290918],[77.459547,21.291189],[77.459451,21.291191],[77.45945500000001,21.291462],[77.459552,21.29146],[77.45955499999999,21.291641],[77.45965099999999,21.291639],[77.459654,21.29182],[77.459847,21.291817],[77.45984799999999,21.291907],[77.45994399999999,21.291906],[77.459946,21.291996],[77.46148700000001,21.291974],[77.461488,21.292064],[77.46187399999999,21.292058]]],"type":"Polygon"}
 }

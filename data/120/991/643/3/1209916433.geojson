@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.8407,18.20931,82.8407,18.20931",
-    "geom:latitude":18.20931,
-    "geom:longitude":82.8407,
+    "geom:bbox":"82.840033,18.20862,82.841643,18.209712",
+    "geom:latitude":18.209183,
+    "geom:longitude":82.840839,
     "gn:admin1_code":"2",
     "gn:admin2_code":"544.0",
     "gn:asciiname":"Padi",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.8207,18.18931,82.8607,18.22931",
+    "ks:ks_alt_nam":"P\u0101di",
+    "ks:ks_id":"KS7AD365B62A7B4159AB04731D0D4E3C18",
+    "ks:ks_name":"Padi",
+    "ks:ks_pop":233,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|802644",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_599008",
+    "lbl:latitude":18.209119,
+    "lbl:longitude":82.840854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.209119,
+    "mps:longitude":82.840854,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Padi"
     ],
     "name:deu_x_preferred":[
         "PADI"
+    ],
+    "name:eng_x_preferred":[
+        "Padi"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101di"
     ],
     "name:ind_x_preferred":[
         "Padi"
@@ -57,7 +74,13 @@
     "name:vie_x_preferred":[
         "Padi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10766671
+        "gn:id":10766671,
+        "ks:id":"KS7AD365B62A7B4159AB04731D0D4E3C18"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e659556cf22b16d0ca8dff2d8ccce1fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f5c94d6ffd723e67dd2f75e08303689",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +107,22 @@
         }
     ],
     "wof:id":1209916433,
-    "wof:lastmodified":1566694678,
+    "wof:lastmodified":1682637625,
     "wof:name":"Padi",
     "wof:parent_id":890506063,
     "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.8407,
-    18.20931,
-    82.8407,
-    18.20931
+    82.840033,
+    18.20862,
+    82.841643,
+    18.209712
 ],
-  "geometry": {"coordinates":[82.8407,18.20931],"type":"Point"}
+  "geometry": {"coordinates":[[[82.840417,18.209711],[82.840416,18.209621],[82.840699,18.209618],[82.8407,18.209709],[82.840889,18.209707],[82.84088800000001,18.209617],[82.84145599999999,18.209611],[82.841455,18.209521],[82.841549,18.20952],[82.841548,18.20943],[82.841643,18.209429],[82.841639,18.209067],[82.841544,18.209068],[82.841542,18.208888],[82.841448,18.208888],[82.841447,18.208798],[82.841258,18.2088],[82.841257,18.20871],[82.841162,18.20871],[82.841162,18.20862],[82.840594,18.208626],[82.84059499999999,18.208716],[82.840406,18.208718],[82.840407,18.208808],[82.84031299999999,18.208809],[82.84031400000001,18.208899],[82.840219,18.2089],[82.84022,18.208991],[82.840126,18.208991],[82.840127,18.209172],[82.84003300000001,18.209173],[82.840037,18.209534],[82.840131,18.209533],[82.840132,18.209624],[82.840321,18.209622],[82.840322,18.209712],[82.840417,18.209711]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.06402,27.3582,82.06402,27.3582",
-    "geom:latitude":27.3582,
-    "geom:longitude":82.06402,
+    "geom:bbox":"82.048391,27.348222,82.050317,27.349938",
+    "geom:latitude":27.349155,
+    "geom:longitude":82.049294,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Naya Bazar",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.04402,27.3382,82.08402,27.3782",
+    "ks:ks_id":"KS117E1A9AFD3843EEAC30373546DB78A0",
+    "ks:ks_name":"Naibazar",
+    "ks:ks_pop":256,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|750676",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1982869",
+    "lbl:latitude":27.349234,
+    "lbl:longitude":82.049275,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.349234,
+    "mps:longitude":82.049275,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0928\u092f\u093e\u0901\u092c\u091c\u093e\u0930"
     ],
     "name:ceb_x_preferred":[
         "Naya B\u0101z\u0101r"
+    ],
+    "name:eng_x_preferred":[
+        "Naibazar"
+    ],
+    "name:eng_x_variant":[
+        "Naya Bazar"
     ],
     "name:mai_x_preferred":[
         "\u0928\u092f\u093e\u0901\u092c\u091c\u093e\u0930"
@@ -57,7 +73,13 @@
     "name:swe_x_preferred":[
         "Naya B\u0101z\u0101r"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10596061
+        "gn:id":10596061,
+        "ks:id":"KS117E1A9AFD3843EEAC30373546DB78A0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"998203f7f10ab81216fe3c4b7cc6fb4b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8fa2435841300219a673e5270bf76db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1309958119,
-    "wof:lastmodified":1566704505,
-    "wof:name":"Naya Bazar",
+    "wof:lastmodified":1682847603,
+    "wof:name":"Naibazar",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.06402,
-    27.3582,
-    82.06402,
-    27.3582
+    82.048391,
+    27.348222,
+    82.050317,
+    27.349938
 ],
-  "geometry": {"coordinates":[82.06402,27.3582],"type":"Point"}
+  "geometry": {"coordinates":[[[82.049817,27.349932],[82.04981600000001,27.349752],[82.04991699999999,27.349751],[82.049916,27.349661],[82.050017,27.34966],[82.050016,27.34957],[82.050117,27.349569],[82.05011500000001,27.349388],[82.050217,27.349388],[82.05021600000001,27.349297],[82.05031700000001,27.349297],[82.050313,27.348936],[82.050212,27.348936],[82.050211,27.348846],[82.05011,27.348847],[82.05010900000001,27.348757],[82.049806,27.348759],[82.04980500000001,27.348669],[82.049603,27.34867],[82.04960199999999,27.34858],[82.04950100000001,27.348581],[82.04949999999999,27.34849],[82.04939899999999,27.348491],[82.049398,27.348401],[82.049297,27.348402],[82.049297,27.348311],[82.049195,27.348312],[82.049195,27.348222],[82.049093,27.348223],[82.049094,27.348313],[82.048892,27.348314],[82.04889300000001,27.348405],[82.04869100000001,27.348406],[82.048692,27.348496],[82.048591,27.348497],[82.048591,27.348587],[82.04849,27.348588],[82.048492,27.348769],[82.048391,27.348769],[82.048394,27.349131],[82.048495,27.34913],[82.04849900000001,27.349491],[82.04859999999999,27.34949],[82.048602,27.349671],[82.048703,27.34967],[82.048704,27.34976],[82.048805,27.349759],[82.048806,27.34985],[82.049008,27.349848],[82.049009,27.349938],[82.049817,27.349932]]],"type":"Polygon"}
 }

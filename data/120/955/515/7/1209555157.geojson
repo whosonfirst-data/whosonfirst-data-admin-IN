@@ -64,10 +64,10 @@
         "\u0ab0\u0abe\u0aaf\u0a97\u0aa2"
     ],
     "name:hin_x_preferred":[
-        "\u0930\u093e\u092f\u0917\u095d"
+        "\u0930\u093e\u092f\u0917\u0922\u093c"
     ],
     "name:hin_x_variant":[
-        "\u0930\u093e\u092f\u0917\u0922\u093c"
+        "\u0930\u093e\u092f\u0917\u095d"
     ],
     "name:ita_x_preferred":[
         "Raigarh"
@@ -79,10 +79,11 @@
         "\u0d31\u0d3e\u0d2f\u0d4d\u0d17\u0d21\u0d4d"
     ],
     "name:mar_x_preferred":[
-        "\u0930\u093e\u092f\u0917\u095d"
+        "\u0930\u093e\u092f\u0917\u0921"
     ],
     "name:mar_x_variant":[
-        "\u0930\u093e\u092f\u0917\u0922"
+        "\u0930\u093e\u092f\u0917\u0922",
+        "\u0930\u093e\u092f\u0917\u095d"
     ],
     "name:mlg_x_preferred":[
         "Raigarh"
@@ -140,7 +141,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,14 +154,17 @@
     "wof:geomhash":"0b00dea540261adfb91fb90e9ce414b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209555157
+            "county_id":1108695887,
+            "locality_id":1209555157,
+            "region_id":85672205
         }
     ],
     "wof:id":1209555157,
-    "wof:lastmodified":1577750765,
+    "wof:lastmodified":1686162735,
     "wof:name":"Raigarh",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.30129,29.22336,78.30129,29.22336",
-    "geom:latitude":29.22336,
-    "geom:longitude":78.30129,
+    "geom:bbox":"78.299064,29.222982,78.300931,29.224158",
+    "geom:latitude":29.223574,
+    "geom:longitude":78.299974,
     "gn:admin1_code":"36",
     "gn:admin2_code":"134.0",
     "gn:asciiname":"Kunda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.28129,29.20336,78.32129,29.24336",
+    "ks:ks_id":"KSD66EBB52639B4BAF8E2B46BC2396BECB",
+    "ks:ks_name":"Kunda",
+    "ks:ks_pop":85,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|600051",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1830116",
+    "lbl:latitude":29.223571,
+    "lbl:longitude":78.299974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.223571,
+    "mps:longitude":78.299974,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kunda"
@@ -37,6 +47,9 @@
         "Kunda"
     ],
     "name:deu_x_preferred":[
+        "Kunda"
+    ],
+    "name:eng_x_preferred":[
         "Kunda"
     ],
     "name:fra_x_preferred":[
@@ -69,7 +82,13 @@
     "name:vie_x_preferred":[
         "Kunda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10569438
+        "gn:id":10569438,
+        "ks:id":"KSD66EBB52639B4BAF8E2B46BC2396BECB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"72fd7025babbbeed85aa166a2eddd469",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6df44541a01e3811c017edccd803cd90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1243606865,
-    "wof:lastmodified":1566707417,
+    "wof:lastmodified":1682722260,
     "wof:name":"Kunda",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.30129000000002,
-    29.22336,
-    78.30129000000002,
-    29.22336
+    78.299064,
+    29.222982,
+    78.300931,
+    29.224158
 ],
-  "geometry": {"coordinates":[78.30129000000002,29.22336],"type":"Point"}
+  "geometry": {"coordinates":[[[78.29998399999999,29.224158],[78.299987,29.224068],[78.30029500000001,29.224074],[78.300297,29.223984],[78.30050300000001,29.223988],[78.300505,29.223898],[78.300608,29.2239],[78.300611,29.22381],[78.300816,29.223814],[78.30081800000001,29.223724],[78.300921,29.223726],[78.30093100000001,29.223365],[78.300828,29.223363],[78.30083,29.223273],[78.30072699999999,29.223271],[78.30073,29.223181],[78.30062700000001,29.223179],[78.300629,29.223088],[78.30042400000001,29.223084],[78.300426,29.222994],[78.29980999999999,29.222982],[78.299807,29.223072],[78.29960199999999,29.223068],[78.299599,29.223158],[78.29939400000001,29.223154],[78.299391,29.223244],[78.299289,29.223242],[78.299284,29.223422],[78.299181,29.22342],[78.299179,29.22351],[78.299076,29.223508],[78.299064,29.223959],[78.299167,29.223961],[78.299165,29.224051],[78.29947300000001,29.224057],[78.299471,29.224147],[78.29998399999999,29.224158]]],"type":"Polygon"}
 }

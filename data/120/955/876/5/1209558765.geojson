@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.13265,27.10893,81.13265,27.10893",
-    "geom:latitude":27.10893,
-    "geom:longitude":81.13265,
+    "geom:bbox":"81.131728,27.107794,81.133545,27.109511",
+    "geom:latitude":27.108688,
+    "geom:longitude":81.13259,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Mohanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.11265,27.08893,81.15265,27.12893",
+    "ks:ks_id":"KSCF7D68ADB100481282BAE6239DB39A84",
+    "ks:ks_name":"Mohanpur",
+    "ks:ks_pop":316,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|710375",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1890999",
+    "lbl:latitude":27.108704,
+    "lbl:longitude":81.132608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.108704,
+    "mps:longitude":81.132608,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u064a\u0646\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Mohanpur"
+    ],
+    "name:eng_x_preferred":[
         "Mohanpur"
     ],
     "name:fra_x_preferred":[
@@ -84,37 +97,55 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06c1\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695847
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10724099
+        "gn:id":10724099,
+        "ks:id":"KSCF7D68ADB100481282BAE6239DB39A84"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ec6954ac5e553f51b1173e8d668fb141",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afa9c1ff4c5cc71936ab8396dc2bd94b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209558765
+            "county_id":1108695847,
+            "locality_id":1209558765,
+            "region_id":85672205
         }
     ],
     "wof:id":1209558765,
-    "wof:lastmodified":1577750761,
+    "wof:lastmodified":1682623328,
     "wof:name":"Mohanpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.13265,
-    27.10893,
-    81.13265,
-    27.10893
+    81.131728,
+    27.107794,
+    81.133545,
+    27.109511
 ],
-  "geometry": {"coordinates":[81.13265,27.10893],"type":"Point"}
+  "geometry": {"coordinates":[[[81.13314200000001,27.109509],[81.13314099999999,27.109419],[81.133242,27.109419],[81.133242,27.109329],[81.133343,27.109329],[81.133343,27.109238],[81.133444,27.109238],[81.133444,27.109058],[81.133545,27.109058],[81.133544,27.108697],[81.133443,27.108697],[81.133443,27.108335],[81.133342,27.108336],[81.133342,27.108245],[81.133241,27.108245],[81.133241,27.108065],[81.13314,27.108065],[81.13314,27.107975],[81.133039,27.107975],[81.133039,27.107884],[81.13283699999999,27.107885],[81.13283699999999,27.107794],[81.132131,27.107795],[81.132131,27.107885],[81.13203,27.107885],[81.13203,27.107976],[81.131929,27.107976],[81.131929,27.108066],[81.131828,27.108066],[81.131828,27.108156],[81.131728,27.108157],[81.131728,27.108879],[81.131829,27.108879],[81.13182999999999,27.10942],[81.132032,27.10942],[81.132032,27.109511],[81.13314200000001,27.109509]]],"type":"Polygon"}
 }

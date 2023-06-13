@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.80411,25.10233,79.80411,25.10233",
-    "geom:latitude":25.10233,
-    "geom:longitude":79.80411,
+    "geom:bbox":"79.803217,25.101141,79.805192,25.103138",
+    "geom:latitude":25.102201,
+    "geom:longitude":79.80416,
     "gn:admin1_code":"35",
     "gn:admin2_code":"425.0",
     "gn:asciiname":"Sunda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.78411,25.08233,79.82411,25.12233",
+    "ks:ks_id":"KS19CFE8E656A144E0BA1D28672C29EA49",
+    "ks:ks_name":"Suda",
+    "ks:ks_pop":351,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1012537",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1841526",
+    "lbl:latitude":25.10223,
+    "lbl:longitude":79.80416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.10223,
+    "mps:longitude":79.80416,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sonda"
@@ -37,6 +47,12 @@
         "Sunda"
     ],
     "name:deu_x_preferred":[
+        "Sunda"
+    ],
+    "name:eng_x_preferred":[
+        "Suda"
+    ],
+    "name:eng_x_variant":[
         "Sunda"
     ],
     "name:fin_x_preferred":[
@@ -81,7 +97,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u0434\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10493732
+        "gn:id":10493732,
+        "ks:id":"KS19CFE8E656A144E0BA1D28672C29EA49"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ab9244a03d0bd3cf831793d45ca66eeb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4aa6a454278000e5ef1a17f9270f7c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +130,22 @@
         }
     ],
     "wof:id":1192958553,
-    "wof:lastmodified":1566697798,
-    "wof:name":"Sunda",
+    "wof:lastmodified":1682579076,
+    "wof:name":"Suda",
     "wof:parent_id":890507573,
     "wof:placetype":"locality",
+    "wof:population":351,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.80411,
-    25.10233,
-    79.80411,
-    25.10233
+    79.803217,
+    25.101141,
+    79.805192,
+    25.103138
 ],
-  "geometry": {"coordinates":[79.80410999999999,25.10233],"type":"Point"}
+  "geometry": {"coordinates":[[[79.804789,25.103138],[79.80479,25.103048],[79.80498799999999,25.10305],[79.80498900000001,25.102959],[79.805088,25.10296],[79.805089,25.10287],[79.805188,25.102871],[79.80519200000001,25.102509],[79.805093,25.102509],[79.805094,25.102328],[79.80499500000001,25.102327],[79.804997,25.102147],[79.80489799999999,25.102146],[79.8049,25.101965],[79.8048,25.101965],[79.804801,25.101874],[79.80470200000001,25.101873],[79.804703,25.101783],[79.804604,25.101782],[79.80460600000001,25.101602],[79.804507,25.101601],[79.804507,25.101511],[79.804408,25.10151],[79.80440900000001,25.10142],[79.80431,25.101419],[79.804311,25.101329],[79.804113,25.101327],[79.804113,25.101237],[79.803915,25.101235],[79.803916,25.101145],[79.80342,25.101141],[79.80341900000001,25.101231],[79.80332,25.10123],[79.803319,25.101321],[79.80322,25.10132],[79.803217,25.101681],[79.803316,25.101682],[79.803313,25.101953],[79.80341199999999,25.101953],[79.80341,25.102224],[79.80350900000001,25.102225],[79.803505,25.102586],[79.80360400000001,25.102587],[79.803601,25.102948],[79.80370000000001,25.102949],[79.80369899999999,25.103039],[79.803997,25.103042],[79.803996,25.103132],[79.804789,25.103138]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.63177,18.64061,77.63177,18.64061",
-    "geom:latitude":18.64061,
-    "geom:longitude":77.63177,
+    "geom:bbox":"77.630215,18.627537,77.63259,18.628913",
+    "geom:latitude":18.628283,
+    "geom:longitude":77.631406,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Limba",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.61177,18.62061,77.65177,18.66061",
+    "ks:ks_id":"KS832558858DE845F7ABCCBC9995FE79D4",
+    "ks:ks_name":"Limba",
+    "ks:ks_pop":384,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|626438",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_538321",
+    "lbl:latitude":18.628223,
+    "lbl:longitude":77.631406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.628223,
+    "mps:longitude":77.631406,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Limba"
     ],
     "name:deu_x_preferred":[
+        "Limba"
+    ],
+    "name:eng_x_preferred":[
         "Limba"
     ],
     "name:fra_x_preferred":[
@@ -54,37 +67,55 @@
     "name:swe_x_preferred":[
         "Limba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890507055
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10449939
+        "gn:id":10449939,
+        "ks:id":"KS832558858DE845F7ABCCBC9995FE79D4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"16403931763cfed8e38a343db2c378e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ef83846613a7a057c79a460c23cb00ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209684803
+            "county_id":890507055,
+            "locality_id":1209684803,
+            "region_id":85672171
         }
     ],
     "wof:id":1209684803,
-    "wof:lastmodified":1566695908,
+    "wof:lastmodified":1682629307,
     "wof:name":"Limba",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.63176999999997,
-    18.64061,
-    77.63176999999997,
-    18.64061
+    77.630215,
+    18.627537,
+    77.63259,
+    18.628913
 ],
-  "geometry": {"coordinates":[77.63176999999997,18.64061],"type":"Point"}
+  "geometry": {"coordinates":[[[77.63164500000001,18.628897],[77.63164399999999,18.628807],[77.632496,18.628795],[77.63249500000001,18.628704],[77.63258999999999,18.628703],[77.63258399999999,18.628342],[77.63248900000001,18.628343],[77.632487,18.628163],[77.632392,18.628164],[77.63238800000001,18.627893],[77.632293,18.627894],[77.63229200000001,18.627804],[77.63219700000001,18.627805],[77.632195,18.627715],[77.63210100000001,18.627716],[77.632099,18.627626],[77.63200500000001,18.627627],[77.632003,18.627537],[77.631151,18.627549],[77.631152,18.627639],[77.63096299999999,18.627642],[77.63096400000001,18.627732],[77.630775,18.627735],[77.630776,18.627825],[77.63068199999999,18.627827],[77.630683,18.627917],[77.630588,18.627918],[77.63059,18.628009],[77.63039999999999,18.628011],[77.630402,18.628101],[77.630307,18.628103],[77.63030999999999,18.628283],[77.63021500000001,18.628285],[77.630222,18.628736],[77.63031700000001,18.628735],[77.630318,18.628825],[77.63050699999999,18.628822],[77.630509,18.628913],[77.63164500000001,18.628897]]],"type":"Polygon"}
 }

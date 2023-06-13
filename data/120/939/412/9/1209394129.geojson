@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mathur"
@@ -38,35 +39,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672149,
+        890507581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11450204
     },
     "wof:country":"IN",
-    "wof:geomhash":"a13b5aa0ce21c00c80a159a115ae8ae1",
+    "wof:geomhash":"86b2af2678ad937f4e041d9ccb05cec6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209394129
+            "county_id":890507581,
+            "locality_id":1209394129,
+            "region_id":85672149
         }
     ],
     "wof:id":1209394129,
-    "wof:lastmodified":1566694785,
+    "wof:lastmodified":1682617948,
     "wof:name":"Mathur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847131261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.08521999999998,
+    76.08522,
     11.74484,
-    76.08521999999998,
+    76.08522,
     11.74484
 ],
-  "geometry": {"coordinates":[76.08521999999998,11.74484],"type":"Point"}
+  "geometry": {"coordinates":[76.08522000000001,11.74484],"type":"Point"}
 }

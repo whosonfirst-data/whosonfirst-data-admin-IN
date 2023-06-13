@@ -13,12 +13,20 @@
     "gn:longitude":79.26707,
     "gn:population":121826,
     "iso:country":"IN",
-    "lbl:latitude":17.057678,
-    "lbl:longitude":79.268519,
+    "ks:ks_id":"KSF9AB269537DE499297B6CF572B98DC52",
+    "ks:ks_name":"Nalgonda",
+    "ks:ks_pop":111380,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2808003440805000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_502025",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":17.047436,
+    "lbl:longitude":79.274691,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":17.060319,
-    "mps:longitude":79.273518,
+    "mps:latitude":17.047436,
+    "mps:longitude":79.274691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -66,11 +74,11 @@
         "\u0aa8\u0abe\u0ab2\u0a97\u0acb\u0a82\u0aa1\u0abe"
     ],
     "name:hin_x_preferred":[
-        "\u0928\u093e\u0932\u0917\u094b\u0902\u0921\u093e"
+        "\u0928\u0932\u0917\u094b\u0902\u0921\u093e"
     ],
     "name:hin_x_variant":[
         "\u0928\u0932\u094d\u0917\u094b\u0902\u0921\u093e",
-        "\u0928\u0932\u0917\u094b\u0902\u0921\u093e"
+        "\u0928\u093e\u0932\u0917\u094b\u0902\u0921\u093e"
     ],
     "name:ind_x_preferred":[
         "Nalgonda"
@@ -170,10 +178,12 @@
     "reversegeo:longitude":79.268519,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1097,
     "wof:belongsto":[
         102191569,
@@ -186,6 +196,7 @@
         "fct:id":"122dee84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1262067,
         "gp:id":29138979,
+        "ks:id":"KSF9AB269537DE499297B6CF572B98DC52",
         "qs_pg:id":131541,
         "wd:id":"Q1949850",
         "wk:page":"Nalgonda"
@@ -194,6 +205,10 @@
         "qs_pg:id":131541
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"951c2e998bf7789aa7ce6fe1e0267b20",
     "wof:hierarchy":[
         {
@@ -208,11 +223,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780768,
+    "wof:lastmodified":1686162202,
     "wof:name":"Nalgonda",
     "wof:parent_id":890503355,
     "wof:placetype":"locality",
-    "wof:population":121826,
+    "wof:population":111380,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

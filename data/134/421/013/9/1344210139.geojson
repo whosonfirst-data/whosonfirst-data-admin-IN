@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.47512,27.08971,78.47512,27.08971",
-    "geom:latitude":27.08971,
-    "geom:longitude":78.47512,
+    "geom:bbox":"78.474622,27.088688,78.475959,27.090494",
+    "geom:latitude":27.089518,
+    "geom:longitude":78.475222,
     "gn:admin1_code":"36",
     "gn:admin2_code":"147.0",
     "gn:asciiname":"Hamirpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.45512,27.06971,78.49512,27.10971",
+    "ks:ks_id":"KSD75EB00F04444458AC622FE30ED51507",
+    "ks:ks_name":"Hamirpura",
+    "ks:ks_pop":425,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|395237",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1745461",
+    "lbl:latitude":27.089414,
+    "lbl:longitude":78.475277,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.089414,
+    "mps:longitude":78.475277,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u0645\u064a\u0631\u0628\u0648\u0631"
@@ -43,6 +53,12 @@
         "Hamirpur"
     ],
     "name:deu_x_preferred":[
+        "Hamirpur"
+    ],
+    "name:eng_x_preferred":[
+        "Hamirpura"
+    ],
+    "name:eng_x_variant":[
         "Hamirpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +109,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0645\u06cc\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10483455
+        "gn:id":10483455,
+        "ks:id":"KSD75EB00F04444458AC622FE30ED51507"
     },
     "wof:country":"IN",
-    "wof:geomhash":"befe00c9fb892a089c19f6de5ab68fb7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"030aa192e77b9d59912d7158a92dbd1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1344210139,
-    "wof:lastmodified":1577749890,
-    "wof:name":"Hamirpur",
+    "wof:lastmodified":1682957486,
+    "wof:name":"Hamirpura",
     "wof:parent_id":890511079,
     "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.47511999999998,
-    27.08971,
-    78.47511999999998,
-    27.08971
+    78.474622,
+    27.088688,
+    78.475959,
+    27.090494
 ],
-  "geometry": {"coordinates":[78.47511999999998,27.08971],"type":"Point"}
+  "geometry": {"coordinates":[[[78.475122,27.090494],[78.475128,27.090224],[78.475229,27.090225],[78.47523099999999,27.090135],[78.47533199999999,27.090137],[78.475336,27.089957],[78.475537,27.08996],[78.475539,27.08987],[78.47564,27.089872],[78.47564199999999,27.089782],[78.47574299999999,27.089784],[78.475745,27.089693],[78.475846,27.089695],[78.47584999999999,27.089515],[78.47595099999999,27.089517],[78.475959,27.089156],[78.475858,27.089154],[78.47586200000001,27.088974],[78.47576100000001,27.088972],[78.475763,27.088882],[78.475663,27.08888],[78.47566500000001,27.08879],[78.475463,27.088786],[78.475465,27.088696],[78.47506199999999,27.088688],[78.47506,27.088779],[78.474959,27.088777],[78.47495499999999,27.088957],[78.47485399999999,27.088955],[78.474852,27.089046],[78.474752,27.089044],[78.474739,27.089585],[78.474639,27.089583],[78.474622,27.090305],[78.474723,27.090307],[78.474721,27.090397],[78.474822,27.090399],[78.47481999999999,27.090489],[78.475122,27.090494]]],"type":"Polygon"}
 }

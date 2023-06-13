@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.04439,25.87258,85.04439,25.87258",
-    "geom:latitude":25.87258,
-    "geom:longitude":85.04439,
+    "geom:bbox":"85.040902,25.872555,85.041711,25.873633",
+    "geom:latitude":25.873131,
+    "geom:longitude":85.041331,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"219.0",
     "gn:asciiname":"Kishundas",
@@ -24,43 +24,74 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.02439,25.85258,85.06439,25.89258",
+    "ks:ks_id":"KS1647FF80F4434489AD164A721FE1FEAC",
+    "ks:ks_name":"Kishundas",
+    "ks:ks_pop":1725,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|566545",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1379534",
+    "lbl:latitude":25.873207,
+    "lbl:longitude":85.041309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.873207,
+    "mps:longitude":85.041309,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kishundas"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695919
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010771
+        "gn:id":11010771,
+        "ks:id":"KS1647FF80F4434489AD164A721FE1FEAC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2e843952320efd12e0910a8ad8c57fe1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"89ba3c6ad371c7714eeb58b8f918f110",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209355609
+            "county_id":1108695919,
+            "locality_id":1209355609,
+            "region_id":85672225
         }
     ],
     "wof:id":1209355609,
-    "wof:lastmodified":1566696097,
+    "wof:lastmodified":1682615296,
     "wof:name":"Kishundas",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695919,
     "wof:placetype":"locality",
+    "wof:population":1725,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.04439,
-    25.87258,
-    85.04439,
-    25.87258
+    85.040902,
+    25.872555,
+    85.041711,
+    25.873633
 ],
-  "geometry": {"coordinates":[85.04439000000001,25.87258],"type":"Point"}
+  "geometry": {"coordinates":[[[85.04171100000001,25.872555],[85.041172,25.872555],[85.041172,25.872824],[85.040902,25.872824],[85.040902,25.873633],[85.04171100000001,25.873633],[85.04171100000001,25.872555]]],"type":"Polygon"}
 }

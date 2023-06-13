@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.69332,25.30523,81.69332,25.30523",
-    "geom:latitude":25.30523,
-    "geom:longitude":81.69332,
+    "geom:bbox":"81.692889,25.304371,81.694084,25.305817",
+    "geom:latitude":25.305149,
+    "geom:longitude":81.693404,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Talia",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.67332,25.28523,81.71332,25.32523",
+    "ks:ks_id":"KS5CADDF86504B4F42AB72555FEBC51A20",
+    "ks:ks_name":"Taliya",
+    "ks:ks_pop":300,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1029025",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1844713",
+    "lbl:latitude":25.305138,
+    "lbl:longitude":81.693393,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.305138,
+    "mps:longitude":81.693393,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Talia"
@@ -37,6 +47,12 @@
         "Talia"
     ],
     "name:deu_x_preferred":[
+        "Talia"
+    ],
+    "name:eng_x_preferred":[
+        "Taliya"
+    ],
+    "name:eng_x_variant":[
         "Talia"
     ],
     "name:fra_x_preferred":[
@@ -72,37 +88,55 @@
     "name:swe_x_preferred":[
         "Talia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695845
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10679647
+        "gn:id":10679647,
+        "ks:id":"KS5CADDF86504B4F42AB72555FEBC51A20"
     },
     "wof:country":"IN",
-    "wof:geomhash":"67a66705f5ac1ba27e7d743b00b5f0af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1e77c6b876edbe55141af30e0076de4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209253711
+            "county_id":1108695845,
+            "locality_id":1209253711,
+            "region_id":85672205
         }
     ],
     "wof:id":1209253711,
-    "wof:lastmodified":1566695696,
-    "wof:name":"Talia",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682610751,
+    "wof:name":"Taliya",
+    "wof:parent_id":1108695845,
     "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.69332,
-    25.30523,
-    81.69332,
-    25.30523
+    81.692889,
+    25.304371,
+    81.694084,
+    25.305817
 ],
-  "geometry": {"coordinates":[81.69332,25.30523],"type":"Point"}
+  "geometry": {"coordinates":[[[81.69359,25.305815],[81.69359,25.305724],[81.69368900000001,25.305724],[81.69368900000001,25.305634],[81.693887,25.305633],[81.693887,25.305542],[81.693986,25.305542],[81.693985,25.305361],[81.694084,25.305361],[81.694084,25.305271],[81.693985,25.305271],[81.693983,25.305],[81.693884,25.305001],[81.693883,25.30482],[81.693783,25.30482],[81.693782,25.30464],[81.69368299999999,25.30464],[81.693682,25.30455],[81.693583,25.30455],[81.693583,25.30446],[81.69338399999999,25.304461],[81.693383,25.304371],[81.69328400000001,25.304371],[81.693285,25.304462],[81.69308599999999,25.304462],[81.69308599999999,25.304553],[81.692987,25.304553],[81.692988,25.304734],[81.69288899999999,25.304734],[81.692894,25.305637],[81.692993,25.305637],[81.692994,25.305727],[81.693093,25.305727],[81.693094,25.305817],[81.69359,25.305815]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.0503,24.3166,77.0503,24.3166",
-    "geom:latitude":24.3166,
-    "geom:longitude":77.0503,
+    "geom:bbox":"77.049442,24.316222,77.051019,24.31795",
+    "geom:latitude":24.317102,
+    "geom:longitude":77.050221,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Kurwai",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.0303,24.2966,77.0703,24.3366",
+    "ks:ks_alt_nam":"Kurw\u0101i",
+    "ks:ks_id":"KS4B005ED49C6040148A73C51DB9F20069",
+    "ks:ks_name":"Kurwai",
+    "ks:ks_pop":442,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|606716",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_911455",
+    "lbl:latitude":24.317088,
+    "lbl:longitude":77.050236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.317088,
+    "mps:longitude":77.050236,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u0993\u09af\u09bc\u09be\u0987"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Kurwai"
+    ],
+    "name:eng_x_preferred":[
+        "Kurwai"
+    ],
+    "name:eng_x_variant":[
+        "Kurw\u0101i"
     ],
     "name:ita_x_preferred":[
         "Kurwai"
@@ -72,7 +89,13 @@
     "name:zho_x_preferred":[
         "\u5e93\u5c14\u74e6\u4f0a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10478512
+        "gn:id":10478512,
+        "ks:id":"KS4B005ED49C6040148A73C51DB9F20069"
     },
     "wof:country":"IN",
-    "wof:geomhash":"de2c81f0b90d5b7711cff31aa5c25e13",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f03c528ac80e5869eb7dabb2485f57b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1209960933,
-    "wof:lastmodified":1566694748,
+    "wof:lastmodified":1682639305,
     "wof:name":"Kurwai",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.0503,
-    24.3166,
-    77.0503,
-    24.3166
+    77.049442,
+    24.316222,
+    77.051019,
+    24.31795
 ],
-  "geometry": {"coordinates":[77.05029999999999,24.3166],"type":"Point"}
+  "geometry": {"coordinates":[[[77.050346,24.317944],[77.050344,24.317853],[77.050541,24.317851],[77.05054,24.317761],[77.05063800000001,24.317759],[77.050635,24.317579],[77.05073400000001,24.317577],[77.050732,24.317487],[77.050831,24.317486],[77.050828,24.317305],[77.050926,24.317304],[77.050921,24.316943],[77.051019,24.316942],[77.051012,24.31649],[77.05091299999999,24.316492],[77.050911,24.316311],[77.05081199999999,24.316312],[77.050811,24.316222],[77.050515,24.316226],[77.050517,24.316316],[77.05032,24.316319],[77.050321,24.316409],[77.05002500000001,24.316413],[77.050027,24.316504],[77.04973099999999,24.316508],[77.049733,24.316598],[77.049634,24.316599],[77.04963600000001,24.316689],[77.049537,24.316691],[77.04953999999999,24.316871],[77.049442,24.316873],[77.04945499999999,24.317685],[77.049553,24.317684],[77.049555,24.317774],[77.04965300000001,24.317772],[77.049655,24.317863],[77.049852,24.31786],[77.049853,24.31795],[77.050346,24.317944]]],"type":"Polygon"}
 }

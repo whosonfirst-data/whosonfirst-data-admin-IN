@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.74964,24.47322,87.74964,24.47322",
-    "geom:latitude":24.47322,
-    "geom:longitude":87.74964,
+    "geom:bbox":"87.743933,24.476034,87.745819,24.47819",
+    "geom:latitude":24.476989,
+    "geom:longitude":87.744815,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"353.0",
     "gn:asciiname":"Sundarpur",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.72964,24.45322,87.76964,24.49322",
+    "ks:ks_id":"KS7B8BE493A3ED43E7968C9E584052A62A",
+    "ks:ks_name":"Sunderpur",
+    "ks:ks_pop":325,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2010000501797900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1300826",
+    "lbl:latitude":24.477004,
+    "lbl:longitude":87.74472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.477004,
+    "mps:longitude":87.74472,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Sundarpur"
+    ],
+    "name:eng_x_preferred":[
+        "Sunderpur"
+    ],
+    "name:eng_x_variant":[
         "Sundarpur"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +64,13 @@
     "name:pol_x_preferred":[
         "Sundarpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017031
+        "gn:id":11017031,
+        "ks:id":"KS7B8BE493A3ED43E7968C9E584052A62A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"25418bd4d01604d951903e45bb354366",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"abbcf86e680a270b452ea41517f6f2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1326872823,
-    "wof:lastmodified":1566682065,
-    "wof:name":"Sundarpur",
+    "wof:lastmodified":1682892959,
+    "wof:name":"Sunderpur",
     "wof:parent_id":1108696107,
     "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.74964,
-    24.47322,
-    87.74964,
-    24.47322
+    87.743933,
+    24.476034,
+    87.745819,
+    24.47819
 ],
-  "geometry": {"coordinates":[87.74964,24.47322],"type":"Point"}
+  "geometry": {"coordinates":[[[87.744741,24.47819],[87.744741,24.47792],[87.74527999999999,24.47792],[87.74527999999999,24.477381],[87.74554999999999,24.477381],[87.74554999999999,24.477112],[87.745819,24.477112],[87.745819,24.476034],[87.744202,24.476034],[87.744202,24.476573],[87.743933,24.476573],[87.743933,24.47792],[87.744202,24.47792],[87.744202,24.47819],[87.744741,24.47819]]],"type":"Polygon"}
 }

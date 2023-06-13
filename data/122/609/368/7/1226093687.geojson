@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000023,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.48548,21.85585,83.48548,21.85585",
-    "geom:latitude":21.85585,
-    "geom:longitude":83.48548,
+    "geom:bbox":"83.481876,21.853312,83.489152,21.859241",
+    "geom:latitude":21.856754,
+    "geom:longitude":83.485447,
     "gn:admin1_code":"37",
     "gn:admin2_code":"403.0",
     "gn:asciiname":"Loing",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.46548,21.83585,83.50548,21.87585",
+    "ks:ks_alt_nam":"Lo\u012bng",
+    "ks:ks_id":"KS8B2DEECB7BC44789A1EBE95F4E993653",
+    "ks:ks_name":"Loing",
+    "ks:ks_pop":1850,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|630385",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1012648",
+    "lbl:latitude":21.854464,
+    "lbl:longitude":83.485998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.854464,
+    "mps:longitude":83.485998,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loing"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Loing"
+    ],
+    "name:eng_x_preferred":[
+        "Loing"
+    ],
+    "name:eng_x_variant":[
+        "Lo\u012bng"
     ],
     "name:epo_x_preferred":[
         "Loing"
@@ -81,7 +98,13 @@
     "name:zho_x_preferred":[
         "\u5362\u4e07\u6cb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10750327
+        "gn:id":10750327,
+        "ks:id":"KS8B2DEECB7BC44789A1EBE95F4E993653"
     },
     "wof:country":"IN",
-    "wof:geomhash":"55fdc4e9a8cb939d68bb873707075518",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"67e5acebbd88daa2491f0ffc385d9bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1226093687,
-    "wof:lastmodified":1566713496,
+    "wof:lastmodified":1682654563,
     "wof:name":"Loing",
     "wof:parent_id":1108696179,
     "wof:placetype":"locality",
+    "wof:population":1850,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.48548000000002,
-    21.85585,
-    83.48548000000002,
-    21.85585
+    83.481876,
+    21.853312,
+    83.489152,
+    21.859241
 ],
-  "geometry": {"coordinates":[83.48548000000002,21.85585],"type":"Point"}
+  "geometry": {"coordinates":[[[83.488613,21.859241],[83.488613,21.858972],[83.489152,21.858972],[83.489152,21.858433],[83.488883,21.858433],[83.488883,21.857894],[83.488074,21.857894],[83.488074,21.857355],[83.48753499999999,21.857355],[83.48753499999999,21.856816],[83.486188,21.856816],[83.486188,21.857355],[83.48537899999999,21.857355],[83.48537899999999,21.856816],[83.48511000000001,21.856816],[83.48511000000001,21.855738],[83.485649,21.855738],[83.485649,21.856277],[83.486727,21.856277],[83.486727,21.855738],[83.486996,21.855738],[83.486996,21.855199],[83.48726600000001,21.855199],[83.48726600000001,21.853582],[83.486996,21.853582],[83.486996,21.853312],[83.48511000000001,21.853312],[83.48511000000001,21.853582],[83.484571,21.853582],[83.484571,21.853851],[83.484032,21.853851],[83.484032,21.854121],[83.483493,21.854121],[83.483493,21.855199],[83.484571,21.855199],[83.484571,21.855468],[83.484032,21.855468],[83.484032,21.856816],[83.482415,21.856816],[83.482415,21.857355],[83.481876,21.857355],[83.481876,21.858702],[83.484032,21.858702],[83.484032,21.858972],[83.48511000000001,21.858972],[83.48511000000001,21.859241],[83.488613,21.859241]]],"type":"Polygon"}
 }

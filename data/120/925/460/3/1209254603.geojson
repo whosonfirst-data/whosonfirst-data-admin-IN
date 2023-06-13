@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890511079
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10458355
     },
     "wof:country":"IN",
-    "wof:geomhash":"54c04e28a6355e2ba38308eb7dfb82db",
+    "wof:geomhash":"8c5cd70f54710e2494eaff26fa936b6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209254603
+            "county_id":890511079,
+            "locality_id":1209254603,
+            "region_id":85672205
         }
     ],
     "wof:id":1209254603,
-    "wof:lastmodified":1566695731,
+    "wof:lastmodified":1682611096,
     "wof:name":"Nagla Hari Singh",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890511079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847138869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.57063000000002,
+    78.57063,
     27.21792,
-    78.57063000000002,
+    78.57063,
     27.21792
 ],
-  "geometry": {"coordinates":[78.57063000000002,27.21792],"type":"Point"}
+  "geometry": {"coordinates":[78.57062999999999,27.21792],"type":"Point"}
 }

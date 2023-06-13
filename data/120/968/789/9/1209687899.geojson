@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.6563,20.70715,77.6563,20.70715",
-    "geom:latitude":20.70715,
-    "geom:longitude":77.6563,
+    "geom:bbox":"77.655256,20.706032,77.657645,20.708589",
+    "geom:latitude":20.707332,
+    "geom:longitude":77.656394,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Sakri",
@@ -24,16 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.6363,20.68715,77.6763,20.72715",
+    "ks:ks_alt_nam":"S\u0101kri",
+    "ks:ks_id":"KS86DDD30E9DC845A19823FC5ECBF6EAFC",
+    "ks:ks_name":"Sakri",
+    "ks:ks_pop":436,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12953064",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_872921",
+    "lbl:latitude":20.707425,
+    "lbl:longitude":77.656297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.707425,
+    "mps:longitude":77.656297,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sakri"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101kri"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a95\u0acd\u0ab0\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u0915\u0930\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u093e\u0915\u094d\u0930\u0940"
     ],
     "name:mal_x_preferred":[
@@ -45,37 +65,55 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u06a9\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        1108696295
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10507881
+        "gn:id":10507881,
+        "ks:id":"KS86DDD30E9DC845A19823FC5ECBF6EAFC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3ee2561ed9369b1111cb2d28ede9c8e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"40c00a090f3491bddd7111a88ca9b014",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209687899
+            "county_id":1108696295,
+            "locality_id":1209687899,
+            "region_id":85672171
         }
     ],
     "wof:id":1209687899,
-    "wof:lastmodified":1566695913,
+    "wof:lastmodified":1686162786,
     "wof:name":"Sakri",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.6563,
-    20.70715,
-    77.6563,
-    20.70715
+    77.655256,
+    20.706032,
+    77.657645,
+    20.708589
 ],
-  "geometry": {"coordinates":[77.6563,20.70715],"type":"Point"}
+  "geometry": {"coordinates":[[[77.656431,20.708574],[77.656429,20.708484],[77.656717,20.708479],[77.65671500000001,20.708389],[77.656907,20.708386],[77.65690600000001,20.708296],[77.65709699999999,20.708293],[77.657096,20.708202],[77.65719199999999,20.708201],[77.65719,20.708111],[77.657382,20.708108],[77.65737300000001,20.707566],[77.65727699999999,20.707568],[77.65727,20.707207],[77.657366,20.707205],[77.65736200000001,20.706934],[77.65745800000001,20.706933],[77.657456,20.706843],[77.657552,20.706841],[77.657549,20.706661],[77.657645,20.706659],[77.65764,20.706388],[77.657544,20.70639],[77.65754099999999,20.706209],[77.657445,20.706211],[77.657443,20.70612],[77.657347,20.706122],[77.657346,20.706032],[77.656674,20.706042],[77.656676,20.706132],[77.65629199999999,20.706138],[77.656294,20.706229],[77.656006,20.706233],[77.656008,20.706323],[77.655912,20.706325],[77.655913,20.706415],[77.655721,20.706418],[77.65572299999999,20.706508],[77.655627,20.70651],[77.65563,20.70669],[77.655534,20.706692],[77.655536,20.706782],[77.65544,20.706783],[77.65544300000001,20.706964],[77.65534700000001,20.706965],[77.65535199999999,20.707236],[77.65525599999999,20.707238],[77.655276,20.708411],[77.655372,20.70841],[77.65537399999999,20.7085],[77.65546999999999,20.708498],[77.65547100000001,20.708589],[77.656431,20.708574]]],"type":"Polygon"}
 }

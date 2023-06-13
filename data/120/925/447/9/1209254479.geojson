@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10615636
     },
     "wof:country":"IN",
-    "wof:geomhash":"636db0628c1f8f9c9fbd20d603860391",
+    "wof:geomhash":"5af8ffefa117089211c9e7fb6504d047",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209254479
+            "county_id":1108695849,
+            "locality_id":1209254479,
+            "region_id":85672205
         }
     ],
     "wof:id":1209254479,
-    "wof:lastmodified":1566695666,
+    "wof:lastmodified":1682611043,
     "wof:name":"Purwa Ramphal",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847138131
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     82.44468,
-    26.53822000000001,
+    26.53822,
     82.44468,
-    26.53822000000001
+    26.53822
 ],
-  "geometry": {"coordinates":[82.44468000000001,26.53822000000001],"type":"Point"}
+  "geometry": {"coordinates":[82.44468000000001,26.53822],"type":"Point"}
 }

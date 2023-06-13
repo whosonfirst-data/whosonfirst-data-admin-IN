@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.14594,24.79203,87.14594,24.79203",
-    "geom:latitude":24.79203,
-    "geom:longitude":87.14594,
+    "geom:bbox":"87.145598,24.792155,87.145994,24.792426",
+    "geom:latitude":24.792324,
+    "geom:longitude":87.145771,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Mali",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.12594,24.77203,87.16594,24.81203",
+    "ks:ks_alt_nam":"M\u0101li",
+    "ks:ks_id":"KS0A909B2DD2E545C0B05568517FF62458",
+    "ks:ks_name":"Mali",
+    "ks:ks_pop":118,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13514622",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1205601",
+    "lbl:latitude":24.792335,
+    "lbl:longitude":87.145771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.792335,
+    "mps:longitude":87.145771,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Mali"
@@ -149,6 +160,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mali"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101li"
     ],
     "name:epo_x_preferred":[
         "Malio"
@@ -627,37 +644,55 @@
     "name:zul_x_preferred":[
         "IMali"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672213,
+        1108696103
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11015904
+        "gn:id":11015904,
+        "ks:id":"KS0A909B2DD2E545C0B05568517FF62458"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fd946f288910f889128625f619a55147",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30926436c9956458701a6047f03dc337",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209553899
+            "county_id":1108696103,
+            "locality_id":1209553899,
+            "region_id":85672213
         }
     ],
     "wof:id":1209553899,
-    "wof:lastmodified":1636505527,
+    "wof:lastmodified":1682622289,
     "wof:name":"Mali",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.14594,
-    24.79203,
-    87.14594,
-    24.79203
+    87.145598,
+    24.792155,
+    87.145994,
+    24.792426
 ],
-  "geometry": {"coordinates":[87.14594,24.79203],"type":"Point"}
+  "geometry": {"coordinates":[[[87.145994,24.792425],[87.145994,24.792335],[87.145895,24.792335],[87.145895,24.792245],[87.145796,24.792245],[87.145796,24.792155],[87.145697,24.792155],[87.145697,24.792245],[87.14559800000001,24.792245],[87.14559800000001,24.792426],[87.145994,24.792425]]],"type":"Polygon"}
 }

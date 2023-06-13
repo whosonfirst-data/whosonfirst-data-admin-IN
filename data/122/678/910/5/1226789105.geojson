@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.42975,26.84031,82.42975,26.84031",
-    "geom:latitude":26.84031,
-    "geom:longitude":82.42975,
+    "geom:bbox":"82.428999,26.8397,82.430713,26.84115",
+    "geom:latitude":26.840494,
+    "geom:longitude":82.429856,
     "gn:admin1_code":"36",
     "gn:admin2_code":"185.0",
     "gn:asciiname":"Manpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.40975,26.82031,82.44975,26.86031",
+    "ks:ks_alt_nam":"M\u0101npur",
+    "ks:ks_id":"KSF1C493C751AE4BFEA764A89CE8DE55DD",
+    "ks:ks_name":"Manpur",
+    "ks:ks_pop":279,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|677190",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1969457",
+    "lbl:latitude":26.840518,
+    "lbl:longitude":82.429872,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.840518,
+    "mps:longitude":82.429872,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0628\u0648\u0631"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Manpur"
+    ],
+    "name:eng_x_preferred":[
+        "Manpur"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101npur"
     ],
     "name:fra_x_preferred":[
         "Manpur"
@@ -78,7 +95,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10614304
+        "gn:id":10614304,
+        "ks:id":"KSF1C493C751AE4BFEA764A89CE8DE55DD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e49707231626dcd7b62fc112d4bfeeda",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3b12e1321b51734437c74e8fb9565add",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +128,22 @@
         }
     ],
     "wof:id":1226789105,
-    "wof:lastmodified":1577754455,
+    "wof:lastmodified":1682681165,
     "wof:name":"Manpur",
     "wof:parent_id":1108695863,
     "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.42975,
-    26.84031,
-    82.42975,
-    26.84031
+    82.428999,
+    26.8397,
+    82.430713,
+    26.84115
 ],
-  "geometry": {"coordinates":[82.42975,26.84031],"type":"Point"}
+  "geometry": {"coordinates":[[[82.430317,26.841142],[82.430316,26.841052],[82.43041700000001,26.841051],[82.43041599999999,26.84096],[82.430516,26.840959],[82.430515,26.840869],[82.430616,26.840868],[82.430612,26.840597],[82.430713,26.840596],[82.43070899999999,26.840326],[82.430609,26.840327],[82.430605,26.840056],[82.430505,26.840057],[82.430504,26.839967],[82.430403,26.839968],[82.430402,26.839877],[82.430301,26.839878],[82.4303,26.839788],[82.430099,26.83979],[82.430098,26.8397],[82.429997,26.839701],[82.429998,26.839791],[82.42969600000001,26.839794],[82.429698,26.839884],[82.429496,26.839886],[82.429497,26.839977],[82.42929599999999,26.839979],[82.42929700000001,26.840069],[82.429197,26.84007],[82.429199,26.840251],[82.429098,26.840252],[82.42910000000001,26.840342],[82.428999,26.840343],[82.429007,26.840975],[82.429208,26.840973],[82.429209,26.841063],[82.42951100000001,26.84106],[82.429512,26.84115],[82.430317,26.841142]]],"type":"Polygon"}
 }

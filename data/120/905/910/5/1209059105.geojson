@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.18926,27.74545,78.18926,27.74545",
-    "geom:latitude":27.74545,
-    "geom:longitude":78.18926,
+    "geom:bbox":"78.188107,27.744199,78.190254,27.746283",
+    "geom:latitude":27.745291,
+    "geom:longitude":78.189334,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Udaipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.16926,27.72545,78.20926,27.76545",
+    "ks:ks_id":"KS552CBFE4971F43D19DACB9C7EB842162",
+    "ks:ks_name":"Udaipur",
+    "ks:ks_pop":280,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1068470",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1804347",
+    "lbl:latitude":27.745359,
+    "lbl:longitude":78.189441,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.745359,
+    "mps:longitude":78.189441,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062f\u0627\u064a\u0628\u0648\u0631"
@@ -61,6 +71,9 @@
         "Udajpur"
     ],
     "name:deu_x_preferred":[
+        "Udaipur"
+    ],
+    "name:eng_x_preferred":[
         "Udaipur"
     ],
     "name:epo_x_preferred":[
@@ -216,37 +229,55 @@
     "name:zho_x_preferred":[
         "\u70cf\u4ee3\u6d66"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695801
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10481432
+        "gn:id":10481432,
+        "ks:id":"KS552CBFE4971F43D19DACB9C7EB842162"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ad65d08c53d98851d5a09aea38c9e5f9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e536898945f3528f529e08ce2974ff4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209059105
+            "county_id":1108695801,
+            "locality_id":1209059105,
+            "region_id":85672205
         }
     ],
     "wof:id":1209059105,
-    "wof:lastmodified":1576021515,
+    "wof:lastmodified":1686162823,
     "wof:name":"Udaipur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.18926,
-    27.74545,
-    78.18926,
-    27.74545
+    78.188107,
+    27.744199,
+    78.190254,
+    27.746283
 ],
-  "geometry": {"coordinates":[78.18926,27.74545],"type":"Point"}
+  "geometry": {"coordinates":[[[78.189908,27.746283],[78.18991,27.746193],[78.190011,27.746195],[78.190023,27.745744],[78.190124,27.745746],[78.190136,27.745296],[78.190237,27.745298],[78.190254,27.744667],[78.190152,27.744664],[78.190155,27.744574],[78.19005300000001,27.744572],[78.190055,27.744482],[78.189954,27.74448],[78.189956,27.74439],[78.18985499999999,27.744388],[78.189857,27.744298],[78.189756,27.744296],[78.189758,27.744205],[78.189454,27.744199],[78.189452,27.744289],[78.189351,27.744287],[78.189346,27.744468],[78.189245,27.744466],[78.18924199999999,27.744556],[78.18914100000001,27.744554],[78.189136,27.744734],[78.189035,27.744732],[78.18903299999999,27.744822],[78.18883,27.744818],[78.188828,27.744908],[78.18822,27.744896],[78.188215,27.745076],[78.188114,27.745074],[78.188107,27.745345],[78.188208,27.745347],[78.188203,27.745527],[78.188305,27.745529],[78.18830199999999,27.745619],[78.18840400000001,27.745621],[78.188402,27.745711],[78.188503,27.745713],[78.188501,27.745804],[78.188602,27.745806],[78.18859999999999,27.745896],[78.18870099999999,27.745898],[78.188699,27.745988],[78.189003,27.745994],[78.18899999999999,27.746084],[78.18930400000001,27.746091],[78.189302,27.746181],[78.189505,27.746185],[78.189502,27.746275],[78.189908,27.746283]]],"type":"Polygon"}
 }

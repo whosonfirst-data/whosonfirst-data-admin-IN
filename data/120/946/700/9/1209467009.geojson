@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dariy\u0101pur",
@@ -39,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890510761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,22 @@
     "wof:geomhash":"0c03b09cf837bff1dcf5e9ec55c517f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209467009
+            "county_id":890510761,
+            "locality_id":1209467009,
+            "region_id":85672205
         }
     ],
     "wof:id":1209467009,
-    "wof:lastmodified":1566695185,
+    "wof:lastmodified":1682620339,
     "wof:name":"Dariyapur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890510761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847133917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

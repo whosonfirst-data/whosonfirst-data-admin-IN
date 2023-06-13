@@ -13,12 +13,20 @@
     "gn:longitude":76.49883,
     "gn:population":23536,
     "iso:country":"IN",
-    "lbl:latitude":30.789708,
-    "lbl:longitude":76.497779,
+    "ks:ks_id":"KS1FF89A6119934ABC94DE67F91BD4451C",
+    "ks:ks_name":"Morinda",
+    "ks:ks_pop":22635,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0307000240706000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2652476",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.791272,
+    "lbl:longitude":76.501579,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":30.79605,
-    "mps:longitude":76.503913,
+    "mps:latitude":30.791272,
+    "mps:longitude":76.501579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -89,10 +97,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":354,
     "wof:belongsto":[
         102191569,
@@ -104,13 +114,16 @@
     "wof:concordances":{
         "gn:id":1262426,
         "gp:id":2282729,
+        "ks:id":"KS1FF89A6119934ABC94DE67F91BD4451C",
         "qs_pg:id":131553,
         "wd:id":"Q1748062",
         "wk:page":"Morinda, India"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"55ca8057fe625b947c3194f1a9f75236",
     "wof:hierarchy":[
@@ -123,11 +136,11 @@
         }
     ],
     "wof:id":102029321,
-    "wof:lastmodified":1658780771,
+    "wof:lastmodified":1682523828,
     "wof:name":"Morinda",
     "wof:parent_id":890508855,
     "wof:placetype":"locality",
-    "wof:population":23536,
+    "wof:population":22635,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

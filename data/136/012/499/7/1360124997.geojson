@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.73704,25.84951,78.73704,25.84951",
-    "geom:latitude":25.84951,
-    "geom:longitude":78.73704,
+    "geom:bbox":"78.736154,25.848515,78.737885,25.850677",
+    "geom:latitude":25.849578,
+    "geom:longitude":78.737013,
     "gn:admin1_code":"35",
     "gn:admin2_code":"421.0",
     "gn:asciiname":"Nadia",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.71704,25.82951,78.75704,25.86951",
+    "ks:ks_id":"KSFE44AF53EDD24063B5EFCC2FC122EFF6",
+    "ks:ks_name":"Nadiya",
+    "ks:ks_pop":746,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|740565",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1727950",
+    "lbl:latitude":25.849563,
+    "lbl:longitude":78.737083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.849563,
+    "mps:longitude":78.737083,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u062f\u064a\u0627"
@@ -40,6 +50,12 @@
         "\u09a8\u09a6\u09c0\u09df\u09be"
     ],
     "name:dan_x_preferred":[
+        "Nadia"
+    ],
+    "name:eng_x_preferred":[
+        "Nadiya"
+    ],
+    "name:eng_x_variant":[
         "Nadia"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +109,13 @@
     "name:urd_x_preferred":[
         "\u0646\u062f\u06cc\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10505862
+        "gn:id":10505862,
+        "ks:id":"KSFE44AF53EDD24063B5EFCC2FC122EFF6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8faab69a0aca3b076e7dd50c3d8617a0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9582b83a7a2929034aa97037e5893ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +142,22 @@
         }
     ],
     "wof:id":1360124997,
-    "wof:lastmodified":1577752157,
-    "wof:name":"Nadia",
+    "wof:lastmodified":1682963736,
+    "wof:name":"Nadiya",
     "wof:parent_id":890509001,
     "wof:placetype":"locality",
+    "wof:population":746,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.73704000000002,
-    25.84951,
-    78.73704000000002,
-    25.84951
+    78.736154,
+    25.848515,
+    78.737885,
+    25.850677
 ],
-  "geometry": {"coordinates":[78.73704000000002,25.84951],"type":"Point"}
+  "geometry": {"coordinates":[[[78.73675,25.850677],[78.736752,25.850587],[78.736852,25.850589],[78.736853,25.850499],[78.737053,25.850502],[78.737055,25.850411],[78.737154,25.850413],[78.737156,25.850323],[78.737256,25.850324],[78.73725899999999,25.850144],[78.737359,25.850145],[78.73736100000001,25.850055],[78.73746,25.850057],[78.737464,25.849876],[78.73756400000001,25.849878],[78.73756899999999,25.849607],[78.737668,25.849609],[78.737674,25.849338],[78.737773,25.84934],[78.73777800000001,25.849069],[78.73787799999999,25.84907],[78.73788500000001,25.848709],[78.737785,25.848708],[78.737787,25.848618],[78.737189,25.848608],[78.73719,25.848518],[78.736991,25.848515],[78.73698899999999,25.848605],[78.73679,25.848602],[78.736785,25.848873],[78.73668499999999,25.848871],[78.736676,25.849322],[78.736577,25.849321],[78.736575,25.849411],[78.736475,25.84941],[78.736474,25.8495],[78.736374,25.849498],[78.73636999999999,25.849679],[78.736271,25.849677],[78.736255,25.850489],[78.736155,25.850488],[78.736154,25.850578],[78.736253,25.850579],[78.73625199999999,25.85067],[78.73675,25.850677]]],"type":"Polygon"}
 }

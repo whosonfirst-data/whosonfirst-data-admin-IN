@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.12323,31.21775,76.12323,31.21775",
-    "geom:latitude":31.21775,
-    "geom:longitude":76.12323,
+    "geom:bbox":"76.120356,31.21627,76.122896,31.218512",
+    "geom:latitude":31.217447,
+    "geom:longitude":76.121715,
     "gn:admin1_code":"23",
     "gn:admin2_code":"38.0",
     "gn:asciiname":"Rawalpindi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.10323,31.19775,76.14323,31.23775",
+    "ks:ks_id":"KS9EA6843EDCF64041BDC6A5636E3A12E1",
+    "ks:ks_name":"Rawal Pindi",
+    "ks:ks_pop":153,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|917521",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2670952",
+    "lbl:latitude":31.217478,
+    "lbl:longitude":76.121715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.217478,
+    "mps:longitude":76.121715,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rawalpindi"
@@ -76,6 +86,12 @@
         "Rawalpindi"
     ],
     "name:deu_x_preferred":[
+        "Rawalpindi"
+    ],
+    "name:eng_x_preferred":[
+        "Rawal Pindi"
+    ],
+    "name:eng_x_variant":[
         "Rawalpindi"
     ],
     "name:epo_x_preferred":[
@@ -255,7 +271,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u74e6\u5c14\u54c1\u7b2c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -264,10 +286,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10729112
+        "gn:id":10729112,
+        "ks:id":"KS9EA6843EDCF64041BDC6A5636E3A12E1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"37b2871bb4d8a020d7c161c044a6b7cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ede3245d873c7a5ab03dc7f65744d8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -278,20 +304,22 @@
         }
     ],
     "wof:id":1310458083,
-    "wof:lastmodified":1566701493,
-    "wof:name":"Rawalpindi",
+    "wof:lastmodified":1682867225,
+    "wof:name":"Rawal Pindi",
     "wof:parent_id":890508953,
     "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.12323,
-    31.21775,
-    76.12323,
-    31.21775
+    76.120356,
+    31.21627,
+    76.122896,
+    31.218512
 ],
-  "geometry": {"coordinates":[76.12323000000001,31.21775],"type":"Point"}
+  "geometry": {"coordinates":[[[76.12248,31.218509],[76.122479,31.218419],[76.12268899999999,31.218417],[76.122688,31.218327],[76.122793,31.218326],[76.12279100000001,31.218146],[76.122896,31.218145],[76.122884,31.217152],[76.12277899999999,31.217153],[76.122777,31.216973],[76.12267199999999,31.216974],[76.122671,31.216883],[76.12256600000001,31.216884],[76.12256499999999,31.216794],[76.12246,31.216795],[76.12245900000001,31.216705],[76.122249,31.216707],[76.122248,31.216616],[76.12182799999999,31.21662],[76.121827,31.21653],[76.120987,31.216537],[76.120986,31.216447],[76.120672,31.21645],[76.12067,31.21636],[76.120566,31.216361],[76.120564,31.21627],[76.120459,31.216271],[76.12046100000001,31.216361],[76.120356,31.216362],[76.120361,31.216813],[76.12046599999999,31.216812],[76.120468,31.216993],[76.12057299999999,31.216992],[76.120574,31.217082],[76.120679,31.217081],[76.120681,31.217262],[76.120786,31.217261],[76.12079199999999,31.217802],[76.120897,31.217801],[76.120903,31.218252],[76.121008,31.218251],[76.121009,31.218342],[76.121219,31.21834],[76.12121999999999,31.21843],[76.122165,31.218422],[76.12216600000001,31.218512],[76.12248,31.218509]]],"type":"Polygon"}
 }

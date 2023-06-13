@@ -13,12 +13,19 @@
     "gn:longitude":74.01519,
     "gn:population":18898,
     "iso:country":"IN",
-    "lbl:latitude":15.399528,
-    "lbl:longitude":74.004715,
+    "ks:ks_id":"KS92072DB6EC81429EA01541CAC619F7B4",
+    "ks:ks_name":"Ponda",
+    "ks:ks_pop":17713,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3001000640126000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_369723",
+    "lbl:latitude":15.404056,
+    "lbl:longitude":74.009273,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":15.398369,
-    "mps:longitude":74.000276,
+    "mps:latitude":15.404056,
+    "mps:longitude":74.009273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -140,10 +147,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1060,
     "wof:belongsto":[
         102191569,
@@ -155,6 +164,7 @@
     "wof:concordances":{
         "gn:id":1259429,
         "gp:id":2292932,
+        "ks:id":"KS92072DB6EC81429EA01541CAC619F7B4",
         "loc:id":"no93018697",
         "qs_pg:id":461355,
         "wd:id":"Q2287007",
@@ -162,7 +172,9 @@
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"50c5b722f096e1b9846209c2dc8d8ad0",
     "wof:hierarchy":[
@@ -175,11 +187,11 @@
         }
     ],
     "wof:id":102028987,
-    "wof:lastmodified":1658780789,
+    "wof:lastmodified":1682523623,
     "wof:name":"Ponda",
     "wof:parent_id":890508373,
     "wof:placetype":"locality",
-    "wof:population":18898,
+    "wof:population":17713,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

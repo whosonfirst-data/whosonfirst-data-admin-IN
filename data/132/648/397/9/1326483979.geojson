@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.10407,24.80028,86.10407,24.80028",
-    "geom:latitude":24.80028,
-    "geom:longitude":86.10407,
+    "geom:bbox":"86.10279,24.802091,86.103687,24.803628",
+    "geom:latitude":24.802853,
+    "geom:longitude":86.103208,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"238.0",
     "gn:asciiname":"Sokho",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.08407,24.78028,86.12407,24.82028",
+    "ks:ks_id":"KS552DEAE84B68440C968687FE7A2BC534",
+    "ks:ks_name":"Sokho",
+    "ks:ks_pop":3026,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13395721",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1153503",
+    "lbl:latitude":24.802859,
+    "lbl:longitude":86.103199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.802859,
+    "mps:longitude":86.103199,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0648\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Sokho"
     ],
     "name:fra_x_preferred":[
         "Sokho"
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Soko"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10910944
+        "gn:id":10910944,
+        "ks:id":"KS552DEAE84B68440C968687FE7A2BC534"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fa8969a85650e6f0525edf47834a0a42",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f6ff503090ee02b44288cc4ef491f843",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1326483979,
-    "wof:lastmodified":1566684073,
+    "wof:lastmodified":1682878830,
     "wof:name":"Sokho",
     "wof:parent_id":1108695949,
     "wof:placetype":"locality",
+    "wof:population":3026,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.10407,
-    24.80028,
-    86.10407,
-    24.80028
+    86.10279,
+    24.802091,
+    86.103687,
+    24.803628
 ],
-  "geometry": {"coordinates":[86.10406999999999,24.80028],"type":"Point"}
+  "geometry": {"coordinates":[[[86.103382,24.803628],[86.10338299999999,24.803538],[86.10358100000001,24.803539],[86.10358600000001,24.802726],[86.103685,24.802727],[86.10368699999999,24.802456],[86.103588,24.802455],[86.10359,24.802274],[86.10349100000001,24.802274],[86.10349100000001,24.802184],[86.103392,24.802183],[86.103393,24.802093],[86.10309599999999,24.802091],[86.10309599999999,24.802181],[86.102898,24.80218],[86.102897,24.80227],[86.10279800000001,24.80227],[86.10279,24.803444],[86.102988,24.803445],[86.102987,24.803535],[86.103086,24.803536],[86.10308499999999,24.803626],[86.103382,24.803628]]],"type":"Polygon"}
 }

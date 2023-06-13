@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.87137,26.88949,79.87137,26.88949",
-    "geom:latitude":26.88949,
-    "geom:longitude":79.87137,
+    "geom:bbox":"79.871245,26.88865,79.872053,26.889738",
+    "geom:latitude":26.889282,
+    "geom:longitude":79.87164,
     "gn:admin1_code":"36",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Palera",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.85137,26.86949,79.89137,26.90949",
+    "ks:ks_id":"KS9557E17E2AFF435D9A6B8A35E697F761",
+    "ks:ks_name":"Palehra",
+    "ks:ks_pop":511,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|810358",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1883673",
+    "lbl:latitude":26.889285,
+    "lbl:longitude":79.8716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.889285,
+    "mps:longitude":79.8716,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09c7\u09b0\u09be"
@@ -37,6 +47,12 @@
         "\u09aa\u09be\u09b2\u09c7\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Palera"
+    ],
+    "name:eng_x_preferred":[
+        "Palehra"
+    ],
+    "name:eng_x_variant":[
         "Palera"
     ],
     "name:ita_x_preferred":[
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u83b1\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10487384
+        "gn:id":10487384,
+        "ks:id":"KS9557E17E2AFF435D9A6B8A35E697F761"
     },
     "wof:country":"IN",
-    "wof:geomhash":"031bcc3652810773d0cf81449bd12a32",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7821f86ce45ead0146c4d6552edcbdf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1243605863,
-    "wof:lastmodified":1566707436,
-    "wof:name":"Palera",
+    "wof:lastmodified":1682721872,
+    "wof:name":"Palehra",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":511,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.87137,
-    26.88949,
-    79.87137,
-    26.88949
+    79.871245,
+    26.88865,
+    79.872053,
+    26.889738
 ],
-  "geometry": {"coordinates":[79.87137,26.88949],"type":"Point"}
+  "geometry": {"coordinates":[[[79.871855,26.889014],[79.87185599999999,26.888833],[79.871756,26.888832],[79.871757,26.888742],[79.871656,26.888741],[79.871657,26.888651],[79.871556,26.88865],[79.871554,26.888831],[79.871454,26.88883],[79.871453,26.88892],[79.871251,26.888919],[79.871245,26.889551],[79.871346,26.889551],[79.87134500000001,26.889642],[79.87144600000001,26.889642],[79.87144499999999,26.889733],[79.872049,26.889738],[79.87205299999999,26.889286],[79.871953,26.889285],[79.871955,26.889015],[79.871855,26.889014]]],"type":"Polygon"}
 }

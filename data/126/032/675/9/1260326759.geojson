@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.73856,25.68803,83.73856,25.68803",
-    "geom:latitude":25.68803,
-    "geom:longitude":83.73856,
+    "geom:bbox":"83.737175,25.686981,83.740565,25.688561",
+    "geom:latitude":25.687756,
+    "geom:longitude":83.73873,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Puranpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.71856,25.66803,83.75856,25.70803",
+    "ks:ks_id":"KS7A1594FB156545E98BED9B31948AD43A",
+    "ks:ks_name":"Puranpur",
+    "ks:ks_pop":223,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13106018",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1944715",
+    "lbl:latitude":25.687816,
+    "lbl:longitude":83.738867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.687816,
+    "mps:longitude":83.738867,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09c1\u09b0\u09be\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
         "P\u016branpur"
+    ],
+    "name:eng_x_preferred":[
+        "Puranpur"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0631\u0627\u0646\u200c\u067e\u0648\u0631"
@@ -75,7 +88,13 @@
     "name:zho_x_preferred":[
         "\u666e\u5170\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10673019
+        "gn:id":10673019,
+        "ks:id":"KS7A1594FB156545E98BED9B31948AD43A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"089694d32142224666b0dc688dd3902e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a3732ea36cf08f24331eabb9783d3386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +121,22 @@
         }
     ],
     "wof:id":1260326759,
-    "wof:lastmodified":1566699848,
+    "wof:lastmodified":1682758327,
     "wof:name":"Puranpur",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.73855999999998,
-    25.68803,
-    83.73855999999998,
-    25.68803
+    83.737175,
+    25.686981,
+    83.740565,
+    25.688561
 ],
-  "geometry": {"coordinates":[83.73855999999998,25.68803],"type":"Point"}
+  "geometry": {"coordinates":[[[83.7379,25.688556],[83.737898,25.688466],[83.737998,25.688464],[83.738,25.688554],[83.738398,25.688546],[83.73839599999999,25.688456],[83.739391,25.688438],[83.739389,25.688347],[83.739588,25.688344],[83.739586,25.688253],[83.739785,25.68825],[83.739783,25.688159],[83.739982,25.688156],[83.73998,25.688066],[83.74008000000001,25.688064],[83.740078,25.687973],[83.740177,25.687972],[83.74017499999999,25.687881],[83.740275,25.68788],[83.74027100000001,25.687699],[83.74037,25.687697],[83.740368,25.687607],[83.74046800000001,25.687605],[83.740466,25.687515],[83.740565,25.687513],[83.74056299999999,25.687423],[83.740464,25.687425],[83.74046,25.687244],[83.74036,25.687246],[83.740358,25.687156],[83.74015900000001,25.68716],[83.740157,25.68707],[83.74005699999999,25.687071],[83.740055,25.686981],[83.739159,25.686998],[83.739161,25.687088],[83.738962,25.687092],[83.738964,25.687182],[83.738765,25.687186],[83.73876300000001,25.687096],[83.738564,25.6871],[83.73856600000001,25.68719],[83.737272,25.687214],[83.737274,25.687304],[83.73717499999999,25.687306],[83.737199,25.688389],[83.73729899999999,25.688387],[83.737301,25.688477],[83.7376,25.688471],[83.737602,25.688561],[83.7379,25.688556]]],"type":"Polygon"}
 }

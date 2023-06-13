@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.97432,31.77948,74.97432,31.77948",
-    "geom:latitude":31.77948,
-    "geom:longitude":74.97432,
+    "geom:bbox":"74.972314,31.777989,74.975009,31.780415",
+    "geom:latitude":31.779131,
+    "geom:longitude":74.973597,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"49.0",
     "gn:asciiname":"Hamza",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.95432,31.75948,74.99432,31.79948",
+    "ks:ks_id":"KS5834412EEF7D42599DF6AB898B92D216",
+    "ks:ks_name":"Hamza",
+    "ks:ks_pop":1283,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13129520",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2218677",
+    "lbl:latitude":31.779094,
+    "lbl:longitude":74.97358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.779094,
+    "mps:longitude":74.97358,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0645\u0632\u0629"
@@ -43,6 +53,9 @@
         "\u06be\u06d5\u0645\u0632\u06d5"
     ],
     "name:deu_x_preferred":[
+        "Hamza"
+    ],
+    "name:eng_x_preferred":[
         "Hamza"
     ],
     "name:epo_x_preferred":[
@@ -93,7 +106,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0645\u0632\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695603
+        "gn:id":10695603,
+        "ks:id":"KS5834412EEF7D42599DF6AB898B92D216"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8093d214f9100b40ba17a5c33bc16510",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3d882bfec8cf9ead91ea0091c52c6c37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1293458105,
-    "wof:lastmodified":1566691369,
+    "wof:lastmodified":1682819428,
     "wof:name":"Hamza",
     "wof:parent_id":890508847,
     "wof:placetype":"locality",
+    "wof:population":1283,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.97431999999998,
-    31.77948,
-    74.97431999999998,
-    31.77948
+    74.972314,
+    31.777989,
+    74.975009,
+    31.780415
 ],
-  "geometry": {"coordinates":[74.97431999999998,31.77948],"type":"Point"}
+  "geometry": {"coordinates":[[[74.97393099999999,31.780415],[74.97393099999999,31.780145],[74.97447,31.780145],[74.97447,31.779876],[74.975009,31.779876],[74.975009,31.777989],[74.972314,31.777989],[74.972314,31.780415],[74.97393099999999,31.780415]]],"type":"Polygon"}
 }

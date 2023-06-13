@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.94509,27.97572,77.94509,27.97572",
-    "geom:latitude":27.97572,
-    "geom:longitude":77.94509,
+    "geom:bbox":"77.94459,27.975125,77.945917,27.976209",
+    "geom:latitude":27.975691,
+    "geom:longitude":77.945209,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"143.0",
     "gn:asciiname":"Fatehpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.92509,27.95572,77.96509,27.99572",
+    "ks:ks_id":"KS0559D3FEE12F461D94B1960DB71B461A",
+    "ks:ks_name":"Fatehpur",
+    "ks:ks_pop":179,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|329314",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1808169",
+    "lbl:latitude":27.975708,
+    "lbl:longitude":77.945222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.975708,
+    "mps:longitude":77.945222,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u062d \u0628\u0648\u0631"
@@ -56,6 +66,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c4\u03b5\u03c7\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Fatehpur"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u062a\u062d \u067e\u0648\u0631"
@@ -133,7 +146,13 @@
     "name:zho_tw_x_preferred":[
         "\u6cd5\u6cf0\u8d6b\u666e\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -142,10 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10435060
+        "gn:id":10435060,
+        "ks:id":"KS0559D3FEE12F461D94B1960DB71B461A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a7188f32355fc081571c9477f69d440a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a37538729673f0a8bef1d19d2e2fdcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,20 +179,22 @@
         }
     ],
     "wof:id":1360228839,
-    "wof:lastmodified":1636505733,
+    "wof:lastmodified":1686163809,
     "wof:name":"Fatehpur",
     "wof:parent_id":890510761,
     "wof:placetype":"locality",
+    "wof:population":179,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.94509,
-    27.97572,
-    77.94509,
-    27.97572
+    77.94459,
+    27.975125,
+    77.945917,
+    27.976209
 ],
-  "geometry": {"coordinates":[77.94508999999999,27.97572],"type":"Point"}
+  "geometry": {"coordinates":[[[77.94552299999999,27.976198],[77.945521,27.976108],[77.945622,27.976106],[77.94562000000001,27.976016],[77.94572100000001,27.976013],[77.945719,27.975923],[77.945821,27.975921],[77.94581599999999,27.975741],[77.94591699999999,27.975739],[77.945915,27.975648],[77.945813,27.975651],[77.945808,27.97547],[77.945707,27.975472],[77.94570400000001,27.975382],[77.94560300000001,27.975384],[77.9456,27.975294],[77.945499,27.975297],[77.94549600000001,27.975206],[77.94508999999999,27.975215],[77.945088,27.975125],[77.944986,27.975127],[77.94498900000001,27.975217],[77.944785,27.975222],[77.944788,27.975312],[77.944686,27.975314],[77.94469100000001,27.975494],[77.94459000000001,27.975496],[77.94459999999999,27.975857],[77.94470099999999,27.975855],[77.944706,27.976035],[77.94480799999999,27.976033],[77.94481,27.976123],[77.945013,27.976119],[77.945016,27.976209],[77.94552299999999,27.976198]]],"type":"Polygon"}
 }

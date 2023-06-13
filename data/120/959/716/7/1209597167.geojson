@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.15336,20.89345,76.15336,20.89345",
-    "geom:latitude":20.89345,
-    "geom:longitude":76.15336,
+    "geom:bbox":"76.152669,20.892432,76.155169,20.894068",
+    "geom:latitude":20.893132,
+    "geom:longitude":76.153812,
     "gn:admin1_code":"16",
     "gn:admin2_code":"500.0",
     "gn:asciiname":"Wazirabad",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.13336,20.87345,76.17336,20.91345",
+    "ks:ks_id":"KS8E40462EA0094593A1235E16F10EED19",
+    "ks:ks_name":"Wajirabad",
+    "ks:ks_pop":281,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1085171",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_855549",
+    "lbl:latitude":20.893135,
+    "lbl:longitude":76.153711,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.893135,
+    "mps:longitude":76.153711,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u0437\u0456\u0440\u0430\u0431\u0430\u0434"
@@ -37,6 +47,12 @@
         "Waz\u012br\u0101b\u0101d"
     ],
     "name:deu_x_preferred":[
+        "Wazirabad"
+    ],
+    "name:eng_x_preferred":[
+        "Wajirabad"
+    ],
+    "name:eng_x_variant":[
         "Wazirabad"
     ],
     "name:fas_x_preferred":[
@@ -90,37 +106,55 @@
     "name:zho_x_preferred":[
         "\u6c83\u6fdf\u62c9\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890502785
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10501698
+        "gn:id":10501698,
+        "ks:id":"KS8E40462EA0094593A1235E16F10EED19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6175e53c654e369de4d34d2f17099d07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"26fcac47b7e0516bec329fbef2402818",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209597167
+            "county_id":890502785,
+            "locality_id":1209597167,
+            "region_id":85672171
         }
     ],
     "wof:id":1209597167,
-    "wof:lastmodified":1566696082,
-    "wof:name":"Wazirabad",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682625733,
+    "wof:name":"Wajirabad",
+    "wof:parent_id":890502785,
     "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.15335999999998,
-    20.89345,
-    76.15335999999998,
-    20.89345
+    76.152669,
+    20.892432,
+    76.155169,
+    20.894068
 ],
-  "geometry": {"coordinates":[76.15335999999998,20.89345],"type":"Point"}
+  "geometry": {"coordinates":[[[76.153639,20.894066],[76.153639,20.893975],[76.153927,20.893973],[76.153926,20.893883],[76.154023,20.893882],[76.154022,20.893792],[76.154214,20.893791],[76.154213,20.8937],[76.15431,20.8937],[76.154309,20.893609],[76.154405,20.893609],[76.154404,20.893518],[76.1545,20.893518],[76.1545,20.893427],[76.154692,20.893426],[76.154691,20.893336],[76.154787,20.893335],[76.154787,20.893245],[76.154883,20.893244],[76.154882,20.893154],[76.154978,20.893153],[76.154978,20.893063],[76.155074,20.893062],[76.155073,20.892972],[76.155169,20.892971],[76.155169,20.892881],[76.155072,20.892881],[76.15507100000001,20.892701],[76.15497499999999,20.892701],[76.154974,20.892611],[76.154878,20.892612],[76.154877,20.892521],[76.154781,20.892522],[76.154781,20.892432],[76.15324200000001,20.892442],[76.153243,20.892532],[76.15295500000001,20.892534],[76.15295500000001,20.892625],[76.15285900000001,20.892625],[76.15286,20.892716],[76.152764,20.892716],[76.152765,20.892897],[76.152669,20.892898],[76.152671,20.893078],[76.152767,20.893078],[76.15276900000001,20.893349],[76.15286500000001,20.893348],[76.152867,20.893619],[76.152963,20.893618],[76.152964,20.893799],[76.15306099999999,20.893798],[76.15306200000001,20.893979],[76.153254,20.893978],[76.153255,20.894068],[76.153639,20.894066]]],"type":"Polygon"}
 }

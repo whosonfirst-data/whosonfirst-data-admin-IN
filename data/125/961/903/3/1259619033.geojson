@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.86593,30.01674,78.86593,30.01674",
-    "geom:latitude":30.01674,
-    "geom:longitude":78.86593,
+    "geom:bbox":"78.863043,30.01619,78.864196,30.017457",
+    "geom:latitude":30.016862,
+    "geom:longitude":78.863661,
     "gn:admin1_code":"39",
     "gn:admin2_code":"61.0",
     "gn:asciiname":"Kota",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.84593,29.99674,78.88593,30.03674",
+    "ks:ks_id":"KSD2E5301103294D0B84C030C81ADA2A3F",
+    "ks:ks_name":"Kota",
+    "ks:ks_pop":186,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|582550",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1840844",
+    "lbl:latitude":30.016889,
+    "lbl:longitude":78.863708,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.016889,
+    "mps:longitude":78.863708,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627"
@@ -52,6 +62,9 @@
         "Kota"
     ],
     "name:deu_x_preferred":[
+        "Kota"
+    ],
+    "name:eng_x_preferred":[
         "Kota"
     ],
     "name:fas_x_preferred":[
@@ -129,7 +142,13 @@
     "name:vie_x_preferred":[
         "Kota"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10748986
+        "gn:id":10748986,
+        "ks:id":"KSD2E5301103294D0B84C030C81ADA2A3F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f00be251c5b4c8a83bb020dadadb890d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d1b457328453f50e705bc01d444ddab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +175,22 @@
         }
     ],
     "wof:id":1259619033,
-    "wof:lastmodified":1576022540,
+    "wof:lastmodified":1686165671,
     "wof:name":"Kota",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.86593,
-    30.01674,
-    78.86593,
-    30.01674
+    78.863043,
+    30.01619,
+    78.864196,
+    30.017457
 ],
-  "geometry": {"coordinates":[78.86593000000001,30.01674],"type":"Point"}
+  "geometry": {"coordinates":[[[78.863866,30.017457],[78.863868,30.017367],[78.864075,30.01737],[78.864079,30.01719],[78.864182,30.017192],[78.86419600000001,30.01656],[78.864092,30.016559],[78.864096,30.016378],[78.86399299999999,30.016377],[78.863995,30.016287],[78.863787,30.016283],[78.863789,30.016193],[78.86358199999999,30.01619],[78.86358,30.01628],[78.863373,30.016276],[78.863371,30.016367],[78.86326699999999,30.016365],[78.86326,30.016726],[78.863156,30.016724],[78.86315,30.016995],[78.863046,30.016993],[78.863043,30.017173],[78.863146,30.017175],[78.863142,30.017355],[78.86345300000001,30.01736],[78.863451,30.01745],[78.863866,30.017457]]],"type":"Polygon"}
 }

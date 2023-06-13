@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.91663,25.96574,83.91663,25.96574",
-    "geom:latitude":25.96574,
-    "geom:longitude":83.91663,
+    "geom:bbox":"83.911534,25.963168,83.913039,25.964795",
+    "geom:latitude":25.963978,
+    "geom:longitude":83.912284,
     "gn:admin1_code":"36",
     "gn:admin2_code":"193.0",
     "gn:asciiname":"Deoria",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.89663,25.94574,83.93663,25.98574",
+    "ks:ks_alt_nam":"Deori\u0101",
+    "ks:ks_id":"KS272DDC0EFEAA49CE9DF9D654075054B7",
+    "ks:ks_name":"Deoria",
+    "ks:ks_pop":250,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|260574",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1950548",
+    "lbl:latitude":25.963937,
+    "lbl:longitude":83.912298,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.963937,
+    "mps:longitude":83.912298,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a\u0627"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Deoria"
+    ],
+    "name:eng_x_preferred":[
+        "Deoria"
+    ],
+    "name:eng_x_variant":[
+        "Deori\u0101"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac7\u0ab0\u0acb\u0a87"
@@ -78,7 +95,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0631\u06cc\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10562291
+        "gn:id":10562291,
+        "ks:id":"KS272DDC0EFEAA49CE9DF9D654075054B7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2a5f9d241ef29aed25f25346128f3692",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f1e31b5543c2572b207c49b95810083",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +128,22 @@
         }
     ],
     "wof:id":1310045467,
-    "wof:lastmodified":1577751920,
+    "wof:lastmodified":1686163764,
     "wof:name":"Deoria",
     "wof:parent_id":1108695875,
     "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.91663,
-    25.96574,
-    83.91663,
-    25.96574
+    83.911534,
+    25.963168,
+    83.913039,
+    25.964795
 ],
-  "geometry": {"coordinates":[83.91663,25.96574],"type":"Point"}
+  "geometry": {"coordinates":[[[83.912558,25.964787],[83.912556,25.964697],[83.912656,25.964695],[83.91265300000001,25.964604],[83.912753,25.964602],[83.912751,25.964512],[83.912851,25.96451],[83.912846,25.96433],[83.91294600000001,25.964328],[83.91293899999999,25.964057],[83.913039,25.964055],[83.913037,25.963965],[83.912937,25.963967],[83.912926,25.963516],[83.912826,25.963518],[83.912824,25.963428],[83.912724,25.96343],[83.912722,25.96334],[83.912622,25.963342],[83.91262,25.963252],[83.91232100000001,25.963258],[83.912319,25.963168],[83.912119,25.963172],[83.912121,25.963262],[83.911922,25.963266],[83.911924,25.963356],[83.911824,25.963358],[83.911826,25.963448],[83.911727,25.96345],[83.91172899999999,25.96354],[83.911629,25.963542],[83.91163400000001,25.963723],[83.911534,25.963725],[83.91154299999999,25.964085],[83.911642,25.964083],[83.911647,25.964264],[83.91174700000001,25.964262],[83.911751,25.964442],[83.911851,25.96444],[83.911855,25.964621],[83.91195500000001,25.964619],[83.911957,25.964709],[83.91215699999999,25.964705],[83.912159,25.964795],[83.912558,25.964787]]],"type":"Polygon"}
 }

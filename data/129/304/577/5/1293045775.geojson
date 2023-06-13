@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.15417,25.95111,85.15417,25.95111",
-    "geom:latitude":25.95111,
-    "geom:longitude":85.15417,
+    "geom:bbox":"85.15382,25.950169,85.154898,25.951516",
+    "geom:latitude":25.950814,
+    "geom:longitude":85.15438,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Khajauta",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.13417,25.93111,85.17417,25.97111",
+    "ks:ks_id":"KSC9F1FFCCA8964CA2A482C733D0D3B22E",
+    "ks:ks_name":"Khajauta",
+    "ks:ks_pop":1150,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13507604",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1386002",
+    "lbl:latitude":25.9508,
+    "lbl:longitude":85.154373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.9508,
+    "mps:longitude":85.154373,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Khajauta"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11011022
+        "gn:id":11011022,
+        "ks:id":"KSC9F1FFCCA8964CA2A482C733D0D3B22E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0154562bae5b22b59a54965d34431d27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"baa7229cafc0641dbcf095b6aed6b8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1293045775,
-    "wof:lastmodified":1566690722,
+    "wof:lastmodified":1682804206,
     "wof:name":"Khajauta",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":1150,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.15417,
-    25.95111,
-    85.15417,
-    25.95111
+    85.15382,
+    25.950169,
+    85.154898,
+    25.951516
 ],
-  "geometry": {"coordinates":[85.15416999999999,25.95111],"type":"Point"}
+  "geometry": {"coordinates":[[[85.154898,25.950169],[85.15382,25.950169],[85.15382,25.951247],[85.15409,25.951247],[85.15409,25.951516],[85.154898,25.951516],[85.154898,25.950169]]],"type":"Polygon"}
 }

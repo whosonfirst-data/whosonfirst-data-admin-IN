@@ -13,12 +13,20 @@
     "gn:longitude":88.34222,
     "gn:population":226317,
     "iso:country":"IN",
-    "lbl:latitude":19.620171,
-    "lbl:longitude":74.656487,
+    "ks:ks_id":"KS835A3D8CC4BA4F92BF3BE9DA31347B9A",
+    "ks:ks_name":"Shrirampur",
+    "ks:ks_pop":85280,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|986543",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_455445",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":19.618081,
+    "lbl:longitude":74.659651,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":19.616719,
-    "mps:longitude":74.657565,
+    "mps:latitude":19.618081,
+    "mps:longitude":74.659651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +56,10 @@
         "Serampore"
     ],
     "name:eng_x_preferred":[
-        "Serampore"
+        "Shrirampur"
+    ],
+    "name:eng_x_variant":[
+        "Shr\u012br\u0101mpur"
     ],
     "name:fra_x_preferred":[
         "Serampore"
@@ -70,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30e9\u30f3\u30dd\u30fc\u30eb"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e\u092a\u0942\u0930"
     ],
     "name:mlg_x_preferred":[
         "Serampore"
@@ -133,10 +147,12 @@
     "reversegeo:longitude":74.656487,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -147,11 +163,16 @@
     "wof:concordances":{
         "gn:id":1256422,
         "gp:id":29008602,
+        "ks:id":"KS835A3D8CC4BA4F92BF3BE9DA31347B9A",
         "qs_pg:id":355154,
         "wd:id":"Q1815367",
         "wk:page":"Serampore"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"07e3553ea46093c941bfc41aaa593fea",
     "wof:hierarchy":[
         {
@@ -163,12 +184,12 @@
         }
     ],
     "wof:id":102028651,
-    "wof:lastmodified":1658780777,
-    "wof:name":"Shr\u012br\u0101mpur",
+    "wof:lastmodified":1686162207,
+    "wof:name":"Shrirampur",
     "wof:parent_id":890510749,
     "wof:placetype":"locality",
-    "wof:population":226317,
-    "wof:population_rank":10,
+    "wof:population":85280,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

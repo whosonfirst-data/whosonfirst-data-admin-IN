@@ -13,12 +13,20 @@
     "gn:longitude":76.58917,
     "gn:population":317245,
     "iso:country":"IN",
-    "lbl:latitude":28.897323,
-    "lbl:longitude":76.581254,
+    "ks:ks_id":"KSFA52131D96D74D0DA9848B0B7BF73A4F",
+    "ks:ks_name":"Rohtak",
+    "ks:ks_pop":30,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|924485",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1784879",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":28.896726,
+    "lbl:longitude":76.610299,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":28.890997,
-    "mps:longitude":76.60233,
+    "mps:latitude":28.896726,
+    "mps:longitude":76.610299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -322,10 +330,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":3989,
     "wof:belongsto":[
         102191569,
@@ -338,13 +348,16 @@
         "fct:id":"123076ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1258076,
         "gp:id":2295053,
+        "ks:id":"KSFA52131D96D74D0DA9848B0B7BF73A4F",
         "qs_pg:id":948824,
         "wd:id":"Q1453180",
         "wk:page":"Rohtak"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"2007324a6005e265a6f59b9a6cbcc012",
     "wof:hierarchy":[
@@ -360,12 +373,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780779,
+    "wof:lastmodified":1686162208,
     "wof:name":"Rohtak",
     "wof:parent_id":890505591,
     "wof:placetype":"locality",
-    "wof:population":317245,
-    "wof:population_rank":10,
+    "wof:population":30,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

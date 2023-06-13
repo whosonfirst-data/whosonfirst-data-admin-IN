@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u0441\u043c\u0430\u043d\u044c"
@@ -53,35 +54,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695875
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10819103
     },
     "wof:country":"IN",
-    "wof:geomhash":"6adfec1009749e37fdb523e733dbb6b3",
+    "wof:geomhash":"ef892380c527fa7082230858e573490c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209050105
+            "county_id":1108695875,
+            "locality_id":1209050105,
+            "region_id":85672205
         }
     ],
     "wof:id":1209050105,
-    "wof:lastmodified":1566696502,
+    "wof:lastmodified":1682602379,
     "wof:name":"Usman",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145691
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.06130999999998,
+    84.06131,
     26.00637,
-    84.06130999999998,
+    84.06131,
     26.00637
 ],
-  "geometry": {"coordinates":[84.06130999999998,26.00637],"type":"Point"}
+  "geometry": {"coordinates":[84.06131000000001,26.00637],"type":"Point"}
 }

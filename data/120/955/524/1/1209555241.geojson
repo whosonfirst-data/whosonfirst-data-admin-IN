@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000009,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.13825,25.50581,79.13825,25.50581",
-    "geom:latitude":25.50581,
-    "geom:longitude":79.13825,
+    "geom:bbox":"79.135736,25.503886,79.141935,25.50685",
+    "geom:latitude":25.505694,
+    "geom:longitude":79.138454,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"166.0",
     "gn:asciiname":"Barwar",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.11825,25.48581,79.15825,25.52581",
+    "ks:ks_id":"KS1598C191E90647128E9FEB3359C1E74B",
+    "ks:ks_name":"Barwar",
+    "ks:ks_pop":1673,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0936000304548300",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_802413",
+    "lbl:latitude":25.505772,
+    "lbl:longitude":79.138454,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.505772,
+    "mps:longitude":79.138454,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09f1\u09be\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Barw\u0101r"
+    ],
+    "name:eng_x_preferred":[
+        "Barwar"
     ],
     "name:ita_x_preferred":[
         "Barwar"
@@ -63,38 +76,56 @@
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u74e6\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890510677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7002864,
+        "ks:id":"KS1598C191E90647128E9FEB3359C1E74B",
         "wk:page":"Barwar%2C_Lakhimpur_Kheri"
     },
     "wof:country":"IN",
-    "wof:geomhash":"576734e3f6c7c675da4ce406fdb5cae9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6761665ca1ed7197320018c1376e09a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209555241
+            "county_id":890510677,
+            "locality_id":1209555241,
+            "region_id":85672205
         }
     ],
     "wof:id":1209555241,
-    "wof:lastmodified":1566695078,
+    "wof:lastmodified":1682622696,
     "wof:name":"Barwar",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890510677,
     "wof:placetype":"locality",
+    "wof:population":1673,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.13825,
-    25.50581,
-    79.13825,
-    25.50581
+    79.135736,
+    25.503886,
+    79.141935,
+    25.50685
 ],
-  "geometry": {"coordinates":[79.13825,25.50581],"type":"Point"}
+  "geometry": {"coordinates":[[[79.14031799999999,25.50685],[79.14031799999999,25.506581],[79.141126,25.506581],[79.141126,25.506311],[79.141935,25.506311],[79.141935,25.505772],[79.141396,25.505772],[79.141396,25.505503],[79.141126,25.505503],[79.141126,25.505772],[79.140857,25.505772],[79.140857,25.505503],[79.13924,25.505503],[79.13924,25.504964],[79.13789199999999,25.504964],[79.13789199999999,25.503886],[79.136814,25.503886],[79.136814,25.504155],[79.137084,25.504155],[79.137084,25.504425],[79.136814,25.504425],[79.136814,25.504694],[79.136545,25.504694],[79.136545,25.504964],[79.13573599999999,25.504964],[79.13573599999999,25.506042],[79.136545,25.506042],[79.136545,25.505772],[79.136814,25.505772],[79.136814,25.506042],[79.137084,25.506042],[79.137084,25.506581],[79.137623,25.506581],[79.137623,25.50685],[79.138431,25.50685],[79.138431,25.506581],[79.138701,25.506581],[79.138701,25.50685],[79.139509,25.50685],[79.139509,25.506581],[79.139779,25.506581],[79.139779,25.50685],[79.14031799999999,25.50685]]],"type":"Polygon"}
 }

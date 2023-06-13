@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.52374,24.42059,83.52374,24.42059",
-    "geom:latitude":24.42059,
-    "geom:longitude":83.52374,
+    "geom:bbox":"83.52333,24.419028,83.524343,24.421467",
+    "geom:latitude":24.420188,
+    "geom:longitude":83.523856,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Damar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.50374,24.40059,83.54374,24.44059",
+    "ks:ks_alt_nam":"DAMAR",
+    "ks:ks_id":"KS4595143E550347CB8FE82C4A5EE51032",
+    "ks:ks_name":"Damar",
+    "ks:ks_pop":330,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|245915",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1023778",
+    "lbl:latitude":24.420219,
+    "lbl:longitude":83.523897,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.420219,
+    "mps:longitude":83.523897,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Damar sistemi"
@@ -37,6 +48,9 @@
         "Damar"
     ],
     "name:deu_x_preferred":[
+        "Damar"
+    ],
+    "name:eng_x_preferred":[
         "Damar"
     ],
     "name:ind_x_preferred":[
@@ -63,7 +77,13 @@
     "name:tur_x_preferred":[
         "Damar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10517975
+        "gn:id":10517975,
+        "ks:id":"KS4595143E550347CB8FE82C4A5EE51032"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9a60d4676e939190d3ca2cfb0c4eae37",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3673ca4952f8031702549e95f499f60f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +110,22 @@
         }
     ],
     "wof:id":1242615997,
-    "wof:lastmodified":1566706328,
+    "wof:lastmodified":1682684795,
     "wof:name":"Damar",
     "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.52374,
-    24.42059,
-    83.52374,
-    24.42059
+    83.52333,
+    24.419028,
+    83.524343,
+    24.421467
 ],
-  "geometry": {"coordinates":[83.52374,24.42059],"type":"Point"}
+  "geometry": {"coordinates":[[[83.524259,24.42146],[83.524253,24.42119],[83.52415499999999,24.421191],[83.524147,24.42083],[83.52424600000001,24.420829],[83.524244,24.420739],[83.524343,24.420737],[83.524327,24.419925],[83.52422799999999,24.419927],[83.524224,24.419746],[83.524126,24.419748],[83.524113,24.419116],[83.52401500000001,24.419118],[83.524013,24.419028],[83.523619,24.419034],[83.52362100000001,24.419124],[83.523522,24.419126],[83.523526,24.419306],[83.523427,24.419308],[83.52342899999999,24.419398],[83.52333,24.4194],[83.523341,24.419941],[83.52343999999999,24.41994],[83.523454,24.420662],[83.52355300000001,24.42066],[83.52355799999999,24.420931],[83.523657,24.420929],[83.523662,24.4212],[83.52376,24.421198],[83.523762,24.421288],[83.523861,24.421287],[83.523864,24.421467],[83.524259,24.42146]]],"type":"Polygon"}
 }

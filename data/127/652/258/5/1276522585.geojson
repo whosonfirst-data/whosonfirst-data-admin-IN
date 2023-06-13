@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.29717,13.38668,75.29717,13.38668",
-    "geom:latitude":13.38668,
-    "geom:longitude":75.29717,
+    "geom:bbox":"75.297325,13.382559,75.298942,13.383367",
+    "geom:latitude":13.382963,
+    "geom:longitude":75.298134,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"570.0",
     "gn:asciiname":"Devagodu",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.27717,13.36668,75.31717,13.40668",
+    "ks:ks_id":"KSCC7442F626454CF0B210BF1AFC376837",
+    "ks:ks_name":"Devagodu",
+    "ks:ks_pop":21,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|262832",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_285046",
+    "lbl:latitude":13.382963,
+    "lbl:longitude":75.298133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.382963,
+    "mps:longitude":75.298133,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Devagodu"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10858306
+        "gn:id":10858306,
+        "ks:id":"KSCC7442F626454CF0B210BF1AFC376837"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e4e39205ef7598197be4b27ed4069b5b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ba2e0eb616524c85e205447c38e3e8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1276522585,
-    "wof:lastmodified":1566693891,
+    "wof:lastmodified":1682777136,
     "wof:name":"Devagodu",
     "wof:parent_id":890507585,
     "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.29717,
-    13.38668,
-    75.29717,
-    13.38668
+    75.297325,
+    13.382559,
+    75.298942,
+    13.383367
 ],
-  "geometry": {"coordinates":[75.29716999999999,13.38668],"type":"Point"}
+  "geometry": {"coordinates":[[[75.298942,13.382559],[75.297325,13.382559],[75.297325,13.383367],[75.298942,13.383367],[75.298942,13.382559]]],"type":"Polygon"}
 }

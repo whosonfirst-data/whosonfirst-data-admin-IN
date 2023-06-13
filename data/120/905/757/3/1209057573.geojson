@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0ca7\u0cbe\u0caa\u0cc1\u0cb0"
@@ -38,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        1108805979,
+        890508819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,22 @@
     "wof:geomhash":"0434d3e55fcc9c03a26e532d0fb26389",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209057573
+            "county_id":890508819,
+            "locality_id":1209057573,
+            "region_id":1108805979
         }
     ],
     "wof:id":1209057573,
-    "wof:lastmodified":1566696492,
+    "wof:lastmodified":1682602981,
     "wof:name":"Madhapur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

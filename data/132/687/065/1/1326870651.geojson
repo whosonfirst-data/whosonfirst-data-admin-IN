@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.28591,24.71989,79.28591,24.71989",
-    "geom:latitude":24.71989,
-    "geom:longitude":79.28591,
+    "geom:bbox":"79.289177,24.720873,79.290262,24.721605",
+    "geom:latitude":24.72125,
+    "geom:longitude":79.289714,
     "gn:admin1_code":"35",
     "gn:admin2_code":"424.0",
     "gn:asciiname":"Mau",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.26591,24.69989,79.30591,24.73989",
+    "ks:ks_id":"KS521992C1B7D4480A8C9273F5472E158A",
+    "ks:ks_name":"Mau",
+    "ks:ks_pop":433,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|688196",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_936794",
+    "lbl:latitude":24.72127,
+    "lbl:longitude":79.289725,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.72127,
+    "mps:longitude":79.289725,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0648"
@@ -49,6 +59,9 @@
         "Mau"
     ],
     "name:deu_x_preferred":[
+        "Mau"
+    ],
+    "name:eng_x_preferred":[
         "Mau"
     ],
     "name:fas_x_preferred":[
@@ -123,7 +136,13 @@
     "name:zho_x_preferred":[
         "\u6bdb\u7eb3\u7279\u73ed\u8a79"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +151,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10494014
+        "gn:id":10494014,
+        "ks:id":"KS521992C1B7D4480A8C9273F5472E158A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9e2db49d6796955f714aca4de7392fc8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"097ac2c8660d68658db77b1e69dae730",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +169,22 @@
         }
     ],
     "wof:id":1326870651,
-    "wof:lastmodified":1577749391,
+    "wof:lastmodified":1682892736,
     "wof:name":"Mau",
     "wof:parent_id":890502931,
     "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.28591,
-    24.71989,
-    79.28591,
-    24.71989
+    79.289177,
+    24.720873,
+    79.290262,
+    24.721605
 ],
-  "geometry": {"coordinates":[79.28591,24.71989],"type":"Point"}
+  "geometry": {"coordinates":[[[79.290159,24.721605],[79.29016,24.721515],[79.29025900000001,24.721516],[79.290262,24.721246],[79.290164,24.721244],[79.290165,24.721154],[79.290066,24.721153],[79.29006699999999,24.721063],[79.289968,24.721062],[79.28997,24.720971],[79.289772,24.720969],[79.289773,24.720879],[79.28927899999999,24.720873],[79.289278,24.720963],[79.289179,24.720962],[79.289177,24.721143],[79.289275,24.721144],[79.289272,24.721415],[79.28937000000001,24.721416],[79.28936899999999,24.721506],[79.28956700000001,24.721508],[79.28956599999999,24.721599],[79.290159,24.721605]]],"type":"Polygon"}
 }

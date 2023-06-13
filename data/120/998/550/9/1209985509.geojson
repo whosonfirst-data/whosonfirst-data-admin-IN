@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.24139,19.65353,76.24139,19.65353",
-    "geom:latitude":19.65353,
-    "geom:longitude":76.24139,
+    "geom:bbox":"76.240352,19.65225,76.242448,19.654515",
+    "geom:latitude":19.653467,
+    "geom:longitude":76.241445,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"514.0",
     "gn:asciiname":"Khadki",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.22139,19.63353,76.26139,19.67353",
+    "ks:ks_alt_nam":"Kh\u0101dki",
+    "ks:ks_id":"KS36B374322C6344728D4A107D8A3F9A31",
+    "ks:ks_name":"Khadki",
+    "ks:ks_pop":558,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|538240",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_559765",
+    "lbl:latitude":19.653561,
+    "lbl:longitude":76.241465,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.653561,
+    "mps:longitude":76.241465,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062f\u0643\u064a"
@@ -51,10 +62,19 @@
     "name:ceb_x_preferred":[
         "Khadki"
     ],
+    "name:eng_x_preferred":[
+        "Khadki"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101dki"
+    ],
     "name:guj_x_preferred":[
         "\u0a96\u0aa1\u0a95\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u0916\u0921\u093c\u0915\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0916\u0921\u0915\u0940"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +125,13 @@
     "name:zho_x_preferred":[
         "\u57fa\u5c14\u51ef\u57c3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10432576
+        "gn:id":10432576,
+        "ks:id":"KS36B374322C6344728D4A107D8A3F9A31"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5dd4273aef44e5046c024cf94c028ce1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eec0767acb5286b25adc62ef1182e3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +158,22 @@
         }
     ],
     "wof:id":1209985509,
-    "wof:lastmodified":1576021349,
+    "wof:lastmodified":1686162705,
     "wof:name":"Khadki",
     "wof:parent_id":890501997,
     "wof:placetype":"locality",
+    "wof:population":558,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.24139,
-    19.65353,
-    76.24139,
-    19.65353
+    76.240352,
+    19.65225,
+    76.242448,
+    19.654515
 ],
-  "geometry": {"coordinates":[76.24139,19.65353],"type":"Point"}
+  "geometry": {"coordinates":[[[76.24188700000001,19.654508],[76.24188599999999,19.654417],[76.24207699999999,19.654416],[76.242076,19.654326],[76.242171,19.654325],[76.242171,19.654235],[76.242266,19.654234],[76.242265,19.654053],[76.24236000000001,19.654053],[76.242352,19.653059],[76.242448,19.653058],[76.242446,19.652877],[76.242351,19.652878],[76.24235,19.652697],[76.242254,19.652698],[76.242254,19.652608],[76.242158,19.652608],[76.242158,19.652518],[76.242062,19.652519],[76.24206100000001,19.652428],[76.241871,19.65243],[76.24187000000001,19.652339],[76.241775,19.65234],[76.24177400000001,19.65225],[76.241297,19.652253],[76.241298,19.652343],[76.241202,19.652344],[76.241203,19.652434],[76.241012,19.652436],[76.24101400000001,19.652616],[76.24091799999999,19.652617],[76.24092,19.652798],[76.240824,19.652798],[76.240825,19.652889],[76.24073,19.652889],[76.240731,19.65307],[76.24063599999999,19.653071],[76.24063700000001,19.653161],[76.24054099999999,19.653162],[76.240542,19.653252],[76.24044600000001,19.653253],[76.240448,19.653433],[76.240352,19.653434],[76.24035600000001,19.653886],[76.24045099999999,19.653885],[76.240453,19.654156],[76.240549,19.654155],[76.240549,19.654246],[76.240645,19.654245],[76.240646,19.654335],[76.240741,19.654335],[76.240742,19.654425],[76.240837,19.654425],[76.240838,19.654515],[76.24188700000001,19.654508]]],"type":"Polygon"}
 }

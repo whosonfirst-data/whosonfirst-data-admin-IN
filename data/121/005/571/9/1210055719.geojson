@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.62753,25.63546,82.62753,25.63546",
-    "geom:latitude":25.63546,
-    "geom:longitude":82.62753,
+    "geom:bbox":"82.624969,25.626924,82.626976,25.628548",
+    "geom:latitude":25.627664,
+    "geom:longitude":82.625984,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Sadarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.60753,25.61546,82.64753,25.65546",
+    "ks:ks_id":"KS64BD2A38AC90420E8B5348FAC73B61F3",
+    "ks:ks_name":"Sadarpur",
+    "ks:ks_pop":631,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0964000509552700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1917513",
+    "lbl:latitude":25.627592,
+    "lbl:longitude":82.626004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.627592,
+    "mps:longitude":82.626004,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062f\u0627\u0631 \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09a6\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sadarpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aa6\u0ab0\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0635\u062f\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10540581
+        "gn:id":10540581,
+        "ks:id":"KS64BD2A38AC90420E8B5348FAC73B61F3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1e90903b716c61fd8862a395a619282b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"56f2c71454893356ef0fc93a6672a962",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1210055719,
-    "wof:lastmodified":1577751061,
+    "wof:lastmodified":1682641859,
     "wof:name":"Sadarpur",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":631,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.62753000000002,
-    25.63546,
-    82.62753000000002,
-    25.63546
+    82.624969,
+    25.626924,
+    82.626976,
+    25.628548
 ],
-  "geometry": {"coordinates":[82.62753000000002,25.63546],"type":"Point"}
+  "geometry": {"coordinates":[[[82.626582,25.628546],[82.626581,25.628455],[82.62678,25.628453],[82.626778,25.628363],[82.626878,25.628362],[82.62687699999999,25.628272],[82.626976,25.62827],[82.626971,25.627909],[82.62687200000001,25.627911],[82.626868,25.62764],[82.626769,25.627641],[82.626766,25.62746],[82.626667,25.627461],[82.626665,25.627371],[82.626566,25.627372],[82.626563,25.627192],[82.626464,25.627193],[82.626463,25.627103],[82.626363,25.627104],[82.626362,25.627013],[82.626262,25.627015],[82.626261,25.626924],[82.62516599999999,25.626936],[82.625167,25.627027],[82.625067,25.627028],[82.625069,25.627118],[82.62496899999999,25.627119],[82.624976,25.627661],[82.62507600000001,25.62766],[82.625078,25.62784],[82.62517800000001,25.627839],[82.625179,25.627929],[82.625378,25.627927],[82.62538000000001,25.628017],[82.625479,25.628016],[82.62548,25.628107],[82.62568,25.628104],[82.625681,25.628195],[82.62578000000001,25.628194],[82.625782,25.628284],[82.625981,25.628282],[82.62598199999999,25.628372],[82.626081,25.628371],[82.62608299999999,25.628461],[82.62638099999999,25.628458],[82.626383,25.628548],[82.626582,25.628546]]],"type":"Polygon"}
 }

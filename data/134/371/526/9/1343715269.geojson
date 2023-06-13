@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.26734,21.58175,75.26734,21.58175",
-    "geom:latitude":21.58175,
-    "geom:longitude":75.26734,
+    "geom:bbox":"75.266485,21.581,75.268611,21.582086",
+    "geom:latitude":21.581611,
+    "geom:longitude":75.267506,
     "gn:admin1_code":"35",
     "gn:admin2_code":"441.0",
     "gn:asciiname":"Ramkola",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.24734,21.56175,75.28734,21.60175",
+    "ks:ks_id":"KS26F31E9AFAC54B17BCA43887547A351A",
+    "ks:ks_name":"Ramkola",
+    "ks:ks_pop":2123,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|903199",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_859367",
+    "lbl:latitude":21.581542,
+    "lbl:longitude":75.267486,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.581542,
+    "mps:longitude":75.267486,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09ae\u0995\u09cb\u09b2\u09be"
     ],
     "name:ceb_x_preferred":[
         "R\u0101mkola"
+    ],
+    "name:eng_x_preferred":[
+        "Ramkola"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u092e\u0915\u094b\u0932\u093e"
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u59c6\u79d1\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1258654
+        "gn:id":1258654,
+        "ks:id":"KS26F31E9AFAC54B17BCA43887547A351A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58b036dbb6a5ce050f7322569052aa98",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c219309da40f7be53bac4a179bb521e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1343715269,
-    "wof:lastmodified":1566686956,
+    "wof:lastmodified":1682938524,
     "wof:name":"Ramkola",
     "wof:parent_id":1108696227,
     "wof:placetype":"locality",
+    "wof:population":2123,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.26734,
-    21.58175,
-    75.26734,
-    21.58175
+    75.266485,
+    21.581,
+    75.268611,
+    21.582086
 ],
-  "geometry": {"coordinates":[75.26734,21.58175],"type":"Point"}
+  "geometry": {"coordinates":[[[75.26803200000001,21.582083],[75.26803099999999,21.581993],[75.268128,21.581993],[75.268128,21.582083],[75.268321,21.582083],[75.268321,21.581993],[75.268514,21.581992],[75.268514,21.581902],[75.26861100000001,21.581902],[75.26861,21.581631],[75.268514,21.581631],[75.268514,21.581541],[75.268417,21.581541],[75.268417,21.58145],[75.26832,21.581451],[75.26832,21.58136],[75.268224,21.58136],[75.26822300000001,21.58127],[75.26812700000001,21.58127],[75.26812700000001,21.58118],[75.267933,21.58118],[75.267933,21.58109],[75.26774,21.58109],[75.26774,21.581],[75.26716,21.581001],[75.26716,21.581091],[75.26696699999999,21.581091],[75.26696699999999,21.581182],[75.266774,21.581182],[75.266774,21.581272],[75.266678,21.581273],[75.266678,21.581453],[75.266582,21.581453],[75.266582,21.581634],[75.266485,21.581634],[75.266486,21.581996],[75.266679,21.581995],[75.266679,21.582086],[75.26803200000001,21.582083]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.59882,24.31161,81.59882,24.31161",
-    "geom:latitude":24.31161,
-    "geom:longitude":81.59882,
+    "geom:bbox":"81.597995,24.310112,81.599287,24.31246",
+    "geom:latitude":24.311394,
+    "geom:longitude":81.598685,
     "gn:admin1_code":"35",
     "gn:admin2_code":"462.0",
     "gn:asciiname":"Posta",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.57882,24.29161,81.61882,24.33161",
+    "ks:ks_id":"KS42C13E79CBC44684853DF5619CCB9808",
+    "ks:ks_name":"Posta",
+    "ks:ks_pop":2213,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|863246",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1021131",
+    "lbl:latitude":24.311425,
+    "lbl:longitude":81.598739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.311425,
+    "mps:longitude":81.598739,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Posta"
@@ -37,6 +47,9 @@
         "Posta"
     ],
     "name:deu_x_preferred":[
+        "Posta"
+    ],
+    "name:eng_x_preferred":[
         "Posta"
     ],
     "name:hun_x_preferred":[
@@ -60,37 +73,55 @@
     "name:swe_x_preferred":[
         "Posta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696251
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10534333
+        "gn:id":10534333,
+        "ks:id":"KS42C13E79CBC44684853DF5619CCB9808"
     },
     "wof:country":"IN",
-    "wof:geomhash":"67bb92a0612b75499563c7a4332bbdd8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ce9b247132ca4d664325e72fcee0c484",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209159233
+            "county_id":1108696251,
+            "locality_id":1209159233,
+            "region_id":85672239
         }
     ],
     "wof:id":1209159233,
-    "wof:lastmodified":1566695298,
+    "wof:lastmodified":1682608367,
     "wof:name":"Posta",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696251,
     "wof:placetype":"locality",
+    "wof:population":2213,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.59881999999998,
-    24.31161,
-    81.59881999999998,
-    24.31161
+    81.597995,
+    24.310112,
+    81.599287,
+    24.31246
 ],
-  "geometry": {"coordinates":[81.59881999999998,24.31161],"type":"Point"}
+  "geometry": {"coordinates":[[[81.599091,24.312458],[81.59909,24.312367],[81.599189,24.312367],[81.599188,24.312277],[81.599287,24.312276],[81.599283,24.311373],[81.59918399999999,24.311374],[81.599183,24.311103],[81.599084,24.311103],[81.599084,24.311013],[81.598985,24.311013],[81.598985,24.310923],[81.59888599999999,24.310923],[81.59888599999999,24.310833],[81.598787,24.310833],[81.598787,24.310743],[81.598688,24.310743],[81.598687,24.310563],[81.598589,24.310563],[81.59858800000001,24.310292],[81.598489,24.310292],[81.598489,24.310202],[81.59838999999999,24.310203],[81.59838999999999,24.310112],[81.597995,24.310114],[81.597998,24.310565],[81.598096,24.310565],[81.598097,24.310655],[81.598195,24.310655],[81.598196,24.310745],[81.598294,24.310745],[81.598299,24.311738],[81.59839700000001,24.311738],[81.5984,24.31237],[81.598597,24.312369],[81.598598,24.31246],[81.599091,24.312458]]],"type":"Polygon"}
 }

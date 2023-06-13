@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.6761,21.0486,78.6761,21.0486",
-    "geom:latitude":21.0486,
-    "geom:longitude":78.6761,
+    "geom:bbox":"78.675502,21.047502,78.676854,21.049497",
+    "geom:latitude":21.048576,
+    "geom:longitude":78.676166,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Khapa",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.6561,21.0286,78.6961,21.0686",
+    "ks:ks_id":"KS0D5FA5C9E8474EE0B5C3783A65FA2162",
+    "ks:ks_name":"Khapa",
+    "ks:ks_pop":213,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|546507",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_875667",
+    "lbl:latitude":21.048581,
+    "lbl:longitude":78.676153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.048581,
+    "mps:longitude":78.676153,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09be\u09aa\u09be"
     ],
     "name:bpy_x_preferred":[
         "\u0996\u09be\u09aa\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Khapa"
     ],
     "name:ind_x_preferred":[
         "Khapa"
@@ -60,7 +73,13 @@
     "name:vie_x_preferred":[
         "Khapa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213818
+        "gn:id":10213818,
+        "ks:id":"KS0D5FA5C9E8474EE0B5C3783A65FA2162"
     },
     "wof:country":"IN",
-    "wof:geomhash":"aa4af3a51bd7429d9b39ec7d13deb626",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2bf48c320a70b76ae8451a7e6522a76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1343927069,
-    "wof:lastmodified":1566687325,
+    "wof:lastmodified":1682946378,
     "wof:name":"Khapa",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.6761,
-    21.0486,
-    78.6761,
-    21.0486
+    78.675502,
+    21.047502,
+    78.676854,
+    21.049497
 ],
-  "geometry": {"coordinates":[78.67610000000001,21.0486],"type":"Point"}
+  "geometry": {"coordinates":[[[78.67664600000001,21.049497],[78.676648,21.049407],[78.67684,21.04941],[78.67685400000001,21.048507],[78.67675800000001,21.048505],[78.676762,21.048235],[78.676666,21.048233],[78.676669,21.048053],[78.67657199999999,21.048051],[78.676575,21.047871],[78.676479,21.04787],[78.67648,21.047779],[78.676384,21.047778],[78.67638599999999,21.047688],[78.676289,21.047686],[78.67629100000001,21.047596],[78.67609899999999,21.047593],[78.67610000000001,21.047503],[78.67600400000001,21.047502],[78.676002,21.047592],[78.675714,21.047588],[78.67571100000001,21.047769],[78.67561499999999,21.047767],[78.675612,21.047948],[78.675516,21.047947],[78.67550199999999,21.048849],[78.67559799999999,21.048851],[78.675594,21.049122],[78.67569,21.049123],[78.675687,21.049303],[78.67588000000001,21.049306],[78.675878,21.049396],[78.675974,21.049398],[78.675973,21.049488],[78.67664600000001,21.049497]]],"type":"Polygon"}
 }

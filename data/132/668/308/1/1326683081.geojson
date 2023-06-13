@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.60548,23.0953,79.60548,23.0953",
-    "geom:latitude":23.0953,
-    "geom:longitude":79.60548,
+    "geom:bbox":"79.605492,23.09253,79.606662,23.09362",
+    "geom:latitude":23.093032,
+    "geom:longitude":79.606115,
     "gn:admin1_code":"35",
     "gn:admin2_code":"452.0",
     "gn:asciiname":"Pura",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.58548,23.0753,79.62548,23.1153",
+    "ks:ks_id":"KS84B3C5A3B5364CE1803355399170C98B",
+    "ks:ks_name":"Pura",
+    "ks:ks_pop":650,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|870843",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_996019",
+    "lbl:latitude":23.09301,
+    "lbl:longitude":79.606163,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.09301,
+    "mps:longitude":79.606163,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pura"
     ],
     "name:deu_x_preferred":[
+        "Pura"
+    ],
+    "name:eng_x_preferred":[
         "Pura"
     ],
     "name:epo_x_preferred":[
@@ -72,7 +85,13 @@
     "name:war_x_preferred":[
         "Pura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457127
+        "gn:id":10457127,
+        "ks:id":"KS84B3C5A3B5364CE1803355399170C98B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"80f42c9548a050b9a08d749e509bc47e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"87d3578ed73a9cf0ae14b77894f3b20e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1326683081,
-    "wof:lastmodified":1566682722,
+    "wof:lastmodified":1682886531,
     "wof:name":"Pura",
     "wof:parent_id":1108696241,
     "wof:placetype":"locality",
+    "wof:population":650,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.60548,
-    23.0953,
-    79.60548,
-    23.0953
+    79.605492,
+    23.09253,
+    79.606662,
+    23.09362
 ],
-  "geometry": {"coordinates":[79.60548,23.0953],"type":"Point"}
+  "geometry": {"coordinates":[[[79.606363,23.09362],[79.606364,23.09353],[79.60646199999999,23.093531],[79.60646300000001,23.09344],[79.60656,23.093441],[79.606561,23.093351],[79.60665899999999,23.093352],[79.606662,23.093081],[79.60656400000001,23.09308],[79.60656899999999,23.092628],[79.606471,23.092628],[79.606472,23.092537],[79.60569099999999,23.09253],[79.60569,23.092621],[79.605593,23.09262],[79.605592,23.09271],[79.60549399999999,23.092709],[79.605492,23.09289],[79.60559000000001,23.092891],[79.605588,23.093071],[79.60568600000001,23.093072],[79.60568499999999,23.093162],[79.605782,23.093163],[79.605779,23.093434],[79.60587700000001,23.093435],[79.605875,23.093616],[79.606363,23.09362]]],"type":"Polygon"}
 }

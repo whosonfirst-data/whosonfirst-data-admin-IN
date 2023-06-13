@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.5491,27.66944,81.5491,27.66944",
-    "geom:latitude":27.66944,
-    "geom:longitude":81.5491,
+    "geom:bbox":"81.548527,27.668408,81.549847,27.670033",
+    "geom:latitude":27.669322,
+    "geom:longitude":81.549156,
     "gn:admin1_code":"36",
     "gn:admin2_code":"180.0",
     "gn:asciiname":"Tulsipur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.5291,27.64944,81.5691,27.68944",
+    "ks:ks_alt_nam":"Tulsi pur",
+    "ks:ks_id":"KSE1FDFE6A1473489FA04DC74974995C61",
+    "ks:ks_name":"Tulsi Pur",
+    "ks:ks_pop":113,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1065081",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2008963",
+    "lbl:latitude":27.66934,
+    "lbl:longitude":81.549168,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.66934,
+    "mps:longitude":81.549168,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0633\u0628\u0648\u0631"
@@ -47,6 +58,12 @@
     ],
     "name:ceb_x_preferred":[
         "Tuls\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Tulsi Pur"
+    ],
+    "name:eng_x_variant":[
+        "Tulsipur"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aaa\u0ac1\u0ab0"
@@ -108,37 +125,55 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u897f\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695851
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10559687
+        "gn:id":10559687,
+        "ks:id":"KSE1FDFE6A1473489FA04DC74974995C61"
     },
     "wof:country":"IN",
-    "wof:geomhash":"224e7b4e88319facc9fa0b51f8c91471",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4352bbf63154251acc034f8723110be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209148379
+            "county_id":1108695851,
+            "locality_id":1209148379,
+            "region_id":85672205
         }
     ],
     "wof:id":1209148379,
-    "wof:lastmodified":1577750871,
-    "wof:name":"Tulsipur",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682606047,
+    "wof:name":"Tulsi Pur",
+    "wof:parent_id":1108695851,
     "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.5491,
-    27.66944,
-    81.5491,
-    27.66944
+    81.548527,
+    27.668408,
+    81.549847,
+    27.670033
 ],
-  "geometry": {"coordinates":[81.5491,27.66944],"type":"Point"}
+  "geometry": {"coordinates":[[[81.54954499999999,27.67003],[81.54954499999999,27.66994],[81.549646,27.66994],[81.549646,27.669849],[81.549747,27.669849],[81.549746,27.669578],[81.549847,27.669578],[81.549845,27.669217],[81.549744,27.669217],[81.54974300000001,27.669036],[81.54964200000001,27.669037],[81.54964099999999,27.668856],[81.549539,27.668857],[81.549539,27.668766],[81.54943799999999,27.668767],[81.549437,27.668677],[81.549336,27.668677],[81.549335,27.668587],[81.549234,27.668587],[81.549233,27.668497],[81.548929,27.668498],[81.548929,27.668408],[81.548827,27.668408],[81.548828,27.668498],[81.548727,27.668499],[81.54872899999999,27.66895],[81.548627,27.668951],[81.54862900000001,27.669221],[81.54852700000001,27.669222],[81.54853,27.669673],[81.548631,27.669673],[81.548632,27.669944],[81.548734,27.669943],[81.548734,27.670033],[81.54954499999999,27.67003]]],"type":"Polygon"}
 }

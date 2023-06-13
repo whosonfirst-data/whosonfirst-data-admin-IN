@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10554025
     },
     "wof:country":"IN",
-    "wof:geomhash":"ccf1db82436294f12914cd39c033d6fb",
+    "wof:geomhash":"be75554cd9403b4b180071d7e51afef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209059059
+            "county_id":1108695819,
+            "locality_id":1209059059,
+            "region_id":85672205
         }
     ],
     "wof:id":1209059059,
-    "wof:lastmodified":1566696492,
+    "wof:lastmodified":1682603386,
     "wof:name":"Ajudhia Khera",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.86780999999998,
+    80.86781,
     26.46147,
-    80.86780999999998,
+    80.86781,
     26.46147
 ],
-  "geometry": {"coordinates":[80.86780999999998,26.46147],"type":"Point"}
+  "geometry": {"coordinates":[80.86781000000001,26.46147],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.00673,23.11517,84.00673,23.11517",
-    "geom:latitude":23.11517,
-    "geom:longitude":84.00673,
+    "geom:bbox":"84.005333,23.114365,84.008086,23.115873",
+    "geom:latitude":23.11515,
+    "geom:longitude":84.006884,
     "gn:admin1_code":"37.0",
     "gn:admin2_code":"402",
     "gn:asciiname":"Budhgaon",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.98673,23.09517,84.02673,23.13517",
+    "ks:ks_id":"KS3BF6CE52019147ECB02BAC739D285D6E",
+    "ks:ks_name":"Budhgaon",
+    "ks:ks_pop":424,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2092365",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1125310",
+    "lbl:latitude":23.115036,
+    "lbl:longitude":84.007093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.115036,
+    "mps:longitude":84.007093,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a7\u0997\u09be\u0981\u0993"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c1\u09a7\u0997\u09be\u0981\u0993"
+    ],
+    "name:eng_x_preferred":[
+        "Budhgaon"
     ],
     "name:ita_x_preferred":[
         "Budhgaon"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u5e03\u5fb7\u52a0\u5965\u6069"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1275149
+        "gn:id":1275149,
+        "ks:id":"KS3BF6CE52019147ECB02BAC739D285D6E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0964b7cae9b9d7dc0ebdd3e79975aa3a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a9e5af9ed2b2b3d674097e353da26ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1226481193,
-    "wof:lastmodified":1566712925,
+    "wof:lastmodified":1682668388,
     "wof:name":"Budhgaon",
     "wof:parent_id":1108696177,
     "wof:placetype":"locality",
+    "wof:population":424,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.00673,
-    23.11517000000001,
-    84.00673,
-    23.11517000000001
+    84.005333,
+    23.114365,
+    84.008086,
+    23.115873
 ],
-  "geometry": {"coordinates":[84.00673,23.11517000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[84.006012,23.115873],[84.00601399999999,23.115783],[84.006112,23.115785],[84.006114,23.115695],[84.00621099999999,23.115696],[84.006213,23.115606],[84.00670100000001,23.115615],[84.006703,23.115525],[84.00777600000001,23.115546],[84.007778,23.115455],[84.00797300000001,23.115459],[84.007977,23.115279],[84.00807399999999,23.11528],[84.00808600000001,23.114739],[84.00798899999999,23.114737],[84.007991,23.114647],[84.007893,23.114645],[84.007895,23.114555],[84.00779799999999,23.114553],[84.0078,23.114463],[84.00770199999999,23.114461],[84.007704,23.114371],[84.007411,23.114365],[84.007409,23.114456],[84.007214,23.114452],[84.007212,23.114542],[84.006725,23.114533],[84.006721,23.114713],[84.006623,23.114711],[84.006621,23.114802],[84.006524,23.1148],[84.006522,23.11489],[84.006229,23.114884],[84.006227,23.114975],[84.006032,23.114971],[84.00603,23.115061],[84.005932,23.115059],[84.005928,23.11524],[84.00573300000001,23.115236],[84.005731,23.115326],[84.00553600000001,23.115323],[84.005532,23.115503],[84.005337,23.115499],[84.00533299999999,23.11568],[84.005431,23.115682],[84.00542900000001,23.115772],[84.005526,23.115774],[84.00552399999999,23.115864],[84.006012,23.115873]]],"type":"Polygon"}
 }

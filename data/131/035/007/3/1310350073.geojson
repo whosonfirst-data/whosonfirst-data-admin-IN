@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.83624,25.03543,84.83624,25.03543",
-    "geom:latitude":25.03543,
-    "geom:longitude":84.83624,
+    "geom:bbox":"84.832852,25.033887,84.833661,25.035504",
+    "geom:latitude":25.034628,
+    "geom:longitude":84.83329,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Agar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.81624,25.01543,84.85624,25.05543",
+    "ks:ks_id":"KSA89A5A415F3C4D569EB2728591479A71",
+    "ks:ks_name":"Agar",
+    "ks:ks_pop":840,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1035000203978400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1329850",
+    "lbl:latitude":25.034583,
+    "lbl:longitude":84.833258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.034583,
+    "mps:longitude":84.833258,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Agar-agar"
@@ -55,6 +65,9 @@
         "Agar"
     ],
     "name:deu_x_preferred":[
+        "Agar"
+    ],
+    "name:eng_x_preferred":[
         "Agar"
     ],
     "name:epo_x_preferred":[
@@ -195,7 +208,13 @@
     "name:uzb_x_preferred":[
         "Agar-agar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -204,10 +223,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833588
+        "gn:id":10833588,
+        "ks:id":"KSA89A5A415F3C4D569EB2728591479A71"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0c8199f18f73d4dfdc21634b9425376a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f25467a82e71136852bde5ca0bcd740c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,20 +241,22 @@
         }
     ],
     "wof:id":1310350073,
-    "wof:lastmodified":1566701937,
+    "wof:lastmodified":1682862892,
     "wof:name":"Agar",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.83624,
-    25.03543,
-    84.83624,
-    25.03543
+    84.832852,
+    25.033887,
+    84.833661,
+    25.035504
 ],
-  "geometry": {"coordinates":[84.83624,25.03543],"type":"Point"}
+  "geometry": {"coordinates":[[[84.83366100000001,25.033887],[84.832852,25.033887],[84.832852,25.034965],[84.833122,25.034965],[84.833122,25.035504],[84.83366100000001,25.035504],[84.83366100000001,25.033887]]],"type":"Polygon"}
 }

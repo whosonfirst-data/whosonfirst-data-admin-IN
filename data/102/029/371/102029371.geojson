@@ -12,12 +12,20 @@
     "gn:latitude":23.34184,
     "gn:longitude":71.93642,
     "iso:country":"IN",
-    "lbl:latitude":22.416341,
-    "lbl:longitude":69.014315,
+    "ks:ks_id":"KSF0651C73ED354163982635C9430D128B",
+    "ks:ks_name":"Mithapur",
+    "ks:ks_pop":15011,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|11650887",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_666284",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":22.414246,
+    "lbl:longitude":69.008534,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":22.413636,
-    "mps:longitude":69.008564,
+    "mps:latitude":22.414246,
+    "mps:longitude":69.008534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -27,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Mithapur"
+    ],
+    "name:eng_x_variant":[
+        "Mith\u0101pur"
     ],
     "name:ita_x_preferred":[
         "Mithapur"
@@ -71,9 +82,12 @@
     "reversegeo:longitude":69.014315,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":921,
     "wof:belongsto":[
         102191569,
@@ -84,9 +98,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1262981,
+        "ks:id":"KSF0651C73ED354163982635C9430D128B",
         "wd:id":"Q2738453"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"14ad2c4212ad0c006e9a3c404a4be7ad",
     "wof:hierarchy":[
         {
@@ -98,10 +117,12 @@
         }
     ],
     "wof:id":102029371,
-    "wof:lastmodified":1658780759,
-    "wof:name":"Mith\u0101pur",
+    "wof:lastmodified":1682523856,
+    "wof:name":"Mithapur",
     "wof:parent_id":890508827,
     "wof:placetype":"locality",
+    "wof:population":15011,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000009,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.72198,31.21573,74.72198,31.21573",
-    "geom:latitude":31.21573,
-    "geom:longitude":74.72198,
+    "geom:bbox":"74.719337,31.21327,74.722389,31.216788",
+    "geom:latitude":31.215106,
+    "geom:longitude":74.720853,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"50.0",
     "gn:asciiname":"Man",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.70198,31.19573,74.74198,31.23573",
+    "ks:ks_alt_nam":"M\u0101n",
+    "ks:ks_id":"KS30CE0FB15DC34B09A5BB9D4FECDE2324",
+    "ks:ks_name":"Man",
+    "ks:ks_pop":584,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13126687",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2510984",
+    "lbl:latitude":31.215074,
+    "lbl:longitude":74.720833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.215074,
+    "mps:longitude":74.720833,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Man"
@@ -125,6 +136,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03b4\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Man"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101n"
     ],
     "name:epo_x_preferred":[
         "Viro"
@@ -447,7 +464,13 @@
     "name:zha_x_preferred":[
         "Bouxsai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -456,10 +479,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10692863
+        "gn:id":10692863,
+        "ks:id":"KS30CE0FB15DC34B09A5BB9D4FECDE2324"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e1d40ac0ea9f83c45cd30c6dae5bda69",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ae89a3b0fe051b6b7bcb879e942b9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -470,20 +497,22 @@
         }
     ],
     "wof:id":1309863841,
-    "wof:lastmodified":1636505764,
+    "wof:lastmodified":1682844480,
     "wof:name":"Man",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
+    "wof:population":584,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.72198,
-    31.21573,
-    74.72198,
-    31.21573
+    74.719337,
+    31.21327,
+    74.722389,
+    31.216788
 ],
-  "geometry": {"coordinates":[74.72198,31.21573],"type":"Point"}
+  "geometry": {"coordinates":[[[74.720491,31.216788],[74.720491,31.216697],[74.721751,31.2167],[74.721751,31.21661],[74.722171,31.216611],[74.722171,31.216521],[74.72227599999999,31.216521],[74.722279,31.215709],[74.722174,31.215709],[74.72217499999999,31.215167],[74.72228,31.215167],[74.722281,31.214897],[74.722386,31.214897],[74.72238900000001,31.213814],[74.722284,31.213814],[74.722284,31.213724],[74.722179,31.213723],[74.72217999999999,31.213633],[74.722075,31.213633],[74.722075,31.213543],[74.72186499999999,31.213542],[74.72186499999999,31.213452],[74.72154999999999,31.213451],[74.72155100000001,31.213361],[74.721341,31.213361],[74.721341,31.213271],[74.72102599999999,31.21327],[74.72102599999999,31.21336],[74.720921,31.21336],[74.72092000000001,31.21345],[74.720606,31.213449],[74.72060500000001,31.21354],[74.71997500000001,31.213538],[74.71997500000001,31.213628],[74.71966,31.213628],[74.71966,31.213718],[74.719555,31.213718],[74.719554,31.213988],[74.719449,31.213988],[74.719446,31.215161],[74.719341,31.215161],[74.719337,31.216514],[74.719442,31.216515],[74.719441,31.216695],[74.719651,31.216696],[74.719651,31.216786],[74.720491,31.216788]]],"type":"Polygon"}
 }

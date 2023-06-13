@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.89476,24.30569,79.89476,24.30569",
-    "geom:latitude":24.30569,
-    "geom:longitude":79.89476,
+    "geom:bbox":"79.894261,24.3051,79.895545,24.306098",
+    "geom:latitude":24.305607,
+    "geom:longitude":79.894853,
     "gn:admin1_code":"35",
     "gn:admin2_code":"426.0",
     "gn:asciiname":"Mahrajganj",
@@ -24,19 +24,41 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.87476,24.28569,79.91476,24.32569",
+    "ks:ks_id":"KS432408F922754165A3CD32321E4AD786",
+    "ks:ks_name":"Maharajganj",
+    "ks:ks_pop":79,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|646244",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1020978",
+    "lbl:latitude":24.305636,
+    "lbl:longitude":79.894841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.305636,
+    "mps:longitude":79.894841,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Mahr\u0101jganj"
+        "Maharajganj"
+    ],
+    "name:eng_x_variant":[
+        "Mahrajganj"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0939\u093e\u0930\u093e\u091c\u0917\u0902\u091c"
     ],
     "name:pol_x_preferred":[
         "Mahrajganj"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10726727
+        "gn:id":10726727,
+        "ks:id":"KS432408F922754165A3CD32321E4AD786"
     },
     "wof:country":"IN",
-    "wof:geomhash":"09639f764200d2f207e0975d5b8005d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"203b4e599a73026166f28b23e64d1217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +85,22 @@
         }
     ],
     "wof:id":1293642395,
-    "wof:lastmodified":1566689650,
-    "wof:name":"Mahrajganj",
+    "wof:lastmodified":1686162424,
+    "wof:name":"Maharajganj",
     "wof:parent_id":890507435,
     "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.89475999999998,
-    24.30569,
-    79.89475999999998,
-    24.30569
+    79.894261,
+    24.3051,
+    79.895545,
+    24.306098
 ],
-  "geometry": {"coordinates":[79.89475999999998,24.30569],"type":"Point"}
+  "geometry": {"coordinates":[[[79.895146,24.306098],[79.895146,24.306008],[79.89534399999999,24.306009],[79.89534500000001,24.305829],[79.895444,24.305829],[79.895445,24.305649],[79.895544,24.305649],[79.895545,24.305469],[79.895447,24.305468],[79.895448,24.305378],[79.895349,24.305377],[79.89534999999999,24.305287],[79.895251,24.305286],[79.895252,24.305196],[79.89495599999999,24.305194],[79.89495700000001,24.305103],[79.89456300000001,24.3051],[79.89456199999999,24.305191],[79.89436499999999,24.305189],[79.894364,24.30528],[79.894266,24.305279],[79.894261,24.305821],[79.89436000000001,24.305821],[79.894358,24.306002],[79.894555,24.306003],[79.894554,24.306094],[79.895146,24.306098]]],"type":"Polygon"}
 }

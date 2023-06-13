@@ -13,12 +13,22 @@
     "gn:longitude":78.57141,
     "gn:population":48865,
     "iso:country":"IN",
-    "lbl:latitude":13.366534,
-    "lbl:longitude":78.5713,
+    "ks:ks_alt_nam":"Pungan\u016bru",
+    "ks:ks_alt_nam_2":"Punganuru",
+    "ks:ks_id":"KSDA800D83B679404CAF58964F5785EFB1",
+    "ks:ks_name":"Punganur",
+    "ks:ks_pop":44314,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2823004942313000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_320739",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":13.366174,
+    "lbl:longitude":78.571005,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":13.491131,
-    "mps:longitude":78.634644,
+    "mps:latitude":13.366174,
+    "mps:longitude":78.571005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +47,10 @@
     ],
     "name:eng_x_preferred":[
         "Punganur"
+    ],
+    "name:eng_x_variant":[
+        "Pungan\u016bru",
+        "Punganuru"
     ],
     "name:fra_x_preferred":[
         "Punganuru"
@@ -121,10 +135,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":220,
     "wof:belongsto":[
         102191569,
@@ -136,12 +152,15 @@
     "wof:concordances":{
         "gn:id":1259228,
         "gp:id":29133452,
+        "ks:id":"KSDA800D83B679404CAF58964F5785EFB1",
         "qs_pg:id":1030413,
         "wd:id":"Q2566460"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5905b025a4e36ca7fa9b5f29bd36ff7a",
     "wof:hierarchy":[
@@ -154,11 +173,11 @@
         }
     ],
     "wof:id":102028963,
-    "wof:lastmodified":1658780774,
-    "wof:name":"Pungan\u016bru",
+    "wof:lastmodified":1682523608,
+    "wof:name":"Punganur",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
-    "wof:population":48865,
+    "wof:population":44314,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

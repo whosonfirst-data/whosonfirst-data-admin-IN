@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.88992,24.55239,73.88992,24.55239",
-    "geom:latitude":24.55239,
-    "geom:longitude":73.88992,
+    "geom:bbox":"73.890363,24.547456,73.891356,24.548899",
+    "geom:latitude":24.548197,
+    "geom:longitude":73.890827,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"130.0",
     "gn:asciiname":"Tank",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.86992,24.53239,73.90992,24.57239",
+    "ks:ks_alt_nam":"T\u0101nk",
+    "ks:ks_id":"KS8289675C436D42D2A6B3316999E046FC",
+    "ks:ks_name":"Tank",
+    "ks:ks_pop":1675,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1031997",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_839010",
+    "lbl:latitude":24.548157,
+    "lbl:longitude":73.890902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.548157,
+    "mps:longitude":73.890902,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tenk"
@@ -104,6 +115,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03c1\u03bc\u03b1 \u03bc\u03ac\u03c7\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tank"
+    ],
+    "name:eng_x_variant":[
+        "T\u0101nk"
     ],
     "name:epo_x_preferred":[
         "Tanko"
@@ -324,7 +341,13 @@
     "name:yid_x_preferred":[
         "\u05d8\u05d0\u05e0\u05e7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -333,10 +356,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10809596
+        "gn:id":10809596,
+        "ks:id":"KS8289675C436D42D2A6B3316999E046FC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b34aff0a3d75b468fd18eb605894f168",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5035d0582fe0a3667c7123678d42dd42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -347,20 +374,22 @@
         }
     ],
     "wof:id":1327102643,
-    "wof:lastmodified":1566684919,
+    "wof:lastmodified":1682904011,
     "wof:name":"Tank",
     "wof:parent_id":1108695787,
     "wof:placetype":"locality",
+    "wof:population":1675,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.88991999999998,
-    24.55239,
-    73.88991999999998,
-    24.55239
+    73.890363,
+    24.547456,
+    73.891356,
+    24.548899
 ],
-  "geometry": {"coordinates":[73.88991999999998,24.55239],"type":"Point"}
+  "geometry": {"coordinates":[[[73.89055999999999,24.548899],[73.890562,24.548718],[73.890759,24.54872],[73.89076,24.54863],[73.890958,24.548631],[73.890958,24.548541],[73.891057,24.548542],[73.891058,24.548451],[73.891255,24.548453],[73.891256,24.548362],[73.891355,24.548363],[73.891356,24.548273],[73.891257,24.548272],[73.89126,24.547911],[73.891161,24.54791],[73.89116199999999,24.54782],[73.891064,24.547819],[73.891064,24.547729],[73.89096600000001,24.547728],[73.890967,24.547548],[73.890868,24.547547],[73.890869,24.547456],[73.890771,24.547456],[73.89077,24.547546],[73.890671,24.547545],[73.890669,24.547816],[73.89057,24.547815],[73.890567,24.548177],[73.890468,24.548176],[73.89046399999999,24.548627],[73.890365,24.548627],[73.89036299999999,24.548898],[73.89055999999999,24.548899]]],"type":"Polygon"}
 }

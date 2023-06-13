@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.53075,27.57899,78.53075,27.57899",
-    "geom:latitude":27.57899,
-    "geom:longitude":78.53075,
+    "geom:bbox":"78.529942,27.577476,78.531883,27.579554",
+    "geom:latitude":27.578533,
+    "geom:longitude":78.530817,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Arjunpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.51075,27.55899,78.55075,27.59899",
+    "ks:ks_id":"KS945E582AA2C14D3BB3ED22C7EE048493",
+    "ks:ks_name":"Arjunpur",
+    "ks:ks_pop":373,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|46206",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1801113",
+    "lbl:latitude":27.578505,
+    "lbl:longitude":78.530799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.578505,
+    "mps:longitude":78.530799,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062c\u064a\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0985\u09b0\u09cd\u099c\u09c1\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Arjunpur"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0a9c\u0ac1\u0aa8\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u062c\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10456261
+        "gn:id":10456261,
+        "ks:id":"KS945E582AA2C14D3BB3ED22C7EE048493"
     },
     "wof:country":"IN",
-    "wof:geomhash":"64122e507d0fb4d756eec2f537a13699",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e8915072c07f3cdd71dac37d109bfd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1309949229,
-    "wof:lastmodified":1577752504,
+    "wof:lastmodified":1686163866,
     "wof:name":"Arjunpur",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.53075,
-    27.57899,
-    78.53075,
-    27.57899
+    78.529942,
+    27.577476,
+    78.531883,
+    27.579554
 ],
-  "geometry": {"coordinates":[78.53075,27.57899],"type":"Point"}
+  "geometry": {"coordinates":[[[78.530841,27.579554],[78.530843,27.579464],[78.53114600000001,27.579469],[78.531148,27.579379],[78.531351,27.579383],[78.531353,27.579292],[78.531454,27.579294],[78.53146,27.579024],[78.531561,27.579025],[78.53156300000001,27.578935],[78.531665,27.578937],[78.53166899999999,27.578757],[78.53176999999999,27.578758],[78.531774,27.578578],[78.531875,27.57858],[78.53188299999999,27.578219],[78.53178200000001,27.578217],[78.531784,27.578127],[78.531683,27.578125],[78.531685,27.578035],[78.531584,27.578033],[78.531586,27.577943],[78.53148400000001,27.577941],[78.531486,27.577851],[78.531284,27.577848],[78.53128599999999,27.577757],[78.53118499999999,27.577756],[78.531187,27.577665],[78.530984,27.577662],[78.530986,27.577572],[78.530784,27.577568],[78.53078600000001,27.577478],[78.53068500000001,27.577476],[78.530683,27.577566],[78.530278,27.577559],[78.530276,27.577649],[78.530175,27.577647],[78.530173,27.577738],[78.53007100000001,27.577736],[78.530063,27.578096],[78.529962,27.578095],[78.52994200000001,27.578997],[78.53004300000001,27.578998],[78.530039,27.579179],[78.53014,27.579181],[78.530136,27.579361],[78.530237,27.579363],[78.530235,27.579453],[78.530438,27.579457],[78.53043599999999,27.579547],[78.530841,27.579554]]],"type":"Polygon"}
 }

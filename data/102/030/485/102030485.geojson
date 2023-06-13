@@ -11,12 +11,20 @@
     "geom:longitude":79.767126,
     "gn:population":158569,
     "iso:country":"IN",
-    "lbl:latitude":11.756931,
-    "lbl:longitude":79.763174,
+    "ks:ks_id":"KS4BDC14115D5B4EC9B86EFD2FEFF61D78",
+    "ks:ks_name":"Cuddalore",
+    "ks:ks_pop":158634,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3318000241806000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_350907",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":11.759853,
+    "lbl:longitude":79.766806,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":11.747868,
-    "mps:longitude":79.745218,
+    "mps:latitude":11.759853,
+    "mps:longitude":79.766806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -295,10 +303,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":4118,
     "wof:belongsto":[
         102191569,
@@ -311,13 +321,16 @@
         "fct:id":"122db4dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1273802,
         "gp:id":2295304,
+        "ks:id":"KS4BDC14115D5B4EC9B86EFD2FEFF61D78",
         "qs_pg:id":273917,
         "wd:id":"Q279951",
         "wk:page":"Cuddalore"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b4445a82619d314e97624217dbff3dba",
     "wof:hierarchy":[
@@ -333,11 +346,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780729,
+    "wof:lastmodified":1686162181,
     "wof:name":"Cuddalore",
     "wof:parent_id":890502623,
     "wof:placetype":"locality",
-    "wof:population":158569,
+    "wof:population":158634,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

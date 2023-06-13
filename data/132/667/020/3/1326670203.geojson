@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.99779,23.91677,77.99779,23.91677",
-    "geom:latitude":23.91677,
-    "geom:longitude":77.99779,
+    "geom:bbox":"77.995289,23.927761,77.996179,23.928762",
+    "geom:latitude":23.928287,
+    "geom:longitude":77.995709,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"443",
     "gn:asciiname":"Bareth",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.97779,23.89677,78.01779,23.93677",
+    "ks:ks_id":"KSC6AB8DDACED648699F5724AECB41289A",
+    "ks:ks_name":"Bareth",
+    "ks:ks_pop":65,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2331000403788400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_929745",
+    "lbl:latitude":23.928285,
+    "lbl:longitude":77.995717,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.928285,
+    "mps:longitude":77.995717,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bareth"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1276998
+        "gn:id":1276998,
+        "ks:id":"KSC6AB8DDACED648699F5724AECB41289A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e1899fb3261b5aec434dcfe9fcf5e351",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2feff9abe1183e0705abaff9c0e65e75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1326670203,
-    "wof:lastmodified":1566682497,
+    "wof:lastmodified":1682884786,
     "wof:name":"Bareth",
     "wof:parent_id":1108696231,
     "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.99779000000002,
-    23.91677,
-    77.99779000000002,
-    23.91677
+    77.995289,
+    23.927761,
+    77.996179,
+    23.928762
 ],
-  "geometry": {"coordinates":[77.99779000000002,23.91677],"type":"Point"}
+  "geometry": {"coordinates":[[[77.995892,23.928753],[77.99589,23.928663],[77.99598899999999,23.928661],[77.995986,23.92857],[77.99608499999999,23.928569],[77.99608000000001,23.928388],[77.996179,23.928386],[77.996172,23.928116],[77.99607399999999,23.928118],[77.99607,23.927937],[77.99597199999999,23.927939],[77.99597,23.927849],[77.99587200000001,23.927851],[77.99587,23.927761],[77.995575,23.927766],[77.995577,23.927857],[77.995479,23.927858],[77.995481,23.927949],[77.995383,23.927951],[77.99538699999999,23.928131],[77.995289,23.928133],[77.995302,23.928674],[77.9954,23.928672],[77.995402,23.928762],[77.995892,23.928753]]],"type":"Polygon"}
 }

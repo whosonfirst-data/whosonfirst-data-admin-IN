@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.89979,25.43791,82.89979,25.43791",
-    "geom:latitude":25.43791,
-    "geom:longitude":82.89979,
+    "geom:bbox":"82.897157,25.438941,82.898654,25.440309",
+    "geom:latitude":25.439656,
+    "geom:longitude":82.897947,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Nainpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.87979,25.41791,82.91979,25.45791",
+    "ks:ks_id":"KS3DBF27CB0A3E442DB8F0A5030871353D",
+    "ks:ks_name":"Nainpur",
+    "ks:ks_pop":15,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|751538",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1940133",
+    "lbl:latitude":25.439671,
+    "lbl:longitude":82.897947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.439671,
+    "mps:longitude":82.897947,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u09af\u09bc\u09a8\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u09a8\u09af\u09bc\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Nainpur"
+    ],
+    "name:eng_x_preferred":[
         "Nainpur"
     ],
     "name:hin_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5948\u6069\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547039
+        "gn:id":10547039,
+        "ks:id":"KS3DBF27CB0A3E442DB8F0A5030871353D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"447551f25c431215e69f9e9fee64cc94",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c347edf254e250ace3dd50d61cc0b5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343810137,
-    "wof:lastmodified":1566688694,
+    "wof:lastmodified":1682941174,
     "wof:name":"Nainpur",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.89979,
-    25.43791,
-    82.89979,
-    25.43791
+    82.897157,
+    25.438941,
+    82.898654,
+    25.440309
 ],
-  "geometry": {"coordinates":[82.89979,25.43791],"type":"Point"}
+  "geometry": {"coordinates":[[[82.898161,25.4403],[82.89816,25.440209],[82.89845800000001,25.440206],[82.89845699999999,25.440115],[82.898556,25.440114],[82.898555,25.440024],[82.89865399999999,25.440023],[82.898639,25.43903],[82.898539,25.439031],[82.898538,25.438941],[82.89814,25.438946],[82.89814200000001,25.439036],[82.897744,25.439041],[82.897745,25.439132],[82.897447,25.439135],[82.89744899999999,25.439226],[82.89734900000001,25.439227],[82.897351,25.439317],[82.897251,25.439318],[82.897257,25.43968],[82.89715700000001,25.439681],[82.897164,25.440132],[82.89726400000001,25.440131],[82.897265,25.440221],[82.897464,25.440218],[82.89746599999999,25.440309],[82.898161,25.4403]]],"type":"Polygon"}
 }

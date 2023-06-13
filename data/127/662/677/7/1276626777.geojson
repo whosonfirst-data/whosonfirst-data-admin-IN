@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.35066,19.8512,77.35066,19.8512",
-    "geom:latitude":19.8512,
-    "geom:longitude":77.35066,
+    "geom:bbox":"77.350006,19.850234,77.351445,19.852315",
+    "geom:latitude":19.851277,
+    "geom:longitude":77.350775,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"512",
     "gn:asciiname":"Khanapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.33066,19.8312,77.37066,19.8712",
+    "ks:ks_alt_nam":"Kh\u0101napur",
+    "ks:ks_id":"KS4389631F8E3A4066AFFBE7DE2CCB1B09",
+    "ks:ks_name":"Khanapur",
+    "ks:ks_pop":290,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2100502",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_562967",
+    "lbl:latitude":19.851233,
+    "lbl:longitude":77.350761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.851233,
+    "mps:longitude":77.350761,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09be\u09a8\u09be\u09aa\u09c1\u09b0"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Kh\u0101n\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Khanapur"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101napur"
     ],
     "name:ita_x_preferred":[
         "Khanapur"
@@ -81,7 +98,13 @@
     "name:zho_x_preferred":[
         "\u5361\u7eb3\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1267059
+        "gn:id":1267059,
+        "ks:id":"KS4389631F8E3A4066AFFBE7DE2CCB1B09"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d2b618ba6f097d703c716e4c4042d2e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f60d3526293eb9089a0dc3366c342ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1276626777,
-    "wof:lastmodified":1566694118,
+    "wof:lastmodified":1682780973,
     "wof:name":"Khanapur",
     "wof:parent_id":1108696299,
     "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.35065999999998,
-    19.8512,
-    77.35065999999998,
-    19.8512
+    77.350006,
+    19.850234,
+    77.351445,
+    19.852315
 ],
-  "geometry": {"coordinates":[77.35065999999998,19.8512],"type":"Point"}
+  "geometry": {"coordinates":[[[77.35117099999999,19.852311],[77.35117,19.852221],[77.351265,19.852219],[77.35126099999999,19.851948],[77.351356,19.851947],[77.35135,19.851496],[77.351445,19.851495],[77.351437,19.850953],[77.351342,19.850954],[77.351336,19.850593],[77.351241,19.850594],[77.351237,19.850323],[77.351142,19.850324],[77.35114,19.850234],[77.350759,19.850239],[77.35075999999999,19.85033],[77.35056899999999,19.850332],[77.35057,19.850422],[77.350475,19.850424],[77.350476,19.850514],[77.350381,19.850515],[77.350382,19.850605],[77.35028699999999,19.850607],[77.35028800000001,19.850697],[77.350193,19.850698],[77.350194,19.850789],[77.350099,19.85079],[77.350101,19.85097],[77.35000599999999,19.850972],[77.35001099999999,19.851333],[77.35010699999999,19.851332],[77.350112,19.851693],[77.350207,19.851691],[77.350211,19.851962],[77.350307,19.851961],[77.350308,19.852051],[77.350403,19.85205],[77.35040499999999,19.85214],[77.350596,19.852138],[77.35059699999999,19.852228],[77.350883,19.852224],[77.35088500000001,19.852315],[77.35117099999999,19.852311]]],"type":"Polygon"}
 }

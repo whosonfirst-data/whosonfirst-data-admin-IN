@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.72864,23.85751,76.72864,23.85751",
-    "geom:latitude":23.85751,
-    "geom:longitude":76.72864,
+    "geom:bbox":"76.727984,23.856322,76.729759,23.857865",
+    "geom:latitude":23.857153,
+    "geom:longitude":76.72891,
     "gn:admin1_code":"35",
     "gn:admin2_code":"442.0",
     "gn:asciiname":"Khanpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.70864,23.83751,76.74864,23.87751",
+    "ks:ks_id":"KS3EAB49005C144D11B083DB482E9AD526",
+    "ks:ks_name":"Khanpura",
+    "ks:ks_pop":476,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|546166",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_905665",
+    "lbl:latitude":23.857138,
+    "lbl:longitude":76.728927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.857138,
+    "mps:longitude":76.728927,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0646\u0628\u0648\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0996\u09be\u09a8\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Khanpura"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0abe\u0aa8\u0aaa\u0ac1\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u062e\u0627\u0646 \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10756826
+        "gn:id":10756826,
+        "ks:id":"KS3EAB49005C144D11B083DB482E9AD526"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ad80f5e32d0defac432fc0d3e1851707",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8a5c3958dfa4535381116a3ad60d4143",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1276164089,
-    "wof:lastmodified":1577750447,
+    "wof:lastmodified":1682762663,
     "wof:name":"Khanpura",
     "wof:parent_id":1108696229,
     "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.72864,
-    23.85751,
-    76.72864,
-    23.85751
+    76.727984,
+    23.856322,
+    76.729759,
+    23.857865
 ],
-  "geometry": {"coordinates":[76.72864,23.85751],"type":"Point"}
+  "geometry": {"coordinates":[[[76.72956600000001,23.857853],[76.72956499999999,23.857763],[76.729663,23.857762],[76.72966099999999,23.857581],[76.729759,23.85758],[76.729753,23.857129],[76.72965499999999,23.85713],[76.729648,23.856588],[76.72955,23.856589],[76.72954799999999,23.856499],[76.72945,23.8565],[76.729449,23.85641],[76.729253,23.856412],[76.729251,23.856322],[76.72895699999999,23.856325],[76.72895800000001,23.856415],[76.72866399999999,23.856419],[76.72866500000001,23.856509],[76.728469,23.856511],[76.72847,23.856601],[76.728273,23.856604],[76.728275,23.856694],[76.728176,23.856695],[76.728178,23.856785],[76.72807899999999,23.856786],[76.728082,23.856967],[76.72798400000001,23.856968],[76.72799000000001,23.85742],[76.728088,23.857418],[76.72808999999999,23.857599],[76.728188,23.857598],[76.72819,23.857688],[76.72828800000001,23.857687],[76.728289,23.857777],[76.72848500000001,23.857775],[76.728486,23.857865],[76.72956600000001,23.857853]]],"type":"Polygon"}
 }

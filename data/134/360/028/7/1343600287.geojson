@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.16817,21.28574,83.16817,21.28574",
-    "geom:latitude":21.28574,
-    "geom:longitude":83.16817,
+    "geom:bbox":"83.167376,21.285487,83.168723,21.286026",
+    "geom:latitude":21.285757,
+    "geom:longitude":83.16805,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Jamdalkha",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.14817,21.26574,83.18817,21.30574",
+    "ks:ks_id":"KS0B916EC17C75411B9F16E404AE1FB015",
+    "ks:ks_name":"Jamdalkha",
+    "ks:ks_pop":288,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|448840",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_997981",
+    "lbl:latitude":21.285757,
+    "lbl:longitude":83.168049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.285757,
+    "mps:longitude":83.168049,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Jamdalkha"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10748516
+        "gn:id":10748516,
+        "ks:id":"KS0B916EC17C75411B9F16E404AE1FB015"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d013e7eb0492b30976673ee96f09cd02",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c510d8bcf4d30aed5239415cde7b9713",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343600287,
-    "wof:lastmodified":1566687815,
+    "wof:lastmodified":1682932412,
     "wof:name":"Jamdalkha",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.16816999999998,
-    21.28574,
-    83.16816999999998,
-    21.28574
+    83.167376,
+    21.285487,
+    83.168723,
+    21.286026
 ],
-  "geometry": {"coordinates":[83.16816999999998,21.28574],"type":"Point"}
+  "geometry": {"coordinates":[[[83.168723,21.285487],[83.167376,21.285487],[83.167376,21.286026],[83.168723,21.286026],[83.168723,21.285487]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.17958,15.54908,78.17958,15.54908",
-    "geom:latitude":15.54908,
-    "geom:longitude":78.17958,
+    "geom:bbox":"78.178842,15.548319,78.180434,15.54968",
+    "geom:latitude":15.549024,
+    "geom:longitude":78.179638,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"552.0",
     "gn:asciiname":"Venkatapuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.15958,15.52908,78.19958,15.56908",
+    "ks:ks_id":"KS19D86D5943994ABCB7F5398C32574CD3",
+    "ks:ks_name":"Venkatapuram",
+    "ks:ks_pop":327,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1094888",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_477695",
+    "lbl:latitude":15.548997,
+    "lbl:longitude":78.179623,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":15.548997,
+    "mps:longitude":78.179623,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0643\u0627\u062a\u0628\u0648\u0631\u0627\u0645"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09c7\u0999\u09cd\u0995\u099f\u09aa\u09c2\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Venkatapuram"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a82\u0a95\u0a9f\u0aaa\u0ac1\u0ab0\u0aae"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06a9\u0679\u0627 \u067e\u0648\u0631\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11268830
+        "gn:id":11268830,
+        "ks:id":"KS19D86D5943994ABCB7F5398C32574CD3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a12b2b1a7547158817de230c1f27bd0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c2c20a13a13dcbb67904ce6cba9d9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1310414033,
-    "wof:lastmodified":1577751463,
+    "wof:lastmodified":1682865163,
     "wof:name":"Venkatapuram",
     "wof:parent_id":890503989,
     "wof:placetype":"locality",
+    "wof:population":327,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.17958,
-    15.54908,
-    78.17958,
-    15.54908
+    78.178842,
+    15.548319,
+    78.180434,
+    15.54968
 ],
-  "geometry": {"coordinates":[78.17958,15.54908],"type":"Point"}
+  "geometry": {"coordinates":[[[78.180048,15.54968],[78.18004999999999,15.54959],[78.180143,15.549591],[78.180144,15.549501],[78.18023700000001,15.549502],[78.180238,15.549412],[78.180331,15.549413],[78.180335,15.549142],[78.18042800000001,15.549143],[78.18043400000001,15.548692],[78.18024800000001,15.548689],[78.180249,15.548599],[78.180156,15.548598],[78.18015699999999,15.548508],[78.17997099999999,15.548505],[78.17997200000001,15.548415],[78.17978599999999,15.548413],[78.179787,15.548322],[78.179508,15.548319],[78.179507,15.548409],[78.179227,15.548405],[78.179226,15.548496],[78.17913299999999,15.548494],[78.179132,15.548585],[78.17903800000001,15.548584],[78.17903699999999,15.548674],[78.178944,15.548673],[78.178943,15.548763],[78.17885,15.548762],[78.178842,15.549304],[78.178935,15.549305],[78.178934,15.549395],[78.179027,15.549396],[78.17902599999999,15.549487],[78.17921200000001,15.549489],[78.179211,15.549579],[78.17939699999999,15.549582],[78.179396,15.549672],[78.180048,15.54968]]],"type":"Polygon"}
 }

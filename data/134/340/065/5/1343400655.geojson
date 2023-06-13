@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.15845,27.08847,79.15845,27.08847",
-    "geom:latitude":27.08847,
-    "geom:longitude":79.15845,
+    "geom:bbox":"79.157566,27.087671,79.159388,27.089024",
+    "geom:latitude":27.088278,
+    "geom:longitude":79.158536,
     "gn:admin1_code":"36",
     "gn:admin2_code":"148.0",
     "gn:asciiname":"Sumerpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.13845,27.06847,79.17845,27.10847",
+    "ks:ks_id":"KS00A519C142614FC992E721D78B67C2A3",
+    "ks:ks_name":"Sumerpur",
+    "ks:ks_pop":432,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12979166",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1745426",
+    "lbl:latitude":27.088338,
+    "lbl:longitude":79.15861,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.088338,
+    "mps:longitude":79.15861,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09ae\u09c7\u09b0\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u09b8\u09c1\u09ae\u09c7\u09b0\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Sumerpur"
+    ],
+    "name:eng_x_preferred":[
         "Sumerpur"
     ],
     "name:hif_x_preferred":[
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u6885\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10530402
+        "gn:id":10530402,
+        "ks:id":"KS00A519C142614FC992E721D78B67C2A3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"212bfd03bea923ac1bba1ce3d7e7abb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"172605bcdccb9eb0fd0fdbeaf62366f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1343400655,
-    "wof:lastmodified":1566687093,
+    "wof:lastmodified":1682924749,
     "wof:name":"Sumerpur",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":432,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.15845,
-    27.08847,
-    79.15845,
-    27.08847
+    79.157566,
+    27.087671,
+    79.159388,
+    27.089024
 ],
-  "geometry": {"coordinates":[79.15845,27.08847],"type":"Point"}
+  "geometry": {"coordinates":[[[79.15876299999999,27.089024],[79.15876400000001,27.088933],[79.15896600000001,27.088936],[79.158967,27.088846],[79.159068,27.088847],[79.159071,27.088667],[79.159172,27.088668],[79.159178,27.088307],[79.159279,27.088308],[79.159285,27.087947],[79.159385,27.087949],[79.15938800000001,27.087768],[79.159288,27.087767],[79.159289,27.087677],[79.158886,27.087671],[79.158884,27.087762],[79.15837999999999,27.087755],[79.158379,27.087845],[79.157572,27.087835],[79.157566,27.088196],[79.157667,27.088197],[79.15766600000001,27.088287],[79.157766,27.088288],[79.157765,27.088379],[79.157866,27.08838],[79.157864,27.08847],[79.157965,27.088472],[79.15796400000001,27.088562],[79.158064,27.088563],[79.158061,27.088744],[79.158162,27.088745],[79.15816100000001,27.088835],[79.15826199999999,27.088837],[79.15826,27.088927],[79.158462,27.088929],[79.15846000000001,27.08902],[79.15876299999999,27.089024]]],"type":"Polygon"}
 }

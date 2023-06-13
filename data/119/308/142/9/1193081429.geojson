@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.52181,23.15772,80.52181,23.15772",
-    "geom:latitude":23.15772,
-    "geom:longitude":80.52181,
+    "geom:bbox":"80.505472,23.152202,80.507621,23.153291",
+    "geom:latitude":23.152713,
+    "geom:longitude":80.506496,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Sandhi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.50181,23.13772,80.54181,23.17772",
+    "ks:ks_id":"KSE53F3ACD27A84FC6BC3E2150F5A318DF",
+    "ks:ks_name":"Sandhi",
+    "ks:ks_pop":575,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|948249",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_997573",
+    "lbl:latitude":23.152611,
+    "lbl:longitude":80.50641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.152611,
+    "mps:longitude":80.50641,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Sandhi"
@@ -58,6 +68,9 @@
         "Sandhi"
     ],
     "name:deu_x_preferred":[
+        "Sandhi"
+    ],
+    "name:eng_x_preferred":[
         "Sandhi"
     ],
     "name:ext_x_preferred":[
@@ -144,7 +157,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0433\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,10 +172,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10676603
+        "gn:id":10676603,
+        "ks:id":"KSE53F3ACD27A84FC6BC3E2150F5A318DF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c8117f6788b8dc736d9dcc6c92cb07cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1fb9d14af99cce4345a8004cfb5c9b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,20 +190,22 @@
         }
     ],
     "wof:id":1193081429,
-    "wof:lastmodified":1566697561,
+    "wof:lastmodified":1682587247,
     "wof:name":"Sandhi",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":575,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.52181,
-    23.15772,
-    80.52181,
-    23.15772
+    80.505472,
+    23.152202,
+    80.507621,
+    23.153291
 ],
-  "geometry": {"coordinates":[80.52181,23.15772],"type":"Point"}
+  "geometry": {"coordinates":[[[80.507229,23.153291],[80.507229,23.153201],[80.507327,23.153201],[80.507327,23.153111],[80.50752300000001,23.153111],[80.50752300000001,23.153021],[80.507621,23.153021],[80.507621,23.152841],[80.507524,23.15284],[80.507524,23.15266],[80.50742700000001,23.152659],[80.50742700000001,23.152569],[80.507329,23.152569],[80.50733,23.152478],[80.507232,23.152478],[80.507232,23.152388],[80.507037,23.152387],[80.507037,23.152297],[80.506744,23.152296],[80.506745,23.152206],[80.50566999999999,23.152202],[80.50566999999999,23.152293],[80.505572,23.152292],[80.505571,23.152563],[80.50547299999999,23.152563],[80.505472,23.152834],[80.50557000000001,23.152834],[80.50556899999999,23.153105],[80.505667,23.153106],[80.50566600000001,23.153196],[80.50586199999999,23.153197],[80.50586199999999,23.153106],[80.506058,23.153107],[80.506058,23.153016],[80.506449,23.153018],[80.50644800000001,23.153108],[80.50664399999999,23.153109],[80.506643,23.153199],[80.507034,23.1532],[80.507034,23.153291],[80.507229,23.153291]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.12614,12.08103,79.12614,12.08103",
-    "geom:latitude":12.08103,
-    "geom:longitude":79.12614,
+    "geom:bbox":"79.125226,12.079014,79.129538,12.083595",
+    "geom:latitude":12.081844,
+    "geom:longitude":79.127204,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"606.0",
     "gn:asciiname":"Kalleri",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.10614,12.06103,79.14614,12.10103",
+    "ks:ks_id":"KSD540061168D842B48D331678E7A850F0",
+    "ks:ks_name":"T Kalleri",
+    "ks:ks_pop":765,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1023922",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_215073",
+    "lbl:latitude":12.082113,
+    "lbl:longitude":79.127204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.082113,
+    "mps:longitude":79.127204,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Kalleri"
+    ],
+    "name:eng_x_preferred":[
+        "T Kalleri"
+    ],
+    "name:eng_x_variant":[
         "Kalleri"
     ],
     "name:msa_x_preferred":[
@@ -42,7 +58,13 @@
     "name:pol_x_preferred":[
         "Kalleri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11440962
+        "gn:id":11440962,
+        "ks:id":"KSD540061168D842B48D331678E7A850F0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7fb8576133fa330f50c3399e7d01399a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c69d457c38550b705947650d8410819",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1260047469,
-    "wof:lastmodified":1566699822,
-    "wof:name":"Kalleri",
+    "wof:lastmodified":1682749941,
+    "wof:name":"T Kalleri",
     "wof:parent_id":890509019,
     "wof:placetype":"locality",
+    "wof:population":765,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.12614,
-    12.08103,
-    79.12614,
-    12.08103
+    79.125226,
+    12.079014,
+    79.129538,
+    12.083595
 ],
-  "geometry": {"coordinates":[79.12614000000001,12.08103],"type":"Point"}
+  "geometry": {"coordinates":[[[79.12899899999999,12.083056],[79.12899899999999,12.082517],[79.129538,12.082517],[79.129538,12.081439],[79.12899899999999,12.081439],[79.12899899999999,12.08117],[79.12873,12.08117],[79.12873,12.0809],[79.12846,12.0809],[79.12846,12.080631],[79.128191,12.080631],[79.128191,12.08117],[79.127921,12.08117],[79.127921,12.0809],[79.127382,12.0809],[79.127382,12.08117],[79.12684299999999,12.08117],[79.12684299999999,12.0809],[79.12657400000001,12.0809],[79.12657400000001,12.080631],[79.126304,12.080631],[79.126304,12.079822],[79.126035,12.079822],[79.126035,12.079553],[79.125765,12.079553],[79.125765,12.079014],[79.125226,12.079014],[79.125226,12.079822],[79.125496,12.079822],[79.125496,12.0809],[79.125765,12.0809],[79.125765,12.08117],[79.125496,12.08117],[79.125496,12.081978],[79.125226,12.081978],[79.125226,12.083056],[79.127921,12.083056],[79.127921,12.083595],[79.12926899999999,12.083595],[79.12926899999999,12.083056],[79.12899899999999,12.083056]]],"type":"Polygon"}
 }

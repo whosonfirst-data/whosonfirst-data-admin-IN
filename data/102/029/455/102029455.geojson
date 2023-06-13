@@ -12,12 +12,19 @@
     "gn:latitude":15.65337,
     "gn:longitude":73.72272,
     "iso:country":"IN",
-    "lbl:latitude":15.668441,
-    "lbl:longitude":73.713497,
+    "ks:ks_id":"KSFD3BC33752D74EEC9389506E5A660C0D",
+    "ks:ks_name":"Mandrem",
+    "ks:ks_pop":8022,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3001000100002300",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_371481",
+    "lbl:latitude":15.651668,
+    "lbl:longitude":73.717308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":15.667338,
-    "mps:longitude":73.716667,
+    "mps:latitude":15.651668,
+    "mps:longitude":73.717308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -61,9 +68,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:latitude":15.658123,
     "wd:longitude":73.713062,
     "wd:wordcount":53,
@@ -77,13 +87,16 @@
     "wof:concordances":{
         "gn:id":1263840,
         "gp:id":2281907,
+        "ks:id":"KSFD3BC33752D74EEC9389506E5A660C0D",
         "qs_pg:id":482908,
         "wd:id":"Q6748193",
         "wk:page":"Mandrem"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"693c329868df460cbc98e8da9f194daa",
     "wof:hierarchy":[
@@ -96,10 +109,12 @@
         }
     ],
     "wof:id":102029455,
-    "wof:lastmodified":1658780756,
+    "wof:lastmodified":1682523926,
     "wof:name":"Mandrem",
     "wof:parent_id":890508373,
     "wof:placetype":"locality",
+    "wof:population":8022,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.43521,20.27044,79.43521,20.27044",
-    "geom:latitude":20.27044,
-    "geom:longitude":79.43521,
+    "geom:bbox":"79.436324,20.269753,79.437475,20.271114",
+    "geom:latitude":20.270413,
+    "geom:longitude":79.436923,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Karwa",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.41521,20.25044,79.45521,20.29044",
+    "ks:ks_alt_nam":"K\u0101rwa",
+    "ks:ks_id":"KS22D1C629BDCB4652A68C778192F90F4F",
+    "ks:ks_name":"Karwa",
+    "ks:ks_pop":396,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|518363",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870095",
+    "lbl:latitude":20.270421,
+    "lbl:longitude":79.436933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.270421,
+    "mps:longitude":79.436933,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Karwa"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101rwa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10519711
+        "gn:id":10519711,
+        "ks:id":"KS22D1C629BDCB4652A68C778192F90F4F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1636b41acbdda55fa1e297d9c292a924",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c7247e079e84b4b6ec57ec7ac5e1cea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1243049885,
-    "wof:lastmodified":1566707292,
+    "wof:lastmodified":1682702203,
     "wof:name":"Karwa",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":396,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.43521,
-    20.27044,
-    79.43521,
-    20.27044
+    79.436324,
+    20.269753,
+    79.437475,
+    20.271114
 ],
-  "geometry": {"coordinates":[79.43521,20.27044],"type":"Point"}
+  "geometry": {"coordinates":[[[79.437274,20.271114],[79.437274,20.271024],[79.43737,20.271025],[79.43737400000001,20.270663],[79.43747,20.270664],[79.43747500000001,20.270122],[79.43737900000001,20.270121],[79.43738,20.270031],[79.43728400000001,20.27003],[79.437285,20.26994],[79.437094,20.269938],[79.437095,20.269848],[79.436999,20.269847],[79.437,20.269757],[79.436617,20.269753],[79.436616,20.269844],[79.43652,20.269843],[79.43652,20.269933],[79.436424,20.269932],[79.43642199999999,20.270113],[79.43632599999999,20.270112],[79.436324,20.270383],[79.436419,20.270384],[79.43641599999999,20.270745],[79.436511,20.270746],[79.43651,20.270836],[79.436606,20.270837],[79.436605,20.270928],[79.436892,20.27093],[79.436892,20.27102],[79.436987,20.271021],[79.436986,20.271112],[79.437274,20.271114]]],"type":"Polygon"}
 }

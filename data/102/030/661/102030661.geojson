@@ -11,12 +11,21 @@
     "geom:longitude":75.791886,
     "gn:population":183001,
     "iso:country":"IN",
-    "lbl:latitude":21.043722,
-    "lbl:longitude":75.780717,
+    "ks:ks_alt_nam":"Bhus\u0101wal",
+    "ks:ks_id":"KSCC395D2E6F2D445C8765AD4AB20947BF",
+    "ks:ks_name":"Bhusawal",
+    "ks:ks_pop":172372,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2091735",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_856903",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":21.044072,
+    "lbl:longitude":75.790537,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":21.049769,
-    "mps:longitude":75.78536,
+    "mps:latitude":21.044072,
+    "mps:longitude":75.790537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -38,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Bhusawal"
+    ],
+    "name:eng_x_variant":[
+        "Bhus\u0101wal"
     ],
     "name:fra_x_preferred":[
         "Bhusawal"
@@ -227,10 +239,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1004,
     "wof:belongsto":[
         102191569,
@@ -242,13 +256,16 @@
     "wof:concordances":{
         "gn:id":1275778,
         "gp:id":2295145,
+        "ks:id":"KSCC395D2E6F2D445C8765AD4AB20947BF",
         "qs_pg:id":888570,
         "wd:id":"Q796650",
         "wk:page":"Bhusawal"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"93445b99a14e3d15ee26770cf376d9b0",
     "wof:hierarchy":[
@@ -261,11 +278,11 @@
         }
     ],
     "wof:id":102030661,
-    "wof:lastmodified":1658780734,
-    "wof:name":"Bhus\u0101wal",
+    "wof:lastmodified":1686162184,
+    "wof:name":"Bhusawal",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
-    "wof:population":183001,
+    "wof:population":172372,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

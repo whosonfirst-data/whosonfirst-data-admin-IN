@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.65467,12.73567,77.65467,12.73567",
-    "geom:latitude":12.73567,
-    "geom:longitude":77.65467,
+    "geom:bbox":"77.653786,12.732538,77.654864,12.733616",
+    "geom:latitude":12.733104,
+    "geom:longitude":77.654352,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"572.0",
     "gn:asciiname":"Aduru",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.63467,12.71567,77.67467,12.75567",
+    "ks:ks_id":"KS9B262BA87AE24D0B8C12984B4D27E5B2",
+    "ks:ks_name":"Adur",
+    "ks:ks_pop":636,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2920000302094200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_246192",
+    "lbl:latitude":12.733142,
+    "lbl:longitude":77.65438,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.733142,
+    "mps:longitude":77.65438,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Adur"
+    ],
+    "name:eng_x_variant":[
+        "Aduru"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11253281
+        "gn:id":11253281,
+        "ks:id":"KS9B262BA87AE24D0B8C12984B4D27E5B2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bf8c986b4716a12811dc365a23ed1950",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30276a3490532bbee97618c35d7f61c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259745333,
-    "wof:lastmodified":1566710275,
-    "wof:name":"Aduru",
+    "wof:lastmodified":1682738523,
+    "wof:name":"Adur",
     "wof:parent_id":890511315,
     "wof:placetype":"locality",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.65467,
-    12.73567,
-    77.65467,
-    12.73567
+    77.653786,
+    12.732538,
+    77.654864,
+    12.733616
 ],
-  "geometry": {"coordinates":[77.65467,12.73567],"type":"Point"}
+  "geometry": {"coordinates":[[[77.654864,12.733616],[77.654864,12.732538],[77.654055,12.732538],[77.654055,12.732808],[77.653786,12.732808],[77.653786,12.733616],[77.654864,12.733616]]],"type":"Polygon"}
 }

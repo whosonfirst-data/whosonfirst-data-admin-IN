@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.42539,12.95474,78.42539,12.95474",
-    "geom:latitude":12.95474,
-    "geom:longitude":78.42539,
+    "geom:bbox":"78.424813,12.953592,78.425735,12.95513",
+    "geom:latitude":12.954413,
+    "geom:longitude":78.425287,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Venkatapuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.40539,12.93474,78.44539,12.97474",
+    "ks:ks_id":"KS2F80941F16E3499D907F42B42B96F7D5",
+    "ks:ks_name":"Venkatapuram",
+    "ks:ks_pop":100,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1094839",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_305533",
+    "lbl:latitude":12.954423,
+    "lbl:longitude":78.425278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.954423,
+    "mps:longitude":78.425278,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0643\u0627\u062a\u0628\u0648\u0631\u0627\u0645"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09c7\u0999\u09cd\u0995\u099f\u09aa\u09c2\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Venkatapuram"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0a82\u0a95\u0a9f\u0aaa\u0ac1\u0ab0\u0aae"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06a9\u0679\u0627 \u067e\u0648\u0631\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11344554
+        "gn:id":11344554,
+        "ks:id":"KS2F80941F16E3499D907F42B42B96F7D5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8c8646483d6dc1e4fd7a04ad5c773412",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"89cd136399b29beb07b562241a8d6fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1225956685,
-    "wof:lastmodified":1577754071,
+    "wof:lastmodified":1682649331,
     "wof:name":"Venkatapuram",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.42539000000002,
-    12.95474,
-    78.42539000000002,
-    12.95474
+    78.424813,
+    12.953592,
+    78.425735,
+    12.95513
 ],
-  "geometry": {"coordinates":[78.42539000000002,12.95474],"type":"Point"}
+  "geometry": {"coordinates":[[[78.425545,12.954949],[78.42554699999999,12.954768],[78.425639,12.954769],[78.42564,12.954679],[78.425732,12.95468],[78.425735,12.954318],[78.42564299999999,12.954317],[78.42564900000001,12.953775],[78.425557,12.953774],[78.425558,12.953684],[78.425466,12.953683],[78.425467,12.953593],[78.42537400000001,12.953592],[78.42537400000001,12.953682],[78.425281,12.953681],[78.42528,12.953772],[78.425096,12.95377],[78.425095,12.95386],[78.425003,12.953859],[78.42500200000001,12.95395],[78.42491,12.953949],[78.424909,12.954039],[78.424817,12.954038],[78.424813,12.9544],[78.42490599999999,12.9544],[78.42489999999999,12.954942],[78.424992,12.954943],[78.42499100000001,12.955034],[78.425083,12.955035],[78.425082,12.955125],[78.425635,12.95513],[78.42563699999999,12.95495],[78.425545,12.954949]]],"type":"Polygon"}
 }

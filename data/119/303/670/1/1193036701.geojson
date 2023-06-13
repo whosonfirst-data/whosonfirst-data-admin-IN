@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.66894,23.05866,73.66894,23.05866",
-    "geom:latitude":23.05866,
-    "geom:longitude":73.66894,
+    "geom:bbox":"73.662065,23.057977,73.663724,23.059071",
+    "geom:latitude":23.058572,
+    "geom:longitude":73.662876,
     "gn:admin1_code":"9.0",
     "gn:admin2_code":"484.0",
     "gn:asciiname":"Chari",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.64894,23.03866,73.68894,23.07866",
+    "ks:ks_id":"KSBFE90F93444D497A8101835B06103616",
+    "ks:ks_name":"Chari",
+    "ks:ks_pop":514,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|207446",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_802328",
+    "lbl:latitude":23.058569,
+    "lbl:longitude":73.662876,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.058569,
+    "mps:longitude":73.662876,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u09b0\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Chari"
+    ],
+    "name:eng_x_preferred":[
         "Chari"
     ],
     "name:fin_x_preferred":[
@@ -48,7 +61,13 @@
     "name:urd_x_preferred":[
         "\u0686\u0627\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10919648
+        "gn:id":10919648,
+        "ks:id":"KSBFE90F93444D497A8101835B06103616"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58c8eab9755eef467e93f5b7119c0654",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7abf59f9497868ec67d2958078811806",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1193036701,
-    "wof:lastmodified":1636505611,
+    "wof:lastmodified":1682582368,
     "wof:name":"Chari",
     "wof:parent_id":890510671,
     "wof:placetype":"locality",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.66894,
-    23.05866,
-    73.66894,
-    23.05866
+    73.662065,
+    23.057977,
+    73.663724,
+    23.059071
 ],
-  "geometry": {"coordinates":[73.66894000000001,23.05866],"type":"Point"}
+  "geometry": {"coordinates":[[[73.663524,23.059071],[73.663524,23.058981],[73.66372,23.058983],[73.663724,23.058531],[73.66362599999999,23.05853],[73.66362700000001,23.05844],[73.663432,23.058439],[73.663433,23.058348],[73.663335,23.058347],[73.663336,23.058257],[73.663141,23.058255],[73.66314199999999,23.058165],[73.662752,23.058162],[73.662753,23.058071],[73.66255700000001,23.05807],[73.662558,23.05798],[73.662266,23.057977],[73.662265,23.058067],[73.662167,23.058067],[73.662165,23.058247],[73.662068,23.058246],[73.662065,23.058517],[73.66216300000001,23.058518],[73.662162,23.058608],[73.66225900000001,23.058609],[73.662257,23.05888],[73.66235399999999,23.058881],[73.662353,23.058971],[73.66293899999999,23.058976],[73.662938,23.059067],[73.663524,23.059071]]],"type":"Polygon"}
 }

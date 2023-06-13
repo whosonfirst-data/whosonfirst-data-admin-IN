@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.88347,26.30479,77.88347,26.30479",
-    "geom:latitude":26.30479,
-    "geom:longitude":77.88347,
+    "geom:bbox":"77.882077,26.304537,77.884085,26.305808",
+    "geom:latitude":26.305165,
+    "geom:longitude":77.883032,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"419.0",
     "gn:asciiname":"Chandpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.86347,26.28479,77.90347,26.32479",
+    "ks:ks_id":"KSBE92CF925B694BA0A0956254FF8C6919",
+    "ks:ks_name":"Chandpur",
+    "ks:ks_pop":976,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12852324",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1731535",
+    "lbl:latitude":26.305172,
+    "lbl:longitude":77.883013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.305172,
+    "mps:longitude":77.883013,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
@@ -38,6 +48,12 @@
     ],
     "name:deu_x_preferred":[
         "Chandpur"
+    ],
+    "name:eng_x_preferred":[
+        "Chandpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u0902\u0926\u092a\u0941\u0930"
     ],
     "name:ita_x_preferred":[
         "Chandpur"
@@ -54,7 +70,13 @@
     "name:swe_x_preferred":[
         "Chandpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10431084
+        "gn:id":10431084,
+        "ks:id":"KSBE92CF925B694BA0A0956254FF8C6919"
     },
     "wof:country":"IN",
-    "wof:geomhash":"77a4a4064a9fff1830fc5b6bb75dbae1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a639245fbfca1bfb1eae95c862995d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1343505813,
-    "wof:lastmodified":1566687429,
+    "wof:lastmodified":1686162304,
     "wof:name":"Chandpur",
     "wof:parent_id":1108696207,
     "wof:placetype":"locality",
+    "wof:population":976,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.88346999999997,
-    26.30479,
-    77.88346999999997,
-    26.30479
+    77.882077,
+    26.304537,
+    77.884085,
+    26.305808
 ],
-  "geometry": {"coordinates":[77.88346999999997,26.30479],"type":"Point"}
+  "geometry": {"coordinates":[[[77.883298,26.305798],[77.883296,26.305707],[77.88349599999999,26.305703],[77.883494,26.305613],[77.88369400000001,26.305609],[77.883691,26.305519],[77.883792,26.305517],[77.88378899999999,26.305427],[77.883889,26.305425],[77.883887,26.305335],[77.883987,26.305333],[77.883985,26.305242],[77.884085,26.30524],[77.884078,26.30497],[77.883978,26.304972],[77.883976,26.304882],[77.883776,26.304886],[77.883774,26.304796],[77.883574,26.3048],[77.883571,26.304709],[77.883371,26.304713],[77.883369,26.304623],[77.883169,26.304627],[77.883167,26.304537],[77.882566,26.304549],[77.882569,26.304639],[77.882468,26.304641],[77.882471,26.304732],[77.882271,26.304736],[77.882273,26.304826],[77.88217299999999,26.304828],[77.882177,26.305008],[77.882077,26.30501],[77.882086,26.305371],[77.882186,26.305369],[77.882188,26.305459],[77.882288,26.305457],[77.882291,26.305547],[77.882391,26.305545],[77.88239299999999,26.305635],[77.882593,26.305631],[77.88259499999999,26.305722],[77.882795,26.305718],[77.88279799999999,26.305808],[77.883298,26.305798]]],"type":"Polygon"}
 }

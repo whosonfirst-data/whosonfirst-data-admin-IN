@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.66875,25.83829,85.66875,25.83829",
-    "geom:latitude":25.83829,
-    "geom:longitude":85.66875,
+    "geom:bbox":"85.668555,25.83779,85.669633,25.838598",
+    "geom:latitude":25.83814,
+    "geom:longitude":85.669148,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Asari",
@@ -24,17 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.64875,25.81829,85.68875,25.85829",
+    "ks:ks_alt_nam":"As\u0101ri",
+    "ks:ks_id":"KS4C37D93CFC7B4899B82C69AEF8A9B5A3",
+    "ks:ks_name":"Asari",
+    "ks:ks_source_id":"N|13534460",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1376620",
+    "lbl:latitude":25.838071,
+    "lbl:longitude":85.669202,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.838071,
+    "mps:longitude":85.669202,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Asari"
     ],
     "name:deu_x_preferred":[
         "Asari"
+    ],
+    "name:eng_x_preferred":[
+        "Asari"
+    ],
+    "name:eng_x_variant":[
+        "As\u0101ri"
     ],
     "name:epo_x_preferred":[
         "Asari"
@@ -48,7 +63,11 @@
     "name:swe_x_preferred":[
         "Asari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11030633
+        "gn:id":11030633,
+        "ks:id":"KS4C37D93CFC7B4899B82C69AEF8A9B5A3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"09fa57598db217c51d363eaf0cf2456c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6234513540731bea02aa3308baf3fb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +94,7 @@
         }
     ],
     "wof:id":1260328215,
-    "wof:lastmodified":1566699855,
+    "wof:lastmodified":1682758771,
     "wof:name":"Asari",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
@@ -81,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.66875,
-    25.83829,
-    85.66875,
-    25.83829
+    85.668555,
+    25.83779,
+    85.669633,
+    25.838598
 ],
-  "geometry": {"coordinates":[85.66875,25.83829],"type":"Point"}
+  "geometry": {"coordinates":[[[85.669633,25.83779],[85.668555,25.83779],[85.668555,25.838329],[85.669094,25.838329],[85.669094,25.838598],[85.669633,25.838598],[85.669633,25.83779]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.91194,21.95255,78.91194,21.95255",
-    "geom:latitude":21.95255,
-    "geom:longitude":78.91194,
+    "geom:bbox":"78.911008,21.952008,78.912862,21.95309",
+    "geom:latitude":21.952546,
+    "geom:longitude":78.91178,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Gadarwara",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.89194,21.93255,78.93194,21.97255",
+    "ks:ks_id":"KS142111F6989D4C51A931191AFFCB7717",
+    "ks:ks_name":"Gadarwada",
+    "ks:ks_pop":659,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|333477",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_882884",
+    "lbl:latitude":21.95255,
+    "lbl:longitude":78.911766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.95255,
+    "mps:longitude":78.911766,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09a8\u09cd\u09a6\u09b0\u0993\u09af\u09bc\u09be\u09b0\u09be"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "G\u0101darw\u0101ra"
+    ],
+    "name:eng_x_preferred":[
+        "Gadarwada"
+    ],
+    "name:eng_x_variant":[
+        "Gadarwara"
     ],
     "name:ita_x_preferred":[
         "Gadarwara"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u52a0\u8fbe\u5c14\u74e6\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10214029
+        "gn:id":10214029,
+        "ks:id":"KS142111F6989D4C51A931191AFFCB7717"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4e6abb403f779eba19d03e5d4a512a0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae1a4002143636f25b759e0c2bf99cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1209961243,
-    "wof:lastmodified":1566694751,
-    "wof:name":"Gadarwara",
+    "wof:lastmodified":1682639415,
+    "wof:name":"Gadarwada",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":659,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.91194,
-    21.95255,
-    78.91194,
-    21.95255
+    78.911008,
+    21.952008,
+    78.912862,
+    21.95309
 ],
-  "geometry": {"coordinates":[78.91194,21.95255],"type":"Point"}
+  "geometry": {"coordinates":[[[78.91168500000001,21.95309],[78.911686,21.953],[78.911879,21.953003],[78.91188099999999,21.952912],[78.912074,21.952915],[78.912076,21.952825],[78.912172,21.952826],[78.91217399999999,21.952735],[78.912271,21.952737],[78.912274,21.952466],[78.91237099999999,21.952467],[78.912374,21.952286],[78.912471,21.952288],[78.91247199999999,21.952197],[78.912859,21.952202],[78.912862,21.952022],[78.912475,21.952017],[78.91247300000001,21.952107],[78.91198900000001,21.952101],[78.911991,21.952011],[78.91179700000001,21.952008],[78.911796,21.952099],[78.911602,21.952096],[78.911601,21.952186],[78.91150399999999,21.952185],[78.911503,21.952275],[78.911406,21.952274],[78.911405,21.952364],[78.91130800000001,21.952363],[78.91130699999999,21.952454],[78.91121,21.952452],[78.911209,21.952543],[78.911112,21.952541],[78.91110999999999,21.952632],[78.91101399999999,21.95263],[78.911008,21.952992],[78.91110500000001,21.952993],[78.91110399999999,21.953083],[78.91168500000001,21.95309]]],"type":"Polygon"}
 }

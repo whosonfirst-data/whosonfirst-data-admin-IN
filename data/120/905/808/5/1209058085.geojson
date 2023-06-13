@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.03533,22.11495,81.03533,22.11495",
-    "geom:latitude":22.11495,
+    "geom:bbox":"81.03533,22.114954,81.03533,22.114954",
+    "geom:latitude":22.114954,
     "geom:longitude":81.03533,
     "gn:admin1_code":"37",
     "gn:admin2_code":"407.0",
@@ -24,11 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.01533,22.09495,81.05533,22.13495",
+    "ks:ks_id":"KSDC695E9631D44797853FBAE1F8A4F29F",
+    "ks:ks_name":"Seoni",
+    "ks:ks_source_id":"N|13155937",
+    "ks:ks_type":"VILLAGE",
+    "lbl:latitude":22.114954,
+    "lbl:longitude":81.03533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.114954,
+    "mps:longitude":81.03533,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u064a"
@@ -39,10 +46,16 @@
     "name:ben_in_x_preferred":[
         "\u09b8\u09bf\u0993\u09a8\u09bf"
     ],
+    "name:eng_x_preferred":[
+        "Seoni"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a93\u0aa8\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u093f\u0935\u0928\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u093f\u092f\u094b\u0928\u0940"
     ],
     "name:kan_x_preferred":[
@@ -66,26 +79,40 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0648\u0646\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"karmashapes",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672231,
+        1108696181
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10721318
+        "gn:id":10721318,
+        "ks:id":"KSDC695E9631D44797853FBAE1F8A4F29F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"27b76e08eac4a08a282b4dbffe336797",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d041352b5ca6b622132eb54951ee0e3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209058085
+            "county_id":1108696181,
+            "locality_id":1209058085,
+            "region_id":85672231
         }
     ],
     "wof:id":1209058085,
-    "wof:lastmodified":1577750966,
+    "wof:lastmodified":1686162822,
     "wof:name":"Seoni",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -94,9 +121,9 @@
 },
   "bbox": [
     81.03533,
-    22.11495,
+    22.114954,
     81.03533,
-    22.11495
+    22.114954
 ],
-  "geometry": {"coordinates":[81.03533,22.11495],"type":"Point"}
+  "geometry": {"coordinates":[81.03533,22.114954],"type":"Point"}
 }

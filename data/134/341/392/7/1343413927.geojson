@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.38547,26.16393,82.38547,26.16393",
-    "geom:latitude":26.16393,
-    "geom:longitude":82.38547,
+    "geom:bbox":"82.386571,26.166121,82.388375,26.167392",
+    "geom:latitude":26.166731,
+    "geom:longitude":82.387416,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Chandauli",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.36547,26.14393,82.40547,26.18393",
+    "ks:ks_alt_nam":"CHANDAULI",
+    "ks:ks_id":"KSFF26EF65CA7F47FAA73BFF7060B0E623",
+    "ks:ks_name":"Chandauli",
+    "ks:ks_pop":589,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|201700",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1932700",
+    "lbl:latitude":26.16671,
+    "lbl:longitude":82.387398,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.16671,
+    "mps:longitude":82.387398,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0646\u062f\u0648\u0644\u0649"
@@ -46,6 +57,9 @@
         "Chandauli"
     ],
     "name:deu_x_preferred":[
+        "Chandauli"
+    ],
+    "name:eng_x_preferred":[
         "Chandauli"
     ],
     "name:fra_x_preferred":[
@@ -123,7 +137,13 @@
     "name:zho_x_preferred":[
         "\u94b1\u9053\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10618012
+        "gn:id":10618012,
+        "ks:id":"KSFF26EF65CA7F47FAA73BFF7060B0E623"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dae05e8854093dfb85286ba153178fcf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95a3c9a60bc4b4d71d9d7b57c9c3a339",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +170,22 @@
         }
     ],
     "wof:id":1343413927,
-    "wof:lastmodified":1577749765,
+    "wof:lastmodified":1686162265,
     "wof:name":"Chandauli",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":589,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.38547,
-    26.16393,
-    82.38547,
-    26.16393
+    82.386571,
+    26.166121,
+    82.388375,
+    26.167392
 ],
-  "geometry": {"coordinates":[82.38547,26.16393],"type":"Point"}
+  "geometry": {"coordinates":[[[82.387381,26.167387],[82.38737999999999,26.167297],[82.38758,26.167295],[82.387579,26.167204],[82.38767900000001,26.167203],[82.38767799999999,26.167113],[82.387878,26.167111],[82.387877,26.167021],[82.388077,26.167019],[82.388076,26.166929],[82.388176,26.166928],[82.388175,26.166838],[82.388375,26.166836],[82.38837100000001,26.166475],[82.388271,26.166476],[82.38827000000001,26.166385],[82.38817,26.166386],[82.388169,26.166296],[82.387969,26.166298],[82.387968,26.166208],[82.387567,26.166211],[82.38756600000001,26.166121],[82.387266,26.166124],[82.38726699999999,26.166214],[82.386967,26.166217],[82.386968,26.166307],[82.386768,26.166309],[82.386769,26.1664],[82.386669,26.166401],[82.38667100000001,26.166581],[82.386571,26.166582],[82.38657499999999,26.166853],[82.386675,26.166852],[82.386678,26.167123],[82.38677800000001,26.167122],[82.38678,26.167302],[82.38688,26.167301],[82.386881,26.167392],[82.387381,26.167387]]],"type":"Polygon"}
 }

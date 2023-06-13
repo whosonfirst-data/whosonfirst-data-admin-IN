@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.08496,27.69602,77.08496,27.69602",
-    "geom:latitude":27.69602,
-    "geom:longitude":77.08496,
+    "geom:bbox":"77.083266,27.694877,77.0865,27.697033",
+    "geom:latitude":27.695796,
+    "geom:longitude":77.084889,
     "gn:admin1_code":"24",
     "gn:admin2_code":"105.0",
     "gn:asciiname":"Borani",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.06496,27.67602,77.10496,27.71602",
+    "ks:ks_id":"KS7A10FC53A37C429588EA8C519B399F64",
+    "ks:ks_name":"Burani",
+    "ks:ks_pop":795,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|185851",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_889717",
+    "lbl:latitude":27.695997,
+    "lbl:longitude":77.084919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.695997,
+    "mps:longitude":77.084919,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Borani"
     ],
     "name:deu_x_preferred":[
+        "Borani"
+    ],
+    "name:eng_x_preferred":[
+        "Burani"
+    ],
+    "name:eng_x_variant":[
         "Borani"
     ],
     "name:fas_x_preferred":[
@@ -48,7 +64,13 @@
     "name:tur_x_preferred":[
         "Boran\u0131"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10437793
+        "gn:id":10437793,
+        "ks:id":"KS7A10FC53A37C429588EA8C519B399F64"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0c4e3373b8d3f98ce5e93ce2461cd883",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b1c120a16f4aa2139bfafdacf96544da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1343719707,
-    "wof:lastmodified":1566686954,
-    "wof:name":"Borani",
+    "wof:lastmodified":1682938899,
+    "wof:name":"Burani",
     "wof:parent_id":890505293,
     "wof:placetype":"locality",
+    "wof:population":795,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.08496,
-    27.69602,
-    77.08496,
-    27.69602
+    77.083266,
+    27.694877,
+    77.0865,
+    27.697033
 ],
-  "geometry": {"coordinates":[77.08496,27.69602],"type":"Point"}
+  "geometry": {"coordinates":[[[77.08542199999999,27.697033],[77.08542199999999,27.696763],[77.085691,27.696763],[77.085691,27.696494],[77.085961,27.696494],[77.085961,27.695955],[77.08623,27.695955],[77.08623,27.695416],[77.0865,27.695416],[77.0865,27.694877],[77.08515199999999,27.694877],[77.08515199999999,27.695146],[77.084613,27.695146],[77.084613,27.694877],[77.08326599999999,27.694877],[77.08326599999999,27.695416],[77.083805,27.695416],[77.083805,27.695955],[77.083535,27.695955],[77.083535,27.696494],[77.084074,27.696494],[77.084074,27.696763],[77.084613,27.696763],[77.084613,27.697033],[77.08542199999999,27.697033]]],"type":"Polygon"}
 }

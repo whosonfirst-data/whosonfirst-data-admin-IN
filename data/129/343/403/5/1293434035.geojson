@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.84199,25.21236,82.84199,25.21236",
-    "geom:latitude":25.21236,
-    "geom:longitude":82.84199,
+    "geom:bbox":"82.842146,25.214411,82.843149,25.215313",
+    "geom:latitude":25.21485,
+    "geom:longitude":82.842653,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Milkipur",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.82199,25.19236,82.86199,25.23236",
+    "ks:ks_id":"KSD24C956A00584EFD9D9C658811A1D54A",
+    "ks:ks_name":"Milkipur",
+    "ks:ks_pop":835,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0967000210245600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1908899",
+    "lbl:latitude":25.214863,
+    "lbl:longitude":82.842644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.214863,
+    "mps:longitude":82.842644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milk\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Milkipur"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0932\u094d\u0915\u0940\u092a\u0941\u0930"
@@ -45,7 +58,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0644\u06a9\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547970
+        "gn:id":10547970,
+        "ks:id":"KSD24C956A00584EFD9D9C658811A1D54A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0a94638b3f5d753e15a9a78bd03b9b75",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ce646ae45878d92611b018bc470fe1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1293434035,
-    "wof:lastmodified":1566691816,
+    "wof:lastmodified":1682817641,
     "wof:name":"Milkipur",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":835,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.84199,
-    25.21236,
-    82.84199,
-    25.21236
+    82.842146,
+    25.214411,
+    82.843149,
+    25.215313
 ],
-  "geometry": {"coordinates":[82.84199,25.21236],"type":"Point"}
+  "geometry": {"coordinates":[[[82.842952,25.21531],[82.84295,25.21522],[82.843149,25.215218],[82.843143,25.214857],[82.84304400000001,25.214858],[82.84304299999999,25.214767],[82.84294300000001,25.214769],[82.84294199999999,25.214678],[82.842843,25.21468],[82.842842,25.214589],[82.842742,25.214591],[82.842741,25.2145],[82.842642,25.214502],[82.84264,25.214411],[82.84224399999999,25.214416],[82.84224500000001,25.214507],[82.842146,25.214508],[82.84215,25.214779],[82.842249,25.214777],[82.84225000000001,25.214868],[82.84235,25.214866],[82.84235200000001,25.215047],[82.842451,25.215046],[82.84245300000001,25.215136],[82.842552,25.215135],[82.842553,25.215225],[82.842752,25.215223],[82.842753,25.215313],[82.842952,25.21531]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.80286,20.31386,80.80286,20.31386",
-    "geom:latitude":20.31386,
-    "geom:longitude":80.80286,
+    "geom:bbox":"80.802357,20.312853,80.804465,20.314751",
+    "geom:latitude":20.313804,
+    "geom:longitude":80.803266,
     "gn:admin1_code":"37",
     "gn:admin2_code":"408.0",
     "gn:asciiname":"Markeli",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.78286,20.29386,80.82286,20.33386",
+    "ks:ks_id":"KS37AB1F180B014D9F84013DA4B0DB041F",
+    "ks:ks_name":"Markeli",
+    "ks:ks_pop":728,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|681509",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_943228",
+    "lbl:latitude":20.313802,
+    "lbl:longitude":80.803266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.313802,
+    "mps:longitude":80.803266,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0435\u043b\u0438"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039c\u03b1\u03c1\u03ba\u03b5\u03bb\u03bb\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Markeli"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0432\u0440\u0434\u0438\u043d\u0430 \u041c\u0430\u0440\u043a\u0435\u043b\u0438"
@@ -48,7 +61,13 @@
     "name:tur_x_preferred":[
         "Markellai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10720591
+        "gn:id":10720591,
+        "ks:id":"KS37AB1F180B014D9F84013DA4B0DB041F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ae07cfe5198a82daa7d3b065e34e1c30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2642f70cfeca491930bf62a81bf41fec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1226294429,
-    "wof:lastmodified":1566711556,
+    "wof:lastmodified":1682662390,
     "wof:name":"Markeli",
     "wof:parent_id":1108696183,
     "wof:placetype":"locality",
+    "wof:population":728,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.80286,
-    20.31386,
-    80.80286,
-    20.31386
+    80.802357,
+    20.312853,
+    80.804465,
+    20.314751
 ],
-  "geometry": {"coordinates":[80.80286,20.31386],"type":"Point"}
+  "geometry": {"coordinates":[[[80.803315,20.314751],[80.803315,20.314661],[80.803506,20.314661],[80.803506,20.31457],[80.803698,20.314571],[80.803698,20.31448],[80.80389,20.31448],[80.80389,20.31439],[80.804081,20.31439],[80.80408199999999,20.3143],[80.80446499999999,20.3143],[80.80446499999999,20.31421],[80.80436899999999,20.31421],[80.80436899999999,20.31412],[80.80427299999999,20.314119],[80.80427400000001,20.313848],[80.80417799999999,20.313848],[80.80417799999999,20.313758],[80.80408199999999,20.313758],[80.80408300000001,20.313125],[80.80398700000001,20.313125],[80.80398700000001,20.312944],[80.803892,20.312944],[80.803892,20.312854],[80.80303000000001,20.312853],[80.80303000000001,20.312943],[80.80283799999999,20.312943],[80.80283799999999,20.313033],[80.802646,20.313033],[80.802646,20.313124],[80.80255,20.313124],[80.80255,20.313214],[80.802454,20.313214],[80.802454,20.313304],[80.802359,20.313304],[80.802358,20.313575],[80.802454,20.313575],[80.802454,20.313666],[80.802358,20.313665],[80.802357,20.314479],[80.802453,20.314479],[80.802453,20.314569],[80.802549,20.314569],[80.802548,20.31466],[80.802644,20.31466],[80.802644,20.31475],[80.803315,20.314751]]],"type":"Polygon"}
 }

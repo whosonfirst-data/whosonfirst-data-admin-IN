@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.09996,24.67108,83.09996,24.67108",
-    "geom:latitude":24.67108,
-    "geom:longitude":83.09996,
+    "geom:bbox":"83.098644,24.66999,83.102221,24.671974",
+    "geom:latitude":24.671013,
+    "geom:longitude":83.100048,
     "gn:admin1_code":"36",
     "gn:admin2_code":"200.0",
     "gn:asciiname":"Pali",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.07996,24.65108,83.11996,24.69108",
+    "ks:ks_alt_nam":"P\u0101li",
+    "ks:ks_id":"KS991A8F72D8734834A0229125A52A5929",
+    "ks:ks_name":"Pali",
+    "ks:ks_pop":356,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|810640",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1031570",
+    "lbl:latitude":24.671108,
+    "lbl:longitude":83.099777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.671108,
+    "mps:longitude":83.099777,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pali"
@@ -80,6 +91,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pali"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101li"
     ],
     "name:epo_x_preferred":[
         "Palia lingvo"
@@ -300,7 +317,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5229\u8bed"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -309,10 +332,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10515294
+        "gn:id":10515294,
+        "ks:id":"KS991A8F72D8734834A0229125A52A5929"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ed5ec1b2a5eea3d986b3f0e376e20e3e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e0419ccbaa6258c4eaf79338443c0ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,20 +350,22 @@
         }
     ],
     "wof:id":1193080153,
-    "wof:lastmodified":1636505599,
+    "wof:lastmodified":1686163519,
     "wof:name":"Pali",
     "wof:parent_id":1108695887,
     "wof:placetype":"locality",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.09996,
-    24.67108,
-    83.09996,
-    24.67108
+    83.098644,
+    24.66999,
+    83.102221,
+    24.671974
 ],
-  "geometry": {"coordinates":[83.09996,24.67108],"type":"Point"}
+  "geometry": {"coordinates":[[[83.099863,24.671965],[83.099861,24.671875],[83.100157,24.67187],[83.100156,24.67178],[83.100452,24.671776],[83.10045100000001,24.671686],[83.100747,24.671682],[83.100745,24.671591],[83.101141,24.671586],[83.101139,24.671496],[83.101337,24.671493],[83.10133500000001,24.671403],[83.101434,24.671401],[83.101432,24.671311],[83.10172900000001,24.671307],[83.101727,24.671216],[83.102221,24.67121],[83.10221799999999,24.671029],[83.102119,24.67103],[83.102118,24.67094],[83.101525,24.670948],[83.101523,24.670858],[83.101326,24.670861],[83.10132299999999,24.67068],[83.101224,24.670682],[83.101223,24.670592],[83.101124,24.670593],[83.101122,24.670503],[83.101024,24.670504],[83.101022,24.670414],[83.10092299999999,24.670415],[83.100922,24.670325],[83.099934,24.670339],[83.09993299999999,24.670249],[83.09924100000001,24.670258],[83.09923999999999,24.670168],[83.099141,24.670169],[83.09913899999999,24.670079],[83.099041,24.67008],[83.099039,24.66999],[83.09864399999999,24.669996],[83.098659,24.670898],[83.098758,24.670897],[83.098761,24.671077],[83.09886,24.671076],[83.09886400000001,24.671347],[83.098963,24.671345],[83.098968,24.671616],[83.09906599999999,24.671615],[83.099071,24.671886],[83.09917,24.671884],[83.099171,24.671974],[83.099863,24.671965]]],"type":"Polygon"}
 }

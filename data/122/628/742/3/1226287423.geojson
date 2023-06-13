@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.15188,25.35331,85.15188,25.35331",
-    "geom:latitude":25.35331,
-    "geom:longitude":85.15188,
+    "geom:bbox":"85.150317,25.352466,85.153215,25.354171",
+    "geom:latitude":25.353344,
+    "geom:longitude":85.15178,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Makhdumpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.13188,25.33331,85.17188,25.37331",
+    "ks:ks_id":"KSA79BCED3BDB74BE6ABD2F8FE009868FE",
+    "ks:ks_name":"Makhdumpur",
+    "ks:ks_pop":461,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|656347",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2069166",
+    "lbl:latitude":25.353316,
+    "lbl:longitude":85.151752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.353316,
+    "mps:longitude":85.151752,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0996\u09a6\u09c1\u09ae\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u0996\u09a6\u09c1\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Makhdumpur"
     ],
     "name:ita_x_preferred":[
         "Makhdumpur"
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u9a6c\u514b\u675c\u59c6\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11012099
+        "gn:id":11012099,
+        "ks:id":"KSA79BCED3BDB74BE6ABD2F8FE009868FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f9d6a6950f11c36f62409642f93b73c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97b3382c6b3fbea81f1ad041747ed0e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1226287423,
-    "wof:lastmodified":1566711128,
+    "wof:lastmodified":1682662153,
     "wof:name":"Makhdumpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":461,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.15188,
-    25.35331,
-    85.15188,
-    25.35331
+    85.150317,
+    25.352466,
+    85.153215,
+    25.354171
 ],
-  "geometry": {"coordinates":[85.15188000000001,25.35331],"type":"Point"}
+  "geometry": {"coordinates":[[[85.15091200000001,25.354171],[85.150913,25.35408],[85.15141,25.354087],[85.151411,25.353996],[85.152007,25.354004],[85.152008,25.353913],[85.152207,25.353916],[85.152208,25.353826],[85.152407,25.353828],[85.152406,25.353918],[85.152704,25.353922],[85.15270200000001,25.354012],[85.15280199999999,25.354014],[85.152804,25.353833],[85.15290400000001,25.353834],[85.152906,25.353654],[85.153006,25.353655],[85.153007,25.353565],[85.15310599999999,25.353566],[85.153109,25.353386],[85.153209,25.353387],[85.153215,25.352936],[85.153116,25.352934],[85.15311699999999,25.352844],[85.152919,25.352842],[85.15291999999999,25.352751],[85.152722,25.352749],[85.15272299999999,25.352659],[85.152624,25.352657],[85.152625,25.352567],[85.15242600000001,25.352565],[85.152428,25.352474],[85.151732,25.352466],[85.151731,25.352556],[85.151532,25.352553],[85.15153100000001,25.352644],[85.151332,25.352641],[85.151331,25.352731],[85.151132,25.352729],[85.151129,25.352909],[85.150931,25.352907],[85.15092799999999,25.353087],[85.150729,25.353085],[85.150728,25.353175],[85.150629,25.353174],[85.150627,25.353264],[85.15052799999999,25.353263],[85.150527,25.353353],[85.150328,25.353351],[85.150317,25.354073],[85.150615,25.354077],[85.150614,25.354167],[85.15091200000001,25.354171]]],"type":"Polygon"}
 }

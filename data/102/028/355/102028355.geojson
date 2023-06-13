@@ -12,16 +12,27 @@
     "gn:latitude":17.40277,
     "gn:longitude":74.10096,
     "iso:country":"IN",
-    "lbl:latitude":17.40087,
-    "lbl:longitude":74.101265,
+    "ks:ks_id":"KSCB965C2821BE4E28B68CEAA87544AC8C",
+    "ks:ks_name":"Umbraj",
+    "ks:ks_pop":15574,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1072961",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"WSFEVO_379525",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":17.401666,
+    "lbl:longitude":74.10024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":17.387337,
-    "mps:longitude":74.108276,
+    "mps:latitude":17.401666,
+    "mps:longitude":74.10024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Umbraj"
+    ],
     "qs:a0":"India",
     "qs:a1":"*Maharashtra",
     "qs:a1r":"*",
@@ -40,9 +51,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -53,11 +67,14 @@
     "wof:concordances":{
         "gn:id":1253844,
         "gp:id":2292848,
+        "ks:id":"KSCB965C2821BE4E28B68CEAA87544AC8C",
         "qs_pg:id":1220424
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"9eacb1b7f7dd4b39a0e2f1aa7fe29ddf",
     "wof:hierarchy":[
@@ -70,10 +87,12 @@
         }
     ],
     "wof:id":102028355,
-    "wof:lastmodified":1658780774,
+    "wof:lastmodified":1682523183,
     "wof:name":"Umbraj",
     "wof:parent_id":890502257,
     "wof:placetype":"locality",
+    "wof:population":15574,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -12,18 +12,29 @@
     "gn:latitude":10.9989,
     "gn:longitude":76.0068,
     "iso:country":"IN",
-    "lbl:latitude":11.001187,
-    "lbl:longitude":76.006483,
+    "ks:ks_alt_nam":"K\u014dttakkal",
+    "ks:ks_id":"KSA51DE3B14B7E41D48242C1AA26FDEE63",
+    "ks:ks_name":"Kottakkal",
+    "ks:ks_pop":39554,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2101632",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_163021",
+    "lbl:latitude":11.001709,
+    "lbl:longitude":75.989633,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":10.994718,
-    "mps:longitude":75.994288,
+    "mps:latitude":11.001709,
+    "mps:longitude":75.989633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kottakkal"
+    ],
+    "name:eng_x_variant":[
+        "K\u014dttakkal"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d15\u0d4d\u0d15\u0d7d"
@@ -55,9 +66,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1257,
     "wof:belongsto":[
         102191569,
@@ -69,13 +83,16 @@
     "wof:concordances":{
         "gn:id":1265932,
         "gp:id":2294474,
+        "ks:id":"KSA51DE3B14B7E41D48242C1AA26FDEE63",
         "qs_pg:id":316587,
         "wd:id":"Q6434267",
         "wk:page":"Kottakkal"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b9c7b4435ba90496804a00ceda07eff1",
     "wof:hierarchy":[
@@ -88,10 +105,12 @@
         }
     ],
     "wof:id":102029655,
-    "wof:lastmodified":1658780766,
+    "wof:lastmodified":1682524066,
     "wof:name":"Kottakkal",
     "wof:parent_id":890502819,
     "wof:placetype":"locality",
+    "wof:population":39554,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

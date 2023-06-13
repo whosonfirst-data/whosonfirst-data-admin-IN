@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.09531,24.58022,84.09531,24.58022",
-    "geom:latitude":24.58022,
-    "geom:longitude":84.09531,
+    "geom:bbox":"84.09452,24.579312,84.096598,24.580955",
+    "geom:latitude":24.580057,
+    "geom:longitude":84.095568,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Lakhanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.07531,24.56022,84.11531,24.60022",
+    "ks:ks_id":"KS5AB16C94588C4F18B024DE186431960D",
+    "ks:ks_name":"Lakhanpur",
+    "ks:ks_pop":572,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13284199",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1149039",
+    "lbl:latitude":24.580079,
+    "lbl:longitude":84.095548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.580079,
+    "mps:longitude":84.095548,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0647\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b2\u09be\u0996\u09be\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Lakhanpur"
     ],
     "name:fra_x_preferred":[
         "Lakhanpur"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0644\u06a9\u06be\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835032
+        "gn:id":10835032,
+        "ks:id":"KS5AB16C94588C4F18B024DE186431960D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"367d5178ba3d8b3fc890189a168d920f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3707f17cf1b445384727313edc60b933",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1259637059,
-    "wof:lastmodified":1577753654,
+    "wof:lastmodified":1682734194,
     "wof:name":"Lakhanpur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.09531,
-    24.58022,
-    84.09531,
-    24.58022
+    84.09452,
+    24.579312,
+    84.096598,
+    24.580955
 ],
-  "geometry": {"coordinates":[84.09531,24.58022],"type":"Point"}
+  "geometry": {"coordinates":[[[84.09577899999999,24.580955],[84.095781,24.580865],[84.095979,24.580869],[84.09598099999999,24.580778],[84.09617799999999,24.580782],[84.09618,24.580692],[84.096279,24.580694],[84.096281,24.580604],[84.096379,24.580606],[84.096384,24.580425],[84.09648199999999,24.580427],[84.096484,24.580337],[84.096583,24.580339],[84.096598,24.579707],[84.09649899999999,24.579706],[84.096501,24.579615],[84.096402,24.579613],[84.09640400000001,24.579523],[84.096306,24.579521],[84.09630799999999,24.579431],[84.096209,24.579429],[84.096211,24.579339],[84.09483,24.579312],[84.09482800000001,24.579403],[84.09463100000001,24.579399],[84.094629,24.579489],[84.09453000000001,24.579487],[84.09452,24.579938],[84.09461899999999,24.57994],[84.09461400000001,24.58012],[84.094713,24.580122],[84.094707,24.580393],[84.09480499999999,24.580395],[84.094801,24.580575],[84.0949,24.580577],[84.094898,24.580667],[84.09499599999999,24.580669],[84.094994,24.580759],[84.09509300000001,24.580761],[84.095091,24.580851],[84.095387,24.580857],[84.09538499999999,24.580947],[84.09577899999999,24.580955]]],"type":"Polygon"}
 }

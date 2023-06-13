@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.27047,21.22729,78.27047,21.22729",
-    "geom:latitude":21.22729,
-    "geom:longitude":78.27047,
+    "geom:bbox":"78.26985,21.226199,78.270928,21.227546",
+    "geom:latitude":21.226935,
+    "geom:longitude":78.27042,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Mubarakpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.25047,21.20729,78.29047,21.24729",
+    "ks:ks_alt_nam":"Mub\u0101rakpur",
+    "ks:ks_id":"KSD56954E2E99C411AB7AD3FB008251455",
+    "ks:ks_name":"Mubarakpur",
+    "ks:ks_pop":135,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|719301",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_678536",
+    "lbl:latitude":21.226861,
+    "lbl:longitude":78.270518,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.226861,
+    "mps:longitude":78.270518,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0631\u0643 \u0628\u0648\u0631"
@@ -49,6 +60,12 @@
         "\u09ae\u09c1\u09ac\u09be\u09b0\u0995\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Mub\u0101rakpur"
+    ],
+    "name:eng_x_preferred":[
+        "Mubarakpur"
+    ],
+    "name:eng_x_variant":[
         "Mub\u0101rakpur"
     ],
     "name:fas_x_preferred":[
@@ -114,7 +131,13 @@
     "name:zho_x_preferred":[
         "\u7a46\u5df4\u62c9\u514b\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213254
+        "gn:id":10213254,
+        "ks:id":"KSD56954E2E99C411AB7AD3FB008251455"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c37f3d2c93b85ad89ea03aff53259126",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bdda18cce1cd6940a650c62a8379a76c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +164,22 @@
         }
     ],
     "wof:id":1309775151,
-    "wof:lastmodified":1577752399,
+    "wof:lastmodified":1686163842,
     "wof:name":"Mubarakpur",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.27046999999997,
-    21.22729,
-    78.27046999999997,
-    21.22729
+    78.26985,
+    21.226199,
+    78.270928,
+    21.227546
 ],
-  "geometry": {"coordinates":[78.27046999999997,21.22729],"type":"Point"}
+  "geometry": {"coordinates":[[[78.27038899999999,21.227546],[78.27038899999999,21.227277],[78.270928,21.227277],[78.270928,21.226468],[78.27065899999999,21.226468],[78.27065899999999,21.226199],[78.27038899999999,21.226199],[78.27038899999999,21.226468],[78.27012000000001,21.226468],[78.27012000000001,21.227007],[78.26985000000001,21.227007],[78.26985000000001,21.227546],[78.27038899999999,21.227546]]],"type":"Polygon"}
 }

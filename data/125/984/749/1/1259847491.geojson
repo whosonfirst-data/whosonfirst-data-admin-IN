@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.34276,24.39288,76.34276,24.39288",
-    "geom:latitude":24.39288,
-    "geom:longitude":76.34276,
+    "geom:bbox":"76.342587,24.392223,76.343478,24.393129",
+    "geom:latitude":24.39271,
+    "geom:longitude":76.342987,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"129.0",
     "gn:asciiname":"Pathri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.32276,24.37288,76.36276,24.41288",
+    "ks:ks_id":"KS0D3503807AB14257A5413AAD422A4A10",
+    "ks:ks_name":"Pathri",
+    "ks:ks_pop":50,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|837736",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_912369",
+    "lbl:latitude":24.392726,
+    "lbl:longitude":76.342979,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.392726,
+    "mps:longitude":76.342979,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a5\u09be\u09b0\u09bf"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "P\u0101thri"
+    ],
+    "name:eng_x_preferred":[
+        "Pathri"
     ],
     "name:hif_x_preferred":[
         "Pathri"
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u7279\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10332592
+        "gn:id":10332592,
+        "ks:id":"KS0D3503807AB14257A5413AAD422A4A10"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ae1c1e940b3152975e7f91fe82acbdaa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c8230137af9a0228130fd5c4c4129d61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1259847491,
-    "wof:lastmodified":1566709513,
+    "wof:lastmodified":1682741907,
     "wof:name":"Pathri",
     "wof:parent_id":1108695785,
     "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.34276,
-    24.39288,
-    76.34276,
-    24.39288
+    76.342587,
+    24.392223,
+    76.343478,
+    24.393129
 ],
-  "geometry": {"coordinates":[76.34276,24.39288],"type":"Point"}
+  "geometry": {"coordinates":[[[76.34318500000001,24.393125],[76.34318399999999,24.393035],[76.34338099999999,24.393033],[76.343379,24.392852],[76.343478,24.392851],[76.343476,24.392671],[76.343377,24.392672],[76.34337600000001,24.392491],[76.343277,24.392492],[76.343276,24.392402],[76.343177,24.392403],[76.343176,24.392312],[76.34307800000001,24.392313],[76.34307699999999,24.392223],[76.342781,24.392225],[76.342782,24.392316],[76.34268299999999,24.392317],[76.342685,24.392497],[76.34258699999999,24.392498],[76.34259299999999,24.39304],[76.342691,24.393039],[76.342692,24.393129],[76.34318500000001,24.393125]]],"type":"Polygon"}
 }

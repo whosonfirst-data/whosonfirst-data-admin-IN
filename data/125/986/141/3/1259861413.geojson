@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.58489,21.43543,78.58489,21.43543",
-    "geom:latitude":21.43543,
-    "geom:longitude":78.58489,
+    "geom:bbox":"78.582464,21.433709,78.586506,21.437752",
+    "geom:latitude":21.435772,
+    "geom:longitude":78.584279,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Koni",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.56489,21.41543,78.60489,21.45543",
+    "ks:ks_id":"KS946037F64ABC412A91A06B2B95F6269A",
+    "ks:ks_name":"Koni",
+    "ks:ks_pop":958,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|578336",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_685112",
+    "lbl:latitude":21.435675,
+    "lbl:longitude":78.58408,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.435675,
+    "mps:longitude":78.58408,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Koni"
@@ -37,6 +47,9 @@
         "Koni"
     ],
     "name:deu_x_preferred":[
+        "Koni"
+    ],
+    "name:eng_x_preferred":[
         "Koni"
     ],
     "name:est_x_preferred":[
@@ -57,7 +70,13 @@
     "name:swe_x_preferred":[
         "Koni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10213638
+        "gn:id":10213638,
+        "ks:id":"KS946037F64ABC412A91A06B2B95F6269A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9d0d1a01aedb1e33073c9757649a3da4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"514baf1e983e2fe65ed59c3b474476d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1259861413,
-    "wof:lastmodified":1566710811,
+    "wof:lastmodified":1682742319,
     "wof:name":"Koni",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.58489,
-    21.43543,
-    78.58489,
-    21.43543
+    78.582464,
+    21.433709,
+    78.586506,
+    21.437752
 ],
-  "geometry": {"coordinates":[78.58489,21.43543],"type":"Point"}
+  "geometry": {"coordinates":[[[78.58354199999999,21.437752],[78.58354199999999,21.437482],[78.584081,21.437482],[78.584081,21.436674],[78.58435,21.436674],[78.58435,21.436404],[78.58462,21.436404],[78.58462,21.436135],[78.584889,21.436135],[78.584889,21.435865],[78.58569799999999,21.435865],[78.58569799999999,21.434787],[78.586237,21.434787],[78.586237,21.434248],[78.586506,21.434248],[78.586506,21.433979],[78.586237,21.433979],[78.586237,21.433709],[78.585967,21.433709],[78.585967,21.433979],[78.58569799999999,21.433979],[78.58569799999999,21.434248],[78.585159,21.434248],[78.585159,21.434518],[78.584889,21.434518],[78.584889,21.434787],[78.58462,21.434787],[78.58462,21.435057],[78.58435,21.435057],[78.58435,21.434787],[78.583811,21.434787],[78.583811,21.434518],[78.58354199999999,21.434518],[78.58354199999999,21.435057],[78.58327300000001,21.435057],[78.58327300000001,21.435865],[78.58300300000001,21.435865],[78.58300300000001,21.436404],[78.582734,21.436404],[78.582734,21.436943],[78.582464,21.436943],[78.582464,21.437482],[78.58327300000001,21.437482],[78.58327300000001,21.437752],[78.58354199999999,21.437752]]],"type":"Polygon"}
 }

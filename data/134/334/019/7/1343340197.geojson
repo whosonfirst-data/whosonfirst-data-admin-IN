@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.04127,29.66075,77.04127,29.66075",
-    "geom:latitude":29.66075,
-    "geom:longitude":77.04127,
+    "geom:bbox":"77.036643,29.658414,77.041494,29.661648",
+    "geom:latitude":29.659826,
+    "geom:longitude":77.039459,
     "gn:admin1_code":"10.0",
     "gn:admin2_code":"74.0",
     "gn:asciiname":"Sohana",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.02127,29.64075,77.06127,29.68075",
+    "ks:ks_alt_nam":"Soh\u0101na",
+    "ks:ks_id":"KS1DFDA62F74A24B3D99756CDDDA062BB0",
+    "ks:ks_name":"Sohana",
+    "ks:ks_pop":1216,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1002728",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_968118",
+    "lbl:latitude":29.66017,
+    "lbl:longitude":77.039748,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.66017,
+    "mps:longitude":77.039748,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0647\u0627\u0646\u0627"
@@ -40,6 +51,12 @@
         "\u09b8\u09cb\u09b9\u09be\u09a8\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Soh\u0101na"
+    ],
+    "name:eng_x_preferred":[
+        "Sohana"
+    ],
+    "name:eng_x_variant":[
         "Soh\u0101na"
     ],
     "name:guj_x_preferred":[
@@ -72,7 +89,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0648\u06c1\u0627\u0646\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10193758
+        "gn:id":10193758,
+        "ks:id":"KS1DFDA62F74A24B3D99756CDDDA062BB0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b5abb965e2ce91b66b10d126371dadad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bda213ebd923a7b73afafb82f277e560",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1343340197,
-    "wof:lastmodified":1576020820,
+    "wof:lastmodified":1682923925,
     "wof:name":"Sohana",
     "wof:parent_id":890503069,
     "wof:placetype":"locality",
+    "wof:population":1216,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.04127,
-    29.66075,
-    77.04127,
-    29.66075
+    77.036643,
+    29.658414,
+    77.041494,
+    29.661648
 ],
-  "geometry": {"coordinates":[77.04127,29.66075],"type":"Point"}
+  "geometry": {"coordinates":[[[77.04041599999999,29.661648],[77.04041599999999,29.661379],[77.040955,29.661379],[77.040955,29.66057],[77.041494,29.66057],[77.041494,29.659492],[77.041224,29.659492],[77.041224,29.658953],[77.040955,29.658953],[77.040955,29.658414],[77.039338,29.658414],[77.039338,29.658953],[77.038529,29.658953],[77.038529,29.658414],[77.036643,29.658414],[77.036643,29.658953],[77.037451,29.658953],[77.037451,29.659492],[77.037721,29.659492],[77.037721,29.660301],[77.03825999999999,29.660301],[77.03825999999999,29.66057],[77.038529,29.66057],[77.038529,29.661109],[77.038799,29.661109],[77.038799,29.661379],[77.039338,29.661379],[77.039338,29.661648],[77.04041599999999,29.661648]]],"type":"Polygon"}
 }

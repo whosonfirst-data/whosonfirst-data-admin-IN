@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.91971,25.79665,86.91971,25.79665",
-    "geom:latitude":25.79665,
-    "geom:longitude":86.91971,
+    "geom:bbox":"86.911497,25.785941,86.912395,25.787206",
+    "geom:latitude":25.786542,
+    "geom:longitude":86.911949,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"213.0",
     "gn:asciiname":"Tema",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.89971,25.77665,86.93971,25.81665",
+    "ks:ks_id":"KS47C3394B17FF46C299EA3C2E32EF5A5E",
+    "ks:ks_name":"Tema",
+    "ks:ks_pop":140,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1011000801005900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2113416",
+    "lbl:latitude":25.786516,
+    "lbl:longitude":86.912002,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.786516,
+    "mps:longitude":86.912002,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Tema"
@@ -49,6 +59,9 @@
         "Tema"
     ],
     "name:deu_x_preferred":[
+        "Tema"
+    ],
+    "name:eng_x_preferred":[
         "Tema"
     ],
     "name:epo_x_preferred":[
@@ -120,7 +133,13 @@
     "name:vol_x_preferred":[
         "Tema"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -129,10 +148,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10908974
+        "gn:id":10908974,
+        "ks:id":"KS47C3394B17FF46C299EA3C2E32EF5A5E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a383eed09aea8cca1d3cc6c6cf5409d9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"44be2fd32d766b91db98d9d202b88f77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,20 +166,22 @@
         }
     ],
     "wof:id":1360030231,
-    "wof:lastmodified":1566703509,
+    "wof:lastmodified":1682960662,
     "wof:name":"Tema",
     "wof:parent_id":890502233,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.91971,
-    25.79665,
-    86.91971,
-    25.79665
+    86.911497,
+    25.785941,
+    86.912395,
+    25.787206
 ],
-  "geometry": {"coordinates":[86.91970999999999,25.79665],"type":"Point"}
+  "geometry": {"coordinates":[[[86.91209499999999,25.787206],[86.91209499999999,25.787115],[86.912195,25.787115],[86.912195,25.787025],[86.912294,25.787025],[86.912295,25.786754],[86.91239400000001,25.786754],[86.912395,25.786303],[86.912295,25.786303],[86.912295,25.786213],[86.912195,25.786212],[86.912195,25.786122],[86.91209600000001,25.786122],[86.91209600000001,25.786032],[86.911796,25.786032],[86.911796,25.785941],[86.911597,25.785941],[86.911597,25.786032],[86.911497,25.786031],[86.911497,25.786483],[86.911597,25.786483],[86.911596,25.786664],[86.91169600000001,25.786664],[86.91169600000001,25.786935],[86.911796,25.786935],[86.911796,25.787206],[86.91209499999999,25.787206]]],"type":"Polygon"}
 }

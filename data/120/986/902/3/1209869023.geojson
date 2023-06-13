@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.86141,24.84597,82.86141,24.84597",
-    "geom:latitude":24.84597,
-    "geom:longitude":82.86141,
+    "geom:bbox":"82.860002,24.845847,82.862384,24.847009",
+    "geom:latitude":24.846469,
+    "geom:longitude":82.861307,
     "gn:admin1_code":"36",
     "gn:admin2_code":"199.0",
     "gn:asciiname":"Kon",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.84141,24.82597,82.88141,24.86597",
+    "ks:ks_id":"KSA39A018DED65496F9B47F5C371228114",
+    "ks:ks_name":"Kon",
+    "ks:ks_pop":1112,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|576163",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1038114",
+    "lbl:latitude":24.846599,
+    "lbl:longitude":82.861686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.846599,
+    "mps:longitude":82.861686,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a8"
@@ -37,6 +47,9 @@
         "Kon"
     ],
     "name:deu_x_preferred":[
+        "Kon"
+    ],
+    "name:eng_x_preferred":[
         "Kon"
     ],
     "name:epo_x_preferred":[
@@ -57,7 +70,13 @@
     "name:vie_x_preferred":[
         "Kon"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10550108
+        "gn:id":10550108,
+        "ks:id":"KSA39A018DED65496F9B47F5C371228114"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0f5bb0318e0a5cff0ba947480e312523",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1334e23a4091bdd4f7adcc48025b7e61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1209869023,
-    "wof:lastmodified":1566697204,
+    "wof:lastmodified":1682636268,
     "wof:name":"Kon",
     "wof:parent_id":1108695885,
     "wof:placetype":"locality",
+    "wof:population":1112,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.86140999999998,
-    24.84597,
-    82.86140999999998,
-    24.84597
+    82.860002,
+    24.845847,
+    82.862384,
+    24.847009
 ],
-  "geometry": {"coordinates":[82.86140999999998,24.84597],"type":"Point"}
+  "geometry": {"coordinates":[[[82.861994,24.847001],[82.861993,24.846911],[82.862092,24.84691],[82.86208999999999,24.846819],[82.862189,24.846818],[82.862188,24.846728],[82.86228699999999,24.846727],[82.862285,24.846636],[82.86238400000001,24.846635],[82.86238299999999,24.846545],[82.862284,24.846546],[82.862281,24.846366],[82.862182,24.846367],[82.86218100000001,24.846277],[82.862082,24.846278],[82.862081,24.846188],[82.86118999999999,24.846199],[82.861189,24.846108],[82.860694,24.846115],[82.860693,24.846024],[82.860495,24.846027],[82.860494,24.845937],[82.860395,24.845938],[82.860394,24.845847],[82.86029499999999,24.845849],[82.860297,24.846029],[82.86019899999999,24.84603],[82.86020000000001,24.846121],[82.86000199999999,24.846123],[82.860005,24.846304],[82.860203,24.846301],[82.860204,24.846392],[82.860501,24.846388],[82.860502,24.846478],[82.860799,24.846474],[82.8608,24.846565],[82.860899,24.846563],[82.8609,24.846654],[82.86099900000001,24.846652],[82.861001,24.846743],[82.86109999999999,24.846741],[82.86110100000001,24.846832],[82.8612,24.846831],[82.86120099999999,24.846921],[82.86139900000001,24.846918],[82.8614,24.847009],[82.861994,24.847001]]],"type":"Polygon"}
 }

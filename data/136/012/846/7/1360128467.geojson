@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.44383,27.74819,78.44383,27.74819",
-    "geom:latitude":27.74819,
-    "geom:longitude":78.44383,
+    "geom:bbox":"78.442775,27.746081,78.445208,27.749326",
+    "geom:latitude":27.747879,
+    "geom:longitude":78.444011,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Daryapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.42383,27.72819,78.46383,27.76819",
+    "ks:ks_id":"KS41EBD3EE144B4F218E6275957F228461",
+    "ks:ks_name":"Dariyapur",
+    "ks:ks_pop":295,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|251431",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1804411",
+    "lbl:latitude":27.747877,
+    "lbl:longitude":78.443988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.747877,
+    "mps:longitude":78.443988,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09aa\u09c1\u09b0 \u09ac\u09be\u09a8\u09cb\u09b8\u09be"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Dary\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Dariyapur"
+    ],
+    "name:eng_x_variant":[
+        "Daryapur"
     ],
     "name:ind_x_preferred":[
         "Daryapur Banosa"
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u91cc\u4e9a\u666e\u5c14\u5df4\u8bfa\u8428"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10482370
+        "gn:id":10482370,
+        "ks:id":"KS41EBD3EE144B4F218E6275957F228461"
     },
     "wof:country":"IN",
-    "wof:geomhash":"51cf4b0e743bcfd3d49bace0bcef1f4c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9c36b8f8397b83a18c0268deecb4a34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1360128467,
-    "wof:lastmodified":1566702599,
-    "wof:name":"Daryapur",
+    "wof:lastmodified":1682964385,
+    "wof:name":"Dariyapur",
     "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.44383,
-    27.74819,
-    78.44383,
-    27.74819
+    78.442775,
+    27.746081,
+    78.445208,
+    27.749326
 ],
-  "geometry": {"coordinates":[78.44383000000001,27.74819],"type":"Point"}
+  "geometry": {"coordinates":[[[78.444264,27.749326],[78.444266,27.749236],[78.444469,27.749239],[78.44447099999999,27.749149],[78.44467400000001,27.749153],[78.444676,27.749063],[78.44498,27.749068],[78.444982,27.748978],[78.44508399999999,27.74898],[78.445086,27.74889],[78.445187,27.748892],[78.44520799999999,27.74799],[78.44510699999999,27.747988],[78.445122,27.747357],[78.44502,27.747355],[78.445026,27.747084],[78.444925,27.747082],[78.444934,27.746722],[78.44483200000001,27.74672],[78.444838,27.746449],[78.444737,27.746447],[78.44474099999999,27.746267],[78.44464000000001,27.746265],[78.444642,27.746175],[78.444541,27.746173],[78.444543,27.746083],[78.444441,27.746081],[78.444439,27.746171],[78.444237,27.746167],[78.44423500000001,27.746258],[78.44413299999999,27.746256],[78.444131,27.746346],[78.44403,27.746344],[78.444028,27.746434],[78.443926,27.746432],[78.443922,27.746613],[78.443719,27.746609],[78.44371700000001,27.746699],[78.44320999999999,27.74669],[78.443208,27.74678],[78.443107,27.746778],[78.443105,27.746868],[78.443003,27.746866],[78.442999,27.747047],[78.442898,27.747045],[78.442891,27.747316],[78.44279,27.747314],[78.442775,27.747945],[78.442877,27.747947],[78.44285600000001,27.748849],[78.44295700000001,27.748851],[78.442953,27.749031],[78.443054,27.749033],[78.44305199999999,27.749123],[78.443153,27.749125],[78.443151,27.749215],[78.443354,27.749219],[78.443352,27.749309],[78.444264,27.749326]]],"type":"Polygon"}
 }

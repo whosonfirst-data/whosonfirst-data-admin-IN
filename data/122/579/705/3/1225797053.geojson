@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.7582,27.86752,78.7582,27.86752",
-    "geom:latitude":27.86752,
-    "geom:longitude":78.7582,
+    "geom:bbox":"78.757366,27.866006,78.759522,27.868431",
+    "geom:latitude":27.867172,
+    "geom:longitude":78.758421,
     "gn:admin1_code":"36",
     "gn:admin2_code":"202.0",
     "gn:asciiname":"Humayunpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.7382,27.84752,78.7782,27.88752",
+    "ks:ks_id":"KSA0356DC23582498DA865AC1BDF5A4AB3",
+    "ks:ks_name":"Himaunpur",
+    "ks:ks_pop":1079,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1175883",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_898879",
+    "lbl:latitude":27.866972,
+    "lbl:longitude":78.758313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.866972,
+    "mps:longitude":78.758313,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0645\u0627\u064a\u0646 \u0628\u0648\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b9\u09c1\u09ae\u09be\u09df\u09c2\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Himaunpur"
+    ],
+    "name:eng_x_variant":[
+        "Humayunpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aae\u0abe\u0aaf\u0ac1\u0a82\u0aaa\u0ac1\u0ab0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0645\u0627\u06cc\u0648\u06ba \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10459221
+        "gn:id":10459221,
+        "ks:id":"KSA0356DC23582498DA865AC1BDF5A4AB3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"de41cbb60ee9ee3964aaea9fdf9704cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"99143c7479b697455e9d710edfbfa51a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1225797053,
-    "wof:lastmodified":1577754733,
-    "wof:name":"Humayunpur",
+    "wof:lastmodified":1682643534,
+    "wof:name":"Himaunpur",
     "wof:parent_id":1108695891,
     "wof:placetype":"locality",
+    "wof:population":1079,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.7582,
-    27.86752000000001,
-    78.7582,
-    27.86752000000001
+    78.757366,
+    27.866006,
+    78.759522,
+    27.868431
 ],
-  "geometry": {"coordinates":[78.7582,27.86752000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[78.759252,27.868431],[78.759252,27.867892],[78.759522,27.867892],[78.759522,27.867084],[78.759252,27.867084],[78.759252,27.866275],[78.758983,27.866275],[78.758983,27.866006],[78.75763600000001,27.866006],[78.75763600000001,27.866275],[78.757366,27.866275],[78.757366,27.867892],[78.758174,27.867892],[78.758174,27.868431],[78.759252,27.868431]]],"type":"Polygon"}
 }

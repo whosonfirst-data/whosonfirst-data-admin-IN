@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.99313,25.98616,80.99313,25.98616",
-    "geom:latitude":25.98616,
-    "geom:longitude":80.99313,
+    "geom:bbox":"80.992875,25.985441,80.993774,25.986524",
+    "geom:latitude":25.986009,
+    "geom:longitude":80.993369,
     "gn:admin1_code":"36",
     "gn:admin2_code":"172.0",
     "gn:asciiname":"Bhedpur",
@@ -24,43 +24,77 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.97313,25.96616,81.01313,26.00616",
+    "ks:ks_id":"KS19272B1603044B76A4688BE024321E25",
+    "ks:ks_name":"Bedpur",
+    "ks:ks_pop":240,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|118121",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1857084",
+    "lbl:latitude":25.986028,
+    "lbl:longitude":80.993369,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.986028,
+    "mps:longitude":80.993369,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bedpur"
+    ],
+    "name:eng_x_variant":[
+        "Bhedpur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695837
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10536101
+        "gn:id":10536101,
+        "ks:id":"KS19272B1603044B76A4688BE024321E25"
     },
     "wof:country":"IN",
-    "wof:geomhash":"250b07adb02b76df2e56e9c0faee27f0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2c122fb5887a6539c18507b95a5fd61",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209559045
+            "county_id":1108695837,
+            "locality_id":1209559045,
+            "region_id":85672205
         }
     ],
     "wof:id":1209559045,
-    "wof:lastmodified":1566695037,
-    "wof:name":"Bhedpur",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682623438,
+    "wof:name":"Bedpur",
+    "wof:parent_id":1108695837,
     "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.99313000000002,
-    25.98616,
-    80.99313000000002,
-    25.98616
+    80.992875,
+    25.985441,
+    80.993774,
+    25.986524
 ],
-  "geometry": {"coordinates":[80.99313000000002,25.98616],"type":"Point"}
+  "geometry": {"coordinates":[[[80.99347400000001,25.986524],[80.99347400000001,25.986434],[80.993574,25.986434],[80.993574,25.986344],[80.993774,25.986344],[80.993774,25.985621],[80.993674,25.985621],[80.993674,25.985531],[80.993574,25.985531],[80.993574,25.985441],[80.993375,25.985441],[80.993375,25.985531],[80.993275,25.985531],[80.993275,25.985621],[80.99317499999999,25.985621],[80.99317499999999,25.985712],[80.993075,25.985712],[80.993075,25.985802],[80.992975,25.985802],[80.992975,25.985982],[80.992875,25.985982],[80.992875,25.986253],[80.992975,25.986253],[80.992975,25.986434],[80.993275,25.986434],[80.993275,25.986524],[80.99347400000001,25.986524]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.38417,27.82966,76.38417,27.82966",
-    "geom:latitude":27.82966,
-    "geom:longitude":76.38417,
+    "geom:bbox":"76.383768,27.829206,76.384992,27.830375",
+    "geom:latitude":27.82972,
+    "geom:longitude":76.384406,
     "gn:admin1_code":"24",
     "gn:admin2_code":"104.0",
     "gn:asciiname":"Nangal",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.36417,27.80966,76.40417,27.84966",
+    "ks:ks_id":"KS004B827F31254674A3C5783AFB148761",
+    "ks:ks_name":"Nangal",
+    "ks:ks_source_id":"N|12970709",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1765950",
+    "lbl:latitude":27.829718,
+    "lbl:longitude":76.384468,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.829718,
+    "mps:longitude":76.384468,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0999\u09cd\u0997\u09be\u09b2"
@@ -38,6 +46,9 @@
     ],
     "name:ceb_x_preferred":[
         "N\u0101ngal Township"
+    ],
+    "name:eng_x_preferred":[
+        "Nangal"
     ],
     "name:hif_x_preferred":[
         "Nangal"
@@ -78,7 +89,11 @@
     "name:zho_x_preferred":[
         "\u5357\u683c\u963f\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +102,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10524444
+        "gn:id":10524444,
+        "ks:id":"KS004B827F31254674A3C5783AFB148761"
     },
     "wof:country":"IN",
-    "wof:geomhash":"05fde13cbec43741acc9e6de37ec3c41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e79052d4b3c3a8d178ec81ef2e3ef46a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +120,7 @@
         }
     ],
     "wof:id":1225802723,
-    "wof:lastmodified":1566712269,
+    "wof:lastmodified":1682644346,
     "wof:name":"Nangal",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
@@ -111,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.38417,
-    27.82966,
-    76.38417,
-    27.82966
+    76.383768,
+    27.829206,
+    76.384992,
+    27.830375
 ],
-  "geometry": {"coordinates":[76.38417,27.82966],"type":"Point"}
+  "geometry": {"coordinates":[[[76.38469499999999,27.830373],[76.384694,27.830282],[76.384795,27.830281],[76.384793,27.830101],[76.384895,27.8301],[76.38489,27.829739],[76.384992,27.829738],[76.38498800000001,27.829467],[76.38488700000001,27.829468],[76.38488599999999,27.829378],[76.384784,27.829379],[76.384783,27.829289],[76.384072,27.829296],[76.38407100000001,27.829206],[76.38386800000001,27.829208],[76.383869,27.829298],[76.383768,27.829299],[76.38377199999999,27.82966],[76.38387400000001,27.829659],[76.383876,27.829839],[76.383978,27.829838],[76.383979,27.829929],[76.38408,27.829928],[76.38408099999999,27.830018],[76.38418299999999,27.830017],[76.384184,27.830107],[76.384286,27.830106],[76.384287,27.830196],[76.384388,27.830195],[76.384389,27.830285],[76.384491,27.830284],[76.38449199999999,27.830375],[76.38469499999999,27.830373]]],"type":"Polygon"}
 }

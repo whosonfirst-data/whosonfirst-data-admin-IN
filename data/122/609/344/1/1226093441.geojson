@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.61537,24.2758,84.61537,24.2758",
-    "geom:latitude":24.2758,
-    "geom:longitude":84.61537,
+    "geom:bbox":"84.615113,24.271626,84.615902,24.272718",
+    "geom:latitude":24.2722,
+    "geom:longitude":84.615536,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Chainpur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.59537,24.2558,84.63537,24.2958",
+    "ks:ks_id":"KS7CC2AE8A46F5456D97D230DCF3B231B8",
+    "ks:ks_name":"Chainpur",
+    "ks:ks_pop":147,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2003000200395900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1144131",
+    "lbl:latitude":24.272216,
+    "lbl:longitude":84.615529,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.272216,
+    "mps:longitude":84.615529,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chainpur"
     ],
     "name:deu_x_preferred":[
+        "Chainpur"
+    ],
+    "name:eng_x_preferred":[
         "Chainpur"
     ],
     "name:nep_x_preferred":[
@@ -45,7 +58,13 @@
     "name:pol_x_preferred":[
         "Chainpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841321
+        "gn:id":10841321,
+        "ks:id":"KS7CC2AE8A46F5456D97D230DCF3B231B8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5b478f1a080c0b21bdfdeb4a89fb5bfe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"72b68bfa28c430e16c19cd7f60850f70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1226093441,
-    "wof:lastmodified":1566713537,
+    "wof:lastmodified":1682654500,
     "wof:name":"Chainpur",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.61537,
-    24.2758,
-    84.61537,
-    24.2758
+    84.615113,
+    24.271626,
+    84.615902,
+    24.272718
 ],
-  "geometry": {"coordinates":[84.61537,24.2758],"type":"Point"}
+  "geometry": {"coordinates":[[[84.615804,24.272085],[84.615809,24.271814],[84.61571000000001,24.271813],[84.615712,24.271722],[84.615515,24.271719],[84.615517,24.271629],[84.61532,24.271626],[84.615318,24.271716],[84.61521999999999,24.271715],[84.61521500000001,24.271985],[84.615116,24.271984],[84.61511299999999,24.272164],[84.615212,24.272166],[84.615206,24.272437],[84.61530500000001,24.272438],[84.615302,24.272619],[84.61539999999999,24.27262],[84.615398,24.27271],[84.61588999999999,24.272718],[84.61590200000001,24.272086],[84.615804,24.272085]]],"type":"Polygon"}
 }

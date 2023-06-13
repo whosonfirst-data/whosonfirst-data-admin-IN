@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.1859,22.83321,76.1859,22.83321",
-    "geom:latitude":22.83321,
-    "geom:longitude":76.1859,
+    "geom:bbox":"76.185019,22.832479,76.186772,22.834023",
+    "geom:latitude":22.833336,
+    "geom:longitude":76.185948,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"437.0",
     "gn:asciiname":"Kaladeh",
@@ -24,43 +24,78 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.1659,22.81321,76.2059,22.85321",
+    "ks:ks_alt_nam":"K\u0101l\u0101deh",
+    "ks:ks_id":"KS5F3CD5F455104B8BA1C5BCC4AEFB4C69",
+    "ks:ks_name":"Kaladeh",
+    "ks:ks_pop":360,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|485951",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_890847",
+    "lbl:latitude":22.833294,
+    "lbl:longitude":76.186036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.833294,
+    "mps:longitude":76.186036,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kaladeh"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101l\u0101deh"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696223
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10799512
+        "gn:id":10799512,
+        "ks:id":"KS5F3CD5F455104B8BA1C5BCC4AEFB4C69"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0158768657749367b865db3f7e1b5e41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c016df3c344c992d627cb00b963dcbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209668231
+            "county_id":1108696223,
+            "locality_id":1209668231,
+            "region_id":85672239
         }
     ],
     "wof:id":1209668231,
-    "wof:lastmodified":1566696026,
+    "wof:lastmodified":1682628380,
     "wof:name":"Kaladeh",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696223,
     "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.1859,
-    22.83321,
-    76.1859,
-    22.83321
+    76.185019,
+    22.832479,
+    76.186772,
+    22.834023
 ],
-  "geometry": {"coordinates":[76.1859,22.83321],"type":"Point"}
+  "geometry": {"coordinates":[[[76.18619,22.834015],[76.18619,22.833925],[76.186385,22.833924],[76.186384,22.833833],[76.18657899999999,22.833832],[76.186578,22.833742],[76.18667499999999,22.833741],[76.18667499999999,22.833651],[76.186772,22.83365],[76.186768,22.833198],[76.186671,22.833199],[76.186667,22.832838],[76.18657,22.832838],[76.18656799999999,22.832658],[76.186471,22.832659],[76.18647,22.832568],[76.186373,22.832569],[76.18637200000001,22.832479],[76.18608,22.832481],[76.186081,22.832571],[76.185788,22.832573],[76.185789,22.832664],[76.185692,22.832664],[76.185692,22.832755],[76.185497,22.832756],[76.185498,22.832846],[76.185401,22.832847],[76.185402,22.833028],[76.185305,22.833029],[76.185306,22.833209],[76.185209,22.83321],[76.185211,22.833481],[76.185114,22.833482],[76.18511599999999,22.833752],[76.185019,22.833753],[76.18501999999999,22.833934],[76.185118,22.833933],[76.185119,22.834023],[76.18619,22.834015]]],"type":"Polygon"}
 }

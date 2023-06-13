@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.11757,27.94814,80.11757,27.94814",
-    "geom:latitude":27.94814,
-    "geom:longitude":80.11757,
+    "geom:bbox":"80.11668,27.947424,80.118824,27.949138",
+    "geom:latitude":27.94828,
+    "geom:longitude":80.117769,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"153.0",
     "gn:asciiname":"Nagra",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.09757,27.92814,80.13757,27.96814",
+    "ks:ks_id":"KSE299754AAD5F48C68EE3EECDDD2EFA6F",
+    "ks:ks_name":"Nagra",
+    "ks:ks_pop":374,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|748743",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2016232",
+    "lbl:latitude":27.948298,
+    "lbl:longitude":80.117749,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.948298,
+    "mps:longitude":80.117749,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
+        "Nagra"
+    ],
+    "name:eng_x_preferred":[
         "Nagra"
     ],
     "name:fin_x_preferred":[
@@ -54,7 +67,13 @@
     "name:spa_x_preferred":[
         "Nagra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11061785
+        "gn:id":11061785,
+        "ks:id":"KSE299754AAD5F48C68EE3EECDDD2EFA6F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5936d12bcd98c26c816d0178d5040d51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c0b52afcfee45bd9ea1eab2b526f322c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1360228765,
-    "wof:lastmodified":1566702942,
+    "wof:lastmodified":1682968479,
     "wof:name":"Nagra",
     "wof:parent_id":1108695813,
     "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.11757,
-    27.94814,
-    80.11757,
-    27.94814
+    80.11668,
+    27.947424,
+    80.118824,
+    27.949138
 ],
-  "geometry": {"coordinates":[80.11757,27.94814],"type":"Point"}
+  "geometry": {"coordinates":[[[80.117491,27.949138],[80.117492,27.949048],[80.11820299999999,27.949052],[80.11820400000001,27.948962],[80.118306,27.948963],[80.118307,27.948782],[80.118409,27.948783],[80.11841,27.948692],[80.118511,27.948693],[80.118512,27.948603],[80.11861399999999,27.948603],[80.118616,27.948333],[80.118717,27.948333],[80.118719,27.948153],[80.118821,27.948153],[80.118824,27.947792],[80.11872200000001,27.947792],[80.118723,27.947702],[80.118621,27.947701],[80.118622,27.947611],[80.11852,27.94761],[80.118521,27.94752],[80.118318,27.947518],[80.118318,27.947428],[80.11770799999999,27.947424],[80.11770799999999,27.947514],[80.117504,27.947513],[80.117504,27.947603],[80.1173,27.947602],[80.1173,27.947692],[80.117198,27.947692],[80.117197,27.947782],[80.117096,27.947781],[80.11709500000001,27.947872],[80.11699299999999,27.947871],[80.116992,27.948051],[80.11689,27.948051],[80.116888,27.948322],[80.116786,27.948321],[80.116783,27.948682],[80.116682,27.948681],[80.11668,27.948862],[80.116782,27.948863],[80.116781,27.948953],[80.116984,27.948954],[80.116984,27.949044],[80.117289,27.949046],[80.117288,27.949137],[80.117491,27.949138]]],"type":"Polygon"}
 }

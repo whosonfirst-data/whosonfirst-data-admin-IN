@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.64319,27.13099,82.64319,27.13099",
-    "geom:latitude":27.13099,
-    "geom:longitude":82.64319,
+    "geom:bbox":"82.641907,27.130208,82.644739,27.131282",
+    "geom:latitude":27.130756,
+    "geom:longitude":82.643387,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"184.0",
     "gn:asciiname":"Fatehpur",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.62319,27.11099,82.66319,27.15099",
+    "ks:ks_id":"KS7C4EF807E8BC495BBBE9D401D5E37A6A",
+    "ks:ks_name":"Fatehpur",
+    "ks:ks_source_id":"N|13061538",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1977744",
+    "lbl:latitude":27.130831,
+    "lbl:longitude":82.643387,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.130831,
+    "mps:longitude":82.643387,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u062d \u0628\u0648\u0631"
@@ -56,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c4\u03b5\u03c7\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Fatehpur"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u062a\u062d \u067e\u0648\u0631"
@@ -133,26 +144,40 @@
     "name:zho_tw_x_preferred":[
         "\u6cd5\u6cf0\u8d6b\u666e\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695859
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10603819
+        "gn:id":10603819,
+        "ks:id":"KS7C4EF807E8BC495BBBE9D401D5E37A6A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"20d5b760bac06d56d878770304c66cb0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f4802cbd8a839b516e54d4d38423f740",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209257899
+            "county_id":1108695859,
+            "locality_id":1209257899,
+            "region_id":85672205
         }
     ],
     "wof:id":1209257899,
-    "wof:lastmodified":1636505549,
+    "wof:lastmodified":1686162776,
     "wof:name":"Fatehpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -160,10 +185,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.64319,
-    27.13099,
-    82.64319,
-    27.13099
+    82.641907,
+    27.130208,
+    82.644739,
+    27.131282
 ],
-  "geometry": {"coordinates":[82.64319,27.13099],"type":"Point"}
+  "geometry": {"coordinates":[[[82.644139,27.131274],[82.644138,27.131183],[82.64444,27.13118],[82.64443900000001,27.13109],[82.64464099999999,27.131087],[82.644638,27.130907],[82.644739,27.130906],[82.644735,27.130635],[82.644634,27.130636],[82.644633,27.130546],[82.644532,27.130547],[82.64453,27.130457],[82.644329,27.130459],[82.644327,27.130369],[82.643823,27.130375],[82.643824,27.130465],[82.643017,27.130474],[82.643016,27.130384],[82.642714,27.130388],[82.642712,27.130297],[82.642611,27.130299],[82.64261,27.130208],[82.642207,27.130213],[82.642208,27.130303],[82.64200599999999,27.130306],[82.64200700000001,27.130396],[82.641907,27.130397],[82.641909,27.130578],[82.64201,27.130576],[82.64201300000001,27.130757],[82.642214,27.130755],[82.642216,27.130845],[82.64241800000001,27.130843],[82.642419,27.130933],[82.64252,27.130932],[82.642521,27.131022],[82.642723,27.131019],[82.642724,27.13111],[82.643128,27.131105],[82.643129,27.131195],[82.64343100000001,27.131192],[82.643433,27.131282],[82.644139,27.131274]]],"type":"Polygon"}
 }

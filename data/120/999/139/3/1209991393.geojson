@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.45163,13.33856,76.45163,13.33856",
-    "geom:latitude":13.33856,
-    "geom:longitude":76.45163,
+    "geom:bbox":"76.4509,13.337421,76.452843,13.33968",
+    "geom:latitude":13.338506,
+    "geom:longitude":76.451803,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"571.0",
     "gn:asciiname":"Marenahalli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.43163,13.31856,76.47163,13.35856",
+    "ks:ks_id":"KSAE48083AB99C43BAB7066DF269DA9E4F",
+    "ks:ks_name":"Mavinahalli",
+    "ks:ks_pop":240,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|689208",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_274714",
+    "lbl:latitude":13.338517,
+    "lbl:longitude":76.451784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.338517,
+    "mps:longitude":76.451784,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0646\u0647\u0627\u0644\u064a"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09be\u09b0\u09c7\u09a8\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Mavinahalli"
+    ],
+    "name:eng_x_variant":[
+        "Marenahalli"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab0\u0ac7\u0aa8\u0abe\u0ab9\u0ab2\u0acd\u0ab2\u0ac0"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0631\u06cc\u0646\u0627 \u06c1\u0644\u0651\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10889089
+        "gn:id":10889089,
+        "ks:id":"KSAE48083AB99C43BAB7066DF269DA9E4F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"328c9a7e88ecd8c7d5b3dd13858c816e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae95f3fd12abd94d6411377b5297d35f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1209991393,
-    "wof:lastmodified":1577750750,
-    "wof:name":"Marenahalli",
+    "wof:lastmodified":1682641159,
+    "wof:name":"Mavinahalli",
     "wof:parent_id":890508363,
     "wof:placetype":"locality",
+    "wof:population":240,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.45163000000002,
-    13.33856,
-    76.45163000000002,
-    13.33856
+    76.4509,
+    13.337421,
+    76.452843,
+    13.33968
 ],
-  "geometry": {"coordinates":[76.45163000000002,13.33856],"type":"Point"}
+  "geometry": {"coordinates":[[[76.452296,13.339679],[76.45229500000001,13.339588],[76.45247999999999,13.339587],[76.45247999999999,13.339497],[76.452572,13.339496],[76.452569,13.339044],[76.45266100000001,13.339044],[76.452659,13.338592],[76.45275100000001,13.338591],[76.45275100000001,13.338501],[76.452843,13.3385],[76.452842,13.33832],[76.452749,13.33832],[76.45274999999999,13.33841],[76.45256500000001,13.338412],[76.452564,13.338231],[76.452472,13.338231],[76.45247000000001,13.33787],[76.452378,13.33787],[76.452377,13.33778],[76.452285,13.33778],[76.45228400000001,13.3376],[76.452191,13.3376],[76.452191,13.33751],[76.451914,13.337511],[76.451913,13.337421],[76.451359,13.337424],[76.45135999999999,13.337514],[76.451083,13.337516],[76.45108399999999,13.337606],[76.450991,13.337607],[76.450992,13.337788],[76.4509,13.337788],[76.45090500000001,13.338602],[76.450997,13.338601],[76.450999,13.338873],[76.45109100000001,13.338872],[76.451092,13.338962],[76.451184,13.338962],[76.451185,13.339143],[76.451277,13.339142],[76.451278,13.339323],[76.45137099999999,13.339322],[76.45137099999999,13.339413],[76.451556,13.339412],[76.451556,13.339502],[76.45183299999999,13.339501],[76.45183400000001,13.339591],[76.45201900000001,13.33959],[76.45201900000001,13.33968],[76.452296,13.339679]]],"type":"Polygon"}
 }

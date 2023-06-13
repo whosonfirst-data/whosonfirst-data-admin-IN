@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.3059,25.36431,85.3059,25.36431",
-    "geom:latitude":25.36431,
-    "geom:longitude":85.3059,
+    "geom:bbox":"85.305169,25.363166,85.307064,25.365341",
+    "geom:latitude":25.364218,
+    "geom:longitude":85.306124,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Hajipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.2859,25.34431,85.3259,25.38431",
+    "ks:ks_id":"KSD00BDD9A36334EA68B6F9697CF0AC860",
+    "ks:ks_name":"Hazipur",
+    "ks:ks_pop":648,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|418593",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2069281",
+    "lbl:latitude":25.3642,
+    "lbl:longitude":85.306142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.3642,
+    "mps:longitude":85.306142,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u062c\u064a \u0628\u0648\u0631"
@@ -47,6 +57,12 @@
     ],
     "name:ceb_x_preferred":[
         "H\u0101j\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Hazipur"
+    ],
+    "name:eng_x_variant":[
+        "Hajipur"
     ],
     "name:epo_x_preferred":[
         "Ha\u011dipuro"
@@ -126,7 +142,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u5409\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028334
+        "gn:id":11028334,
+        "ks:id":"KSD00BDD9A36334EA68B6F9697CF0AC860"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e82f1c3d121c2eb04caf5507c166f69c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e67611a3f7a66f15b78e2822188cc09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1360125475,
-    "wof:lastmodified":1566702629,
-    "wof:name":"Hajipur",
+    "wof:lastmodified":1682963891,
+    "wof:name":"Hazipur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":648,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.3059,
-    25.36431,
-    85.3059,
-    25.36431
+    85.305169,
+    25.363166,
+    85.307064,
+    25.365341
 ],
-  "geometry": {"coordinates":[85.30589999999999,25.36431],"type":"Point"}
+  "geometry": {"coordinates":[[[85.306445,25.365341],[85.30644599999999,25.365251],[85.306546,25.365252],[85.30654699999999,25.365162],[85.306746,25.365164],[85.306748,25.364983],[85.306848,25.364985],[85.306849,25.364894],[85.30694800000001,25.364895],[85.306949,25.364805],[85.30704900000001,25.364806],[85.307064,25.363723],[85.30696500000001,25.363722],[85.306966,25.363632],[85.306866,25.363631],[85.30686900000001,25.36345],[85.30677,25.363449],[85.306771,25.363359],[85.30667200000001,25.363358],[85.306673,25.363267],[85.306375,25.363264],[85.306376,25.363174],[85.30568100000001,25.363166],[85.305679,25.363256],[85.305481,25.363254],[85.30547900000001,25.363344],[85.30538,25.363343],[85.305379,25.363433],[85.305279,25.363432],[85.305278,25.363522],[85.305179,25.363521],[85.30516900000001,25.364243],[85.305268,25.364244],[85.305263,25.364605],[85.305362,25.364606],[85.305359,25.364877],[85.305458,25.364878],[85.30545499999999,25.365059],[85.305555,25.36506],[85.305553,25.36515],[85.30565300000001,25.365151],[85.30565199999999,25.365242],[85.30585000000001,25.365244],[85.30584899999999,25.365334],[85.306445,25.365341]]],"type":"Polygon"}
 }

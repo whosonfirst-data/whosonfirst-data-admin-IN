@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.41089,28.26682,79.41089,28.26682",
-    "geom:latitude":28.26682,
-    "geom:longitude":79.41089,
+    "geom:bbox":"79.412994,28.259606,79.414221,28.26034",
+    "geom:latitude":28.259989,
+    "geom:longitude":79.413622,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"150.0",
     "gn:asciiname":"Lalpur",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.39089,28.24682,79.43089,28.28682",
+    "ks:ks_id":"KS66C14AB03BFC475FAB506B10E0A238B8",
+    "ks:ks_name":"Lalpur",
+    "ks:ks_pop":404,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|618710",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1812738",
+    "lbl:latitude":28.259972,
+    "lbl:longitude":79.413622,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.259972,
+    "mps:longitude":79.413622,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Lalpur"
+    ],
+    "name:eng_x_preferred":[
         "Lalpur"
     ],
     "name:pol_x_preferred":[
@@ -39,7 +52,13 @@
     "name:swe_x_preferred":[
         "Lalpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10825433
+        "gn:id":10825433,
+        "ks:id":"KS66C14AB03BFC475FAB506B10E0A238B8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0b6740d698c7241ae4a98a98644dd93a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6a220a8df73aefca913dbe3c202b0ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1243107191,
-    "wof:lastmodified":1566708563,
+    "wof:lastmodified":1682703100,
     "wof:name":"Lalpur",
     "wof:parent_id":890508871,
     "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.41089000000002,
-    28.26682000000001,
-    79.41089000000002,
-    28.26682000000001
+    79.412994,
+    28.259606,
+    79.414221,
+    28.26034
 ],
-  "geometry": {"coordinates":[79.41089000000002,28.26682000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.414119,28.259888],[79.41412,28.259797],[79.414019,28.259796],[79.41401999999999,28.259706],[79.413918,28.259705],[79.41391900000001,28.259615],[79.413206,28.259606],[79.413205,28.259696],[79.41310300000001,28.259695],[79.4131,28.259876],[79.412998,28.259875],[79.412994,28.260145],[79.413096,28.260146],[79.413095,28.260237],[79.41329899999999,28.260239],[79.413297,28.260329],[79.414214,28.26034],[79.414221,28.259889],[79.414119,28.259888]]],"type":"Polygon"}
 }

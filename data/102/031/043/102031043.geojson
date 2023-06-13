@@ -11,12 +11,20 @@
     "geom:longitude":78.442265,
     "gn:population":6837,
     "iso:country":"IN",
-    "lbl:latitude":9.442013,
-    "lbl:longitude":78.438746,
+    "ks:ks_id":"KS11E38DC075FB4D7B9BED84F8C8C3D7C6",
+    "ks:ks_name":"Abiramam",
+    "ks:ks_pop":6638,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3327000442705000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_19288",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":9.443824,
+    "lbl:longitude":78.438878,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":9.454481,
-    "mps:longitude":78.43689,
+    "mps:latitude":9.443824,
+    "mps:longitude":78.438878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -29,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Abiramam"
+    ],
+    "name:eng_x_variant":[
+        "Abir\u0101mam"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u06cc\u0631\u0627\u0645\u0627\u0646"
@@ -93,10 +104,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":164,
     "wof:belongsto":[
         102191569,
@@ -108,13 +121,16 @@
     "wof:concordances":{
         "gn:id":1279405,
         "gp:id":2294676,
+        "ks:id":"KS11E38DC075FB4D7B9BED84F8C8C3D7C6",
         "qs_pg:id":194821,
         "wd:id":"Q490715",
         "wk:page":"Abiramam"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"fd0693b12ba3c7be808fd8736cb7fa7a",
     "wof:hierarchy":[
@@ -127,11 +143,11 @@
         }
     ],
     "wof:id":102031043,
-    "wof:lastmodified":1658780724,
-    "wof:name":"Abir\u0101mam",
+    "wof:lastmodified":1682525278,
+    "wof:name":"Abiramam",
     "wof:parent_id":890510819,
     "wof:placetype":"locality",
-    "wof:population":6837,
+    "wof:population":6638,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

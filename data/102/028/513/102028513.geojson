@@ -13,12 +13,20 @@
     "gn:longitude":75.36161,
     "gn:population":69878,
     "iso:country":"IN",
-    "lbl:latitude":12.041923,
-    "lbl:longitude":75.368905,
+    "ks:ks_id":"KSA20C1A6B9DAB4C52AC543E490E2688BD",
+    "ks:ks_name":"Taliparamba",
+    "ks:ks_pop":67507,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3202000140202000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_142663",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":12.040425,
+    "lbl:longitude":75.360023,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":11.97097,
-    "mps:longitude":75.347871,
+    "mps:latitude":12.040425,
+    "mps:longitude":75.360023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,6 +56,9 @@
         "\u0aa4\u0abe\u0ab2\u0ac0\u0aaa\u0abe\u0ab0\u0a82\u0aac\u0abe"
     ],
     "name:hin_x_preferred":[
+        "\u0924\u093e\u0932\u0940\u092a\u0930\u0902\u092c\u093e"
+    ],
+    "name:hin_x_variant":[
         "\u0924\u093e\u0932\u0940\u092a\u0930\u092e\u094d\u200d\u092c\u093e"
     ],
     "name:ita_x_preferred":[
@@ -130,10 +141,12 @@
     "reversegeo:longitude":75.368905,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1007,
     "wof:belongsto":[
         102191569,
@@ -145,11 +158,16 @@
     "wof:concordances":{
         "gn:id":1255121,
         "gp:id":55954346,
+        "ks:id":"KSA20C1A6B9DAB4C52AC543E490E2688BD",
         "qs_pg:id":131167,
         "wd:id":"Q2568358",
         "wk:page":"Taliparamba"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"cd3483ac5c9244954dfb0848cb7b1103",
     "wof:hierarchy":[
         {
@@ -161,11 +179,11 @@
         }
     ],
     "wof:id":102028513,
-    "wof:lastmodified":1658780789,
+    "wof:lastmodified":1686162214,
     "wof:name":"Taliparamba",
     "wof:parent_id":890503071,
     "wof:placetype":"locality",
-    "wof:population":69878,
+    "wof:population":67507,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

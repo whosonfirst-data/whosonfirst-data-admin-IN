@@ -13,12 +13,19 @@
     "gn:latitude":11.80122,
     "gn:longitude":76.00514,
     "iso:country":"IN",
-    "lbl:latitude":11.803548,
-    "lbl:longitude":76.005364,
+    "ks:ks_id":"KSC267BBC0D3414FDF81A13AECC6DCA307",
+    "ks:ks_name":"Mananthavady",
+    "ks:ks_pop":4248,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|667010",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_138288",
+    "lbl:latitude":11.81063,
+    "lbl:longitude":76.00497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":11.797457,
-    "mps:longitude":76.003418,
+    "mps:latitude":11.81063,
+    "mps:longitude":76.00497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -104,9 +111,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":1398,
     "wof:belongsto":[
         102191569,
@@ -118,13 +128,16 @@
     "wof:concordances":{
         "gn:id":1263959,
         "gp:id":2281844,
+        "ks:id":"KSC267BBC0D3414FDF81A13AECC6DCA307",
         "qs_pg:id":906236,
         "wd:id":"Q6746915",
         "wk:page":"Mananthavady"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"96f161f122c4b3249087431bb401f1ad",
     "wof:hierarchy":[
@@ -137,10 +150,12 @@
         }
     ],
     "wof:id":102029471,
-    "wof:lastmodified":1658780752,
+    "wof:lastmodified":1682523933,
     "wof:name":"Mananthavady",
     "wof:parent_id":890507581,
     "wof:placetype":"locality",
+    "wof:population":4248,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

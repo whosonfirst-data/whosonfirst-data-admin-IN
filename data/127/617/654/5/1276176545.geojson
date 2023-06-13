@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.81706,27.15114,79.81706,27.15114",
-    "geom:latitude":27.15114,
-    "geom:longitude":79.81706,
+    "geom:bbox":"79.816556,27.15054,79.818577,27.15145",
+    "geom:latitude":27.151003,
+    "geom:longitude":79.817507,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Badnapur",
@@ -24,12 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.79706,27.13114,79.83706,27.17114",
+    "ks:ks_id":"KSB33E851EF89443898B7D9ECB19A1D976",
+    "ks:ks_name":"Badanapur",
+    "ks:ks_pop":159,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|61202",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1892519",
+    "lbl:latitude":27.150995,
+    "lbl:longitude":79.817305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.150995,
+    "mps:longitude":79.817305,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Badanapur"
+    ],
+    "name:eng_x_variant":[
+        "Badnapur"
+    ],
     "name:fra_x_preferred":[
         "Badnapur"
     ],
@@ -40,7 +56,13 @@
     "name:urd_x_preferred":[
         "\u0628\u062f\u0646\u0627\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -49,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6995103
+        "gn:id":6995103,
+        "ks:id":"KSB33E851EF89443898B7D9ECB19A1D976"
     },
     "wof:country":"IN",
-    "wof:geomhash":"673904201cab8e2c2eb44226fcdee201",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7a301c8a7a07004c93f4a2e9a1654393",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +89,22 @@
         }
     ],
     "wof:id":1276176545,
-    "wof:lastmodified":1566692094,
-    "wof:name":"Badnapur",
+    "wof:lastmodified":1682764007,
+    "wof:name":"Badanapur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.81706,
-    27.15114,
-    79.81706,
-    27.15114
+    79.816556,
+    27.15054,
+    79.818577,
+    27.15145
 ],
-  "geometry": {"coordinates":[79.81706,27.15114],"type":"Point"}
+  "geometry": {"coordinates":[[[79.817764,27.15145],[79.81776499999999,27.15136],[79.818168,27.151363],[79.818169,27.151273],[79.818371,27.151275],[79.818372,27.151185],[79.818574,27.151186],[79.818577,27.150915],[79.818476,27.150915],[79.818477,27.150824],[79.818376,27.150824],[79.818377,27.150733],[79.818074,27.150731],[79.81807499999999,27.15064],[79.81757,27.150636],[79.817571,27.150546],[79.81686500000001,27.15054],[79.816864,27.15063],[79.81676299999999,27.150629],[79.816762,27.15072],[79.816661,27.150719],[79.816659,27.150899],[79.816558,27.150898],[79.81655600000001,27.151169],[79.81665700000001,27.15117],[79.81665599999999,27.15126],[79.816756,27.151261],[79.816756,27.151352],[79.816957,27.151353],[79.816956,27.151443],[79.817764,27.15145]]],"type":"Polygon"}
 }

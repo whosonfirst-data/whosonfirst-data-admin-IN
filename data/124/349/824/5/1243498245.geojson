@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.52059,27.04807,82.52059,27.04807",
-    "geom:latitude":27.04807,
-    "geom:longitude":82.52059,
+    "geom:bbox":"82.519925,27.046727,82.521443,27.048538",
+    "geom:latitude":27.047632,
+    "geom:longitude":82.520707,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Daryapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.50059,27.02807,82.54059,27.06807",
+    "ks:ks_id":"KSD2B0CBEFEFA34D39BE1C70B3FD22522F",
+    "ks:ks_name":"Dariyapur",
+    "ks:ks_pop":215,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|251361",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1975467",
+    "lbl:latitude":27.047635,
+    "lbl:longitude":82.520692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.047635,
+    "mps:longitude":82.520692,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09b0\u09bf\u09af\u09bc\u09be\u09aa\u09c1\u09b0 \u09ac\u09be\u09a8\u09cb\u09b8\u09be"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Dary\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Dariyapur"
+    ],
+    "name:eng_x_variant":[
+        "Daryapur"
     ],
     "name:ind_x_preferred":[
         "Daryapur Banosa"
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u91cc\u4e9a\u666e\u5c14\u5df4\u8bfa\u8428"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10603580
+        "gn:id":10603580,
+        "ks:id":"KSD2B0CBEFEFA34D39BE1C70B3FD22522F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9717ebd0cd9c5c588964c6b62393ae92",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"43da0de293188ac803d5eae85055be64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1243498245,
-    "wof:lastmodified":1566706783,
-    "wof:name":"Daryapur",
+    "wof:lastmodified":1682717364,
+    "wof:name":"Dariyapur",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.52059,
-    27.04807000000001,
-    82.52059,
-    27.04807000000001
+    82.519925,
+    27.046727,
+    82.521443,
+    27.048538
 ],
-  "geometry": {"coordinates":[82.52059,27.04807000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[82.520949,27.048534],[82.520948,27.048444],[82.52114899999999,27.048442],[82.521148,27.048352],[82.521249,27.048351],[82.521248,27.04826],[82.521348,27.048259],[82.521342,27.047808],[82.521443,27.047807],[82.521435,27.047175],[82.521334,27.047176],[82.52133000000001,27.046905],[82.52122900000001,27.046907],[82.52122799999999,27.046816],[82.52112700000001,27.046817],[82.521126,27.046727],[82.520521,27.046734],[82.520523,27.046824],[82.520422,27.046825],[82.52042299999999,27.046915],[82.52032199999999,27.046916],[82.520323,27.047007],[82.520223,27.047008],[82.520224,27.047098],[82.520123,27.047099],[82.520124,27.047189],[82.52002299999999,27.04719],[82.520026,27.047371],[82.519925,27.047372],[82.519935,27.048094],[82.520036,27.048093],[82.520038,27.048273],[82.520139,27.048272],[82.52014,27.048363],[82.520342,27.04836],[82.520343,27.048451],[82.520645,27.048447],[82.520646,27.048538],[82.520949,27.048534]]],"type":"Polygon"}
 }

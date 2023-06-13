@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.39593,27.17117,79.39593,27.17117",
-    "geom:latitude":27.17117,
-    "geom:longitude":79.39593,
+    "geom:bbox":"79.39487,27.170556,79.397199,27.171538",
+    "geom:latitude":27.171091,
+    "geom:longitude":79.396044,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Manikapur",
@@ -24,12 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.37593,27.15117,79.41593,27.19117",
+    "ks:ks_id":"KSD091A6CAB9A74EA0B3908346651E5591",
+    "ks:ks_name":"Manikpur",
+    "ks:ks_pop":394,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|673737",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1747427",
+    "lbl:latitude":27.171009,
+    "lbl:longitude":79.396546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.171009,
+    "mps:longitude":79.396546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Manikpur"
+    ],
+    "name:eng_x_variant":[
+        "Manikapur"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u0928\u093f\u0915\u093e\u092a\u0941\u0930"
     ],
@@ -45,7 +61,13 @@
     "name:pol_x_preferred":[
         "Manikapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6993672
+        "gn:id":6993672,
+        "ks:id":"KSD091A6CAB9A74EA0B3908346651E5591"
     },
     "wof:country":"IN",
-    "wof:geomhash":"31704facdb5644cafb31d093ad3849cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"844a26cd3ced39ef956f5962a89ccc1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +94,22 @@
         }
     ],
     "wof:id":1259626523,
-    "wof:lastmodified":1566709035,
-    "wof:name":"Manikapur",
+    "wof:lastmodified":1682732772,
+    "wof:name":"Manikpur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39593,
-    27.17117,
-    79.39593,
-    27.17117
+    79.39487,
+    27.170556,
+    79.397199,
+    27.171538
 ],
-  "geometry": {"coordinates":[79.39593000000001,27.17117],"type":"Point"}
+  "geometry": {"coordinates":[[[79.395475,27.171538],[79.395477,27.171448],[79.395578,27.171449],[79.395579,27.171359],[79.39568,27.17136],[79.395681,27.17127],[79.395782,27.171271],[79.39578299999999,27.171181],[79.395985,27.171183],[79.395984,27.171273],[79.396387,27.171278],[79.39638600000001,27.171368],[79.397092,27.171376],[79.397094,27.171286],[79.397195,27.171287],[79.397199,27.171016],[79.397098,27.171015],[79.39709999999999,27.170835],[79.39699899999999,27.170833],[79.397001,27.170743],[79.3969,27.170742],[79.396901,27.170652],[79.396497,27.170647],[79.39649900000001,27.170557],[79.396398,27.170556],[79.396396,27.170646],[79.39629600000001,27.170645],[79.396294,27.170735],[79.396193,27.170734],[79.396192,27.170824],[79.396091,27.170823],[79.396089,27.171004],[79.395988,27.171002],[79.39598599999999,27.171093],[79.395785,27.17109],[79.395786,27.171],[79.395685,27.170999],[79.395686,27.170909],[79.395585,27.170908],[79.39558700000001,27.170817],[79.395385,27.170815],[79.395386,27.170725],[79.395285,27.170724],[79.395284,27.170814],[79.395082,27.170812],[79.39507999999999,27.170992],[79.39497900000001,27.170991],[79.394977,27.171081],[79.394876,27.17108],[79.39487,27.171531],[79.395475,27.171538]]],"type":"Polygon"}
 }

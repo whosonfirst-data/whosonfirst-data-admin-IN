@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.9443,27.22456,80.9443,27.22456",
-    "geom:latitude":27.22456,
-    "geom:longitude":80.9443,
+    "geom:bbox":"80.943816,27.22368,80.945231,27.225125",
+    "geom:latitude":27.224406,
+    "geom:longitude":80.944498,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Balrampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.9243,27.20456,80.9643,27.24456",
+    "ks:ks_id":"KSB7873B88845A4EB8B20934FB38A48800",
+    "ks:ks_name":"Balrampur",
+    "ks:ks_pop":178,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|83218",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1895121",
+    "lbl:latitude":27.224398,
+    "lbl:longitude":80.944511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.224398,
+    "mps:longitude":80.944511,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0631\u0627\u0645\u0628\u0648\u0631"
@@ -49,6 +59,9 @@
         "Balr\u0101mpur"
     ],
     "name:deu_x_preferred":[
+        "Balrampur"
+    ],
+    "name:eng_x_preferred":[
         "Balrampur"
     ],
     "name:fra_x_preferred":[
@@ -132,7 +145,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u62c9\u59c6\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -141,10 +160,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10580621
+        "gn:id":10580621,
+        "ks:id":"KSB7873B88845A4EB8B20934FB38A48800"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1377a154a7eee633070a3a4fc3d1c0d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8665757eaa7ecc9f7607eab824580c21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,20 +178,22 @@
         }
     ],
     "wof:id":1226587065,
-    "wof:lastmodified":1577754252,
+    "wof:lastmodified":1686165769,
     "wof:name":"Balrampur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.9443,
-    27.22456,
-    80.9443,
-    27.22456
+    80.943816,
+    27.22368,
+    80.945231,
+    27.225125
 ],
-  "geometry": {"coordinates":[80.9443,27.22456],"type":"Point"}
+  "geometry": {"coordinates":[[[80.944422,27.225125],[80.944422,27.225035],[80.94482600000001,27.225035],[80.94482600000001,27.224944],[80.94502799999999,27.224944],[80.94502799999999,27.224854],[80.94512899999999,27.224854],[80.94512899999999,27.224674],[80.94523,27.224674],[80.94523100000001,27.224132],[80.94513000000001,27.224132],[80.94513000000001,27.223861],[80.94502900000001,27.223861],[80.94502900000001,27.223771],[80.944928,27.223771],[80.944928,27.22368],[80.944322,27.22368],[80.944322,27.223771],[80.944221,27.22377],[80.944221,27.223861],[80.944019,27.223861],[80.944019,27.223951],[80.943918,27.223951],[80.943918,27.224041],[80.943817,27.224041],[80.943816,27.225125],[80.944018,27.225125],[80.944018,27.225034],[80.94422,27.225034],[80.94422,27.225125],[80.944422,27.225125]]],"type":"Polygon"}
 }

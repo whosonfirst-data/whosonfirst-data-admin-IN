@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.13064,25.35301,82.13064,25.35301",
-    "geom:latitude":25.35301,
-    "geom:longitude":82.13064,
+    "geom:bbox":"82.130417,25.352135,82.13161,25.353316",
+    "geom:latitude":25.352739,
+    "geom:longitude":82.131032,
     "gn:admin1_code":"36",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Naga",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.11064,25.33301,82.15064,25.37301",
+    "ks:ks_alt_nam":"N\u0101g\u0101",
+    "ks:ks_id":"KS51D5FE45D6C34AE7AFD93AAB8BAA2062",
+    "ks:ks_name":"Naga",
+    "ks:ks_source_id":"N|12998033",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1911485",
+    "lbl:latitude":25.352725,
+    "lbl:longitude":82.131043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.352725,
+    "mps:longitude":82.131043,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u062c\u0627"
@@ -59,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Naga"
+    ],
+    "name:eng_x_variant":[
+        "N\u0101g\u0101"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u06af\u0627"
@@ -144,7 +156,11 @@
     "name:zho_tw_x_preferred":[
         "\u90a3\u7259"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,10 +169,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547393
+        "gn:id":10547393,
+        "ks:id":"KS51D5FE45D6C34AE7AFD93AAB8BAA2062"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4c4e44147111044eb4e957bc842861c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"903c196431cbb8f0368ee0afb2d60669",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +187,7 @@
         }
     ],
     "wof:id":1276269731,
-    "wof:lastmodified":1636505446,
+    "wof:lastmodified":1682766298,
     "wof:name":"Naga",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
@@ -177,10 +197,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.13064,
-    25.35301,
-    82.13064,
-    25.35301
+    82.130417,
+    25.352135,
+    82.13161,
+    25.353316
 ],
-  "geometry": {"coordinates":[82.13064,25.35301],"type":"Point"}
+  "geometry": {"coordinates":[[[82.13121700000001,25.353311],[82.13121599999999,25.353221],[82.13141400000001,25.353219],[82.13141400000001,25.353129],[82.131513,25.353128],[82.13151000000001,25.352857],[82.13160999999999,25.352857],[82.131604,25.352225],[82.131505,25.352225],[82.13150400000001,25.352135],[82.13090800000001,25.35214],[82.13090800000001,25.35223],[82.13070999999999,25.352231],[82.13070999999999,25.352322],[82.130611,25.352322],[82.130613,25.352503],[82.13051299999999,25.352504],[82.130516,25.352775],[82.13041699999999,25.352775],[82.130421,25.353227],[82.13052,25.353226],[82.130521,25.353316],[82.13121700000001,25.353311]]],"type":"Polygon"}
 }

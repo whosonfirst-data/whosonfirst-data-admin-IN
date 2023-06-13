@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.765,25.10485,84.765,25.10485",
-    "geom:latitude":25.10485,
-    "geom:longitude":84.765,
+    "geom:bbox":"84.763202,25.118445,84.765694,25.119629",
+    "geom:latitude":25.118988,
+    "geom:longitude":84.764398,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"240.0",
     "gn:asciiname":"Dharampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.745,25.08485,84.785,25.12485",
+    "ks:ks_id":"KSB3663B66C48046FEBA308D5782F8CC81",
+    "ks:ks_name":"Dharampur",
+    "ks:ks_pop":1591,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1033000403707200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2054338",
+    "lbl:latitude":25.119039,
+    "lbl:longitude":84.764297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.119039,
+    "mps:longitude":84.764297,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a7\u09b0\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Dharampur"
     ],
     "name:guj_x_preferred":[
         "\u0aa7\u0ab0\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06be\u0631\u0645\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833435
+        "gn:id":10833435,
+        "ks:id":"KSB3663B66C48046FEBA308D5782F8CC81"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3a063977f412f9ed0eb8a8b786402824",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb6c0689e32b47da1ef47805a470b095",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1193223101,
-    "wof:lastmodified":1577751138,
+    "wof:lastmodified":1682598968,
     "wof:name":"Dharampur",
     "wof:parent_id":1108695955,
     "wof:placetype":"locality",
+    "wof:population":1591,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.765,
-    25.10485,
-    84.765,
-    25.10485
+    84.763202,
+    25.118445,
+    84.765694,
+    25.119629
 ],
-  "geometry": {"coordinates":[84.765,25.10485],"type":"Point"}
+  "geometry": {"coordinates":[[[84.764484,25.119629],[84.76448600000001,25.119539],[84.764684,25.119542],[84.764686,25.119451],[84.764884,25.119454],[84.764886,25.119364],[84.764985,25.119366],[84.764987,25.119275],[84.765185,25.119278],[84.765187,25.119188],[84.765286,25.11919],[84.765287,25.119099],[84.76538600000001,25.119101],[84.765388,25.119011],[84.76548699999999,25.119012],[84.76549,25.118832],[84.76559,25.118833],[84.765591,25.118743],[84.76569000000001,25.118744],[84.765694,25.118564],[84.76559399999999,25.118562],[84.765596,25.118472],[84.76519999999999,25.118466],[84.765198,25.118556],[84.76490099999999,25.118552],[84.764899,25.118642],[84.764602,25.118638],[84.76460299999999,25.118547],[84.764306,25.118543],[84.764308,25.118453],[84.763812,25.118445],[84.76381000000001,25.118535],[84.763711,25.118534],[84.76371,25.118624],[84.76351099999999,25.118621],[84.763508,25.118802],[84.763409,25.1188],[84.763407,25.11889],[84.76330799999999,25.118889],[84.763305,25.119069],[84.763206,25.119068],[84.76320200000001,25.119248],[84.763302,25.11925],[84.7633,25.11934],[84.763597,25.119345],[84.76359600000001,25.119435],[84.763893,25.119439],[84.763891,25.11953],[84.76409,25.119533],[84.764088,25.119623],[84.764484,25.119629]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.83842,26.21362,82.83842,26.21362",
-    "geom:latitude":26.21362,
-    "geom:longitude":82.83842,
+    "geom:bbox":"82.841727,26.215812,82.842935,26.216718",
+    "geom:latitude":26.216275,
+    "geom:longitude":82.842325,
     "gn:admin1_code":"36",
     "gn:admin2_code":"178.0",
     "gn:asciiname":"Nasirpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.81842,26.19362,82.85842,26.23362",
+    "ks:ks_id":"KS719F3361995A4B38BCE04D2514FA40A4",
+    "ks:ks_name":"Nasirpur",
+    "ks:ks_pop":330,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|764624",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1933884",
+    "lbl:latitude":26.216308,
+    "lbl:longitude":82.842336,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.216308,
+    "mps:longitude":82.842336,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0635\u0631 \u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a8\u09be\u09b8\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Nasirpur"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0635\u06cc\u0631\u067e\u0648\u0631"
@@ -78,7 +91,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u0635\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10653147
+        "gn:id":10653147,
+        "ks:id":"KS719F3361995A4B38BCE04D2514FA40A4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1460799e58cdac05fea3e6946871754d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2540a01e7c6017249f37d47cde496e55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1242730221,
-    "wof:lastmodified":1577752812,
+    "wof:lastmodified":1682690657,
     "wof:name":"Nasirpur",
     "wof:parent_id":1108695849,
     "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.83842,
-    26.21362,
-    82.83842,
-    26.21362
+    82.841727,
+    26.215812,
+    82.842935,
+    26.216718
 ],
-  "geometry": {"coordinates":[82.83842,26.21362],"type":"Point"}
+  "geometry": {"coordinates":[[[82.842738,26.216619],[82.842736,26.216529],[82.84283600000001,26.216527],[82.84283499999999,26.216437],[82.842935,26.216436],[82.84293099999999,26.216165],[82.842831,26.216166],[82.84282899999999,26.216076],[82.84272900000001,26.216078],[82.84272799999999,26.215987],[82.842528,26.21599],[82.84252600000001,26.2159],[82.842326,26.215902],[82.842325,26.215812],[82.842125,26.215814],[82.84212599999999,26.215905],[82.841826,26.215909],[82.84182699999999,26.215999],[82.84172700000001,26.216],[82.84173,26.216181],[82.84183,26.216179],[82.84183400000001,26.21645],[82.84193500000001,26.216449],[82.841936,26.216539],[82.84203599999999,26.216538],[82.842039,26.216718],[82.842539,26.216712],[82.842538,26.216622],[82.842738,26.216619]]],"type":"Polygon"}
 }

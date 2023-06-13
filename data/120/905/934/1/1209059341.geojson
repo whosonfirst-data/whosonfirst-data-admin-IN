@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.96106,22.07974,74.96106,22.07974",
-    "geom:latitude":22.07974,
-    "geom:longitude":74.96106,
+    "geom:bbox":"74.960033,22.079387,74.96139,22.08029",
+    "geom:latitude":22.079848,
+    "geom:longitude":74.960718,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"441.0",
     "gn:asciiname":"Bagud",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.94106,22.05974,74.98106,22.09974",
+    "ks:ks_alt_nam":"Bag\u016bd",
+    "ks:ks_id":"KSC5B3E5B453E442FFBA33325D331CA6A6",
+    "ks:ks_name":"Bagud",
+    "ks:ks_pop":905,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13120688",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_744588",
+    "lbl:latitude":22.079883,
+    "lbl:longitude":74.960663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.079883,
+    "mps:longitude":74.960663,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u063a\u0648\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Bagud"
+    ],
+    "name:eng_x_variant":[
+        "Bag\u016bd"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06af\u0648\u062f"
@@ -39,37 +56,55 @@
     "name:msa_x_preferred":[
         "Bagud"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696227
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10687383
+        "gn:id":10687383,
+        "ks:id":"KSC5B3E5B453E442FFBA33325D331CA6A6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a867097ee2235dd52d989b23928e64f9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca434f76e37ef9162cb282940262df0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209059341
+            "county_id":1108696227,
+            "locality_id":1209059341,
+            "region_id":85672239
         }
     ],
     "wof:id":1209059341,
-    "wof:lastmodified":1566696493,
+    "wof:lastmodified":1682603459,
     "wof:name":"Bagud",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696227,
     "wof:placetype":"locality",
+    "wof:population":905,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.96106,
-    22.07974,
-    74.96106,
-    22.07974
+    74.960033,
+    22.079387,
+    74.96139,
+    22.08029
 ],
-  "geometry": {"coordinates":[74.96106,22.07974],"type":"Point"}
+  "geometry": {"coordinates":[[[74.960905,22.08029],[74.960905,22.0802],[74.961196,22.0802],[74.961196,22.080109],[74.961099,22.080109],[74.961099,22.080019],[74.961196,22.080019],[74.961196,22.079929],[74.961293,22.079929],[74.961293,22.079838],[74.96138999999999,22.079838],[74.96138999999999,22.079658],[74.961293,22.079658],[74.961293,22.079567],[74.961196,22.079567],[74.961196,22.079477],[74.961099,22.079477],[74.961099,22.079387],[74.960711,22.079387],[74.960711,22.079477],[74.960324,22.079477],[74.960324,22.079567],[74.960227,22.079567],[74.960227,22.079748],[74.96013000000001,22.079748],[74.96013000000001,22.080109],[74.960033,22.080109],[74.960033,22.0802],[74.96042,22.0802],[74.96042,22.08029],[74.960905,22.08029]]],"type":"Polygon"}
 }

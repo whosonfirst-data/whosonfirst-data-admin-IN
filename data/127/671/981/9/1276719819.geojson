@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.98796999999998,31.36422,75.98796999999998,31.36422",
-    "geom:latitude":31.36422,
-    "geom:longitude":75.98797,
+    "geom:bbox":"75.991022,31.366462,75.992387,31.367371",
+    "geom:latitude":31.366927,
+    "geom:longitude":75.99168,
     "gn:admin1_code":"23",
     "gn:admin2_code":"38.0",
     "gn:asciiname":"Chamal Kalan",
@@ -24,9 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.96797,31.34422,76.00797,31.38422",
+    "ks:ks_id":"KSD242AF350C4947019C247E92604D083A",
+    "ks:ks_name":"Chambal Kalan",
+    "ks:ks_pop":487,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0305000400573900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2677783",
+    "lbl:latitude":31.366916,
+    "lbl:longitude":75.991693,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.366916,
+    "mps:longitude":75.991693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -36,19 +46,29 @@
     "name:eng_x_variant":[
         "Chamal Kalan"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
-        890508953,
-        85672195
+        85672195,
+        890508953
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10713437
+        "gn:id":10713437,
+        "ks:id":"KSD242AF350C4947019C247E92604D083A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1657e31f4319bfc7fbd14e2e54b828df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"466e549a607ca14e8748bb2889ad9d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +79,22 @@
         }
     ],
     "wof:id":1276719819,
-    "wof:lastmodified":1627950357,
+    "wof:lastmodified":1682784409,
     "wof:name":"Chambal Kalan",
     "wof:parent_id":890508953,
     "wof:placetype":"locality",
+    "wof:population":487,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.98796999999998,
-    31.36422,
-    75.98796999999998,
-    31.36422
+    75.991022,
+    31.366462,
+    75.992387,
+    31.367371
 ],
-  "geometry": {"coordinates":[75.98796999999998,31.36422],"type":"Point"}
+  "geometry": {"coordinates":[[[75.99176199999999,31.367367],[75.991761,31.367277],[75.99197100000001,31.367275],[75.99196999999999,31.367185],[75.992075,31.367184],[75.992074,31.367094],[75.99217899999999,31.367093],[75.992178,31.366913],[75.992283,31.366912],[75.992282,31.366822],[75.99238699999999,31.366821],[75.992386,31.366731],[75.99228100000001,31.366731],[75.99227999999999,31.366641],[75.992175,31.366642],[75.99217400000001,31.366552],[75.992069,31.366553],[75.992068,31.366462],[75.991647,31.366466],[75.991648,31.366556],[75.991438,31.366557],[75.991439,31.366648],[75.99133399999999,31.366649],[75.99133500000001,31.366739],[75.991229,31.36674],[75.99123,31.36683],[75.991125,31.366831],[75.99112700000001,31.367011],[75.991022,31.367012],[75.991024,31.367192],[75.991129,31.367191],[75.99113,31.367282],[75.991235,31.367281],[75.991236,31.367371],[75.99176199999999,31.367367]]],"type":"Polygon"}
 }

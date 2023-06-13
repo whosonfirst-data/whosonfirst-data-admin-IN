@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,42 +29,50 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Hirapur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890507435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10541506
     },
     "wof:country":"IN",
-    "wof:geomhash":"73f83ba3b1610c210e6c0ce756debce2",
+    "wof:geomhash":"7afc9717b8351ec1853d424d624b40b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209459425
+            "county_id":890507435,
+            "locality_id":1209459425,
+            "region_id":85672239
         }
     ],
     "wof:id":1209459425,
-    "wof:lastmodified":1566696868,
+    "wof:lastmodified":1682619871,
     "wof:name":"Hirapur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507435,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847148423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.18829000000002,
+    80.18829,
     24.3529,
-    80.18829000000002,
+    80.18829,
     24.3529
 ],
-  "geometry": {"coordinates":[80.18829000000002,24.3529],"type":"Point"}
+  "geometry": {"coordinates":[80.18828999999999,24.3529],"type":"Point"}
 }

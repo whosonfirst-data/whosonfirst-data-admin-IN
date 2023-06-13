@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.34704,25.58953,83.34704,25.58953",
-    "geom:latitude":25.58953,
-    "geom:longitude":83.34704,
+    "geom:bbox":"83.345729,25.588027,83.349402,25.590116",
+    "geom:latitude":25.589368,
+    "geom:longitude":83.34791,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Kamalpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.32704,25.56953,83.36704,25.60953",
+    "ks:ks_alt_nam":"Kam\u0101lpur",
+    "ks:ks_id":"KS7AAC92F8FDA94208AE99268B0F366848",
+    "ks:ks_name":"Kamalpur",
+    "ks:ks_pop":605,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|495214",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1942638",
+    "lbl:latitude":25.589587,
+    "lbl:longitude":83.347479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.589587,
+    "mps:longitude":83.347479,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kamalpur"
     ],
     "name:ceb_x_preferred":[
         "Kamalpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kamalpur"
+    ],
+    "name:eng_x_variant":[
+        "Kam\u0101lpur"
     ],
     "name:fra_x_preferred":[
         "Kamalpur"
@@ -45,7 +62,13 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bb2\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10502189
+        "gn:id":10502189,
+        "ks:id":"KS7AAC92F8FDA94208AE99268B0F366848"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dc93bba17957638c4452a55b2a44ec0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"74d7706b9404fa6e73254ab8c58a3c04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1310244083,
-    "wof:lastmodified":1566700286,
+    "wof:lastmodified":1682857611,
     "wof:name":"Kamalpur",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.34704,
-    25.58953,
-    83.34704,
-    25.58953
+    83.345729,
+    25.588027,
+    83.349402,
+    25.590116
 ],
-  "geometry": {"coordinates":[83.34704000000001,25.58953],"type":"Point"}
+  "geometry": {"coordinates":[[[83.34883000000001,25.590107],[83.348826,25.589926],[83.34892600000001,25.589925],[83.348922,25.589744],[83.34902200000001,25.589743],[83.34902,25.589653],[83.349119,25.589651],[83.349118,25.589561],[83.349217,25.589559],[83.34921199999999,25.589288],[83.349311,25.589287],[83.34930199999999,25.588836],[83.349402,25.588834],[83.349397,25.588563],[83.34929700000001,25.588565],[83.349294,25.588385],[83.349194,25.588386],[83.349189,25.588115],[83.34908900000001,25.588117],[83.34908799999999,25.588027],[83.348889,25.58803],[83.34889,25.58812],[83.34879100000001,25.588122],[83.348793,25.588212],[83.348693,25.588214],[83.348697,25.588394],[83.348597,25.588396],[83.348601,25.588576],[83.348501,25.588578],[83.34851,25.589029],[83.348411,25.589031],[83.34841400000001,25.589211],[83.348315,25.589213],[83.348316,25.589303],[83.348018,25.589308],[83.348016,25.589217],[83.34781700000001,25.589221],[83.347815,25.58913],[83.346422,25.589153],[83.346424,25.589243],[83.346126,25.589248],[83.346127,25.589338],[83.34572900000001,25.589344],[83.345735,25.589615],[83.345834,25.589613],[83.34583600000001,25.589704],[83.346135,25.589699],[83.346136,25.589789],[83.346236,25.589788],[83.346238,25.589878],[83.346835,25.589868],[83.346836,25.589958],[83.34713499999999,25.589954],[83.347137,25.590044],[83.348231,25.590026],[83.34823299999999,25.590116],[83.34883000000001,25.590107]]],"type":"Polygon"}
 }

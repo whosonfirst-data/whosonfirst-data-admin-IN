@@ -11,12 +11,20 @@
     "geom:longitude":86.30566,
     "gn:population":60000,
     "iso:country":"IN",
-    "lbl:latitude":24.180771,
-    "lbl:longitude":86.310204,
+    "ks:ks_id":"KS07699247DF354A34B4D65AA320707757",
+    "ks:ks_name":"Giridih",
+    "ks:ks_pop":98989,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2006000840603000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2801029",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":24.186861,
+    "lbl:longitude":86.302309,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":24.181832,
-    "mps:longitude":86.314148,
+    "mps:latitude":24.186861,
+    "mps:longitude":86.302309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,6 +50,9 @@
     "name:eng_x_preferred":[
         "Giridih"
     ],
+    "name:eng_x_variant":[
+        "Gir\u012bd\u012bh"
+    ],
     "name:fra_x_preferred":[
         "Giridih"
     ],
@@ -49,10 +60,11 @@
         "\u0a97\u0abf\u0ab0\u0abf\u0aa1\u0ac0\u0ab9"
     ],
     "name:hin_x_preferred":[
-        "\u0917\u093f\u0930\u0940\u0921\u0940\u0939"
+        "\u0917\u093f\u0930\u093f\u0921\u0940\u0939"
     ],
     "name:hin_x_variant":[
-        "\u0917\u093f\u0930\u0940\u0921\u0940\u0939 \u091c\u093f\u0932\u093e"
+        "\u0917\u093f\u0930\u0940\u0921\u0940\u0939 \u091c\u093f\u0932\u093e",
+        "\u0917\u093f\u0930\u0940\u0921\u0940\u0939"
     ],
     "name:ita_x_preferred":[
         "Giridih"
@@ -138,10 +150,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -153,13 +167,16 @@
         "fct:id":"122dfe1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1271175,
         "gp:id":2294946,
+        "ks:id":"KS07699247DF354A34B4D65AA320707757",
         "qs_pg:id":194834,
         "wd:id":"Q202132",
         "wk:page":"Giridih"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5826d1b50ce1554dad0949ceeca65c8d",
     "wof:hierarchy":[
@@ -175,11 +192,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780729,
-    "wof:name":"Gir\u012bd\u012bh",
+    "wof:lastmodified":1686162181,
+    "wof:name":"Giridih",
     "wof:parent_id":1108696099,
     "wof:placetype":"locality",
-    "wof:population":60000,
+    "wof:population":98989,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

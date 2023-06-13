@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.25036,13.79491,77.25036,13.79491",
-    "geom:latitude":13.79491,
-    "geom:longitude":77.25036,
+    "geom:bbox":"77.246647,13.793816,77.247763,13.795357",
+    "geom:latitude":13.79453,
+    "geom:longitude":77.247114,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"571.0",
     "gn:asciiname":"Hoskote",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.23036,13.77491,77.27036,13.81491",
+    "ks:ks_id":"KSD88A5652219048E3BA8AC4B9398A4797",
+    "ks:ks_name":"Hosakote",
+    "ks:ks_pop":380,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|426346",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_281783",
+    "lbl:latitude":13.794445,
+    "lbl:longitude":77.247104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.794445,
+    "mps:longitude":77.247104,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09b8\u0995\u09cb\u099f\u09c7"
@@ -37,6 +47,12 @@
         "\u09b9\u09cb\u09b8\u0995\u09cb\u099f\u09c7"
     ],
     "name:ceb_x_preferred":[
+        "Hoskote"
+    ],
+    "name:eng_x_preferred":[
+        "Hosakote"
+    ],
+    "name:eng_x_variant":[
         "Hoskote"
     ],
     "name:ita_x_preferred":[
@@ -72,37 +88,55 @@
     "name:zho_x_preferred":[
         "\u970d\u65af\u79d1\u6cf0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672165,
+        890508363
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10852379
+        "gn:id":10852379,
+        "ks:id":"KSD88A5652219048E3BA8AC4B9398A4797"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bfca76b50a29339ad1fd4701a8d6a8f8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9aa62d22cf7a0826ee1f4d8124c081e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209179327
+            "county_id":890508363,
+            "locality_id":1209179327,
+            "region_id":85672165
         }
     ],
     "wof:id":1209179327,
-    "wof:lastmodified":1566696972,
-    "wof:name":"Hoskote",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682609772,
+    "wof:name":"Hosakote",
+    "wof:parent_id":890508363,
     "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.25036,
-    13.79491,
-    77.25036,
-    13.79491
+    77.246647,
+    13.793816,
+    77.247763,
+    13.795357
 ],
-  "geometry": {"coordinates":[77.25036,13.79491],"type":"Point"}
+  "geometry": {"coordinates":[[[77.246937,13.795355],[77.24693600000001,13.795265],[77.24712100000001,13.795263],[77.247119,13.795082],[77.24721099999999,13.795081],[77.24721,13.794991],[77.247395,13.794989],[77.247394,13.794809],[77.24748599999999,13.794808],[77.247485,13.794717],[77.24776300000001,13.794715],[77.247758,13.794263],[77.247666,13.794264],[77.247665,13.794174],[77.24757200000001,13.794174],[77.24757200000001,13.794084],[77.247387,13.794086],[77.24738600000001,13.793995],[77.247293,13.793996],[77.247293,13.793906],[77.24720000000001,13.793907],[77.24719899999999,13.793816],[77.24682900000001,13.79382],[77.246831,13.794001],[77.24673900000001,13.794001],[77.24674,13.794092],[77.246647,13.794093],[77.24665299999999,13.794725],[77.246746,13.794724],[77.246746,13.794815],[77.24665400000001,13.794815],[77.246655,13.794906],[77.246747,13.794905],[77.246748,13.794995],[77.246656,13.794996],[77.246658,13.795267],[77.246751,13.795266],[77.246752,13.795357],[77.246937,13.795355]]],"type":"Polygon"}
 }

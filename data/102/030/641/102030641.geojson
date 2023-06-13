@@ -10,12 +10,20 @@
     "geom:latitude":25.446766,
     "geom:longitude":84.863404,
     "iso:country":"IN",
-    "lbl:latitude":25.446733,
-    "lbl:longitude":84.863043,
+    "ks:ks_id":"KS7EAAECD8EAB94C9A9FC94A62B596F926",
+    "ks:ks_name":"Bikram",
+    "ks:ks_pop":5199,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1028000802978000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2058046",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.44666,
+    "lbl:longitude":84.862135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":25.020906,
-    "mps:longitude":84.446411,
+    "mps:latitude":25.44666,
+    "mps:longitude":84.862135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -232,9 +240,12 @@
     "reversegeo:longitude":84.863043,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191569,
@@ -246,10 +257,15 @@
     "wof:concordances":{
         "gn:id":1275656,
         "gp:id":55923093,
+        "ks:id":"KS7EAAECD8EAB94C9A9FC94A62B596F926",
         "qs_pg:id":844428,
         "wd:id":"Q4907438"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"4ed840edf6e5f821b71c3bcb8e73eb2f",
     "wof:hierarchy":[
         {
@@ -261,10 +277,12 @@
         }
     ],
     "wof:id":102030641,
-    "wof:lastmodified":1658780743,
+    "wof:lastmodified":1682524917,
     "wof:name":"Bikram",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":5199,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

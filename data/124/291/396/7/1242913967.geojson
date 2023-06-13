@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.38046,25.59553,77.38046,25.59553",
-    "geom:latitude":25.59553,
-    "geom:longitude":77.38046,
+    "geom:bbox":"77.379171,25.593628,77.382135,25.596862",
+    "geom:latitude":25.595239,
+    "geom:longitude":77.380582,
     "gn:admin1_code":"35",
     "gn:admin2_code":"423.0",
     "gn:asciiname":"Amtala",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.36046,25.57553,77.40046,25.61553",
+    "ks:ks_alt_nam":"\u0100mtala",
+    "ks:ks_id":"KS351D043036F84E5F872839E2863CC6D8",
+    "ks:ks_name":"Amtala",
+    "ks:ks_pop":339,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12908794",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_805888",
+    "lbl:latitude":25.595379,
+    "lbl:longitude":77.380436,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.595379,
+    "mps:longitude":77.380436,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09a4\u09b2\u09be"
@@ -38,6 +49,12 @@
     ],
     "name:ceb_x_preferred":[
         "Amtala"
+    ],
+    "name:eng_x_preferred":[
+        "Amtala"
+    ],
+    "name:eng_x_variant":[
+        "\u0100mtala"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u062a\u0627\u0644\u0627"
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u963f\u59c6\u5854\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10476253
+        "gn:id":10476253,
+        "ks:id":"KS351D043036F84E5F872839E2863CC6D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"adc9842b7a7aec2cf8ad8aa1cc9fd9b4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e05ccd573d9e69ed59d2be0071e182f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1242913967,
-    "wof:lastmodified":1566707987,
+    "wof:lastmodified":1682696460,
     "wof:name":"Amtala",
     "wof:parent_id":1108696211,
     "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.38046,
-    25.59553,
-    77.38046,
-    25.59553
+    77.379171,
+    25.593628,
+    77.382135,
+    25.596862
 ],
-  "geometry": {"coordinates":[77.38046,25.59553],"type":"Point"}
+  "geometry": {"coordinates":[[[77.379171,25.594975],[77.37944,25.594975],[77.37944,25.595245],[77.37971,25.595245],[77.37971,25.595514],[77.37944,25.595514],[77.37944,25.596592],[77.37971,25.596592],[77.37971,25.596323],[77.37997900000001,25.596323],[77.37997900000001,25.596862],[77.38024900000001,25.596862],[77.38024900000001,25.596592],[77.380518,25.596592],[77.380518,25.596323],[77.380788,25.596323],[77.380788,25.596053],[77.381596,25.596053],[77.381596,25.595245],[77.381327,25.595245],[77.381327,25.594975],[77.381057,25.594975],[77.381057,25.594706],[77.381327,25.594706],[77.381327,25.594436],[77.381596,25.594436],[77.381596,25.594975],[77.381866,25.594975],[77.381866,25.594706],[77.38213500000001,25.594706],[77.38213500000001,25.593897],[77.381866,25.593897],[77.381866,25.593628],[77.381596,25.593628],[77.381596,25.593897],[77.381327,25.593897],[77.381327,25.594167],[77.381057,25.594167],[77.381057,25.594436],[77.379171,25.594436],[77.379171,25.594975]]],"type":"Polygon"}
 }

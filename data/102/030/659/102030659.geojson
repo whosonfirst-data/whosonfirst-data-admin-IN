@@ -10,16 +10,26 @@
     "geom:latitude":22.898769,
     "geom:longitude":69.475102,
     "iso:country":"IN",
-    "lbl:latitude":22.903033,
-    "lbl:longitude":69.476762,
+    "ks:ks_id":"KSC13DE9E251AB487D8678BDB1DBF83FE7",
+    "ks:ks_name":"Bidada",
+    "ks:ks_pop":9359,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|160811",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_667764",
+    "lbl:latitude":22.898221,
+    "lbl:longitude":69.475162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":22.902741,
-    "mps:longitude":69.471865,
+    "mps:latitude":22.898221,
+    "mps:longitude":69.475162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bidada"
+    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:id":0,
@@ -33,9 +43,12 @@
     "reversegeo:longitude":69.476762,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,9 +58,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1275741,
-        "gp:id":2274896
+        "gp:id":2274896,
+        "ks:id":"KSC13DE9E251AB487D8678BDB1DBF83FE7"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"edbc493f54dfe5c3bcbeb55a175758f2",
     "wof:hierarchy":[
         {
@@ -59,10 +77,12 @@
         }
     ],
     "wof:id":102030659,
-    "wof:lastmodified":1658780734,
+    "wof:lastmodified":1682524928,
     "wof:name":"Bidada",
     "wof:parent_id":890503811,
     "wof:placetype":"locality",
+    "wof:population":9359,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

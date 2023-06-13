@@ -13,12 +13,21 @@
     "gn:longitude":79.20156,
     "gn:population":21663,
     "iso:country":"IN",
-    "lbl:latitude":10.285727,
-    "lbl:longitude":79.199963,
+    "ks:ks_alt_nam":"Per\u0101v\u016brani",
+    "ks:ks_id":"KS4A4FBE73659142B28617D5D1EBB9FEBE",
+    "ks:ks_name":"Peravurani",
+    "ks:ks_pop":21045,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2107696",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_156902",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.286056,
+    "lbl:longitude":79.20199,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":10.331132,
-    "mps:longitude":79.140015,
+    "mps:latitude":10.286056,
+    "mps:longitude":79.20199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -40,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Peravurani"
+    ],
+    "name:eng_x_variant":[
+        "Per\u0101v\u016brani"
     ],
     "name:fra_x_preferred":[
         "Peravurani"
@@ -124,10 +136,12 @@
     "reversegeo:longitude":79.199963,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1893,
     "wof:belongsto":[
         102191569,
@@ -139,11 +153,16 @@
     "wof:concordances":{
         "gn:id":1259890,
         "gp:id":29080057,
+        "ks:id":"KS4A4FBE73659142B28617D5D1EBB9FEBE",
         "qs_pg:id":207122,
         "wd:id":"Q2716752",
         "wk:page":"Peravurani"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"e524df3782f63bf84997fa572e4b6db9",
     "wof:hierarchy":[
         {
@@ -155,11 +174,11 @@
         }
     ],
     "wof:id":102029029,
-    "wof:lastmodified":1658780764,
+    "wof:lastmodified":1682523645,
     "wof:name":"Peravurani",
     "wof:parent_id":890507453,
     "wof:placetype":"locality",
-    "wof:population":21663,
+    "wof:population":21045,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.94994,19.01318,83.94994,19.01318",
-    "geom:latitude":19.01318,
-    "geom:longitude":83.94994,
+    "geom:bbox":"83.950236,19.012463,83.95185,19.013464",
+    "geom:latitude":19.013002,
+    "geom:longitude":83.950939,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Thada",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.92994,18.99318,83.96994,19.03318",
+    "ks:ks_id":"KS4CEBADED7FDB4362A03BA984B3F77EE5",
+    "ks:ks_name":"Tada",
+    "ks:ks_pop":773,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1024543",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_608365",
+    "lbl:latitude":19.012997,
+    "lbl:longitude":83.950951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.012997,
+    "mps:longitude":83.950951,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0920\u093e\u0921\u093e"
     ],
     "name:ceb_x_preferred":[
+        "Thada"
+    ],
+    "name:eng_x_preferred":[
+        "Tada"
+    ],
+    "name:eng_x_variant":[
         "Thada"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +70,13 @@
     "name:pol_x_preferred":[
         "Thada"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10781145
+        "gn:id":10781145,
+        "ks:id":"KS4CEBADED7FDB4362A03BA984B3F77EE5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"21ee35f691fcfbb88a16eb3c033b8f1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95a6d90d68dfd93d9a032bb76b9dc79a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1260363457,
-    "wof:lastmodified":1566699462,
-    "wof:name":"Thada",
+    "wof:lastmodified":1682761420,
+    "wof:name":"Tada",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":773,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.94994,
-    19.01318,
-    83.94994,
-    19.01318
+    83.950236,
+    19.012463,
+    83.95185,
+    19.013464
 ],
-  "geometry": {"coordinates":[83.94994,19.01318],"type":"Point"}
+  "geometry": {"coordinates":[[[83.951099,19.013455],[83.951098,19.013364],[83.951193,19.013363],[83.95119099999999,19.013272],[83.951286,19.013271],[83.951284,19.013181],[83.951379,19.013179],[83.95137800000001,19.013089],[83.951472,19.013087],[83.951471,19.012997],[83.951566,19.012996],[83.951567,19.013086],[83.951662,19.013084],[83.951661,19.012994],[83.95184999999999,19.012991],[83.951849,19.012901],[83.95175399999999,19.012902],[83.951752,19.012812],[83.95146800000001,19.012817],[83.951466,19.012726],[83.95127599999999,19.012729],[83.951275,19.012639],[83.95117999999999,19.012641],[83.951178,19.01255],[83.950988,19.012553],[83.950987,19.012463],[83.950892,19.012465],[83.95089299999999,19.012555],[83.950704,19.012558],[83.95070699999999,19.012739],[83.950422,19.012743],[83.950424,19.012833],[83.950329,19.012835],[83.95033100000001,19.012925],[83.950236,19.012927],[83.950237,19.013017],[83.950332,19.013015],[83.950337,19.013286],[83.95043200000001,19.013285],[83.950433,19.013375],[83.95052800000001,19.013373],[83.95053,19.013464],[83.951099,19.013455]]],"type":"Polygon"}
 }

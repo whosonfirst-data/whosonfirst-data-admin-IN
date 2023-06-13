@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.8206,27.29351,79.8206,27.29351",
-    "geom:latitude":27.29351,
-    "geom:longitude":79.8206,
+    "geom:bbox":"79.820296,27.293021,79.821317,27.294283",
+    "geom:latitude":27.293603,
+    "geom:longitude":79.820783,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Daria",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.8006,27.27351,79.8406,27.31351",
+    "ks:ks_id":"KS055087B62EAA40D9BF927A467859DBE5",
+    "ks:ks_name":"Daria",
+    "ks:ks_pop":436,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|251012",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1897591",
+    "lbl:latitude":27.293611,
+    "lbl:longitude":79.820775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.293611,
+    "mps:longitude":79.820775,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0627"
@@ -49,6 +59,9 @@
         "Daria"
     ],
     "name:deu_x_preferred":[
+        "Daria"
+    ],
+    "name:eng_x_preferred":[
         "Daria"
     ],
     "name:fin_x_preferred":[
@@ -123,37 +136,55 @@
     "name:urd_x_preferred":[
         "\u062f\u0631\u06cc\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695817
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10477360
+        "gn:id":10477360,
+        "ks:id":"KS055087B62EAA40D9BF927A467859DBE5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"797592abc50385fe791db2640389f4f9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98abbd3fdc5560644c5893a0be0236c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209050013
+            "county_id":1108695817,
+            "locality_id":1209050013,
+            "region_id":85672205
         }
     ],
     "wof:id":1209050013,
-    "wof:lastmodified":1576021510,
+    "wof:lastmodified":1682602341,
     "wof:name":"Daria",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.8206,
-    27.29351,
-    79.8206,
-    27.29351
+    79.820296,
+    27.293021,
+    79.821317,
+    27.294283
 ],
-  "geometry": {"coordinates":[79.8206,27.29351],"type":"Point"}
+  "geometry": {"coordinates":[[[79.820498,27.294283],[79.820499,27.294193],[79.8206,27.294194],[79.820601,27.294104],[79.820702,27.294105],[79.82070299999999,27.294014],[79.820804,27.294015],[79.82080499999999,27.293925],[79.82100699999999,27.293927],[79.821009,27.293746],[79.82111,27.293747],[79.821111,27.293657],[79.821212,27.293658],[79.821214,27.293477],[79.821315,27.293478],[79.82131699999999,27.293297],[79.82121600000001,27.293296],[79.821218,27.293116],[79.821117,27.293115],[79.821118,27.293025],[79.820714,27.293021],[79.820712,27.293202],[79.820611,27.293201],[79.820609,27.293382],[79.820508,27.293381],[79.820505,27.293652],[79.820404,27.293651],[79.820402,27.293831],[79.820301,27.29383],[79.820296,27.294282],[79.820498,27.294283]]],"type":"Polygon"}
 }

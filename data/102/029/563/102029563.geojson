@@ -13,12 +13,20 @@
     "gn:longitude":73.40575,
     "gn:population":58562,
     "iso:country":"IN",
-    "lbl:latitude":18.753967,
-    "lbl:longitude":73.404346,
+    "ks:ks_id":"KSC88201E8087F489480E5D7979F340CBA",
+    "ks:ks_name":"Lonavala",
+    "ks:ks_pop":55652,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2725000542518000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_426592",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":18.757074,
+    "lbl:longitude":73.406793,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":18.746902,
-    "mps:longitude":73.436206,
+    "mps:latitude":18.757074,
+    "mps:longitude":73.406793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,10 +50,10 @@
         "Lonavala"
     ],
     "name:eng_x_preferred":[
-        "Lonavla"
+        "Lonavala"
     ],
     "name:eng_x_variant":[
-        "Lonavala"
+        "Lon\u0101vale"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0646\u0627\u0648\u0627\u0644\u0627"
@@ -133,10 +141,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -147,13 +157,16 @@
     "wof:concordances":{
         "gn:id":1264793,
         "gp:id":2281365,
+        "ks:id":"KSC88201E8087F489480E5D7979F340CBA",
         "qs_pg:id":131663,
         "wd:id":"Q1929511",
         "wk:page":"Lonavla"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5164015dcfc1dad6d0b6905832e57992",
     "wof:hierarchy":[
@@ -166,11 +179,11 @@
         }
     ],
     "wof:id":102029563,
-    "wof:lastmodified":1658780762,
-    "wof:name":"Lon\u0101vale",
+    "wof:lastmodified":1686162199,
+    "wof:name":"Lonavala",
     "wof:parent_id":890510133,
     "wof:placetype":"locality",
-    "wof:population":58562,
+    "wof:population":55652,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

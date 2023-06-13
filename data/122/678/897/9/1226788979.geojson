@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.90893,27.40472,78.90893,27.40472",
-    "geom:latitude":27.40472,
-    "geom:longitude":78.90893,
+    "geom:bbox":"78.908227,27.40383,78.91067,27.405548",
+    "geom:latitude":27.404614,
+    "geom:longitude":78.909292,
     "gn:admin1_code":"36",
     "gn:admin2_code":"148.0",
     "gn:asciiname":"Barkhera",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.88893,27.38472,78.92893,27.42472",
+    "ks:ks_id":"KSF0FDEB08EA9742159F3059EB6A9CB3B5",
+    "ks:ks_name":"Barkhera",
+    "ks:ks_pop":809,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|105700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1752527",
+    "lbl:latitude":27.404577,
+    "lbl:longitude":78.909146,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.404577,
+    "mps:longitude":78.909146,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u0996\u09c7\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Barkhera"
+    ],
+    "name:eng_x_preferred":[
         "Barkhera"
     ],
     "name:ita_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u51ef\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10479369
+        "gn:id":10479369,
+        "ks:id":"KSF0FDEB08EA9742159F3059EB6A9CB3B5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"301fcfb234afb1c6e8eff6feb9e23fc6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0144d818ca880c03c952c68ff71fd92d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1226788979,
-    "wof:lastmodified":1566712680,
+    "wof:lastmodified":1682681111,
     "wof:name":"Barkhera",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":809,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.90893,
-    27.40472,
-    78.90893,
-    27.40472
+    78.908227,
+    27.40383,
+    78.91067,
+    27.405548
 ],
-  "geometry": {"coordinates":[78.90893,27.40472],"type":"Point"}
+  "geometry": {"coordinates":[[[78.909031,27.405548],[78.90903299999999,27.405457],[78.909235,27.40546],[78.90923600000001,27.40537],[78.90933699999999,27.405372],[78.909339,27.405282],[78.90944,27.405283],[78.909442,27.405193],[78.909644,27.405196],[78.909646,27.405106],[78.909848,27.405109],[78.90985000000001,27.405018],[78.910355,27.405026],[78.910357,27.404936],[78.91055900000001,27.404939],[78.910562,27.404758],[78.910664,27.40476],[78.91067,27.404399],[78.910569,27.404398],[78.910571,27.404307],[78.910369,27.404304],[78.91037,27.404214],[78.910269,27.404213],[78.91027099999999,27.404122],[78.91016999999999,27.404121],[78.910172,27.404031],[78.910071,27.404029],[78.910072,27.403939],[78.909971,27.403937],[78.90997299999999,27.403847],[78.908861,27.40383],[78.90885900000001,27.403921],[78.908354,27.403913],[78.90835,27.404094],[78.908249,27.404092],[78.90824600000001,27.404272],[78.90834700000001,27.404274],[78.908342,27.404545],[78.908241,27.404543],[78.908227,27.405265],[78.908328,27.405266],[78.908327,27.405357],[78.908428,27.405358],[78.90842600000001,27.405448],[78.90852700000001,27.40545],[78.908525,27.40554],[78.909031,27.405548]]],"type":"Polygon"}
 }

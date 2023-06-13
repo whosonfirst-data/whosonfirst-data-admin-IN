@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.86943,19.57377,77.86943,19.57377",
-    "geom:latitude":19.57377,
-    "geom:longitude":77.86943,
+    "geom:bbox":"77.868392,19.572882,77.870115,19.574337",
+    "geom:latitude":19.573642,
+    "geom:longitude":77.869236,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Chincholi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.84943,19.55377,77.88943,19.59377",
+    "ks:ks_id":"KS2406998ADDA146A1A5891BE11E98F5B8",
+    "ks:ks_name":"Chincholi",
+    "ks:ks_pop":1039,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|13042060",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_558606",
+    "lbl:latitude":19.573657,
+    "lbl:longitude":77.86922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.573657,
+    "mps:longitude":77.86922,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a8\u099a\u09cb\u09b2\u09bf"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chincholi Taluk"
+    ],
+    "name:eng_x_preferred":[
+        "Chincholi"
     ],
     "name:ita_x_preferred":[
         "Chincholi"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5947\u6069\u4e54\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10584910
+        "gn:id":10584910,
+        "ks:id":"KS2406998ADDA146A1A5891BE11E98F5B8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ea3fe6f523dd64fef754cd580695f13a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"48d27431e64090b119fc6f2c28d7c699",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343625589,
-    "wof:lastmodified":1566685577,
+    "wof:lastmodified":1682935189,
     "wof:name":"Chincholi",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":1039,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.86943000000002,
-    19.57377,
-    77.86943000000002,
-    19.57377
+    77.868392,
+    19.572882,
+    77.870115,
+    19.574337
 ],
-  "geometry": {"coordinates":[77.86943000000002,19.57377],"type":"Point"}
+  "geometry": {"coordinates":[[[77.86955,19.574324],[77.86954900000001,19.574234],[77.869739,19.574231],[77.869737,19.574141],[77.869928,19.574138],[77.86992600000001,19.574048],[77.87002200000001,19.574046],[77.87002,19.573956],[77.870115,19.573954],[77.870107,19.573503],[77.870012,19.573505],[77.870009,19.573324],[77.86991399999999,19.573326],[77.869912,19.573235],[77.869817,19.573237],[77.869815,19.573147],[77.86972,19.573148],[77.86971800000001,19.573058],[77.869623,19.573059],[77.869621,19.572969],[77.86943100000001,19.572972],[77.869429,19.572882],[77.869049,19.572888],[77.86905,19.572978],[77.868764,19.572983],[77.86876599999999,19.573073],[77.86867100000001,19.573074],[77.868672,19.573165],[77.868577,19.573166],[77.868579,19.573256],[77.868484,19.573258],[77.868487,19.573439],[77.868392,19.57344],[77.86839999999999,19.573891],[77.868495,19.57389],[77.868498,19.57407],[77.868593,19.574069],[77.868595,19.574159],[77.86869,19.574158],[77.868692,19.574248],[77.868787,19.574246],[77.868788,19.574337],[77.86955,19.574324]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.41992,25.74069,81.41992,25.74069",
-    "geom:latitude":25.74069,
-    "geom:longitude":81.41992,
+    "geom:bbox":"81.422696,25.735144,81.423992,25.73605",
+    "geom:latitude":25.73561,
+    "geom:longitude":81.423397,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Bhanapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.39992,25.72069,81.43992,25.76069",
+    "ks:ks_id":"KS2D146973A1834E0698CB263C26F70ED9",
+    "ks:ks_name":"Bhanapur",
+    "ks:ks_pop":394,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0943000205138800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1851495",
+    "lbl:latitude":25.735543,
+    "lbl:longitude":81.42345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.735543,
+    "mps:longitude":81.42345,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09be\u09a8\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bhanapur"
     ],
     "name:guj_x_preferred":[
         "\u0aad\u0abe\u0aa8\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u0627\u0646\u0627 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10542996
+        "gn:id":10542996,
+        "ks:id":"KS2D146973A1834E0698CB263C26F70ED9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"159fd67593aea916d42e6eae2a1b1080",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3545515be8a81c0f6ba85e447b41ed2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1242925769,
-    "wof:lastmodified":1577752906,
+    "wof:lastmodified":1682697788,
     "wof:name":"Bhanapur",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.41991999999998,
-    25.74069,
-    81.41991999999998,
-    25.74069
+    81.422696,
+    25.735144,
+    81.423992,
+    25.73605
 ],
-  "geometry": {"coordinates":[81.41991999999998,25.74069],"type":"Point"}
+  "geometry": {"coordinates":[[[81.42279600000001,25.73596],[81.42289599999999,25.735959],[81.42289599999999,25.73605],[81.423096,25.736049],[81.423095,25.735959],[81.42319500000001,25.735958],[81.42319500000001,25.736049],[81.423295,25.736048],[81.423295,25.735958],[81.423395,25.735958],[81.423394,25.735868],[81.42389300000001,25.735866],[81.423892,25.735776],[81.423992,25.735776],[81.423991,25.735505],[81.423891,25.735505],[81.423891,25.735324],[81.42379099999999,25.735325],[81.42379099999999,25.735234],[81.42369100000001,25.735235],[81.42369100000001,25.735144],[81.423292,25.735145],[81.423292,25.735236],[81.42309299999999,25.735236],[81.42309400000001,25.735507],[81.422994,25.735508],[81.422995,25.735688],[81.422895,25.735688],[81.422895,25.735779],[81.42279600000001,25.735779],[81.42279600000001,25.735869],[81.422696,25.73587],[81.422697,25.73605],[81.422797,25.73605],[81.42279600000001,25.73596]]],"type":"Polygon"}
 }

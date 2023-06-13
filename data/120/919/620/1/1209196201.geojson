@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tamalw\u0101di",
@@ -36,35 +37,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890511425
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1254458
     },
     "wof:country":"IN",
-    "wof:geomhash":"89a6f01cc138c904f0de55fdae6970f8",
+    "wof:geomhash":"8acdcdd37e515fa57264ea58bca8d28d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209196201
+            "county_id":890511425,
+            "locality_id":1209196201,
+            "region_id":85672171
         }
     ],
     "wof:id":1209196201,
-    "wof:lastmodified":1566696938,
+    "wof:lastmodified":1682610237,
     "wof:name":"Timdulvadi",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890511425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847149079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.96236999999998,
-    17.84238999999999,
-    75.96236999999998,
-    17.84238999999999
+    75.96237,
+    17.84239,
+    75.96237,
+    17.84239
 ],
-  "geometry": {"coordinates":[75.96236999999998,17.84238999999999],"type":"Point"}
+  "geometry": {"coordinates":[75.96237000000001,17.84239],"type":"Point"}
 }

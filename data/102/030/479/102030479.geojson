@@ -11,12 +11,19 @@
     "geom:longitude":74.113473,
     "gn:population":22510,
     "iso:country":"IN",
-    "lbl:latitude":15.258081,
-    "lbl:longitude":74.110529,
+    "ks:ks_id":"KS60AD58D7F0564797B5F182B409B75C84",
+    "ks:ks_name":"Curchorem",
+    "ks:ks_pop":569,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3002000300026800",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_369063",
+    "lbl:latitude":15.261169,
+    "lbl:longitude":74.109076,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":15.262367,
-    "mps:longitude":74.103662,
+    "mps:latitude":15.261169,
+    "mps:longitude":74.109076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -86,10 +93,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1572,
     "wof:belongsto":[
         102191569,
@@ -101,13 +110,16 @@
     "wof:concordances":{
         "gn:id":1273788,
         "gp:id":2276035,
+        "ks:id":"KS60AD58D7F0564797B5F182B409B75C84",
         "qs_pg:id":132185,
         "wd:id":"Q1190690",
         "wk:page":"Curchorem"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"63ba4b3373a16928aad12e9de9eca043",
     "wof:hierarchy":[
@@ -120,12 +132,12 @@
         }
     ],
     "wof:id":102030479,
-    "wof:lastmodified":1658780731,
+    "wof:lastmodified":1682524773,
     "wof:name":"Curchorem",
     "wof:parent_id":1108696343,
     "wof:placetype":"locality",
-    "wof:population":22510,
-    "wof:population_rank":7,
+    "wof:population":569,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

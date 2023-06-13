@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Deodha",
@@ -37,10 +38,6 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
-        85632465,
-        1108807141,
-        1092048127,
-        85675579,
         85632469,
         85672225,
         1108695901
@@ -50,22 +47,8 @@
         "gn:id":1273259
     },
     "wof:country":"IN",
-    "wof:geomhash":"9defae1b39a35cd5ffb5ef9547bdd621",
+    "wof:geomhash":"e434882a93940c5b3c42cd60eb4c4b75",
     "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632465,
-            "county_id":1092048127,
-            "locality_id":1259824263,
-            "region_id":1108807141
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632465,
-            "county_id":1092048127,
-            "locality_id":1259824263,
-            "region_id":85675579
-        },
         {
             "continent_id":102191569,
             "country_id":85632469,
@@ -75,20 +58,22 @@
         }
     ],
     "wof:id":1259824263,
-    "wof:lastmodified":1566709690,
+    "wof:lastmodified":1682740267,
     "wof:name":"Deodha Bhadaur",
-    "wof:parent_id":-4,
+    "wof:parent_id":1108695901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847231403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     86.11502,
-    26.62427000000001,
+    26.62427,
     86.11502,
-    26.62427000000001
+    26.62427
 ],
-  "geometry": {"coordinates":[86.11502,26.62427000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.11502,26.62427],"type":"Point"}
 }

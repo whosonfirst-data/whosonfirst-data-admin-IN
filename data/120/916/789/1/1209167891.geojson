@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rahi"
@@ -38,35 +39,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        890502233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10908801
     },
     "wof:country":"IN",
-    "wof:geomhash":"08e502998ff3d3789d04369bfca162ef",
+    "wof:geomhash":"4ccfa67e4000f40b14fec28fb228902f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209167891
+            "county_id":890502233,
+            "locality_id":1209167891,
+            "region_id":85672225
         }
     ],
     "wof:id":1209167891,
-    "wof:lastmodified":1566696596,
+    "wof:lastmodified":1682609215,
     "wof:name":"Rahi",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890502233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847146549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.87678000000002,
+    86.87678,
     25.75684,
-    86.87678000000002,
+    86.87678,
     25.75684
 ],
-  "geometry": {"coordinates":[86.87678000000002,25.75684],"type":"Point"}
+  "geometry": {"coordinates":[86.87678,25.75684],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.38901,25.05582,87.38901,25.05582",
-    "geom:latitude":25.05582,
-    "geom:longitude":87.38901,
+    "geom:bbox":"87.385236,25.053022,87.386314,25.05383",
+    "geom:latitude":25.053426,
+    "geom:longitude":87.385775,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Harrakha",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.36901,25.03582,87.40901,25.07582",
+    "ks:ks_id":"KS3AD47D6C93584F74B962E45A282C5BC7",
+    "ks:ks_name":"Harrakha",
+    "ks:ks_pop":1064,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2008000301356400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1489171",
+    "lbl:latitude":25.053426,
+    "lbl:longitude":87.385775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.053426,
+    "mps:longitude":87.385775,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Harrakha"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996032
+        "gn:id":10996032,
+        "ks:id":"KS3AD47D6C93584F74B962E45A282C5BC7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"62ce5641302f2d55257472ae340c4250",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c7dd1786ac02890d5f602d25577295d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1326968553,
-    "wof:lastmodified":1566684409,
+    "wof:lastmodified":1682896064,
     "wof:name":"Harrakha",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":1064,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.38901,
-    25.05582,
-    87.38901,
-    25.05582
+    87.385236,
+    25.053022,
+    87.386314,
+    25.05383
 ],
-  "geometry": {"coordinates":[87.38901,25.05582],"type":"Point"}
+  "geometry": {"coordinates":[[[87.386314,25.053022],[87.38523600000001,25.053022],[87.38523600000001,25.05383],[87.386314,25.05383],[87.386314,25.053022]]],"type":"Polygon"}
 }

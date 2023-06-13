@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.68649,26.80353,81.68649,26.80353",
-    "geom:latitude":26.80353,
-    "geom:longitude":81.68649,
+    "geom:bbox":"81.68785,26.80285,81.688928,26.803658",
+    "geom:latitude":26.8032,
+    "geom:longitude":81.688443,
     "gn:admin1_code":"36",
     "gn:admin2_code":"177.0",
     "gn:asciiname":"Sela Manpur",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.66649,26.78353,81.70649,26.82353",
+    "ks:ks_id":"KSCDAC5D08D49B4A6CAA2DB83301275BA6",
+    "ks:ks_name":"Sulemanpur",
+    "ks:ks_pop":1772,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1015783",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_847217",
+    "lbl:latitude":26.803131,
+    "lbl:longitude":81.688497,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.803131,
+    "mps:longitude":81.688497,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sulemanpur"
+    ],
+    "name:eng_x_variant":[
+        "Sela Manpur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10762877
+        "gn:id":10762877,
+        "ks:id":"KSCDAC5D08D49B4A6CAA2DB83301275BA6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9520c18d5c8ef029c5f9c93e676b8eae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17b8b365deb9c3710c4d090dd7e82662",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326682419,
-    "wof:lastmodified":1566682793,
-    "wof:name":"Sela Manpur",
+    "wof:lastmodified":1682886313,
+    "wof:name":"Sulemanpur",
     "wof:parent_id":890510339,
     "wof:placetype":"locality",
+    "wof:population":1772,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.68649,
-    26.80353,
-    81.68649,
-    26.80353
+    81.68785,
+    26.80285,
+    81.688928,
+    26.803658
 ],
-  "geometry": {"coordinates":[81.68649000000001,26.80353],"type":"Point"}
+  "geometry": {"coordinates":[[[81.688928,26.80285],[81.68785,26.80285],[81.68785,26.803389],[81.688389,26.803389],[81.688389,26.803658],[81.688928,26.803658],[81.688928,26.80285]]],"type":"Polygon"}
 }

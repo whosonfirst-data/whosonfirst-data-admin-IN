@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.61456,21.47292,82.61456,21.47292",
-    "geom:latitude":21.47292,
-    "geom:longitude":82.61456,
+    "geom:bbox":"82.613739,21.472412,82.615006,21.47367",
+    "geom:latitude":21.473031,
+    "geom:longitude":82.614367,
     "gn:admin1_code":"37",
     "gn:admin2_code":"410.0",
     "gn:asciiname":"Kumhari",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.59456,21.45292,82.63456,21.49292",
+    "ks:ks_alt_nam":"Kumh\u0101ri",
+    "ks:ks_id":"KS89F5BC1AA7A5459BA11039D98DF53C00",
+    "ks:ks_name":"Kumhari",
+    "ks:ks_source_id":"N|12871524",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_964069",
+    "lbl:latitude":21.473004,
+    "lbl:longitude":82.614355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.473004,
+    "mps:longitude":82.614355,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09b9\u09be\u09b0\u09bf"
@@ -37,6 +46,12 @@
         "\u0995\u09c1\u09ae\u09b9\u09be\u09b0\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Kumh\u0101ri"
+    ],
+    "name:eng_x_preferred":[
+        "Kumhari"
+    ],
+    "name:eng_x_variant":[
         "Kumh\u0101ri"
     ],
     "name:ita_x_preferred":[
@@ -69,26 +84,40 @@
     "name:zho_x_preferred":[
         "\u5e93\u59c6\u54c8\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672231,
+        1108696189
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10444477
+        "gn:id":10444477,
+        "ks:id":"KS89F5BC1AA7A5459BA11039D98DF53C00"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2ab951ce31db0f68e4f5c2694f084f5b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b83d40a3d5f2df94da3990039dee6be9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209165925
+            "county_id":1108696189,
+            "locality_id":1209165925,
+            "region_id":85672231
         }
     ],
     "wof:id":1209165925,
-    "wof:lastmodified":1566696545,
+    "wof:lastmodified":1682608587,
     "wof:name":"Kumhari",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -96,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.61456,
-    21.47292,
-    82.61456,
-    21.47292
+    82.613739,
+    21.472412,
+    82.615006,
+    21.47367
 ],
-  "geometry": {"coordinates":[82.61456,21.47292],"type":"Point"}
+  "geometry": {"coordinates":[[[82.61491100000001,21.473667],[82.61490999999999,21.473577],[82.61500599999999,21.473576],[82.615003,21.473305],[82.614907,21.473306],[82.614903,21.472945],[82.614806,21.472946],[82.614802,21.472584],[82.614706,21.472585],[82.614705,21.472495],[82.614512,21.472497],[82.614513,21.472587],[82.614127,21.472591],[82.614126,21.472501],[82.613933,21.472502],[82.61393200000001,21.472412],[82.613739,21.472414],[82.613747,21.473137],[82.613843,21.473136],[82.613844,21.473226],[82.613941,21.473225],[82.61394199999999,21.473315],[82.61403799999999,21.473314],[82.61403900000001,21.473405],[82.614232,21.473403],[82.614233,21.473493],[82.61442599999999,21.473491],[82.61442700000001,21.473582],[82.61462,21.47358],[82.614621,21.47367],[82.61491100000001,21.473667]]],"type":"Polygon"}
 }

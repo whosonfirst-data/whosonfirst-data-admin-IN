@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        1108805979,
+        890509337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10609126
     },
     "wof:country":"IN",
-    "wof:geomhash":"10e27595c9de9cc497bddac0407c025e",
+    "wof:geomhash":"30f46a4c4ead4b32fea694c0257fe2fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209352987
+            "county_id":890509337,
+            "locality_id":1209352987,
+            "region_id":1108805979
         }
     ],
     "wof:id":1209352987,
-    "wof:lastmodified":1566696176,
+    "wof:lastmodified":1682614489,
     "wof:name":"Venkatraopet",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890509337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847142997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.77663000000003,
+    78.77663,
     18.97952,
-    78.77663000000003,
+    78.77663,
     18.97952
 ],
-  "geometry": {"coordinates":[78.77663000000003,18.97952],"type":"Point"}
+  "geometry": {"coordinates":[78.77663,18.97952],"type":"Point"}
 }

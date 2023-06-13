@@ -11,12 +11,20 @@
     "geom:longitude":88.264528,
     "gn:population":123797,
     "iso:country":"IN",
-    "lbl:latitude":27.040622,
-    "lbl:longitude":88.265729,
+    "ks:ks_id":"KS0720C115124440E2A8AD8A6426D40C21",
+    "ks:ks_name":"Darjiling",
+    "ks:ks_pop":1609172,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1901000140102000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2145047",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":27.032282,
+    "lbl:longitude":88.259766,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":27.042646,
-    "mps:longitude":88.2646,
+    "mps:latitude":27.032282,
+    "mps:longitude":88.259766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -70,13 +78,13 @@
         "\u0926\u093e\u0930\u094d\u091c\u093f\u0932\u093f\u0919"
     ],
     "name:eng_x_preferred":[
-        "Darjeeling"
+        "Darjiling"
     ],
     "name:eng_x_variant":[
         "DAI",
-        "Darjiling",
         "Rdorje gling",
-        "D\u0101rjiling"
+        "D\u0101rjiling",
+        "Darjeeling"
     ],
     "name:epo_x_preferred":[
         "Dar\u011diling"
@@ -264,15 +272,17 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
-        890511213,
-        85672219
+        85672219,
+        890511213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -281,6 +291,7 @@
         "fct:id":"1240245a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1273467,
         "gp:id":2294818,
+        "ks:id":"KS0720C115124440E2A8AD8A6426D40C21",
         "nyt:id":"30883471175312208911",
         "qs_pg:id":8910,
         "wd:id":"Q169997",
@@ -288,7 +299,9 @@
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f50796e8df74099bf427fd57be27ac97",
     "wof:hierarchy":[
@@ -304,12 +317,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1666639422,
-    "wof:name":"Darjeeling",
+    "wof:lastmodified":1686162182,
+    "wof:name":"Darjiling",
     "wof:parent_id":890511213,
     "wof:placetype":"locality",
-    "wof:population":123797,
-    "wof:population_rank":9,
+    "wof:population":1609172,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

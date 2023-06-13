@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        1108696323
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11415888
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d0dcf90204efcb04b2b355c90f9e1a8",
+    "wof:geomhash":"ee06eef292c565f5434bee141d50d374",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209012605
+            "county_id":1108696323,
+            "locality_id":1209012605,
+            "region_id":85672141
         }
     ],
     "wof:id":1209012605,
-    "wof:lastmodified":1566694773,
+    "wof:lastmodified":1682601137,
     "wof:name":"Baguvareddipalli",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847131183
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.21828000000002,
+    79.21828,
     14.05865,
-    79.21828000000002,
+    79.21828,
     14.05865
 ],
-  "geometry": {"coordinates":[79.21828000000002,14.05865],"type":"Point"}
+  "geometry": {"coordinates":[79.21827999999999,14.05865],"type":"Point"}
 }

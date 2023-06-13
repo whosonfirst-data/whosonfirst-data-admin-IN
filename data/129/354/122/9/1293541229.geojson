@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.71965,26.38231,82.71965,26.38231",
-    "geom:latitude":26.38231,
-    "geom:longitude":82.71965,
+    "geom:bbox":"82.718667,26.385403,82.721093,26.38675",
+    "geom:latitude":26.386024,
+    "geom:longitude":82.71975,
     "gn:admin1_code":"36",
     "gn:admin2_code":"178.0",
     "gn:asciiname":"Dasera",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.69965,26.36231,82.73965,26.40231",
+    "ks:ks_id":"KSC783DE2FE0D347ACBB688E8C021D7E35",
+    "ks:ks_name":"Dasera",
+    "ks:ks_pop":350,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1252653",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1413376",
+    "lbl:latitude":26.386007,
+    "lbl:longitude":82.719651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.386007,
+    "mps:longitude":82.719651,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Dasera"
+    ],
+    "name:eng_x_preferred":[
         "Dasera"
     ],
     "name:mai_x_preferred":[
@@ -48,7 +61,13 @@
     "name:pol_x_preferred":[
         "Dasera"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10622043
+        "gn:id":10622043,
+        "ks:id":"KSC783DE2FE0D347ACBB688E8C021D7E35"
     },
     "wof:country":"IN",
-    "wof:geomhash":"60dfcc284ace6872cad04c0bd31ebfbd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ea8947e157e8db0e24c35de412fb4cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1293541229,
-    "wof:lastmodified":1566689256,
+    "wof:lastmodified":1682822050,
     "wof:name":"Dasera",
     "wof:parent_id":1108695849,
     "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.71965,
-    26.38231,
-    82.71965,
-    26.38231
+    82.718667,
+    26.385403,
+    82.721093,
+    26.38675
 ],
-  "geometry": {"coordinates":[82.71965,26.38231],"type":"Point"}
+  "geometry": {"coordinates":[[[82.720015,26.38675],[82.720015,26.386481],[82.72055400000001,26.386481],[82.72055400000001,26.386211],[82.721093,26.386211],[82.721093,26.385942],[82.720823,26.385942],[82.720823,26.385672],[82.72028400000001,26.385672],[82.72028400000001,26.385403],[82.718937,26.385403],[82.718937,26.385672],[82.718667,26.385672],[82.718667,26.386211],[82.718937,26.386211],[82.718937,26.386481],[82.719206,26.386481],[82.719206,26.38675],[82.720015,26.38675]]],"type":"Polygon"}
 }

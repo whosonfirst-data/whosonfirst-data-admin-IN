@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.12287,23.39211,76.12287,23.39211",
-    "geom:latitude":23.39211,
-    "geom:longitude":76.12287,
+    "geom:bbox":"76.122313,23.391211,76.123786,23.393021",
+    "geom:latitude":23.392118,
+    "geom:longitude":76.123002,
     "gn:admin1_code":"35",
     "gn:admin2_code":"435.0",
     "gn:asciiname":"Krishnanagar",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.10287,23.37211,76.14287,23.41211",
+    "ks:ks_id":"KS50DF7A98DD4E43FCBEB884D14E0987FE",
+    "ks:ks_name":"Krishna Nagar",
+    "ks:ks_pop":77,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|589758",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_898959",
+    "lbl:latitude":23.392116,
+    "lbl:longitude":76.122988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.392116,
+    "mps:longitude":76.122988,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0634\u0646\u0627\u0646\u062c\u0627\u0631"
     ],
     "name:deu_x_preferred":[
+        "Krishnanagar"
+    ],
+    "name:eng_x_preferred":[
+        "Krishna Nagar"
+    ],
+    "name:eng_x_variant":[
         "Krishnanagar"
     ],
     "name:fas_x_preferred":[
@@ -57,37 +73,55 @@
     "name:tur_x_preferred":[
         "Krishnanagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890507575
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10746254
+        "gn:id":10746254,
+        "ks:id":"KS50DF7A98DD4E43FCBEB884D14E0987FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"13184a754adf6f8d5fd79da68597bf62",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bdf2934056de1485cc11f9974762e6c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209155081
+            "county_id":890507575,
+            "locality_id":1209155081,
+            "region_id":85672239
         }
     ],
     "wof:id":1209155081,
-    "wof:lastmodified":1636505535,
-    "wof:name":"Krishnanagar",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682607538,
+    "wof:name":"Krishna Nagar",
+    "wof:parent_id":890507575,
     "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.12287,
-    23.39211,
-    76.12287,
-    23.39211
+    76.122313,
+    23.391211,
+    76.123786,
+    23.393021
 ],
-  "geometry": {"coordinates":[76.12287000000001,23.39211],"type":"Point"}
+  "geometry": {"coordinates":[[[76.123107,23.393018],[76.12310600000001,23.392928],[76.123302,23.392927],[76.123301,23.392836],[76.12339900000001,23.392836],[76.12339799999999,23.392745],[76.123496,23.392745],[76.12349399999999,23.392564],[76.123592,23.392563],[76.123592,23.392473],[76.123689,23.392472],[76.123688,23.392292],[76.123786,23.392291],[76.123783,23.39193],[76.12368499999999,23.39193],[76.123683,23.391659],[76.12358500000001,23.39166],[76.123583,23.39148],[76.123485,23.39148],[76.123485,23.39139],[76.12338699999999,23.391391],[76.123386,23.3913],[76.12318999999999,23.391302],[76.12318999999999,23.391211],[76.12269999999999,23.391215],[76.122702,23.391396],[76.122604,23.391396],[76.12260499999999,23.391487],[76.122507,23.391487],[76.122508,23.391578],[76.12241,23.391578],[76.122411,23.391759],[76.12231300000001,23.39176],[76.122321,23.392663],[76.12241899999999,23.392662],[76.12242000000001,23.392843],[76.122518,23.392842],[76.122519,23.392932],[76.122715,23.392931],[76.122716,23.393021],[76.123107,23.393018]]],"type":"Polygon"}
 }

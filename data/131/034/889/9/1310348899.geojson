@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.65936,25.62838,81.65936,25.62838",
-    "geom:latitude":25.62838,
-    "geom:longitude":81.65936,
+    "geom:bbox":"81.659014,25.628123,81.660362,25.629201",
+    "geom:latitude":25.628686,
+    "geom:longitude":81.659672,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Chakela",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.63936,25.60838,81.67936,25.64838",
+    "ks:ks_id":"KSD94DB1EDE2E0465492598BD9DB6AA46E",
+    "ks:ks_name":"Chokela",
+    "ks:ks_pop":110,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|230932",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_807241",
+    "lbl:latitude":25.62877,
+    "lbl:longitude":81.659663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.62877,
+    "mps:longitude":81.659663,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chokela"
+    ],
+    "name:eng_x_variant":[
+        "Chakela"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10667441
+        "gn:id":10667441,
+        "ks:id":"KSD94DB1EDE2E0465492598BD9DB6AA46E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4c9ea7c158a1ef31e78e7e9be98a3524",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"42814a6711c6689b0fe7f07944b71782",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1310348899,
-    "wof:lastmodified":1566702114,
-    "wof:name":"Chakela",
+    "wof:lastmodified":1682862569,
+    "wof:name":"Chokela",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.65935999999998,
-    25.62838,
-    81.65935999999998,
-    25.62838
+    81.659014,
+    25.628123,
+    81.660362,
+    25.629201
 ],
-  "geometry": {"coordinates":[81.65935999999998,25.62838],"type":"Point"}
+  "geometry": {"coordinates":[[[81.659823,25.628123],[81.659014,25.628123],[81.659014,25.628931],[81.659284,25.628931],[81.659284,25.629201],[81.66036200000001,25.629201],[81.66036200000001,25.628392],[81.659823,25.628392],[81.659823,25.628123]]],"type":"Polygon"}
 }

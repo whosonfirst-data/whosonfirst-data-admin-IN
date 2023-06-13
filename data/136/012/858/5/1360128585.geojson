@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.74929,27.44133,81.74929,27.44133",
-    "geom:latitude":27.44133,
-    "geom:longitude":81.74929,
+    "geom:bbox":"81.747745,27.440695,81.750575,27.442241",
+    "geom:latitude":27.441492,
+    "geom:longitude":81.749204,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"181.0",
     "gn:asciiname":"Chatra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.72929,27.42133,81.76929,27.46133",
+    "ks:ks_id":"KS6BD341C6362B4C45A2EE92C010FAEECF",
+    "ks:ks_name":"Chetra",
+    "ks:ks_pop":375,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1161343",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2802478",
+    "lbl:latitude":27.441458,
+    "lbl:longitude":81.749372,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.441458,
+    "mps:longitude":81.749372,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062a\u0631\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099b\u09be\u09a4\u09cd\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Chetra"
+    ],
+    "name:eng_x_variant":[
+        "Chatra"
     ],
     "name:guj_x_preferred":[
         "\u0a9b\u0abe\u0aa4\u0acd\u0ab0\u0abe"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0686\u062a\u0631\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10583188
+        "gn:id":10583188,
+        "ks:id":"KS6BD341C6362B4C45A2EE92C010FAEECF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1cc81f31a8869e4e7d3f34d11708eb6c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"523ee4ccae227fcd78846e75c562a4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1360128585,
-    "wof:lastmodified":1577752159,
-    "wof:name":"Chatra",
+    "wof:lastmodified":1682964435,
+    "wof:name":"Chetra",
     "wof:parent_id":1108695853,
     "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.74929,
-    27.44133,
-    81.74929,
-    27.44133
+    81.747745,
+    27.440695,
+    81.750575,
+    27.442241
 ],
-  "geometry": {"coordinates":[81.74929,27.44133],"type":"Point"}
+  "geometry": {"coordinates":[[[81.748963,27.442237],[81.748963,27.442146],[81.749165,27.442145],[81.74916399999999,27.442055],[81.74987299999999,27.442051],[81.749872,27.441961],[81.74996899999999,27.44196],[81.750277,27.441959],[81.750274,27.441598],[81.75037500000001,27.441597],[81.75037399999999,27.441416],[81.75047499999999,27.441416],[81.750474,27.441235],[81.750575,27.441235],[81.750574,27.441054],[81.750473,27.441055],[81.750472,27.440874],[81.750371,27.440875],[81.75037,27.440785],[81.750269,27.440785],[81.75026800000001,27.440695],[81.74996899999999,27.440696],[81.749358,27.4407],[81.749358,27.44079],[81.749156,27.440791],[81.749156,27.440881],[81.748954,27.440882],[81.748955,27.440973],[81.748752,27.440974],[81.74875299999999,27.441064],[81.74855100000001,27.441065],[81.74855100000001,27.441155],[81.748349,27.441157],[81.748349,27.441247],[81.748147,27.441248],[81.748148,27.441338],[81.747945,27.441339],[81.747946,27.44143],[81.747845,27.44143],[81.747846,27.441611],[81.74774499999999,27.441611],[81.747747,27.441882],[81.747848,27.441881],[81.747849,27.442062],[81.74795,27.442061],[81.747951,27.442152],[81.748153,27.442151],[81.748154,27.442241],[81.748963,27.442237]]],"type":"Polygon"}
 }

@@ -11,12 +11,21 @@
     "geom:longitude":80.196566,
     "gn:population":124897,
     "iso:country":"IN",
-    "lbl:latitude":21.455147,
-    "lbl:longitude":80.196022,
+    "ks:ks_alt_nam":"Gondi\u0101",
+    "ks:ks_id":"KS978D50A453B5442681617ED25801E5DC",
+    "ks:ks_name":"Gondia",
+    "ks:ks_pop":120902,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2096547",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_964396",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":21.459046,
+    "lbl:longitude":80.195274,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":21.46736,
-    "mps:longitude":80.188141,
+    "mps:latitude":21.459046,
+    "mps:longitude":80.195274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,6 +51,9 @@
     "name:eng_x_preferred":[
         "Gondia"
     ],
+    "name:eng_x_variant":[
+        "Gondi\u0101"
+    ],
     "name:fra_x_preferred":[
         "Gondia"
     ],
@@ -49,6 +61,9 @@
         "\u0a97\u0acb\u0a82\u0aa1\u0abf\u0aaf\u0abe"
     ],
     "name:hin_x_preferred":[
+        "\u0917\u094b\u0902\u0926\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
         "\u0917\u094b\u0902\u0926\u093f\u092f\u093e \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
@@ -146,10 +161,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":701,
     "wof:belongsto":[
         102191569,
@@ -161,13 +178,16 @@
     "wof:concordances":{
         "gn:id":1270990,
         "gp:id":29034153,
+        "ks:id":"KS978D50A453B5442681617ED25801E5DC",
         "qs_pg:id":132020,
         "wd:id":"Q1707857",
         "wk:page":"Gondia"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"6d250497b0f23e37148554e1166d4548",
     "wof:hierarchy":[
@@ -180,11 +200,11 @@
         }
     ],
     "wof:id":102030197,
-    "wof:lastmodified":1658780739,
+    "wof:lastmodified":1686162187,
     "wof:name":"Gondia",
     "wof:parent_id":890504043,
     "wof:placetype":"locality",
-    "wof:population":124897,
+    "wof:population":120902,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"88.80589,25.1945,88.80589,25.1945",
-    "geom:latitude":25.1945,
-    "geom:longitude":88.80589,
+    "geom:bbox":"88.8037,25.189696,88.804677,25.191959",
+    "geom:latitude":25.190731,
+    "geom:longitude":88.804231,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"331.0",
     "gn:asciiname":"Chakram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"88.78589,25.1745,88.82589,25.2145",
+    "ks:ks_id":"KSACC14D3E0E9240618BFD59D29180AE19",
+    "ks:ks_name":"Chakram",
+    "ks:ks_pop":1210,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1905000500502600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2164558",
+    "lbl:latitude":25.190378,
+    "lbl:longitude":88.80432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.190378,
+    "mps:longitude":88.80432,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0430\u043a\u0440\u0430\u043c"
@@ -40,6 +50,9 @@
         "Chakram"
     ],
     "name:deu_x_preferred":[
+        "Chakram"
+    ],
+    "name:eng_x_preferred":[
         "Chakram"
     ],
     "name:fin_x_preferred":[
@@ -99,7 +112,13 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043a\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8986112
+        "gn:id":8986112,
+        "ks:id":"KSACC14D3E0E9240618BFD59D29180AE19"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6f766ad71a2b253309860ca38780bf52",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4fd9a0863cde157efcd5318d0266511e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1344208177,
-    "wof:lastmodified":1566688229,
+    "wof:lastmodified":1682956951,
     "wof:name":"Chakram",
     "wof:parent_id":1108696071,
     "wof:placetype":"locality",
+    "wof:population":1210,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    88.80589,
-    25.1945,
-    88.80589,
-    25.1945
+    88.8037,
+    25.189696,
+    88.804677,
+    25.191959
 ],
-  "geometry": {"coordinates":[88.80589000000001,25.1945],"type":"Point"}
+  "geometry": {"coordinates":[[[88.80400299999999,25.191957],[88.804002,25.191867],[88.80419999999999,25.191864],[88.804199,25.191774],[88.804298,25.191773],[88.804295,25.191592],[88.804394,25.191591],[88.80438700000001,25.19105],[88.804486,25.191048],[88.804484,25.190958],[88.80458400000001,25.190957],[88.80457800000001,25.190596],[88.804677,25.190595],[88.804669,25.190053],[88.80457,25.190054],[88.804568,25.189874],[88.804468,25.189875],[88.804467,25.189785],[88.804368,25.189786],[88.804367,25.189696],[88.804069,25.189699],[88.80407,25.189789],[88.803971,25.189791],[88.803982,25.190513],[88.803883,25.190514],[88.803884,25.190604],[88.803983,25.190603],[88.803984,25.190693],[88.804084,25.190692],[88.804085,25.190782],[88.80398599999999,25.190784],[88.803988,25.190964],[88.80408799999999,25.190963],[88.804089,25.191053],[88.804188,25.191052],[88.80418899999999,25.191142],[88.804289,25.191141],[88.80429100000001,25.191322],[88.80409299999999,25.191324],[88.80409400000001,25.191414],[88.80389599999999,25.191417],[88.80389700000001,25.191507],[88.803798,25.191508],[88.803799,25.191598],[88.80370000000001,25.1916],[88.803704,25.19187],[88.803803,25.191869],[88.803805,25.191959],[88.80400299999999,25.191957]]],"type":"Polygon"}
 }

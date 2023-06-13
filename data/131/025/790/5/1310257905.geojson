@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.15419,22.35988,76.15419,22.35988",
-    "geom:latitude":22.35988,
-    "geom:longitude":76.15419,
+    "geom:bbox":"76.153194,22.358957,76.15475,22.360585",
+    "geom:latitude":22.359752,
+    "geom:longitude":76.154016,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"440.0",
     "gn:asciiname":"Kundi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.13419,22.33988,76.17419,22.37988",
+    "ks:ks_id":"KSC9D2AE32DECC4CD7844B4396BC5C1D5B",
+    "ks:ks_name":"Kundi",
+    "ks:ks_pop":621,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|600769",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_866788",
+    "lbl:latitude":22.359724,
+    "lbl:longitude":76.154079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.359724,
+    "mps:longitude":76.154079,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062f\u064a"
@@ -40,6 +50,9 @@
         "\u0995\u09c1\u09a8\u09cd\u09a1\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Kundi"
+    ],
+    "name:eng_x_preferred":[
         "Kundi"
     ],
     "name:guj_x_preferred":[
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0646\u0688\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10801554
+        "gn:id":10801554,
+        "ks:id":"KSC9D2AE32DECC4CD7844B4396BC5C1D5B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d37edc5cb7ac69418b71e194e3d0b3de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71fc07f017cdfa55f6624c1aa0b25906",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1310257905,
-    "wof:lastmodified":1577751501,
+    "wof:lastmodified":1682859697,
     "wof:name":"Kundi",
     "wof:parent_id":1108696225,
     "wof:placetype":"locality",
+    "wof:population":621,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.15419,
-    22.35988,
-    76.15419,
-    22.35988
+    76.153194,
+    22.358957,
+    76.15475,
+    22.360585
 ],
-  "geometry": {"coordinates":[76.15419,22.35988],"type":"Point"}
+  "geometry": {"coordinates":[[[76.153978,22.360582],[76.153977,22.360492],[76.15417100000001,22.360491],[76.15417100000001,22.3604],[76.154365,22.360399],[76.154364,22.360309],[76.154461,22.360308],[76.154461,22.360218],[76.15455799999999,22.360217],[76.154557,22.360127],[76.15465399999999,22.360126],[76.154653,22.359945],[76.15475000000001,22.359945],[76.15474500000001,22.359403],[76.15464799999999,22.359403],[76.154647,22.359223],[76.154549,22.359223],[76.154549,22.359133],[76.154355,22.359135],[76.154354,22.359044],[76.153965,22.359047],[76.153965,22.358957],[76.153673,22.358959],[76.153674,22.359049],[76.153577,22.35905],[76.153578,22.35923],[76.153481,22.359231],[76.15348400000001,22.359592],[76.153387,22.359593],[76.15338800000001,22.359683],[76.153291,22.359684],[76.15329199999999,22.359774],[76.153194,22.359775],[76.15319599999999,22.359956],[76.15329300000001,22.359955],[76.153294,22.360045],[76.153391,22.360045],[76.153392,22.360135],[76.15348899999999,22.360134],[76.15349000000001,22.360315],[76.153587,22.360314],[76.153589,22.360495],[76.15368599999999,22.360494],[76.15368700000001,22.360585],[76.153978,22.360582]]],"type":"Polygon"}
 }

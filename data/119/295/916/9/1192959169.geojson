@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.43995,25.23061,87.43995,25.23061",
-    "geom:latitude":25.23061,
-    "geom:longitude":87.43995,
+    "geom:bbox":"87.433616,25.223184,87.434714,25.225531",
+    "geom:latitude":25.224414,
+    "geom:longitude":87.434156,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"224.0",
     "gn:asciiname":"Tulsipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.41995,25.21061,87.45995,25.25061",
+    "ks:ks_id":"KS73127BD4867E431E81ADB623359DD8D3",
+    "ks:ks_name":"Tulsipur",
+    "ks:ks_pop":245,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1065192",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2101828",
+    "lbl:latitude":25.22443,
+    "lbl:longitude":87.434211,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.22443,
+    "mps:longitude":87.434211,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0633\u0628\u0648\u0631"
@@ -47,6 +57,9 @@
     ],
     "name:ceb_x_preferred":[
         "Tuls\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Tulsipur"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aaa\u0ac1\u0ab0"
@@ -108,7 +121,13 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u897f\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996104
+        "gn:id":10996104,
+        "ks:id":"KS73127BD4867E431E81ADB623359DD8D3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e81ef60e6346d29534a35bc4c5c8a085",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"982ec6a978ce0615ed902d70b0eb0c3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +154,22 @@
         }
     ],
     "wof:id":1192959169,
-    "wof:lastmodified":1577751115,
+    "wof:lastmodified":1682579278,
     "wof:name":"Tulsipur",
     "wof:parent_id":1108695927,
     "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.43995,
-    25.23061,
-    87.43995,
-    25.23061
+    87.433616,
+    25.223184,
+    87.434714,
+    25.225531
 ],
-  "geometry": {"coordinates":[87.43995,25.23061],"type":"Point"}
+  "geometry": {"coordinates":[[[87.43441799999999,25.225531],[87.434417,25.22544],[87.434516,25.22544],[87.434516,25.225259],[87.43461499999999,25.225259],[87.43461499999999,25.225169],[87.434714,25.225168],[87.434713,25.224807],[87.434613,25.224808],[87.434611,25.223995],[87.434511,25.223995],[87.434511,25.223905],[87.43441199999999,25.223905],[87.434411,25.223815],[87.43431200000001,25.223815],[87.43431099999999,25.223634],[87.434212,25.223635],[87.434212,25.223454],[87.434112,25.223454],[87.434112,25.223274],[87.434012,25.223274],[87.434012,25.223184],[87.433814,25.223184],[87.433814,25.223275],[87.43371500000001,25.223275],[87.43371500000001,25.223456],[87.433616,25.223456],[87.433617,25.223817],[87.433716,25.223817],[87.433718,25.224359],[87.433818,25.224358],[87.433819,25.22472],[87.43391800000001,25.224719],[87.433919,25.22499],[87.43382,25.224991],[87.43382099999999,25.225352],[87.43402,25.225351],[87.43402,25.225441],[87.434119,25.225441],[87.43411999999999,25.225531],[87.43441799999999,25.225531]]],"type":"Polygon"}
 }

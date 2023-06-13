@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.1788,26.29618,82.1788,26.29618",
-    "geom:latitude":26.29618,
-    "geom:longitude":82.1788,
+    "geom:bbox":"82.178396,26.289597,82.178396,26.289597",
+    "geom:latitude":26.289597,
+    "geom:longitude":82.178396,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Dehri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.1588,26.27618,82.1988,26.31618",
+    "ks:ks_alt_nam":"TEHRI",
+    "ks:ks_id":"KS26172B1D472F40B2B34B7B785ADA9531",
+    "ks:ks_name":"Tehri",
+    "ks:ks_pop":50,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1037096",
+    "ks:ks_type":"HABITATION",
+    "lbl:latitude":26.289597,
+    "lbl:longitude":82.178396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.289597,
+    "mps:longitude":82.178396,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09b9\u09b0\u09c0"
@@ -43,6 +53,12 @@
         "Dehri"
     ],
     "name:deu_x_preferred":[
+        "Dehri"
+    ],
+    "name:eng_x_preferred":[
+        "Tehri"
+    ],
+    "name:eng_x_variant":[
         "Dehri"
     ],
     "name:fra_x_preferred":[
@@ -84,37 +100,55 @@
     "name:zho_x_preferred":[
         "\u5fb7\u8d6b\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"karmashapes",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890505631
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10609651
+        "gn:id":10609651,
+        "ks:id":"KS26172B1D472F40B2B34B7B785ADA9531"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7b78d575886cd6515b344660b0a6ba70",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8da03f9646ff033dd7d8f06664e3d358",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209654879
+            "county_id":890505631,
+            "locality_id":1209654879,
+            "region_id":85672205
         }
     ],
     "wof:id":1209654879,
-    "wof:lastmodified":1566694650,
-    "wof:name":"Dehri",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682626488,
+    "wof:name":"Tehri",
+    "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.1788,
-    26.29618,
-    82.1788,
-    26.29618
+    82.178396,
+    26.289597,
+    82.178396,
+    26.289597
 ],
-  "geometry": {"coordinates":[82.1788,26.29618],"type":"Point"}
+  "geometry": {"coordinates":[82.17839600000001,26.289597],"type":"Point"}
 }

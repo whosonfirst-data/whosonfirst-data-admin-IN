@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.28315,26.36372,83.28315,26.36372",
-    "geom:latitude":26.36372,
-    "geom:longitude":83.28315,
+    "geom:bbox":"83.282719,26.363035,83.283528,26.364113",
+    "geom:latitude":26.363574,
+    "geom:longitude":83.283124,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Tiragaon",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.26315,26.34372,83.30315,26.38372",
+    "ks:ks_id":"KS0ED98576CEF842CC87E757A8E50FFA42",
+    "ks:ks_name":"Tira Gaon",
+    "ks:ks_pop":530,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1059335",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1412188",
+    "lbl:latitude":26.363574,
+    "lbl:longitude":83.283124,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.363574,
+    "mps:longitude":83.283124,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Tira Gaon"
+    ],
+    "name:eng_x_variant":[
+        "Tiragaon"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10664817
+        "gn:id":10664817,
+        "ks:id":"KS0ED98576CEF842CC87E757A8E50FFA42"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1038ff59a8d74a730aff2827a77ebcc2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73ab85ac5590c3ba306978dbab715663",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326569595,
-    "wof:lastmodified":1566682215,
-    "wof:name":"Tiragaon",
+    "wof:lastmodified":1682880744,
+    "wof:name":"Tira Gaon",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":530,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.28315,
-    26.36372,
-    83.28315,
-    26.36372
+    83.282719,
+    26.363035,
+    83.283528,
+    26.364113
 ],
-  "geometry": {"coordinates":[83.28315000000001,26.36372],"type":"Point"}
+  "geometry": {"coordinates":[[[83.283528,26.363035],[83.282719,26.363035],[83.282719,26.364113],[83.283528,26.364113],[83.283528,26.363035]]],"type":"Polygon"}
 }

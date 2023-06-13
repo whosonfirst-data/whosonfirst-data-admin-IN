@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.53313,26.8289,79.53313,26.8289",
-    "geom:latitude":26.8289,
-    "geom:longitude":79.53313,
+    "geom:bbox":"79.532436,26.82822,79.534156,26.829481",
+    "geom:latitude":26.828845,
+    "geom:longitude":79.533227,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"162.0",
     "gn:asciiname":"Anantapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.51313,26.8089,79.55313,26.8489",
+    "ks:ks_id":"KSA4EADB9DBF7541E38AEBD81658BE23C0",
+    "ks:ks_name":"Anantpur",
+    "ks:ks_pop":547,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|36868",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1882038",
+    "lbl:latitude":26.82876,
+    "lbl:longitude":79.533243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.82876,
+    "mps:longitude":79.533243,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u062a\u0627\u0628\u0648\u0631"
@@ -59,6 +69,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ac\u03bd\u03c4\u03b1\u03c0\u03bf\u03c5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Anantpur"
+    ],
+    "name:eng_x_variant":[
+        "Anantapur"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u0646\u062a\u0627\u067e\u0648\u0631"
@@ -159,7 +175,13 @@
     "name:zho_x_preferred":[
         "\u963f\u7eb3\u6069\u5854\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -168,10 +190,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7003942
+        "gn:id":7003942,
+        "ks:id":"KSA4EADB9DBF7541E38AEBD81658BE23C0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cba13d3c5933d2ca376ea40e667f7052",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f4392c4e2d86aaf7afabbca97478e42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,20 +208,22 @@
         }
     ],
     "wof:id":1327073797,
-    "wof:lastmodified":1577749353,
-    "wof:name":"Anantapur",
+    "wof:lastmodified":1682901179,
+    "wof:name":"Anantpur",
     "wof:parent_id":1108695827,
     "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.53313,
-    26.8289,
-    79.53313,
-    26.8289
+    79.532436,
+    26.82822,
+    79.534156,
+    26.829481
 ],
-  "geometry": {"coordinates":[79.53313,26.8289],"type":"Point"}
+  "geometry": {"coordinates":[[[79.532838,26.829481],[79.53283999999999,26.829391],[79.533041,26.829393],[79.53304199999999,26.829302],[79.533243,26.829304],[79.533244,26.829214],[79.53374700000001,26.829219],[79.533748,26.829129],[79.533849,26.82913],[79.53385,26.82904],[79.53405100000001,26.829042],[79.534054,26.828861],[79.534154,26.828863],[79.534156,26.828772],[79.534055,26.828771],[79.534057,26.828591],[79.533957,26.82859],[79.533958,26.828499],[79.533857,26.828498],[79.533858,26.828408],[79.53375800000001,26.828407],[79.533759,26.828317],[79.533558,26.828315],[79.533559,26.828224],[79.53315600000001,26.82822],[79.53315499999999,26.828311],[79.532954,26.828308],[79.53295300000001,26.828399],[79.53285200000001,26.828398],[79.53285099999999,26.828488],[79.532751,26.828487],[79.532749,26.828577],[79.53264900000001,26.828576],[79.532646,26.828757],[79.532546,26.828756],[79.532544,26.828936],[79.532443,26.828935],[79.532436,26.829477],[79.532838,26.829481]]],"type":"Polygon"}
 }

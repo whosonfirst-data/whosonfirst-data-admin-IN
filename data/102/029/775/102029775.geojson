@@ -13,12 +13,21 @@
     "gn:longitude":81.10393,
     "gn:population":13338,
     "iso:country":"IN",
-    "lbl:latitude":25.772057,
-    "lbl:longitude":81.102706,
+    "ks:ks_alt_nam":"Kh\u0101ga",
+    "ks:ks_id":"KSA6F5D8867FAF4825851F845316AD41FA",
+    "ks:ks_name":"Khaga",
+    "ks:ks_pop":12021,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2100371",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1852983",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.772952,
+    "lbl:longitude":81.105034,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":25.77516,
-    "mps:longitude":81.106464,
+    "mps:latitude":25.772952,
+    "mps:longitude":81.105034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Khaga"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101ga"
     ],
     "name:fra_x_preferred":[
         "Khaga"
@@ -121,10 +133,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":557,
     "wof:belongsto":[
         102191569,
@@ -136,13 +150,16 @@
     "wof:concordances":{
         "gn:id":1267190,
         "gp:id":2288799,
+        "ks:id":"KSA6F5D8867FAF4825851F845316AD41FA",
         "qs_pg:id":370410,
         "wd:id":"Q2120073",
         "wk:page":"Khaga"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"57110d3be15326f1711a3bacf5fb5f9a",
     "wof:hierarchy":[
@@ -155,11 +172,11 @@
         }
     ],
     "wof:id":102029775,
-    "wof:lastmodified":1658780769,
-    "wof:name":"Kh\u0101ga",
+    "wof:lastmodified":1682524139,
+    "wof:name":"Khaga",
     "wof:parent_id":1108695837,
     "wof:placetype":"locality",
-    "wof:population":13338,
+    "wof:population":12021,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

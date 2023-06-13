@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.13299,23.23701,73.13299,23.23701",
-    "geom:latitude":23.23701,
-    "geom:longitude":73.13299,
+    "geom:bbox":"73.135067,23.240284,73.136148,23.241641",
+    "geom:latitude":23.240989,
+    "geom:longitude":73.135625,
     "gn:admin1_code":"9.0",
     "gn:admin2_code":"472.0",
     "gn:asciiname":"Pato",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.11299,23.21701,73.15299,23.25701",
+    "ks:ks_id":"KSDF769EABC92D4F43806E3CE491812EFA",
+    "ks:ks_name":"Patyo",
+    "ks:ks_pop":220,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1380371",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_808663",
+    "lbl:latitude":23.240993,
+    "lbl:longitude":73.135636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.240993,
+    "mps:longitude":73.135636,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648"
@@ -37,6 +47,12 @@
         "Pato"
     ],
     "name:deu_x_preferred":[
+        "Pato"
+    ],
+    "name:eng_x_preferred":[
+        "Patyo"
+    ],
+    "name:eng_x_variant":[
         "Pato"
     ],
     "name:fas_x_preferred":[
@@ -63,7 +79,13 @@
     "name:swe_x_preferred":[
         "Pato"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10800724
+        "gn:id":10800724,
+        "ks:id":"KSDF769EABC92D4F43806E3CE491812EFA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"09d0dd768085e7db7f5e25a47bd475cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4b7196d31a669a42f3cef212de84185",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1243548689,
-    "wof:lastmodified":1566705538,
-    "wof:name":"Pato",
+    "wof:lastmodified":1682719759,
+    "wof:name":"Patyo",
     "wof:parent_id":1108696265,
     "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.13299,
-    23.23701,
-    73.13299,
-    23.23701
+    73.135067,
+    23.240284,
+    73.136148,
+    23.241641
 ],
-  "geometry": {"coordinates":[73.13299000000001,23.23701],"type":"Point"}
+  "geometry": {"coordinates":[[[73.135746,23.241641],[73.13574699999999,23.241551],[73.135845,23.241552],[73.135846,23.241461],[73.13594399999999,23.241463],[73.13594500000001,23.241372],[73.136043,23.241373],[73.13604599999999,23.241193],[73.136143,23.241194],[73.13614800000001,23.240833],[73.13605099999999,23.240832],[73.136054,23.240561],[73.135957,23.24056],[73.135958,23.240469],[73.13585999999999,23.240468],[73.13586100000001,23.240378],[73.135666,23.240376],[73.135667,23.240285],[73.13557,23.240284],[73.13556800000001,23.240375],[73.135471,23.240373],[73.135469,23.240464],[73.135372,23.240463],[73.13536999999999,23.240553],[73.135273,23.240552],[73.13527000000001,23.240732],[73.135172,23.240731],[73.135169,23.241002],[73.135071,23.241001],[73.13506700000001,23.241272],[73.135165,23.241273],[73.135164,23.241363],[73.135261,23.241364],[73.13526,23.241454],[73.135358,23.241456],[73.135357,23.241546],[73.135552,23.241548],[73.13555100000001,23.241639],[73.135746,23.241641]]],"type":"Polygon"}
 }

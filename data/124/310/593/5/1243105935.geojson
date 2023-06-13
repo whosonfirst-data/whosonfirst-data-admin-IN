@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.57162,25.07643,87.57162,25.07643",
-    "geom:latitude":25.07643,
-    "geom:longitude":87.57162,
+    "geom:bbox":"87.570328,25.0757,87.574001,25.077046",
+    "geom:latitude":25.076395,
+    "geom:longitude":87.572173,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"352.0",
     "gn:asciiname":"Bishunpur",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.55162,25.05643,87.59162,25.09643",
+    "ks:ks_id":"KS99B553177C63439F90155ED8D766B50D",
+    "ks:ks_name":"Bishunpur",
+    "ks:ks_pop":893,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13511135",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2098775",
+    "lbl:latitude":25.076417,
+    "lbl:longitude":87.572173,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.076417,
+    "mps:longitude":87.572173,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Bishunpur"
+    ],
+    "name:eng_x_preferred":[
         "Bishunpur"
     ],
     "name:msa_x_preferred":[
@@ -42,7 +55,13 @@
     "name:pol_x_preferred":[
         "Bishunpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11013391
+        "gn:id":11013391,
+        "ks:id":"KS99B553177C63439F90155ED8D766B50D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"687351381b1feb9053edbd3efc4196c1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13e2d8118e716d187b02d0bf93daf1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1243105935,
-    "wof:lastmodified":1566708501,
+    "wof:lastmodified":1682702707,
     "wof:name":"Bishunpur",
     "wof:parent_id":1108696105,
     "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.57162,
-    25.07643,
-    87.57162,
-    25.07643
+    87.570328,
+    25.0757,
+    87.574001,
+    25.077046
 ],
-  "geometry": {"coordinates":[87.57162,25.07643],"type":"Point"}
+  "geometry": {"coordinates":[[[87.573606,25.077044],[87.573605,25.076954],[87.573903,25.076953],[87.573902,25.076862],[87.574001,25.076862],[87.574,25.076591],[87.57390100000001,25.076591],[87.57390100000001,25.076501],[87.573801,25.076502],[87.573801,25.076411],[87.573702,25.076412],[87.573701,25.076321],[87.573404,25.076322],[87.573404,25.076232],[87.57330399999999,25.076233],[87.57330399999999,25.076142],[87.572709,25.076145],[87.572709,25.076054],[87.572114,25.076056],[87.572113,25.075966],[87.57171700000001,25.075968],[87.571716,25.075877],[87.57132,25.075879],[87.571319,25.075789],[87.570823,25.075791],[87.570823,25.0757],[87.570526,25.075701],[87.570526,25.075792],[87.570328,25.075792],[87.570329,25.076063],[87.570527,25.076063],[87.570528,25.076153],[87.570627,25.076153],[87.570628,25.076423],[87.570826,25.076423],[87.57082699999999,25.076513],[87.570926,25.076513],[87.570926,25.076603],[87.571224,25.076602],[87.571224,25.076692],[87.57172,25.07669],[87.57172,25.07678],[87.572216,25.076779],[87.57221699999999,25.076869],[87.572911,25.076866],[87.572911,25.076956],[87.57320900000001,25.076955],[87.57320900000001,25.077046],[87.573606,25.077044]]],"type":"Polygon"}
 }

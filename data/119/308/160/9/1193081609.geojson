@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.45903,23.54777,76.45903,23.54777",
-    "geom:latitude":23.54777,
-    "geom:longitude":76.45903,
+    "geom:bbox":"76.457873,23.547019,76.460328,23.548382",
+    "geom:latitude":23.547738,
+    "geom:longitude":76.458966,
     "gn:admin1_code":"35",
     "gn:admin2_code":"442.0",
     "gn:asciiname":"Kishanpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.43903,23.52777,76.47903,23.56777",
+    "ks:ks_id":"KSAA3135AA64CE496D87AF54468CDCBBC9",
+    "ks:ks_name":"Kishanpura",
+    "ks:ks_pop":434,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|566174",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_901416",
+    "lbl:latitude":23.5477,
+    "lbl:longitude":76.45882,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.5477,
+    "mps:longitude":76.45882,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0634\u0627\u0646\u0628\u0648\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0995\u09bf\u09b7\u09be\u09a8\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Kishanpura"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab6\u0aa8\u0aaa\u0ac1\u0ab0\u0abe"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0634\u0646 \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10748237
+        "gn:id":10748237,
+        "ks:id":"KSAA3135AA64CE496D87AF54468CDCBBC9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7c58109a88dcf1daee52861facf4ee8f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"151e6a6aaf6947292e899fa8a1a8ad43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1193081609,
-    "wof:lastmodified":1577751086,
+    "wof:lastmodified":1682587315,
     "wof:name":"Kishanpura",
     "wof:parent_id":1108696229,
     "wof:placetype":"locality",
+    "wof:population":434,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.45903,
-    23.54777,
-    76.45903,
-    23.54777
+    76.457873,
+    23.547019,
+    76.460328,
+    23.548382
 ],
-  "geometry": {"coordinates":[76.45903,23.54777],"type":"Point"}
+  "geometry": {"coordinates":[[[76.459647,23.548369],[76.45964600000001,23.548279],[76.45984199999999,23.548277],[76.459841,23.548187],[76.460037,23.548185],[76.460036,23.548095],[76.460134,23.548094],[76.460133,23.548003],[76.46023099999999,23.548002],[76.46023,23.547912],[76.460328,23.547911],[76.46032599999999,23.547731],[76.460228,23.547732],[76.460227,23.547641],[76.46012899999999,23.547642],[76.460128,23.547552],[76.46003,23.547553],[76.46002900000001,23.547463],[76.459833,23.547464],[76.45983200000001,23.547374],[76.459636,23.547376],[76.45963500000001,23.547286],[76.459537,23.547287],[76.459536,23.547196],[76.45934099999999,23.547198],[76.45934,23.547108],[76.45914399999999,23.54711],[76.459143,23.547019],[76.45826099999999,23.547028],[76.458262,23.547118],[76.458066,23.54712],[76.458067,23.54721],[76.45796900000001,23.547211],[76.457971,23.547392],[76.45787300000001,23.547392],[76.45788,23.548025],[76.457978,23.548024],[76.45798000000001,23.548204],[76.458078,23.548203],[76.458079,23.548294],[76.458275,23.548292],[76.458276,23.548382],[76.459647,23.548369]]],"type":"Polygon"}
 }

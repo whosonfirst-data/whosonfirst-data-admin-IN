@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.71879,25.87341,87.71879,25.87341",
-    "geom:latitude":25.87341,
-    "geom:longitude":87.71879,
+    "geom:bbox":"87.717253,25.872016,87.724799,25.874711",
+    "geom:latitude":25.873206,
+    "geom:longitude":87.720632,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"211.0",
     "gn:asciiname":"Mala",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.69879,25.85341,87.73879,25.89341",
+    "ks:ks_alt_nam":"M\u0101la",
+    "ks:ks_id":"KSCBC3331EC334456BA85E0265ACA879B7",
+    "ks:ks_name":"Mala",
+    "ks:ks_pop":913,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13502071",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1567941",
+    "lbl:latitude":25.873535,
+    "lbl:longitude":87.719632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.873535,
+    "mps:longitude":87.719632,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627"
@@ -47,6 +58,12 @@
     ],
     "name:deu_x_preferred":[
         "Mala"
+    ],
+    "name:eng_x_preferred":[
+        "Mala"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101la"
     ],
     "name:fra_x_preferred":[
         "Mala"
@@ -108,7 +125,13 @@
     "name:uzb_x_preferred":[
         "Male"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996620
+        "gn:id":10996620,
+        "ks:id":"KSCBC3331EC334456BA85E0265ACA879B7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1b5bb8a54c3f221d1f798f447b8844e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"65909ff7d34a5b0a540f70b33988d132",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +158,22 @@
         }
     ],
     "wof:id":1343998949,
-    "wof:lastmodified":1577749698,
+    "wof:lastmodified":1682947910,
     "wof:name":"Mala",
     "wof:parent_id":1108695907,
     "wof:placetype":"locality",
+    "wof:population":913,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.71879,
-    25.87341,
-    87.71879,
-    25.87341
+    87.717253,
+    25.872016,
+    87.724799,
+    25.874711
 ],
-  "geometry": {"coordinates":[87.71879,25.87341],"type":"Point"}
+  "geometry": {"coordinates":[[[87.72102599999999,25.874711],[87.72102599999999,25.874172],[87.721565,25.874172],[87.721565,25.873633],[87.72264300000001,25.873633],[87.72264300000001,25.873363],[87.72291199999999,25.873363],[87.72291199999999,25.873633],[87.72318199999999,25.873633],[87.72318199999999,25.873094],[87.724799,25.873094],[87.724799,25.872285],[87.72426,25.872285],[87.72426,25.872016],[87.723721,25.872016],[87.723721,25.872285],[87.722373,25.872285],[87.722373,25.872555],[87.722104,25.872555],[87.722104,25.872285],[87.721295,25.872285],[87.721295,25.873094],[87.721565,25.873094],[87.721565,25.873363],[87.72102599999999,25.873363],[87.72102599999999,25.872824],[87.72048700000001,25.872824],[87.72048700000001,25.872555],[87.719948,25.872555],[87.719948,25.872016],[87.7186,25.872016],[87.7186,25.872285],[87.717253,25.872285],[87.717253,25.873094],[87.71833100000001,25.873094],[87.71833100000001,25.874172],[87.7186,25.874172],[87.7186,25.874711],[87.72102599999999,25.874711]]],"type":"Polygon"}
 }

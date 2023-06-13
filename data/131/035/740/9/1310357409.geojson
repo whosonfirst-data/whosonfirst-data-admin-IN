@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.18355,27.44874,81.18355,27.44874",
-    "geom:latitude":27.44874,
-    "geom:longitude":81.18355,
+    "geom:bbox":"81.182727,27.447739,81.18455,27.449365",
+    "geom:latitude":27.44864,
+    "geom:longitude":81.183651,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Deoria",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.16355,27.42874,81.20355,27.46874",
+    "ks:ks_id":"KSA5E06FB273EC45368051F61EE66F9215",
+    "ks:ks_name":"Deoria",
+    "ks:ks_pop":365,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|260545",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1902995",
+    "lbl:latitude":27.448656,
+    "lbl:longitude":81.183651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.448656,
+    "mps:longitude":81.183651,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a\u0627"
@@ -40,6 +50,9 @@
         "\u09a6\u09c7\u0993\u09b0\u09bf\u09df\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Deoria"
+    ],
+    "name:eng_x_preferred":[
         "Deoria"
     ],
     "name:guj_x_preferred":[
@@ -78,7 +91,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0631\u06cc\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10559541
+        "gn:id":10559541,
+        "ks:id":"KSA5E06FB273EC45368051F61EE66F9215"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4ef3bb12c33e0227f5fa20377a84d50d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"95ea64c1304ea6cff9eca5cf05cf1b26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1310357409,
-    "wof:lastmodified":1577751930,
+    "wof:lastmodified":1686163766,
     "wof:name":"Deoria",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":365,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.18355,
-    27.44874,
-    81.18355,
-    27.44874
+    81.182727,
+    27.447739,
+    81.18455,
+    27.449365
 ],
-  "geometry": {"coordinates":[81.18355,27.44874],"type":"Point"}
+  "geometry": {"coordinates":[[[81.184247,27.449364],[81.184246,27.449274],[81.184348,27.449273],[81.184347,27.449183],[81.184449,27.449183],[81.184448,27.449002],[81.18455,27.449002],[81.184549,27.448551],[81.184448,27.448551],[81.18444700000001,27.44819],[81.18434600000001,27.44819],[81.18434600000001,27.448009],[81.18424400000001,27.44801],[81.18424400000001,27.447919],[81.18404200000001,27.44792],[81.18404200000001,27.447829],[81.18394000000001,27.447829],[81.18394000000001,27.447739],[81.183637,27.44774],[81.183637,27.44783],[81.183536,27.44783],[81.183536,27.44792],[81.183333,27.447921],[81.183334,27.448011],[81.183131,27.448011],[81.183131,27.448101],[81.18303,27.448101],[81.18303,27.448192],[81.182929,27.448192],[81.182929,27.448282],[81.182828,27.448282],[81.182828,27.448373],[81.182727,27.448373],[81.182728,27.449095],[81.182829,27.449095],[81.18283,27.449185],[81.182931,27.449185],[81.182931,27.449275],[81.183133,27.449275],[81.183133,27.449365],[81.184247,27.449364]]],"type":"Polygon"}
 }

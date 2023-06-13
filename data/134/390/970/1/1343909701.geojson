@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.96987,26.84847,79.96987,26.84847",
-    "geom:latitude":26.84847,
-    "geom:longitude":79.96987,
+    "geom:bbox":"79.969078,26.847238,79.970893,26.849229",
+    "geom:latitude":26.848297,
+    "geom:longitude":79.969887,
     "gn:admin1_code":"36",
     "gn:admin2_code":"164.0",
     "gn:asciiname":"Garhi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.94987,26.82847,79.98987,26.86847",
+    "ks:ks_id":"KS1CF00C3001264149B80AD65DC4C8574D",
+    "ks:ks_name":"Garhi",
+    "ks:ks_pop":874,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|347900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1882558",
+    "lbl:latitude":26.848324,
+    "lbl:longitude":79.96987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.848324,
+    "mps:longitude":79.96987,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u0647\u064a"
@@ -40,6 +50,9 @@
         "\u0997\u09be\u09f0\u09cd\u09b9\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Garhi"
+    ],
+    "name:eng_x_preferred":[
         "Garhi"
     ],
     "name:guj_x_preferred":[
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06af\u0691\u06be\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10487319
+        "gn:id":10487319,
+        "ks:id":"KS1CF00C3001264149B80AD65DC4C8574D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"be7c8449420aa5ada070cdc2e526b031",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"078e80ce40235caa734385fd19962d43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1343909701,
-    "wof:lastmodified":1577749714,
+    "wof:lastmodified":1682944965,
     "wof:name":"Garhi",
     "wof:parent_id":890504051,
     "wof:placetype":"locality",
+    "wof:population":874,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.96987,
-    26.84847,
-    79.96987,
-    26.84847
+    79.969078,
+    26.847238,
+    79.970893,
+    26.849229
 ],
-  "geometry": {"coordinates":[79.96987,26.84847],"type":"Point"}
+  "geometry": {"coordinates":[[[79.970178,26.849229],[79.970179,26.849139],[79.97038000000001,26.849141],[79.970382,26.84896],[79.970483,26.848961],[79.970484,26.848871],[79.970584,26.848871],[79.970585,26.848781],[79.970686,26.848782],[79.970686,26.848692],[79.970787,26.848692],[79.970789,26.848512],[79.970889,26.848512],[79.970893,26.848151],[79.970792,26.848151],[79.970793,26.84806],[79.970692,26.84806],[79.970693,26.847969],[79.970592,26.847969],[79.97059299999999,26.847878],[79.970493,26.847878],[79.970493,26.847787],[79.970292,26.847786],[79.970293,26.847696],[79.970192,26.847695],[79.97019299999999,26.847605],[79.97009199999999,26.847604],[79.97009300000001,26.847514],[79.969892,26.847512],[79.969893,26.847422],[79.969792,26.847421],[79.969793,26.847331],[79.96969199999999,26.84733],[79.96969300000001,26.84724],[79.969391,26.847238],[79.96939,26.847328],[79.96929,26.847327],[79.969289,26.847417],[79.969188,26.847417],[79.969183,26.847958],[79.969083,26.847958],[79.969078,26.848499],[79.969178,26.8485],[79.96917500000001,26.848861],[79.96927599999999,26.848862],[79.969275,26.848952],[79.969376,26.848953],[79.969375,26.849043],[79.969476,26.849044],[79.969475,26.849134],[79.96957500000001,26.849135],[79.96957500000001,26.849225],[79.970178,26.849229]]],"type":"Polygon"}
 }

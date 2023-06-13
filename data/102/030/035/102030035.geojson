@@ -10,18 +10,40 @@
     "geom:latitude":17.057661,
     "geom:longitude":74.268485,
     "iso:country":"IN",
-    "lbl:latitude":17.051563,
-    "lbl:longitude":74.265636,
+    "ks:ks_id":"KS2B97FA078BD5422E91E768D6DA6A24F8",
+    "ks:ks_name":"Islampur",
+    "ks:ks_pop":51895,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|435837",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_367725",
+    "lbl:latitude":17.052291,
+    "lbl:longitude":74.267808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":17.056784,
-    "mps:longitude":74.262085,
+    "mps:latitude":17.052291,
+    "mps:longitude":74.267808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
+    ],
     "name:deu_x_preferred":[
         "Islampur"
+    ],
+    "name:eng_x_preferred":[
+        "Islampur"
+    ],
+    "name:eng_x_variant":[
+        "Isl\u0101mpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0938\u094d\u0932\u093e\u092e\u092a\u0941\u0930"
+    ],
+    "name:mar_x_preferred":[
+        "\u0907\u0938\u094d\u0932\u093e\u092e\u092a\u0942\u0930"
     ],
     "name:new_x_preferred":[
         "\u0907\u0938\u094d\u0932\u093e\u092e\u092a\u0941\u0930"
@@ -50,9 +72,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191569,
@@ -64,11 +89,14 @@
     "wof:concordances":{
         "gn:id":1269668,
         "gp:id":29044154,
+        "ks:id":"KS2B97FA078BD5422E91E768D6DA6A24F8",
         "qs_pg:id":908753
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"6d02f414f8e8da74e513eb2513b27afc",
     "wof:hierarchy":[
@@ -81,10 +109,12 @@
         }
     ],
     "wof:id":102030035,
-    "wof:lastmodified":1658780744,
-    "wof:name":"Isl\u0101mpur",
+    "wof:lastmodified":1686162189,
+    "wof:name":"Islampur",
     "wof:parent_id":890503395,
     "wof:placetype":"locality",
+    "wof:population":51895,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

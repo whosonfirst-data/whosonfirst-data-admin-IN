@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.1391,26.09475,79.1391,26.09475",
-    "geom:latitude":26.09475,
-    "geom:longitude":79.1391,
+    "geom:bbox":"79.138312,26.094069,79.140217,26.095524",
+    "geom:latitude":26.094861,
+    "geom:longitude":79.139196,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"165.0",
     "gn:asciiname":"Rura",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.1191,26.07475,79.1591,26.11475",
+    "ks:ks_alt_nam":"R\u016br\u0101",
+    "ks:ks_id":"KS8ADB2C9EFB4146BA9CFD3BB54DFE0E38",
+    "ks:ks_name":"Rura",
+    "ks:ks_pop":131,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|929011",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1729650",
+    "lbl:latitude":26.09485,
+    "lbl:longitude":79.139119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.09485,
+    "mps:longitude":79.139119,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09c1\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
         "Rura"
+    ],
+    "name:eng_x_preferred":[
+        "Rura"
+    ],
+    "name:eng_x_variant":[
+        "R\u016br\u0101"
     ],
     "name:hin_x_preferred":[
         "\u0930\u0942\u0930\u093e"
@@ -63,7 +80,13 @@
     "name:vie_x_preferred":[
         "Rura"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10941819
+        "gn:id":10941819,
+        "ks:id":"KS8ADB2C9EFB4146BA9CFD3BB54DFE0E38"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ab1126695534e513334bab1ae0a7467f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"525fe1cd0ee5606d4da049169f4b3461",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1209868841,
-    "wof:lastmodified":1566697208,
+    "wof:lastmodified":1682636194,
     "wof:name":"Rura",
     "wof:parent_id":1108695829,
     "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.1391,
-    26.09475,
-    79.1391,
-    26.09475
+    79.138312,
+    26.094069,
+    79.140217,
+    26.095524
 ],
-  "geometry": {"coordinates":[79.1391,26.09475],"type":"Point"}
+  "geometry": {"coordinates":[[[79.139607,26.095524],[79.139608,26.095433],[79.13990800000001,26.095437],[79.13991,26.095347],[79.14011000000001,26.09535],[79.140111,26.095259],[79.14021099999999,26.095261],[79.14021700000001,26.0949],[79.140117,26.094898],[79.14012,26.094718],[79.14002000000001,26.094716],[79.140021,26.094626],[79.139921,26.094625],[79.139923,26.094535],[79.13982300000001,26.094533],[79.139824,26.094443],[79.139724,26.094442],[79.139725,26.094352],[79.13962600000001,26.09435],[79.139627,26.09426],[79.139527,26.094259],[79.139528,26.094169],[79.139229,26.094165],[79.13923,26.094074],[79.13883,26.094069],[79.138829,26.09416],[79.13862899999999,26.094157],[79.138627,26.094247],[79.13852799999999,26.094246],[79.138526,26.094336],[79.138426,26.094335],[79.13842200000001,26.094606],[79.138322,26.094604],[79.138312,26.095236],[79.138412,26.095237],[79.13840999999999,26.095328],[79.13851,26.095329],[79.138509,26.095419],[79.138609,26.09542],[79.13860699999999,26.095511],[79.139607,26.095524]]],"type":"Polygon"}
 }

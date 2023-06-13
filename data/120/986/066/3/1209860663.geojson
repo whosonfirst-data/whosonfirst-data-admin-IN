@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.9385,26.22461,87.9385,26.22461",
-    "geom:latitude":26.22461,
-    "geom:longitude":87.9385,
+    "geom:bbox":"87.937699,26.223975,87.939047,26.225592",
+    "geom:latitude":26.224878,
+    "geom:longitude":87.938332,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"210.0",
     "gn:asciiname":"Damdama",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.9185,26.20461,87.9585,26.24461",
+    "ks:ks_id":"KS18BE80DD63434921A38BBE0B68A78FAB",
+    "ks:ks_name":"Damdama",
+    "ks:ks_pop":521,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1008000500670400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1611269",
+    "lbl:latitude":26.224899,
+    "lbl:longitude":87.938278,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.224899,
+    "mps:longitude":87.938278,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0645\u062f\u0627\u0645\u0627"
@@ -39,6 +49,9 @@
     "name:ceb_x_preferred":[
         "D\u0101md\u0101m\u0101"
     ],
+    "name:eng_x_preferred":[
+        "Damdama"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0645\u062f\u0627\u0645\u0627"
     ],
@@ -48,7 +61,13 @@
     "name:swe_x_preferred":[
         "D\u0101md\u0101m\u0101"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10989754
+        "gn:id":10989754,
+        "ks:id":"KS18BE80DD63434921A38BBE0B68A78FAB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2e4dfbc5c2c7ae3159f99c87189fad21",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d930ea32b1595685629a49db65ec611c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1209860663,
-    "wof:lastmodified":1566697223,
+    "wof:lastmodified":1682635546,
     "wof:name":"Damdama",
     "wof:parent_id":890505789,
     "wof:placetype":"locality",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.9385,
-    26.22461,
-    87.9385,
-    26.22461
+    87.937699,
+    26.223975,
+    87.939047,
+    26.225592
 ],
-  "geometry": {"coordinates":[87.9385,26.22461],"type":"Point"}
+  "geometry": {"coordinates":[[[87.938508,26.224514],[87.938508,26.223975],[87.937969,26.223975],[87.937969,26.224514],[87.93769899999999,26.224514],[87.93769899999999,26.225323],[87.938238,26.225323],[87.938238,26.225592],[87.939047,26.225592],[87.939047,26.225053],[87.938777,26.225053],[87.938777,26.224514],[87.938508,26.224514]]],"type":"Polygon"}
 }

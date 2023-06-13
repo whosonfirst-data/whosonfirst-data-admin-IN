@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.41896,18.7988,78.41896,18.7988",
-    "geom:latitude":18.7988,
-    "geom:longitude":78.41896,
+    "geom:bbox":"78.417264,18.796974,78.421306,18.800747",
+    "geom:latitude":18.798917,
+    "geom:longitude":78.419214,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"533.0",
     "gn:asciiname":"Kuknur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.39896,18.7788,78.43896,18.8188",
+    "ks:ks_alt_nam":"K\u016bkn\u016br",
+    "ks:ks_id":"KS4E7C083C4CBB41CB9127B848212E259D",
+    "ks:ks_name":"Kuknur",
+    "ks:ks_pop":1656,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13052987",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_417838",
+    "lbl:latitude":18.79888,
+    "lbl:longitude":78.419176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.79888,
+    "mps:longitude":78.419176,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kukn\u016br"
     ],
     "name:deu_x_preferred":[
         "Kuknur"
+    ],
+    "name:eng_x_preferred":[
+        "Kuknur"
+    ],
+    "name:eng_x_variant":[
+        "K\u016bkn\u016br"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc2\u0c95\u0ca8\u0cc2\u0cb0"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Kukn\u016br"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10595389
+        "gn:id":10595389,
+        "ks:id":"KS4E7C083C4CBB41CB9127B848212E259D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dc9c8947221f805f104770ecfa94226e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8795ea8099eab1c2615c4416f5892d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1243405479,
-    "wof:lastmodified":1566706892,
+    "wof:lastmodified":1682713877,
     "wof:name":"Kuknur",
     "wof:parent_id":890510419,
     "wof:placetype":"locality",
+    "wof:population":1656,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.41896,
-    18.7988,
-    78.41896,
-    18.7988
+    78.417264,
+    18.796974,
+    78.421306,
+    18.800747
 ],
-  "geometry": {"coordinates":[78.41896,18.7988],"type":"Point"}
+  "geometry": {"coordinates":[[[78.41968900000001,18.800747],[78.41968900000001,18.800208],[78.42022799999999,18.800208],[78.42022799999999,18.799939],[78.420767,18.799939],[78.420767,18.798861],[78.421306,18.798861],[78.421306,18.798052],[78.420767,18.798052],[78.420767,18.797783],[78.42022799999999,18.797783],[78.42022799999999,18.797513],[78.41968900000001,18.797513],[78.41968900000001,18.797244],[78.41915,18.797244],[78.41915,18.796974],[78.418611,18.796974],[78.418611,18.797513],[78.418072,18.797513],[78.418072,18.797783],[78.41780300000001,18.797783],[78.41780300000001,18.798322],[78.41753300000001,18.798322],[78.41753300000001,18.799669],[78.417264,18.799669],[78.417264,18.799939],[78.41753300000001,18.799939],[78.41753300000001,18.800208],[78.418342,18.800208],[78.418342,18.800478],[78.418611,18.800478],[78.418611,18.800747],[78.41968900000001,18.800747]]],"type":"Polygon"}
 }

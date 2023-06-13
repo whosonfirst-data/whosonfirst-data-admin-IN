@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890510339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10588873
     },
     "wof:country":"IN",
-    "wof:geomhash":"e573beb56bb1361780734e4465c913a6",
+    "wof:geomhash":"4c5994794f0a64f64987b2b1c013f4fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209555217
+            "county_id":890510339,
+            "locality_id":1209555217,
+            "region_id":85672205
         }
     ],
     "wof:id":1209555217,
-    "wof:lastmodified":1566695021,
+    "wof:lastmodified":1682622688,
     "wof:name":"Pura Amaldia",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890510339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847132705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.61655999999998,
+    81.61656,
     26.64062,
-    81.61655999999998,
+    81.61656,
     26.64062
 ],
-  "geometry": {"coordinates":[81.61655999999998,26.64062],"type":"Point"}
+  "geometry": {"coordinates":[81.61656000000001,26.64062],"type":"Point"}
 }

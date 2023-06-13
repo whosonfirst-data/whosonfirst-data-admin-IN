@@ -13,12 +13,20 @@
     "gn:longitude":77.63369,
     "gn:population":74370,
     "iso:country":"IN",
-    "lbl:latitude":9.513088,
-    "lbl:longitude":77.631037,
+    "ks:ks_id":"KSCCC10A05A09246C4A3C0AE60CD55989E",
+    "ks:ks_name":"Srivilliputhur",
+    "ks:ks_pop":73183,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3326000242610000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_21972",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":9.516483,
+    "lbl:longitude":77.629835,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":9.517411,
-    "mps:longitude":77.632775,
+    "mps:latitude":9.516483,
+    "mps:longitude":77.629835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -47,6 +55,9 @@
     "name:hif_x_preferred":[
         "Srivilliputhur"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0935\u093f\u0932\u094d\u0932\u0940\u092a\u0941\u0924\u0941\u0930"
+    ],
     "name:ita_x_preferred":[
         "Srivilliputhur"
     ],
@@ -66,6 +77,9 @@
         "Srivilliputhur"
     ],
     "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
         "\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
@@ -91,10 +105,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":3868,
     "wof:belongsto":[
         102191569,
@@ -106,13 +122,16 @@
     "wof:concordances":{
         "gn:id":1255616,
         "gp:id":90896594,
+        "ks:id":"KSCCC10A05A09246C4A3C0AE60CD55989E",
         "qs_pg:id":131182,
         "wd:id":"Q2562483",
         "wk:page":"Srivilliputhur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b6ca8f2e4deb5bd035cae0b56e739991",
     "wof:hierarchy":[
@@ -125,11 +144,11 @@
         }
     ],
     "wof:id":102028557,
-    "wof:lastmodified":1658780774,
+    "wof:lastmodified":1686162205,
     "wof:name":"Srivilliputhur",
     "wof:parent_id":890502923,
     "wof:placetype":"locality",
-    "wof:population":74370,
+    "wof:population":73183,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -2,7 +2,7 @@
   "id": 1209355679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0905\u0915\u092c\u0930\u092a\u0941\u0930"
@@ -65,35 +65,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        890504089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11031018
     },
     "wof:country":"IN",
-    "wof:geomhash":"ed3d22ff6b7639d647fbb4f5d57d155b",
+    "wof:geomhash":"0e91f5553adef0f2bf842ff1f5b89179",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209355679
+            "county_id":890504089,
+            "locality_id":1209355679,
+            "region_id":85672225
         }
     ],
     "wof:id":1209355679,
-    "wof:lastmodified":1566696098,
+    "wof:lastmodified":1682615328,
     "wof:name":"Akbarpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890504089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1830186057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.68184000000002,
+    85.68184,
     25.4542,
-    85.68184000000002,
+    85.68184,
     25.4542
 ],
-  "geometry": {"coordinates":[85.68184000000002,25.4542],"type":"Point"}
+  "geometry": {"coordinates":[85.68183999999999,25.4542],"type":"Point"}
 }

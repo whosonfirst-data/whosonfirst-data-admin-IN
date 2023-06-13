@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.51837,25.86367,83.51837,25.86367",
-    "geom:latitude":25.86367,
-    "geom:longitude":83.51837,
+    "geom:bbox":"83.517719,25.862583,83.519066,25.865009",
+    "geom:latitude":25.863766,
+    "geom:longitude":83.518467,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Kor",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.49837,25.84367,83.53837,25.88367",
+    "ks:ks_id":"KS4C372E6F7474406EAA0860194750898B",
+    "ks:ks_name":"Kor",
+    "ks:ks_pop":432,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|579861",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1378828",
+    "lbl:latitude":25.863642,
+    "lbl:longitude":83.518413,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.863642,
+    "mps:longitude":83.518413,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kor"
@@ -40,6 +50,9 @@
         "Kor"
     ],
     "name:dan_x_preferred":[
+        "Kor"
+    ],
+    "name:eng_x_preferred":[
         "Kor"
     ],
     "name:hrv_x_preferred":[
@@ -63,7 +76,13 @@
     "name:tur_x_preferred":[
         "Kor"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10507153
+        "gn:id":10507153,
+        "ks:id":"KS4C372E6F7474406EAA0860194750898B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5029068563f89c403c09cbde3c96f921",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6bc20810c2c0ec22ba5fd9f7f21f11ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1226702195,
-    "wof:lastmodified":1566712827,
+    "wof:lastmodified":1682678724,
     "wof:name":"Kor",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":432,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.51836999999998,
-    25.86367000000001,
-    83.51836999999998,
-    25.86367000000001
+    83.517719,
+    25.862583,
+    83.519066,
+    25.865009
 ],
-  "geometry": {"coordinates":[83.51836999999998,25.86367000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[83.51879700000001,25.86447],[83.51879700000001,25.863931],[83.519066,25.863931],[83.519066,25.862583],[83.517988,25.862583],[83.517988,25.863392],[83.517719,25.863392],[83.517719,25.863931],[83.517988,25.863931],[83.517988,25.865009],[83.519066,25.865009],[83.519066,25.86447],[83.51879700000001,25.86447]]],"type":"Polygon"}
 }

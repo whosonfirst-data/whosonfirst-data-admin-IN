@@ -10,12 +10,20 @@
     "geom:latitude":29.347349,
     "geom:longitude":79.563629,
     "iso:country":"IN",
-    "lbl:latitude":29.345604,
-    "lbl:longitude":79.563862,
+    "ks:ks_id":"KS43ACA75D83794ECA988150303E255583",
+    "ks:ks_name":"Bhimtal",
+    "ks:ks_pop":5874,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0511000241105000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2036301",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":29.368487,
+    "lbl:longitude":79.544077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":29.358239,
-    "mps:longitude":79.590454,
+    "mps:latitude":29.368487,
+    "mps:longitude":79.544077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -104,9 +112,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1091,
     "wof:belongsto":[
         102191569,
@@ -118,13 +129,16 @@
     "wof:concordances":{
         "gn:id":7667772,
         "gp:id":2274762,
+        "ks:id":"KS43ACA75D83794ECA988150303E255583",
         "qs_pg:id":247362,
         "wd:id":"Q795774",
         "wk:page":"Bhimtal"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f851e4ec2fccd2ad54d090fd93039600",
     "wof:hierarchy":[
@@ -137,10 +151,12 @@
         }
     ],
     "wof:id":102031177,
-    "wof:lastmodified":1658780725,
+    "wof:lastmodified":1682525381,
     "wof:name":"Bhimtal",
     "wof:parent_id":890504093,
     "wof:placetype":"locality",
+    "wof:population":5874,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

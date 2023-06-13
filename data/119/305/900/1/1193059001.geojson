@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.32555,23.66411,80.32555,23.66411",
-    "geom:latitude":23.66411,
-    "geom:longitude":80.32555,
+    "geom:bbox":"80.32794,23.66333,80.328925,23.664867",
+    "geom:latitude":23.664072,
+    "geom:longitude":80.328455,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"450.0",
     "gn:asciiname":"Khamaria",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.30555,23.64411,80.34555,23.68411",
+    "ks:ks_id":"KS56DD894E4FBE49B6BA325DCAEC0D07B0",
+    "ks:ks_name":"Khamhariya",
+    "ks:ks_pop":486,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2338000304553300",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1007796",
+    "lbl:latitude":23.664079,
+    "lbl:longitude":80.328448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.664079,
+    "mps:longitude":80.328448,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09be\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Khamhariya"
+    ],
+    "name:eng_x_variant":[
+        "Khamaria"
     ],
     "name:hin_x_preferred":[
         "\u0916\u092e\u0930\u093f\u092f\u093e"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5361\u9a6c\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10675092
+        "gn:id":10675092,
+        "ks:id":"KS56DD894E4FBE49B6BA325DCAEC0D07B0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"793d15d77fa7a9be78fe1ef93e4414cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3b9c3845105d8d4d82efa6f375a8fd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1193059001,
-    "wof:lastmodified":1566698058,
-    "wof:name":"Khamaria",
+    "wof:lastmodified":1682583090,
+    "wof:name":"Khamhariya",
     "wof:parent_id":890506709,
     "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.32555,
-    23.66411,
-    80.32555,
-    23.66411
+    80.32794,
+    23.66333,
+    80.328925,
+    23.664867
 ],
-  "geometry": {"coordinates":[80.32555000000001,23.66411],"type":"Point"}
+  "geometry": {"coordinates":[[[80.328624,23.664867],[80.328624,23.664777],[80.328722,23.664777],[80.328723,23.664687],[80.328821,23.664688],[80.328821,23.664597],[80.328919,23.664598],[80.328925,23.663514],[80.328827,23.663513],[80.328827,23.663423],[80.328729,23.663423],[80.32872999999999,23.663332],[80.328239,23.66333],[80.328239,23.66342],[80.328141,23.66342],[80.32814,23.66351],[80.328042,23.66351],[80.328041,23.663691],[80.327943,23.66369],[80.32794,23.664322],[80.32803800000001,23.664323],[80.32803699999999,23.664594],[80.328135,23.664594],[80.32813400000001,23.664775],[80.32832999999999,23.664776],[80.32832999999999,23.664866],[80.328624,23.664867]]],"type":"Polygon"}
 }

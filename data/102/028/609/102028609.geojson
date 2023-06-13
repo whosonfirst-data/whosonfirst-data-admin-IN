@@ -13,12 +13,20 @@
     "gn:longitude":75.02898,
     "gn:population":181639,
     "iso:country":"IN",
-    "lbl:latitude":29.539358,
-    "lbl:longitude":75.031298,
+    "ks:ks_id":"KS49DA4E7A79554CFFA06BE7C531E6A559",
+    "ks:ks_name":"Sirsa",
+    "ks:ks_pop":111000,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|998182",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2799591",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":29.53721,
+    "lbl:longitude":75.036134,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":29.53045,
-    "mps:longitude":75.031888,
+    "mps:latitude":29.53721,
+    "mps:longitude":75.036134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -270,10 +278,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":2062,
     "wof:belongsto":[
         102191569,
@@ -286,13 +296,16 @@
         "fct:id":"123074b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1256052,
         "gp:id":2295048,
+        "ks:id":"KS49DA4E7A79554CFFA06BE7C531E6A559",
         "qs_pg:id":273889,
         "wd:id":"Q1797298",
         "wk:page":"Sirsa"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f3aca92cc6c69e2e484e9c46f8a9fd26",
     "wof:hierarchy":[
@@ -308,11 +321,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780788,
+    "wof:lastmodified":1686162213,
     "wof:name":"Sirsa",
     "wof:parent_id":890508829,
     "wof:placetype":"locality",
-    "wof:population":181639,
+    "wof:population":111000,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

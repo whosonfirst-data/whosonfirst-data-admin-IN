@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.63656,24.4779,76.63656,24.4779",
-    "geom:latitude":24.4779,
-    "geom:longitude":76.63656,
+    "geom:bbox":"76.633971,24.478836,76.635062,24.479653",
+    "geom:latitude":24.479252,
+    "geom:longitude":76.634515,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Dobra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.61656,24.4579,76.65656,24.4979",
+    "ks:ks_id":"KS97815F7AE4744964A186CB87FD7A5030",
+    "ks:ks_name":"Dobara",
+    "ks:ks_pop":480,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|304845",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_913372",
+    "lbl:latitude":24.479245,
+    "lbl:longitude":76.63456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.479245,
+    "mps:longitude":76.63456,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0430"
@@ -46,6 +56,12 @@
         "Dobra"
     ],
     "name:deu_x_preferred":[
+        "Dobra"
+    ],
+    "name:eng_x_preferred":[
+        "Dobara"
+    ],
+    "name:eng_x_variant":[
         "Dobra"
     ],
     "name:epo_x_preferred":[
@@ -108,7 +124,13 @@
     "name:vol_x_preferred":[
         "Dobra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10333447
+        "gn:id":10333447,
+        "ks:id":"KS97815F7AE4744964A186CB87FD7A5030"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b424832a03a6211e752245802a0a64de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d0b3b185baa24c28a1d5b0dacac2eec0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +157,22 @@
         }
     ],
     "wof:id":1260137767,
-    "wof:lastmodified":1566699251,
-    "wof:name":"Dobra",
+    "wof:lastmodified":1682753560,
+    "wof:name":"Dobara",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.63656,
-    24.4779,
-    76.63656,
-    24.4779
+    76.633971,
+    24.478836,
+    76.635062,
+    24.479653
 ],
-  "geometry": {"coordinates":[76.63656,24.4779],"type":"Point"}
+  "geometry": {"coordinates":[[[76.634867,24.479648],[76.634866,24.479557],[76.63496499999999,24.479556],[76.634964,24.479466],[76.635062,24.479465],[76.635059,24.479194],[76.63496000000001,24.479195],[76.634958,24.479015],[76.63485900000001,24.479016],[76.63485799999999,24.478925],[76.634759,24.478927],[76.63475800000001,24.478836],[76.634265,24.478842],[76.634266,24.478932],[76.63416700000001,24.478933],[76.634169,24.479023],[76.633971,24.479025],[76.633977,24.479477],[76.634174,24.479475],[76.634176,24.479565],[76.634373,24.479563],[76.63437399999999,24.479653],[76.634867,24.479648]]],"type":"Polygon"}
 }

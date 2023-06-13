@@ -13,12 +13,21 @@
     "gn:longitude":79.6368,
     "gn:population":58777,
     "iso:country":"IN",
-    "lbl:latitude":10.76718,
-    "lbl:longitude":79.638472,
+    "ks:ks_alt_nam":"Tiruvarur",
+    "ks:ks_id":"KS2F13F229A2064FD8AF2348228028F63B",
+    "ks:ks_name":"Thiruvarur",
+    "ks:ks_pop":56341,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3320000442006000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_347077",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.77153,
+    "lbl:longitude":79.628053,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":10.768556,
-    "mps:longitude":79.628906,
+    "mps:latitude":10.77153,
+    "mps:longitude":79.628053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -46,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Thiruvarur"
+    ],
+    "name:eng_x_variant":[
+        "Tiruvarur"
     ],
     "name:fra_x_preferred":[
         "Thiruvarur"
@@ -157,10 +169,12 @@
     "reversegeo:longitude":79.638472,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":5069,
     "wof:belongsto":[
         102191569,
@@ -172,11 +186,16 @@
     "wof:concordances":{
         "gn:id":1254589,
         "gp:id":29080714,
+        "ks:id":"KS2F13F229A2064FD8AF2348228028F63B",
         "qs_pg:id":844240,
         "wd:id":"Q1025399",
         "wk:page":"Thiruvarur"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"1fe00241f10405fa8f5f602b042638f5",
     "wof:hierarchy":[
         {
@@ -188,11 +207,11 @@
         }
     ],
     "wof:id":102028457,
-    "wof:lastmodified":1658780787,
+    "wof:lastmodified":1686162213,
     "wof:name":"Thiruvarur",
     "wof:parent_id":1108696353,
     "wof:placetype":"locality",
-    "wof:population":58777,
+    "wof:population":56341,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

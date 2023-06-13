@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.76806,23.63583,83.76806,23.63583",
-    "geom:latitude":23.63583,
-    "geom:longitude":83.76806,
+    "geom:bbox":"83.761967,23.633303,83.763641,23.634659",
+    "geom:latitude":23.633991,
+    "geom:longitude":83.762745,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Ugra",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.74806,23.61583,83.78806,23.65583",
+    "ks:ks_alt_nam":"Ugr\u0101",
+    "ks:ks_id":"KS7A01BA73BE354C7B89B139A7F7EF629A",
+    "ks:ks_name":"Ugra",
+    "ks:ks_pop":914,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1070195",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1007476",
+    "lbl:latitude":23.634023,
+    "lbl:longitude":83.762729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.634023,
+    "mps:longitude":83.762729,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u0433\u0440\u0430"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Ugra"
+    ],
+    "name:eng_x_preferred":[
+        "Ugra"
+    ],
+    "name:eng_x_variant":[
+        "Ugr\u0101"
     ],
     "name:hrv_x_preferred":[
         "Ugra"
@@ -57,7 +74,13 @@
     "name:srp_x_preferred":[
         "\u0423\u0433\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10745721
+        "gn:id":10745721,
+        "ks:id":"KS7A01BA73BE354C7B89B139A7F7EF629A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c37b29ab0982347a6cc884621cfb5ae5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f642832545b614f03a481ae04516f64d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +107,22 @@
         }
     ],
     "wof:id":1226393759,
-    "wof:lastmodified":1566713185,
+    "wof:lastmodified":1682666157,
     "wof:name":"Ugra",
     "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":914,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.76805999999998,
-    23.63583,
-    83.76805999999998,
-    23.63583
+    83.761967,
+    23.633303,
+    83.763641,
+    23.634659
 ],
-  "geometry": {"coordinates":[83.76805999999998,23.63583],"type":"Point"}
+  "geometry": {"coordinates":[[[83.763165,23.634647],[83.76316300000001,23.634557],[83.76335899999999,23.634554],[83.763355,23.634373],[83.763453,23.634371],[83.76344899999999,23.634191],[83.763547,23.634189],[83.763543,23.634009],[83.76364100000001,23.634007],[83.76363600000001,23.633736],[83.763538,23.633738],[83.763536,23.633648],[83.76334,23.633651],[83.763338,23.633561],[83.763142,23.633565],[83.76314000000001,23.633474],[83.762846,23.63348],[83.762845,23.633389],[83.762649,23.633393],[83.762647,23.633303],[83.762255,23.63331],[83.76225700000001,23.6334],[83.762061,23.633403],[83.76206500000001,23.633584],[83.761967,23.633586],[83.76197999999999,23.634217],[83.762078,23.634215],[83.76208200000001,23.634396],[83.76218,23.634394],[83.762182,23.634484],[83.762378,23.634481],[83.76237999999999,23.634571],[83.762477,23.634569],[83.762479,23.634659],[83.763165,23.634647]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.54249,22.87249,79.54249,22.87249",
-    "geom:latitude":22.87249,
-    "geom:longitude":79.54249,
+    "geom:bbox":"79.542058,22.870873,79.543827,22.872952",
+    "geom:latitude":22.871978,
+    "geom:longitude":79.542926,
     "gn:admin1_code":"35",
     "gn:admin2_code":"452.0",
     "gn:asciiname":"Bamhani",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.52249,22.85249,79.56249,22.89249",
+    "ks:ks_id":"KS597853B5C78643F3BDCA6046AFA2047B",
+    "ks:ks_name":"Bamhani",
+    "ks:ks_pop":814,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|85102",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_990813",
+    "lbl:latitude":22.871964,
+    "lbl:longitude":79.542998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.871964,
+    "mps:longitude":79.542998,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09ae\u09b9\u09be\u09a8\u09bf"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09ae\u09b9\u09be\u09a8\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Bamhani"
     ],
     "name:hin_x_preferred":[
         "\u092c\u092e\u094d\u0939\u0928\u0940 \u092c\u0902\u091c\u0930"
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u59c6\u54c8\u5c3c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10464598
+        "gn:id":10464598,
+        "ks:id":"KS597853B5C78643F3BDCA6046AFA2047B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"da5b46c95a5c3c2e27db68a0c399ef9a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2118ddecc200708b2d052191e58a554e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1193072257,
-    "wof:lastmodified":1566697417,
+    "wof:lastmodified":1682585571,
     "wof:name":"Bamhani",
     "wof:parent_id":1108696241,
     "wof:placetype":"locality",
+    "wof:population":814,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.54249,
-    22.87249,
-    79.54249,
-    22.87249
+    79.542058,
+    22.870873,
+    79.543827,
+    22.872952
 ],
-  "geometry": {"coordinates":[79.54249,22.87249],"type":"Point"}
+  "geometry": {"coordinates":[[[79.542933,22.872952],[79.542934,22.872861],[79.543226,22.872864],[79.543227,22.872774],[79.54342200000001,22.872775],[79.543423,22.872685],[79.543521,22.872686],[79.54352400000001,22.872415],[79.543621,22.872416],[79.543622,22.872326],[79.543719,22.872327],[79.543722,22.872056],[79.54382,22.872057],[79.54382699999999,22.871424],[79.543729,22.871424],[79.54373,22.871333],[79.543633,22.871332],[79.543634,22.871242],[79.54343900000001,22.87124],[79.54344,22.87115],[79.543245,22.871148],[79.54324699999999,22.870968],[79.54295399999999,22.870965],[79.54295500000001,22.870875],[79.54276,22.870873],[79.542759,22.870963],[79.542564,22.870961],[79.542564,22.871052],[79.542466,22.871051],[79.54246500000001,22.871141],[79.542368,22.87114],[79.542362,22.871682],[79.542264,22.871681],[79.54226199999999,22.871952],[79.542164,22.871951],[79.542162,22.872132],[79.54206499999999,22.872131],[79.542058,22.872763],[79.54215499999999,22.872764],[79.542154,22.872854],[79.542252,22.872855],[79.54225099999999,22.872945],[79.542933,22.872952]]],"type":"Polygon"}
 }

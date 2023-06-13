@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.2054,24.80797,77.2054,24.80797",
-    "geom:latitude":24.80797,
-    "geom:longitude":77.2054,
+    "geom:bbox":"77.204888,24.80658,77.206202,24.809104",
+    "geom:latitude":24.807813,
+    "geom:longitude":77.205538,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Amrod",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.1854,24.78797,77.2254,24.82797",
+    "ks:ks_id":"KS3C9C333494DC4C52AE94FA4FDA4F6594",
+    "ks:ks_name":"Amrod",
+    "ks:ks_pop":1840,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|34992",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_916175",
+    "lbl:latitude":24.807849,
+    "lbl:longitude":77.205526,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.807849,
+    "mps:longitude":77.205526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Amrod"
     ],
     "name:cat_x_preferred":[
         "\u00c0mrod"
+    ],
+    "name:eng_x_preferred":[
+        "Amrod"
     ],
     "name:eus_x_preferred":[
         "Amrod"
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5b89\u7f85\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10478289
+        "gn:id":10478289,
+        "ks:id":"KS3C9C333494DC4C52AE94FA4FDA4F6594"
     },
     "wof:country":"IN",
-    "wof:geomhash":"067a5705e1ded63071816f6ee6a01499",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ea7253b351b0bdb38cc3ea8b55efdd4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293828657,
-    "wof:lastmodified":1566690239,
+    "wof:lastmodified":1682832498,
     "wof:name":"Amrod",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":1840,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.2054,
-    24.80797,
-    77.2054,
-    24.80797
+    77.204888,
+    24.80658,
+    77.206202,
+    24.809104
 ],
-  "geometry": {"coordinates":[77.2054,24.80797],"type":"Point"}
+  "geometry": {"coordinates":[[[77.205915,24.809099],[77.205913,24.809009],[77.206012,24.809008],[77.20600899999999,24.808827],[77.206108,24.808826],[77.206103,24.808555],[77.206202,24.808553],[77.206191,24.807922],[77.206092,24.807923],[77.206087,24.807652],[77.205988,24.807654],[77.20598,24.807203],[77.20588100000001,24.807204],[77.205878,24.807024],[77.20577900000001,24.807025],[77.205777,24.806935],[77.205679,24.806936],[77.20567699999999,24.806846],[77.205578,24.806847],[77.20557700000001,24.806757],[77.205478,24.806759],[77.205476,24.806668],[77.205377,24.80667],[77.205376,24.80658],[77.20498000000001,24.806586],[77.20498600000001,24.806946],[77.204888,24.806948],[77.204902,24.80776],[77.205001,24.807759],[77.20500699999999,24.80812],[77.205106,24.808118],[77.20510899999999,24.808299],[77.205208,24.808297],[77.20521100000001,24.808478],[77.20531,24.808476],[77.205313,24.808657],[77.205412,24.808655],[77.205416,24.808836],[77.20551399999999,24.808834],[77.205518,24.809015],[77.20561600000001,24.809013],[77.205618,24.809104],[77.205915,24.809099]]],"type":"Polygon"}
 }

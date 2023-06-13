@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.16192,26.55547,76.16192,26.55547",
-    "geom:latitude":26.55547,
-    "geom:longitude":76.16192,
+    "geom:bbox":"76.161436,26.554885,76.162843,26.555796",
+    "geom:latitude":26.555337,
+    "geom:longitude":76.162101,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"109.0",
     "gn:asciiname":"Kokra",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.14192,26.53547,76.18192,26.57547",
+    "ks:ks_id":"KS142E1B389DF74062A36EC9F22452BECD",
+    "ks:ks_name":"Kokra",
+    "ks:ks_source_id":"N|12630772",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1688448",
+    "lbl:latitude":26.555341,
+    "lbl:longitude":76.162101,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.555341,
+    "mps:longitude":76.162101,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kokra"
@@ -38,6 +46,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03ba\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kokra"
     ],
     "name:fin_x_preferred":[
         "Kokra"
@@ -60,7 +71,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u514b\u62c9\u6cb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10190434
+        "gn:id":10190434,
+        "ks:id":"KS142E1B389DF74062A36EC9F22452BECD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"192aafbfcbd0064c01aaad0df88fb8e6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4dccc325321148c8369e69c82125d10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +102,7 @@
         }
     ],
     "wof:id":1243129875,
-    "wof:lastmodified":1566706683,
+    "wof:lastmodified":1682706413,
     "wof:name":"Kokra",
     "wof:parent_id":890508857,
     "wof:placetype":"locality",
@@ -93,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.16192,
-    26.55547,
-    76.16192,
-    26.55547
+    76.161436,
+    26.554885,
+    76.162843,
+    26.555796
 ],
-  "geometry": {"coordinates":[76.16191999999999,26.55547],"type":"Point"}
+  "geometry": {"coordinates":[[[76.162246,26.555791],[76.162245,26.5557],[76.162446,26.555699],[76.16244500000001,26.555609],[76.16254499999999,26.555608],[76.162544,26.555517],[76.162644,26.555517],[76.162644,26.555426],[76.162744,26.555426],[76.16274300000001,26.555335],[76.162843,26.555334],[76.162841,26.555064],[76.16274,26.555064],[76.162739,26.554974],[76.162639,26.554975],[76.162638,26.554885],[76.162036,26.55489],[76.162037,26.55498],[76.161736,26.554982],[76.161737,26.555073],[76.161536,26.555074],[76.161537,26.555165],[76.16143599999999,26.555165],[76.16144199999999,26.555707],[76.161542,26.555706],[76.16154299999999,26.555796],[76.162246,26.555791]]],"type":"Polygon"}
 }

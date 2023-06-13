@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000016,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.47389,28.47446,76.47389,28.47446",
-    "geom:latitude":28.47446,
-    "geom:longitude":76.47389,
+    "geom:bbox":"76.470165,28.473177,76.475555,28.47722",
+    "geom:latitude":28.475196,
+    "geom:longitude":76.473177,
     "gn:admin1_code":"10.0",
     "gn:admin2_code":"83.0",
     "gn:asciiname":"Jamalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.45389,28.45446,76.49389,28.49446",
+    "ks:ks_id":"KS2DB17756A0AE45A0938AC0B970AAAD0D",
+    "ks:ks_name":"Jamalpur",
+    "ks:ks_pop":1368,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|447560",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_927174",
+    "lbl:latitude":28.47489,
+    "lbl:longitude":76.473767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.47489,
+    "mps:longitude":76.473767,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0645\u0627\u0644\u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "Jamalpur"
     ],
     "name:deu_x_preferred":[
+        "Jamalpur"
+    ],
+    "name:eng_x_preferred":[
         "Jamalpur"
     ],
     "name:fra_x_preferred":[
@@ -87,7 +100,13 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u043c\u0430\u043b\u043f\u0443\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10318595
+        "gn:id":10318595,
+        "ks:id":"KS2DB17756A0AE45A0938AC0B970AAAD0D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"07e3f1193854db5bbf6df41e0d41a5c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eac56c3492cc5716c18619eb37b855d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +133,22 @@
         }
     ],
     "wof:id":1310679589,
-    "wof:lastmodified":1636505721,
+    "wof:lastmodified":1682875912,
     "wof:name":"Jamalpur",
     "wof:parent_id":1108695763,
     "wof:placetype":"locality",
+    "wof:population":1368,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.47389,
-    28.47446,
-    76.47389,
-    28.47446
+    76.470165,
+    28.473177,
+    76.475555,
+    28.47722
 ],
-  "geometry": {"coordinates":[76.47389,28.47446],"type":"Point"}
+  "geometry": {"coordinates":[[[76.47474699999999,28.47722],[76.47474699999999,28.47695],[76.475016,28.47695],[76.475016,28.476681],[76.475286,28.476681],[76.475286,28.476142],[76.475555,28.476142],[76.475555,28.474794],[76.475286,28.474794],[76.475286,28.474525],[76.475555,28.474525],[76.475555,28.473716],[76.475286,28.473716],[76.475286,28.473177],[76.47313,28.473177],[76.47313,28.473447],[76.47286,28.473447],[76.47286,28.473716],[76.471243,28.473716],[76.471243,28.474794],[76.47016499999999,28.474794],[76.47016499999999,28.476411],[76.470704,28.476411],[76.470704,28.476681],[76.471782,28.476681],[76.471782,28.476411],[76.47232099999999,28.476411],[76.47232099999999,28.476142],[76.47286,28.476142],[76.47286,28.47722],[76.47474699999999,28.47722]]],"type":"Polygon"}
 }

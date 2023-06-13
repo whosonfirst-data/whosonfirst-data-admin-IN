@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.1735,20.09302,78.1735,20.09302",
-    "geom:latitude":20.09302,
-    "geom:longitude":78.1735,
+    "geom:bbox":"78.172829,20.091969,78.174767,20.094503",
+    "geom:latitude":20.093217,
+    "geom:longitude":78.173752,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Chincholi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.1535,20.07302,78.1935,20.11302",
+    "ks:ks_id":"KSA302C552404843059C66D3C8C9797BC4",
+    "ks:ks_name":"Chincholi",
+    "ks:ks_pop":241,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|224829",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_567997",
+    "lbl:latitude":20.093235,
+    "lbl:longitude":78.173752,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.093235,
+    "mps:longitude":78.173752,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a8\u099a\u09cb\u09b2\u09bf"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chincholi Taluk"
+    ],
+    "name:eng_x_preferred":[
+        "Chincholi"
     ],
     "name:ita_x_preferred":[
         "Chincholi"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5947\u6069\u4e54\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453083
+        "gn:id":10453083,
+        "ks:id":"KSA302C552404843059C66D3C8C9797BC4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"aba03f71c188d719c364c6ef83e70e09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b20ee30c7d9f9c3f58efedc9b9bbd80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1344126139,
-    "wof:lastmodified":1566686212,
+    "wof:lastmodified":1682954412,
     "wof:name":"Chincholi",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.1735,
-    20.09302000000001,
-    78.1735,
-    20.09302000000001
+    78.172829,
+    20.091969,
+    78.174767,
+    20.094503
 ],
-  "geometry": {"coordinates":[78.1735,20.09302000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[78.173967,20.094503],[78.173969,20.094412],[78.17416,20.094415],[78.174162,20.094325],[78.174257,20.094327],[78.17425900000001,20.094236],[78.17435399999999,20.094238],[78.174356,20.094148],[78.174451,20.094149],[78.17445600000001,20.093878],[78.17455200000001,20.09388],[78.17455699999999,20.093609],[78.17465199999999,20.093611],[78.17465900000001,20.09325],[78.17475399999999,20.093251],[78.174767,20.092529],[78.174672,20.092528],[78.17467499999999,20.092347],[78.17457899999999,20.092346],[78.174581,20.092255],[78.174485,20.092254],[78.174487,20.092164],[78.174392,20.092162],[78.17439299999999,20.092072],[78.17429799999999,20.09207],[78.174299,20.09198],[78.173631,20.091969],[78.17362900000001,20.09206],[78.17334200000001,20.092055],[78.17334099999999,20.092145],[78.17315000000001,20.092142],[78.173148,20.092232],[78.173052,20.092231],[78.173051,20.092321],[78.172955,20.09232],[78.172954,20.09241],[78.17285800000001,20.092408],[78.17282899999999,20.094033],[78.17292399999999,20.094034],[78.172921,20.094215],[78.173017,20.094216],[78.17301399999999,20.094397],[78.173205,20.0944],[78.173203,20.09449],[78.173967,20.094503]]],"type":"Polygon"}
 }

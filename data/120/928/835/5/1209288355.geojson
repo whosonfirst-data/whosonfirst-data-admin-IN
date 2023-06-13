@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.0626,19.19585,83.0626,19.19585",
-    "geom:latitude":19.19585,
-    "geom:longitude":83.0626,
+    "geom:bbox":"83.062176,19.194592,83.064364,19.196057",
+    "geom:latitude":19.195291,
+    "geom:longitude":83.06319,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Karli",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.0426,19.17585,83.0826,19.21585",
+    "ks:ks_id":"KS0856921A838C4572A052E4E2C580D541",
+    "ks:ks_name":"Karli",
+    "ks:ks_pop":192,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|515313",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_610790",
+    "lbl:latitude":19.195309,
+    "lbl:longitude":83.06306,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.195309,
+    "mps:longitude":83.06306,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
+        "Karli"
+    ],
+    "name:eng_x_preferred":[
         "Karli"
     ],
     "name:isl_x_preferred":[
@@ -42,37 +55,55 @@
     "name:slv_x_preferred":[
         "Karli"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672157,
+        890506473
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10775530
+        "gn:id":10775530,
+        "ks:id":"KS0856921A838C4572A052E4E2C580D541"
     },
     "wof:country":"IN",
-    "wof:geomhash":"42e12ba729e400bd6fc114751633bb6e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"239693d024694ccb130b2f54e57da0f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209288355
+            "county_id":890506473,
+            "locality_id":1209288355,
+            "region_id":85672157
         }
     ],
     "wof:id":1209288355,
-    "wof:lastmodified":1566696993,
+    "wof:lastmodified":1682613873,
     "wof:name":"Karli",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.0626,
-    19.19585,
-    83.0626,
-    19.19585
+    83.062176,
+    19.194592,
+    83.064364,
+    19.196057
 ],
-  "geometry": {"coordinates":[83.0626,19.19585],"type":"Point"}
+  "geometry": {"coordinates":[[[83.06427600000001,19.195493],[83.064269,19.194951],[83.064364,19.19495],[83.064363,19.19486],[83.064268,19.194861],[83.064267,19.194771],[83.064172,19.194772],[83.06417,19.194681],[83.064075,19.194682],[83.06407400000001,19.194592],[83.063694,19.194596],[83.06369599999999,19.194777],[83.06360100000001,19.194778],[83.063602,19.194868],[83.063507,19.194869],[83.06350399999999,19.194598],[83.06340899999999,19.1946],[83.06341,19.19469],[83.062935,19.194695],[83.062933,19.194605],[83.06255299999999,19.194609],[83.06255400000001,19.194699],[83.062459,19.194701],[83.06246,19.194791],[83.06227,19.194793],[83.062271,19.194883],[83.06217599999999,19.194884],[83.062181,19.195246],[83.062276,19.195245],[83.062286,19.196057],[83.063142,19.196048],[83.06314,19.195957],[83.06342600000001,19.195954],[83.063425,19.195864],[83.063615,19.195862],[83.063614,19.195771],[83.06389900000001,19.195768],[83.06389799999999,19.195678],[83.063993,19.195677],[83.063992,19.195587],[83.064182,19.195584],[83.064181,19.195494],[83.06427600000001,19.195493]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.38814,25.04204,78.38814,25.04204",
-    "geom:latitude":25.04204,
-    "geom:longitude":78.38814,
+    "geom:bbox":"78.387214,25.041011,78.389322,25.042894",
+    "geom:latitude":25.041978,
+    "geom:longitude":78.38815,
     "gn:admin1_code":"36",
     "gn:admin2_code":"167.0",
     "gn:asciiname":"Bharatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.36814,25.02204,78.40814,25.06204",
+    "ks:ks_id":"KSAA89C10AF3CD436583AC11D6FDA80C0B",
+    "ks:ks_name":"Bharatpura",
+    "ks:ks_pop":209,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1143567",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_940376",
+    "lbl:latitude":25.042119,
+    "lbl:longitude":78.387815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.042119,
+    "mps:longitude":78.387815,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0631\u0627\u062a\u0628\u0648\u0631"
@@ -46,6 +56,12 @@
         "Bharatpur"
     ],
     "name:deu_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:eng_x_preferred":[
+        "Bharatpura"
+    ],
+    "name:eng_x_variant":[
         "Bharatpur"
     ],
     "name:epo_x_preferred":[
@@ -114,7 +130,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u0631\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +145,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10504609
+        "gn:id":10504609,
+        "ks:id":"KSAA89C10AF3CD436583AC11D6FDA80C0B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3395adb019319b0c1e1e3a9b05184816",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1238a2e94dea6d9dff2509812e94dfb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +163,22 @@
         }
     ],
     "wof:id":1327386707,
-    "wof:lastmodified":1636505197,
-    "wof:name":"Bharatpur",
+    "wof:lastmodified":1682914818,
+    "wof:name":"Bharatpura",
     "wof:parent_id":1108695831,
     "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.38814,
-    25.04204,
-    78.38814,
-    25.04204
+    78.387214,
+    25.041011,
+    78.389322,
+    25.042894
 ],
-  "geometry": {"coordinates":[78.38814000000001,25.04204],"type":"Point"}
+  "geometry": {"coordinates":[[[78.387905,25.042894],[78.387907,25.042803],[78.38850100000001,25.042814],[78.38850499999999,25.042633],[78.388406,25.042632],[78.38841600000001,25.042181],[78.388317,25.042179],[78.388324,25.041818],[78.388621,25.041823],[78.38861900000001,25.041913],[78.388817,25.041917],[78.38881499999999,25.042007],[78.389014,25.042011],[78.389017,25.04183],[78.389116,25.041832],[78.389118,25.041742],[78.389217,25.041743],[78.38922100000001,25.041563],[78.38932,25.041565],[78.38932200000001,25.041475],[78.389223,25.041473],[78.389229,25.041202],[78.38912999999999,25.0412],[78.389132,25.04111],[78.389033,25.041108],[78.38903500000001,25.041018],[78.388638,25.041011],[78.388637,25.041101],[78.38843799999999,25.041098],[78.388437,25.041188],[78.388338,25.041186],[78.388334,25.041367],[78.38823499999999,25.041365],[78.388233,25.041455],[78.387837,25.041448],[78.387835,25.041539],[78.387637,25.041535],[78.387635,25.041625],[78.38743700000001,25.041622],[78.387433,25.041802],[78.387334,25.041801],[78.387328,25.042071],[78.387229,25.042069],[78.387214,25.042791],[78.38731300000001,25.042793],[78.387311,25.042883],[78.387905,25.042894]]],"type":"Polygon"}
 }

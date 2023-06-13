@@ -10,12 +10,19 @@
     "geom:latitude":30.723257,
     "geom:longitude":76.058372,
     "iso:country":"IN",
-    "lbl:latitude":30.723948,
-    "lbl:longitude":76.059831,
+    "ks:ks_id":"KS7423B94F6F124C9CBC1DFA2B15882336",
+    "ks:ks_name":"Payal",
+    "ks:ks_pop":7267,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0309000340907000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_2649293",
+    "lbl:latitude":30.722385,
+    "lbl:longitude":76.058209,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":30.727671,
-    "mps:longitude":76.063843,
+    "mps:latitude":30.722385,
+    "mps:longitude":76.058209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -28,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Payal"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101yal"
     ],
     "name:fra_x_preferred":[
         "Payal"
@@ -76,9 +86,12 @@
     "reversegeo:longitude":76.059831,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -89,10 +102,15 @@
     "wof:concordances":{
         "gn:id":6988811,
         "gp:id":29192397,
+        "ks:id":"KS7423B94F6F124C9CBC1DFA2B15882336",
         "qs_pg:id":1151589,
         "wd:id":"Q2546893"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"47caeb49a8f887608ee31a954bc83440",
     "wof:hierarchy":[
         {
@@ -104,10 +122,12 @@
         }
     ],
     "wof:id":102031099,
-    "wof:lastmodified":1658780723,
-    "wof:name":"P\u0101yal",
+    "wof:lastmodified":1682525326,
+    "wof:name":"Payal",
     "wof:parent_id":890503583,
     "wof:placetype":"locality",
+    "wof:population":7267,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

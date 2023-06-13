@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.06706,27.65348,78.06706,27.65348",
-    "geom:latitude":27.65348,
-    "geom:longitude":78.06706,
+    "geom:bbox":"78.065034,27.651219,78.066382,27.652297",
+    "geom:latitude":27.651803,
+    "geom:longitude":78.065753,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Shrinagar",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.04706,27.63348,78.08706,27.67348",
+    "ks:ks_alt_nam":"Shr\u012bnagar",
+    "ks:ks_id":"KSC26D650AB85D47179C493097FD2327AD",
+    "ks:ks_name":"Shrinagar",
+    "ks:ks_pop":49,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|986445",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_887394",
+    "lbl:latitude":27.651866,
+    "lbl:longitude":78.065789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.651866,
+    "mps:longitude":78.065789,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Shrinagar"
+    ],
+    "name:eng_x_variant":[
+        "Shr\u012bnagar"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10481609
+        "gn:id":10481609,
+        "ks:id":"KSC26D650AB85D47179C493097FD2327AD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3719de286ba6c7b1c312d51b77f582c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cb3fa634e2696bdb7354bcc265d5e5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1344109883,
-    "wof:lastmodified":1566688132,
+    "wof:lastmodified":1682953350,
     "wof:name":"Shrinagar",
     "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.06706,
-    27.65348,
-    78.06706,
-    27.65348
+    78.065034,
+    27.651219,
+    78.066382,
+    27.652297
 ],
-  "geometry": {"coordinates":[78.06706,27.65348],"type":"Point"}
+  "geometry": {"coordinates":[[[78.066382,27.652297],[78.066382,27.651219],[78.065573,27.651219],[78.065573,27.651488],[78.065034,27.651488],[78.065034,27.652297],[78.066382,27.652297]]],"type":"Polygon"}
 }

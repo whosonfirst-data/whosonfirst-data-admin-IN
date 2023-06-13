@@ -13,12 +13,20 @@
     "gn:longitude":77.5209,
     "gn:population":66085,
     "iso:country":"IN",
-    "lbl:latitude":10.450011,
-    "lbl:longitude":77.516121,
+    "ks:ks_id":"KSEC1D650330A24C6882DDE51B3825224B",
+    "ks:ks_name":"Palani",
+    "ks:ks_pop":67231,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3313000141303000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_162015",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.459021,
+    "lbl:longitude":77.517681,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":10.45,
-    "mps:longitude":77.519531,
+    "mps:latitude":10.459021,
+    "mps:longitude":77.517681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,6 +56,9 @@
         "\u0aaa\u0abe\u0ab2\u0abe\u0aa8\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u092a\u0932\u093e\u0928\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u092a\u0932\u0928\u0940"
     ],
     "name:ita_x_preferred":[
@@ -134,10 +145,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1195,
     "wof:belongsto":[
         102191569,
@@ -149,13 +162,16 @@
     "wof:concordances":{
         "gn:id":1260671,
         "gp:id":2295335,
+        "ks:id":"KSEC1D650330A24C6882DDE51B3825224B",
         "qs_pg:id":276294,
         "wd:id":"Q298706",
         "wk:page":"Palani"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"3aa56a069e2be87745fec8fd46ac96ef",
     "wof:hierarchy":[
@@ -168,11 +184,11 @@
         }
     ],
     "wof:id":102029115,
-    "wof:lastmodified":1658780769,
+    "wof:lastmodified":1686162202,
     "wof:name":"Palani",
     "wof:parent_id":890507451,
     "wof:placetype":"locality",
-    "wof:population":66085,
+    "wof:population":67231,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -13,12 +13,20 @@
     "gn:longitude":83.41148,
     "gn:population":179358,
     "iso:country":"IN",
-    "lbl:latitude":18.118674,
-    "lbl:longitude":83.407586,
+    "ks:ks_id":"KSF3296294E61946588E5CEFE4E9588C94",
+    "ks:ks_name":"Vizianagaram",
+    "ks:ks_pop":176023,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2812003041210000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_598721",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":18.115091,
+    "lbl:longitude":83.412074,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":18.114021,
-    "mps:longitude":83.40987,
+    "mps:latitude":18.115091,
+    "mps:longitude":83.412074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -86,10 +94,10 @@
         "\u05d5\u05d5\u05d9\u05d6\u05d9\u05d0\u05e0\u05d2\u05e8\u05d0\u05dd"
     ],
     "name:hin_x_preferred":[
-        "\u0935\u093f\u091c\u093f\u092f\u093e\u0928\u0917\u0930\u092e"
+        "\u0935\u093f\u091c\u092f\u0928\u0917\u0930\u092e"
     ],
     "name:hin_x_variant":[
-        "\u0935\u093f\u091c\u092f\u0928\u0917\u0930\u092e"
+        "\u0935\u093f\u091c\u093f\u092f\u093e\u0928\u0917\u0930\u092e"
     ],
     "name:hun_x_preferred":[
         "Vizianagaram"
@@ -182,10 +190,11 @@
         "\u0412\u0456\u0437\u0456\u0430\u043d\u0430\u0491\u0430\u0440\u0430\u043c"
     ],
     "name:urd_x_preferred":[
-        "\u0648\u062c\u06cc\u0627 \u0646\u06af\u0631\u0645"
+        "\u0648\u062c\u06d2 \u0646\u06af\u0631\u0645"
     ],
     "name:urd_x_variant":[
-        "\u0648\u062c\u0627\u06cc\u0627\u0646\u06af\u0631\u0645"
+        "\u0648\u062c\u0627\u06cc\u0627\u0646\u06af\u0631\u0645",
+        "\u0648\u062c\u06cc\u0627 \u0646\u06af\u0631\u0645"
     ],
     "name:vie_x_preferred":[
         "Vizianagaram"
@@ -306,10 +315,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":66.0,
     "wd:latitude":18.116667,
     "wd:longitude":83.416667,
@@ -325,13 +336,16 @@
         "fct:id":"122e1f9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1253084,
         "gp:id":2288221,
+        "ks:id":"KSF3296294E61946588E5CEFE4E9588C94",
         "qs_pg:id":460589,
         "wd:id":"Q3619248",
         "wk:page":"Vizianagaram"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"4f8c0e17efc3d8a6cf434f3b030c78da",
     "wof:hierarchy":[
@@ -347,11 +361,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780787,
+    "wof:lastmodified":1686162212,
     "wof:name":"Vizianagaram",
     "wof:parent_id":890508885,
     "wof:placetype":"locality",
-    "wof:population":179358,
+    "wof:population":176023,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

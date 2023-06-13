@@ -13,12 +13,20 @@
     "gn:longitude":76.35086,
     "gn:population":182841,
     "iso:country":"IN",
-    "lbl:latitude":21.823005,
-    "lbl:longitude":76.346067,
+    "ks:ks_id":"KSAE3B076311AA483F9789E2E7F52CAD95",
+    "ks:ks_name":"Khandwa",
+    "ks:ks_pop":172242,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2329000242904000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_862019",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":21.827738,
+    "lbl:longitude":76.348472,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":21.826877,
-    "mps:longitude":76.349488,
+    "mps:latitude":21.827738,
+    "mps:longitude":76.348472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -69,6 +77,9 @@
         "\u05d7\u05d0\u05e0\u05d3\u05d5\u05d5\u05d4"
     ],
     "name:hin_x_preferred":[
+        "\u0916\u0902\u0921\u0935\u093e"
+    ],
+    "name:hin_x_variant":[
         "\u0916\u0923\u094d\u0921\u0935\u093e"
     ],
     "name:hye_x_preferred":[
@@ -190,10 +201,12 @@
     "reversegeo:longitude":76.346067,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1425,
     "wof:belongsto":[
         102191569,
@@ -205,6 +218,7 @@
     "wof:concordances":{
         "gn:id":1267031,
         "gp:id":29031153,
+        "ks:id":"KSAE3B076311AA483F9789E2E7F52CAD95",
         "qs_pg:id":202047,
         "wd:id":"Q1648551",
         "wk:page":"Khandwa"
@@ -213,6 +227,10 @@
         "qs_pg:id":202047
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"5a128e01ad8f14fdb352152d03b3b5e2",
     "wof:hierarchy":[
         {
@@ -224,11 +242,11 @@
         }
     ],
     "wof:id":102029757,
-    "wof:lastmodified":1658780763,
+    "wof:lastmodified":1686162199,
     "wof:name":"Khandwa",
     "wof:parent_id":1108696261,
     "wof:placetype":"locality",
-    "wof:population":182841,
+    "wof:population":172242,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

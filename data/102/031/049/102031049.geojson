@@ -11,12 +11,18 @@
     "geom:longitude":88.052125,
     "gn:population":170695,
     "iso:country":"IN",
-    "lbl:latitude":22.03019,
-    "lbl:longitude":88.049504,
+    "ks:ks_id":"KS85237AFA5C354D9696AF4A19CC3957A9",
+    "ks:ks_name":"Haldia",
+    "ks:ks_pop":170673,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1915004241519000",
+    "ks:ks_type":"VILLAGE",
+    "lbl:latitude":22.050081,
+    "lbl:longitude":88.071079,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":22.029637,
-    "mps:longitude":88.099365,
+    "mps:latitude":22.050081,
+    "mps:longitude":88.071079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -234,10 +240,12 @@
     "src:geom_alt":[
         "quattroshapes_pg",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"karmashapes",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":8.0,
     "wd:latitude":22.03,
     "wd:longitude":88.06,
@@ -252,13 +260,16 @@
     "wof:concordances":{
         "gn:id":1344377,
         "gp:id":2294933,
+        "ks:id":"KS85237AFA5C354D9696AF4A19CC3957A9",
         "qs_pg:id":351961,
         "wd:id":"Q12460009"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"72700fd529a2a0ff4c9dfd3da5ab09af",
     "wof:hierarchy":[
@@ -271,11 +282,11 @@
         }
     ],
     "wof:id":102031049,
-    "wof:lastmodified":1658780722,
+    "wof:lastmodified":1686162178,
     "wof:name":"Haldia",
     "wof:parent_id":1108696089,
     "wof:placetype":"locality",
-    "wof:population":170695,
+    "wof:population":170673,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

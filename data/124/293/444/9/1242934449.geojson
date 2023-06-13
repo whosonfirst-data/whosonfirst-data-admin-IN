@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.95887,25.82183,87.95887,25.82183",
-    "geom:latitude":25.82183,
-    "geom:longitude":87.95887,
+    "geom:bbox":"87.956564,25.822429,87.957373,25.823507",
+    "geom:latitude":25.822968,
+    "geom:longitude":87.956969,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"330.0",
     "gn:asciiname":"Bhandarbari",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.93887,25.80183,87.97887,25.84183",
+    "ks:ks_alt_nam":"Bhand\u0101rb\u0101ri",
+    "ks:ks_id":"KSF15732AF219A491CA88F543AAA94EA92",
+    "ks:ks_name":"Bhandarbari",
+    "ks:ks_pop":1110,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|136886",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1562156",
+    "lbl:latitude":25.822968,
+    "lbl:longitude":87.956968,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.822968,
+    "mps:longitude":87.956968,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bhandarbari"
+    ],
+    "name:eng_x_variant":[
+        "Bhand\u0101rb\u0101ri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014157
+        "gn:id":11014157,
+        "ks:id":"KSF15732AF219A491CA88F543AAA94EA92"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c9c9be5cab39fb1870ebd2f3a6fca6a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"221bd3e7984854ecc7e88d523723adf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1242934449,
-    "wof:lastmodified":1566706449,
+    "wof:lastmodified":1682698596,
     "wof:name":"Bhandarbari",
     "wof:parent_id":890505611,
     "wof:placetype":"locality",
+    "wof:population":1110,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.95886999999998,
-    25.82183,
-    87.95886999999998,
-    25.82183
+    87.956564,
+    25.822429,
+    87.957373,
+    25.823507
 ],
-  "geometry": {"coordinates":[87.95886999999998,25.82183],"type":"Point"}
+  "geometry": {"coordinates":[[[87.957373,25.822429],[87.956564,25.822429],[87.956564,25.823507],[87.957373,25.823507],[87.957373,25.822429]]],"type":"Polygon"}
 }

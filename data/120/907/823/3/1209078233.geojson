@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Asus"
@@ -134,7 +135,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        1108696289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,17 +148,22 @@
     "wof:geomhash":"8d9fc8b44d3f4d215d7f2ebad04411c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209078233
+            "county_id":1108696289,
+            "locality_id":1209078233,
+            "region_id":85672171
         }
     ],
     "wof:id":1209078233,
-    "wof:lastmodified":1566694544,
+    "wof:lastmodified":1682604477,
     "wof:name":"Asus",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847128875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

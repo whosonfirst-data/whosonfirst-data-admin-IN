@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.54454,29.8992,78.54454,29.8992",
-    "geom:latitude":29.8992,
-    "geom:longitude":78.54454,
+    "geom:bbox":"78.541462,29.898644,78.54347,29.90079",
+    "geom:latitude":29.899564,
+    "geom:longitude":78.542304,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Jamal",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.52454,29.8792,78.56454,29.9192",
+    "ks:ks_alt_nam":"J\u0101mal",
+    "ks:ks_id":"KS280E66BEA14C4596B7ADC2AA6C34FB33",
+    "ks:ks_name":"Jamal",
+    "ks:ks_pop":140,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|447362",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1839328",
+    "lbl:latitude":29.899489,
+    "lbl:longitude":78.542206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.899489,
+    "mps:longitude":78.542206,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0645\u0627\u0644"
@@ -42,6 +53,12 @@
     "name:deu_x_preferred":[
         "Dscham\u0101l"
     ],
+    "name:eng_x_preferred":[
+        "Jamal"
+    ],
+    "name:eng_x_variant":[
+        "J\u0101mal"
+    ],
     "name:ita_x_preferred":[
         "Jamal"
     ],
@@ -54,7 +71,13 @@
     "name:tur_x_preferred":[
         "Cem\u00e2l"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444651
+        "gn:id":1444651,
+        "ks:id":"KS280E66BEA14C4596B7ADC2AA6C34FB33"
     },
     "wof:country":"IN",
-    "wof:geomhash":"04de8d1e83ba65e0b0964d54117d1fa7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"785e37f1fa2552b023df390503aa6e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +104,22 @@
         }
     ],
     "wof:id":1293919113,
-    "wof:lastmodified":1566689082,
+    "wof:lastmodified":1682834938,
     "wof:name":"Jamal",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.54454,
-    29.8992,
-    78.54454,
-    29.8992
+    78.541462,
+    29.898644,
+    78.54347,
+    29.90079
 ],
-  "geometry": {"coordinates":[78.54454,29.8992],"type":"Point"}
+  "geometry": {"coordinates":[[[78.541768,29.90079],[78.54177,29.9007],[78.541977,29.900704],[78.54198,29.900614],[78.54208300000001,29.900616],[78.542085,29.900526],[78.54218899999999,29.900527],[78.542191,29.900437],[78.542294,29.900439],[78.542297,29.900349],[78.5424,29.900351],[78.542405,29.900171],[78.542508,29.900173],[78.54250999999999,29.900082],[78.542614,29.900084],[78.542616,29.899994],[78.54271900000001,29.899996],[78.542726,29.899726],[78.54283,29.899728],[78.542832,29.899637],[78.542935,29.899639],[78.54294,29.899459],[78.543043,29.899461],[78.54304500000001,29.899371],[78.543252,29.899375],[78.543257,29.899194],[78.54336000000001,29.899196],[78.543362,29.899106],[78.543466,29.899108],[78.54347,29.898928],[78.543367,29.898926],[78.543369,29.898836],[78.543266,29.898834],[78.543268,29.898743],[78.543164,29.898742],[78.543167,29.898651],[78.542753,29.898644],[78.54275,29.898734],[78.54233600000001,29.898726],[78.542334,29.898816],[78.542024,29.89881],[78.542022,29.898901],[78.541918,29.898899],[78.541916,29.898989],[78.541709,29.898985],[78.541707,29.899075],[78.54160299999999,29.899073],[78.541572,29.900336],[78.54146900000001,29.900334],[78.541462,29.900604],[78.541566,29.900606],[78.541561,29.900786],[78.541768,29.90079]]],"type":"Polygon"}
 }

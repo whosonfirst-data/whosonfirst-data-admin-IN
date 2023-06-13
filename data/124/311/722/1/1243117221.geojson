@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.18599,25.96542,85.18599,25.96542",
-    "geom:latitude":25.96542,
-    "geom:longitude":85.18599,
+    "geom:bbox":"85.185351,25.964991,85.18616,25.9658",
+    "geom:latitude":25.965362,
+    "geom:longitude":85.185789,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Chintamanpur",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.16599,25.94542,85.20599,25.98542",
+    "ks:ks_alt_nam":"Chint\u0101manpur",
+    "ks:ks_id":"KS437BF280A3394D988B1C2B76E96A0D4D",
+    "ks:ks_name":"Chintamanpur",
+    "ks:ks_pop":3235,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13507610",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1387310",
+    "lbl:latitude":25.965298,
+    "lbl:longitude":85.185821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.965298,
+    "mps:longitude":85.185821,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chintamanpur"
+    ],
+    "name:eng_x_variant":[
+        "Chint\u0101manpur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11011028
+        "gn:id":11011028,
+        "ks:id":"KS437BF280A3394D988B1C2B76E96A0D4D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e3c11deed66ea4cfc653f28b7142b51e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8cd52a1c4e8c71350e1e7c966542ab75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1243117221,
-    "wof:lastmodified":1566708356,
+    "wof:lastmodified":1682705306,
     "wof:name":"Chintamanpur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":3235,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.18599,
-    25.96542,
-    85.18599,
-    25.96542
+    85.185351,
+    25.964991,
+    85.18616,
+    25.9658
 ],
-  "geometry": {"coordinates":[85.18599,25.96542],"type":"Point"}
+  "geometry": {"coordinates":[[[85.18616,25.964991],[85.185351,25.964991],[85.185351,25.96553],[85.185621,25.96553],[85.185621,25.9658],[85.18616,25.9658],[85.18616,25.964991]]],"type":"Polygon"}
 }

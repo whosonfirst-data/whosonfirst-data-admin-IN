@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.85136,21.10408,75.85136,21.10408",
-    "geom:latitude":21.10408,
-    "geom:longitude":75.85136,
+    "geom:bbox":"75.849519,21.10304,75.852214,21.105195",
+    "geom:latitude":21.104091,
+    "geom:longitude":75.851201,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"499.0",
     "gn:asciiname":"Mangi",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.83136,21.08408,75.87136,21.12408",
+    "ks:ks_alt_nam":"M\u0101ngi",
+    "ks:ks_id":"KSE513ECC32300446EAD98DD4372DC9280",
+    "ks:ks_name":"Mangi",
+    "ks:ks_pop":432,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|672000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_674011",
+    "lbl:latitude":21.103983,
+    "lbl:longitude":75.851361,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.103983,
+    "mps:longitude":75.851361,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mangi"
+    ],
+    "name:eng_x_preferred":[
+        "Mangi"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101ngi"
     ],
     "name:snd_x_preferred":[
         "\u0645\u0646\u06af\u064a"
@@ -39,7 +56,13 @@
     "name:swe_x_preferred":[
         "Mangi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11031644
+        "gn:id":11031644,
+        "ks:id":"KSE513ECC32300446EAD98DD4372DC9280"
     },
     "wof:country":"IN",
-    "wof:geomhash":"31d7270e7983989a3ec51f7e50842922",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8fc2140c55ed50d3eeab062befefe034",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1226820985,
-    "wof:lastmodified":1566712545,
+    "wof:lastmodified":1682684079,
     "wof:name":"Mangi",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
+    "wof:population":432,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.85136,
-    21.10408,
-    75.85136,
-    21.10408
+    75.849519,
+    21.10304,
+    75.852214,
+    21.105195
 ],
-  "geometry": {"coordinates":[75.85136,21.10408],"type":"Point"}
+  "geometry": {"coordinates":[[[75.851945,21.105195],[75.851945,21.104926],[75.852214,21.104926],[75.852214,21.10304],[75.851136,21.10304],[75.851136,21.103309],[75.85059699999999,21.103309],[75.85059699999999,21.103848],[75.850058,21.103848],[75.850058,21.104118],[75.849519,21.104118],[75.849519,21.104657],[75.851136,21.104657],[75.851136,21.104926],[75.851406,21.104926],[75.851406,21.105195],[75.851945,21.105195]]],"type":"Polygon"}
 }

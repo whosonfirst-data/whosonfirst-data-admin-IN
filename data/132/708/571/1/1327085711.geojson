@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.99579,23.73832,83.99579,23.73832",
-    "geom:latitude":23.73832,
-    "geom:longitude":83.99579,
+    "geom:bbox":"83.995031,23.737265,83.996023,23.738533",
+    "geom:latitude":23.737873,
+    "geom:longitude":83.995496,
     "gn:admin1_code":"38",
     "gn:admin2_code":"359.0",
     "gn:asciiname":"Mandal",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.97579,23.71832,84.01579,23.75832",
+    "ks:ks_id":"KSA8C045A4E7FA4E24859F44300AB38E13",
+    "ks:ks_name":"Mandal",
+    "ks:ks_pop":1238,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13189034",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1008915",
+    "lbl:latitude":23.737868,
+    "lbl:longitude":83.995456,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.737868,
+    "mps:longitude":83.995456,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mandal"
+    ],
     "name:nld_x_preferred":[
         "Mandal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10745860
+        "gn:id":10745860,
+        "ks:id":"KSA8C045A4E7FA4E24859F44300AB38E13"
     },
     "wof:country":"IN",
-    "wof:geomhash":"45a2bb8d13c580e0cf0dc4ed6e12db55",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7b85c661d6ba33ab725c01282d485dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1327085711,
-    "wof:lastmodified":1566680993,
+    "wof:lastmodified":1682902567,
     "wof:name":"Mandal",
     "wof:parent_id":1108696115,
     "wof:placetype":"locality",
+    "wof:population":1238,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.99579,
-    23.73832,
-    83.99579,
-    23.73832
+    83.995031,
+    23.737265,
+    83.996023,
+    23.738533
 ],
-  "geometry": {"coordinates":[83.99579,23.73832],"type":"Point"}
+  "geometry": {"coordinates":[[[83.995836,23.738526],[83.995834,23.738435],[83.99573599999999,23.738437],[83.995729,23.738167],[83.99582700000001,23.738165],[83.995829,23.738255],[83.99592699999999,23.738253],[83.995925,23.738163],[83.99602299999999,23.738161],[83.996021,23.738071],[83.995923,23.738073],[83.995915,23.737712],[83.995817,23.737714],[83.99580899999999,23.737353],[83.995711,23.737355],[83.99570900000001,23.737265],[83.995317,23.737272],[83.99531899999999,23.737362],[83.995221,23.737364],[83.995223,23.737455],[83.995125,23.737456],[83.99512900000001,23.737637],[83.995031,23.737639],[83.995041,23.73809],[83.99513899999999,23.738088],[83.99514600000001,23.738358],[83.99534199999999,23.738355],[83.995339,23.738264],[83.995437,23.738263],[83.995439,23.738353],[83.995537,23.738351],[83.99554000000001,23.738441],[83.995442,23.738443],[83.99544400000001,23.738533],[83.995836,23.738526]]],"type":"Polygon"}
 }

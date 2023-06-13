@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.67292,24.08312,83.67292,24.08312",
-    "geom:latitude":24.08312,
-    "geom:longitude":83.67292,
+    "geom:bbox":"83.671827,24.081987,83.673996,24.083351",
+    "geom:latitude":24.082673,
+    "geom:longitude":83.672856,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Pokhariya",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.65292,24.06312,83.69292,24.10312",
+    "ks:ks_id":"KS000A4298317242B1ADB31DF15C3B9CD7",
+    "ks:ks_name":"Pokharia",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2001000800047700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1014951",
+    "lbl:latitude":24.082665,
+    "lbl:longitude":83.672856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.082665,
+    "mps:longitude":83.672856,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093f\u092f\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Pokharia"
+    ],
+    "name:eng_x_variant":[
+        "Pokhariya"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093f\u092f\u093e"
@@ -42,7 +58,13 @@
     "name:new_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093f\u092f\u093e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10518386
+        "gn:id":10518386,
+        "ks:id":"KS000A4298317242B1ADB31DF15C3B9CD7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"104d6679e2f0750bade12bd85d6eb651",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bc9486b912e40999d9dd15ef39279b27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1243306439,
-    "wof:lastmodified":1566705591,
-    "wof:name":"Pokhariya",
+    "wof:lastmodified":1682710775,
+    "wof:name":"Pokharia",
     "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.67291999999998,
-    24.08312,
-    83.67291999999998,
-    24.08312
+    83.671827,
+    24.081987,
+    83.673996,
+    24.083351
 ],
-  "geometry": {"coordinates":[83.67291999999998,24.08312],"type":"Point"}
+  "geometry": {"coordinates":[[[83.673023,24.083339],[83.67302100000001,24.083249],[83.673316,24.083243],[83.673314,24.083153],[83.67350999999999,24.08315],[83.673509,24.08306],[83.673705,24.083056],[83.673703,24.082966],[83.6739,24.082963],[83.67389799999999,24.082872],[83.673996,24.082871],[83.673992,24.08269],[83.673894,24.082692],[83.673892,24.082602],[83.673794,24.082603],[83.67378600000001,24.082242],[83.673688,24.082244],[83.673686,24.082154],[83.673293,24.082161],[83.67329100000001,24.082071],[83.672898,24.082077],[83.67289599999999,24.081987],[83.672405,24.081996],[83.67240700000001,24.082086],[83.67221000000001,24.082089],[83.672212,24.08218],[83.67211399999999,24.082181],[83.672118,24.082362],[83.671921,24.082365],[83.671925,24.082546],[83.67182699999999,24.082547],[83.671834,24.082908],[83.671932,24.082907],[83.67193399999999,24.082997],[83.672033,24.082995],[83.672034,24.083085],[83.672133,24.083084],[83.67213599999999,24.083264],[83.67233299999999,24.083261],[83.672335,24.083351],[83.673023,24.083339]]],"type":"Polygon"}
 }

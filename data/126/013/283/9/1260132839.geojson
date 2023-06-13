@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.88217,21.5446,78.88217,21.5446",
-    "geom:latitude":21.5446,
-    "geom:longitude":78.88217,
+    "geom:bbox":"78.881964,21.544448,78.88322,21.545273",
+    "geom:latitude":21.544787,
+    "geom:longitude":78.882652,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Sangam",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.86217,21.5246,78.90217,21.5646",
+    "ks:ks_id":"KSF728C3AA76034258A8483BC992672AC6",
+    "ks:ks_name":"Sangam",
+    "ks:ks_pop":740,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|948825",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_879946",
+    "lbl:latitude":21.544792,
+    "lbl:longitude":78.882703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.544792,
+    "mps:longitude":78.882703,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u0999\u09cd\u0997\u09ae"
@@ -39,13 +49,22 @@
     "name:deu_x_preferred":[
         "Sangam"
     ],
+    "name:eng_x_preferred":[
+        "Sangam"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0902\u0917\u092e"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0c82\u0c97\u0cae"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10214113
+        "gn:id":10214113,
+        "ks:id":"KSF728C3AA76034258A8483BC992672AC6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d72859338b0f61ce1cff30c78ee960a6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"15f67c30f1d92e12eb20f2be42c003b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1260132839,
-    "wof:lastmodified":1566699273,
+    "wof:lastmodified":1682753112,
     "wof:name":"Sangam",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.88217,
-    21.5446,
-    78.88217,
-    21.5446
+    78.881964,
+    21.544448,
+    78.88322,
+    21.545273
 ],
-  "geometry": {"coordinates":[78.88217,21.5446],"type":"Point"}
+  "geometry": {"coordinates":[[[78.882921,21.545273],[78.88292300000001,21.545183],[78.883019,21.545184],[78.88302,21.545094],[78.883117,21.545095],[78.88312000000001,21.544915],[78.883216,21.544916],[78.88321999999999,21.544645],[78.883124,21.544644],[78.88312500000001,21.544553],[78.883028,21.544552],[78.88303000000001,21.544462],[78.881968,21.544448],[78.881964,21.544719],[78.88215700000001,21.544722],[78.88215599999999,21.544812],[78.88225199999999,21.544813],[78.882251,21.544904],[78.88234799999999,21.544905],[78.882346,21.544995],[78.88244299999999,21.544996],[78.882441,21.545087],[78.882538,21.545088],[78.882537,21.545178],[78.882633,21.545179],[78.882632,21.54527],[78.882921,21.545273]]],"type":"Polygon"}
 }

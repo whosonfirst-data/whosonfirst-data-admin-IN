@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.22818,25.91715,85.22818,25.91715",
-    "geom:latitude":25.91715,
-    "geom:longitude":85.22818,
+    "geom:bbox":"85.22874,25.916752,85.229818,25.917291",
+    "geom:latitude":25.917021,
+    "geom:longitude":85.229279,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Bara Dakhli",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.20818,25.89715,85.24818,25.93715",
+    "ks:ks_id":"KS5CEE3C6D838E48AC8F87421DA72AA5F3",
+    "ks:ks_name":"Bara Dakhli",
+    "ks:ks_pop":344,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1018000301886500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1383292",
+    "lbl:latitude":25.917021,
+    "lbl:longitude":85.229279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.917021,
+    "mps:longitude":85.229279,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bara Dakhli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010996
+        "gn:id":11010996,
+        "ks:id":"KS5CEE3C6D838E48AC8F87421DA72AA5F3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dbe5dd7bcf323390c4a3f07ac3d746c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"839f2769094c9b44ecb86435ff7111fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243407783,
-    "wof:lastmodified":1566706855,
+    "wof:lastmodified":1682714600,
     "wof:name":"Bara Dakhli",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":344,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.22818000000002,
-    25.91715,
-    85.22818000000002,
-    25.91715
+    85.22874,
+    25.916752,
+    85.229818,
+    25.917291
 ],
-  "geometry": {"coordinates":[85.22818000000002,25.91715],"type":"Point"}
+  "geometry": {"coordinates":[[[85.22981799999999,25.916752],[85.22874,25.916752],[85.22874,25.917291],[85.22981799999999,25.917291],[85.22981799999999,25.916752]]],"type":"Polygon"}
 }

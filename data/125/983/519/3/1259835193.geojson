@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.05427,25.36539,74.05427,25.36539",
-    "geom:latitude":25.36539,
-    "geom:longitude":74.05427,
+    "geom:bbox":"74.054159,25.363743,74.05595,25.365555",
+    "geom:latitude":25.364894,
+    "geom:longitude":74.054944,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"122.0",
     "gn:asciiname":"Karol",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.03427,25.34539,74.07427,25.38539",
+    "ks:ks_alt_nam":"K\u0101rol",
+    "ks:ks_id":"KS5813D678D95C47508D1923AA9DA1B06C",
+    "ks:ks_name":"Karol",
+    "ks:ks_pop":118,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|516598",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1584332",
+    "lbl:latitude":25.365005,
+    "lbl:longitude":74.054927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.365005,
+    "mps:longitude":74.054927,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0644"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Karol"
+    ],
+    "name:eng_x_preferred":[
+        "Karol"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101rol"
     ],
     "name:est_x_preferred":[
         "Karol"
@@ -81,7 +98,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0648\u0644"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10815998
+        "gn:id":10815998,
+        "ks:id":"KS5813D678D95C47508D1923AA9DA1B06C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"655c8c5414485d288614da4875ee05e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"70f548f8e5f1abac074a7af2c595d87b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1259835193,
-    "wof:lastmodified":1577753733,
+    "wof:lastmodified":1682741377,
     "wof:name":"Karol",
     "wof:parent_id":890508849,
     "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.05426999999997,
-    25.36539,
-    74.05426999999997,
-    25.36539
+    74.054159,
+    25.363743,
+    74.05595,
+    25.365555
 ],
-  "geometry": {"coordinates":[74.05426999999997,25.36539],"type":"Point"}
+  "geometry": {"coordinates":[[[74.055747,25.365555],[74.05574799999999,25.365465],[74.055847,25.365465],[74.055848,25.365375],[74.055948,25.365376],[74.05595,25.365014],[74.055851,25.365014],[74.055852,25.364833],[74.055753,25.364833],[74.05575399999999,25.364742],[74.055654,25.364742],[74.055655,25.364651],[74.055357,25.364649],[74.055358,25.364559],[74.05525799999999,25.364559],[74.05525900000001,25.364468],[74.05496100000001,25.364466],[74.054963,25.364195],[74.05506200000001,25.364196],[74.055064,25.364015],[74.05516299999999,25.364016],[74.055164,25.363926],[74.055064,25.363925],[74.055066,25.363745],[74.054867,25.363743],[74.054866,25.363924],[74.054766,25.363923],[74.054765,25.364104],[74.05456599999999,25.364103],[74.054565,25.364193],[74.054267,25.364191],[74.054266,25.364372],[74.054166,25.364371],[74.054159,25.365364],[74.054258,25.365365],[74.05425700000001,25.365455],[74.054357,25.365456],[74.054356,25.365546],[74.055747,25.365555]]],"type":"Polygon"}
 }

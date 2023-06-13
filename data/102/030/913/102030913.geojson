@@ -11,12 +11,20 @@
     "geom:longitude":87.464085,
     "gn:population":67474,
     "iso:country":"IN",
-    "lbl:latitude":26.134553,
-    "lbl:longitude":87.462616,
+    "ks:ks_id":"KS24639CBA8CEC41CFAE0599E6E526405A",
+    "ks:ks_name":"Araria",
+    "ks:ks_pop":60861,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1007000540703000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2123836",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.132905,
+    "lbl:longitude":87.461629,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":26.308189,
-    "mps:longitude":87.258911,
+    "mps:latitude":26.132905,
+    "mps:longitude":87.461629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -35,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Araria"
+    ],
+    "name:eng_x_variant":[
+        "Ar\u0101ria"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0627\u0631\u06cc\u0627"
@@ -129,10 +140,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1746,
     "wof:belongsto":[
         102191569,
@@ -145,13 +158,16 @@
         "fct:id":"122dda3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1278446,
         "gp:id":2288939,
+        "ks:id":"KS24639CBA8CEC41CFAE0599E6E526405A",
         "qs_pg:id":132534,
         "wd:id":"Q4660870",
         "wk:page":"Araria"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"4b4f3ce52fdf5c064c5af5ba3bbd0443",
     "wof:hierarchy":[
@@ -167,11 +183,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780737,
-    "wof:name":"Ar\u0101ria",
+    "wof:lastmodified":1686162186,
+    "wof:name":"Araria",
     "wof:parent_id":1108695905,
     "wof:placetype":"locality",
-    "wof:population":67474,
+    "wof:population":60861,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

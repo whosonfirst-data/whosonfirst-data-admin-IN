@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.74077,24.39511,87.74077,24.39511",
-    "geom:latitude":24.39511,
-    "geom:longitude":87.74077,
+    "geom:bbox":"87.740429,24.394646,87.741507,24.395724",
+    "geom:latitude":24.395158,
+    "geom:longitude":87.740995,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"353.0",
     "gn:asciiname":"Nasipur",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.72077,24.37511,87.76077,24.41511",
+    "ks:ks_id":"KS8A2801923C2448428AEB260A80AD1B4E",
+    "ks:ks_name":"Nasipur",
+    "ks:ks_pop":344,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13515721",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1292956",
+    "lbl:latitude":24.395121,
+    "lbl:longitude":87.741024,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.395121,
+    "mps:longitude":87.741024,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Nasipur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11016954
+        "gn:id":11016954,
+        "ks:id":"KS8A2801923C2448428AEB260A80AD1B4E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8d1b9243cc079e4677970c2d8e60b6c5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"385c4de92b4934a9f12b2361d2e4f516",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243114793,
-    "wof:lastmodified":1566708330,
+    "wof:lastmodified":1682704599,
     "wof:name":"Nasipur",
     "wof:parent_id":1108696107,
     "wof:placetype":"locality",
+    "wof:population":344,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.74077,
-    24.39511,
-    87.74077,
-    24.39511
+    87.740429,
+    24.394646,
+    87.741507,
+    24.395724
 ],
-  "geometry": {"coordinates":[87.74077,24.39511],"type":"Point"}
+  "geometry": {"coordinates":[[[87.741507,24.394646],[87.74042900000001,24.394646],[87.74042900000001,24.395455],[87.74069900000001,24.395455],[87.74069900000001,24.395724],[87.741507,24.395724],[87.741507,24.394646]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.71682,24.32414,73.71682,24.32414",
-    "geom:latitude":24.32414,
-    "geom:longitude":73.71682,
+    "geom:bbox":"73.716399,24.324927,73.717685,24.325647",
+    "geom:latitude":24.325296,
+    "geom:longitude":73.716985,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"130.0",
     "gn:asciiname":"Kanpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"73.69682,24.30414,73.73682,24.34414",
+    "ks:ks_alt_nam":"K\u0101npur",
+    "ks:ks_id":"KSFA6344D0853F4124B60315EA260AE2E6",
+    "ks:ks_name":"Kanpur",
+    "ks:ks_pop":4108,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|505888",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_835813",
+    "lbl:latitude":24.325332,
+    "lbl:longitude":73.716941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.325332,
+    "mps:longitude":73.716941,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kanpur"
@@ -95,6 +106,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Kanpur"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101npur"
     ],
     "name:epo_x_preferred":[
         "Kanpur"
@@ -294,7 +311,13 @@
     "name:zho_x_preferred":[
         "\u574e\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -303,10 +326,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10251605
+        "gn:id":10251605,
+        "ks:id":"KSFA6344D0853F4124B60315EA260AE2E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ea68e7be93980e2643fdc42d0938b243",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e94dac414cfcad336e7470e2cd5fa28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,20 +344,22 @@
         }
     ],
     "wof:id":1209064033,
-    "wof:lastmodified":1672960685,
+    "wof:lastmodified":1686162720,
     "wof:name":"Kanpur",
     "wof:parent_id":1108695787,
     "wof:placetype":"locality",
+    "wof:population":4108,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.71682,
-    24.32414,
-    73.71682,
-    24.32414
+    73.716399,
+    24.324927,
+    73.717685,
+    24.325647
 ],
-  "geometry": {"coordinates":[73.71682,24.32414],"type":"Point"}
+  "geometry": {"coordinates":[[[73.716891,24.325647],[73.716892,24.325557],[73.717187,24.325559],[73.717189,24.325379],[73.717288,24.32538],[73.71728899999999,24.325289],[73.71768299999999,24.325293],[73.717685,24.325112],[73.717586,24.325111],[73.71758699999999,24.325021],[73.71738999999999,24.325019],[73.71739100000001,24.324929],[73.71719400000001,24.324927],[73.71719299999999,24.325018],[73.71699599999999,24.325016],[73.716995,24.325106],[73.716601,24.325103],[73.7166,24.325193],[73.71650099999999,24.325192],[73.7165,24.325283],[73.716402,24.325282],[73.716399,24.325553],[73.716498,24.325554],[73.716497,24.325644],[73.716891,24.325647]]],"type":"Polygon"}
 }

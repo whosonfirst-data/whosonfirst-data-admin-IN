@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.17994,24.86916,86.17994,24.86916",
-    "geom:latitude":24.86916,
-    "geom:longitude":86.17994,
+    "geom:bbox":"86.180872,24.859703,86.183245,24.860887",
+    "geom:latitude":24.860289,
+    "geom:longitude":86.182085,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"238.0",
     "gn:asciiname":"Kashmir",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.15994,24.84916,86.19994,24.88916",
+    "ks:ks_alt_nam":"K\u0101shmir",
+    "ks:ks_id":"KS95412AA890B744789206B57AD9649486",
+    "ks:ks_name":"Kashmir",
+    "ks:ks_pop":1200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|520192",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1154620",
+    "lbl:latitude":24.860341,
+    "lbl:longitude":86.18218,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.860341,
+    "mps:longitude":86.18218,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kasjmir"
@@ -86,6 +97,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03bc\u03af\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Kashmir"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101shmir"
     ],
     "name:epo_x_preferred":[
         "Ka\u015dmiro"
@@ -303,7 +320,13 @@
     "name:zho_x_preferred":[
         "\u514b\u4ec0\u7c73\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -312,10 +335,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10911079
+        "gn:id":10911079,
+        "ks:id":"KS95412AA890B744789206B57AD9649486"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d9db7825bdd16dc57f6da653207f5562",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8402fc4f5e9f3f9a8ea36b24577a599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,20 +353,22 @@
         }
     ],
     "wof:id":1276164259,
-    "wof:lastmodified":1636505453,
+    "wof:lastmodified":1682762694,
     "wof:name":"Kashmir",
     "wof:parent_id":1108695949,
     "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.17994,
-    24.86916,
-    86.17994,
-    24.86916
+    86.180872,
+    24.859703,
+    86.183245,
+    24.860887
 ],
-  "geometry": {"coordinates":[86.17994,24.86916],"type":"Point"}
+  "geometry": {"coordinates":[[[86.182946,24.860887],[86.182946,24.860796],[86.18304500000001,24.860797],[86.183046,24.860707],[86.183244,24.860708],[86.183245,24.860527],[86.18314599999999,24.860526],[86.18314700000001,24.860346],[86.183048,24.860345],[86.183049,24.860255],[86.18295000000001,24.860254],[86.18295000000001,24.860164],[86.182851,24.860164],[86.182852,24.860073],[86.18275300000001,24.860073],[86.18275300000001,24.859982],[86.182655,24.859982],[86.182655,24.859892],[86.182259,24.859889],[86.18226,24.859799],[86.181963,24.859798],[86.181963,24.859707],[86.181172,24.859703],[86.18117100000001,24.859793],[86.181072,24.859793],[86.181071,24.859883],[86.180874,24.859882],[86.18087199999999,24.860153],[86.18107000000001,24.860154],[86.18106899999999,24.860244],[86.181168,24.860245],[86.181167,24.860335],[86.18126599999999,24.860336],[86.18126599999999,24.860426],[86.18146400000001,24.860427],[86.18146299999999,24.860517],[86.181562,24.860518],[86.181562,24.860608],[86.18166100000001,24.860609],[86.18165999999999,24.860699],[86.18185800000001,24.8607],[86.18185699999999,24.86079],[86.18205500000001,24.860791],[86.18205500000001,24.860882],[86.182946,24.860887]]],"type":"Polygon"}
 }

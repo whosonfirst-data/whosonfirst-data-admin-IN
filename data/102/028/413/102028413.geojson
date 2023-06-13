@@ -12,12 +12,19 @@
     "gn:latitude":15.61932,
     "gn:longitude":73.84423,
     "iso:country":"IN",
-    "lbl:latitude":15.626673,
-    "lbl:longitude":73.875872,
+    "ks:ks_id":"KS4BF138DEEED64EC7B1D24400439A769D",
+    "ks:ks_name":"Tivim",
+    "ks:ks_pop":7361,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2113328",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_371182",
+    "lbl:latitude":15.618157,
+    "lbl:longitude":73.842926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":15.670643,
-    "mps:longitude":73.844605,
+    "mps:latitude":15.618157,
+    "mps:longitude":73.842926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -52,9 +59,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":23.0,
     "wd:latitude":15.6,
     "wd:longitude":73.8,
@@ -69,13 +79,16 @@
     "wof:concordances":{
         "gn:id":1254290,
         "gp:id":2287544,
+        "ks:id":"KS4BF138DEEED64EC7B1D24400439A769D",
         "qs_pg:id":1170848,
         "wd:id":"Q7810422",
         "wk:page":"Tivim"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ab4ccc8cc7a45ea2d45f3a48acd8615c",
     "wof:hierarchy":[
@@ -88,10 +101,12 @@
         }
     ],
     "wof:id":102028413,
-    "wof:lastmodified":1658780776,
+    "wof:lastmodified":1682523235,
     "wof:name":"Tivim",
     "wof:parent_id":890508373,
     "wof:placetype":"locality",
+    "wof:population":7361,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

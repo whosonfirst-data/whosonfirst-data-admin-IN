@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.70695,27.69301,78.70695,27.69301",
-    "geom:latitude":27.69301,
-    "geom:longitude":78.70695,
+    "geom:bbox":"78.706087,27.692304,78.708322,27.694024",
+    "geom:latitude":27.693153,
+    "geom:longitude":78.707127,
     "gn:admin1_code":"36",
     "gn:admin2_code":"202.0",
     "gn:asciiname":"Sikandrabad",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.68695,27.67301,78.72695,27.71301",
+    "ks:ks_id":"KS421A3F4B550B4BCEBF876A7FD59F1ADA",
+    "ks:ks_name":"Sikandra Bad",
+    "ks:ks_pop":385,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1175757",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1803393",
+    "lbl:latitude":27.693163,
+    "lbl:longitude":78.707127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.693163,
+    "mps:longitude":78.707127,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u0995\u09be\u09a8\u09cd\u09a6\u09b0\u09ac\u09be\u09a6"
     ],
     "name:ceb_x_preferred":[
         "Sikandar\u0101b\u0101d"
+    ],
+    "name:eng_x_preferred":[
+        "Sikandra Bad"
+    ],
+    "name:eng_x_variant":[
+        "Sikandrabad"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06a9\u0646\u062f\u0631\u0622\u0628\u0627\u062f"
@@ -75,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u897f\u574e\u5fb7\u62c9\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10455911
+        "gn:id":10455911,
+        "ks:id":"KS421A3F4B550B4BCEBF876A7FD59F1ADA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ebdeacb3666cd66758fbb3fd9e1d2e1d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"38bc3217cdedf46a64c6b13d94882556",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +124,22 @@
         }
     ],
     "wof:id":1344210065,
-    "wof:lastmodified":1566688007,
-    "wof:name":"Sikandrabad",
+    "wof:lastmodified":1682957457,
+    "wof:name":"Sikandra Bad",
     "wof:parent_id":1108695891,
     "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.70695,
-    27.69301,
-    78.70695,
-    27.69301
+    78.706087,
+    27.692304,
+    78.708322,
+    27.694024
 ],
-  "geometry": {"coordinates":[78.70695000000001,27.69301],"type":"Point"}
+  "geometry": {"coordinates":[[[78.707391,27.694024],[78.707393,27.693934],[78.707697,27.693939],[78.70769900000001,27.693849],[78.70780000000001,27.693851],[78.707802,27.69376],[78.708004,27.693764],[78.708006,27.693674],[78.708108,27.693675],[78.70811,27.693585],[78.70821100000001,27.693587],[78.708217,27.693316],[78.70831800000001,27.693318],[78.708322,27.693137],[78.70822,27.693136],[78.708226,27.692865],[78.708125,27.692863],[78.70812599999999,27.692773],[78.70802500000001,27.692771],[78.708027,27.692681],[78.707926,27.69268],[78.707928,27.692589],[78.707826,27.692588],[78.70782800000001,27.692497],[78.70772700000001,27.692496],[78.707729,27.692406],[78.707526,27.692402],[78.707528,27.692312],[78.707021,27.692304],[78.707019,27.692394],[78.706209,27.69238],[78.70620700000001,27.692471],[78.70610499999999,27.692469],[78.706087,27.693371],[78.706188,27.693373],[78.706182,27.693643],[78.706284,27.693645],[78.706282,27.693735],[78.706383,27.693737],[78.70638099999999,27.693827],[78.70648199999999,27.693829],[78.706481,27.693919],[78.706683,27.693922],[78.706681,27.694013],[78.707391,27.694024]]],"type":"Polygon"}
 }

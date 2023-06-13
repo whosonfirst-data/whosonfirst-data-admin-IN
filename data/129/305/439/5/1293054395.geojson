@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.45308,21.76175,79.45308,21.76175",
-    "geom:latitude":21.76175,
-    "geom:longitude":79.45308,
+    "geom:bbox":"79.451315,21.761145,79.453201,21.761954",
+    "geom:latitude":21.761594,
+    "geom:longitude":79.452318,
     "gn:admin1_code":"35",
     "gn:admin2_code":"456.0",
     "gn:asciiname":"Mohgaon",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.43308,21.74175,79.47308,21.78175",
+    "ks:ks_id":"KSA0E2B1E9909642C1892A9ADF89B2B2EC",
+    "ks:ks_name":"Mohgaon",
+    "ks:ks_source_id":"N|12902964",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_693169",
+    "lbl:latitude":21.761625,
+    "lbl:longitude":79.452179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.761625,
+    "mps:longitude":79.452179,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b9\u0997\u09be\u0981\u0993"
@@ -37,6 +45,9 @@
         "\u09ae\u09cb\u09b9\u0997\u09be\u0981\u0993"
     ],
     "name:ceb_x_preferred":[
+        "Mohgaon"
+    ],
+    "name:eng_x_preferred":[
         "Mohgaon"
     ],
     "name:ita_x_preferred":[
@@ -63,7 +74,11 @@
     "name:zho_x_preferred":[
         "\u83ab\u8d6b\u52a0\u5965\u6069"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10470691
+        "gn:id":10470691,
+        "ks:id":"KSA0E2B1E9909642C1892A9ADF89B2B2EC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7ffbca0b65ce32b2c6610ce599c5e327",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e75573da1e633814639c747979d4540d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +105,7 @@
         }
     ],
     "wof:id":1293054395,
-    "wof:lastmodified":1566691080,
+    "wof:lastmodified":1682805002,
     "wof:name":"Mohgaon",
     "wof:parent_id":890511127,
     "wof:placetype":"locality",
@@ -96,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.45308,
-    21.76175,
-    79.45308,
-    21.76175
+    79.451315,
+    21.761145,
+    79.453201,
+    21.761954
 ],
-  "geometry": {"coordinates":[79.45308,21.76175],"type":"Point"}
+  "geometry": {"coordinates":[[[79.45320100000001,21.761954],[79.45320100000001,21.761145],[79.452662,21.761145],[79.452662,21.761415],[79.452393,21.761415],[79.452393,21.761145],[79.451854,21.761145],[79.451854,21.761415],[79.45131499999999,21.761415],[79.45131499999999,21.761954],[79.45320100000001,21.761954]]],"type":"Polygon"}
 }

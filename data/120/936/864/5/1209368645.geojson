@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        890504089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10832836
     },
     "wof:country":"IN",
-    "wof:geomhash":"b5663af96f789a591971113ac7535fa8",
+    "wof:geomhash":"f737583d3e03c1e2c21ec074e63788dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209368645
+            "county_id":890504089,
+            "locality_id":1209368645,
+            "region_id":85672225
         }
     ],
     "wof:id":1209368645,
-    "wof:lastmodified":1566694485,
+    "wof:lastmodified":1682616983,
     "wof:name":"Akhtiarpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890504089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847128373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.79543000000002,
+    84.79543,
     25.32399,
-    84.79543000000002,
+    84.79543,
     25.32399
 ],
-  "geometry": {"coordinates":[84.79543000000002,25.32399],"type":"Point"}
+  "geometry": {"coordinates":[84.79543,25.32399],"type":"Point"}
 }

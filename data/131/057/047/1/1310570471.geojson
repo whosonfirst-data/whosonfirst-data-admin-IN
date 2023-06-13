@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.56493,20.41324,78.56493,20.41324",
-    "geom:latitude":20.41324,
-    "geom:longitude":78.56493,
+    "geom:bbox":"78.564304,20.412063,78.566611,20.413957",
+    "geom:latitude":20.413046,
+    "geom:longitude":78.565385,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Chikana",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.54493,20.39324,78.58493,20.43324",
+    "ks:ks_id":"KS26F8DB1D6B0043C2A4046DC9A6F582DD",
+    "ks:ks_name":"Chikana",
+    "ks:ks_pop":323,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|221428",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870939",
+    "lbl:latitude":20.41301,
+    "lbl:longitude":78.565407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.41301,
+    "mps:longitude":78.565407,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u093f\u0915\u0928\u093e"
@@ -38,6 +48,9 @@
     ],
     "name:dty_x_preferred":[
         "\u091a\u093f\u0915\u0928\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Chikana"
     ],
     "name:mai_x_preferred":[
         "\u091a\u093f\u0915\u0928\u093e"
@@ -54,7 +67,13 @@
     "name:pol_x_preferred":[
         "Chikana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10537305
+        "gn:id":10537305,
+        "ks:id":"KS26F8DB1D6B0043C2A4046DC9A6F582DD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5144afd52df8794b668694b46a9ed8e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bba70caae346ab4ec4a008286d24b364",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1310570471,
-    "wof:lastmodified":1566702052,
+    "wof:lastmodified":1682871809,
     "wof:name":"Chikana",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.56493,
-    20.41324,
-    78.56493,
-    20.41324
+    78.564304,
+    20.412063,
+    78.566611,
+    20.413957
 ],
-  "geometry": {"coordinates":[78.56493,20.41324],"type":"Point"}
+  "geometry": {"coordinates":[[[78.565349,20.413957],[78.56535,20.413867],[78.56573299999999,20.413873],[78.565735,20.413782],[78.566022,20.413786],[78.566023,20.413696],[78.566215,20.413699],[78.566216,20.413608],[78.566408,20.413611],[78.566411,20.41343],[78.566506,20.413432],[78.566508,20.413342],[78.566603,20.413343],[78.56661099999999,20.412891],[78.566515,20.41289],[78.566518,20.41271],[78.566422,20.412708],[78.566423,20.412618],[78.566328,20.412617],[78.566329,20.412526],[78.566233,20.412525],[78.56623500000001,20.412435],[78.56613900000001,20.412433],[78.56614,20.412343],[78.566045,20.412342],[78.566046,20.412251],[78.565854,20.412249],[78.565856,20.412159],[78.565569,20.412155],[78.56556999999999,20.412064],[78.56547399999999,20.412063],[78.565473,20.412153],[78.56509,20.412148],[78.565088,20.412238],[78.564801,20.412234],[78.56480000000001,20.412324],[78.56451199999999,20.41232],[78.564511,20.412411],[78.564415,20.412409],[78.564414,20.4125],[78.564318,20.412498],[78.56430400000001,20.413401],[78.56439899999999,20.413402],[78.564395,20.413673],[78.564491,20.413675],[78.56449000000001,20.413765],[78.56458499999999,20.413766],[78.564584,20.413856],[78.56468,20.413858],[78.564678,20.413948],[78.565349,20.413957]]],"type":"Polygon"}
 }

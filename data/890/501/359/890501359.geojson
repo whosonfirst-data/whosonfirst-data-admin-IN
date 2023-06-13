@@ -14,11 +14,20 @@
     "gn:population":58585,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"74.90538,31.43112,74.94538,31.47112",
-    "lbl:latitude":31.45383,
-    "lbl:longitude":74.926628,
+    "ks:ks_id":"KSA1D9E193F68F43E09C207D0F3F8D4EDA",
+    "ks:ks_name":"Tarn Taran",
+    "ks:ks_pop":55787,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0302000440210000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2517085",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":31.456692,
+    "lbl:longitude":74.931778,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":31.456692,
+    "mps:longitude":74.931778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -41,6 +50,9 @@
     "name:eng_x_preferred":[
         "Tarn Taran"
     ],
+    "name:eng_x_variant":[
+        "Tarn-Taran"
+    ],
     "name:fra_x_preferred":[
         "Tarn Taran Sahib"
     ],
@@ -48,6 +60,9 @@
         "\u0aa4\u0ab0\u0acd\u0aa3 \u0aa4\u0ab0\u0aa3 \u0ab8\u0abe\u0ab9\u0abf\u0aac"
     ],
     "name:hin_x_preferred":[
+        "\u0924\u0930\u0928 \u0924\u093e\u0930\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0924\u0930\u0928\u0924\u093e\u0930\u0928"
     ],
     "name:ita_x_preferred":[
@@ -78,6 +93,9 @@
         "\u0b24\u0b30\u0b23 \u0b24\u0b3e\u0b30\u0b23 \u0b38\u0b3e\u0b39\u0b3f\u0b2c"
     ],
     "name:pan_x_preferred":[
+        "\u0a24\u0a30\u0a28 \u0a24\u0a3e\u0a30\u0a28"
+    ],
+    "name:pan_x_variant":[
         "\u0a24\u0a30\u0a28 \u0a24\u0a3e\u0a30\u0a28 \u0a38\u0a3e\u0a39\u0a3f\u0a2c"
     ],
     "name:por_x_preferred":[
@@ -125,10 +143,12 @@
     "reversegeo:longitude":74.926628,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191569,
@@ -140,12 +160,17 @@
     "wof:concordances":{
         "gn:id":1254868,
         "gp:id":2290406,
+        "ks:id":"KSA1D9E193F68F43E09C207D0F3F8D4EDA",
         "qs_pg:id":131163,
         "wd:id":"Q2341728",
         "wk:page":"Tarn Taran"
     },
     "wof:country":"IN",
     "wof:created":1469055295,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"fda460110421c4e98b5e4f627d1f21d7",
     "wof:hierarchy":[
         {
@@ -157,11 +182,11 @@
         }
     ],
     "wof:id":890501359,
-    "wof:lastmodified":1658780803,
-    "wof:name":"Tarn-Taran",
+    "wof:lastmodified":1686163944,
+    "wof:name":"Tarn Taran",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
-    "wof:population":58585,
+    "wof:population":55787,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

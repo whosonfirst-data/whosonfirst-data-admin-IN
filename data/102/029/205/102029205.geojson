@@ -12,12 +12,20 @@
     "gn:latitude":20.85,
     "gn:longitude":72.91667,
     "iso:country":"IN",
-    "lbl:latitude":20.950588,
-    "lbl:longitude":72.929891,
+    "ks:ks_id":"KS18E3EE3975CC41F0BF1C5EC93FC42280",
+    "ks:ks_name":"Navsari",
+    "ks:ks_pop":162250,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2424000142401000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_730877",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.946393,
+    "lbl:longitude":72.92762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":20.943294,
-    "mps:longitude":72.933019,
+    "mps:latitude":20.946393,
+    "mps:longitude":72.92762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -52,7 +60,8 @@
     "name:eng_x_variant":[
         "Nausari",
         "Navasari",
-        "Nosari"
+        "Nosari",
+        "Navs\u0101ri"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0633\u0631\u0627\u06cc"
@@ -165,9 +174,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":9.0,
     "wd:latitude":20.950556,
     "wd:longitude":72.923056,
@@ -183,13 +195,16 @@
         "fct:id":"122e07b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1261653,
         "gp:id":2295099,
+        "ks:id":"KS18E3EE3975CC41F0BF1C5EC93FC42280",
         "loc:id":"n89287968",
         "qs_pg:id":1249853,
         "wd:id":"Q1922248"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"683e433d133586f0a598badaa16d526d",
     "wof:hierarchy":[
@@ -205,10 +220,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780757,
-    "wof:name":"Navs\u0101ri",
+    "wof:lastmodified":1686162197,
+    "wof:name":"Navsari",
     "wof:parent_id":890510757,
     "wof:placetype":"locality",
+    "wof:population":162250,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

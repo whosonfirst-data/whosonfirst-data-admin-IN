@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.44098,10.49687,77.44098,10.49687",
-    "geom:latitude":10.49687,
-    "geom:longitude":77.44098,
+    "geom:bbox":"77.440586,10.496087,77.441685,10.497175",
+    "geom:latitude":10.496672,
+    "geom:longitude":77.441155,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"612.0",
     "gn:asciiname":"Alagapuri",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.42098,10.47687,77.46098,10.51687",
+    "ks:ks_id":"KSBF1119D92E334E0090B18471DD2F70EC",
+    "ks:ks_name":"Alagapuri",
+    "ks:ks_pop":120,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|23255",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_162734",
+    "lbl:latitude":10.496693,
+    "lbl:longitude":77.441166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.496693,
+    "mps:longitude":77.441166,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Alagapuri"
+    ],
     "name:msa_x_preferred":[
         "Alagapuri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11583630
+        "gn:id":11583630,
+        "ks:id":"KSBF1119D92E334E0090B18471DD2F70EC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"94777a4a04969941047de94dbe6768d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb95312ad49563b047a8668d41d7791d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1309960967,
-    "wof:lastmodified":1566704035,
+    "wof:lastmodified":1682848173,
     "wof:name":"Alagapuri",
     "wof:parent_id":890507451,
     "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.44098000000002,
-    10.49687,
-    77.44098000000002,
-    10.49687
+    77.440586,
+    10.496087,
+    77.441685,
+    10.497175
 ],
-  "geometry": {"coordinates":[77.44098000000002,10.49687],"type":"Point"}
+  "geometry": {"coordinates":[[[77.441413,10.497171],[77.441412,10.49708],[77.44159500000001,10.497079],[77.44159399999999,10.496989],[77.44168500000001,10.496988],[77.44168000000001,10.496355],[77.44158899999999,10.496356],[77.441588,10.496266],[77.441497,10.496266],[77.441496,10.496176],[77.44131400000001,10.496178],[77.44131299999999,10.496087],[77.441131,10.496089],[77.441131,10.496179],[77.44085699999999,10.496181],[77.44085800000001,10.496271],[77.44076699999999,10.496272],[77.44076800000001,10.496453],[77.44067699999999,10.496454],[77.44067800000001,10.496544],[77.440586,10.496545],[77.44059,10.496996],[77.440681,10.496996],[77.440682,10.497086],[77.440864,10.497085],[77.440865,10.497175],[77.441413,10.497171]]],"type":"Polygon"}
 }

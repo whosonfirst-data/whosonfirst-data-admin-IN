@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.7184,28.29267,79.7184,28.29267",
-    "geom:latitude":28.29267,
-    "geom:longitude":79.7184,
+    "geom:bbox":"79.711966,28.293086,79.713403,28.294256",
+    "geom:latitude":28.293744,
+    "geom:longitude":79.712737,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"151.0",
     "gn:asciiname":"Arjunpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.6984,28.27267,79.7384,28.31267",
+    "ks:ks_id":"KS8E102AF6924E48EAB9F44DDF1F31D778",
+    "ks:ks_name":"Arjunpur",
+    "ks:ks_pop":231,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|46241",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2023854",
+    "lbl:latitude":28.293764,
+    "lbl:longitude":79.712751,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.293764,
+    "mps:longitude":79.712751,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062c\u064a\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0985\u09b0\u09cd\u099c\u09c1\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Arjunpur"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0a9c\u0ac1\u0aa8\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u062c\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10830366
+        "gn:id":10830366,
+        "ks:id":"KS8E102AF6924E48EAB9F44DDF1F31D778"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3f240368f2ffd536c64c8e4bd482f994",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9ddb85b420182a1fe2d9e1a3eba2243",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1193067671,
-    "wof:lastmodified":1577751104,
+    "wof:lastmodified":1686163527,
     "wof:name":"Arjunpur",
     "wof:parent_id":1108695809,
     "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.7184,
-    28.29267,
-    79.7184,
-    28.29267
+    79.711966,
+    28.293086,
+    79.713403,
+    28.294256
 ],
-  "geometry": {"coordinates":[79.7184,28.29267],"type":"Point"}
+  "geometry": {"coordinates":[[[79.71278,28.294256],[79.71278100000001,28.294166],[79.713087,28.294169],[79.713088,28.294079],[79.71319,28.29408],[79.71319200000001,28.293899],[79.713294,28.2939],[79.713295,28.29381],[79.713397,28.293811],[79.713403,28.29336],[79.713301,28.293359],[79.713303,28.293178],[79.713201,28.293177],[79.713202,28.293087],[79.7131,28.293086],[79.713099,28.293176],[79.712895,28.293174],[79.71289400000001,28.293265],[79.71279199999999,28.293264],[79.712791,28.293354],[79.712587,28.293352],[79.712586,28.293442],[79.71238200000001,28.29344],[79.71238099999999,28.293531],[79.712279,28.29353],[79.712278,28.29362],[79.712074,28.293618],[79.712073,28.293708],[79.71197100000001,28.293707],[79.711966,28.294068],[79.712068,28.294069],[79.712067,28.294159],[79.712373,28.294162],[79.712372,28.294253],[79.71278,28.294256]]],"type":"Polygon"}
 }

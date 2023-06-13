@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.95147,22.47481,74.95147,22.47481",
-    "geom:latitude":22.47481,
-    "geom:longitude":74.95147,
+    "geom:bbox":"74.938536,22.470925,74.940092,22.472461",
+    "geom:latitude":22.471666,
+    "geom:longitude":74.939342,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"438.0",
     "gn:asciiname":"Kodi",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.93147,22.45481,74.97147,22.49481",
+    "ks:ks_id":"KSDF8BE48246E843BE97E34B103E757D3E",
+    "ks:ks_name":"Kodi",
+    "ks:ks_pop":715,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|569008",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_754028",
+    "lbl:latitude":22.471422,
+    "lbl:longitude":74.939536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.471422,
+    "mps:longitude":74.939536,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kodi"
     ],
     "name:deu_x_preferred":[
+        "Kodi"
+    ],
+    "name:eng_x_preferred":[
         "Kodi"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +58,13 @@
     "name:swe_x_preferred":[
         "Kodi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10812619
+        "gn:id":10812619,
+        "ks:id":"KSDF8BE48246E843BE97E34B103E757D3E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8063d0e79b01077b1bac6335db6480bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1980c85ad9339b1621840574db8f8ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1293141065,
-    "wof:lastmodified":1566690374,
+    "wof:lastmodified":1682807243,
     "wof:name":"Kodi",
     "wof:parent_id":890508999,
     "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.95147,
-    22.47481,
-    74.95147,
-    22.47481
+    74.938536,
+    22.470925,
+    74.940092,
+    22.472461
 ],
-  "geometry": {"coordinates":[74.95147,22.47481],"type":"Point"}
+  "geometry": {"coordinates":[[[74.93911900000001,22.472461],[74.93911900000001,22.47237],[74.939216,22.47237],[74.939216,22.47228],[74.939314,22.47228],[74.939314,22.472009],[74.939508,22.472009],[74.939508,22.471919],[74.939605,22.471919],[74.939605,22.471828],[74.93980000000001,22.471828],[74.93980000000001,22.471738],[74.939897,22.471738],[74.939897,22.471648],[74.939994,22.471648],[74.939994,22.471557],[74.94009200000001,22.471558],[74.94009200000001,22.471286],[74.939995,22.471286],[74.939995,22.471196],[74.939897,22.471196],[74.939897,22.471106],[74.93980000000001,22.471106],[74.93980000000001,22.471015],[74.93970299999999,22.471015],[74.93970299999999,22.470925],[74.939314,22.470925],[74.939314,22.471015],[74.939217,22.471015],[74.939217,22.471105],[74.93912,22.471105],[74.93912,22.471467],[74.93902199999999,22.471467],[74.93902199999999,22.471738],[74.938925,22.471738],[74.938925,22.471828],[74.938731,22.471828],[74.93873000000001,22.472099],[74.938536,22.472099],[74.938536,22.47228],[74.938633,22.47228],[74.938633,22.47237],[74.938828,22.47237],[74.938828,22.47246],[74.93911900000001,22.472461]]],"type":"Polygon"}
 }

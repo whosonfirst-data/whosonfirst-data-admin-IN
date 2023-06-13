@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695875
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10668726
     },
     "wof:country":"IN",
-    "wof:geomhash":"f25f005441e3a74332c4227ed7577ad0",
+    "wof:geomhash":"a9bbda906b22f9bd99e7a58d1a3629ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209050533
+            "county_id":1108695875,
+            "locality_id":1209050533,
+            "region_id":85672205
         }
     ],
     "wof:id":1209050533,
-    "wof:lastmodified":1566696465,
+    "wof:lastmodified":1682602550,
     "wof:name":"Suiri Pemarja",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145337
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.71351999999997,
+    83.71352,
     26.08982,
-    83.71351999999997,
+    83.71352,
     26.08982
 ],
-  "geometry": {"coordinates":[83.71351999999997,26.08982],"type":"Point"}
+  "geometry": {"coordinates":[83.71352,26.08982],"type":"Point"}
 }

@@ -11,12 +11,19 @@
     "geom:longitude":73.913083,
     "gn:population":19703,
     "iso:country":"IN",
-    "lbl:latitude":22.700849,
-    "lbl:longitude":73.91151,
+    "ks:ks_id":"KS605DAF4BC2B143F5B46F4C1D5305F49A",
+    "ks:ks_name":"Devgadbaria",
+    "ks:ks_pop":19202,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2418000641804000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_789616",
+    "lbl:latitude":22.702105,
+    "lbl:longitude":73.914663,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":22.705255,
-    "mps:longitude":73.910523,
+    "mps:latitude":22.702105,
+    "mps:longitude":73.914663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,10 +44,11 @@
         "Devgadbaria"
     ],
     "name:eng_x_preferred":[
-        "Devgadh Baria"
+        "Devgadbaria"
     ],
     "name:eng_x_variant":[
-        "Devgadh Bariya"
+        "Devgadh Bariya",
+        "Devgadh B\u0101riya"
     ],
     "name:fra_x_preferred":[
         "Devgadh Baria"
@@ -117,10 +125,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:latitude":22.702206,
     "wd:longitude":73.915028,
     "wd:wordcount":1707,
@@ -134,13 +144,16 @@
     "wof:concordances":{
         "gn:id":1273104,
         "gp:id":2276469,
+        "ks:id":"KS605DAF4BC2B143F5B46F4C1D5305F49A",
         "qs_pg:id":1210242,
         "wd:id":"Q1263667",
         "wk:page":"Devgadh Baria"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ebadb23805882df0b6e490a458322011",
     "wof:hierarchy":[
@@ -153,11 +166,11 @@
         }
     ],
     "wof:id":102030411,
-    "wof:lastmodified":1658780742,
-    "wof:name":"Devgadh B\u0101riya",
+    "wof:lastmodified":1682524688,
+    "wof:name":"Devgadbaria",
     "wof:parent_id":1108696271,
     "wof:placetype":"locality",
-    "wof:population":19703,
+    "wof:population":19202,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

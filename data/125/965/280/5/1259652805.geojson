@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.59218,20.03319,79.59218,20.03319",
-    "geom:latitude":20.03319,
-    "geom:longitude":79.59218,
+    "geom:bbox":"79.591721,20.032338,79.593069,20.034494",
+    "geom:latitude":20.033339,
+    "geom:longitude":79.592376,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Agri",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.57218,20.01319,79.61218,20.05319",
+    "ks:ks_alt_nam":"Agr\u012b",
+    "ks:ks_id":"KSF1022E6BDE47420DA85B30C74065A9DB",
+    "ks:ks_name":"Agri",
+    "ks:ks_source_id":"N|13032186",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_637480",
+    "lbl:latitude":20.033339,
+    "lbl:longitude":79.592254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.033339,
+    "mps:longitude":79.592254,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0433\u0440\u044b"
@@ -41,6 +50,12 @@
     ],
     "name:deu_x_preferred":[
         "Agri"
+    ],
+    "name:eng_x_preferred":[
+        "Agri"
+    ],
+    "name:eng_x_variant":[
+        "Agr\u012b"
     ],
     "name:epo_x_preferred":[
         "Agri"
@@ -66,7 +81,11 @@
     "name:swe_x_preferred":[
         "Agri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10577732
+        "gn:id":10577732,
+        "ks:id":"KSF1022E6BDE47420DA85B30C74065A9DB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f2f70ed581a972b5f1a880f9fe9bcdcd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c532d3dab3835db48c98cba74c9988df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +112,7 @@
         }
     ],
     "wof:id":1259652805,
-    "wof:lastmodified":1636505857,
+    "wof:lastmodified":1682735033,
     "wof:name":"Agri",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
@@ -99,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.59218,
-    20.03319,
-    79.59218,
-    20.03319
+    79.591721,
+    20.032338,
+    79.593069,
+    20.034494
 ],
-  "geometry": {"coordinates":[79.59218,20.03319],"type":"Point"}
+  "geometry": {"coordinates":[[[79.59253,20.034494],[79.59253,20.033955],[79.592799,20.033955],[79.592799,20.033416],[79.593069,20.033416],[79.593069,20.032338],[79.59253,20.032338],[79.59253,20.032607],[79.59199099999999,20.032607],[79.59199099999999,20.032877],[79.59172100000001,20.032877],[79.59172100000001,20.034224],[79.59226,20.034224],[79.59226,20.034494],[79.59253,20.034494]]],"type":"Polygon"}
 }

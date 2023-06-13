@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.74117,14.53803,74.74117,14.53803",
-    "geom:latitude":14.53803,
-    "geom:longitude":74.74117,
+    "geom:bbox":"74.73756,14.546372,74.738767,14.548001",
+    "geom:latitude":14.547203,
+    "geom:longitude":74.738144,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"563.0",
     "gn:asciiname":"Hangar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.72117,14.51803,74.76117,14.55803",
+    "ks:ks_id":"KSD52721273A7A4FC1AB04810068A3FEA3",
+    "ks:ks_name":"Hanagar",
+    "ks:ks_pop":86,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2910000600747700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_105002",
+    "lbl:latitude":14.547221,
+    "lbl:longitude":74.738156,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.547221,
+    "mps:longitude":74.738156,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0638\u064a\u0631\u0629 \u0637\u0627\u0626\u0631\u0627\u062a"
@@ -49,6 +59,12 @@
         "Hangar"
     ],
     "name:deu_x_preferred":[
+        "Hangar"
+    ],
+    "name:eng_x_preferred":[
+        "Hanagar"
+    ],
+    "name:eng_x_variant":[
         "Hangar"
     ],
     "name:epo_x_preferred":[
@@ -150,37 +166,55 @@
     "name:zho_x_preferred":[
         "\u98de\u673a\u5e93"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672165,
+        890507903
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10978767
+        "gn:id":10978767,
+        "ks:id":"KSD52721273A7A4FC1AB04810068A3FEA3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dd9a8b8db6f44798c89e30d0725bfefd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ca701d909e368d19cbf0662734e22a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209179217
+            "county_id":890507903,
+            "locality_id":1209179217,
+            "region_id":85672165
         }
     ],
     "wof:id":1209179217,
-    "wof:lastmodified":1566696984,
-    "wof:name":"Hangar",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682609736,
+    "wof:name":"Hanagar",
+    "wof:parent_id":890507903,
     "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.74117,
-    14.53803,
-    74.74117,
-    14.53803
+    74.73756,
+    14.546372,
+    74.738767,
+    14.548001
 ],
-  "geometry": {"coordinates":[74.74117,14.53803],"type":"Point"}
+  "geometry": {"coordinates":[[[74.738395,14.548001],[74.738395,14.54791],[74.738488,14.54791],[74.738488,14.54782],[74.73858,14.54782],[74.738581,14.54773],[74.73867300000001,14.54773],[74.738674,14.547368],[74.738767,14.547368],[74.738767,14.546916],[74.73858199999999,14.546916],[74.73858199999999,14.546825],[74.738489,14.546825],[74.738489,14.546645],[74.73839599999999,14.546644],[74.73839599999999,14.546554],[74.738303,14.546554],[74.738304,14.546463],[74.73821100000001,14.546463],[74.73821100000001,14.546373],[74.737747,14.546372],[74.737747,14.546463],[74.73765400000001,14.546463],[74.73765400000001,14.546553],[74.737747,14.546553],[74.737746,14.546825],[74.73765299999999,14.546824],[74.73765299999999,14.546915],[74.73756,14.546915],[74.73756,14.547276],[74.73765299999999,14.547276],[74.737652,14.547729],[74.737745,14.547729],[74.737745,14.547819],[74.737838,14.547819],[74.737838,14.54791],[74.738023,14.54791],[74.738023,14.548],[74.738395,14.548001]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.30041,13.63487,76.30041,13.63487",
-    "geom:latitude":13.63487,
-    "geom:longitude":76.30041,
+    "geom:bbox":"76.299995,13.634128,76.30129,13.635578",
+    "geom:latitude":13.634855,
+    "geom:longitude":76.300644,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"566.0",
     "gn:asciiname":"Koppal",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.28041,13.61487,76.32041,13.65487",
+    "ks:ks_id":"KS48442A68189A43998BA57201DCD73B4A",
+    "ks:ks_name":"Koppalu",
+    "ks:ks_pop":149,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1339159",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_279732",
+    "lbl:latitude":13.634854,
+    "lbl:longitude":76.300644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.634854,
+    "mps:longitude":76.300644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u0644"
@@ -49,6 +59,12 @@
         "Koppal"
     ],
     "name:deu_x_preferred":[
+        "Koppal"
+    ],
+    "name:eng_x_preferred":[
+        "Koppalu"
+    ],
+    "name:eng_x_variant":[
         "Koppal"
     ],
     "name:fra_x_preferred":[
@@ -123,7 +139,13 @@
     "name:zho_x_preferred":[
         "\u79d1\u666e\u5e15\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +154,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10888786
+        "gn:id":10888786,
+        "ks:id":"KS48442A68189A43998BA57201DCD73B4A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e135afd2131d89f6d3c3f84993677e9c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"906af886b93ab0b86038f68519c92226",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +172,22 @@
         }
     ],
     "wof:id":1327308805,
-    "wof:lastmodified":1577749313,
-    "wof:name":"Koppal",
+    "wof:lastmodified":1682912105,
+    "wof:name":"Koppalu",
     "wof:parent_id":890507843,
     "wof:placetype":"locality",
+    "wof:population":149,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.30041,
-    13.63487,
-    76.30041,
-    13.63487
+    76.299995,
+    13.634128,
+    76.30129,
+    13.635578
 ],
-  "geometry": {"coordinates":[76.30041,13.63487],"type":"Point"}
+  "geometry": {"coordinates":[[[76.300647,13.635577],[76.300646,13.635486],[76.300831,13.635485],[76.300831,13.635395],[76.300923,13.635395],[76.300923,13.635304],[76.301107,13.635303],[76.301106,13.635122],[76.301199,13.635122],[76.301198,13.634941],[76.30128999999999,13.634941],[76.301288,13.634489],[76.30119500000001,13.634489],[76.301194,13.634308],[76.301102,13.634309],[76.301101,13.634218],[76.30100899999999,13.634219],[76.30100899999999,13.634128],[76.300639,13.63413],[76.300639,13.634221],[76.30054699999999,13.634221],[76.30054699999999,13.634312],[76.30036200000001,13.634313],[76.300363,13.634403],[76.300271,13.634404],[76.300271,13.634494],[76.300179,13.634494],[76.300179,13.634585],[76.300087,13.634585],[76.300087,13.634676],[76.299995,13.634676],[76.299998,13.635219],[76.30009,13.635218],[76.30009099999999,13.635399],[76.300184,13.635398],[76.300184,13.635489],[76.300369,13.635488],[76.300369,13.635578],[76.300647,13.635577]]],"type":"Polygon"}
 }

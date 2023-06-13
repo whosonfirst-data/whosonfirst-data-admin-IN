@@ -13,12 +13,19 @@
     "gn:longitude":70.28256,
     "gn:population":56354,
     "iso:country":"IN",
-    "lbl:latitude":21.742124,
-    "lbl:longitude":70.277388,
+    "ks:ks_id":"KSE6B6B33910034CE0AD860E11E864CED0",
+    "ks:ks_name":"Upleta",
+    "ks:ks_pop":55438,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2113886",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_661675",
+    "lbl:latitude":21.741136,
+    "lbl:longitude":70.278243,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":21.751889,
-    "mps:longitude":70.315932,
+    "mps:latitude":21.741136,
+    "mps:longitude":70.278243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -119,10 +126,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":39.0,
     "wd:latitude":21.73,
     "wd:longitude":70.28,
@@ -137,13 +146,16 @@
     "wof:concordances":{
         "gn:id":1253736,
         "gp:id":2295092,
+        "ks:id":"KSE6B6B33910034CE0AD860E11E864CED0",
         "qs_pg:id":131088,
         "wd:id":"Q2734950",
         "wk:page":"Upleta"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"e85c579fd823f237b817b4d4aae2349c",
     "wof:hierarchy":[
@@ -156,11 +168,11 @@
         }
     ],
     "wof:id":102028343,
-    "wof:lastmodified":1658780791,
+    "wof:lastmodified":1686162214,
     "wof:name":"Upleta",
     "wof:parent_id":890503575,
     "wof:placetype":"locality",
-    "wof:population":56354,
+    "wof:population":55438,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

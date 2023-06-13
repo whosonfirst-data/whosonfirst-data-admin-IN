@@ -13,12 +13,20 @@
     "gn:longitude":74.03414,
     "gn:population":43758,
     "iso:country":"IN",
-    "lbl:latitude":26.651571,
-    "lbl:longitude":74.031107,
+    "ks:ks_id":"KS8DF87E0D48184AED8679F094EBD676CD",
+    "ks:ks_name":"Merta",
+    "ks:ks_pop":40252,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2104455",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1608587",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.649359,
+    "lbl:longitude":74.032648,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":26.652368,
-    "mps:longitude":74.031372,
+    "mps:latitude":26.649359,
+    "mps:longitude":74.032648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +56,7 @@
         "Merta City"
     ],
     "name:eng_x_preferred":[
-        "Merta City"
+        "Merta"
     ],
     "name:fra_x_preferred":[
         "Merta City"
@@ -142,10 +150,12 @@
     "reversegeo:longitude":74.031107,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191569,
@@ -157,10 +167,15 @@
     "wof:concordances":{
         "gn:id":1263120,
         "gp:id":29067650,
+        "ks:id":"KS8DF87E0D48184AED8679F094EBD676CD",
         "qs_pg:id":844217,
         "wd:id":"Q2544240"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"e4451dce606fa062ecd8f15a33aa228d",
     "wof:hierarchy":[
         {
@@ -172,11 +187,11 @@
         }
     ],
     "wof:id":102029385,
-    "wof:lastmodified":1658780759,
+    "wof:lastmodified":1682523869,
     "wof:name":"Merta",
     "wof:parent_id":890507099,
     "wof:placetype":"locality",
-    "wof:population":43758,
+    "wof:population":40252,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.51333,25.74379,85.51333,25.74379",
-    "geom:latitude":25.74379,
-    "geom:longitude":85.51333,
+    "geom:bbox":"85.511709,25.741041,85.515752,25.746431",
+    "geom:latitude":25.743773,
+    "geom:longitude":85.513359,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Loma",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.49333,25.72379,85.53333,25.76379",
+    "ks:ks_id":"KSCDDD47B9777248FBB70B9D081A1F115B",
+    "ks:ks_name":"Loma",
+    "ks:ks_pop":1631,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|630911",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1369394",
+    "lbl:latitude":25.743957,
+    "lbl:longitude":85.513053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.743957,
+    "mps:longitude":85.513053,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loma"
@@ -69,7 +79,13 @@
     "name:vol_x_preferred":[
         "Loma"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11326992
+        "gn:id":11326992,
+        "ks:id":"KSCDDD47B9777248FBB70B9D081A1F115B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c45b0b22d93287f03ad75d60b64a62bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8976ab53d185823b552cd4fd814e1c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +112,22 @@
         }
     ],
     "wof:id":1293430601,
-    "wof:lastmodified":1566691816,
+    "wof:lastmodified":1682817004,
     "wof:name":"Loma",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":1631,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.51333000000002,
-    25.74379,
-    85.51333000000002,
-    25.74379
+    85.511709,
+    25.741041,
+    85.515752,
+    25.746431
 ],
-  "geometry": {"coordinates":[85.51333000000002,25.74379],"type":"Point"}
+  "geometry": {"coordinates":[[[85.51359600000001,25.746431],[85.51359600000001,25.745892],[85.514135,25.745892],[85.514135,25.746162],[85.514404,25.746162],[85.514404,25.745084],[85.514135,25.745084],[85.514135,25.744275],[85.51575200000001,25.744275],[85.51575200000001,25.743467],[85.514404,25.743467],[85.514404,25.743197],[85.514674,25.743197],[85.514674,25.742658],[85.514943,25.742658],[85.514943,25.742119],[85.514135,25.742119],[85.514135,25.742389],[85.513865,25.742389],[85.513865,25.742928],[85.51332600000001,25.742928],[85.51332600000001,25.742389],[85.512787,25.742389],[85.512787,25.741311],[85.512518,25.741311],[85.512518,25.741041],[85.511979,25.741041],[85.511979,25.741311],[85.511709,25.741311],[85.511709,25.742119],[85.511979,25.742119],[85.511979,25.742658],[85.512248,25.742658],[85.512248,25.743197],[85.511709,25.743197],[85.511709,25.744275],[85.511979,25.744275],[85.511979,25.744814],[85.512518,25.744814],[85.512518,25.745353],[85.512787,25.745353],[85.512787,25.745892],[85.513057,25.745892],[85.513057,25.746431],[85.51359600000001,25.746431]]],"type":"Polygon"}
 }

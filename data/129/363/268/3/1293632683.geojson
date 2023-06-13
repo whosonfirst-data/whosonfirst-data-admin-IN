@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.39526,27.11155,79.39526,27.11155",
-    "geom:latitude":27.11155,
-    "geom:longitude":79.39526,
+    "geom:bbox":"79.394623,27.110693,79.396132,27.112149",
+    "geom:latitude":27.111432,
+    "geom:longitude":79.395385,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Danda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.37526,27.09155,79.41526,27.13155",
+    "ks:ks_id":"KS1FE2E5F4E95B4A9EAA2FC680FB9C1634",
+    "ks:ks_name":"Danda",
+    "ks:ks_pop":590,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|247340",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1745976",
+    "lbl:latitude":27.111426,
+    "lbl:longitude":79.395385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.111426,
+    "mps:longitude":79.395385,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u062f\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Danda"
     ],
     "name:fra_x_preferred":[
         "Da\u1e47\u1e0da"
@@ -54,7 +67,13 @@
     "name:tgl_x_preferred":[
         "Danda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6993912
+        "gn:id":6993912,
+        "ks:id":"KS1FE2E5F4E95B4A9EAA2FC680FB9C1634"
     },
     "wof:country":"IN",
-    "wof:geomhash":"26af10e78dec5748df8d9b64591ea9ec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f83609f4d7ab193d7ca68266f821d920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293632683,
-    "wof:lastmodified":1566689538,
+    "wof:lastmodified":1682825222,
     "wof:name":"Danda",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39526,
-    27.11155,
-    79.39526,
-    27.11155
+    79.394623,
+    27.110693,
+    79.396132,
+    27.112149
 ],
-  "geometry": {"coordinates":[79.39525999999999,27.11155],"type":"Point"}
+  "geometry": {"coordinates":[[[79.395819,27.112149],[79.39582,27.112059],[79.395921,27.11206],[79.39592399999999,27.111879],[79.39602499999999,27.11188],[79.39602600000001,27.11179],[79.39612700000001,27.111791],[79.39613199999999,27.11143],[79.39603099999999,27.111429],[79.396034,27.111249],[79.395933,27.111247],[79.395934,27.111157],[79.395833,27.111156],[79.39583500000001,27.111066],[79.395633,27.111063],[79.395634,27.110973],[79.395533,27.110972],[79.395535,27.110882],[79.39533299999999,27.11088],[79.39533400000001,27.110789],[79.395133,27.110787],[79.395134,27.110697],[79.394831,27.110693],[79.39483,27.110784],[79.394729,27.110782],[79.394727,27.110963],[79.394626,27.110962],[79.394623,27.111142],[79.394724,27.111143],[79.39472000000001,27.111414],[79.39482099999999,27.111415],[79.394818,27.111596],[79.394919,27.111597],[79.394918,27.111687],[79.395019,27.111688],[79.395016,27.111869],[79.395117,27.11187],[79.395116,27.11196],[79.395217,27.111961],[79.39521499999999,27.112052],[79.39531599999999,27.112053],[79.395315,27.112143],[79.395819,27.112149]]],"type":"Polygon"}
 }

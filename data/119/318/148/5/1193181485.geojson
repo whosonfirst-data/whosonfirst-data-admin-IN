@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.58958,24.17069,77.58958,24.17069",
-    "geom:latitude":24.17069,
-    "geom:longitude":77.58958,
+    "geom:bbox":"77.588837,24.169618,77.590724,24.171505",
+    "geom:latitude":24.170548,
+    "geom:longitude":77.589713,
     "gn:admin1_code":"35",
     "gn:admin2_code":"443.0",
     "gn:asciiname":"Anuppur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.56958,24.15069,77.60958,24.19069",
+    "ks:ks_alt_nam":"An\u016bppur",
+    "ks:ks_id":"KS2E1988FD2D3847ADA3C4FF918F7661B6",
+    "ks:ks_name":"Anuppur",
+    "ks:ks_pop":1178,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|42108",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_756479",
+    "lbl:latitude":24.170589,
+    "lbl:longitude":77.589601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.170589,
+    "mps:longitude":77.589601,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0646\u0648\u0628\u0648\u0631"
@@ -46,6 +57,12 @@
         "\u0985\u09a8\u09c1\u09aa\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "An\u016bppur"
+    ],
+    "name:eng_x_preferred":[
+        "Anuppur"
+    ],
+    "name:eng_x_variant":[
         "An\u016bppur"
     ],
     "name:fra_x_preferred":[
@@ -123,7 +140,13 @@
     "name:zho_x_preferred":[
         "\u963f\u52aa\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +155,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10480396
+        "gn:id":10480396,
+        "ks:id":"KS2E1988FD2D3847ADA3C4FF918F7661B6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"07079089044937a1ee94011aaf26dc24",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"266656e7ea68d525f942c710f0d51871",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +173,22 @@
         }
     ],
     "wof:id":1193181485,
-    "wof:lastmodified":1577751204,
+    "wof:lastmodified":1686163572,
     "wof:name":"Anuppur",
     "wof:parent_id":1108696231,
     "wof:placetype":"locality",
+    "wof:population":1178,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.58958,
-    24.17069,
-    77.58958,
-    24.17069
+    77.588837,
+    24.169618,
+    77.590724,
+    24.171505
 ],
-  "geometry": {"coordinates":[77.58958,24.17069],"type":"Point"}
+  "geometry": {"coordinates":[[[77.59018500000001,24.171505],[77.59018500000001,24.170966],[77.59045399999999,24.170966],[77.59045399999999,24.170427],[77.59072399999999,24.170427],[77.59072399999999,24.169618],[77.589646,24.169618],[77.589646,24.169888],[77.588837,24.169888],[77.588837,24.171505],[77.59018500000001,24.171505]]],"type":"Polygon"}
 }

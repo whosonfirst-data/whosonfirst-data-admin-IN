@@ -13,12 +13,21 @@
     "gn:longitude":77.0085,
     "gn:population":88214,
     "iso:country":"IN",
-    "lbl:latitude":10.661838,
-    "lbl:longitude":77.008077,
+    "ks:ks_alt_nam":"Poll\u0101chi",
+    "ks:ks_id":"KS78EE2A79BF0D4031BC95A59F60382074",
+    "ks:ks_name":"Pollachi",
+    "ks:ks_pop":88302,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2108149",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_111975",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.652848,
+    "lbl:longitude":77.014908,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":10.660608,
-    "mps:longitude":76.997681,
+    "mps:latitude":10.652848,
+    "mps:longitude":77.014908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -41,6 +50,9 @@
     "name:eng_x_preferred":[
         "Pollachi"
     ],
+    "name:eng_x_variant":[
+        "Poll\u0101chi"
+    ],
     "name:fra_x_preferred":[
         "Pollachi"
     ],
@@ -48,6 +60,9 @@
         "\u0aaa\u0acb\u0ab2\u0abe\u0a9a\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u092a\u094b\u0932\u093e\u091a\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u092a\u094b\u0932\u094d\u0932\u093e\u091a\u0940"
     ],
     "name:ita_x_preferred":[
@@ -136,10 +151,12 @@
     "reversegeo:longitude":77.008077,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1067,
     "wof:belongsto":[
         102191569,
@@ -151,6 +168,7 @@
     "wof:concordances":{
         "gn:id":1259440,
         "gp:id":29078505,
+        "ks:id":"KS78EE2A79BF0D4031BC95A59F60382074",
         "qs_pg:id":131367,
         "wd:id":"Q298780",
         "wk:page":"Pollachi"
@@ -159,6 +177,10 @@
         "qs_pg:id":131367
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"82a34da77c8448d8ed3b21cf71a0a9b7",
     "wof:hierarchy":[
         {
@@ -170,11 +192,11 @@
         }
     ],
     "wof:id":102028993,
-    "wof:lastmodified":1658780782,
+    "wof:lastmodified":1686162210,
     "wof:name":"Pollachi",
     "wof:parent_id":890502621,
     "wof:placetype":"locality",
-    "wof:population":88214,
+    "wof:population":88302,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

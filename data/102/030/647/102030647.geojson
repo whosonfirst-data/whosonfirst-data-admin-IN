@@ -11,12 +11,20 @@
     "geom:longitude":75.719024,
     "gn:population":271064,
     "iso:country":"IN",
-    "lbl:latitude":16.829332,
-    "lbl:longitude":75.714611,
+    "ks:ks_alt_nam":"Vijayapura",
+    "ks:ks_id":"KS4D8E27DFE4B64168A983BB7E92B1033F",
+    "ks:ks_name":"Bijapur",
+    "ks:ks_pop":228175,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2903000140301000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_360805",
+    "lbl:latitude":16.828949,
+    "lbl:longitude":75.71919,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":16.831387,
-    "mps:longitude":75.713075,
+    "mps:latitude":16.828949,
+    "mps:longitude":75.71919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -62,7 +70,8 @@
     ],
     "name:eng_x_variant":[
         "Vijayapur",
-        "Visiapur"
+        "Visiapur",
+        "Vijayapura"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062c\u0627\u067e\u0648\u0631"
@@ -333,10 +342,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":7047,
     "wof:belongsto":[
         102191569,
@@ -349,13 +360,16 @@
         "fct:id":"122d628e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1275701,
         "gp:id":2295207,
+        "ks:id":"KS4D8E27DFE4B64168A983BB7E92B1033F",
         "qs_pg:id":273921,
         "wd:id":"Q3636023",
         "wk:page":"Bijapur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f5865b130cef5b5f60fef6e506885437",
     "wof:hierarchy":[
@@ -371,11 +385,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780741,
+    "wof:lastmodified":1686162188,
     "wof:name":"Bijapur",
     "wof:parent_id":1108696327,
     "wof:placetype":"locality",
-    "wof:population":271064,
+    "wof:population":228175,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

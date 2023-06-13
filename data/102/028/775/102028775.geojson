@@ -13,12 +13,21 @@
     "gn:longitude":75.78388,
     "gn:population":24931,
     "iso:country":"IN",
-    "lbl:latitude":12.945809,
-    "lbl:longitude":75.784938,
+    "ks:ks_alt_nam":"Sakaleshpura",
+    "ks:ks_id":"KS130C1644435446FAA521F2BF0081E278",
+    "ks:ks_name":"Sakleshpur",
+    "ks:ks_pop":23176,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000142301000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_264151",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":12.941202,
+    "lbl:longitude":75.78167,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":12.945676,
-    "mps:longitude":75.789185,
+    "mps:latitude":12.941202,
+    "mps:longitude":75.78167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Sakleshpur"
+    ],
+    "name:eng_x_variant":[
+        "Sakaleshpura"
     ],
     "name:fra_x_preferred":[
         "Sakleshpur"
@@ -121,10 +133,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1677,
     "wof:belongsto":[
         102191569,
@@ -136,13 +150,16 @@
     "wof:concordances":{
         "gn:id":1257698,
         "gp:id":29212563,
+        "ks:id":"KS130C1644435446FAA521F2BF0081E278",
         "qs_pg:id":131289,
         "wd:id":"Q2475072",
         "wk:page":"Sakleshpur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5322022e8f0a266b24abdb190d7b1c5a",
     "wof:hierarchy":[
@@ -155,11 +172,11 @@
         }
     ],
     "wof:id":102028775,
-    "wof:lastmodified":1658780789,
+    "wof:lastmodified":1682523470,
     "wof:name":"Sakleshpur",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
-    "wof:population":24931,
+    "wof:population":23176,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.47265,26.496,82.47265,26.496",
-    "geom:latitude":26.496,
-    "geom:longitude":82.47265,
+    "geom:bbox":"82.471561,26.495055,82.473479,26.496677",
+    "geom:latitude":26.495884,
+    "geom:longitude":82.472469,
     "gn:admin1_code":"36",
     "gn:admin2_code":"178.0",
     "gn:asciiname":"Firozpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.45265,26.476,82.49265,26.516",
+    "ks:ks_id":"KS9D52F90C053A443A97950FC7C54AFAE5",
+    "ks:ks_name":"Firojpur",
+    "ks:ks_pop":194,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|330728",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1961563",
+    "lbl:latitude":26.495834,
+    "lbl:longitude":82.472451,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.495834,
+    "mps:longitude":82.472451,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0648\u0632 \u0628\u0648\u0631"
@@ -55,6 +65,12 @@
         "F\u012brozpur"
     ],
     "name:deu_x_preferred":[
+        "Firozpur"
+    ],
+    "name:eng_x_preferred":[
+        "Firojpur"
+    ],
+    "name:eng_x_variant":[
         "Firozpur"
     ],
     "name:fas_x_preferred":[
@@ -153,7 +169,13 @@
     "name:zho_x_preferred":[
         "\u83f2\u5965\u5179\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -162,10 +184,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10616497
+        "gn:id":10616497,
+        "ks:id":"KS9D52F90C053A443A97950FC7C54AFAE5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6d61f3ad8631ce56deabd2175d71d2b2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b6ee2ba5a34b00c08c4b1249e6af130f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,20 +202,22 @@
         }
     ],
     "wof:id":1259831983,
-    "wof:lastmodified":1577753735,
-    "wof:name":"Firozpur",
+    "wof:lastmodified":1682740824,
+    "wof:name":"Firojpur",
     "wof:parent_id":1108695849,
     "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.47265,
-    26.496,
-    82.47265,
-    26.496
+    82.471561,
+    26.495055,
+    82.473479,
+    26.496677
 ],
-  "geometry": {"coordinates":[82.47265,26.496],"type":"Point"}
+  "geometry": {"coordinates":[[[82.473181,26.496675],[82.47318,26.496584],[82.47328,26.496583],[82.47327900000001,26.496493],[82.47338000000001,26.496492],[82.473378,26.496402],[82.473479,26.496401],[82.47347499999999,26.49613],[82.473375,26.496131],[82.47337400000001,26.496041],[82.47327300000001,26.496042],[82.47327,26.495771],[82.47317,26.495772],[82.473167,26.495591],[82.473067,26.495592],[82.47306500000001,26.495412],[82.472964,26.495413],[82.472962,26.495232],[82.47286200000001,26.495233],[82.47286099999999,26.495143],[82.47266,26.495145],[82.47265899999999,26.495055],[82.472358,26.495058],[82.472359,26.495148],[82.471858,26.495154],[82.47185899999999,26.495244],[82.47165800000001,26.495246],[82.47166199999999,26.495517],[82.47156099999999,26.495518],[82.471565,26.495788],[82.471665,26.495787],[82.47166799999999,26.496058],[82.471568,26.496059],[82.47157199999999,26.49633],[82.471772,26.496328],[82.471773,26.496418],[82.471974,26.496416],[82.471975,26.496506],[82.472577,26.4965],[82.472578,26.49659],[82.472979,26.496586],[82.472981,26.496677],[82.473181,26.496675]]],"type":"Polygon"}
 }

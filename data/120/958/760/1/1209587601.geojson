@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.46691,20.22978,77.46691,20.22978",
-    "geom:latitude":20.22978,
-    "geom:longitude":77.46691,
+    "geom:bbox":"77.464056,20.229943,77.465884,20.231941",
+    "geom:latitude":20.230878,
+    "geom:longitude":77.464964,
     "gn:admin1_code":"16",
     "gn:admin2_code":"502.0",
     "gn:asciiname":"Halad",
@@ -24,46 +24,80 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.44691,20.20978,77.48691,20.24978",
+    "ks:ks_id":"KS37C1F479D6E547CD88FB350DE84753B1",
+    "ks:ks_name":"Halada",
+    "ks:ks_pop":448,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|392860",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_869886",
+    "lbl:latitude":20.230841,
+    "lbl:longitude":77.464947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.230841,
+    "mps:longitude":77.464947,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Halada"
+    ],
+    "name:eng_x_variant":[
+        "Halad"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0644\u062f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        1108696291
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10514135
+        "gn:id":10514135,
+        "ks:id":"KS37C1F479D6E547CD88FB350DE84753B1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"aa5b50743db731d424132687a7889bde",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac63a6245d90063d24ba95648759a477",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209587601
+            "county_id":1108696291,
+            "locality_id":1209587601,
+            "region_id":85672171
         }
     ],
     "wof:id":1209587601,
-    "wof:lastmodified":1566696318,
-    "wof:name":"Halad",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682625504,
+    "wof:name":"Halada",
+    "wof:parent_id":1108696291,
     "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.46691,
-    20.22978,
-    77.46691,
-    20.22978
+    77.464056,
+    20.229943,
+    77.465884,
+    20.231941
 ],
-  "geometry": {"coordinates":[77.46691,20.22978],"type":"Point"}
+  "geometry": {"coordinates":[[[77.465228,20.231935],[77.465227,20.231844],[77.465323,20.231843],[77.465321,20.231753],[77.465417,20.231751],[77.465413,20.23148],[77.465508,20.231479],[77.465507,20.231389],[77.465602,20.231388],[77.46560100000001,20.231297],[77.46569700000001,20.231296],[77.465694,20.231115],[77.465789,20.231114],[77.465788,20.231024],[77.465884,20.231022],[77.465872,20.2303],[77.465777,20.230301],[77.465774,20.230121],[77.465678,20.230122],[77.465677,20.230032],[77.465581,20.230033],[77.46558,20.229943],[77.46491,20.229952],[77.464912,20.230043],[77.464529,20.230048],[77.46453,20.230138],[77.464339,20.230141],[77.464341,20.230231],[77.46424500000001,20.230233],[77.464246,20.230323],[77.464151,20.230324],[77.464152,20.230415],[77.464056,20.230416],[77.464068,20.231138],[77.464163,20.231137],[77.464169,20.231498],[77.464265,20.231497],[77.46426599999999,20.231587],[77.46436199999999,20.231586],[77.46436300000001,20.231676],[77.46445900000001,20.231674],[77.46446,20.231765],[77.464556,20.231763],[77.464557,20.231854],[77.464749,20.231851],[77.46475,20.231941],[77.465228,20.231935]]],"type":"Polygon"}
 }

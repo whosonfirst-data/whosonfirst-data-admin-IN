@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.77871,26.03868,81.77871,26.03868",
-    "geom:latitude":26.03868,
-    "geom:longitude":81.77871,
+    "geom:bbox":"81.776269,26.032834,81.77747,26.034193",
+    "geom:latitude":26.033471,
+    "geom:longitude":81.776825,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Kishangarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.75871,26.01868,81.79871,26.05868",
+    "ks:ks_id":"KS785252134FF64454A72B484C7ADF904B",
+    "ks:ks_name":"Kishungarh",
+    "ks:ks_pop":117,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1177444",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1929525",
+    "lbl:latitude":26.033445,
+    "lbl:longitude":81.776813,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.033445,
+    "mps:longitude":81.776813,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0634\u0627\u0646\u063a\u0627\u0631"
@@ -55,6 +65,12 @@
         "Kishangarh"
     ],
     "name:deu_x_preferred":[
+        "Kishangarh"
+    ],
+    "name:eng_x_preferred":[
+        "Kishungarh"
+    ],
+    "name:eng_x_variant":[
         "Kishangarh"
     ],
     "name:fas_x_preferred":[
@@ -126,43 +142,55 @@
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10e8\u10d0\u10dc\u10d2\u10d0\u10e0\u10f0\u10d8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
         85672205,
-        890505631
+        1108695839
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10591649
+        "gn:id":10591649,
+        "ks:id":"KS785252134FF64454A72B484C7ADF904B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0c58103486553a9e98b757086c6f6f22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c230eac572e982c15ac4a05b99d5a63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632469,
-            "county_id":890505631,
+            "county_id":1108695839,
             "locality_id":1326869317,
             "region_id":85672205
         }
     ],
     "wof:id":1326869317,
-    "wof:lastmodified":1576020570,
-    "wof:name":"Kishangarh",
-    "wof:parent_id":890505631,
+    "wof:lastmodified":1682892260,
+    "wof:name":"Kishungarh",
+    "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.77871,
-    26.03868,
-    81.77871,
-    26.03868
+    81.776269,
+    26.032834,
+    81.77747,
+    26.034193
 ],
-  "geometry": {"coordinates":[81.77871,26.03868],"type":"Point"}
+  "geometry": {"coordinates":[[[81.777075,26.034099],[81.777074,26.033918],[81.777174,26.033918],[81.777173,26.033828],[81.77727299999999,26.033827],[81.777272,26.033737],[81.777372,26.033736],[81.77737,26.033375],[81.77746999999999,26.033375],[81.777468,26.033104],[81.777368,26.033104],[81.777368,26.033014],[81.77726800000001,26.033014],[81.77726699999999,26.032924],[81.77716700000001,26.032925],[81.77716700000001,26.032834],[81.776567,26.032838],[81.776567,26.032928],[81.77646799999999,26.032928],[81.77646799999999,26.033019],[81.77636800000001,26.033019],[81.776369,26.03311],[81.776269,26.03311],[81.776274,26.033832],[81.776374,26.033832],[81.776375,26.034012],[81.776475,26.034012],[81.776476,26.034193],[81.776876,26.03419],[81.776875,26.0341],[81.777075,26.034099]]],"type":"Polygon"}
 }

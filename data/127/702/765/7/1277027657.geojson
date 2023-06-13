@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.2576,25.32887,85.2576,25.32887",
-    "geom:latitude":25.32887,
-    "geom:longitude":85.2576,
+    "geom:bbox":"85.256981,25.327934,85.258878,25.329295",
+    "geom:latitude":25.328634,
+    "geom:longitude":85.257846,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Kawa",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.2376,25.30887,85.2776,25.34887",
+    "ks:ks_alt_nam":"K\u0101wa",
+    "ks:ks_id":"KS9DA33100453E4158929A5C993F796EAB",
+    "ks:ks_name":"Kawa",
+    "ks:ks_pop":595,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|528240",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2068965",
+    "lbl:latitude":25.328617,
+    "lbl:longitude":85.257846,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.328617,
+    "mps:longitude":85.257846,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kawa"
     ],
     "name:deu_x_preferred":[
         "Kawa"
+    ],
+    "name:eng_x_preferred":[
+        "Kawa"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101wa"
     ],
     "name:fra_x_preferred":[
         "Kawa"
@@ -48,7 +65,13 @@
     "name:swe_x_preferred":[
         "Kawa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028359
+        "gn:id":11028359,
+        "ks:id":"KS9DA33100453E4158929A5C993F796EAB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"685da798923f2a7862658d392579fbf2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"073dc364c7c5b9415be4d3bdf5d60817",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +98,22 @@
         }
     ],
     "wof:id":1277027657,
-    "wof:lastmodified":1566693265,
+    "wof:lastmodified":1682794085,
     "wof:name":"Kawa",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":595,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.2576,
-    25.32887,
-    85.2576,
-    25.32887
+    85.256981,
+    25.327934,
+    85.258878,
+    25.329295
 ],
-  "geometry": {"coordinates":[85.2576,25.32887],"type":"Point"}
+  "geometry": {"coordinates":[[[85.257974,25.329295],[85.257976,25.329205],[85.258571,25.329212],[85.258573,25.329122],[85.258672,25.329123],[85.258673,25.329033],[85.25877300000001,25.329034],[85.25877699999999,25.328763],[85.258876,25.328764],[85.258878,25.328584],[85.258779,25.328583],[85.258782,25.328402],[85.25868199999999,25.328401],[85.258684,25.328311],[85.258584,25.328309],[85.25858599999999,25.328219],[85.258486,25.328218],[85.258488,25.328128],[85.258388,25.328126],[85.25839000000001,25.328036],[85.258092,25.328033],[85.258093,25.327942],[85.25739799999999,25.327934],[85.257396,25.328024],[85.257198,25.328022],[85.25719700000001,25.328112],[85.257097,25.328111],[85.257096,25.328201],[85.256997,25.3282],[85.256981,25.329283],[85.257279,25.329287],[85.25727999999999,25.329197],[85.257678,25.329201],[85.257676,25.329292],[85.257974,25.329295]]],"type":"Polygon"}
 }

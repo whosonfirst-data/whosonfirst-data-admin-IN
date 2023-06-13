@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.11783,30.70901,76.11783,30.70901",
-    "geom:latitude":30.70901,
-    "geom:longitude":76.11783,
+    "geom:bbox":"76.115486,30.707253,76.118631,30.709862",
+    "geom:latitude":30.708621,
+    "geom:longitude":76.117056,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"041",
     "gn:asciiname":"Ghazipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.09783,30.68901,76.13783,30.72901",
+    "ks:ks_id":"KS0FE8BA6F40EA4A94B9AB42938BD53637",
+    "ks:ks_name":"Gazipur",
+    "ks:ks_pop":636,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|352958",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2648484",
+    "lbl:latitude":30.708517,
+    "lbl:longitude":76.117026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.708517,
+    "mps:longitude":76.117026,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0632\u0628\u0648\u0631"
@@ -52,6 +62,12 @@
         "Gh\u0101z\u012bpur"
     ],
     "name:deu_x_preferred":[
+        "Ghazipur"
+    ],
+    "name:eng_x_preferred":[
+        "Gazipur"
+    ],
+    "name:eng_x_variant":[
         "Ghazipur"
     ],
     "name:fra_x_preferred":[
@@ -138,7 +154,13 @@
     "name:zho_x_preferred":[
         "\u52a0\u9f50\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -147,10 +169,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1436597
+        "gn:id":1436597,
+        "ks:id":"KS0FE8BA6F40EA4A94B9AB42938BD53637"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c1ca340f719d9015e6b22503ab9fdd12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc21414257594a218bb3a26062fb24d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,20 +187,22 @@
         }
     ],
     "wof:id":1209062381,
-    "wof:lastmodified":1577750731,
-    "wof:name":"Ghazipur",
+    "wof:lastmodified":1682603817,
+    "wof:name":"Gazipur",
     "wof:parent_id":890503583,
     "wof:placetype":"locality",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.11783,
-    30.70901,
-    76.11783,
-    30.70901
+    76.115486,
+    30.707253,
+    76.118631,
+    30.709862
 ],
-  "geometry": {"coordinates":[76.11783,30.70901],"type":"Point"}
+  "geometry": {"coordinates":[[[76.118217,30.70986],[76.118216,30.70977],[76.118529,30.709767],[76.118527,30.709587],[76.11863099999999,30.709586],[76.11863,30.709495],[76.118526,30.709496],[76.11851799999999,30.708865],[76.118414,30.708866],[76.118402,30.707783],[76.118297,30.707784],[76.118296,30.707694],[76.11819199999999,30.707695],[76.118191,30.707604],[76.11808600000001,30.707605],[76.11808499999999,30.707515],[76.117981,30.707516],[76.11798,30.707426],[76.117666,30.707429],[76.117665,30.707338],[76.117143,30.707343],[76.117142,30.707253],[76.116516,30.707258],[76.116517,30.707348],[76.116308,30.70735],[76.116309,30.70744],[76.1161,30.707442],[76.116101,30.707532],[76.11599699999999,30.707533],[76.115999,30.707714],[76.11589499999999,30.707714],[76.115897,30.707895],[76.115792,30.707896],[76.11579399999999,30.708076],[76.11569,30.708077],[76.11569299999999,30.708348],[76.115589,30.708349],[76.11559099999999,30.708529],[76.115486,30.70853],[76.115494,30.709162],[76.11559800000001,30.709161],[76.1156,30.709341],[76.11570399999999,30.70934],[76.115708,30.709611],[76.11581200000001,30.70961],[76.115814,30.70979],[76.116336,30.709786],[76.11633500000001,30.709696],[76.116753,30.709692],[76.116754,30.709782],[76.11800700000001,30.709772],[76.118008,30.709862],[76.118217,30.70986]]],"type":"Polygon"}
 }

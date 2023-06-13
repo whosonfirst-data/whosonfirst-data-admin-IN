@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.981,24.11837,87.981,24.11837",
-    "geom:latitude":24.11837,
-    "geom:longitude":87.981,
+    "geom:bbox":"87.98028,24.117875,87.981627,24.119492",
+    "geom:latitude":24.118723,
+    "geom:longitude":87.981017,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"333.0",
     "gn:asciiname":"Chhatrapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.961,24.09837,88.001,24.13837",
+    "ks:ks_id":"KSDB5915A733744FFFB26E02FB01818575",
+    "ks:ks_name":"Chhatrapur",
+    "ks:ks_pop":237,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|217640",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1267621",
+    "lbl:latitude":24.118819,
+    "lbl:longitude":87.98095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.118819,
+    "mps:longitude":87.98095,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099b\u09a4\u09cd\u09b0\u09aa\u09c1\u09b0"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Chatrapur"
+    ],
+    "name:eng_x_preferred":[
+        "Chhatrapur"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u062a\u0631\u0627\u067e\u0648\u0631"
@@ -96,7 +109,13 @@
     "name:zho_x_preferred":[
         "\u6070\u7279\u62c9\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11019411
+        "gn:id":11019411,
+        "ks:id":"KSDB5915A733744FFFB26E02FB01818575"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fb46c7dcfe0bca2cadecd39666aec80c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e43e488aed66d022c76accceec8fd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +142,22 @@
         }
     ],
     "wof:id":1209877555,
-    "wof:lastmodified":1566696689,
+    "wof:lastmodified":1682636882,
     "wof:name":"Chhatrapur",
     "wof:parent_id":890511015,
     "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.98100000000002,
-    24.11837,
-    87.98100000000002,
-    24.11837
+    87.98028,
+    24.117875,
+    87.981627,
+    24.119492
 ],
-  "geometry": {"coordinates":[87.98100000000002,24.11837],"type":"Point"}
+  "geometry": {"coordinates":[[[87.980549,24.119492],[87.981088,24.119492],[87.981088,24.119223],[87.981358,24.119223],[87.981358,24.118684],[87.981627,24.118684],[87.981627,24.117875],[87.981358,24.117875],[87.981358,24.118145],[87.980819,24.118145],[87.980819,24.118414],[87.980549,24.118414],[87.980549,24.118684],[87.98027999999999,24.118684],[87.98027999999999,24.118953],[87.980549,24.118953],[87.980549,24.119492]]],"type":"Polygon"}
 }

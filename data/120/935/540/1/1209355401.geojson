@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10890710
     },
     "wof:country":"IN",
-    "wof:geomhash":"d6c06404ea329a61a93e4b8e5c819862",
+    "wof:geomhash":"ebe4b81de7cf018ff358c19c65e2d0e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209355401
+            "county_id":1108695901,
+            "locality_id":1209355401,
+            "region_id":85672225
         }
     ],
     "wof:id":1209355401,
-    "wof:lastmodified":1566696187,
+    "wof:lastmodified":1682615191,
     "wof:name":"Sirajpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847143133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.44124000000002,
-    26.16012000000001,
-    86.44124000000002,
-    26.16012000000001
+    86.44124,
+    26.16012,
+    86.44124,
+    26.16012
 ],
-  "geometry": {"coordinates":[86.44124000000002,26.16012000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.44123999999999,26.16012],"type":"Point"}
 }

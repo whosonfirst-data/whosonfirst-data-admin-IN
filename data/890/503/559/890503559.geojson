@@ -14,11 +14,20 @@
     "gn:population":77772,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"77.32152,9.05277,77.36152,9.09277",
-    "lbl:latitude":9.080908,
-    "lbl:longitude":77.346603,
+    "ks:ks_id":"KS9478E32196044F72ABB9006ACD2418F8",
+    "ks:ks_name":"Kadayanallur",
+    "ks:ks_pop":75612,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3329000442908000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_12361",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":9.084992,
+    "lbl:longitude":77.347821,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":9.084992,
+    "mps:longitude":77.347821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Kadayanallur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0926\u092f\u093e\u0928\u0932\u094d\u0932\u0941\u0930"
     ],
     "name:ita_x_preferred":[
         "Kadayanallur"
@@ -84,10 +96,12 @@
     "reversegeo:longitude":77.346603,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":825,
     "wof:belongsto":[
         102191569,
@@ -99,12 +113,17 @@
     "wof:concordances":{
         "gn:id":1268707,
         "gp:id":2295364,
+        "ks:id":"KS9478E32196044F72ABB9006ACD2418F8",
         "qs_pg:id":785557,
         "wd:id":"Q2445990",
         "wk:page":"Kadayanallur"
     },
     "wof:country":"IN",
     "wof:created":1469055389,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"7f74de9f91e397a304a50414de03ac30",
     "wof:hierarchy":[
         {
@@ -116,11 +135,11 @@
         }
     ],
     "wof:id":890503559,
-    "wof:lastmodified":1658780796,
+    "wof:lastmodified":1686163904,
     "wof:name":"Kadayanallur",
     "wof:parent_id":890507455,
     "wof:placetype":"locality",
-    "wof:population":77772,
+    "wof:population":75612,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

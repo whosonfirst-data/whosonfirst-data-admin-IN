@@ -13,12 +13,20 @@
     "gn:longitude":75.47585,
     "gn:population":32405,
     "iso:country":"IN",
-    "lbl:latitude":31.127453,
-    "lbl:longitude":75.479447,
+    "ks:ks_id":"KSBAD6A2A7AB1B4A1C85D7FF78AAC022D7",
+    "ks:ks_name":"Nakodar",
+    "ks:ks_pop":1062,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13135977",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2667051",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":31.126629,
+    "lbl:longitude":75.480941,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":31.123497,
-    "mps:longitude":75.476074,
+    "mps:latitude":31.126629,
+    "mps:longitude":75.480941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -127,10 +135,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1020,
     "wof:belongsto":[
         102191569,
@@ -142,13 +152,16 @@
     "wof:concordances":{
         "gn:id":1262097,
         "gp:id":29058263,
+        "ks:id":"KSBAD6A2A7AB1B4A1C85D7FF78AAC022D7",
         "qs_pg:id":1030497,
         "wd:id":"Q2546657",
         "wk:page":"Nakodar"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"a84c5b03e922046710273bed3da42b7d",
     "wof:hierarchy":[
@@ -161,12 +174,12 @@
         }
     ],
     "wof:id":102029269,
-    "wof:lastmodified":1658780757,
+    "wof:lastmodified":1682523791,
     "wof:name":"Nakodar",
     "wof:parent_id":890507875,
     "wof:placetype":"locality",
-    "wof:population":32405,
-    "wof:population_rank":7,
+    "wof:population":1062,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

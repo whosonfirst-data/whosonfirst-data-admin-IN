@@ -13,12 +13,20 @@
     "gn:longitude":90.27286,
     "gn:population":31971,
     "iso:country":"IN",
-    "lbl:latitude":26.401006,
-    "lbl:longitude":90.268801,
+    "ks:ks_id":"KSE6D3C6B09B914C03947E607971BF5CFB",
+    "ks:ks_name":"Kokrajhar",
+    "ks:ks_pop":31164,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1801000440102000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2233730",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.404294,
+    "lbl:longitude":90.270613,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":26.39679,
-    "mps:longitude":90.258179,
+    "mps:latitude":26.404294,
+    "mps:longitude":90.270613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -60,11 +68,11 @@
         "\u0a95\u0acb\u0a95\u0ab0\u0abe\u0a9d\u0abe\u0ab0"
     ],
     "name:hin_x_preferred":[
-        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u095c"
+        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u0930"
     ],
     "name:hin_x_variant":[
-        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u0930",
-        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u0921\u093c \u091c\u093f\u0932\u093e"
+        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u0921\u093c \u091c\u093f\u0932\u093e",
+        "\u0915\u094b\u0915\u0930\u093e\u091d\u093e\u095c"
     ],
     "name:ita_x_preferred":[
         "Kokrajhar"
@@ -185,10 +193,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":585,
     "wof:belongsto":[
         102191569,
@@ -201,13 +211,16 @@
         "fct:id":"122dc8b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1266330,
         "gp:id":2289286,
+        "ks:id":"KSE6D3C6B09B914C03947E607971BF5CFB",
         "qs_pg:id":131749,
         "wd:id":"Q2728994",
         "wk:page":"Kokrajhar"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"e91e77b3bfe3f2ab54747bda1a18650a",
     "wof:hierarchy":[
@@ -223,11 +236,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780751,
+    "wof:lastmodified":1686162194,
     "wof:name":"Kokrajhar",
     "wof:parent_id":890507091,
     "wof:placetype":"locality",
-    "wof:population":31971,
+    "wof:population":31164,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

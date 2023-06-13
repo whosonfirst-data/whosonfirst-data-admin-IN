@@ -11,12 +11,21 @@
     "geom:longitude":73.861824,
     "gn:population":23161,
     "iso:country":"IN",
-    "lbl:latitude":18.761822,
-    "lbl:longitude":73.862636,
+    "ks:ks_alt_nam":"Ch\u0101kan",
+    "ks:ks_id":"KSDB9A80E8D66F427BA3AF5BC0AD2EEA14",
+    "ks:ks_name":"Chakan",
+    "ks:ks_pop":21680,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2092601",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_427247",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":18.751371,
+    "lbl:longitude":73.817892,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":18.763687,
-    "mps:longitude":73.857328,
+    "mps:latitude":18.751371,
+    "mps:longitude":73.817892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Chakan"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101kan"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u06a9\u0646"
@@ -93,10 +105,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":767,
     "wof:belongsto":[
         102191569,
@@ -108,13 +122,16 @@
     "wof:concordances":{
         "gn:id":1274914,
         "gp:id":2292773,
+        "ks:id":"KSDB9A80E8D66F427BA3AF5BC0AD2EEA14",
         "qs_pg:id":913476,
         "wd:id":"Q1020740",
         "wk:page":"Chakan, Maharashtra"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f3219f35aa03786f6a27350047233580",
     "wof:hierarchy":[
@@ -127,11 +144,11 @@
         }
     ],
     "wof:id":102030571,
-    "wof:lastmodified":1658780746,
-    "wof:name":"Ch\u0101kan",
+    "wof:lastmodified":1682524830,
+    "wof:name":"Chakan",
     "wof:parent_id":890510133,
     "wof:placetype":"locality",
-    "wof:population":23161,
+    "wof:population":21680,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

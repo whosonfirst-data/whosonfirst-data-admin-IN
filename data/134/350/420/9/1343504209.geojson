@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.324,21.18978,82.324,21.18978",
-    "geom:latitude":21.18978,
-    "geom:longitude":82.324,
+    "geom:bbox":"82.323049,21.189278,82.324127,21.190625",
+    "geom:latitude":21.189952,
+    "geom:longitude":82.323681,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Bhatapara",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.304,21.16978,82.344,21.20978",
+    "ks:ks_alt_nam":"Bh\u0101t\u0101p\u0101ra",
+    "ks:ks_id":"KSA06151B9CE2446108AC9CA4711AB5EDF",
+    "ks:ks_name":"Bhatapara",
+    "ks:ks_source_id":"N|13143604",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_996287",
+    "lbl:latitude":21.190075,
+    "lbl:longitude":82.323745,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.190075,
+    "mps:longitude":82.323745,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09a4\u09be\u09aa\u09be\u09b0\u09be"
@@ -38,6 +47,15 @@
     ],
     "name:ceb_x_preferred":[
         "Bh\u0101t\u0101p\u0101ra"
+    ],
+    "name:eng_x_preferred":[
+        "Bhatapara"
+    ],
+    "name:eng_x_variant":[
+        "Bh\u0101t\u0101p\u0101ra"
+    ],
+    "name:hin_x_preferred":[
+        "\u092d\u093e\u091f\u093e\u092a\u093e\u095c\u093e"
     ],
     "name:ita_x_preferred":[
         "Bhatapara"
@@ -66,7 +84,11 @@
     "name:zho_x_preferred":[
         "\u5df4\u5854\u5e15\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10709271
+        "gn:id":10709271,
+        "ks:id":"KSA06151B9CE2446108AC9CA4711AB5EDF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"83eb7dca068c2a089e62a4540ba8e242",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"53f4fcc6c62851e03f7f77d4ea09aa2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +115,7 @@
         }
     ],
     "wof:id":1343504209,
-    "wof:lastmodified":1566687465,
+    "wof:lastmodified":1686162305,
     "wof:name":"Bhatapara",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
@@ -99,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.324,
-    21.18978,
-    82.324,
-    21.18978
+    82.323049,
+    21.189278,
+    82.324127,
+    21.190625
 ],
-  "geometry": {"coordinates":[82.324,21.18978],"type":"Point"}
+  "geometry": {"coordinates":[[[82.323858,21.190625],[82.323858,21.190356],[82.324127,21.190356],[82.324127,21.189278],[82.323588,21.189278],[82.323588,21.189817],[82.323049,21.189817],[82.323049,21.190356],[82.323588,21.190356],[82.323588,21.190625],[82.323858,21.190625]]],"type":"Polygon"}
 }

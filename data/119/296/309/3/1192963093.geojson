@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.77955,25.14973,85.77955,25.14973",
-    "geom:latitude":25.14973,
-    "geom:longitude":85.77955,
+    "geom:bbox":"85.77797,25.147884,85.781473,25.150848",
+    "geom:latitude":25.149535,
+    "geom:longitude":85.779669,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"228.0",
     "gn:asciiname":"Pain",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.75955,25.12973,85.79955,25.16973",
+    "ks:ks_id":"KS78B5FBEEA3F348C5ADC56319B21EED4A",
+    "ks:ks_name":"Pain",
+    "ks:ks_pop":3827,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|806329",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1334122",
+    "lbl:latitude":25.149566,
+    "lbl:longitude":85.779636,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.149566,
+    "mps:longitude":85.779636,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645"
@@ -71,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pain"
     ],
     "name:epo_x_preferred":[
         "Doloro"
@@ -246,7 +259,13 @@
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d9\u05d9\u05d8\u05d0\u05d2"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -255,10 +274,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10842681
+        "gn:id":10842681,
+        "ks:id":"KS78B5FBEEA3F348C5ADC56319B21EED4A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"eec31ab67f068c0f2a9605be5887ca04",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"caf3b58fd7932dec8db783c1024f0646",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -269,20 +292,22 @@
         }
     ],
     "wof:id":1192963093,
-    "wof:lastmodified":1566698155,
+    "wof:lastmodified":1682580041,
     "wof:name":"Pain",
     "wof:parent_id":1108695937,
     "wof:placetype":"locality",
+    "wof:population":3827,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.77955,
-    25.14973,
-    85.77955,
-    25.14973
+    85.77797,
+    25.147884,
+    85.781473,
+    25.150848
 ],
-  "geometry": {"coordinates":[85.77955,25.14973],"type":"Point"}
+  "geometry": {"coordinates":[[[85.781204,25.150848],[85.781204,25.14977],[85.78147300000001,25.14977],[85.78147300000001,25.148962],[85.781204,25.148962],[85.781204,25.148692],[85.780665,25.148692],[85.780665,25.148423],[85.780126,25.148423],[85.780126,25.147884],[85.779048,25.147884],[85.779048,25.148153],[85.778778,25.148153],[85.778778,25.148423],[85.778239,25.148423],[85.778239,25.149231],[85.77797,25.149231],[85.77797,25.150309],[85.778239,25.150309],[85.778239,25.150848],[85.781204,25.150848]]],"type":"Polygon"}
 }

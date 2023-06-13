@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.73076,25.88304,87.73076,25.88304",
-    "geom:latitude":25.88304,
-    "geom:longitude":87.73076,
+    "geom:bbox":"87.730458,25.882526,87.731267,25.883334",
+    "geom:latitude":25.882896,
+    "geom:longitude":87.730829,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"211.0",
     "gn:asciiname":"Majhua",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.71076,25.86304,87.75076,25.90304",
+    "ks:ks_id":"KS58CEB31284ED425E8FF087E1A829E462",
+    "ks:ks_name":"Majhua",
+    "ks:ks_pop":1312,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13502143",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1568913",
+    "lbl:latitude":25.882833,
+    "lbl:longitude":87.730796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.882833,
+    "mps:longitude":87.730796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Majhua"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996692
+        "gn:id":10996692,
+        "ks:id":"KS58CEB31284ED425E8FF087E1A829E462"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8735d0969be5e0013fc2816b90f571a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"77f512f1884b7abb76ae393e9d40d165",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1326875313,
-    "wof:lastmodified":1566682048,
+    "wof:lastmodified":1682893704,
     "wof:name":"Majhua",
     "wof:parent_id":1108695907,
     "wof:placetype":"locality",
+    "wof:population":1312,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.73076,
-    25.88304,
-    87.73076,
-    25.88304
+    87.730458,
+    25.882526,
+    87.731267,
+    25.883334
 ],
-  "geometry": {"coordinates":[87.73076,25.88304],"type":"Point"}
+  "geometry": {"coordinates":[[[87.730997,25.883334],[87.730997,25.883065],[87.731267,25.883065],[87.731267,25.882526],[87.730458,25.882526],[87.730458,25.883334],[87.730997,25.883334]]],"type":"Polygon"}
 }

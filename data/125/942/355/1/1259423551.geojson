@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.29903,26.20814,84.29903,26.20814",
-    "geom:latitude":26.20814,
-    "geom:longitude":84.29903,
+    "geom:bbox":"84.298714,26.206728,84.299522,26.207536",
+    "geom:latitude":26.207132,
+    "geom:longitude":84.299118,
     "gn:admin1_code":"34",
     "gn:admin2_code":"218.0",
     "gn:asciiname":"Majhaulia",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.27903,26.18814,84.31903,26.22814",
+    "ks:ks_id":"KSD63DB929AB4D4065A78D559C1D87FB43",
+    "ks:ks_name":"Majhaulia",
+    "ks:ks_pop":542,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|653698",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1402960",
+    "lbl:latitude":26.207132,
+    "lbl:longitude":84.299118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.207132,
+    "mps:longitude":84.299118,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Majhaulia"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10770955
+        "gn:id":10770955,
+        "ks:id":"KSD63DB929AB4D4065A78D559C1D87FB43"
     },
     "wof:country":"IN",
-    "wof:geomhash":"79b28352cb1322ad0e915577f27fa04b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7089633ae223e38a412623b91127405d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1259423551,
-    "wof:lastmodified":1566710328,
+    "wof:lastmodified":1682724776,
     "wof:name":"Majhaulia",
     "wof:parent_id":1108695917,
     "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.29903,
-    26.20814,
-    84.29903,
-    26.20814
+    84.298714,
+    26.206728,
+    84.299522,
+    26.207536
 ],
-  "geometry": {"coordinates":[84.29903,26.20814],"type":"Point"}
+  "geometry": {"coordinates":[[[84.299522,26.206728],[84.298714,26.206728],[84.298714,26.207536],[84.299522,26.207536],[84.299522,26.206728]]],"type":"Polygon"}
 }

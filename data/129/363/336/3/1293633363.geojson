@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.74422,25.26241,82.74422,25.26241",
-    "geom:latitude":25.26241,
-    "geom:longitude":82.74422,
+    "geom:bbox":"82.742922,25.260532,82.745347,25.263766",
+    "geom:latitude":25.262284,
+    "geom:longitude":82.744065,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Kori",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.72422,25.24241,82.76422,25.28241",
+    "ks:ks_id":"KS8CE5644E23B440F8870065941A1EC5B2",
+    "ks:ks_name":"Kori",
+    "ks:ks_pop":523,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|580738",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1339961",
+    "lbl:latitude":25.262309,
+    "lbl:longitude":82.744386,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.262309,
+    "mps:longitude":82.744386,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u044b"
@@ -40,6 +50,9 @@
         "Kori"
     ],
     "name:deu_x_preferred":[
+        "Kori"
+    ],
+    "name:eng_x_preferred":[
         "Kori"
     ],
     "name:ind_x_preferred":[
@@ -54,7 +67,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10545196
+        "gn:id":10545196,
+        "ks:id":"KS8CE5644E23B440F8870065941A1EC5B2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dd14f63a555f4ef02d693b8c7f1619a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5417a0a9a4c1b6c65904f265f7aed30c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293633363,
-    "wof:lastmodified":1566689521,
+    "wof:lastmodified":1682825497,
     "wof:name":"Kori",
     "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.74422,
-    25.26241,
-    82.74422,
-    25.26241
+    82.742922,
+    25.260532,
+    82.745347,
+    25.263766
 ],
-  "geometry": {"coordinates":[82.74422,25.26241],"type":"Point"}
+  "geometry": {"coordinates":[[[82.744269,25.263766],[82.744269,25.263227],[82.744539,25.263227],[82.744539,25.262958],[82.74507800000001,25.262958],[82.74507800000001,25.262419],[82.745347,25.262419],[82.745347,25.26188],[82.74507800000001,25.26188],[82.74507800000001,25.26161],[82.745347,25.26161],[82.745347,25.261341],[82.74480800000001,25.261341],[82.74480800000001,25.26161],[82.744269,25.26161],[82.744269,25.261341],[82.744,25.261341],[82.744,25.261071],[82.744269,25.261071],[82.744269,25.260532],[82.743461,25.260532],[82.743461,25.260802],[82.743191,25.260802],[82.743191,25.261341],[82.743461,25.261341],[82.743461,25.26161],[82.74373,25.26161],[82.74373,25.26188],[82.743461,25.26188],[82.743461,25.262419],[82.74373,25.262419],[82.74373,25.262688],[82.743191,25.262688],[82.743191,25.262958],[82.74292199999999,25.262958],[82.74292199999999,25.263766],[82.744269,25.263766]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.73202,25.96371,85.73202,25.96371",
-    "geom:latitude":25.96371,
-    "geom:longitude":85.73202,
+    "geom:bbox":"85.731617,25.962566,85.732964,25.964722",
+    "geom:latitude":25.963554,
+    "geom:longitude":85.732335,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Jagatsinghpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.71202,25.94371,85.75202,25.98371",
+    "ks:ks_id":"KSCECF917C74CC4E8F9206FF6F1020A979",
+    "ks:ks_name":"Jagatsinghpur",
+    "ks:ks_pop":1544,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13534397",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1387211",
+    "lbl:latitude":25.963759,
+    "lbl:longitude":85.732281,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.963759,
+    "mps:longitude":85.732281,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099c\u0997\u09ce\u09b8\u09bf\u0982\u09b9\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "Jagatsinghapur"
     ],
     "name:deu_x_preferred":[
+        "Jagatsinghpur"
+    ],
+    "name:eng_x_preferred":[
         "Jagatsinghpur"
     ],
     "name:fra_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u8d3e\u52a0\u7279\u8f9b\u683c\u963f\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11030575
+        "gn:id":11030575,
+        "ks:id":"KSCECF917C74CC4E8F9206FF6F1020A979"
     },
     "wof:country":"IN",
-    "wof:geomhash":"98ea83d0d5764d3bb4d27b6c09e1b7d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9289dae81fa670f50275a9304d3b838",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1259824341,
-    "wof:lastmodified":1566709702,
+    "wof:lastmodified":1682740298,
     "wof:name":"Jagatsinghpur",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
+    "wof:population":1544,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.73201999999998,
-    25.96371,
-    85.73201999999998,
-    25.96371
+    85.731617,
+    25.962566,
+    85.732964,
+    25.964722
 ],
-  "geometry": {"coordinates":[85.73201999999998,25.96371],"type":"Point"}
+  "geometry": {"coordinates":[[[85.73269500000001,25.964183],[85.73269500000001,25.963374],[85.732964,25.963374],[85.732964,25.962566],[85.731617,25.962566],[85.731617,25.963105],[85.732156,25.963105],[85.732156,25.963374],[85.731886,25.963374],[85.731886,25.963644],[85.731617,25.963644],[85.731617,25.964183],[85.732156,25.964183],[85.732156,25.964722],[85.732964,25.964722],[85.732964,25.964183],[85.73269500000001,25.964183]]],"type":"Polygon"}
 }

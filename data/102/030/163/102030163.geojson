@@ -10,12 +10,20 @@
     "geom:latitude":32.041527,
     "geom:longitude":75.400743,
     "iso:country":"IN",
-    "lbl:latitude":32.041437,
-    "lbl:longitude":75.40301,
+    "ks:ks_id":"KS0D98A59D19744816BA1E172060860CA5",
+    "ks:ks_name":"Gurdaspur",
+    "ks:ks_pop":68441,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0301000340107000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2707642",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":32.040447,
+    "lbl:longitude":75.405183,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":32.031364,
-    "mps:longitude":75.393677,
+    "mps:latitude":32.040447,
+    "mps:longitude":75.405183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -170,9 +178,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1573,
     "wof:belongsto":[
         102191569,
@@ -185,13 +196,16 @@
         "fct:id":"122d0ed8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1270647,
         "gp:id":2290642,
+        "ks:id":"KS0D98A59D19744816BA1E172060860CA5",
         "qs_pg:id":1187938,
         "wd:id":"Q1707629",
         "wk:page":"Gurdaspur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"a7dca13310db0fb71201ccb7130d6531",
     "wof:hierarchy":[
@@ -207,10 +221,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780739,
+    "wof:lastmodified":1686162187,
     "wof:name":"Gurdaspur",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":68441,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

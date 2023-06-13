@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.24378,25.29611,78.24378,25.29611",
-    "geom:latitude":25.29611,
-    "geom:longitude":78.24378,
+    "geom:bbox":"78.243126,25.294942,78.245115,25.296947",
+    "geom:latitude":25.296003,
+    "geom:longitude":78.243958,
     "gn:admin1_code":"35",
     "gn:admin2_code":"423.0",
     "gn:asciiname":"Deogarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.22378,25.27611,78.26378,25.31611",
+    "ks:ks_id":"KSD881ECF25DFC41AA88456072ADC8D3A6",
+    "ks:ks_name":"Devgarh",
+    "ks:ks_pop":1390,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|264188",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1723183",
+    "lbl:latitude":25.296082,
+    "lbl:longitude":78.243977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.296082,
+    "mps:longitude":78.243977,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deogarh"
@@ -36,40 +46,64 @@
     "name:deu_x_preferred":[
         "Deogarh"
     ],
+    "name:eng_x_preferred":[
+        "Devgarh"
+    ],
+    "name:eng_x_variant":[
+        "Deogarh"
+    ],
     "name:swe_x_preferred":[
         "Deogarh"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696211
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10501895
+        "gn:id":10501895,
+        "ks:id":"KSD881ECF25DFC41AA88456072ADC8D3A6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8ea308f1ffc6d8a35e66bc01f6f4df46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e76bf9f48cfbbccf5f4474903554b29",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209259097
+            "county_id":1108696211,
+            "locality_id":1209259097,
+            "region_id":85672239
         }
     ],
     "wof:id":1209259097,
-    "wof:lastmodified":1566695651,
-    "wof:name":"Deogarh",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682612014,
+    "wof:name":"Devgarh",
+    "wof:parent_id":1108696211,
     "wof:placetype":"locality",
+    "wof:population":1390,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.24378,
-    25.29611,
-    78.24378,
-    25.29611
+    78.243126,
+    25.294942,
+    78.245115,
+    25.296947
 ],
-  "geometry": {"coordinates":[78.24378,25.29611],"type":"Point"}
+  "geometry": {"coordinates":[[[78.2444,25.296947],[78.24440199999999,25.296857],[78.244501,25.296859],[78.24450299999999,25.296769],[78.244602,25.29677],[78.244604,25.29668],[78.244704,25.296682],[78.244708,25.296502],[78.24480699999999,25.296504],[78.244811,25.296323],[78.24491,25.296325],[78.24491399999999,25.296145],[78.245113,25.296148],[78.245115,25.296058],[78.24501600000001,25.296056],[78.245018,25.295966],[78.24481900000001,25.295962],[78.244821,25.295872],[78.244722,25.29587],[78.244726,25.29569],[78.24462699999999,25.295688],[78.244631,25.295508],[78.24453200000001,25.295506],[78.244534,25.295416],[78.24433500000001,25.295412],[78.244337,25.295322],[78.244139,25.295318],[78.244141,25.295228],[78.243943,25.295224],[78.243945,25.295134],[78.24384499999999,25.295132],[78.243847,25.295042],[78.243649,25.295038],[78.243651,25.294948],[78.243353,25.294942],[78.24334899999999,25.295123],[78.24325,25.295121],[78.24324799999999,25.295211],[78.243149,25.295209],[78.24312999999999,25.296021],[78.24323,25.296023],[78.243228,25.296113],[78.243128,25.296111],[78.243126,25.296201],[78.24322600000001,25.296203],[78.243219,25.296474],[78.243319,25.296476],[78.243317,25.296566],[78.243416,25.296568],[78.243414,25.296658],[78.24351299999999,25.29666],[78.243511,25.29675],[78.24361,25.296752],[78.24360799999999,25.296842],[78.243707,25.296844],[78.24370500000001,25.296934],[78.2444,25.296947]]],"type":"Polygon"}
 }

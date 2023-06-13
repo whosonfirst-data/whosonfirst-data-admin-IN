@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.00995,22.47528,79.00995,22.47528",
-    "geom:latitude":22.47528,
-    "geom:longitude":79.00995,
+    "geom:bbox":"79.008103,22.474443,79.010136,22.475729",
+    "geom:latitude":22.475115,
+    "geom:longitude":79.009098,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Banka",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.98995,22.45528,79.02995,22.49528",
+    "ks:ks_alt_nam":"B\u0101nka",
+    "ks:ks_id":"KSBC3E0CE4F045428D90B4E81D4709F979",
+    "ks:ks_name":"Banka",
+    "ks:ks_pop":820,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|92978",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_887281",
+    "lbl:latitude":22.475175,
+    "lbl:longitude":79.00918,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.475175,
+    "mps:longitude":79.00918,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0643\u0627"
@@ -50,6 +61,12 @@
     ],
     "name:deu_x_preferred":[
         "Banka"
+    ],
+    "name:eng_x_preferred":[
+        "Banka"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101nka"
     ],
     "name:epo_x_preferred":[
         "Banka"
@@ -111,7 +128,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0646\u06a9\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8443848
+        "gn:id":8443848,
+        "ks:id":"KSBC3E0CE4F045428D90B4E81D4709F979"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8e7c65b3d0315334595c7b3af4d8d086",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"76ada7ef8074d7a579aabb6a5b2f7902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +161,22 @@
         }
     ],
     "wof:id":1225984951,
-    "wof:lastmodified":1577754406,
+    "wof:lastmodified":1686165812,
     "wof:name":"Banka",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":820,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.00995,
-    22.47528,
-    79.00995,
-    22.47528
+    79.008103,
+    22.474443,
+    79.010136,
+    22.475729
 ],
-  "geometry": {"coordinates":[79.00995,22.47528],"type":"Point"}
+  "geometry": {"coordinates":[[[79.00898100000001,22.474631],[79.008982,22.474541],[79.008691,22.474537],[79.008692,22.474447],[79.00840100000001,22.474443],[79.008399,22.474534],[79.008205,22.474531],[79.00820400000001,22.474622],[79.008107,22.47462],[79.00810300000001,22.474891],[79.0082,22.474892],[79.008197,22.475073],[79.008295,22.475074],[79.00829299999999,22.475164],[79.00839000000001,22.475166],[79.00838899999999,22.475256],[79.008486,22.475257],[79.008484,22.475438],[79.008678,22.47544],[79.00867700000001,22.47553],[79.008871,22.475533],[79.00887,22.475623],[79.009744,22.475634],[79.009743,22.475724],[79.010131,22.475729],[79.010136,22.475368],[79.01003900000001,22.475367],[79.010042,22.475186],[79.009945,22.475185],[79.009946,22.475095],[79.009849,22.475093],[79.00985,22.475003],[79.009753,22.475002],[79.009754,22.474912],[79.009657,22.47491],[79.009658,22.47482],[79.00946399999999,22.474818],[79.00946500000001,22.474727],[79.009174,22.474724],[79.009175,22.474634],[79.00898100000001,22.474631]]],"type":"Polygon"}
 }

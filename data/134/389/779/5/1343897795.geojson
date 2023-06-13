@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.25481,29.63339,78.25481,29.63339",
-    "geom:latitude":29.63339,
-    "geom:longitude":78.25481,
+    "geom:bbox":"78.252598,29.631987,78.254446,29.633897",
+    "geom:latitude":29.632995,
+    "geom:longitude":78.253466,
     "gn:admin1_code":"36",
     "gn:admin2_code":"134.0",
     "gn:asciiname":"Jaspur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.23481,29.61339,78.27481,29.65339",
+    "ks:ks_id":"KS6E5EAF0EAAC54B478109B23B1B9001AD",
+    "ks:ks_name":"Jaspur",
+    "ks:ks_pop":956,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|456194",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1835854",
+    "lbl:latitude":29.633048,
+    "lbl:longitude":78.253448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.633048,
+    "mps:longitude":78.253448,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09b6\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Jaspur"
+    ],
+    "name:eng_x_preferred":[
         "Jaspur"
     ],
     "name:hin_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u8d3e\u65af\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10556327
+        "gn:id":10556327,
+        "ks:id":"KS6E5EAF0EAAC54B478109B23B1B9001AD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"58a6fa23959200c2292ff251c93225b1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"219c9b242169224040c5916898bb0db5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1343897795,
-    "wof:lastmodified":1566688493,
+    "wof:lastmodified":1682943553,
     "wof:name":"Jaspur",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
+    "wof:population":956,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.25480999999998,
-    29.63339,
-    78.25480999999998,
-    29.63339
+    78.252598,
+    29.631987,
+    78.254446,
+    29.633897
 ],
-  "geometry": {"coordinates":[78.25480999999998,29.63339],"type":"Point"}
+  "geometry": {"coordinates":[[[78.25380699999999,29.633897],[78.253809,29.633807],[78.254119,29.633814],[78.254121,29.633724],[78.25422500000001,29.633726],[78.254227,29.633636],[78.25433,29.633638],[78.254333,29.633548],[78.254436,29.63355],[78.254446,29.633189],[78.25434199999999,29.633187],[78.254347,29.633007],[78.254244,29.633004],[78.25424700000001,29.632914],[78.254143,29.632912],[78.254148,29.632732],[78.254045,29.63273],[78.254048,29.63264],[78.253944,29.632637],[78.253947,29.632547],[78.253844,29.632545],[78.253846,29.632455],[78.253743,29.632453],[78.253748,29.632273],[78.25364500000001,29.63227],[78.253647,29.63218],[78.25354400000001,29.632178],[78.253546,29.632088],[78.25333999999999,29.632084],[78.253342,29.631994],[78.253033,29.631987],[78.25303,29.632077],[78.252824,29.632073],[78.252819,29.632253],[78.25271600000001,29.632251],[78.252709,29.632522],[78.252605,29.63252],[78.25259800000001,29.63279],[78.252701,29.632792],[78.252691,29.633153],[78.25279500000001,29.633155],[78.252787,29.633425],[78.25289100000001,29.633427],[78.252886,29.633608],[78.252989,29.63361],[78.25298600000001,29.6337],[78.253193,29.633704],[78.25319,29.633794],[78.253603,29.633803],[78.253601,29.633893],[78.25380699999999,29.633897]]],"type":"Polygon"}
 }

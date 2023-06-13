@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.24127,24.76596,84.24127,24.76596",
-    "geom:latitude":24.76596,
-    "geom:longitude":84.24127,
+    "geom:bbox":"84.240773,24.765471,84.241851,24.766549",
+    "geom:latitude":24.765952,
+    "geom:longitude":84.241312,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Gangahar",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.22127,24.74596,84.26127,24.78596",
+    "ks:ks_alt_nam":"Gang\u0101har",
+    "ks:ks_id":"KSD646002049FD469284064DB28B97EEAE",
+    "ks:ks_name":"Gangahar",
+    "ks:ks_pop":670,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13283721",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1323809",
+    "lbl:latitude":24.765924,
+    "lbl:longitude":84.241312,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.765924,
+    "mps:longitude":84.241312,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Gangahar"
+    ],
+    "name:eng_x_variant":[
+        "Gang\u0101har"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10834591
+        "gn:id":10834591,
+        "ks:id":"KSD646002049FD469284064DB28B97EEAE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c036907d41c2420160f5f00a148d63f8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ca08e753647018991c635a43a6f1080",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1226082783,
-    "wof:lastmodified":1566713088,
+    "wof:lastmodified":1682653547,
     "wof:name":"Gangahar",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":670,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.24127,
-    24.76596,
-    84.24127,
-    24.76596
+    84.240773,
+    24.765471,
+    84.241851,
+    24.766549
 ],
-  "geometry": {"coordinates":[84.24127,24.76596],"type":"Point"}
+  "geometry": {"coordinates":[[[84.241581,24.766549],[84.241581,24.766279],[84.241851,24.766279],[84.241851,24.765471],[84.240773,24.765471],[84.240773,24.766279],[84.24104199999999,24.766279],[84.24104199999999,24.766549],[84.241581,24.766549]]],"type":"Polygon"}
 }

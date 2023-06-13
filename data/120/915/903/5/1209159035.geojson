@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.9251,21.81637,79.9251,21.81637",
-    "geom:latitude":21.81637,
-    "geom:longitude":79.9251,
+    "geom:bbox":"79.924381,21.815511,79.926219,21.817778",
+    "geom:latitude":21.816685,
+    "geom:longitude":79.925254,
     "gn:admin1_code":"35",
     "gn:admin2_code":"457.0",
     "gn:asciiname":"Nandgaon",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.9051,21.79637,79.9451,21.83637",
+    "ks:ks_alt_nam":"N\u0101ndgaon",
+    "ks:ks_id":"KS01B33FEF2832442090AC79006112BEAF",
+    "ks:ks_name":"Nandgaon",
+    "ks:ks_pop":1488,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|756598",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_970646",
+    "lbl:latitude":21.81669,
+    "lbl:longitude":79.925254,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.81669,
+    "mps:longitude":79.925254,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nandgaon"
+    ],
+    "name:eng_x_preferred":[
+        "Nandgaon"
+    ],
+    "name:eng_x_variant":[
+        "N\u0101ndgaon"
     ],
     "name:pol_x_preferred":[
         "Nandgaon"
@@ -39,37 +56,55 @@
     "name:swe_x_preferred":[
         "Nandgaon"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890508835
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10514690
+        "gn:id":10514690,
+        "ks:id":"KS01B33FEF2832442090AC79006112BEAF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a0f9e91d244e1bbc35b2f2eb402b126a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc750d73bfca152037dc9b1c4a2782ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209159035
+            "county_id":890508835,
+            "locality_id":1209159035,
+            "region_id":85672239
         }
     ],
     "wof:id":1209159035,
-    "wof:lastmodified":1566695317,
+    "wof:lastmodified":1682608305,
     "wof:name":"Nandgaon",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508835,
     "wof:placetype":"locality",
+    "wof:population":1488,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.9251,
-    21.81637000000001,
-    79.9251,
-    21.81637000000001
+    79.924381,
+    21.815511,
+    79.926219,
+    21.817778
 ],
-  "geometry": {"coordinates":[79.9251,21.81637000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.925921,21.817778],[79.925922,21.817688],[79.926019,21.817688],[79.92601999999999,21.817508],[79.926117,21.817508],[79.926119,21.817147],[79.926216,21.817147],[79.926219,21.816696],[79.926123,21.816695],[79.926125,21.816424],[79.926028,21.816424],[79.926029,21.816333],[79.925932,21.816333],[79.925933,21.816242],[79.925836,21.816242],[79.925837,21.816151],[79.92574,21.816151],[79.92574,21.81606],[79.92564400000001,21.81606],[79.92564400000001,21.815969],[79.92554800000001,21.815969],[79.92554800000001,21.815878],[79.925355,21.815877],[79.92535599999999,21.815787],[79.925259,21.815786],[79.925259,21.815696],[79.925163,21.815695],[79.925163,21.815605],[79.925067,21.815604],[79.925067,21.815514],[79.924584,21.815511],[79.924583,21.815601],[79.924486,21.8156],[79.924485,21.815781],[79.92438799999999,21.815781],[79.924381,21.816684],[79.92447799999999,21.816684],[79.924476,21.816955],[79.924573,21.816956],[79.92457,21.817317],[79.924667,21.817318],[79.924666,21.817408],[79.92486,21.81741],[79.924859,21.8175],[79.92505300000001,21.817501],[79.92505199999999,21.817592],[79.925149,21.817592],[79.92514799999999,21.817683],[79.925341,21.817684],[79.925341,21.817774],[79.925921,21.817778]]],"type":"Polygon"}
 }

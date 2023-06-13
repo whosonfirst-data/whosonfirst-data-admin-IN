@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.80948,28.96261,79.80948,28.96261",
-    "geom:latitude":28.96261,
-    "geom:longitude":79.80948,
+    "geom:bbox":"79.801406,28.958793,79.803155,28.959527",
+    "geom:latitude":28.959146,
+    "geom:longitude":79.802318,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"67.0",
     "gn:asciiname":"Bhikampur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.78948,28.94261,79.82948,28.98261",
+    "ks:ks_alt_nam":"Bh\u012bkampur",
+    "ks:ks_id":"KS9470F47FDD044707850AE6D17E91F305",
+    "ks:ks_name":"Bhikampur",
+    "ks:ks_pop":158,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|149134",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2033738",
+    "lbl:latitude":28.959115,
+    "lbl:longitude":79.802422,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.959115,
+    "mps:longitude":79.802422,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0627\u0645\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u09bf\u0995\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bhikampur"
+    ],
+    "name:eng_x_variant":[
+        "Bh\u012bkampur"
     ],
     "name:guj_x_preferred":[
         "\u0aad\u0abf\u0a95\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u06cc\u06a9\u0645 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10830838
+        "gn:id":10830838,
+        "ks:id":"KS9470F47FDD044707850AE6D17E91F305"
     },
     "wof:country":"IN",
-    "wof:geomhash":"10cf686b96892b49482940bbadfcb8d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"248dcfc6a6023c5a1fb190e791daf010",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1209644385,
-    "wof:lastmodified":1672961222,
+    "wof:lastmodified":1682626084,
     "wof:name":"Bhikampur",
     "wof:parent_id":890501027,
     "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.80948000000002,
-    28.96261,
-    79.80948000000002,
-    28.96261
+    79.801406,
+    28.958793,
+    79.803155,
+    28.959527
 ],
-  "geometry": {"coordinates":[79.80948000000002,28.96261],"type":"Point"}
+  "geometry": {"coordinates":[[[79.80304599999999,28.959527],[79.803048,28.959347],[79.803151,28.959347],[79.803155,28.958986],[79.80305199999999,28.958986],[79.80305300000001,28.958895],[79.80295099999999,28.958894],[79.802952,28.958804],[79.801721,28.958793],[79.80172,28.958883],[79.80161699999999,28.958883],[79.801616,28.958973],[79.801513,28.958972],[79.801512,28.959062],[79.80141,28.959061],[79.801406,28.959422],[79.80212400000001,28.959429],[79.802125,28.959338],[79.802227,28.959339],[79.802226,28.959429],[79.802432,28.959431],[79.802431,28.959522],[79.80304599999999,28.959527]]],"type":"Polygon"}
 }

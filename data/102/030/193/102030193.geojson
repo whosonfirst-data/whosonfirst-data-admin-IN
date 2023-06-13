@@ -11,12 +11,20 @@
     "geom:longitude":84.440799,
     "gn:population":63725,
     "iso:country":"IN",
-    "lbl:latitude":26.465307,
-    "lbl:longitude":84.444625,
+    "ks:ks_id":"KSC781D23AD1344E07818267E8C43CB518",
+    "ks:ks_name":"Gopalganj",
+    "ks:ks_pop":54449,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1015001041503000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2803352",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.413299,
+    "lbl:longitude":84.460583,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":26.465654,
-    "mps:longitude":84.439271,
+    "mps:latitude":26.413299,
+    "mps:longitude":84.460583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -38,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Gopalganj"
+    ],
+    "name:eng_x_variant":[
+        "Gop\u0101lganj"
     ],
     "name:fra_x_preferred":[
         "Gopalganj"
@@ -138,10 +149,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":180,
     "wof:belongsto":[
         102191569,
@@ -154,13 +167,16 @@
         "fct:id":"122dd836-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1270965,
         "gp:id":2288724,
+        "ks:id":"KSC781D23AD1344E07818267E8C43CB518",
         "qs_pg:id":1061139,
         "wd:id":"Q720133",
         "wk:page":"Gopalganj, Bihar"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"84d55cd95defbab31e353ec1e4214c4c",
     "wof:hierarchy":[
@@ -176,11 +192,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780728,
-    "wof:name":"Gop\u0101lganj",
+    "wof:lastmodified":1686162180,
+    "wof:name":"Gopalganj",
     "wof:parent_id":1108695913,
     "wof:placetype":"locality",
-    "wof:population":63725,
+    "wof:population":54449,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

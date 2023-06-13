@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.61362,23.07001,78.61362,23.07001",
-    "geom:latitude":23.07001,
-    "geom:longitude":78.61362,
+    "geom:bbox":"78.612936,23.069453,78.614695,23.070727",
+    "geom:latitude":23.070015,
+    "geom:longitude":78.613851,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Sagar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.59362,23.05001,78.63362,23.09001",
+    "ks:ks_alt_nam":"S\u0101gar",
+    "ks:ks_id":"KS54F747F34FED479F916285E6C36B6E23",
+    "ks:ks_name":"Sagar",
+    "ks:ks_pop":158,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|933261",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_921724",
+    "lbl:latitude":23.070042,
+    "lbl:longitude":78.613835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.070042,
+    "mps:longitude":78.613835,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u062c\u0627\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Sagar"
+    ],
+    "name:eng_x_preferred":[
+        "Sagar"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101gar"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u063a\u0631"
@@ -61,6 +78,9 @@
         "Sagar"
     ],
     "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c97\u0cb0"
+    ],
+    "name:kan_x_variant":[
         "\u0cb8\u0cbe\u0c97\u0cb0\u0ccd"
     ],
     "name:mal_x_preferred":[
@@ -93,7 +113,13 @@
     "name:vie_x_preferred":[
         "Sagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +128,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192945
+        "gn:id":10192945,
+        "ks:id":"KS54F747F34FED479F916285E6C36B6E23"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9e3b592be4c7c4d12a25d300631d713f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"76ee6b16b4bd94186d43b860aafd14c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +146,22 @@
         }
     ],
     "wof:id":1243216923,
-    "wof:lastmodified":1636505851,
+    "wof:lastmodified":1686164111,
     "wof:name":"Sagar",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.61362,
-    23.07001,
-    78.61362,
-    23.07001
+    78.612936,
+    23.069453,
+    78.614695,
+    23.070727
 ],
-  "geometry": {"coordinates":[78.61362,23.07001],"type":"Point"}
+  "geometry": {"coordinates":[[[78.613995,23.070727],[78.613997,23.070636],[78.614289,23.070641],[78.61429099999999,23.07055],[78.61438800000001,23.070552],[78.61439,23.070462],[78.61448799999999,23.070463],[78.61448900000001,23.070373],[78.614587,23.070374],[78.61459000000001,23.070194],[78.614687,23.070195],[78.614695,23.069744],[78.614598,23.069743],[78.614599,23.069652],[78.614502,23.069651],[78.614503,23.069561],[78.614406,23.069559],[78.614407,23.069469],[78.61333500000001,23.069453],[78.613333,23.069543],[78.61304,23.069539],[78.613039,23.069629],[78.61294100000001,23.069627],[78.612936,23.069898],[78.613034,23.0699],[78.61303100000001,23.07008],[78.613128,23.070082],[78.613125,23.070262],[78.613223,23.070264],[78.613221,23.070354],[78.613319,23.070355],[78.613317,23.070445],[78.613415,23.070447],[78.61341299999999,23.070537],[78.61351000000001,23.070539],[78.61350899999999,23.070629],[78.61380200000001,23.070633],[78.6138,23.070724],[78.613995,23.070727]]],"type":"Polygon"}
 }

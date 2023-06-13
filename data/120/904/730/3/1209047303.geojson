@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0628\u0648\u0631"
@@ -95,7 +96,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,17 +109,22 @@
     "wof:geomhash":"9e8ede7feb72771cac8c9b348ac91a1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209047303
+            "county_id":1108695905,
+            "locality_id":1209047303,
+            "region_id":85672225
         }
     ],
     "wof:id":1209047303,
-    "wof:lastmodified":1577750924,
+    "wof:lastmodified":1682602019,
     "wof:name":"Daulatpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847143297
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

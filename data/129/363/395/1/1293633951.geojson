@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.62013,22.21705,77.62013,22.21705",
-    "geom:latitude":22.21705,
-    "geom:longitude":77.62013,
+    "geom:bbox":"77.617673,22.215513,77.618482,22.216591",
+    "geom:latitude":22.216015,
+    "geom:longitude":77.618102,
     "gn:admin1_code":"35",
     "gn:admin2_code":"447.0",
     "gn:asciiname":"Balor",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.60013,22.19705,77.64013,22.23705",
+    "ks:ks_id":"KS2AF174879B1041CA8FC796E4E3BAE5E2",
+    "ks:ks_name":"Ballor",
+    "ks:ks_pop":875,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2335000204226500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_707790",
+    "lbl:latitude":22.215939,
+    "lbl:longitude":77.618081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.215939,
+    "mps:longitude":77.618081,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Balor"
@@ -38,6 +48,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03bb\u03bf\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Ballor"
+    ],
+    "name:eng_x_variant":[
+        "Balor"
     ],
     "name:fin_x_preferred":[
         "Balor"
@@ -90,7 +106,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u7f85\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -99,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10506174
+        "gn:id":10506174,
+        "ks:id":"KS2AF174879B1041CA8FC796E4E3BAE5E2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d3de272ea218307f1224cd71ece3b82",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"be48db8d749153688838e36a234483c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +139,22 @@
         }
     ],
     "wof:id":1293633951,
-    "wof:lastmodified":1566689556,
-    "wof:name":"Balor",
+    "wof:lastmodified":1682825671,
+    "wof:name":"Ballor",
     "wof:parent_id":890506465,
     "wof:placetype":"locality",
+    "wof:population":875,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.62013,
-    22.21705,
-    77.62013,
-    22.21705
+    77.617673,
+    22.215513,
+    77.618482,
+    22.216591
 ],
-  "geometry": {"coordinates":[77.62013,22.21705],"type":"Point"}
+  "geometry": {"coordinates":[[[77.618482,22.215513],[77.617673,22.215513],[77.617673,22.216322],[77.617943,22.216322],[77.617943,22.216591],[77.618482,22.216591],[77.618482,22.215513]]],"type":"Polygon"}
 }

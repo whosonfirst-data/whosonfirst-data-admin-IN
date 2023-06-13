@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.26163,21.34853,83.26163,21.34853",
-    "geom:latitude":21.34853,
-    "geom:longitude":83.26163,
+    "geom:bbox":"83.260882,21.347612,83.262147,21.348965",
+    "geom:latitude":21.348409,
+    "geom:longitude":83.261406,
     "gn:admin1_code":"37",
     "gn:admin2_code":"411.0",
     "gn:asciiname":"Juba",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.24163,21.32853,83.28163,21.36853",
+    "ks:ks_id":"KSE7E3D821C5AB490EAB174A2CD73EC5DC",
+    "ks:ks_name":"Joba",
+    "ks:ks_pop":272,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|467591",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_961220",
+    "lbl:latitude":21.348457,
+    "lbl:longitude":83.261394,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.348457,
+    "mps:longitude":83.261394,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Joeba"
@@ -101,6 +111,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Joba"
+    ],
+    "name:eng_x_variant":[
+        "Juba"
     ],
     "name:epo_x_preferred":[
         "\u0134ubo"
@@ -339,7 +355,13 @@
     "name:yid_x_preferred":[
         "\u05d3\u05d6\u05e9\u05d5\u05d1\u05d0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -348,10 +370,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10752193
+        "gn:id":10752193,
+        "ks:id":"KSE7E3D821C5AB490EAB174A2CD73EC5DC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2dc3daef3596e47861c0e35e09dbe1bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00c83b1a1a26586756ca16c06989abc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,20 +388,22 @@
         }
     ],
     "wof:id":1326473411,
-    "wof:lastmodified":1566683660,
-    "wof:name":"Juba",
+    "wof:lastmodified":1682877332,
+    "wof:name":"Joba",
     "wof:parent_id":1108696191,
     "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.26163000000003,
-    21.34853,
-    83.26163000000003,
-    21.34853
+    83.260882,
+    21.347612,
+    83.262147,
+    21.348965
 ],
-  "geometry": {"coordinates":[83.26163000000003,21.34853],"type":"Point"}
+  "geometry": {"coordinates":[[[83.26137900000001,21.348963],[83.261377,21.348872],[83.261763,21.348867],[83.261764,21.348957],[83.261957,21.348955],[83.261954,21.348774],[83.262147,21.348772],[83.26214299999999,21.348501],[83.26195,21.348503],[83.261949,21.348413],[83.261852,21.348414],[83.261849,21.348234],[83.261753,21.348235],[83.261752,21.348145],[83.261655,21.348146],[83.26165399999999,21.348056],[83.261461,21.348058],[83.26146,21.347968],[83.261363,21.347969],[83.26136099999999,21.347789],[83.261264,21.34779],[83.261263,21.3477],[83.26107,21.347703],[83.26106900000001,21.347612],[83.260972,21.347614],[83.26097799999999,21.347975],[83.260882,21.347976],[83.260887,21.348337],[83.260983,21.348336],[83.26098500000001,21.348426],[83.26088900000001,21.348427],[83.260893,21.348698],[83.260989,21.348697],[83.26099000000001,21.348787],[83.261087,21.348786],[83.261088,21.348876],[83.261185,21.348875],[83.261186,21.348965],[83.26137900000001,21.348963]]],"type":"Polygon"}
 }

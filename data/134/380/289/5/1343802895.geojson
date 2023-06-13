@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.48599,25.9522,85.48599,25.9522",
-    "geom:latitude":25.9522,
-    "geom:longitude":85.48599,
+    "geom:bbox":"85.485299,25.951786,85.486377,25.953133",
+    "geom:latitude":25.952431,
+    "geom:longitude":85.485817,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"216.0",
     "gn:asciiname":"Chak Firoz",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.46599,25.9322,85.50599,25.9722",
+    "ks:ks_id":"KS8976CBFDB6AE49E9ABE5B841F4537690",
+    "ks:ks_name":"Chak Firoz",
+    "ks:ks_pop":745,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13520919",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1386160",
+    "lbl:latitude":25.952417,
+    "lbl:longitude":85.485824,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.952417,
+    "mps:longitude":85.485824,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chak Firoz"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11020847
+        "gn:id":11020847,
+        "ks:id":"KS8976CBFDB6AE49E9ABE5B841F4537690"
     },
     "wof:country":"IN",
-    "wof:geomhash":"99eb8a4e214637b6d8cdb11e127fa4c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b8b1c9d3bd4b8d607879fd23aa57d366",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343802895,
-    "wof:lastmodified":1566688586,
+    "wof:lastmodified":1682940814,
     "wof:name":"Chak Firoz",
     "wof:parent_id":890503171,
     "wof:placetype":"locality",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.48599,
-    25.9522,
-    85.48599,
-    25.9522
+    85.485299,
+    25.951786,
+    85.486377,
+    25.953133
 ],
-  "geometry": {"coordinates":[85.48599,25.9522],"type":"Point"}
+  "geometry": {"coordinates":[[[85.486107,25.953133],[85.486107,25.952864],[85.486377,25.952864],[85.486377,25.951786],[85.485299,25.951786],[85.485299,25.953133],[85.486107,25.953133]]],"type":"Polygon"}
 }

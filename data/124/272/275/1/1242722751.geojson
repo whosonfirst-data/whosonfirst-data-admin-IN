@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.83651,23.43845,78.83651,23.43845",
-    "geom:latitude":23.43845,
-    "geom:longitude":78.83651,
+    "geom:bbox":"78.835903,23.437691,78.837274,23.43951",
+    "geom:latitude":23.438669,
+    "geom:longitude":78.836552,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Madanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.81651,23.41845,78.85651,23.45845",
+    "ks:ks_id":"KS942A32E2A5B9415EAD4A93C9BE9651C5",
+    "ks:ks_name":"Madanpur",
+    "ks:ks_pop":140,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|636971",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_924911",
+    "lbl:latitude":23.438659,
+    "lbl:longitude":78.836607,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.438659,
+    "mps:longitude":78.836607,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062f\u0646\u0628\u0648\u0631"
@@ -40,6 +50,9 @@
         "\u09ae\u09a6\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Madanpur"
+    ],
+    "name:eng_x_preferred":[
         "Madanpur"
     ],
     "name:guj_x_preferred":[
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0645\u062f\u0646\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192705
+        "gn:id":10192705,
+        "ks:id":"KS942A32E2A5B9415EAD4A93C9BE9651C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2395b1502b8290d04423d14c55ba85ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"355a1a0bc8ae4bc497de05c1051be52e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1242722751,
-    "wof:lastmodified":1577752836,
+    "wof:lastmodified":1682690223,
     "wof:name":"Madanpur",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.83651,
-    23.43845,
-    78.83651,
-    23.43845
+    78.835903,
+    23.437691,
+    78.837274,
+    23.43951
 ],
-  "geometry": {"coordinates":[78.83651,23.43845],"type":"Point"}
+  "geometry": {"coordinates":[[[78.83696399999999,23.43951],[78.836967,23.439329],[78.837065,23.43933],[78.837068,23.43915],[78.837166,23.439151],[78.83717,23.43888],[78.83726799999999,23.438882],[78.83727399999999,23.438521],[78.837176,23.438519],[78.83717900000001,23.438339],[78.837081,23.438338],[78.83708300000001,23.438247],[78.836985,23.438246],[78.836986,23.438156],[78.836889,23.438154],[78.83689,23.438064],[78.83669399999999,23.438061],[78.836696,23.437971],[78.8365,23.437968],[78.836502,23.437878],[78.83630599999999,23.437875],[78.83630700000001,23.437785],[78.83620999999999,23.437784],[78.83621100000001,23.437693],[78.836015,23.437691],[78.83600800000001,23.438142],[78.83591,23.438141],[78.835903,23.438592],[78.836001,23.438593],[78.83599599999999,23.438864],[78.836094,23.438866],[78.836088,23.439227],[78.836186,23.439228],[78.83618300000001,23.439409],[78.836281,23.43941],[78.83628,23.4395],[78.83696399999999,23.43951]]],"type":"Polygon"}
 }

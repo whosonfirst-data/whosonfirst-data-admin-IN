@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672165,
+        890507841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10883868
     },
     "wof:country":"IN",
-    "wof:geomhash":"7d2dd17e2fc690daa8d046b7e42882d7",
+    "wof:geomhash":"fc8caa44632412de46f32835f6bb26cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209477115
+            "county_id":890507841,
+            "locality_id":1209477115,
+            "region_id":85672165
         }
     ],
     "wof:id":1209477115,
-    "wof:lastmodified":1566695438,
+    "wof:lastmodified":1682621265,
     "wof:name":"Shrikantapuram",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847136119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.59125999999998,
+    76.59126,
     14.83223,
-    76.59125999999998,
+    76.59126,
     14.83223
 ],
-  "geometry": {"coordinates":[76.59125999999998,14.83223],"type":"Point"}
+  "geometry": {"coordinates":[76.59126000000001,14.83223],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.81868,19.08984,79.81868,19.08984",
-    "geom:latitude":19.08984,
-    "geom:longitude":79.81868,
+    "geom:bbox":"79.817632,19.090715,79.819339,19.092166",
+    "geom:latitude":19.091362,
+    "geom:longitude":79.818524,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Dasnapur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.79868,19.06984,79.83868,19.10984",
+    "ks:ks_id":"KS68314C075F2E4C68AAA6D9B31BC809F9",
+    "ks:ks_name":"Dasnapur",
+    "ks:ks_pop":658,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1263670",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_609374",
+    "lbl:latitude":19.091348,
+    "lbl:longitude":79.81854,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.091348,
+    "mps:longitude":79.81854,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a6\u09be\u09b8\u09a8\u09be\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Dasnapur"
+    ],
+    "name:eng_x_preferred":[
         "Dasnapur"
     ],
     "name:ind_x_preferred":[
@@ -69,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u65af\u7eb3\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10331311
+        "gn:id":10331311,
+        "ks:id":"KS68314C075F2E4C68AAA6D9B31BC809F9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"eefc37521db393131d86023db199bc31",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9670ac6140b4cd3718462fb05db2b342",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1259421173,
-    "wof:lastmodified":1566710381,
+    "wof:lastmodified":1682724050,
     "wof:name":"Dasnapur",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":658,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.81868,
-    19.08984,
-    79.81868,
-    19.08984
+    79.817632,
+    19.090715,
+    79.819339,
+    19.092166
 ],
-  "geometry": {"coordinates":[79.81868,19.08984],"type":"Point"}
+  "geometry": {"coordinates":[[[79.818766,19.092166],[79.818766,19.092076],[79.819051,19.092078],[79.819052,19.091987],[79.819242,19.091988],[79.819243,19.091808],[79.819338,19.091808],[79.819339,19.091718],[79.819244,19.091717],[79.819247,19.091266],[79.819152,19.091265],[79.81915499999999,19.090904],[79.81905999999999,19.090903],[79.81905999999999,19.090813],[79.81887,19.090811],[79.818871,19.090721],[79.817921,19.090715],[79.81792,19.090805],[79.81773,19.090804],[79.817729,19.090894],[79.817634,19.090894],[79.817632,19.091165],[79.817727,19.091166],[79.81772599999999,19.091346],[79.817821,19.091347],[79.81782,19.091528],[79.817915,19.091528],[79.817914,19.091619],[79.818009,19.091619],[79.818009,19.091709],[79.81810400000001,19.09171],[79.81810299999999,19.0918],[79.818198,19.091801],[79.818197,19.091891],[79.818292,19.091892],[79.818292,19.091982],[79.818387,19.091983],[79.818386,19.092073],[79.81857599999999,19.092075],[79.81857599999999,19.092165],[79.818766,19.092166]]],"type":"Polygon"}
 }

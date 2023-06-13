@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.64561,29.5645,79.64561,29.5645",
-    "geom:latitude":29.5645,
-    "geom:longitude":79.64561,
+    "geom:bbox":"79.634092,29.566523,79.635851,29.567516",
+    "geom:latitude":29.567045,
+    "geom:longitude":79.635008,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Lat",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.62561,29.5445,79.66561,29.5845",
+    "ks:ks_alt_nam":"L\u0101t",
+    "ks:ks_id":"KS0B771A48BB7A4C058F100B05082C6850",
+    "ks:ks_name":"Lat",
+    "ks:ks_pop":505,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|611022",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2037725",
+    "lbl:latitude":29.567022,
+    "lbl:longitude":79.635167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.567022,
+    "mps:longitude":79.635167,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lat"
+    ],
+    "name:eng_x_preferred":[
+        "Lat"
+    ],
+    "name:eng_x_variant":[
+        "L\u0101t"
     ],
     "name:fra_x_preferred":[
         "Lat"
@@ -45,7 +62,13 @@
     "name:msa_x_preferred":[
         "Lat"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10811539
+        "gn:id":10811539,
+        "ks:id":"KS0B771A48BB7A4C058F100B05082C6850"
     },
     "wof:country":"IN",
-    "wof:geomhash":"30c0095d60f677f80dc41d889748cc95",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"087cc6eebf6d9d0ad40c6633600f8478",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1276903877,
-    "wof:lastmodified":1566693922,
+    "wof:lastmodified":1682789423,
     "wof:name":"Lat",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
+    "wof:population":505,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.64560999999998,
-    29.5645,
-    79.64560999999998,
-    29.5645
+    79.634092,
+    29.566523,
+    79.635851,
+    29.567516
 ],
-  "geometry": {"coordinates":[79.64560999999998,29.5645],"type":"Point"}
+  "geometry": {"coordinates":[[[79.63501599999999,29.567516],[79.635017,29.567426],[79.63543,29.56743],[79.635431,29.56734],[79.63553400000001,29.567341],[79.635535,29.567251],[79.635845,29.567254],[79.635851,29.566803],[79.63574800000001,29.566802],[79.635749,29.566712],[79.63564599999999,29.566711],[79.63564700000001,29.56662],[79.63502800000001,29.566614],[79.635029,29.566524],[79.63492599999999,29.566523],[79.634923,29.566703],[79.63451000000001,29.566699],[79.63450899999999,29.566789],[79.634406,29.566788],[79.634405,29.566878],[79.634095,29.566875],[79.634092,29.567146],[79.63419500000001,29.567147],[79.63419399999999,29.567237],[79.634297,29.567238],[79.63429499999999,29.567328],[79.634399,29.567329],[79.63439700000001,29.56742],[79.634501,29.567421],[79.63449900000001,29.567511],[79.63501599999999,29.567516]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.52265,25.7079,75.52265,25.7079",
-    "geom:latitude":25.7079,
-    "geom:longitude":75.52265,
+    "geom:bbox":"75.513949,25.719136,75.515744,25.720044",
+    "geom:latitude":25.719515,
+    "geom:longitude":75.514722,
     "gn:admin1_code":"24",
     "gn:admin2_code":"121.0",
     "gn:asciiname":"Pagara",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.50265,25.6879,75.54265,25.7279",
+    "ks:ks_alt_nam":"Pag\u0101ra",
+    "ks:ks_id":"KSF85AC95F5563496A9FBE6E42574487E0",
+    "ks:ks_name":"Pagara",
+    "ks:ks_pop":614,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|804068",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1678238",
+    "lbl:latitude":25.719546,
+    "lbl:longitude":75.514452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.719546,
+    "mps:longitude":75.514452,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pagara"
+    ],
+    "name:eng_x_preferred":[
+        "Pagara"
+    ],
+    "name:eng_x_variant":[
+        "Pag\u0101ra"
     ],
     "name:por_x_preferred":[
         "Pagara"
@@ -45,7 +62,13 @@
     "name:war_x_preferred":[
         "Pagara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1260891
+        "gn:id":1260891,
+        "ks:id":"KSF85AC95F5563496A9FBE6E42574487E0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"15305fdcd384f49dda972ed8d8d0147f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f1c17e740406ea89c93162f6e108e932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1276622407,
-    "wof:lastmodified":1566694115,
+    "wof:lastmodified":1682780781,
     "wof:name":"Pagara",
     "wof:parent_id":890505299,
     "wof:placetype":"locality",
+    "wof:population":614,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.52265,
-    25.7079,
-    75.52265,
-    25.7079
+    75.513949,
+    25.719136,
+    75.515744,
+    25.720044
 ],
-  "geometry": {"coordinates":[75.52265,25.7079],"type":"Point"}
+  "geometry": {"coordinates":[[[75.514351,25.720043],[75.51434999999999,25.719953],[75.51464900000001,25.719952],[75.51464900000001,25.719862],[75.51474899999999,25.719861],[75.514748,25.719771],[75.514848,25.719771],[75.514848,25.71968],[75.51564500000001,25.719677],[75.51564500000001,25.719587],[75.515744,25.719587],[75.515744,25.719406],[75.51564399999999,25.719407],[75.51564399999999,25.719316],[75.51554400000001,25.719317],[75.51554299999999,25.719226],[75.515444,25.719227],[75.515443,25.719136],[75.514247,25.719141],[75.51424799999999,25.719231],[75.514048,25.719232],[75.514049,25.719412],[75.513949,25.719413],[75.513952,25.719954],[75.51405099999999,25.719954],[75.51405200000001,25.720044],[75.514351,25.720043]]],"type":"Polygon"}
 }

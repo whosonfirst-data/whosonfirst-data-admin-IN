@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.09982,25.83148,82.09982,25.83148",
-    "geom:latitude":25.83148,
-    "geom:longitude":82.09982,
+    "geom:bbox":"82.102629,25.834242,82.103727,25.834968",
+    "geom:latitude":25.834631,
+    "geom:longitude":82.103189,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Arar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.07982,25.81148,82.11982,25.85148",
+    "ks:ks_id":"KS07B93C318D5547BB9020EE69FCE932D2",
+    "ks:ks_name":"Arar",
+    "ks:ks_pop":112,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|44095",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1923726",
+    "lbl:latitude":25.834651,
+    "lbl:longitude":82.103134,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.834651,
+    "mps:longitude":82.103134,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09be\u09b0"
@@ -41,6 +51,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03ac\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Arar"
     ],
     "name:est_x_preferred":[
         "Arar"
@@ -60,7 +73,13 @@
     "name:swe_x_preferred":[
         "Arar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10538265
+        "gn:id":10538265,
+        "ks:id":"KS07B93C318D5547BB9020EE69FCE932D2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4aa7b1587b685431c7e6dbb20f7eb440",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b151c650d914ae8190c924e420e71ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1360025443,
-    "wof:lastmodified":1636505745,
+    "wof:lastmodified":1682959678,
     "wof:name":"Arar",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.09982,
-    25.83148,
-    82.09982,
-    25.83148
+    82.102629,
+    25.834242,
+    82.103727,
+    25.834968
 ],
-  "geometry": {"coordinates":[82.09981999999999,25.83148],"type":"Point"}
+  "geometry": {"coordinates":[[[82.103331,25.834965],[82.10333,25.834875],[82.10352899999999,25.834874],[82.10352899999999,25.834783],[82.103628,25.834783],[82.103627,25.834692],[82.10372700000001,25.834691],[82.103725,25.834421],[82.10362499999999,25.834421],[82.103624,25.834331],[82.103425,25.834333],[82.103424,25.834242],[82.103324,25.834243],[82.103325,25.834333],[82.102926,25.834336],[82.10292699999999,25.834427],[82.102827,25.834427],[82.102828,25.834518],[82.102728,25.834518],[82.102729,25.834609],[82.10262899999999,25.83461],[82.102631,25.83488],[82.102931,25.834878],[82.102932,25.834968],[82.103331,25.834965]]],"type":"Polygon"}
 }

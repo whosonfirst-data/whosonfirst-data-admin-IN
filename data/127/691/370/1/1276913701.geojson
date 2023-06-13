@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.31422,24.10329,84.31422,24.10329",
-    "geom:latitude":24.10329,
-    "geom:longitude":84.31422,
+    "geom:bbox":"84.317848,24.09955,84.318926,24.100628",
+    "geom:latitude":24.100147,
+    "geom:longitude":84.318349,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"358.0",
     "gn:asciiname":"Arkanda",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.29422,24.08329,84.33422,24.12329",
+    "ks:ks_id":"KS93CEEA13F4AA4159A9C0D68C43FE88AF",
+    "ks:ks_name":"Arakanda",
+    "ks:ks_pop":87,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2002000700211900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1041873",
+    "lbl:latitude":24.100218,
+    "lbl:longitude":84.31832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.100218,
+    "mps:longitude":84.31832,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Arakanda"
+    ],
+    "name:eng_x_variant":[
+        "Arkanda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10839771
+        "gn:id":10839771,
+        "ks:id":"KS93CEEA13F4AA4159A9C0D68C43FE88AF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cec18798d9efa7f652c4e88c7411d61e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7478b9846193eade67fe7d71c8e9a32a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1276913701,
-    "wof:lastmodified":1566694170,
-    "wof:name":"Arkanda",
+    "wof:lastmodified":1682789479,
+    "wof:name":"Arakanda",
     "wof:parent_id":1108696111,
     "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.31421999999998,
-    24.10329,
-    84.31421999999998,
-    24.10329
+    84.317848,
+    24.09955,
+    84.318926,
+    24.100628
 ],
-  "geometry": {"coordinates":[84.31421999999998,24.10329],"type":"Point"}
+  "geometry": {"coordinates":[[[84.318387,24.09955],[84.317848,24.09955],[84.317848,24.100628],[84.318926,24.100628],[84.318926,24.099819],[84.318387,24.099819],[84.318387,24.09955]]],"type":"Polygon"}
 }

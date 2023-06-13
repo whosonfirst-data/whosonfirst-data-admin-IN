@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.22247,19.21263,77.22247,19.21263",
-    "geom:latitude":19.21263,
-    "geom:longitude":77.22247,
+    "geom:bbox":"77.221652,19.211794,77.223088,19.213155",
+    "geom:latitude":19.212453,
+    "geom:longitude":77.222414,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Khadki",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.20247,19.19263,77.24247,19.23263",
+    "ks:ks_id":"KS0DEB66D8F18E467098AEA7D87F8E0F10",
+    "ks:ks_name":"Khadki",
+    "ks:ks_pop":417,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12876145",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_551800",
+    "lbl:latitude":19.212476,
+    "lbl:longitude":77.222473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.212476,
+    "mps:longitude":77.222473,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062f\u0643\u064a"
@@ -51,10 +61,16 @@
     "name:ceb_x_preferred":[
         "Khadki"
     ],
+    "name:eng_x_preferred":[
+        "Khadki"
+    ],
     "name:guj_x_preferred":[
         "\u0a96\u0aa1\u0a95\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u0916\u0921\u093c\u0915\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0916\u0921\u0915\u0940"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +121,13 @@
     "name:zho_x_preferred":[
         "\u57fa\u5c14\u51ef\u57c3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10448665
+        "gn:id":10448665,
+        "ks:id":"KS0DEB66D8F18E467098AEA7D87F8E0F10"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b161bd06096054a9327162f2ca32d146",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4d3f35c7f59dec13bb2e2a79cd1f3008",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +154,22 @@
         }
     ],
     "wof:id":1243039849,
-    "wof:lastmodified":1576022334,
+    "wof:lastmodified":1686164047,
     "wof:name":"Khadki",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.22247,
-    19.21263,
-    77.22247,
-    19.21263
+    77.221652,
+    19.211794,
+    77.223088,
+    19.213155
 ],
-  "geometry": {"coordinates":[77.22247,19.21263],"type":"Point"}
+  "geometry": {"coordinates":[[[77.22280600000001,19.213149],[77.22280499999999,19.213059],[77.2229,19.213057],[77.222899,19.212967],[77.222994,19.212966],[77.222993,19.212876],[77.223088,19.212875],[77.223078,19.212152],[77.222983,19.212153],[77.222981,19.211973],[77.22288500000001,19.211974],[77.22288399999999,19.211883],[77.22278900000001,19.211885],[77.22278799999999,19.211794],[77.222123,19.211802],[77.22212399999999,19.211893],[77.221934,19.211895],[77.221935,19.211985],[77.22184,19.211986],[77.221841,19.212077],[77.221746,19.212078],[77.22174699999999,19.212168],[77.22165200000001,19.212169],[77.221659,19.212711],[77.22184900000001,19.212709],[77.221851,19.212799],[77.221946,19.212798],[77.221947,19.212888],[77.222042,19.212887],[77.222043,19.212978],[77.222138,19.212976],[77.22214,19.213067],[77.22233,19.213064],[77.222331,19.213155],[77.22280600000001,19.213149]]],"type":"Polygon"}
 }

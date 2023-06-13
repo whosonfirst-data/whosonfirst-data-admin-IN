@@ -2,7 +2,7 @@
   "id": 1209583315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b6\u0999\u09cd\u0995\u09b0\u09bf"
@@ -68,7 +68,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672245,
+        890503585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,28 +79,33 @@
         "wk:page":"Sankagiri"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e9181c9a5d78476afb72d19b72aff1e3",
+    "wof:geomhash":"9a7d978ec901c5ea3e343ff39eeed37d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209583315
+            "county_id":890503585,
+            "locality_id":1209583315,
+            "region_id":85672245
         }
     ],
     "wof:id":1209583315,
-    "wof:lastmodified":1566696305,
+    "wof:lastmodified":1682625315,
     "wof:name":"Sankagiri",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890503585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1830743445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.86636999999997,
+    77.86637,
     11.47599,
-    77.86636999999997,
+    77.86637,
     11.47599
 ],
-  "geometry": {"coordinates":[77.86636999999997,11.47599],"type":"Point"}
+  "geometry": {"coordinates":[77.86637,11.47599],"type":"Point"}
 }

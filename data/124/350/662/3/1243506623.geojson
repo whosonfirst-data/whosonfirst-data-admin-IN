@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.34631,26.09562,82.34631,26.09562",
-    "geom:latitude":26.09562,
-    "geom:longitude":82.34631,
+    "geom:bbox":"82.344237,26.094739,82.346945,26.096545",
+    "geom:latitude":26.095577,
+    "geom:longitude":82.345848,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Manipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.32631,26.07562,82.36631,26.11562",
+    "ks:ks_id":"KSBF2E6A0AB0CA4802910382DB69428A4E",
+    "ks:ks_name":"Manipur",
+    "ks:ks_pop":419,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|674124",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1931094",
+    "lbl:latitude":26.095536,
+    "lbl:longitude":82.346207,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.095536,
+    "mps:longitude":82.346207,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Manipur"
@@ -110,6 +120,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03b9\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Manipur"
     ],
     "name:epo_x_preferred":[
         "Manipuro"
@@ -345,7 +358,13 @@
     "name:zho_x_preferred":[
         "\u66fc\u5c3c\u666e\u5c14\u90a6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -354,10 +373,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10618082
+        "gn:id":10618082,
+        "ks:id":"KSBF2E6A0AB0CA4802910382DB69428A4E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b3e8764ae2c15189d11c57fa3ec621e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a2a7ead8343767cb8e5bc41cae5a321",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -368,20 +391,22 @@
         }
     ],
     "wof:id":1243506623,
-    "wof:lastmodified":1577753171,
+    "wof:lastmodified":1686164046,
     "wof:name":"Manipur",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":419,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.34631,
-    26.09562,
-    82.34631,
-    26.09562
+    82.344237,
+    26.094739,
+    82.346945,
+    26.096545
 ],
-  "geometry": {"coordinates":[82.34631,26.09562],"type":"Point"}
+  "geometry": {"coordinates":[[[82.34654999999999,26.096542],[82.346549,26.096452],[82.346649,26.096451],[82.346647,26.096361],[82.346847,26.096359],[82.346845,26.096179],[82.34694500000001,26.096178],[82.34693799999999,26.095546],[82.34683800000001,26.095547],[82.346834,26.095186],[82.346734,26.095186],[82.346733,26.095096],[82.346633,26.095097],[82.346631,26.094917],[82.346531,26.094918],[82.34653,26.094827],[82.34632999999999,26.094829],[82.346329,26.094739],[82.346029,26.094742],[82.34603,26.094832],[82.34593,26.094833],[82.345932,26.095013],[82.345732,26.095015],[82.345733,26.095106],[82.345533,26.095107],[82.345534,26.095198],[82.345234,26.0952],[82.34523299999999,26.09511],[82.344634,26.095116],[82.344635,26.095206],[82.344435,26.095208],[82.344436,26.095298],[82.344336,26.095299],[82.344337,26.095389],[82.34423700000001,26.09539],[82.344241,26.095751],[82.344341,26.095751],[82.344342,26.095841],[82.34504200000001,26.095834],[82.34504099999999,26.095744],[82.345541,26.095739],[82.34554199999999,26.09583],[82.345642,26.095829],[82.345643,26.095919],[82.345743,26.095918],[82.345744,26.096008],[82.345944,26.096006],[82.345945,26.096097],[82.346045,26.096096],[82.346046,26.096186],[82.346146,26.096185],[82.346149,26.096456],[82.346249,26.096455],[82.34625,26.096545],[82.34654999999999,26.096542]]],"type":"Polygon"}
 }

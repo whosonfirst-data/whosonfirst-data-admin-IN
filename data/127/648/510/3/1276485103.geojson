@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.10392,27.17336,81.10392,27.17336",
-    "geom:latitude":27.17336,
-    "geom:longitude":81.10392,
+    "geom:bbox":"81.103539,27.172733,81.10475,27.174448",
+    "geom:latitude":27.173451,
+    "geom:longitude":81.10414,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Bahera",
@@ -24,16 +24,38 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.08392,27.15336,81.12392,27.19336",
+    "ks:ks_id":"KS462C70379AB043BEB0B24F474E1307A9",
+    "ks:ks_name":"Bahara",
+    "ks:ks_pop":201,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|70269",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1893327",
+    "lbl:latitude":27.173431,
+    "lbl:longitude":81.104091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.173431,
+    "mps:longitude":81.104091,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bahara"
+    ],
+    "name:eng_x_variant":[
+        "Bahera"
+    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d39\u0d47\u0d31"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10723628
+        "gn:id":10723628,
+        "ks:id":"KS462C70379AB043BEB0B24F474E1307A9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dabe8a42e21ee4204d8827fc405e309f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46995f1b6a4cbadfc184cc4f1aa2a28c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +82,22 @@
         }
     ],
     "wof:id":1276485103,
-    "wof:lastmodified":1566693812,
-    "wof:name":"Bahera",
+    "wof:lastmodified":1682774199,
+    "wof:name":"Bahara",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.10392,
-    27.17336,
-    81.10392,
-    27.17336
+    81.103539,
+    27.172733,
+    81.10475,
+    27.174448
 ],
-  "geometry": {"coordinates":[81.10392,27.17336],"type":"Point"}
+  "geometry": {"coordinates":[[[81.104651,27.174448],[81.10465000000001,27.174358],[81.10454900000001,27.174358],[81.10454900000001,27.174177],[81.104347,27.174177],[81.104347,27.173906],[81.104448,27.173906],[81.104448,27.173726],[81.10454900000001,27.173726],[81.10454900000001,27.173545],[81.10465000000001,27.173545],[81.10464899999999,27.173274],[81.10475,27.173274],[81.10475,27.173003],[81.10464899999999,27.173003],[81.10464899999999,27.172913],[81.10454799999999,27.172913],[81.10454799999999,27.172823],[81.10444699999999,27.172823],[81.10444699999999,27.172733],[81.103942,27.172733],[81.103942,27.172823],[81.103741,27.172823],[81.103741,27.172914],[81.10364,27.172914],[81.10364,27.173275],[81.103539,27.173275],[81.103539,27.173636],[81.10364,27.173636],[81.10364,27.173817],[81.103741,27.173817],[81.103742,27.173907],[81.103842,27.173907],[81.103843,27.174087],[81.103944,27.174087],[81.103944,27.174177],[81.104045,27.174177],[81.104045,27.174268],[81.104348,27.174267],[81.104348,27.174358],[81.104449,27.174358],[81.104449,27.174448],[81.104651,27.174448]]],"type":"Polygon"}
 }

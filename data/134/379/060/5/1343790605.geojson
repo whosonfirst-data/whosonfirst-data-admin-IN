@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.93166,30.52443,77.93166,30.52443",
-    "geom:latitude":30.52443,
-    "geom:longitude":77.93166,
+    "geom:bbox":"77.929933,30.524233,77.930883,30.525053",
+    "geom:latitude":30.524682,
+    "geom:longitude":77.930414,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"60.0",
     "gn:asciiname":"Bihar",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.91166,30.50443,77.95166,30.54443",
+    "ks:ks_alt_nam":"Bih\u0101r",
+    "ks:ks_id":"KS5CDEAD2E846941378FD975AAD064CBA0",
+    "ks:ks_name":"Bihar",
+    "ks:ks_pop":66,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|161555",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2641868",
+    "lbl:latitude":30.524697,
+    "lbl:longitude":77.930375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.524697,
+    "mps:longitude":77.930375,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Bihar"
@@ -116,6 +127,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03c7\u03ac\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Bihar"
+    ],
+    "name:eng_x_variant":[
+        "Bih\u0101r"
     ],
     "name:epo_x_preferred":[
         "Biharo"
@@ -366,7 +383,13 @@
     "name:zho_x_preferred":[
         "\u6bd4\u54c8\u5c14\u90a6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -375,10 +398,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10169378
+        "gn:id":10169378,
+        "ks:id":"KS5CDEAD2E846941378FD975AAD064CBA0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4b7e4cd947aa17f44daff31a64f4268e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6d670ca0e1dfb2695e6cd96471b81182",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,20 +416,22 @@
         }
     ],
     "wof:id":1343790605,
-    "wof:lastmodified":1577749760,
+    "wof:lastmodified":1686162263,
     "wof:name":"Bihar",
     "wof:parent_id":890507905,
     "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.93166,
-    30.52443,
-    77.93166,
-    30.52443
+    77.929933,
+    30.524233,
+    77.930883,
+    30.525053
 ],
-  "geometry": {"coordinates":[77.93165999999999,30.52443],"type":"Point"}
+  "geometry": {"coordinates":[[[77.93088299999999,30.525037],[77.93087,30.524586],[77.93076600000001,30.524588],[77.930763,30.524498],[77.93065900000001,30.524501],[77.930654,30.52432],[77.930549,30.524323],[77.930547,30.524233],[77.93013000000001,30.524242],[77.930136,30.524422],[77.930032,30.524425],[77.930037,30.524605],[77.92993300000001,30.524607],[77.929941,30.524878],[77.93004500000001,30.524875],[77.930048,30.524965],[77.93015200000001,30.524963],[77.930155,30.525053],[77.93088299999999,30.525037]]],"type":"Polygon"}
 }

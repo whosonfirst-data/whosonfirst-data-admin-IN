@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.83351,28.51792,75.83351,28.51792",
-    "geom:latitude":28.51792,
-    "geom:longitude":75.83351,
+    "geom:bbox":"75.832357,28.517116,75.835641,28.519275",
+    "geom:latitude":28.51822,
+    "geom:longitude":75.833858,
     "gn:admin1_code":"10",
     "gn:admin2_code":"81.0",
     "gn:asciiname":"Kishanpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.81351,28.49792,75.85351,28.53792",
+    "ks:ks_id":"KSAAFF38BC543B42CB80DAC3C2576456AF",
+    "ks:ks_name":"Kishan Pura",
+    "ks:ks_pop":1671,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1262179",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1781245",
+    "lbl:latitude":28.518153,
+    "lbl:longitude":75.833889,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.518153,
+    "mps:longitude":75.833889,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0634\u0627\u0646\u0628\u0648\u0631\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0995\u09bf\u09b7\u09be\u09a8\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Kishan Pura"
+    ],
+    "name:eng_x_variant":[
+        "Kishanpura"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab6\u0aa8\u0aaa\u0ac1\u0ab0\u0abe"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06a9\u0634\u0646 \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10550752
+        "gn:id":10550752,
+        "ks:id":"KSAAFF38BC543B42CB80DAC3C2576456AF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b3c3f96a0cc479c887f8e8583f7858b4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"09b13ce237bf834899e22a9aead8ceb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1293270727,
-    "wof:lastmodified":1577750317,
-    "wof:name":"Kishanpura",
+    "wof:lastmodified":1682812267,
+    "wof:name":"Kishan Pura",
     "wof:parent_id":1108695761,
     "wof:placetype":"locality",
+    "wof:population":1671,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.83351,
-    28.51792,
-    75.83351,
-    28.51792
+    75.832357,
+    28.517116,
+    75.835641,
+    28.519275
 ],
-  "geometry": {"coordinates":[75.83351,28.51792],"type":"Point"}
+  "geometry": {"coordinates":[[[75.835438,28.519272],[75.835438,28.519181],[75.83553999999999,28.519181],[75.835539,28.519091],[75.835641,28.51909],[75.835639,28.518819],[75.835537,28.51882],[75.83553499999999,28.518639],[75.83543299999999,28.51864],[75.835429,28.518098],[75.83532700000001,28.518099],[75.835325,28.517828],[75.835223,28.517829],[75.835222,28.517739],[75.83512,28.517739],[75.83511900000001,28.517649],[75.83501699999999,28.51765],[75.835016,28.517559],[75.834914,28.51756],[75.834913,28.51747],[75.834811,28.51747],[75.83481,28.51738],[75.834504,28.517382],[75.834503,28.517292],[75.83419600000001,28.517294],[75.83419600000001,28.517203],[75.833685,28.517206],[75.83368400000001,28.517116],[75.83256,28.517123],[75.832561,28.517213],[75.832458,28.517214],[75.832459,28.517304],[75.832357,28.517305],[75.83237,28.51902],[75.83247299999999,28.519019],[75.83247299999999,28.519109],[75.833597,28.519102],[75.833597,28.519012],[75.83380099999999,28.519011],[75.83380200000001,28.519101],[75.83441500000001,28.519097],[75.834416,28.519188],[75.834824,28.519185],[75.834825,28.519275],[75.835438,28.519272]]],"type":"Polygon"}
 }

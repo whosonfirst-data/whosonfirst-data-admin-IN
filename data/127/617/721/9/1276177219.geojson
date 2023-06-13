@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.06262,21.63772,80.06262,21.63772",
-    "geom:latitude":21.63772,
-    "geom:longitude":80.06262,
+    "geom:bbox":"80.062332,21.637118,80.063687,21.639197",
+    "geom:latitude":21.638174,
+    "geom:longitude":80.062935,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"457.0",
     "gn:asciiname":"Katangi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.04262,21.61772,80.08262,21.65772",
+    "ks:ks_id":"KS2C0C1B3C26B841409C56A336F8FA2E66",
+    "ks:ks_name":"Katangi",
+    "ks:ks_pop":349,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|522203",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_966957",
+    "lbl:latitude":21.638191,
+    "lbl:longitude":80.062922,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.638191,
+    "mps:longitude":80.062922,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u099f\u09be\u0999\u09cd\u0997\u09bf"
@@ -41,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "Kat\u0101ngi"
+    ],
+    "name:eng_x_preferred":[
+        "Katangi"
     ],
     "name:fra_x_preferred":[
         "Katangi"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5510\u683c\u4f0a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10699081
+        "gn:id":10699081,
+        "ks:id":"KS2C0C1B3C26B841409C56A336F8FA2E66"
     },
     "wof:country":"IN",
-    "wof:geomhash":"da78c2d5b5ca24aa2c1248c033ada754",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dbfa6788ae7b307358a22d67758cd631",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1276177219,
-    "wof:lastmodified":1566692099,
+    "wof:lastmodified":1682764217,
     "wof:name":"Katangi",
     "wof:parent_id":890508835,
     "wof:placetype":"locality",
+    "wof:population":349,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.06262,
-    21.63772,
-    80.06262,
-    21.63772
+    80.062332,
+    21.637118,
+    80.063687,
+    21.639197
 ],
-  "geometry": {"coordinates":[80.06262,21.63772],"type":"Point"}
+  "geometry": {"coordinates":[[[80.06281300000001,21.639197],[80.062814,21.639107],[80.062911,21.639107],[80.062911,21.639017],[80.06320100000001,21.639018],[80.063202,21.638928],[80.063588,21.63893],[80.06358899999999,21.63884],[80.06368500000001,21.638841],[80.063687,21.63866],[80.06359,21.638659],[80.063591,21.638569],[80.06349400000001,21.638568],[80.063496,21.638297],[80.063399,21.638297],[80.063402,21.637845],[80.06349899999999,21.637846],[80.063502,21.637304],[80.063405,21.637303],[80.063406,21.637213],[80.062826,21.63721],[80.062827,21.637119],[80.062634,21.637118],[80.06263199999999,21.637299],[80.06253599999999,21.637298],[80.06253599999999,21.637208],[80.06244,21.637207],[80.062438,21.637478],[80.062535,21.637479],[80.062534,21.637569],[80.062437,21.637569],[80.062433,21.638291],[80.062336,21.638291],[80.062332,21.639014],[80.062428,21.639014],[80.062428,21.639104],[80.062524,21.639105],[80.062524,21.639195],[80.06281300000001,21.639197]]],"type":"Polygon"}
 }

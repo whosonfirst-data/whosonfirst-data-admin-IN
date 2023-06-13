@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.33473,10.70015,77.33473,10.70015",
-    "geom:latitude":10.70015,
-    "geom:longitude":77.33473,
+    "geom:bbox":"77.32865,10.702881,77.330208,10.70433",
+    "geom:latitude":10.703612,
+    "geom:longitude":77.329551,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"633.0",
     "gn:asciiname":"Chittur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.31473,10.68015,77.35473,10.72015",
+    "ks:ks_id":"KSB36B0173419F4D7D801137A8C6985A98",
+    "ks:ks_name":"Chittur",
+    "ks:ks_pop":206,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|230193",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_172516",
+    "lbl:latitude":10.703562,
+    "lbl:longitude":77.329644,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.703562,
+    "mps:longitude":77.329644,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a4\u09cd\u09a4\u09c1\u09b0-\u09a5\u09be\u09a5\u09ae\u0999\u09cd\u0997\u09b2\u09ae"
     ],
     "name:bpy_x_preferred":[
         "\u099a\u09bf\u09a4\u09cd\u09a4\u09c1\u09b0-\u09a5\u09be\u09a5\u09ae\u0999\u09cd\u0997\u09b2\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Chittur"
     ],
     "name:ita_x_preferred":[
         "Chittur"
@@ -60,7 +73,13 @@
     "name:vie_x_preferred":[
         "Chittur-Thathamangalam"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11578852
+        "gn:id":11578852,
+        "ks:id":"KSB36B0173419F4D7D801137A8C6985A98"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dfb0838ec427456db3a9d5e44e54bb2f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06e570076ce1c799445c4d8e03f143ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +106,22 @@
         }
     ],
     "wof:id":1242735041,
-    "wof:lastmodified":1566705885,
+    "wof:lastmodified":1682691324,
     "wof:name":"Chittur",
     "wof:parent_id":1108696357,
     "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.33473000000002,
-    10.70015,
-    77.33473000000002,
-    10.70015
+    77.32865,
+    10.702881,
+    77.330208,
+    10.70433
 ],
-  "geometry": {"coordinates":[77.33473000000002,10.70015],"type":"Point"}
+  "geometry": {"coordinates":[[[77.330026,10.704327],[77.330026,10.704237],[77.330117,10.704236],[77.330116,10.704146],[77.330208,10.704145],[77.33019899999999,10.703061],[77.330108,10.703061],[77.330107,10.702971],[77.330016,10.702972],[77.330015,10.702881],[77.32955800000001,10.702885],[77.329559,10.702975],[77.329376,10.702977],[77.32937699999999,10.703067],[77.329286,10.703068],[77.329286,10.703158],[77.329104,10.703159],[77.329104,10.70325],[77.32892099999999,10.703251],[77.32892200000001,10.703341],[77.32883099999999,10.703342],[77.32883099999999,10.703433],[77.32874,10.703433],[77.32874099999999,10.703614],[77.32865,10.703615],[77.32865200000001,10.703886],[77.328744,10.703885],[77.328744,10.703975],[77.328836,10.703975],[77.328836,10.704065],[77.329385,10.704061],[77.329385,10.704151],[77.329477,10.704151],[77.329477,10.704241],[77.32966,10.70424],[77.329661,10.70433],[77.330026,10.704327]]],"type":"Polygon"}
 }

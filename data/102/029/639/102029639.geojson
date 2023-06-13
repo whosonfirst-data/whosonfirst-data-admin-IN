@@ -13,12 +13,20 @@
     "gn:longitude":88.49073,
     "gn:population":145926,
     "iso:country":"IN",
-    "lbl:latitude":23.40419,
-    "lbl:longitude":88.49186,
+    "ks:ks_id":"KS277DA6FD03884B4CA78D03B48BDC6DE5",
+    "ks:ks_name":"Krishnanagar",
+    "ks:ks_pop":139110,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1910001041004000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2801150",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":23.400133,
+    "lbl:longitude":88.496699,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":23.367471,
-    "mps:longitude":88.478393,
+    "mps:latitude":23.400133,
+    "mps:longitude":88.496699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -63,6 +71,9 @@
         "\u05e7\u05e8\u05d9\u05e9\u05e0\u05e0\u05d0\u05d2\u05e8"
     ],
     "name:hin_x_preferred":[
+        "\u0915\u0943\u0937\u094d\u0923\u0928\u0917\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u0915\u0943\u0937\u094d\u0923\u093e\u0928\u0917\u0930"
     ],
     "name:hun_x_preferred":[
@@ -256,10 +267,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":3555,
     "wof:belongsto":[
         102191569,
@@ -271,13 +284,16 @@
     "wof:concordances":{
         "gn:id":1265859,
         "gp:id":2294903,
+        "ks:id":"KS277DA6FD03884B4CA78D03B48BDC6DE5",
         "qs_pg:id":184280,
         "wd:id":"Q1006338",
         "wk:page":"Krishnanagar, Nadia"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"cdd1586a4751b2f1813adcc3626adebf",
     "wof:hierarchy":[
@@ -290,11 +306,11 @@
         }
     ],
     "wof:id":102029639,
-    "wof:lastmodified":1658780767,
+    "wof:lastmodified":1686162202,
     "wof:name":"Krishnanagar",
     "wof:parent_id":1108696075,
     "wof:placetype":"locality",
-    "wof:population":145926,
+    "wof:population":139110,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

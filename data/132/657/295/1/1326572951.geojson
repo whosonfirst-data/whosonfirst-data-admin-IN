@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.53137,25.80294,81.53137,25.80294",
-    "geom:latitude":25.80294,
-    "geom:longitude":81.53137,
+    "geom:bbox":"81.531543,25.802486,81.532352,25.803294",
+    "geom:latitude":25.802967,
+    "geom:longitude":81.531909,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Ping",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.51137,25.78294,81.55137,25.82294",
+    "ks:ks_id":"KS3BEDF57947D94B8E8932BA030DE12FD1",
+    "ks:ks_name":"Ping",
+    "ks:ks_pop":924,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|853214",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_813930",
+    "lbl:latitude":25.803025,
+    "lbl:longitude":81.531909,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.803025,
+    "mps:longitude":81.531909,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u063a"
@@ -47,6 +57,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b9\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Ping"
     ],
     "name:est_x_preferred":[
         "Ping"
@@ -102,7 +115,13 @@
     "name:zho_x_preferred":[
         "Ping"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -111,10 +130,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10657870
+        "gn:id":10657870,
+        "ks:id":"KS3BEDF57947D94B8E8932BA030DE12FD1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8b5c323e5fbbdebcfb4182d42d7311e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"34d1224d4f38be5ee7ac39720f758a58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,20 +148,22 @@
         }
     ],
     "wof:id":1326572951,
-    "wof:lastmodified":1636505221,
+    "wof:lastmodified":1682881302,
     "wof:name":"Ping",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":924,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.53137,
-    25.80294,
-    81.53137,
-    25.80294
+    81.531543,
+    25.802486,
+    81.532352,
+    25.803294
 ],
-  "geometry": {"coordinates":[81.53137,25.80294],"type":"Point"}
+  "geometry": {"coordinates":[[[81.531813,25.802486],[81.531543,25.802486],[81.531543,25.803294],[81.532352,25.803294],[81.532352,25.802755],[81.531813,25.802755],[81.531813,25.802486]]],"type":"Polygon"}
 }

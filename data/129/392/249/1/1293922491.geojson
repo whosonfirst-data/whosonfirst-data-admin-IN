@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.91648,22.84872,81.91648,22.84872",
-    "geom:latitude":22.84872,
-    "geom:longitude":81.91648,
+    "geom:bbox":"81.916382,22.848017,81.916921,22.849095",
+    "geom:latitude":22.848556,
+    "geom:longitude":81.916651,
     "gn:admin1_code":"37",
     "gn:admin2_code":"406.0",
     "gn:asciiname":"Sapni",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.89648,22.82872,81.93648,22.86872",
+    "ks:ks_id":"KS77B6A5CE759D4AD9BD4AF2FA8BD56E71",
+    "ks:ks_name":"Sapni",
+    "ks:ks_pop":486,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13160617",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_724027",
+    "lbl:latitude":22.848556,
+    "lbl:longitude":81.916651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.848556,
+    "mps:longitude":81.916651,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sapni"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10725899
+        "gn:id":10725899,
+        "ks:id":"KS77B6A5CE759D4AD9BD4AF2FA8BD56E71"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6085cdc1a0a87ad76f5a50b9c4e5f470",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e726183a74f95d5cf95a34e91ae8d272",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1293922491,
-    "wof:lastmodified":1566690532,
+    "wof:lastmodified":1682835046,
     "wof:name":"Sapni",
     "wof:parent_id":890506469,
     "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.91648,
-    22.84872,
-    81.91648,
-    22.84872
+    81.916382,
+    22.848017,
+    81.916921,
+    22.849095
 ],
-  "geometry": {"coordinates":[81.91648000000001,22.84872],"type":"Point"}
+  "geometry": {"coordinates":[[[81.916921,22.848017],[81.916382,22.848017],[81.916382,22.849095],[81.916921,22.849095],[81.916921,22.848017]]],"type":"Polygon"}
 }

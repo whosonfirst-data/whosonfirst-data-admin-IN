@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.50577,27.11483,75.50577,27.11483",
-    "geom:latitude":27.11483,
-    "geom:longitude":75.50577,
+    "geom:bbox":"75.505036,27.114077,75.506955,27.115345",
+    "geom:latitude":27.114688,
+    "geom:longitude":75.505898,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"110.0",
     "gn:asciiname":"Rampura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.48577,27.09483,75.52577,27.13483",
+    "ks:ks_id":"KS2DF69590B1B94A84AA1EFB066078DC47",
+    "ks:ks_name":"Rampura",
+    "ks:ks_pop":455,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|906673",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1704090",
+    "lbl:latitude":27.114656,
+    "lbl:longitude":75.50582,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.114656,
+    "mps:longitude":75.50582,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0628\u0648\u0631\u0627"
@@ -40,6 +50,9 @@
         "\u09b0\u09be\u09ae\u09aa\u09c1\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
+        "Rampura"
+    ],
+    "name:eng_x_preferred":[
         "Rampura"
     ],
     "name:guj_x_preferred":[
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645\u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10306128
+        "gn:id":10306128,
+        "ks:id":"KS2DF69590B1B94A84AA1EFB066078DC47"
     },
     "wof:country":"IN",
-    "wof:geomhash":"840c5abe78c739f493e16f62ee8f5311",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5f1b4fbee71d11e66a6e7afe1a47c656",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1225813433,
-    "wof:lastmodified":1577754325,
+    "wof:lastmodified":1682644758,
     "wof:name":"Rampura",
     "wof:parent_id":890510869,
     "wof:placetype":"locality",
+    "wof:population":455,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.50577,
-    27.11483,
-    75.50577,
-    27.11483
+    75.505036,
+    27.114077,
+    75.506955,
+    27.115345
 ],
-  "geometry": {"coordinates":[75.50577,27.11483],"type":"Point"}
+  "geometry": {"coordinates":[[[75.50605,27.115342],[75.506049,27.115252],[75.50615000000001,27.115251],[75.50615000000001,27.115161],[75.506351,27.11516],[75.506351,27.11507],[75.506654,27.115069],[75.506653,27.114979],[75.506855,27.114978],[75.506854,27.114798],[75.506955,27.114797],[75.506955,27.114707],[75.506854,27.114707],[75.50685300000001,27.114436],[75.50675200000001,27.114437],[75.50675099999999,27.114346],[75.50664999999999,27.114347],[75.50664999999999,27.114257],[75.50654900000001,27.114257],[75.50654900000001,27.114167],[75.50634700000001,27.114167],[75.50634700000001,27.114077],[75.505439,27.11408],[75.505439,27.114171],[75.50523699999999,27.114171],[75.50523800000001,27.114262],[75.505137,27.114262],[75.505137,27.114352],[75.505036,27.114353],[75.505039,27.115075],[75.50514,27.115075],[75.50514099999999,27.115165],[75.505242,27.115164],[75.505242,27.115255],[75.505343,27.115254],[75.505343,27.115345],[75.50605,27.115342]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.54662,14.34191,77.54662,14.34191",
-    "geom:latitude":14.34191,
-    "geom:longitude":77.54662,
+    "geom:bbox":"77.542706,14.341826,77.543546,14.342824",
+    "geom:latitude":14.342355,
+    "geom:longitude":77.543138,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"553.0",
     "gn:asciiname":"Krishnagiri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.52662,14.32191,77.56662,14.36191",
+    "ks:ks_id":"KSDAD90928857C4F7DBC9F4CA42F30BE62",
+    "ks:ks_name":"Krishnagiri",
+    "ks:ks_pop":59,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|589886",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_339524",
+    "lbl:latitude":14.342397,
+    "lbl:longitude":77.543131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.342397,
+    "mps:longitude":77.543131,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0634\u0646\u0627\u062c\u0631\u064a"
@@ -46,6 +56,9 @@
         "Krishnagiri"
     ],
     "name:deu_x_preferred":[
+        "Krishnagiri"
+    ],
+    "name:eng_x_preferred":[
         "Krishnagiri"
     ],
     "name:fra_x_preferred":[
@@ -123,7 +136,13 @@
     "name:zho_x_preferred":[
         "\u514b\u91cc\u65af\u8d6b\u7eb3\u5409\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -132,10 +151,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10849584
+        "gn:id":10849584,
+        "ks:id":"KSDAD90928857C4F7DBC9F4CA42F30BE62"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9f2c1b0216121aced8d9c10c932e5651",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05f85949d0b91b6c6eff7f75664c4f42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,20 +169,22 @@
         }
     ],
     "wof:id":1259692059,
-    "wof:lastmodified":1577753914,
+    "wof:lastmodified":1686165688,
     "wof:name":"Krishnagiri",
     "wof:parent_id":890508205,
     "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.54661999999998,
-    14.34191,
-    77.54661999999998,
-    14.34191
+    77.542706,
+    14.341826,
+    77.543546,
+    14.342824
 ],
-  "geometry": {"coordinates":[77.54661999999998,14.34191],"type":"Point"}
+  "geometry": {"coordinates":[[[77.54345499999999,14.342818],[77.543454,14.342728],[77.54354600000001,14.342727],[77.54353999999999,14.342185],[77.543447,14.342186],[77.54344399999999,14.341915],[77.543352,14.341916],[77.543351,14.341826],[77.54298,14.34183],[77.542981,14.34192],[77.542889,14.341921],[77.54289,14.342011],[77.54279699999999,14.342012],[77.542799,14.342193],[77.542706,14.342194],[77.542711,14.342646],[77.542804,14.342645],[77.542805,14.342735],[77.54289799999999,14.342734],[77.54289900000001,14.342824],[77.54345499999999,14.342818]]],"type":"Polygon"}
 }

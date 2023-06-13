@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.42305,25.85858,83.42305,25.85858",
-    "geom:latitude":25.85858,
-    "geom:longitude":83.42305,
+    "geom:bbox":"83.422333,25.858027,83.423643,25.859476",
+    "geom:latitude":25.858706,
+    "geom:longitude":83.422983,
     "gn:admin1_code":"36",
     "gn:admin2_code":"192.0",
     "gn:asciiname":"Ghora Dih",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.40305,25.83858,83.44305,25.87858",
+    "ks:ks_id":"KS01DC9D1559494EB18945AAA8CDBAD184",
+    "ks:ks_name":"Goradih",
+    "ks:ks_pop":281,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|373973",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1948389",
+    "lbl:latitude":25.85868,
+    "lbl:longitude":83.423036,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.85868,
+    "mps:longitude":83.423036,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Goradih"
+    ],
+    "name:eng_x_variant":[
+        "Ghora Dih"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10626060
+        "gn:id":10626060,
+        "ks:id":"KS01DC9D1559494EB18945AAA8CDBAD184"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e83e40450c3ed78314a47629b588b30a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5d158547047550214fff31cbe1424975",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1193190067,
-    "wof:lastmodified":1566698790,
-    "wof:name":"Ghora Dih",
+    "wof:lastmodified":1682592655,
+    "wof:name":"Goradih",
     "wof:parent_id":1108695873,
     "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.42305,
-    25.85858,
-    83.42305,
-    25.85858
+    83.422333,
+    25.858027,
+    83.423643,
+    25.859476
 ],
-  "geometry": {"coordinates":[83.42305,25.85858],"type":"Point"}
+  "geometry": {"coordinates":[[[83.42335300000001,25.859284],[83.423351,25.859193],[83.42345,25.859192],[83.423447,25.859011],[83.423547,25.85901],[83.423543,25.858829],[83.423643,25.858828],[83.423633,25.858376],[83.423534,25.858378],[83.42353199999999,25.858288],[83.42343200000001,25.85829],[83.42343,25.858199],[83.423331,25.858201],[83.423329,25.858111],[83.42292999999999,25.858117],[83.422928,25.858027],[83.422629,25.858032],[83.422631,25.858122],[83.422431,25.858126],[83.422433,25.858216],[83.42233299999999,25.858218],[83.422341,25.858579],[83.42243999999999,25.858577],[83.42244599999999,25.858848],[83.422546,25.858846],[83.42255299999999,25.859207],[83.422653,25.859205],[83.422658,25.859476],[83.423057,25.859469],[83.42305500000001,25.859379],[83.423255,25.859376],[83.423253,25.859285],[83.42335300000001,25.859284]]],"type":"Polygon"}
 }

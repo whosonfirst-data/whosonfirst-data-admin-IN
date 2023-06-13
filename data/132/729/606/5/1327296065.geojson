@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.73626,13.60464,77.73626,13.60464",
-    "geom:latitude":13.60464,
-    "geom:longitude":77.73626,
+    "geom:bbox":"77.735586,13.603682,77.737252,13.605218",
+    "geom:latitude":13.604455,
+    "geom:longitude":77.736404,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"582.0",
     "gn:asciiname":"Hosahalli",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.71626,13.58464,77.75626,13.62464",
+    "ks:ks_id":"KS4299A9ABA0E041E79C4439DD6C25A8F3",
+    "ks:ks_name":"Hosahalli",
+    "ks:ks_source_id":"N|13321155",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_327818",
+    "lbl:latitude":13.60449,
+    "lbl:longitude":77.736388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.60449,
+    "mps:longitude":77.736388,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0647\u0627\u0644\u064a"
@@ -38,6 +46,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b9\u09cb\u09b8\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Hosahalli"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab8\u0abe\u0ab9\u0ab2\u0acd\u0ab2\u0ac0"
@@ -69,7 +80,11 @@
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0633\u0627 \u06c1\u0644\u0651\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10853873
+        "gn:id":10853873,
+        "ks:id":"KS4299A9ABA0E041E79C4439DD6C25A8F3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d462b64be1bad0958ce9529dfd21ef44",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16ee4b72fe54605a6d39e1dc4d6f93e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +111,7 @@
         }
     ],
     "wof:id":1327296065,
-    "wof:lastmodified":1577749620,
+    "wof:lastmodified":1682911605,
     "wof:name":"Hosahalli",
     "wof:parent_id":1108696341,
     "wof:placetype":"locality",
@@ -102,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    77.73626,
-    13.60464,
-    77.73626,
-    13.60464
+    77.735586,
+    13.603682,
+    77.737252,
+    13.605218
 ],
-  "geometry": {"coordinates":[77.73626,13.60464],"type":"Point"}
+  "geometry": {"coordinates":[[[77.736519,13.605214],[77.736518,13.605124],[77.73670300000001,13.605122],[77.73670199999999,13.605031],[77.73697900000001,13.605028],[77.73697799999999,13.604938],[77.73707,13.604937],[77.73706900000001,13.604847],[77.737162,13.604846],[77.73716,13.604665],[77.737252,13.604664],[77.737246,13.604122],[77.73715300000001,13.604123],[77.737151,13.603943],[77.736874,13.603946],[77.736873,13.603855],[77.73631899999999,13.603861],[77.736318,13.603771],[77.736226,13.603772],[77.736225,13.603682],[77.73594799999999,13.603685],[77.73594900000001,13.603775],[77.735856,13.603776],[77.735857,13.603866],[77.735765,13.603867],[77.735766,13.603958],[77.735674,13.603959],[77.73567799999999,13.60432],[77.735586,13.604321],[77.73559,13.604682],[77.735682,13.604681],[77.73568400000001,13.604862],[77.735777,13.604861],[77.735778,13.604951],[77.73587000000001,13.60495],[77.735871,13.605041],[77.735963,13.60504],[77.735964,13.60513],[77.736149,13.605128],[77.73614999999999,13.605218],[77.736519,13.605214]]],"type":"Polygon"}
 }

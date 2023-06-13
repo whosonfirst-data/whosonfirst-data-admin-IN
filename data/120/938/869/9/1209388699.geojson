@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672157,
+        890506473
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10776939
     },
     "wof:country":"IN",
-    "wof:geomhash":"4ff729f57b519fd52ce19bfee0d77b89",
+    "wof:geomhash":"91b2727caecfed4787920cf09a447894",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209388699
+            "county_id":890506473,
+            "locality_id":1209388699,
+            "region_id":85672157
         }
     ],
     "wof:id":1209388699,
-    "wof:lastmodified":1566694509,
+    "wof:lastmodified":1682617826,
     "wof:name":"Kundanipadra",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890506473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847128625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.57781999999997,
+    83.57782,
     19.34358,
-    83.57781999999997,
+    83.57782,
     19.34358
 ],
-  "geometry": {"coordinates":[83.57781999999997,19.34358],"type":"Point"}
+  "geometry": {"coordinates":[83.57782,19.34358],"type":"Point"}
 }

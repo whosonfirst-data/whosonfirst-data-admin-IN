@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.71219,29.97627,78.71219,29.97627",
-    "geom:latitude":29.97627,
-    "geom:longitude":78.71219,
+    "geom:bbox":"78.708587,29.975879,78.709665,29.976418",
+    "geom:latitude":29.976149,
+    "geom:longitude":78.709126,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Bedulgaon",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.69219,29.95627,78.73219,29.99627",
+    "ks:ks_id":"KSA7DB6987BBD545E6812A596560263456",
+    "ks:ks_name":"Bedal Gaon",
+    "ks:ks_pop":246,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|117733",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2141238",
+    "lbl:latitude":29.976148,
+    "lbl:longitude":78.709126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.976148,
+    "mps:longitude":78.709126,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bedal Gaon"
+    ],
+    "name:eng_x_variant":[
+        "Bedulgaon"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444456
+        "gn:id":1444456,
+        "ks:id":"KSA7DB6987BBD545E6812A596560263456"
     },
     "wof:country":"IN",
-    "wof:geomhash":"94443a67e1843d51556a3307a116f09d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac9d1852c56439dd25e46758b1e89100",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326858959,
-    "wof:lastmodified":1566683583,
-    "wof:name":"Bedulgaon",
+    "wof:lastmodified":1682892007,
+    "wof:name":"Bedal Gaon",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.71219,
-    29.97627,
-    78.71219,
-    29.97627
+    78.708587,
+    29.975879,
+    78.709665,
+    29.976418
 ],
-  "geometry": {"coordinates":[78.71219000000001,29.97627],"type":"Point"}
+  "geometry": {"coordinates":[[[78.709665,29.975879],[78.70858699999999,29.975879],[78.70858699999999,29.976418],[78.709665,29.976418],[78.709665,29.975879]]],"type":"Polygon"}
 }

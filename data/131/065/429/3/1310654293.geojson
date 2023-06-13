@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.52613,25.31425,84.52613,25.31425",
-    "geom:latitude":25.31425,
-    "geom:longitude":84.52613,
+    "geom:bbox":"84.518801,25.314929,84.521,25.315832",
+    "geom:latitude":25.3154,
+    "geom:longitude":84.51991,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"231.0",
     "gn:asciiname":"Tetariya",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.50613,25.29425,84.54613,25.33425",
+    "ks:ks_id":"KS7E526CD22BD14CC196177D7D77B5848B",
+    "ks:ks_name":"Tetaria",
+    "ks:ks_pop":338,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1041648",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2056526",
+    "lbl:latitude":25.315362,
+    "lbl:longitude":84.519931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.315362,
+    "mps:longitude":84.519931,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0924\u0947\u0924\u0930\u093f\u092f\u093e"
     ],
     "name:ceb_x_preferred":[
+        "Tetariya"
+    ],
+    "name:eng_x_preferred":[
+        "Tetaria"
+    ],
+    "name:eng_x_variant":[
         "Tetariya"
     ],
     "name:hin_x_preferred":[
@@ -54,7 +70,13 @@
     "name:pol_x_preferred":[
         "Tetariya"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10805828
+        "gn:id":10805828,
+        "ks:id":"KS7E526CD22BD14CC196177D7D77B5848B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"94dd9cb0f65baf8a7f6963c1a55e8973",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c26b857d07f5cb33dbf93b4dd057c041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1310654293,
-    "wof:lastmodified":1566700811,
-    "wof:name":"Tetariya",
+    "wof:lastmodified":1682874915,
+    "wof:name":"Tetaria",
     "wof:parent_id":1108695939,
     "wof:placetype":"locality",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.52613000000002,
-    25.31425,
-    84.52613000000002,
-    25.31425
+    84.518801,
+    25.314929,
+    84.521,
+    25.315832
 ],
-  "geometry": {"coordinates":[84.52613000000002,25.31425],"type":"Point"}
+  "geometry": {"coordinates":[[[84.519992,25.315832],[84.519994,25.315741],[84.520292,25.315746],[84.52029400000001,25.315656],[84.520591,25.315661],[84.52059300000001,25.315571],[84.520792,25.315574],[84.520794,25.315484],[84.520893,25.315486],[84.52089700000001,25.315305],[84.520996,25.315307],[84.521,25.315127],[84.5209,25.315125],[84.52090200000001,25.315035],[84.520803,25.315033],[84.520805,25.314943],[84.520011,25.314929],[84.520009,25.31502],[84.519711,25.315015],[84.51970900000001,25.315105],[84.51941100000001,25.3151],[84.51940999999999,25.31519],[84.519211,25.315187],[84.519209,25.315277],[84.51901100000001,25.315274],[84.519009,25.315364],[84.51891000000001,25.315362],[84.518908,25.315452],[84.51880800000001,25.315451],[84.518801,25.315812],[84.519992,25.315832]]],"type":"Polygon"}
 }

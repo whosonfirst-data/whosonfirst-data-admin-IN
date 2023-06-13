@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.97574,25.97075,80.97574,25.97075",
-    "geom:latitude":25.97075,
-    "geom:longitude":80.97574,
+    "geom:bbox":"80.974595,25.969636,80.977192,25.971623",
+    "geom:latitude":25.970638,
+    "geom:longitude":80.975895,
     "gn:admin1_code":"36",
     "gn:admin2_code":"172.0",
     "gn:asciiname":"Mohanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.95574,25.95075,80.99574,25.99075",
+    "ks:ks_id":"KSDD3B83E0F1314D4295387EC5612466DF",
+    "ks:ks_name":"Mohan Pur",
+    "ks:ks_pop":570,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|709722",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1856681",
+    "lbl:latitude":25.970585,
+    "lbl:longitude":80.97587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.970585,
+    "mps:longitude":80.97587,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u064a\u0646\u0628\u0648\u0631"
@@ -40,6 +50,12 @@
         "\u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Mohanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Mohan Pur"
+    ],
+    "name:eng_x_variant":[
         "Mohanpur"
     ],
     "name:fra_x_preferred":[
@@ -84,7 +100,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u06c1\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10536123
+        "gn:id":10536123,
+        "ks:id":"KSDD3B83E0F1314D4295387EC5612466DF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b35f8d78667abff3b457c6914d75c054",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a340d7a6464b2f9585ef32a4ac8a0ccf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +133,22 @@
         }
     ],
     "wof:id":1326882731,
-    "wof:lastmodified":1577749374,
-    "wof:name":"Mohanpur",
+    "wof:lastmodified":1682894157,
+    "wof:name":"Mohan Pur",
     "wof:parent_id":1108695837,
     "wof:placetype":"locality",
+    "wof:population":570,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.97574,
-    25.97075,
-    80.97574,
-    25.97075
+    80.974595,
+    25.969636,
+    80.977192,
+    25.971623
 ],
-  "geometry": {"coordinates":[80.97574,25.97075],"type":"Point"}
+  "geometry": {"coordinates":[[[80.975593,25.971623],[80.975593,25.971533],[80.97609300000001,25.971533],[80.97609300000001,25.971443],[80.97649199999999,25.971443],[80.976493,25.971352],[80.977092,25.971352],[80.977092,25.971262],[80.977192,25.971262],[80.977192,25.970179],[80.977092,25.970179],[80.977092,25.970088],[80.976992,25.970088],[80.976992,25.969998],[80.97689200000001,25.969998],[80.97689200000001,25.969908],[80.976693,25.969908],[80.976693,25.969817],[80.97659299999999,25.969817],[80.97659299999999,25.969727],[80.97609300000001,25.969727],[80.97609300000001,25.969637],[80.975594,25.969636],[80.975594,25.969727],[80.97529400000001,25.969727],[80.97529400000001,25.969817],[80.975094,25.969817],[80.975094,25.969907],[80.974994,25.969907],[80.974994,25.969998],[80.974795,25.969998],[80.974795,25.970088],[80.974695,25.970088],[80.974695,25.970178],[80.97459499999999,25.970178],[80.97459499999999,25.970539],[80.974695,25.970539],[80.974694,25.971262],[80.974794,25.971262],[80.974794,25.971442],[80.97489400000001,25.971442],[80.97489400000001,25.971533],[80.975094,25.971533],[80.975094,25.971623],[80.975593,25.971623]]],"type":"Polygon"}
 }

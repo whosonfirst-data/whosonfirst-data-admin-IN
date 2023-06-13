@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.02244,25.45399,79.02244,25.45399",
-    "geom:latitude":25.45399,
-    "geom:longitude":79.02244,
+    "geom:bbox":"79.015272,25.455646,79.016889,25.456994",
+    "geom:latitude":25.456107,
+    "geom:longitude":79.016102,
     "gn:admin1_code":"36",
     "gn:admin2_code":"166.0",
     "gn:asciiname":"Bansar",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.00244,25.43399,79.04244,25.47399",
+    "ks:ks_id":"KSF074559A431B47F8B748143B76197BFB",
+    "ks:ks_name":"Bansar",
+    "ks:ks_pop":1622,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|94668",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_800186",
+    "lbl:latitude":25.456051,
+    "lbl:longitude":79.016102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.456051,
+    "mps:longitude":79.016102,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0633\u0627\u0631"
     ],
     "name:ceb_x_preferred":[
+        "Bansar"
+    ],
+    "name:eng_x_preferred":[
         "Bansar"
     ],
     "name:fra_x_preferred":[
@@ -54,7 +67,13 @@
     "name:pol_x_preferred":[
         "Bansar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10492473
+        "gn:id":10492473,
+        "ks:id":"KSF074559A431B47F8B748143B76197BFB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"68f103280ac708d4d5344bc3d2c3171a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fcdaf6453e9533933e92960e5bc48e58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1293628223,
-    "wof:lastmodified":1566689163,
+    "wof:lastmodified":1682824266,
     "wof:name":"Bansar",
     "wof:parent_id":890510677,
     "wof:placetype":"locality",
+    "wof:population":1622,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.02244,
-    25.45399,
-    79.02244,
-    25.45399
+    79.015272,
+    25.455646,
+    79.016889,
+    25.456994
 ],
-  "geometry": {"coordinates":[79.02244,25.45399],"type":"Point"}
+  "geometry": {"coordinates":[[[79.01688900000001,25.456455],[79.01688900000001,25.455646],[79.015272,25.455646],[79.015272,25.456185],[79.015542,25.456185],[79.015542,25.456455],[79.015811,25.456455],[79.015811,25.456994],[79.016081,25.456994],[79.016081,25.456455],[79.01688900000001,25.456455]]],"type":"Polygon"}
 }

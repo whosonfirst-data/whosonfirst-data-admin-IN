@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.9773,25.41862,83.9773,25.41862",
-    "geom:latitude":25.41862,
-    "geom:longitude":83.9773,
+    "geom:bbox":"83.976582,25.41794,83.978771,25.41887",
+    "geom:latitude":25.41839,
+    "geom:longitude":83.977681,
     "gn:admin1_code":"34",
     "gn:admin2_code":"232.0",
     "gn:asciiname":"Udaipura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.9573,25.39862,83.9973,25.43862",
+    "ks:ks_id":"KS2594B97522C1499C817828E9AA57E0B7",
+    "ks:ks_name":"Udaipura",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12955921",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1939803",
+    "lbl:latitude":25.418406,
+    "lbl:longitude":83.977701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.418406,
+    "mps:longitude":83.977701,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0\u09be"
@@ -37,6 +47,9 @@
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Udaipura"
+    ],
+    "name:eng_x_preferred":[
         "Udaipura"
     ],
     "name:fas_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u4e4c\u4ee3\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10510566
+        "gn:id":10510566,
+        "ks:id":"KS2594B97522C1499C817828E9AA57E0B7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6be8111c5622aa04a7a6492c3ef5e0ac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a670f094afa1110e6dc84569f1eec19a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1293634237,
-    "wof:lastmodified":1566689537,
+    "wof:lastmodified":1682825738,
     "wof:name":"Udaipura",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.9773,
-    25.41862,
-    83.9773,
-    25.41862
+    83.976582,
+    25.41794,
+    83.978771,
+    25.41887
 ],
-  "geometry": {"coordinates":[83.9773,25.41862],"type":"Point"}
+  "geometry": {"coordinates":[[[83.977987,25.418851],[83.977985,25.418761],[83.978184,25.418757],[83.978182,25.418667],[83.97838,25.418663],[83.97837800000001,25.418573],[83.978477,25.418571],[83.978475,25.418481],[83.978674,25.418477],[83.97867100000001,25.418386],[83.97877099999999,25.418384],[83.978764,25.418114],[83.97866500000001,25.418116],[83.978663,25.418026],[83.978464,25.41803],[83.97846199999999,25.41794],[83.977469,25.41796],[83.97747099999999,25.41805],[83.977074,25.418058],[83.977076,25.418148],[83.976778,25.418154],[83.97678000000001,25.418244],[83.97658199999999,25.418248],[83.97658800000001,25.418519],[83.976688,25.418517],[83.97669,25.418607],[83.976789,25.418605],[83.97679100000001,25.418695],[83.97689099999999,25.418693],[83.976893,25.418783],[83.977091,25.418779],[83.97709399999999,25.41887],[83.977987,25.418851]]],"type":"Polygon"}
 }

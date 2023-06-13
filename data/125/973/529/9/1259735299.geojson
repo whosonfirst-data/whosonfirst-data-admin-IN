@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.53646,26.91731,82.53646,26.91731",
-    "geom:latitude":26.91731,
-    "geom:longitude":82.53646,
+    "geom:bbox":"82.536219,26.916577,82.537028,26.917655",
+    "geom:latitude":26.917153,
+    "geom:longitude":82.536599,
     "gn:admin1_code":"36",
     "gn:admin2_code":"185.0",
     "gn:asciiname":"Kotwa",
@@ -24,16 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.51646,26.89731,82.55646,26.93731",
+    "ks:ks_id":"KS494684CB2C4A4F9F94D5AE2A907A425E",
+    "ks:ks_name":"Kotwa",
+    "ks:ks_source_id":"N|13076780",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1439543",
+    "lbl:latitude":26.917229,
+    "lbl:longitude":82.536621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.917229,
+    "mps:longitude":82.536621,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a4\u09c1\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Kotwa"
+    ],
+    "name:eng_x_preferred":[
         "Kotwa"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +77,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u7279\u74e6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10618809
+        "gn:id":10618809,
+        "ks:id":"KS494684CB2C4A4F9F94D5AE2A907A425E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c1cd90253f6be21a21c7539385bcfa7a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6cbe35fecefe4f1da4b7129677c969f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +108,7 @@
         }
     ],
     "wof:id":1259735299,
-    "wof:lastmodified":1566710233,
+    "wof:lastmodified":1682737553,
     "wof:name":"Kotwa",
     "wof:parent_id":1108695863,
     "wof:placetype":"locality",
@@ -99,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.53645999999998,
-    26.91731,
-    82.53645999999998,
-    26.91731
+    82.536219,
+    26.916577,
+    82.537028,
+    26.917655
 ],
-  "geometry": {"coordinates":[82.53645999999998,26.91731],"type":"Point"}
+  "geometry": {"coordinates":[[[82.53675800000001,26.916577],[82.536219,26.916577],[82.536219,26.917655],[82.53702800000001,26.917655],[82.53702800000001,26.916846],[82.53675800000001,26.916846],[82.53675800000001,26.916577]]],"type":"Polygon"}
 }

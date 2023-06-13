@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.30596,28.83831,77.30596,28.83831",
-    "geom:latitude":28.83831,
-    "geom:longitude":77.30596,
+    "geom:bbox":"77.302634,28.835917,77.307755,28.840229",
+    "geom:latitude":28.838219,
+    "geom:longitude":77.305125,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"139.0",
     "gn:asciiname":"Firozpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.28596,28.81831,77.32596,28.85831",
+    "ks:ks_id":"KS3C4B17BB2B8645569D040B4BD170D71D",
+    "ks:ks_name":"Firozpur",
+    "ks:ks_pop":2189,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|330807",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_939376",
+    "lbl:latitude":28.838036,
+    "lbl:longitude":77.304873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.838036,
+    "mps:longitude":77.304873,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0648\u0632 \u0628\u0648\u0631"
@@ -55,6 +65,9 @@
         "F\u012brozpur"
     ],
     "name:deu_x_preferred":[
+        "Firozpur"
+    ],
+    "name:eng_x_preferred":[
         "Firozpur"
     ],
     "name:fas_x_preferred":[
@@ -153,7 +166,13 @@
     "name:zho_x_preferred":[
         "\u83f2\u5965\u5179\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -162,10 +181,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10265466
+        "gn:id":10265466,
+        "ks:id":"KS3C4B17BB2B8645569D040B4BD170D71D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"00981bc9ca73e5941e034ffd5858fcc5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"018ba1f4209a2597f77ba230a8aaecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,20 +199,22 @@
         }
     ],
     "wof:id":1226702677,
-    "wof:lastmodified":1577754507,
+    "wof:lastmodified":1686165836,
     "wof:name":"Firozpur",
     "wof:parent_id":1108695797,
     "wof:placetype":"locality",
+    "wof:population":2189,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.30596,
-    28.83831,
-    77.30596,
-    28.83831
+    77.302634,
+    28.835917,
+    77.307755,
+    28.840229
 ],
-  "geometry": {"coordinates":[77.30596,28.83831],"type":"Point"}
+  "geometry": {"coordinates":[[[77.307216,28.840229],[77.307216,28.839959],[77.307755,28.839959],[77.307755,28.839151],[77.307216,28.839151],[77.307216,28.838612],[77.306946,28.838612],[77.306946,28.838073],[77.30667699999999,28.838073],[77.30667699999999,28.837803],[77.306138,28.837803],[77.306138,28.836995],[77.305599,28.836995],[77.305599,28.836186],[77.30506,28.836186],[77.30506,28.835917],[77.30452099999999,28.835917],[77.30452099999999,28.836456],[77.303982,28.836456],[77.303982,28.836725],[77.303712,28.836725],[77.303712,28.836995],[77.302634,28.836995],[77.302634,28.837534],[77.302904,28.837534],[77.302904,28.838073],[77.302634,28.838073],[77.302634,28.838612],[77.303712,28.838612],[77.303712,28.839151],[77.30425099999999,28.839151],[77.30425099999999,28.83942],[77.30479,28.83942],[77.30479,28.83969],[77.30506,28.83969],[77.30506,28.839959],[77.305599,28.839959],[77.305599,28.83969],[77.30640699999999,28.83969],[77.30640699999999,28.840229],[77.307216,28.840229]]],"type":"Polygon"}
 }

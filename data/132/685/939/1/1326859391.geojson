@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.57361,29.89113,78.57361,29.89113",
-    "geom:latitude":29.89113,
-    "geom:longitude":78.57361,
+    "geom:bbox":"78.571612,29.890438,78.572762,29.891888",
+    "geom:latitude":29.891131,
+    "geom:longitude":78.572235,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Sundal",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.55361,29.87113,78.59361,29.91113",
+    "ks:ks_id":"KS0F4CEA85413B40AFAB5E5B6D3F172018",
+    "ks:ks_name":"Sundal",
+    "ks:ks_pop":201,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1006157",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1839209",
+    "lbl:latitude":29.89103,
+    "lbl:longitude":78.572235,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.89103,
+    "mps:longitude":78.572235,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sundal"
+    ],
     "name:jav_x_preferred":[
         "Sunndal"
     ],
@@ -45,7 +58,13 @@
     "name:swe_x_preferred":[
         "Sunndal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444653
+        "gn:id":1444653,
+        "ks:id":"KS0F4CEA85413B40AFAB5E5B6D3F172018"
     },
     "wof:country":"IN",
-    "wof:geomhash":"44b167e9cc8a6591fd85f96f64f68a44",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bb134e5696debe854eadf00a41d4359f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1326859391,
-    "wof:lastmodified":1566683583,
+    "wof:lastmodified":1682892034,
     "wof:name":"Sundal",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.57361,
-    29.89113,
-    78.57361,
-    29.89113
+    78.571612,
+    29.890438,
+    78.572762,
+    29.891888
 ],
-  "geometry": {"coordinates":[78.57361,29.89113],"type":"Point"}
+  "geometry": {"coordinates":[[[78.572526,29.891888],[78.57252800000001,29.891798],[78.57273499999999,29.891802],[78.572762,29.89072],[78.572658,29.890718],[78.57266,29.890628],[78.572557,29.890626],[78.572559,29.890536],[78.572352,29.890532],[78.572354,29.890442],[78.572147,29.890438],[78.57214500000001,29.890528],[78.571731,29.890521],[78.571729,29.890611],[78.571625,29.890609],[78.571612,29.89115],[78.571716,29.891152],[78.57171099999999,29.891332],[78.571815,29.891334],[78.57181300000001,29.891424],[78.571916,29.891426],[78.571912,29.891607],[78.57201499999999,29.891608],[78.572013,29.891699],[78.57211700000001,29.891701],[78.572112,29.891881],[78.572526,29.891888]]],"type":"Polygon"}
 }

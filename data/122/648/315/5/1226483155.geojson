@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.37804,25.06667,83.37804,25.06667",
-    "geom:latitude":25.06667,
-    "geom:longitude":83.37804,
+    "geom:bbox":"83.36761,25.061376,83.368688,25.062993",
+    "geom:latitude":25.062292,
+    "geom:longitude":83.368095,
     "gn:admin1_code":"34",
     "gn:admin2_code":"233.0",
     "gn:asciiname":"Ailai",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.35804,25.04667,83.39804,25.08667",
+    "ks:ks_alt_nam":"AILAE",
+    "ks:ks_id":"KSAB0805E48916426190F40217A1B75835",
+    "ks:ks_name":"Ailae",
+    "ks:ks_pop":600,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|19091",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1330734",
+    "lbl:latitude":25.062454,
+    "lbl:longitude":83.368149,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.062454,
+    "mps:longitude":83.368149,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ailae"
+    ],
+    "name:eng_x_variant":[
+        "Ailai"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10505527
+        "gn:id":10505527,
+        "ks:id":"KSAB0805E48916426190F40217A1B75835"
     },
     "wof:country":"IN",
-    "wof:geomhash":"41afa05f7b46622dec59599bd7e9e918",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af1fe480db2a53a625db17b35df220a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1226483155,
-    "wof:lastmodified":1566712920,
-    "wof:name":"Ailai",
+    "wof:lastmodified":1682669055,
+    "wof:name":"Ailae",
     "wof:parent_id":1108695943,
     "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.37804,
-    25.06667,
-    83.37804,
-    25.06667
+    83.36761,
+    25.061376,
+    83.368688,
+    25.062993
 ],
-  "geometry": {"coordinates":[83.37804,25.06667],"type":"Point"}
+  "geometry": {"coordinates":[[[83.368149,25.061376],[83.36761,25.061376],[83.36761,25.062993],[83.36868800000001,25.062993],[83.36868800000001,25.061915],[83.368149,25.061915],[83.368149,25.061376]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.3466,25.80966,83.3466,25.80966",
-    "geom:latitude":25.80966,
-    "geom:longitude":83.3466,
+    "geom:bbox":"83.340122,25.808954,83.3412,25.809762",
+    "geom:latitude":25.809304,
+    "geom:longitude":83.340715,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Mastipur",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.3266,25.78966,83.3666,25.82966",
+    "ks:ks_id":"KS144FD0A23FF44CB684504D4ADCBC72F2",
+    "ks:ks_name":"Mastipur",
+    "ks:ks_pop":324,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0965000109650900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1374262",
+    "lbl:latitude":25.809235,
+    "lbl:longitude":83.340768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.809235,
+    "mps:longitude":83.340768,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Mastipur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10625781
+        "gn:id":10625781,
+        "ks:id":"KS144FD0A23FF44CB684504D4ADCBC72F2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4e7356957145fab199f88a0da59f681a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9fa95c02108683120fede69654697f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343504769,
-    "wof:lastmodified":1566687389,
+    "wof:lastmodified":1682929413,
     "wof:name":"Mastipur",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.3466,
-    25.80966,
-    83.3466,
-    25.80966
+    83.340122,
+    25.808954,
+    83.3412,
+    25.809762
 ],
-  "geometry": {"coordinates":[83.3466,25.80966],"type":"Point"}
+  "geometry": {"coordinates":[[[83.3412,25.808954],[83.34012199999999,25.808954],[83.34012199999999,25.809493],[83.340661,25.809493],[83.340661,25.809762],[83.3412,25.809762],[83.3412,25.808954]]],"type":"Polygon"}
 }

@@ -13,12 +13,20 @@
     "gn:longitude":73.09603,
     "gn:population":34092,
     "iso:country":"IN",
-    "lbl:latitude":18.735879,
-    "lbl:longitude":73.094735,
+    "ks:ks_id":"KSCA29F3B7AE0C4B98B1A2A35ABC7B2FFD",
+    "ks:ks_name":"Pen",
+    "ks:ks_pop":30201,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2107655",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_425511",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":18.686484,
+    "lbl:longitude":73.043933,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":18.755443,
-    "mps:longitude":73.092203,
+    "mps:latitude":18.686484,
+    "mps:longitude":73.043933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -116,10 +124,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1802,
     "wof:belongsto":[
         102191569,
@@ -131,13 +141,16 @@
     "wof:concordances":{
         "gn:id":1259931,
         "gp:id":2292775,
+        "ks:id":"KSCA29F3B7AE0C4B98B1A2A35ABC7B2FFD",
         "qs_pg:id":131396,
         "wd:id":"Q1382194",
         "wk:page":"Pen, India"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"75c8ef3b5e6223e7adefe6419b16d757",
     "wof:hierarchy":[
@@ -150,11 +163,11 @@
         }
     ],
     "wof:id":102029037,
-    "wof:lastmodified":1658780757,
+    "wof:lastmodified":1682523648,
     "wof:name":"Pen",
     "wof:parent_id":1108696305,
     "wof:placetype":"locality",
-    "wof:population":34092,
+    "wof:population":30201,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

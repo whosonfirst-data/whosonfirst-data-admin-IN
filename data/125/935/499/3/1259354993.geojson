@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.78332,21.17544,78.78332,21.17544",
-    "geom:latitude":21.17544,
-    "geom:longitude":78.78332,
+    "geom:bbox":"78.78309,21.174822,78.784154,21.175731",
+    "geom:latitude":21.175316,
+    "geom:longitude":78.783577,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Bandhara",
@@ -24,13 +24,41 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.76332,21.15544,78.80332,21.19544",
+    "ks:ks_id":"KS4D6555BD5F5C4386A0ACCC01AABE0D4C",
+    "ks:ks_name":"Bhandara",
+    "ks:ks_pop":12,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|136867",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_876892",
+    "lbl:latitude":21.175352,
+    "lbl:longitude":78.783587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.175352,
+    "mps:longitude":78.783587,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bhandara"
+    ],
+    "name:eng_x_variant":[
+        "Bandhara"
+    ],
+    "name:hin_x_preferred":[
+        "\u092d\u0902\u0921\u093e\u0930\u093e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092d\u0902\u0921\u093e\u0930\u093e"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10214205
+        "gn:id":10214205,
+        "ks:id":"KS4D6555BD5F5C4386A0ACCC01AABE0D4C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1f7365068899cb90926dd192cb1ed177",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b371918a80893d1bf8201ab427daa3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +85,22 @@
         }
     ],
     "wof:id":1259354993,
-    "wof:lastmodified":1566709945,
-    "wof:name":"Bandhara",
+    "wof:lastmodified":1686165679,
+    "wof:name":"Bhandara",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.78331999999997,
-    21.17544,
-    78.78331999999997,
-    21.17544
+    78.78309,
+    21.174822,
+    78.784154,
+    21.175731
 ],
-  "geometry": {"coordinates":[78.78331999999997,21.17544],"type":"Point"}
+  "geometry": {"coordinates":[[[78.783857,21.175731],[78.783858,21.175641],[78.78395500000001,21.175642],[78.783956,21.175552],[78.784052,21.175553],[78.784054,21.175463],[78.78415,21.175464],[78.784154,21.175193],[78.784058,21.175192],[78.784059,21.175102],[78.783866,21.175099],[78.783868,21.175009],[78.783675,21.175007],[78.783677,21.174916],[78.783484,21.174914],[78.783485,21.174823],[78.783389,21.174822],[78.783388,21.174913],[78.78319500000001,21.17491],[78.78319399999999,21.175],[78.783098,21.174999],[78.78309,21.175541],[78.783186,21.175542],[78.78318400000001,21.175632],[78.783377,21.175635],[78.783376,21.175725],[78.783857,21.175731]]],"type":"Polygon"}
 }

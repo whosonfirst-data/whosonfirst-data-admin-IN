@@ -11,12 +11,21 @@
     "geom:longitude":78.226963,
     "gn:population":41837,
     "iso:country":"IN",
-    "lbl:latitude":20.99688,
-    "lbl:longitude":78.230043,
+    "ks:ks_alt_nam":"\u0100rvi",
+    "ks:ks_id":"KS90F34DDC5E4C4A2A98657BC542605D54",
+    "ks:ks_name":"Arvi",
+    "ks:ks_pop":40575,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|47737",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_875416",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.999944,
+    "lbl:longitude":78.229255,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":21.006293,
-    "mps:longitude":78.229827,
+    "mps:latitude":20.999944,
+    "mps:longitude":78.229255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Arvi"
+    ],
+    "name:eng_x_variant":[
+        "\u0100rvi"
     ],
     "name:fin_x_preferred":[
         "Arvi"
@@ -114,10 +126,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -128,13 +142,16 @@
     "wof:concordances":{
         "gn:id":1278335,
         "gp:id":29033336,
+        "ks:id":"KS90F34DDC5E4C4A2A98657BC542605D54",
         "qs_pg:id":202137,
         "wd:id":"Q1935271",
         "wk:page":"Arvi, Wardha"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"8f95ceb9c0ddbf3d65c6cc7e23e28280",
     "wof:hierarchy":[
@@ -147,11 +164,11 @@
         }
     ],
     "wof:id":102030905,
-    "wof:lastmodified":1658780740,
+    "wof:lastmodified":1682525142,
     "wof:name":"Arvi",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
-    "wof:population":41837,
+    "wof:population":40575,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

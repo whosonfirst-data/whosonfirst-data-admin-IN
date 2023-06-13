@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.49586,31.94483,75.49586,31.94483",
-    "geom:latitude":31.94483,
-    "geom:longitude":75.49586,
+    "geom:bbox":"75.493761,31.943604,75.495667,31.944959",
+    "geom:latitude":31.944305,
+    "geom:longitude":75.494668,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Jangal",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.47586,31.92483,75.51586,31.96483",
+    "ks:ks_id":"KS640973DDDF3C415A808917343D8815AB",
+    "ks:ks_name":"Jangal",
+    "ks:ks_pop":81,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0301000300101100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2703401",
+    "lbl:latitude":31.944236,
+    "lbl:longitude":75.494668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.944236,
+    "mps:longitude":75.494668,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u063a\u0644"
@@ -37,6 +47,9 @@
         "C\u0259ng\u0259l"
     ],
     "name:ceb_x_preferred":[
+        "Jangal"
+    ],
+    "name:eng_x_preferred":[
         "Jangal"
     ],
     "name:fas_x_preferred":[
@@ -54,7 +67,13 @@
     "name:tur_x_preferred":[
         "Cengel"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10700851
+        "gn:id":10700851,
+        "ks:id":"KS640973DDDF3C415A808917343D8815AB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"547fe1044f2026ab9b66565075426be7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ff9130c4be8ba97ef2b3614025a91d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1343619797,
-    "wof:lastmodified":1566687251,
+    "wof:lastmodified":1682935059,
     "wof:name":"Jangal",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.49586,
-    31.94483,
-    75.49586,
-    31.94483
+    75.493761,
+    31.943604,
+    75.495667,
+    31.944959
 ],
-  "geometry": {"coordinates":[75.49585999999999,31.94483],"type":"Point"}
+  "geometry": {"coordinates":[[[75.494612,31.944958],[75.49461100000001,31.944868],[75.49514000000001,31.944866],[75.49514000000001,31.944776],[75.495457,31.944774],[75.495457,31.944684],[75.49556200000001,31.944684],[75.495561,31.944503],[75.495667,31.944503],[75.495667,31.944413],[75.495561,31.944413],[75.49556,31.944233],[75.495454,31.944233],[75.495453,31.944053],[75.495347,31.944053],[75.495347,31.943963],[75.49524099999999,31.943963],[75.49524,31.943783],[75.49513399999999,31.943783],[75.49513399999999,31.943693],[75.494922,31.943694],[75.494922,31.943604],[75.494287,31.943606],[75.494287,31.943696],[75.494182,31.943697],[75.49418300000001,31.943877],[75.494077,31.943878],[75.494077,31.943968],[75.493971,31.943968],[75.493972,31.944149],[75.49386699999999,31.944149],[75.49386699999999,31.944239],[75.49376100000001,31.94424],[75.493763,31.944601],[75.493869,31.9446],[75.49387,31.944781],[75.493976,31.94478],[75.493976,31.94487],[75.4944,31.944869],[75.4944,31.944959],[75.494612,31.944958]]],"type":"Polygon"}
 }

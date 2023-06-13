@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.16224,13.48475,77.16224,13.48475",
-    "geom:latitude":13.48475,
-    "geom:longitude":77.16224,
+    "geom:bbox":"77.161541,13.484083,77.163021,13.485534",
+    "geom:latitude":13.484754,
+    "geom:longitude":77.162228,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"571.0",
     "gn:asciiname":"Channapatna",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.14224,13.46475,77.18224,13.50475",
+    "ks:ks_id":"KS2B1495A63EE84593A62F4D474CADBBA6",
+    "ks:ks_name":"Channapatna",
+    "ks:ks_pop":1016,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|205197",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_277559",
+    "lbl:latitude":13.484717,
+    "lbl:longitude":77.162214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.484717,
+    "mps:longitude":77.162214,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u09a8\u09cd\u09a8\u09be\u09aa\u09be\u09a4\u09a8\u09be"
@@ -39,8 +49,14 @@
     "name:ceb_x_preferred":[
         "Channapatna"
     ],
+    "name:eng_x_preferred":[
+        "Channapatna"
+    ],
     "name:epo_x_preferred":[
         "\u0108annapatna"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0928\u094d\u0928\u093e\u092a\u091f\u0928\u093e"
     ],
     "name:ita_x_preferred":[
         "Channapatna"
@@ -75,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u94b1\u7eb3\u5e15\u7279\u7eb3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10851492
+        "gn:id":10851492,
+        "ks:id":"KS2B1495A63EE84593A62F4D474CADBBA6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0005eec1214e84f606458d0a45ccadd9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e7cf553cdfbbd78f5d1f2b33560c1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +124,22 @@
         }
     ],
     "wof:id":1226621145,
-    "wof:lastmodified":1566713233,
+    "wof:lastmodified":1686165861,
     "wof:name":"Channapatna",
     "wof:parent_id":890508363,
     "wof:placetype":"locality",
+    "wof:population":1016,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.16224,
-    13.48475,
-    77.16224,
-    13.48475
+    77.161541,
+    13.484083,
+    77.163021,
+    13.485534
 ],
-  "geometry": {"coordinates":[77.16224,13.48475],"type":"Point"}
+  "geometry": {"coordinates":[[[77.162104,13.485531],[77.162103,13.485441],[77.162195,13.48544],[77.162195,13.48535],[77.162379,13.485348],[77.162378,13.485258],[77.162471,13.485257],[77.16247,13.485167],[77.162747,13.485164],[77.162746,13.485074],[77.16283799999999,13.485073],[77.16283799999999,13.484983],[77.16293,13.484982],[77.16292900000001,13.484892],[77.163021,13.484891],[77.163017,13.484439],[77.162925,13.48444],[77.162924,13.48435],[77.16283199999999,13.48435],[77.162831,13.48426],[77.162646,13.484262],[77.162646,13.484171],[77.162369,13.484174],[77.162368,13.484083],[77.161906,13.484087],[77.161907,13.484178],[77.161815,13.484178],[77.161815,13.484269],[77.16172299999999,13.48427],[77.16172400000001,13.48436],[77.161632,13.484361],[77.16163299999999,13.484542],[77.161541,13.484542],[77.161546,13.485084],[77.161638,13.485084],[77.16164000000001,13.485264],[77.161732,13.485264],[77.161734,13.485444],[77.161826,13.485444],[77.161827,13.485534],[77.162104,13.485531]]],"type":"Polygon"}
 }

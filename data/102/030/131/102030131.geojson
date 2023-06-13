@@ -11,12 +11,19 @@
     "geom:longitude":76.463577,
     "gn:population":10000,
     "iso:country":"IN",
-    "lbl:latitude":15.333945,
-    "lbl:longitude":76.462037,
+    "ks:ks_id":"KS4884901F6C9946B88198FD2C25F7F878",
+    "ks:ks_name":"Hampi",
+    "ks:ks_pop":2164,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|395349",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_474587",
+    "lbl:latitude":15.332972,
+    "lbl:longitude":76.467573,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":15.336229,
-    "mps:longitude":76.458615,
+    "mps:latitude":15.332972,
+    "mps:longitude":76.467573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -210,10 +217,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -224,13 +233,16 @@
     "wof:concordances":{
         "gn:id":1270448,
         "gp:id":2293545,
+        "ks:id":"KS4884901F6C9946B88198FD2C25F7F878",
         "qs_pg:id":8855,
         "wd:id":"Q26732",
         "wk:page":"Hampi"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"9935e39b8f8c216613a1d979d692641c",
     "wof:hierarchy":[
@@ -243,12 +255,12 @@
         }
     ],
     "wof:id":102030131,
-    "wof:lastmodified":1658780738,
+    "wof:lastmodified":1682524460,
     "wof:name":"Hampi",
     "wof:parent_id":890507841,
     "wof:placetype":"locality",
-    "wof:population":10000,
-    "wof:population_rank":6,
+    "wof:population":2164,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

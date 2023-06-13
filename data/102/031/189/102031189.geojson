@@ -10,12 +10,20 @@
     "geom:latitude":25.152348,
     "geom:longitude":73.079209,
     "iso:country":"IN",
-    "lbl:latitude":25.154012,
-    "lbl:longitude":73.081173,
+    "ks:ks_id":"KS4188F9D9F28740BE854F948441024718",
+    "ks:ks_name":"Sumerpur",
+    "ks:ks_pop":31482,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0820000842009000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1579699",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.151795,
+    "lbl:longitude":73.079919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":25.150257,
-    "mps:longitude":73.086548,
+    "mps:latitude":25.151795,
+    "mps:longitude":73.079919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -89,9 +97,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":475,
     "wof:belongsto":[
         102191569,
@@ -103,13 +114,16 @@
     "wof:concordances":{
         "gn:id":8224613,
         "gp:id":28999051,
+        "ks:id":"KS4188F9D9F28740BE854F948441024718",
         "qs_pg:id":337906,
         "wd:id":"Q2720796",
         "wk:page":"Sumerpur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"684f44874d4616b931ecfb79dda6b85f",
     "wof:hierarchy":[
@@ -122,10 +136,12 @@
         }
     ],
     "wof:id":102031189,
-    "wof:lastmodified":1658780723,
+    "wof:lastmodified":1682525388,
     "wof:name":"Sumerpur",
     "wof:parent_id":890507101,
     "wof:placetype":"locality",
+    "wof:population":31482,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

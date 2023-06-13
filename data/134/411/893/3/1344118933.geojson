@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.21331,14.07563,75.21331,14.07563",
-    "geom:latitude":14.07563,
-    "geom:longitude":75.21331,
+    "geom:bbox":"75.231568,14.073004,75.233185,14.076238",
+    "geom:latitude":14.074783,
+    "geom:longitude":75.232346,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"568",
     "gn:asciiname":"Anantapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.19331,14.05563,75.23331,14.09563",
+    "ks:ks_id":"KSBC8FEBF3CDF0410BA5EB70DC23E6A727",
+    "ks:ks_name":"Anandapura",
+    "ks:ks_pop":628,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|36221",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_303019",
+    "lbl:latitude":14.074878,
+    "lbl:longitude":75.232401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.074878,
+    "mps:longitude":75.232401,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646\u062a\u0627\u0628\u0648\u0631"
@@ -59,6 +69,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ac\u03bd\u03c4\u03b1\u03c0\u03bf\u03c5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Anandapura"
+    ],
+    "name:eng_x_variant":[
+        "Anantapur"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u0646\u062a\u0627\u067e\u0648\u0631"
@@ -162,7 +178,13 @@
     "name:zho_x_preferred":[
         "\u963f\u7eb3\u6069\u5854\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1278684
+        "gn:id":1278684,
+        "ks:id":"KSBC8FEBF3CDF0410BA5EB70DC23E6A727"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a6fce3567b85f34ca11f88006c0526bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e31635b5daae5c431325c77ac869185d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,20 +211,22 @@
         }
     ],
     "wof:id":1344118933,
-    "wof:lastmodified":1577749905,
-    "wof:name":"Anantapur",
+    "wof:lastmodified":1682954009,
+    "wof:name":"Anandapura",
     "wof:parent_id":890507437,
     "wof:placetype":"locality",
+    "wof:population":628,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.21330999999998,
-    14.07563,
-    75.21330999999998,
-    14.07563
+    75.231568,
+    14.073004,
+    75.233185,
+    14.076238
 ],
-  "geometry": {"coordinates":[75.21330999999998,14.07563],"type":"Point"}
+  "geometry": {"coordinates":[[[75.232377,14.076238],[75.232377,14.075968],[75.232646,14.075968],[75.232646,14.075429],[75.232916,14.075429],[75.232916,14.07516],[75.23318500000001,14.07516],[75.23318500000001,14.074352],[75.232646,14.074352],[75.232646,14.073274],[75.232377,14.073274],[75.232377,14.073004],[75.232107,14.073004],[75.232107,14.073543],[75.231838,14.073543],[75.231838,14.074082],[75.232107,14.074082],[75.232107,14.074352],[75.231838,14.074352],[75.231838,14.075429],[75.232107,14.075429],[75.232107,14.075699],[75.231568,14.075699],[75.231568,14.076238],[75.232377,14.076238]]],"type":"Polygon"}
 }

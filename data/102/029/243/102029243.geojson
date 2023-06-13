@@ -13,12 +13,20 @@
     "gn:longitude":80.04711,
     "gn:population":97194,
     "iso:country":"IN",
-    "lbl:latitude":16.235985,
-    "lbl:longitude":80.053967,
+    "ks:ks_id":"KSB5670E83930E45A5B9A29EF4018579C3",
+    "ks:ks_name":"Narasaraopet",
+    "ks:ks_pop":95349,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2817002841705000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_573814",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":16.23411,
+    "lbl:longitude":80.047297,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":16.251594,
-    "mps:longitude":80.057373,
+    "mps:latitude":16.23411,
+    "mps:longitude":80.047297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,6 +59,9 @@
         "\u0aa8\u0abe\u0ab0\u0abe\u0ab8\u0abe\u0ab0\u0abe\u0a93\u0aaa\u0ac7\u0a9f"
     ],
     "name:hin_x_preferred":[
+        "\u0928\u0930\u0938\u0930\u093e\u0935\u092a\u0947\u091f"
+    ],
+    "name:hin_x_variant":[
         "\u0928\u0930\u0938\u0930\u093e\u0913\u092a\u0947\u091f"
     ],
     "name:ita_x_preferred":[
@@ -102,6 +113,9 @@
         "Narasaraopet"
     ],
     "name:urd_x_preferred":[
+        "\u0646\u0631\u0627\u0633\u0627\u0631\u0627\u0648\u067e\u06cc\u0679"
+    ],
+    "name:urd_x_variant":[
         "\u0646\u0631\u0627\u0633\u0627\u0631\u0627\u0648 \u067e\u06cc\u0679"
     ],
     "name:vie_x_preferred":[
@@ -131,10 +145,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":628,
     "wof:belongsto":[
         102191569,
@@ -146,13 +162,16 @@
     "wof:concordances":{
         "gn:id":1261848,
         "gp:id":2295245,
+        "ks:id":"KSB5670E83930E45A5B9A29EF4018579C3",
         "qs_pg:id":948840,
         "wd:id":"Q2483789",
         "wk:page":"Narasaraopet"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ef9999199c74f003f824f605fa37564b",
     "wof:hierarchy":[
@@ -165,11 +184,11 @@
         }
     ],
     "wof:id":102029243,
-    "wof:lastmodified":1658780754,
+    "wof:lastmodified":1686162195,
     "wof:name":"Narasaraopet",
     "wof:parent_id":890507851,
     "wof:placetype":"locality",
-    "wof:population":97194,
+    "wof:population":95349,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

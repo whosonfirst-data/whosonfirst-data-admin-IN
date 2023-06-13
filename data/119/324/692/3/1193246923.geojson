@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.4459,30.80272,76.4459,30.80272",
-    "geom:latitude":30.80272,
-    "geom:longitude":76.4459,
+    "geom:bbox":"76.443707,30.801,76.447178,30.803343",
+    "geom:latitude":30.802215,
+    "geom:longitude":76.445345,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"51.0",
     "gn:asciiname":"Balan",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.4259,30.78272,76.4659,30.82272",
+    "ks:ks_alt_nam":"Bal\u0101n",
+    "ks:ks_id":"KS8C5BCDF011A9423B9524DE0ABCFDB688",
+    "ks:ks_name":"Balan",
+    "ks:ks_pop":541,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|12860446",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2651776",
+    "lbl:latitude":30.802132,
+    "lbl:longitude":76.445172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.802132,
+    "mps:longitude":76.445172,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043d"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Balan"
+    ],
+    "name:eng_x_preferred":[
+        "Balan"
+    ],
+    "name:eng_x_variant":[
+        "Bal\u0101n"
     ],
     "name:epo_x_preferred":[
         "Balan"
@@ -99,7 +116,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10434447
+        "gn:id":10434447,
+        "ks:id":"KS8C5BCDF011A9423B9524DE0ABCFDB688"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f8bbec85368fc0b70fe375431b81b8f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7442ffb543923b489339e5799afb8036",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +149,22 @@
         }
     ],
     "wof:id":1193246923,
-    "wof:lastmodified":1566697822,
+    "wof:lastmodified":1682600558,
     "wof:name":"Balan",
     "wof:parent_id":890508855,
     "wof:placetype":"locality",
+    "wof:population":541,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.4459,
-    30.80272,
-    76.4459,
-    30.80272
+    76.443707,
+    30.801,
+    76.447178,
+    30.803343
 ],
-  "geometry": {"coordinates":[76.44589999999999,30.80272],"type":"Point"}
+  "geometry": {"coordinates":[[[76.446872,30.803331],[76.44687,30.803241],[76.44697499999999,30.80324],[76.446974,30.803149],[76.447078,30.803148],[76.447074,30.802878],[76.44717799999999,30.802876],[76.447176,30.802696],[76.44707099999999,30.802697],[76.447067,30.802427],[76.446963,30.802428],[76.446957,30.802067],[76.446853,30.802068],[76.446849,30.801798],[76.446744,30.801799],[76.44674000000001,30.801528],[76.446636,30.801529],[76.446634,30.801439],[76.44653,30.80144],[76.446528,30.80135],[76.44642399999999,30.801351],[76.446423,30.801261],[76.446214,30.801263],[76.446212,30.801173],[76.446003,30.801175],[76.44600199999999,30.801085],[76.445584,30.80109],[76.445583,30.801],[76.444329,30.801014],[76.44432999999999,30.801104],[76.444016,30.801107],[76.444018,30.801198],[76.44391299999999,30.801199],[76.443915,30.801289],[76.44381,30.80129],[76.443811,30.80138],[76.443707,30.801381],[76.44371599999999,30.802013],[76.443821,30.802012],[76.443826,30.802373],[76.44372199999999,30.802374],[76.443729,30.802825],[76.443833,30.802824],[76.443836,30.803004],[76.44394,30.803003],[76.44394200000001,30.803093],[76.444046,30.803092],[76.444047,30.803182],[76.444152,30.803181],[76.444153,30.803271],[76.445825,30.803252],[76.44582699999999,30.803343],[76.446872,30.803331]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.06563,18.10107,78.06563,18.10107",
-    "geom:latitude":18.10107,
-    "geom:longitude":78.06563,
+    "geom:bbox":"78.079857,18.101948,78.080665,18.103295",
+    "geom:latitude":18.102597,
+    "geom:longitude":78.080212,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"533.0",
     "gn:asciiname":"Kichennapet",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.04563,18.08107,78.08563,18.12107",
+    "ks:ks_id":"KS13F84308B9F64FAEA041ACB9362CB8E6",
+    "ks:ks_name":"Kitchannapet",
+    "ks:ks_pop":61,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1270189",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_403777",
+    "lbl:latitude":18.102595,
+    "lbl:longitude":78.080123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.102595,
+    "mps:longitude":78.080123,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kitchannapet"
+    ],
+    "name:eng_x_variant":[
+        "Kichennapet"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10593362
+        "gn:id":10593362,
+        "ks:id":"KS13F84308B9F64FAEA041ACB9362CB8E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"49e1c3b6bbdb2d538856b63d998d6c4d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc4914bece6a729a3dc9161167170afb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326779133,
-    "wof:lastmodified":1566684005,
-    "wof:name":"Kichennapet",
+    "wof:lastmodified":1682889810,
+    "wof:name":"Kitchannapet",
     "wof:parent_id":890510419,
     "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.06563,
-    18.10107,
-    78.06563,
-    18.10107
+    78.079857,
+    18.101948,
+    78.080665,
+    18.103295
 ],
-  "geometry": {"coordinates":[78.06563,18.10107],"type":"Point"}
+  "geometry": {"coordinates":[[[78.08039599999999,18.103295],[78.08039599999999,18.102487],[78.080665,18.102487],[78.080665,18.101948],[78.08012600000001,18.101948],[78.08012600000001,18.102217],[78.079857,18.102217],[78.079857,18.103295],[78.08039599999999,18.103295]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.03671,24.91725,86.03671,24.91725",
-    "geom:latitude":24.91725,
-    "geom:longitude":86.03671,
+    "geom:bbox":"86.036602,24.91592,86.038996,24.918622",
+    "geom:latitude":24.917079,
+    "geom:longitude":86.037734,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"238.0",
     "gn:asciiname":"Rajpura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.01671,24.89725,86.05671,24.93725",
+    "ks:ks_id":"KSB6DE0A049D8B4165AD47678FF9FA1CBE",
+    "ks:ks_name":"Rajpura",
+    "ks:ks_pop":492,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|894209",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1155678",
+    "lbl:latitude":24.916943,
+    "lbl:longitude":86.038015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.916943,
+    "mps:longitude":86.038015,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u099c\u09aa\u09c1\u09b0\u09be"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "R\u0101jpura"
+    ],
+    "name:eng_x_preferred":[
+        "Rajpura"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u091c\u092a\u0941\u0930\u093e"
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u6770\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10910852
+        "gn:id":10910852,
+        "ks:id":"KSB6DE0A049D8B4165AD47678FF9FA1CBE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bc430c76134bb9c62fb34a3789925cf4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c9cb4d07e889ba7b04af5ac3ddb44138",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1327175139,
-    "wof:lastmodified":1566684801,
+    "wof:lastmodified":1686162157,
     "wof:name":"Rajpura",
     "wof:parent_id":1108695949,
     "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.03671,
-    24.91725,
-    86.03671,
-    24.91725
+    86.036602,
+    24.91592,
+    86.038996,
+    24.918622
 ],
-  "geometry": {"coordinates":[86.03671,24.91725],"type":"Point"}
+  "geometry": {"coordinates":[[[86.03670099999999,24.918622],[86.03670200000001,24.918532],[86.03719700000001,24.918535],[86.037198,24.918355],[86.037297,24.918355],[86.037299,24.918084],[86.037398,24.918085],[86.03740000000001,24.917904],[86.037499,24.917905],[86.03749999999999,24.917724],[86.037797,24.917726],[86.037798,24.917636],[86.038392,24.91764],[86.038393,24.91755],[86.03849200000001,24.91755],[86.038493,24.91737],[86.03859199999999,24.91737],[86.03859300000001,24.91719],[86.038692,24.91719],[86.03869299999999,24.9171],[86.038792,24.917101],[86.038793,24.91701],[86.038892,24.917011],[86.038894,24.91674],[86.038993,24.916741],[86.038996,24.916289],[86.03889700000001,24.916289],[86.038898,24.916198],[86.038799,24.916198],[86.03879999999999,24.916107],[86.038701,24.916107],[86.038702,24.916016],[86.038602,24.916016],[86.03860299999999,24.915925],[86.037712,24.91592],[86.037711,24.91601],[86.037612,24.916009],[86.037612,24.9161],[86.037513,24.916099],[86.03751099999999,24.91628],[86.037412,24.916279],[86.037408,24.916821],[86.036913,24.916818],[86.036912,24.916908],[86.036714,24.916907],[86.03671300000001,24.916997],[86.036614,24.916996],[86.036609,24.917719],[86.036708,24.917719],[86.036703,24.918351],[86.036604,24.918351],[86.036602,24.918622],[86.03670099999999,24.918622]]],"type":"Polygon"}
 }

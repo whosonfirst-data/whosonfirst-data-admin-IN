@@ -13,12 +13,20 @@
     "gn:longitude":76.19324,
     "gn:population":18623,
     "iso:country":"IN",
-    "lbl:latitude":30.835557,
-    "lbl:longitude":76.19177,
+    "ks:ks_id":"KSEB8BC4BDDD7F425FA3A2E57146B8CB4E",
+    "ks:ks_name":"Samrala",
+    "ks:ks_pop":17590,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0309000140911000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2653526",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.833557,
+    "lbl:longitude":76.194543,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":30.840931,
-    "mps:longitude":76.184692,
+    "mps:latitude":30.833557,
+    "mps:longitude":76.194543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Samrala"
+    ],
+    "name:eng_x_variant":[
+        "Samr\u0101la"
     ],
     "name:fra_x_preferred":[
         "Samrala"
@@ -116,10 +127,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191569,
@@ -131,13 +144,16 @@
     "wof:concordances":{
         "gn:id":1257503,
         "gp:id":2290772,
+        "ks:id":"KSEB8BC4BDDD7F425FA3A2E57146B8CB4E",
         "qs_pg:id":308881,
         "wd:id":"Q2545261",
         "wk:page":"Samrala"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"22474856aeb3e2c701d34f7a53e5f52d",
     "wof:hierarchy":[
@@ -150,11 +166,11 @@
         }
     ],
     "wof:id":102028751,
-    "wof:lastmodified":1658780782,
-    "wof:name":"Samr\u0101la",
+    "wof:lastmodified":1682523446,
+    "wof:name":"Samrala",
     "wof:parent_id":890503583,
     "wof:placetype":"locality",
-    "wof:population":18623,
+    "wof:population":17590,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

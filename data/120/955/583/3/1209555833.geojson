@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.34504,24.91905,80.34504,24.91905",
-    "geom:latitude":24.91905,
-    "geom:longitude":80.34504,
+    "geom:bbox":"80.344673,24.91822,80.346061,24.919304",
+    "geom:latitude":24.91878,
+    "geom:longitude":80.345411,
     "gn:admin1_code":"35",
     "gn:admin2_code":"426.0",
     "gn:asciiname":"Baberu",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.32504,24.89905,80.36504,24.93905",
+    "ks:ks_id":"KS00761CEB26EF43948EDD44D7081A1C00",
+    "ks:ks_name":"Baberu",
+    "ks:ks_pop":299,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|57430",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1040377",
+    "lbl:latitude":24.918757,
+    "lbl:longitude":80.345494,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.918757,
+    "mps:longitude":80.345494,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092c\u092c\u0947\u0930\u0942"
@@ -37,6 +47,9 @@
         "\u09ac\u09be\u09ac\u09c7\u09b0\u09c1"
     ],
     "name:ceb_x_preferred":[
+        "Baberu"
+    ],
+    "name:eng_x_preferred":[
         "Baberu"
     ],
     "name:ita_x_preferred":[
@@ -66,37 +79,55 @@
     "name:zho_x_preferred":[
         "\u5df4\u8d1d\u9c81"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890507435
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10537144
+        "gn:id":10537144,
+        "ks:id":"KS00761CEB26EF43948EDD44D7081A1C00"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d99387f499df0180657768b70a97a60e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05e0cb20f1c83c2cb5c5bd01cee985a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209555833
+            "county_id":890507435,
+            "locality_id":1209555833,
+            "region_id":85672239
         }
     ],
     "wof:id":1209555833,
-    "wof:lastmodified":1566695076,
+    "wof:lastmodified":1682622871,
     "wof:name":"Baberu",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507435,
     "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.34504,
-    24.91905,
-    80.34504,
-    24.91905
+    80.344673,
+    24.91822,
+    80.346061,
+    24.919304
 ],
-  "geometry": {"coordinates":[80.34504,24.91905],"type":"Point"}
+  "geometry": {"coordinates":[[[80.345364,24.919304],[80.345364,24.919213],[80.345563,24.919214],[80.345563,24.919124],[80.345761,24.919125],[80.34576199999999,24.919034],[80.345861,24.919035],[80.345862,24.918854],[80.345961,24.918855],[80.345961,24.918764],[80.34605999999999,24.918765],[80.34606100000001,24.918584],[80.345962,24.918584],[80.345963,24.918403],[80.34586400000001,24.918403],[80.34586400000001,24.918312],[80.345765,24.918312],[80.345766,24.918222],[80.34546899999999,24.91822],[80.345468,24.918311],[80.34536900000001,24.91831],[80.34536900000001,24.9184],[80.34527,24.9184],[80.345269,24.91849],[80.34517,24.91849],[80.34517,24.91858],[80.345071,24.91858],[80.34507000000001,24.91867],[80.344773,24.918669],[80.34477200000001,24.918849],[80.344673,24.918849],[80.344673,24.918939],[80.34477200000001,24.91894],[80.34477099999999,24.91912],[80.34496900000001,24.919121],[80.34496799999999,24.919211],[80.34516600000001,24.919212],[80.34516600000001,24.919303],[80.345364,24.919304]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.79401,24.31255,79.79401,24.31255",
-    "geom:latitude":24.31255,
-    "geom:longitude":79.79401,
+    "geom:bbox":"79.793484,24.311377,79.794975,24.313549",
+    "geom:latitude":24.312453,
+    "geom:longitude":79.794179,
     "gn:admin1_code":"35",
     "gn:admin2_code":"428.0",
     "gn:asciiname":"Khaira",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.77401,24.29255,79.81401,24.33255",
+    "ks:ks_id":"KS97B01AB89A754B549ADFC24FC18FE780",
+    "ks:ks_name":"Khaira",
+    "ks:ks_pop":216,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|538916",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1021157",
+    "lbl:latitude":24.312405,
+    "lbl:longitude":79.794219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.312405,
+    "mps:longitude":79.794219,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khaira"
@@ -39,7 +49,13 @@
     "name:new_x_preferred":[
         "\u0916\u0948\u0930\u093e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10726691
+        "gn:id":10726691,
+        "ks:id":"KS97B01AB89A754B549ADFC24FC18FE780"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ea28957145e812d9f89f05b5f0b1a5c1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd45624911e8bf973261deac7df58583",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +82,22 @@
         }
     ],
     "wof:id":1260234293,
-    "wof:lastmodified":1566699086,
+    "wof:lastmodified":1682756257,
     "wof:name":"Khaira",
     "wof:parent_id":890506471,
     "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.79401,
-    24.31255,
-    79.79401,
-    24.31255
+    79.793484,
+    24.311377,
+    79.794975,
+    24.313549
 ],
-  "geometry": {"coordinates":[79.79401,24.31255],"type":"Point"}
+  "geometry": {"coordinates":[[[79.794369,24.313549],[79.794369,24.313459],[79.794566,24.313461],[79.794567,24.31337],[79.79466600000001,24.313371],[79.794668,24.31319],[79.794766,24.313191],[79.794768,24.313011],[79.794866,24.313011],[79.79486900000001,24.312741],[79.794967,24.312741],[79.79497499999999,24.311929],[79.794877,24.311928],[79.794877,24.311838],[79.79477900000001,24.311837],[79.794781,24.311656],[79.79468199999999,24.311655],[79.79468300000001,24.311565],[79.794584,24.311564],[79.794585,24.311474],[79.794388,24.311472],[79.794389,24.311382],[79.793798,24.311377],[79.793797,24.311468],[79.7936,24.311466],[79.793598,24.311647],[79.79349999999999,24.311646],[79.79348400000001,24.313271],[79.793583,24.313272],[79.793582,24.313362],[79.79367999999999,24.313363],[79.79367999999999,24.313454],[79.793778,24.313454],[79.79377700000001,24.313545],[79.794369,24.313549]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.59468,25.67832,85.59468,25.67832",
-    "geom:latitude":25.67832,
-    "geom:longitude":85.59468,
+    "geom:bbox":"85.595252,25.68283,85.595791,25.683908",
+    "geom:latitude":25.683369,
+    "geom:longitude":85.595521,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"221.0",
     "gn:asciiname":"Khanua",
@@ -24,16 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.57468,25.65832,85.61468,25.69832",
+    "ks:ks_id":"KS3A4825ACEB52491DB351EC2FB095175A",
+    "ks:ks_name":"Khanua",
+    "ks:ks_source_id":"N|13867045",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1365072",
+    "lbl:latitude":25.683369,
+    "lbl:longitude":85.595522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.683369,
+    "mps:longitude":85.595522,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khanua"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11327028
+        "gn:id":11327028,
+        "ks:id":"KS3A4825ACEB52491DB351EC2FB095175A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"13b87e595465e0f0a95b96a08c8e9f1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"37a4477cf66b4d9888ab4496536bf564",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +72,7 @@
         }
     ],
     "wof:id":1276275461,
-    "wof:lastmodified":1566692412,
+    "wof:lastmodified":1682767532,
     "wof:name":"Khanua",
     "wof:parent_id":1108695921,
     "wof:placetype":"locality",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.59468000000003,
-    25.67832000000001,
-    85.59468000000003,
-    25.67832000000001
+    85.595252,
+    25.68283,
+    85.595791,
+    25.683908
 ],
-  "geometry": {"coordinates":[85.59468000000003,25.67832000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[85.59579100000001,25.68283],[85.595252,25.68283],[85.595252,25.683908],[85.59579100000001,25.683908],[85.59579100000001,25.68283]]],"type":"Polygon"}
 }

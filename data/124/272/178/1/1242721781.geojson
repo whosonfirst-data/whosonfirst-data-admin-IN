@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.5352,27.36956,82.5352,27.36956",
-    "geom:latitude":27.36956,
-    "geom:longitude":82.5352,
+    "geom:bbox":"82.533706,27.368726,82.536248,27.370625",
+    "geom:latitude":27.36972,
+    "geom:longitude":82.535047,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"182.0",
     "gn:asciiname":"Khamaria",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.5152,27.34956,82.5552,27.38956",
+    "ks:ks_id":"KS404F1C0BDF36461EA5844E8B7906C907",
+    "ks:ks_name":"Khamahria",
+    "ks:ks_pop":140,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|542815",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1983264",
+    "lbl:latitude":27.369603,
+    "lbl:longitude":82.53515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.369603,
+    "mps:longitude":82.53515,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09be\u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Khamahria"
+    ],
+    "name:eng_x_variant":[
+        "Khamaria"
     ],
     "name:hin_x_preferred":[
         "\u0916\u092e\u0930\u093f\u092f\u093e"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5361\u9a6c\u91cc\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10602864
+        "gn:id":10602864,
+        "ks:id":"KS404F1C0BDF36461EA5844E8B7906C907"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1ceda6a9f0e7eff35cda4e3c5649fee2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afcffe875988b7e893952b23313a6765",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1242721781,
-    "wof:lastmodified":1566706063,
-    "wof:name":"Khamaria",
+    "wof:lastmodified":1682689886,
+    "wof:name":"Khamahria",
     "wof:parent_id":1108695855,
     "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.5352,
-    27.36956,
-    82.5352,
-    27.36956
+    82.533706,
+    27.368726,
+    82.536248,
+    27.370625
 ],
-  "geometry": {"coordinates":[82.5352,27.36956],"type":"Point"}
+  "geometry": {"coordinates":[[[82.536248,27.370612],[82.53624499999999,27.370431],[82.53614399999999,27.370432],[82.53613199999999,27.36953],[82.53603099999999,27.369531],[82.53602600000001,27.36917],[82.53592500000001,27.369171],[82.535923,27.369081],[82.535822,27.369082],[82.535821,27.368992],[82.53572,27.368993],[82.535719,27.368902],[82.535618,27.368903],[82.535616,27.368813],[82.535313,27.368817],[82.535312,27.368726],[82.534705,27.368733],[82.53470799999999,27.368914],[82.53460699999999,27.368915],[82.53460800000001,27.369005],[82.534305,27.369008],[82.534306,27.369098],[82.534205,27.3691],[82.534206,27.36919],[82.534004,27.369192],[82.53400499999999,27.369282],[82.53390400000001,27.369283],[82.533905,27.369374],[82.533804,27.369375],[82.533807,27.369555],[82.533706,27.369556],[82.53371199999999,27.370008],[82.53381299999999,27.370006],[82.533816,27.370187],[82.533917,27.370186],[82.533918,27.370276],[82.534221,27.370273],[82.534222,27.370363],[82.534425,27.370361],[82.534423,27.370271],[82.534727,27.370267],[82.534728,27.370357],[82.534829,27.370356],[82.53483,27.370447],[82.534931,27.370446],[82.534933,27.370536],[82.535034,27.370535],[82.53503499999999,27.370625],[82.536248,27.370612]]],"type":"Polygon"}
 }

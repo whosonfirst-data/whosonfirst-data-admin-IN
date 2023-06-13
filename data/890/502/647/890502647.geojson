@@ -14,11 +14,20 @@
     "gn:population":89500,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"86.0747,25.1565,86.1147,25.1965",
-    "lbl:latitude":25.175571,
-    "lbl:longitude":86.094364,
+    "ks:ks_id":"KSAB998F8685624FB2A08F6F54C956AA5E",
+    "ks:ks_name":"Lakhisarai",
+    "ks:ks_pop":77875,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1025000442502000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2067887",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.16323,
+    "lbl:longitude":86.091059,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":25.16323,
+    "mps:longitude":86.091059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -166,10 +175,12 @@
     "reversegeo:longitude":86.094364,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":529,
     "wof:belongsto":[
         102191569,
@@ -181,12 +192,17 @@
     "wof:concordances":{
         "gn:id":1264735,
         "gp:id":2288994,
+        "ks:id":"KSAB998F8685624FB2A08F6F54C956AA5E",
         "qs_pg:id":1309401,
         "wd:id":"Q1929578",
         "wk:page":"Lakhisarai"
     },
     "wof:country":"IN",
     "wof:created":1469055352,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"9d91c088eb29617bd11e36a1c385775e",
     "wof:hierarchy":[
         {
@@ -198,11 +214,11 @@
         }
     ],
     "wof:id":890502647,
-    "wof:lastmodified":1658780793,
+    "wof:lastmodified":1686163887,
     "wof:name":"Lakhisarai",
     "wof:parent_id":1108695935,
     "wof:placetype":"locality",
-    "wof:population":89500,
+    "wof:population":77875,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

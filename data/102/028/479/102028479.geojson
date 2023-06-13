@@ -12,16 +12,26 @@
     "gn:latitude":18.02718,
     "gn:longitude":75.19356,
     "iso:country":"IN",
-    "lbl:latitude":18.028448,
-    "lbl:longitude":75.196937,
+    "ks:ks_id":"KS46E2DDA6E17F4769A309738EE08B03FD",
+    "ks:ks_name":"Tembhurni",
+    "ks:ks_pop":13150,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1039640",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_525822",
+    "lbl:latitude":18.0261,
+    "lbl:longitude":75.19816,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":18.025752,
-    "mps:longitude":75.201416,
+    "mps:latitude":18.0261,
+    "mps:longitude":75.19816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tembhurni"
+    ],
     "qs:a0":"India",
     "qs:a1":"*Maharashtra",
     "qs:a1r":"*",
@@ -40,9 +50,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -53,11 +66,14 @@
     "wof:concordances":{
         "gn:id":1254769,
         "gp:id":2293331,
+        "ks:id":"KS46E2DDA6E17F4769A309738EE08B03FD",
         "qs_pg:id":1220509
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"90abaf96ab2f4d6bfd4786acd2ad59da",
     "wof:hierarchy":[
@@ -70,10 +86,12 @@
         }
     ],
     "wof:id":102028479,
-    "wof:lastmodified":1658780776,
+    "wof:lastmodified":1682523279,
     "wof:name":"Tembhurni",
     "wof:parent_id":890507931,
     "wof:placetype":"locality",
+    "wof:population":13150,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

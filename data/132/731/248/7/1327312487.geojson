@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.66703,30.24345,76.66703,30.24345",
-    "geom:latitude":30.24345,
-    "geom:longitude":76.66703,
+    "geom:bbox":"76.663932,30.24187,76.666896,30.245374",
+    "geom:latitude":30.243691,
+    "geom:longitude":76.665329,
     "gn:admin1_code":"10.0",
     "gn:admin2_code":"070",
     "gn:asciiname":"Bamba",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.64703,30.22345,76.68703,30.26345",
+    "ks:ks_id":"KS9260FFCDBF504695B6858CD594FFBEBE",
+    "ks:ks_name":"Bamba",
+    "ks:ks_pop":812,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|84803",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2153277",
+    "lbl:latitude":30.243691,
+    "lbl:longitude":76.665357,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.243691,
+    "mps:longitude":76.665357,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bamba"
     ],
     "name:deu_x_preferred":[
+        "Bamba"
+    ],
+    "name:eng_x_preferred":[
         "Bamba"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +76,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043c\u0431\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6989616
+        "gn:id":6989616,
+        "ks:id":"KS9260FFCDBF504695B6858CD594FFBEBE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d5f2de797691efc592aa76aa66608acc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"47398eeb8ba988470ee33f68002193d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1327312487,
-    "wof:lastmodified":1566681269,
+    "wof:lastmodified":1682912187,
     "wof:name":"Bamba",
     "wof:parent_id":1108695757,
     "wof:placetype":"locality",
+    "wof:population":812,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.66703000000003,
-    30.24345,
-    76.66703000000003,
-    30.24345
+    76.663932,
+    30.24187,
+    76.666896,
+    30.245374
 ],
-  "geometry": {"coordinates":[76.66703000000003,30.24345],"type":"Point"}
+  "geometry": {"coordinates":[[[76.666357,30.245374],[76.666357,30.245104],[76.66689599999999,30.245104],[76.66689599999999,30.244296],[76.666357,30.244296],[76.666357,30.243218],[76.66662700000001,30.243218],[76.66662700000001,30.242948],[76.666357,30.242948],[76.666357,30.242409],[76.665818,30.242409],[76.665818,30.24187],[76.66473999999999,30.24187],[76.66473999999999,30.24214],[76.66420100000001,30.24214],[76.66420100000001,30.243487],[76.66447100000001,30.243487],[76.66447100000001,30.243757],[76.663932,30.243757],[76.663932,30.245104],[76.66473999999999,30.245104],[76.66473999999999,30.244835],[76.665549,30.244835],[76.665549,30.245374],[76.666357,30.245374]]],"type":"Polygon"}
 }

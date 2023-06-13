@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.07368,24.51852,80.07368,24.51852",
-    "geom:latitude":24.51852,
-    "geom:longitude":80.07368,
+    "geom:bbox":"80.062865,24.51802,80.064945,24.520001",
+    "geom:latitude":24.51922,
+    "geom:longitude":80.063811,
     "gn:admin1_code":"35",
     "gn:admin2_code":"426.0",
     "gn:asciiname":"Bikrampur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.05368,24.49852,80.09368,24.53852",
+    "ks:ks_id":"KS5F9DE4FF4EC64FD0AAFCA010470C0AA8",
+    "ks:ks_name":"Bikrampur",
+    "ks:ks_pop":1380,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|163330",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1026848",
+    "lbl:latitude":24.519372,
+    "lbl:longitude":80.063464,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.519372,
+    "mps:longitude":80.063464,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0995\u09cd\u09b0\u09ae\u09aa\u09c1\u09b0"
@@ -36,10 +46,19 @@
     "name:cat_x_preferred":[
         "Bikrampur"
     ],
+    "name:eng_x_preferred":[
+        "Bikrampur"
+    ],
     "name:epo_x_preferred":[
         "Bikrampur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10531942
+        "gn:id":10531942,
+        "ks:id":"KS5F9DE4FF4EC64FD0AAFCA010470C0AA8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2a0cf80dae44ca55708eccc92edd6a55",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b55a9a78bb107af62ee092f4c3ba4d76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +85,22 @@
         }
     ],
     "wof:id":1276714427,
-    "wof:lastmodified":1566693599,
+    "wof:lastmodified":1682783975,
     "wof:name":"Bikrampur",
     "wof:parent_id":890507435,
     "wof:placetype":"locality",
+    "wof:population":1380,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.07368000000002,
-    24.51852,
-    80.07368000000002,
-    24.51852
+    80.062865,
+    24.51802,
+    80.064945,
+    24.520001
 ],
-  "geometry": {"coordinates":[80.07368000000002,24.51852],"type":"Point"}
+  "geometry": {"coordinates":[[[80.063751,24.520001],[80.06375199999999,24.519911],[80.06394899999999,24.519912],[80.06395000000001,24.519822],[80.06414700000001,24.519823],[80.064148,24.519733],[80.064246,24.519734],[80.06424699999999,24.519643],[80.064346,24.519644],[80.064346,24.519554],[80.064544,24.519555],[80.064545,24.519465],[80.064643,24.519465],[80.064644,24.519375],[80.06474300000001,24.519375],[80.06474300000001,24.519285],[80.064842,24.519286],[80.064843,24.519195],[80.064941,24.519196],[80.06494499999999,24.518745],[80.064846,24.518744],[80.064847,24.518563],[80.06474900000001,24.518563],[80.06475,24.518382],[80.064651,24.518381],[80.064654,24.51802],[80.064555,24.51802],[80.064554,24.5182],[80.064455,24.5182],[80.06444999999999,24.518922],[80.064351,24.518921],[80.06435,24.519012],[80.064054,24.51901],[80.064055,24.51892],[80.063858,24.518918],[80.063858,24.518828],[80.06376,24.518827],[80.06376,24.518737],[80.06366199999999,24.518737],[80.06366199999999,24.518646],[80.063564,24.518646],[80.063564,24.518555],[80.063169,24.518553],[80.063169,24.518643],[80.06307,24.518643],[80.063069,24.518733],[80.062971,24.518732],[80.062969,24.518913],[80.062871,24.518912],[80.062865,24.519725],[80.062963,24.519726],[80.062962,24.519906],[80.063061,24.519907],[80.06305999999999,24.519997],[80.063751,24.520001]]],"type":"Polygon"}
 }

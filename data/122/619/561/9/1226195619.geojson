@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.09195,24.27911,79.09195,24.27911",
-    "geom:latitude":24.27911,
-    "geom:longitude":79.09195,
+    "geom:bbox":"79.088785,24.279131,79.090357,24.280685",
+    "geom:latitude":24.280022,
+    "geom:longitude":79.089536,
     "gn:admin1_code":"35",
     "gn:admin2_code":"427.0",
     "gn:asciiname":"Sasan",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.07195,24.25911,79.11195,24.29911",
+    "ks:ks_id":"KS696F7A848C074668B60E5AA00FF5DD08",
+    "ks:ks_name":"Sasan",
+    "ks:ks_pop":729,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|961662",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_932587",
+    "lbl:latitude":24.280114,
+    "lbl:longitude":79.089458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.280114,
+    "mps:longitude":79.089458,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u0627\u0646"
@@ -47,6 +57,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c3\u03c3\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sasan"
     ],
     "name:epo_x_preferred":[
         "Sasano"
@@ -90,7 +103,13 @@
     "name:uzb_x_preferred":[
         "Soson"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -99,10 +118,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10493882
+        "gn:id":10493882,
+        "ks:id":"KS696F7A848C074668B60E5AA00FF5DD08"
     },
     "wof:country":"IN",
-    "wof:geomhash":"495b5011f2115c6e4111ed73d060e376",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8d6491676ec6a05c5a4dae4511ed50bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +136,22 @@
         }
     ],
     "wof:id":1226195619,
-    "wof:lastmodified":1566711184,
+    "wof:lastmodified":1682659012,
     "wof:name":"Sasan",
     "wof:parent_id":1108696213,
     "wof:placetype":"locality",
+    "wof:population":729,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.09195,
-    24.27911,
-    79.09195,
-    24.27911
+    79.088785,
+    24.279131,
+    79.090357,
+    24.280685
 ],
-  "geometry": {"coordinates":[79.09195,24.27911],"type":"Point"}
+  "geometry": {"coordinates":[[[79.090064,24.279869],[79.090065,24.279779],[79.089967,24.279778],[79.089966,24.279868],[79.08967,24.279864],[79.089671,24.279774],[79.089573,24.279773],[79.089574,24.279683],[79.089476,24.279681],[79.089477,24.279591],[79.08937899999999,24.27959],[79.08938000000001,24.2795],[79.089282,24.279498],[79.08928299999999,24.279408],[79.089184,24.279407],[79.089186,24.279317],[79.08908700000001,24.279315],[79.089089,24.279225],[79.08899,24.279224],[79.088992,24.279134],[79.088795,24.279131],[79.088785,24.279763],[79.08888399999999,24.279764],[79.088881,24.279945],[79.08897899999999,24.279946],[79.088975,24.280217],[79.089074,24.280218],[79.089071,24.280399],[79.089268,24.280401],[79.08926700000001,24.280491],[79.089759,24.280497],[79.089758,24.280588],[79.089955,24.28059],[79.08995299999999,24.28068],[79.09034699999999,24.280685],[79.090357,24.280054],[79.09025800000001,24.280052],[79.09026,24.279962],[79.09016099999999,24.279961],[79.09016200000001,24.279871],[79.090064,24.279869]]],"type":"Polygon"}
 }

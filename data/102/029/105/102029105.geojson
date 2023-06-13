@@ -15,18 +15,29 @@
     "gn:longitude":76.33919,
     "gn:population":0,
     "iso:country":"IN",
-    "lbl:latitude":11.488988,
-    "lbl:longitude":76.338007,
+    "ks:ks_alt_nam":"Nelliyalam",
+    "ks:ks_id":"KSF16635F38C324BF582336FF488181CF2",
+    "ks:ks_name":"Pandalur",
+    "ks:ks_pop":20395,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3311000100783400",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_131906",
+    "lbl:latitude":11.488168,
+    "lbl:longitude":76.341354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":11.485408,
-    "mps:longitude":76.338501,
+    "mps:latitude":11.488168,
+    "mps:longitude":76.341354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pandalur"
+    ],
+    "name:eng_x_variant":[
+        "Nelliyalam"
     ],
     "name:nld_x_preferred":[
         "Pandalur"
@@ -70,9 +81,12 @@
     "reversegeo:longitude":76.338007,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":559,
     "wof:belongsto":[
         102191569,
@@ -84,11 +98,16 @@
     "wof:concordances":{
         "gn:id":1260560,
         "gp:id":29132414,
+        "ks:id":"KSF16635F38C324BF582336FF488181CF2",
         "qs_pg:id":1026585,
         "wd:id":"Q15265279",
         "wk:page":"Pandalur"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"ec5250638b41e632c71d796e6f70543f",
     "wof:hierarchy":[
         {
@@ -100,10 +119,12 @@
         }
     ],
     "wof:id":102029105,
-    "wof:lastmodified":1658780750,
+    "wof:lastmodified":1682523702,
     "wof:name":"Pandalur",
     "wof:parent_id":1108696349,
     "wof:placetype":"locality",
+    "wof:population":20395,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[

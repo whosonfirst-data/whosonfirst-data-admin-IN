@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.44245,19.31048,83.44245,19.31048",
-    "geom:latitude":19.31048,
-    "geom:longitude":83.44245,
+    "geom:bbox":"83.441452,19.310092,83.443608,19.310901",
+    "geom:latitude":19.310443,
+    "geom:longitude":83.442422,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Boriguda",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.42245,19.29048,83.46245,19.33048",
+    "ks:ks_id":"KSABB644B780804721A52F2A1A0F06AEBF",
+    "ks:ks_name":"Boriguda",
+    "ks:ks_pop":47,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1298626",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_452718",
+    "lbl:latitude":19.310496,
+    "lbl:longitude":83.442119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.310496,
+    "mps:longitude":83.442119,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Boriguda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10776439
+        "gn:id":10776439,
+        "ks:id":"KSABB644B780804721A52F2A1A0F06AEBF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4f2d07163fcc0f895e2a9a7db6b38e30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8f1aa0d23ad7eeccfa3898d15fc8594",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1360243743,
-    "wof:lastmodified":1566702420,
+    "wof:lastmodified":1682970049,
     "wof:name":"Boriguda",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.44245,
-    19.31048,
-    83.44245,
-    19.31048
+    83.441452,
+    19.310092,
+    83.443608,
+    19.310901
 ],
-  "geometry": {"coordinates":[83.44244999999999,19.31048],"type":"Point"}
+  "geometry": {"coordinates":[[[83.44253,19.310901],[83.44253,19.310631],[83.443608,19.310631],[83.443608,19.310092],[83.441452,19.310092],[83.441452,19.310901],[83.44253,19.310901]]],"type":"Polygon"}
 }

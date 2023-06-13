@@ -11,12 +11,20 @@
     "geom:longitude":75.999556,
     "gn:population":19234,
     "iso:country":"IN",
-    "lbl:latitude":31.186679,
-    "lbl:longitude":75.993716,
+    "ks:ks_id":"KS9170A1D712C44CE380A55BC6A072217B",
+    "ks:ks_name":"Banga",
+    "ks:ks_pop":18809,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0306000140601000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2669876",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":31.183652,
+    "lbl:longitude":75.997077,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":31.183139,
-    "mps:longitude":75.998242,
+    "mps:latitude":31.183652,
+    "mps:longitude":75.997077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -62,10 +70,12 @@
     "reversegeo:longitude":75.993716,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1004,
     "wof:belongsto":[
         102191569,
@@ -77,11 +87,16 @@
     "wof:concordances":{
         "gn:id":1277338,
         "gp:id":29058186,
+        "ks:id":"KS9170A1D712C44CE380A55BC6A072217B",
         "qs_pg:id":347277,
         "wd:id":"Q3634124",
         "wk:page":"Banga, India"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"bdffb49df8af75a0f46f88b3aa0f996d",
     "wof:hierarchy":[
         {
@@ -93,11 +108,11 @@
         }
     ],
     "wof:id":102030821,
-    "wof:lastmodified":1658780731,
+    "wof:lastmodified":1682525091,
     "wof:name":"Banga",
     "wof:parent_id":890502845,
     "wof:placetype":"locality",
-    "wof:population":19234,
+    "wof:population":18809,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

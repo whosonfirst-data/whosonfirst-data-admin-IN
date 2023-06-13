@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.56501,25.03099,85.56501,25.03099",
-    "geom:latitude":25.03099,
-    "geom:longitude":85.56501,
+    "geom:bbox":"85.564366,25.030221,85.565758,25.031394",
+    "geom:latitude":25.030735,
+    "geom:longitude":85.564901,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Rajpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.54501,25.01099,85.58501,25.05099",
+    "ks:ks_id":"KS9F0DFD44C58F4155B54F778F48A787C5",
+    "ks:ks_name":"Raj Pur",
+    "ks:ks_pop":222,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|890247",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1157896",
+    "lbl:latitude":25.030795,
+    "lbl:longitude":85.564853,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.030795,
+    "mps:longitude":85.564853,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u062c\u0628\u0648\u0631"
@@ -43,6 +53,12 @@
         "Rajpur"
     ],
     "name:ceb_x_preferred":[
+        "Rajpur"
+    ],
+    "name:eng_x_preferred":[
+        "Raj Pur"
+    ],
+    "name:eng_x_variant":[
         "Rajpur"
     ],
     "name:guj_x_preferred":[
@@ -81,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u062c\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10879016
+        "gn:id":10879016,
+        "ks:id":"KS9F0DFD44C58F4155B54F778F48A787C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3703ce4e3f6b1ab8d63e6b468d624cc0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"38b8181b9834811a0752d31da3fe40c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +130,22 @@
         }
     ],
     "wof:id":1226082811,
-    "wof:lastmodified":1577754574,
-    "wof:name":"Rajpur",
+    "wof:lastmodified":1682653556,
+    "wof:name":"Raj Pur",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.56501,
-    25.03099,
-    85.56501,
-    25.03099
+    85.564366,
+    25.030221,
+    85.565758,
+    25.031394
 ],
-  "geometry": {"coordinates":[85.56501,25.03099],"type":"Point"}
+  "geometry": {"coordinates":[[[85.564656,25.031394],[85.564657,25.031303],[85.564954,25.031306],[85.564955,25.031216],[85.565054,25.031217],[85.565055,25.031126],[85.565253,25.031128],[85.565257,25.030858],[85.56535599999999,25.030859],[85.565358,25.030678],[85.565259,25.030677],[85.56525999999999,25.030587],[85.565161,25.030586],[85.565163,25.030405],[85.565757,25.030411],[85.565758,25.030321],[85.565659,25.03032],[85.56565999999999,25.030229],[85.565363,25.030227],[85.56536199999999,25.030317],[85.565164,25.030315],[85.56516499999999,25.030225],[85.564768,25.030221],[85.564767,25.030311],[85.564668,25.03031],[85.564667,25.0304],[85.564469,25.030398],[85.56446800000001,25.030489],[85.564369,25.030488],[85.56436600000001,25.030759],[85.564465,25.03076],[85.56446,25.031211],[85.564559,25.031212],[85.56455699999999,25.031393],[85.564656,25.031394]]],"type":"Polygon"}
 }

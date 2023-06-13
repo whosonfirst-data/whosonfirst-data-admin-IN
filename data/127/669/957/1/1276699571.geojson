@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.07781,25.76478,84.07781,25.76478",
-    "geom:latitude":25.76478,
-    "geom:longitude":84.07781,
+    "geom:bbox":"84.069913,25.76853,84.07126,25.769608",
+    "geom:latitude":25.769018,
+    "geom:longitude":84.07057,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"193.0",
     "gn:asciiname":"Chobepur",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.05781,25.74478,84.09781,25.78478",
+    "ks:ks_id":"KS9AD9DE69457044E3AC931DC175FF853B",
+    "ks:ks_name":"Choubeypur",
+    "ks:ks_pop":789,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0963000409216100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1371205",
+    "lbl:latitude":25.768992,
+    "lbl:longitude":84.070637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.768992,
+    "mps:longitude":84.070637,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Choubeypur"
+    ],
+    "name:eng_x_variant":[
+        "Chobepur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10831652
+        "gn:id":10831652,
+        "ks:id":"KS9AD9DE69457044E3AC931DC175FF853B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7ae7affc0752886c75e16a75660a375d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c0daa8da9bbc3acafa111065676ae59c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1276699571,
-    "wof:lastmodified":1566692629,
-    "wof:name":"Chobepur",
+    "wof:lastmodified":1682781956,
+    "wof:name":"Choubeypur",
     "wof:parent_id":1108695875,
     "wof:placetype":"locality",
+    "wof:population":789,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.07781,
-    25.76478,
-    84.07781,
-    25.76478
+    84.069913,
+    25.76853,
+    84.07126,
+    25.769608
 ],
-  "geometry": {"coordinates":[84.07781,25.76478],"type":"Point"}
+  "geometry": {"coordinates":[[[84.07099100000001,25.769608],[84.07099100000001,25.769338],[84.07126,25.769338],[84.07126,25.768799],[84.07099100000001,25.768799],[84.07099100000001,25.76853],[84.069913,25.76853],[84.069913,25.769338],[84.070452,25.769338],[84.070452,25.769608],[84.07099100000001,25.769608]]],"type":"Polygon"}
 }

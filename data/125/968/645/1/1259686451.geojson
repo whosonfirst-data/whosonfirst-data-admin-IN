@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.76966,13.81978,79.76966,13.81978",
-    "geom:latitude":13.81978,
-    "geom:longitude":79.76966,
+    "geom:bbox":"79.768963,13.818831,79.770719,13.820644",
+    "geom:latitude":13.819738,
+    "geom:longitude":79.769889,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Bhimavaram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.74966,13.79978,79.78966,13.83978",
+    "ks:ks_id":"KS19C06EFB8E544C07ACD5F25052621335",
+    "ks:ks_name":"Bheemavaram",
+    "ks:ks_pop":739,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|147280",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_363208",
+    "lbl:latitude":13.819737,
+    "lbl:longitude":79.769906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.819737,
+    "mps:longitude":79.769906,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092d\u0940\u092e\u093e\u0935\u0930\u092e"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Bh\u012bmavaram"
+    ],
+    "name:eng_x_preferred":[
+        "Bheemavaram"
+    ],
+    "name:eng_x_variant":[
+        "Bhimavaram"
     ],
     "name:ita_x_preferred":[
         "Bhimavaram"
@@ -84,7 +100,13 @@
     "name:zho_x_preferred":[
         "\u8d1d\u57c3\u9a6c\u74e6\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +115,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11423951
+        "gn:id":11423951,
+        "ks:id":"KS19C06EFB8E544C07ACD5F25052621335"
     },
     "wof:country":"IN",
-    "wof:geomhash":"117413847fe09dc9521c8f7832172c57",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"53bb602e51e6d30f8249bb6f25a8a54e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +133,22 @@
         }
     ],
     "wof:id":1259686451,
-    "wof:lastmodified":1566709751,
-    "wof:name":"Bhimavaram",
+    "wof:lastmodified":1682735497,
+    "wof:name":"Bheemavaram",
     "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":739,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.76966,
-    13.81978,
-    79.76966,
-    13.81978
+    79.768963,
+    13.818831,
+    79.770719,
+    13.820644
 ],
-  "geometry": {"coordinates":[79.76966,13.81978],"type":"Point"}
+  "geometry": {"coordinates":[[[79.77052999999999,13.820644],[79.77053100000001,13.820554],[79.770623,13.820554],[79.770624,13.820464],[79.77071599999999,13.820464],[79.770719,13.819831],[79.770627,13.819831],[79.770628,13.81956],[79.77053600000001,13.819559],[79.770537,13.819378],[79.770444,13.819378],[79.770445,13.819197],[79.770353,13.819197],[79.770353,13.819106],[79.770261,13.819106],[79.770261,13.819015],[79.770169,13.819015],[79.770169,13.818924],[79.770077,13.818924],[79.770077,13.818834],[79.76952199999999,13.818831],[79.76952199999999,13.818921],[79.769244,13.81892],[79.769244,13.81901],[79.76915099999999,13.81901],[79.76915099999999,13.8191],[79.769058,13.8191],[79.769057,13.819281],[79.76896499999999,13.81928],[79.768963,13.819551],[79.76905600000001,13.819552],[79.76905499999999,13.819733],[79.769147,13.819733],[79.76914600000001,13.819914],[79.769239,13.819914],[79.769238,13.820005],[79.76933099999999,13.820005],[79.769329,13.820276],[79.76942200000001,13.820277],[79.76942099999999,13.820367],[79.769514,13.820368],[79.769514,13.820458],[79.769699,13.820459],[79.76969800000001,13.820549],[79.76988299999999,13.82055],[79.76988299999999,13.820641],[79.77052999999999,13.820644]]],"type":"Polygon"}
 }

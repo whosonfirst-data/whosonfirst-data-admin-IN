@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.35184,20.4191,78.35184,20.4191",
-    "geom:latitude":20.4191,
-    "geom:longitude":78.35184,
+    "geom:bbox":"78.351238,20.418523,78.352316,20.419062",
+    "geom:latitude":20.418812,
+    "geom:longitude":78.351835,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Karak",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.33184,20.3991,78.37184,20.4391",
+    "ks:ks_alt_nam":"K\u0101rak",
+    "ks:ks_id":"KS7CF17B3E1CAD4329A2E4999FC9AAECEE",
+    "ks:ks_name":"Karak",
+    "ks:ks_pop":77,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|509949",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_649958",
+    "lbl:latitude":20.418793,
+    "lbl:longitude":78.351834,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.418793,
+    "mps:longitude":78.351834,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Karak"
     ],
     "name:ceb_x_preferred":[
         "Karak"
+    ],
+    "name:eng_x_preferred":[
+        "Karak"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101rak"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05db"
@@ -48,7 +65,13 @@
     "name:swe_x_preferred":[
         "Karak"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453443
+        "gn:id":10453443,
+        "ks:id":"KS7CF17B3E1CAD4329A2E4999FC9AAECEE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f6b202690be23ca1d2fe92cdbd52420f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"532efa5adaa8dbaa62f488f4c46cb982",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +98,22 @@
         }
     ],
     "wof:id":1327116229,
-    "wof:lastmodified":1566684957,
+    "wof:lastmodified":1682904405,
     "wof:name":"Karak",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.35184,
-    20.4191,
-    78.35184,
-    20.4191
+    78.351238,
+    20.418523,
+    78.352316,
+    20.419062
 ],
-  "geometry": {"coordinates":[78.35184,20.4191],"type":"Point"}
+  "geometry": {"coordinates":[[[78.352316,20.419062],[78.352316,20.418523],[78.351507,20.418523],[78.351507,20.418793],[78.351238,20.418793],[78.351238,20.419062],[78.352316,20.419062]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.54823,21.53023,78.54823,21.53023",
-    "geom:latitude":21.53023,
-    "geom:longitude":78.54823,
+    "geom:bbox":"78.547189,21.52905,78.549524,21.530948",
+    "geom:latitude":21.53015,
+    "geom:longitude":78.548502,
     "gn:admin1_code":"35",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Karwar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.52823,21.51023,78.56823,21.55023",
+    "ks:ks_id":"KS8BC0823D6DCA4031ADCE3B8A5F69D3D6",
+    "ks:ks_name":"Karwar",
+    "ks:ks_pop":645,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|518494",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_879854",
+    "lbl:latitude":21.530217,
+    "lbl:longitude":78.548525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.530217,
+    "mps:longitude":78.548525,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Karwar"
@@ -48,6 +58,9 @@
     "name:deu_x_preferred":[
         "Karwar"
     ],
+    "name:eng_x_preferred":[
+        "Karwar"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0631\u0648\u0627\u0631"
     ],
@@ -61,6 +74,9 @@
         "\u0a95\u0abe\u0ab0\u0ab5\u0abe\u0ab0"
     ],
     "name:hin_x_preferred":[
+        "\u0915\u0930\u0935\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u0915\u093e\u0930\u0935\u093e\u0930"
     ],
     "name:hun_x_preferred":[
@@ -129,7 +145,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5c14\u74e6\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -138,10 +160,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10535610
+        "gn:id":10535610,
+        "ks:id":"KS8BC0823D6DCA4031ADCE3B8A5F69D3D6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"112253f5ca6a1406eb25a6f1b6b207bd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb357f1ca4f2fdfe660c9cd175594471",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,20 +178,22 @@
         }
     ],
     "wof:id":1243308175,
-    "wof:lastmodified":1566705599,
+    "wof:lastmodified":1686163971,
     "wof:name":"Karwar",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":645,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.54823,
-    21.53023,
-    78.54823,
-    21.53023
+    78.547189,
+    21.52905,
+    78.549524,
+    21.530948
 ],
-  "geometry": {"coordinates":[78.54823,21.53023],"type":"Point"}
+  "geometry": {"coordinates":[[[78.54911199999999,21.530948],[78.549114,21.530858],[78.54921,21.530859],[78.549212,21.530769],[78.549308,21.53077],[78.549313,21.5305],[78.549409,21.530501],[78.54941700000001,21.53005],[78.549513,21.530051],[78.54952400000001,21.529419],[78.54942699999999,21.529418],[78.549429,21.529328],[78.54933200000001,21.529326],[78.549334,21.529236],[78.54923700000001,21.529234],[78.549239,21.529144],[78.549142,21.529143],[78.549144,21.529053],[78.548951,21.52905],[78.54894899999999,21.52914],[78.54885299999999,21.529139],[78.54885,21.529319],[78.548754,21.529318],[78.54875199999999,21.529408],[78.54865599999999,21.529406],[78.548654,21.529497],[78.548558,21.529495],[78.548554,21.529676],[78.548362,21.529673],[78.54836,21.529763],[78.54816700000001,21.52976],[78.54816599999999,21.529851],[78.54758699999999,21.529842],[78.547585,21.529932],[78.547392,21.52993],[78.547391,21.53002],[78.54729399999999,21.530018],[78.547293,21.530109],[78.547196,21.530107],[78.547189,21.530559],[78.547285,21.53056],[78.547282,21.530741],[78.54747500000001,21.530743],[78.54747399999999,21.530834],[78.547956,21.530841],[78.547957,21.530751],[78.548633,21.53076],[78.548631,21.530851],[78.54892100000001,21.530855],[78.548919,21.530945],[78.54911199999999,21.530948]]],"type":"Polygon"}
 }

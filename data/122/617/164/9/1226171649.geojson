@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.82776,29.46668,79.82776,29.46668",
-    "geom:latitude":29.46668,
-    "geom:longitude":79.82776,
+    "geom:bbox":"79.826428,29.46593,79.827564,29.466747",
+    "geom:latitude":29.466342,
+    "geom:longitude":79.826994,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Bangi",
@@ -24,16 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.80776,29.44668,79.84776,29.48668",
+    "ks:ks_id":"KSA618BFFA72C54DB49C7530E9EC293D64",
+    "ks:ks_name":"Bangi",
+    "ks:ks_source_id":"N|13268160",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2036989",
+    "lbl:latitude":29.466371,
+    "lbl:longitude":79.826983,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.466371,
+    "mps:longitude":79.826983,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bangi"
     ],
     "name:deu_x_preferred":[
+        "Bangi"
+    ],
+    "name:eng_x_preferred":[
         "Bangi"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +56,11 @@
     "name:swe_x_preferred":[
         "Bangi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +69,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10822796
+        "gn:id":10822796,
+        "ks:id":"KSA618BFFA72C54DB49C7530E9EC293D64"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a451052ea9a8b914f44c58c05290f8e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6b87b57cdbbd989b50f2558dd71accb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +87,7 @@
         }
     ],
     "wof:id":1226171649,
-    "wof:lastmodified":1566711139,
+    "wof:lastmodified":1682656638,
     "wof:name":"Bangi",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
@@ -78,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.82776,
-    29.46668,
-    79.82776,
-    29.46668
+    79.826428,
+    29.46593,
+    79.827564,
+    29.466747
 ],
-  "geometry": {"coordinates":[79.82776,29.46668],"type":"Point"}
+  "geometry": {"coordinates":[[[79.827248,29.466747],[79.82724899999999,29.466657],[79.827352,29.466658],[79.827353,29.466567],[79.827456,29.466568],[79.82745799999999,29.466478],[79.827561,29.466479],[79.827564,29.466208],[79.827461,29.466207],[79.827462,29.466117],[79.82725499999999,29.466115],[79.82725600000001,29.466025],[79.82705,29.466023],[79.827051,29.465933],[79.826742,29.46593],[79.826741,29.466021],[79.82653500000001,29.466019],[79.826534,29.466109],[79.826431,29.466108],[79.82642800000001,29.466288],[79.826532,29.466289],[79.82653000000001,29.46647],[79.826633,29.466471],[79.82663100000001,29.466651],[79.826734,29.466652],[79.826733,29.466742],[79.827248,29.466747]]],"type":"Polygon"}
 }

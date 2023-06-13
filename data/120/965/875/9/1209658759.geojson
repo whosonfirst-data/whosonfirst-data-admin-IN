@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0627"
@@ -68,35 +69,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10486063
     },
     "wof:country":"IN",
-    "wof:geomhash":"8850f0285238b07691b979bf58a7bb98",
+    "wof:geomhash":"a82cbea70277a458d12f676c8e8059d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209658759
+            "county_id":1108695827,
+            "locality_id":1209658759,
+            "region_id":85672205
         }
     ],
     "wof:id":1209658759,
-    "wof:lastmodified":1577750703,
+    "wof:lastmodified":1682627223,
     "wof:name":"Khera",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847129403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.56709000000002,
+    79.56709,
     26.6458,
-    79.56709000000002,
+    79.56709,
     26.6458
 ],
-  "geometry": {"coordinates":[79.56709000000002,26.6458],"type":"Point"}
+  "geometry": {"coordinates":[79.56708999999999,26.6458],"type":"Point"}
 }

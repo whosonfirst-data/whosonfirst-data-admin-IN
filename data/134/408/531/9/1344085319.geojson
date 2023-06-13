@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.40576,29.72306,79.40576,29.72306",
-    "geom:latitude":29.72306,
-    "geom:longitude":79.40576,
+    "geom:bbox":"79.404019,29.722404,79.405058,29.72421",
+    "geom:latitude":29.723446,
+    "geom:longitude":79.404557,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"64.0",
     "gn:asciiname":"Kuna",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.38576,29.70306,79.42576,29.74306",
+    "ks:ks_alt_nam":"K\u016bna",
+    "ks:ks_id":"KS83EC6E2316DC464E9618B96218D5FC02",
+    "ks:ks_name":"Kuna",
+    "ks:ks_pop":156,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|599626",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1836968",
+    "lbl:latitude":29.723697,
+    "lbl:longitude":79.404522,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.723697,
+    "mps:longitude":79.404522,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kuna"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Kuna"
+    ],
+    "name:eng_x_preferred":[
+        "Kuna"
+    ],
+    "name:eng_x_variant":[
+        "K\u016bna"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0646\u0627"
@@ -99,7 +116,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10807495
+        "gn:id":10807495,
+        "ks:id":"KS83EC6E2316DC464E9618B96218D5FC02"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fa9e95d2bd4bed69284e16ae474cee7c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b915cdbd2ae009cd37c0df10dd568775",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +149,22 @@
         }
     ],
     "wof:id":1344085319,
-    "wof:lastmodified":1566686368,
+    "wof:lastmodified":1682950955,
     "wof:name":"Kuna",
     "wof:parent_id":890510633,
     "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.40576,
-    29.72306,
-    79.40576,
-    29.72306
+    79.404019,
+    29.722404,
+    79.405058,
+    29.72421
 ],
-  "geometry": {"coordinates":[79.40576,29.72306],"type":"Point"}
+  "geometry": {"coordinates":[[[79.404635,29.72421],[79.404636,29.724119],[79.404843,29.724122],[79.40484499999999,29.724032],[79.404948,29.724033],[79.404954,29.723672],[79.405057,29.723673],[79.405058,29.723583],[79.404955,29.723582],[79.40495799999999,29.723401],[79.404855,29.7234],[79.40486900000001,29.722498],[79.404766,29.722497],[79.40476700000001,29.722407],[79.40456,29.722404],[79.40455900000001,29.722494],[79.404455,29.722493],[79.404453,29.722673],[79.404556,29.722675],[79.40455300000001,29.722855],[79.40445,29.722854],[79.404448,29.722944],[79.40434500000001,29.722943],[79.404341,29.723213],[79.40423699999999,29.723212],[79.404234,29.723393],[79.40413100000001,29.723391],[79.404128,29.723572],[79.404025,29.723571],[79.40401900000001,29.723931],[79.404123,29.723933],[79.404121,29.724023],[79.404224,29.724024],[79.404223,29.724114],[79.404326,29.724116],[79.404325,29.724206],[79.404635,29.72421]]],"type":"Polygon"}
 }

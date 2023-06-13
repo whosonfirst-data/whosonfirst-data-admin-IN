@@ -11,12 +11,19 @@
     "geom:longitude":71.740211,
     "gn:population":8206,
     "iso:country":"IN",
-    "lbl:latitude":21.821833,
-    "lbl:longitude":71.740982,
+    "ks:ks_id":"KSFC5D0E36BD604B01A77765A2C7A8B29A",
+    "ks:ks_name":"Dhola",
+    "ks:ks_pop":8050,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2414000441403000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_693400",
+    "lbl:latitude":21.819678,
+    "lbl:longitude":71.741738,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":21.822129,
-    "mps:longitude":71.740509,
+    "mps:latitude":21.819678,
+    "mps:longitude":71.741738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,10 +103,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191569,
@@ -111,13 +120,16 @@
     "wof:concordances":{
         "gn:id":1272744,
         "gp:id":2291865,
+        "ks:id":"KSFC5D0E36BD604B01A77765A2C7A8B29A",
         "qs_pg:id":132119,
         "wd:id":"Q2355879",
         "wk:page":"Dhola, India"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"893956632d6f936bf6887766a14491dc",
     "wof:hierarchy":[
@@ -130,11 +142,11 @@
         }
     ],
     "wof:id":102030375,
-    "wof:lastmodified":1658780748,
+    "wof:lastmodified":1682524668,
     "wof:name":"Dhola",
     "wof:parent_id":890509009,
     "wof:placetype":"locality",
-    "wof:population":8206,
+    "wof:population":8050,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

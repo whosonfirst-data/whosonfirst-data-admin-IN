@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.75044,27.74942,80.75044,27.74942",
-    "geom:latitude":27.74942,
-    "geom:longitude":80.75044,
+    "geom:bbox":"80.749636,27.748443,80.751667,27.750068",
+    "geom:latitude":27.749277,
+    "geom:longitude":80.750675,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Mallapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.73044,27.72942,80.77044,27.76942",
+    "ks:ks_id":"KS70415C9851C44D8AA849B18BC1DB570B",
+    "ks:ks_name":"Mallapur",
+    "ks:ks_pop":335,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|663160",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2011200",
+    "lbl:latitude":27.74921,
+    "lbl:longitude":80.750796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.74921,
+    "mps:longitude":80.750796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ae\u09b2\u09cd\u09b2\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Mallapur"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0acd\u0ab2\u0aaa\u0ac1\u0ab0"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0645\u0644\u0627 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10710950
+        "gn:id":10710950,
+        "ks:id":"KS70415C9851C44D8AA849B18BC1DB570B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0e8831745efd141366f7ded192a0ed4d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0fa17aa621f41b9e3761f741e97ba186",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1326474193,
-    "wof:lastmodified":1576020614,
+    "wof:lastmodified":1682877613,
     "wof:name":"Mallapur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.75044,
-    27.74942,
-    80.75044,
-    27.74942
+    80.749636,
+    27.748443,
+    80.751667,
+    27.750068
 ],
-  "geometry": {"coordinates":[80.75044,27.74942],"type":"Point"}
+  "geometry": {"coordinates":[[[80.75054799999999,27.750068],[80.75054799999999,27.749977],[80.75085300000001,27.749978],[80.75085300000001,27.749888],[80.751259,27.749888],[80.751259,27.749798],[80.75136000000001,27.749798],[80.751361,27.749708],[80.751462,27.749708],[80.751462,27.749618],[80.751564,27.749618],[80.751564,27.749347],[80.751666,27.749347],[80.751667,27.748806],[80.751566,27.748806],[80.751566,27.748715],[80.751464,27.748715],[80.751465,27.748625],[80.751363,27.748625],[80.751363,27.748534],[80.75116,27.748534],[80.751161,27.748444],[80.750552,27.748443],[80.750552,27.748533],[80.75045,27.748533],[80.75045,27.748623],[80.750348,27.748623],[80.750348,27.748713],[80.750145,27.748713],[80.750145,27.748803],[80.750044,27.748803],[80.75004300000001,27.748893],[80.749942,27.748893],[80.749942,27.748983],[80.74984000000001,27.748983],[80.74984000000001,27.749164],[80.74973799999999,27.749163],[80.74973799999999,27.749344],[80.749636,27.749344],[80.749636,27.749705],[80.749737,27.749705],[80.749737,27.749886],[80.749838,27.749886],[80.749838,27.749976],[80.749939,27.749976],[80.749939,27.750067],[80.75054799999999,27.750068]]],"type":"Polygon"}
 }

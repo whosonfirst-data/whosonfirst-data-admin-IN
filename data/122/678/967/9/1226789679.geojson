@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.29596,23.24143,80.29596,23.24143",
-    "geom:latitude":23.24143,
-    "geom:longitude":80.29596,
+    "geom:bbox":"80.295474,23.240828,80.296745,23.241823",
+    "geom:latitude":23.241356,
+    "geom:longitude":80.296019,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Bar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.27596,23.22143,80.31596,23.26143",
+    "ks:ks_id":"KS1FEB572F058344E8BEFD6B0F6AC3AD3C",
+    "ks:ks_name":"Bar",
+    "ks:ks_pop":417,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|96318",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_999940",
+    "lbl:latitude":23.241398,
+    "lbl:longitude":80.295944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.241398,
+    "mps:longitude":80.295944,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631"
@@ -61,6 +71,9 @@
         "Bar"
     ],
     "name:diq_x_preferred":[
+        "Bar"
+    ],
+    "name:eng_x_preferred":[
         "Bar"
     ],
     "name:epo_x_preferred":[
@@ -177,7 +190,13 @@
     "name:yid_x_preferred":[
         "\u05e9\u05e2\u05e0\u05e7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -186,10 +205,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10675826
+        "gn:id":10675826,
+        "ks:id":"KS1FEB572F058344E8BEFD6B0F6AC3AD3C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"068d6f99dd4c9697921a27c0c57d2f11",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"26ce840afa39a5ad0383d0da55d95d12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,20 +223,22 @@
         }
     ],
     "wof:id":1226789679,
-    "wof:lastmodified":1636505953,
+    "wof:lastmodified":1682681325,
     "wof:name":"Bar",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":417,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.29596,
-    23.24143,
-    80.29596,
-    23.24143
+    80.295474,
+    23.240828,
+    80.296745,
+    23.241823
 ],
-  "geometry": {"coordinates":[80.29595999999999,23.24143],"type":"Point"}
+  "geometry": {"coordinates":[[[80.296058,23.241823],[80.296059,23.241733],[80.296352,23.241734],[80.296352,23.241644],[80.296548,23.241645],[80.296548,23.241554],[80.296646,23.241555],[80.29664699999999,23.241374],[80.296745,23.241375],[80.296745,23.241284],[80.29664699999999,23.241284],[80.296648,23.241194],[80.296257,23.241192],[80.296257,23.241101],[80.29616,23.241101],[80.29616,23.241011],[80.29606200000001,23.24101],[80.296063,23.24092],[80.295965,23.240919],[80.29596600000001,23.240829],[80.295672,23.240828],[80.295672,23.240918],[80.295574,23.240918],[80.295573,23.241098],[80.295475,23.241098],[80.295474,23.241279],[80.29557200000001,23.241279],[80.29557,23.241731],[80.295765,23.241732],[80.295765,23.241822],[80.296058,23.241823]]],"type":"Polygon"}
 }

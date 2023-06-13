@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.83998,21.16197,77.83998,21.16197",
-    "geom:latitude":21.16197,
-    "geom:longitude":77.83998,
+    "geom:bbox":"77.8394,21.160975,77.840945,21.162885",
+    "geom:latitude":21.161932,
+    "geom:longitude":77.840154,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Patur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.81998,21.14197,77.85998,21.18197",
+    "ks:ks_alt_nam":"P\u0101t\u016br",
+    "ks:ks_id":"KSA26B366DF6814DBD9AA8510543703297",
+    "ks:ks_name":"Patur",
+    "ks:ks_pop":311,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|841154",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_876769",
+    "lbl:latitude":21.161929,
+    "lbl:longitude":77.840169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.161929,
+    "mps:longitude":77.840169,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a4\u09c1\u09b0"
@@ -37,6 +48,12 @@
         "\u09aa\u09be\u09a4\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "P\u0101t\u016br"
+    ],
+    "name:eng_x_preferred":[
+        "Patur"
+    ],
+    "name:eng_x_variant":[
         "P\u0101t\u016br"
     ],
     "name:hif_x_preferred":[
@@ -72,7 +89,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u56fe\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10513304
+        "gn:id":10513304,
+        "ks:id":"KSA26B366DF6814DBD9AA8510543703297"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ca58a8191ab903281df701169965c05b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c45004e858d3bdeb98329df867d10d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1293169955,
-    "wof:lastmodified":1566691301,
+    "wof:lastmodified":1682809761,
     "wof:name":"Patur",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.83998000000003,
-    21.16197,
-    77.83998000000003,
-    21.16197
+    77.8394,
+    21.160975,
+    77.840945,
+    21.162885
 ],
-  "geometry": {"coordinates":[77.83998000000003,21.16197],"type":"Point"}
+  "geometry": {"coordinates":[[[77.840582,21.16287],[77.840581,21.16278],[77.840677,21.162778],[77.840675,21.162688],[77.840771,21.162686],[77.84076899999999,21.162596],[77.84086600000001,21.162595],[77.84084799999999,21.161692],[77.840945,21.16169],[77.840943,21.1616],[77.840847,21.161602],[77.84084199999999,21.161331],[77.840745,21.161333],[77.84074200000001,21.161152],[77.84064600000001,21.161154],[77.840644,21.161064],[77.840548,21.161065],[77.840546,21.160975],[77.839776,21.160988],[77.839778,21.161078],[77.839586,21.161081],[77.839589,21.161262],[77.839493,21.161263],[77.839496,21.161444],[77.8394,21.161446],[77.839412,21.162077],[77.839508,21.162076],[77.839521,21.162707],[77.839617,21.162706],[77.839618,21.162796],[77.839715,21.162794],[77.839716,21.162885],[77.840582,21.16287]]],"type":"Polygon"}
 }

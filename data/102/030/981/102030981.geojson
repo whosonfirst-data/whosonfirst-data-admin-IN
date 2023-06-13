@@ -11,12 +11,20 @@
     "geom:longitude":82.007504,
     "gn:population":52690,
     "iso:country":"IN",
-    "lbl:latitude":16.577804,
-    "lbl:longitude":82.003422,
+    "ks:ks_id":"KSC635E0E40AEE403AA799D155FE3F2253",
+    "ks:ks_name":"Amalapuram",
+    "ks:ks_pop":51444,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2814005741414000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_578446",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":16.577189,
+    "lbl:longitude":82.003154,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":16.559112,
-    "mps:longitude":81.994067,
+    "mps:latitude":16.577189,
+    "mps:longitude":82.003154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -35,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Amalapuram"
+    ],
+    "name:eng_x_variant":[
+        "Amal\u0101puram"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u0627\u0644\u0627\u067e\u0648\u0631\u0627\u0645"
@@ -115,6 +126,9 @@
         "Amalapuram"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u0645\u0644\u0627\u067e\u0648\u0631\u0645"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u0645\u0627\u0644\u0627\u067e\u0648\u0631\u0645"
     ],
     "name:vie_x_preferred":[
@@ -140,10 +154,12 @@
     "reversegeo:longitude":82.003422,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":496,
     "wof:belongsto":[
         102191569,
@@ -155,6 +171,7 @@
     "wof:concordances":{
         "gn:id":1278935,
         "gp:id":29142923,
+        "ks:id":"KSC635E0E40AEE403AA799D155FE3F2253",
         "qs_pg:id":348696,
         "wd:id":"Q588625",
         "wk:page":"Amalapuram"
@@ -163,6 +180,10 @@
         "qs_pg:id":348696
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"0ca024ca91c69a73c9fa1bcaaa4d046a",
     "wof:hierarchy":[
         {
@@ -174,11 +195,11 @@
         }
     ],
     "wof:id":102030981,
-    "wof:lastmodified":1658780748,
-    "wof:name":"Amal\u0101puram",
+    "wof:lastmodified":1686162192,
+    "wof:name":"Amalapuram",
     "wof:parent_id":890506393,
     "wof:placetype":"locality",
-    "wof:population":52690,
+    "wof:population":51444,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

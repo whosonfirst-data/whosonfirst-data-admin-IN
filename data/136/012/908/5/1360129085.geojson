@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.48615,24.18218,76.48615,24.18218",
-    "geom:latitude":24.18218,
-    "geom:longitude":76.48615,
+    "geom:bbox":"76.485268,24.18094,76.486862,24.183467",
+    "geom:latitude":24.182174,
+    "geom:longitude":76.486113,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"442.0",
     "gn:asciiname":"Kumara",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.46615,24.16218,76.50615,24.20218",
+    "ks:ks_alt_nam":"Kum\u0101ra",
+    "ks:ks_id":"KSCE395D216E504A5D888103858DC539F7",
+    "ks:ks_name":"Kumara",
+    "ks:ks_pop":169,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12757775",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_909756",
+    "lbl:latitude":24.182161,
+    "lbl:longitude":76.486097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.182161,
+    "mps:longitude":76.486097,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kumara"
     ],
     "name:deu_x_preferred":[
         "Kumara"
+    ],
+    "name:eng_x_preferred":[
+        "Kumara"
+    ],
+    "name:eng_x_variant":[
+        "Kum\u0101ra"
     ],
     "name:fra_x_preferred":[
         "Kumara"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Kumara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10332977
+        "gn:id":10332977,
+        "ks:id":"KSCE395D216E504A5D888103858DC539F7"
     },
     "wof:country":"IN",
-    "wof:geomhash":"693d887bc23743a6165b29d68b4a54f4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c473fdacb1c074f60badb1fbbc0bb78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1360129085,
-    "wof:lastmodified":1566702533,
+    "wof:lastmodified":1682964582,
     "wof:name":"Kumara",
     "wof:parent_id":1108696229,
     "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.48615,
-    24.18218,
-    76.48615,
-    24.18218
+    76.485268,
+    24.18094,
+    76.486862,
+    24.183467
 ],
-  "geometry": {"coordinates":[76.48614999999999,24.18218],"type":"Point"}
+  "geometry": {"coordinates":[[[76.486767,24.183463],[76.48676399999999,24.183192],[76.486862,24.183191],[76.486845,24.181656],[76.486746,24.181657],[76.486743,24.181387],[76.486645,24.181387],[76.486643,24.181297],[76.48654500000001,24.181298],[76.48654399999999,24.181208],[76.486446,24.181209],[76.486445,24.181119],[76.486346,24.181119],[76.486345,24.181029],[76.48624700000001,24.18103],[76.48624599999999,24.18094],[76.48585199999999,24.180944],[76.48585300000001,24.181034],[76.48565600000001,24.181036],[76.485657,24.181126],[76.48555899999999,24.181127],[76.48556000000001,24.181217],[76.485461,24.181218],[76.485462,24.181309],[76.485364,24.18131],[76.485366,24.18149],[76.485268,24.181491],[76.48527900000001,24.182484],[76.485378,24.182483],[76.48538000000001,24.182664],[76.485478,24.182663],[76.48548,24.182844],[76.485579,24.182843],[76.48558,24.182933],[76.48567799999999,24.182932],[76.485679,24.183022],[76.485778,24.183021],[76.48577899999999,24.183112],[76.485877,24.183111],[76.485878,24.183201],[76.486075,24.183199],[76.486076,24.183289],[76.48617400000001,24.183288],[76.486175,24.183379],[76.486372,24.183377],[76.486373,24.183467],[76.486767,24.183463]]],"type":"Polygon"}
 }

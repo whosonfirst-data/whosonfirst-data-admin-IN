@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.46304,16.62825,76.46304,16.62825",
-    "geom:latitude":16.62825,
-    "geom:longitude":76.46304,
+    "geom:bbox":"76.462458,16.627735,76.463774,16.628644",
+    "geom:latitude":16.628192,
+    "geom:longitude":76.463129,
     "gn:admin1_code":"19",
     "gn:admin2_code":"580.0",
     "gn:asciiname":"Malakapur",
@@ -24,13 +24,41 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.44304,16.60825,76.48304,16.64825",
+    "ks:ks_id":"KS82F75046A57E44CF858B5CDDE5177748",
+    "ks:ks_name":"Malkapur",
+    "ks:ks_pop":216,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|662112",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_492367",
+    "lbl:latitude":16.628189,
+    "lbl:longitude":76.463129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":16.628189,
+    "mps:longitude":76.463129,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Malkapur"
+    ],
+    "name:eng_x_variant":[
+        "Malakapur"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0932\u094d\u0915\u093e\u092a\u0941\u0930"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0932\u0915\u093e\u092a\u0942\u0930"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10446478
+        "gn:id":10446478,
+        "ks:id":"KS82F75046A57E44CF858B5CDDE5177748"
     },
     "wof:country":"IN",
-    "wof:geomhash":"46a148ef95aa6a93f01c35329254bc60",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0ea7b31e9e7142f45fdcfc1a7968a05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +85,22 @@
         }
     ],
     "wof:id":1309867943,
-    "wof:lastmodified":1566705006,
-    "wof:name":"Malakapur",
+    "wof:lastmodified":1686163882,
+    "wof:name":"Malkapur",
     "wof:parent_id":1108696339,
     "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.46304,
-    16.62825,
-    76.46304,
-    16.62825
+    76.462458,
+    16.627735,
+    76.463774,
+    16.628644
 ],
-  "geometry": {"coordinates":[76.46304000000001,16.62825],"type":"Point"}
+  "geometry": {"coordinates":[[[76.463494,16.628639],[76.463493,16.628548],[76.46368099999999,16.628547],[76.46368,16.628456],[76.463774,16.628456],[76.46377,16.628004],[76.463677,16.628005],[76.46367600000001,16.627914],[76.463582,16.627915],[76.463581,16.627825],[76.46339399999999,16.627826],[76.463393,16.627735],[76.462643,16.627741],[76.46264499999999,16.627921],[76.462551,16.627922],[76.462552,16.628013],[76.462458,16.628013],[76.462459,16.628194],[76.462553,16.628193],[76.46255499999999,16.628464],[76.462649,16.628464],[76.46265,16.628554],[76.462743,16.628553],[76.462744,16.628644],[76.463494,16.628639]]],"type":"Polygon"}
 }

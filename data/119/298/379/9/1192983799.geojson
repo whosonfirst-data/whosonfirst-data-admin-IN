@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.25466,13.8027,76.25466,13.8027",
-    "geom:latitude":13.8027,
-    "geom:longitude":76.25466,
+    "geom:bbox":"76.260499,13.804048,76.261577,13.805126",
+    "geom:latitude":13.804587,
+    "geom:longitude":76.261038,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"566.0",
     "gn:asciiname":"Sivanakatte",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.23466,13.7827,76.27466,13.8227",
+    "ks:ks_id":"KS0042885E20374084BA3F600DD9B14008",
+    "ks:ks_name":"Shivanekatte",
+    "ks:ks_pop":1226,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2913000501010800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_297663",
+    "lbl:latitude":13.804587,
+    "lbl:longitude":76.261038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.804587,
+    "mps:longitude":76.261038,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Shivanekatte"
+    ],
+    "name:eng_x_variant":[
+        "Sivanakatte"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10888696
+        "gn:id":10888696,
+        "ks:id":"KS0042885E20374084BA3F600DD9B14008"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c7938e1e903c59d7fab48ebfd442394e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e3d22674fa199e82a60ab8f558a5457",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1192983799,
-    "wof:lastmodified":1566698136,
-    "wof:name":"Sivanakatte",
+    "wof:lastmodified":1682581578,
+    "wof:name":"Shivanekatte",
     "wof:parent_id":890507843,
     "wof:placetype":"locality",
+    "wof:population":1226,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.25466,
-    13.8027,
-    76.25466,
-    13.8027
+    76.260499,
+    13.804048,
+    76.261577,
+    13.805126
 ],
-  "geometry": {"coordinates":[76.25466,13.8027],"type":"Point"}
+  "geometry": {"coordinates":[[[76.260499,13.804048],[76.260499,13.805126],[76.261577,13.805126],[76.261577,13.804048],[76.260499,13.804048]]],"type":"Polygon"}
 }

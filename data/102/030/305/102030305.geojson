@@ -11,12 +11,20 @@
     "geom:longitude":78.025068,
     "gn:population":9187,
     "iso:country":"IN",
-    "lbl:latitude":8.625505,
-    "lbl:longitude":78.022501,
+    "ks:ks_id":"KS5A95B3CD9FCF4E17A92CCCE2FDB8F6EF",
+    "ks:ks_name":"Eral",
+    "ks:ks_pop":9279,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3328000642815000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_5529",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":8.624764,
+    "lbl:longitude":78.024484,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":8.640765,
-    "mps:longitude":77.997437,
+    "mps:latitude":8.624764,
+    "mps:longitude":78.024484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -83,10 +91,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":701,
     "wof:belongsto":[
         102191569,
@@ -98,13 +108,16 @@
     "wof:concordances":{
         "gn:id":1272027,
         "gp:id":28999453,
+        "ks:id":"KS5A95B3CD9FCF4E17A92CCCE2FDB8F6EF",
         "qs_pg:id":132088,
         "wd:id":"Q1525095",
         "wk:page":"Eral"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"9085413094098aecb1edcc7f78d9d8e4",
     "wof:hierarchy":[
@@ -117,11 +130,11 @@
         }
     ],
     "wof:id":102030305,
-    "wof:lastmodified":1658780740,
+    "wof:lastmodified":1682524630,
     "wof:name":"Eral",
     "wof:parent_id":890510039,
     "wof:placetype":"locality",
-    "wof:population":9187,
+    "wof:population":9279,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

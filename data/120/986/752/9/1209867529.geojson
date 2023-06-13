@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.27244,24.29881,85.27244,24.29881",
-    "geom:latitude":24.29881,
-    "geom:longitude":85.27244,
+    "geom:bbox":"85.271836,24.297577,85.273611,24.299759",
+    "geom:latitude":24.298718,
+    "geom:longitude":85.272683,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Sale",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.25244,24.27881,85.29244,24.31881",
+    "ks:ks_alt_nam":"S\u0101le",
+    "ks:ks_id":"KS4C5CD9D58F8E46B891EE0609F66BB02F",
+    "ks:ks_name":"Sale",
+    "ks:ks_pop":927,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13356501",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1144504",
+    "lbl:latitude":24.298764,
+    "lbl:longitude":85.272666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.298764,
+    "mps:longitude":85.272666,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09b2"
@@ -53,6 +64,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ad\u03b9\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Sale"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101le"
     ],
     "name:fin_x_preferred":[
         "Sale"
@@ -114,7 +131,13 @@
     "name:uzb_x_preferred":[
         "Sale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +146,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10883236
+        "gn:id":10883236,
+        "ks:id":"KS4C5CD9D58F8E46B891EE0609F66BB02F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d394cc0860d0e8b1f5ea7e682819b04",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e681d535f5a22c751b7aae2c5af5e09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +164,22 @@
         }
     ],
     "wof:id":1209867529,
-    "wof:lastmodified":1636505588,
+    "wof:lastmodified":1682635750,
     "wof:name":"Sale",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":927,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.27244,
-    24.29881,
-    85.27244,
-    24.29881
+    85.271836,
+    24.297577,
+    85.273611,
+    24.299759
 ],
-  "geometry": {"coordinates":[85.27244,24.29881],"type":"Point"}
+  "geometry": {"coordinates":[[[85.273298,24.299759],[85.27330000000001,24.299669],[85.27349700000001,24.299671],[85.273499,24.299491],[85.27359800000001,24.299492],[85.273611,24.298499],[85.273414,24.298496],[85.273415,24.298406],[85.27331700000001,24.298405],[85.273318,24.298315],[85.273219,24.298314],[85.27322100000001,24.298223],[85.273122,24.298222],[85.273123,24.298132],[85.273025,24.298131],[85.273026,24.298041],[85.27292799999999,24.298039],[85.272929,24.297949],[85.27283,24.297948],[85.27283199999999,24.297858],[85.272733,24.297857],[85.272734,24.297766],[85.27263600000001,24.297765],[85.272637,24.297675],[85.27244,24.297673],[85.272441,24.297582],[85.27194900000001,24.297577],[85.271947,24.297667],[85.271849,24.297666],[85.27183599999999,24.298659],[85.271934,24.29866],[85.271928,24.299112],[85.272026,24.299113],[85.272024,24.299293],[85.272122,24.299294],[85.272121,24.299385],[85.27222,24.299386],[85.27221900000001,24.299476],[85.272317,24.299477],[85.272316,24.299567],[85.272513,24.29957],[85.27251200000001,24.29966],[85.272807,24.299663],[85.272806,24.299754],[85.273298,24.299759]]],"type":"Polygon"}
 }

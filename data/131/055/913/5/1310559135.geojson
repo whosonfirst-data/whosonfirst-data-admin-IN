@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.79121,26.80553,76.79121,26.80553",
-    "geom:latitude":26.80553,
-    "geom:longitude":76.79121,
+    "geom:bbox":"76.793473,26.795467,76.794682,26.79692",
+    "geom:latitude":26.796195,
+    "geom:longitude":76.794138,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"107",
     "gn:asciiname":"Garhi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.77121,26.78553,76.81121,26.82553",
+    "ks:ks_id":"KSA0B86F1D52924989AD6F24C9F333D344",
+    "ks:ks_name":"Garhi",
+    "ks:ks_pop":468,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1226745",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1694394",
+    "lbl:latitude":26.796207,
+    "lbl:longitude":76.794127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.796207,
+    "mps:longitude":76.794127,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u0647\u064a"
@@ -40,6 +50,9 @@
         "\u0997\u09be\u09f0\u09cd\u09b9\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Garhi"
+    ],
+    "name:eng_x_preferred":[
         "Garhi"
     ],
     "name:guj_x_preferred":[
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06af\u0691\u06be\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1271553
+        "gn:id":1271553,
+        "ks:id":"KSA0B86F1D52924989AD6F24C9F333D344"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ee5de33a893f653172682c2affd643f8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"948971150a4ceae9de2f0e91f98a6570",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1310559135,
-    "wof:lastmodified":1577751663,
+    "wof:lastmodified":1682871276,
     "wof:name":"Garhi",
     "wof:parent_id":890503391,
     "wof:placetype":"locality",
+    "wof:population":468,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.79120999999998,
-    26.80553,
-    76.79120999999998,
-    26.80553
+    76.793473,
+    26.795467,
+    76.794682,
+    26.79692
 ],
-  "geometry": {"coordinates":[76.79120999999998,26.80553],"type":"Point"}
+  "geometry": {"coordinates":[[[76.794189,26.796918],[76.79418699999999,26.796827],[76.794388,26.796825],[76.794387,26.796735],[76.794488,26.796733],[76.794483,26.796463],[76.794584,26.796461],[76.79458099999999,26.796281],[76.79468199999999,26.79628],[76.794669,26.795467],[76.794267,26.795472],[76.794268,26.795563],[76.794067,26.795565],[76.794068,26.795656],[76.79396800000001,26.795657],[76.793969,26.795747],[76.793869,26.795748],[76.79387,26.795839],[76.793769,26.79584],[76.79377100000001,26.79593],[76.79367000000001,26.795931],[76.793672,26.796022],[76.793571,26.796023],[76.79357400000001,26.796203],[76.79347300000001,26.796205],[76.79347799999999,26.796475],[76.793578,26.796474],[76.793581,26.796655],[76.793682,26.796653],[76.793683,26.796744],[76.793784,26.796742],[76.793785,26.796833],[76.793986,26.79683],[76.793988,26.79692],[76.794189,26.796918]]],"type":"Polygon"}
 }

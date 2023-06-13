@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.63357,21.68031,77.63357,21.68031",
-    "geom:latitude":21.68031,
-    "geom:longitude":77.63357,
+    "geom:bbox":"77.623063,21.673565,77.625076,21.675752",
+    "geom:latitude":21.674625,
+    "geom:longitude":77.623974,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"447.0",
     "gn:asciiname":"Pardi",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.61357,21.66031,77.65357,21.70031",
+    "ks:ks_alt_nam":"P\u0101rdi",
+    "ks:ks_id":"KSDE86E014313C405FB1A9577D061181EF",
+    "ks:ks_name":"Pardi",
+    "ks:ks_pop":653,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12954398",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_880690",
+    "lbl:latitude":21.674602,
+    "lbl:longitude":77.623955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.674602,
+    "mps:longitude":77.623955,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09cd\u09a6\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "P\u0101rdi"
+    ],
+    "name:eng_x_preferred":[
+        "Pardi"
+    ],
+    "name:eng_x_variant":[
         "P\u0101rdi"
     ],
     "name:guj_x_preferred":[
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u5c14\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8740293
+        "gn:id":8740293,
+        "ks:id":"KSDE86E014313C405FB1A9577D061181EF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cb7e8901ebe3cc22d32ba31258a8c6e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7a0ccae154a163d64d84bb1ee6c2a295",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1310245345,
-    "wof:lastmodified":1566700260,
+    "wof:lastmodified":1682858051,
     "wof:name":"Pardi",
     "wof:parent_id":890506465,
     "wof:placetype":"locality",
+    "wof:population":653,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.63356999999998,
-    21.68031,
-    77.63356999999998,
-    21.68031
+    77.623063,
+    21.673565,
+    77.625076,
+    21.675752
 ],
-  "geometry": {"coordinates":[77.63356999999998,21.68031],"type":"Point"}
+  "geometry": {"coordinates":[[[77.62385,21.675744],[77.623848,21.675654],[77.624138,21.67565],[77.62413599999999,21.675559],[77.624233,21.675558],[77.62423099999999,21.675467],[77.62432800000001,21.675466],[77.624326,21.675376],[77.62442299999999,21.675374],[77.624419,21.675194],[77.624516,21.675192],[77.62451299999999,21.675012],[77.62460900000001,21.67501],[77.62460400000001,21.674739],[77.624701,21.674738],[77.624698,21.674557],[77.62479399999999,21.674556],[77.624791,21.674375],[77.624887,21.674374],[77.62488399999999,21.674193],[77.62498100000001,21.674192],[77.624979,21.674101],[77.62507600000001,21.6741],[77.62507100000001,21.673829],[77.62497399999999,21.673831],[77.624973,21.67374],[77.624876,21.673742],[77.62487400000001,21.673652],[77.624681,21.673655],[77.62468,21.673565],[77.62429299999999,21.673571],[77.624295,21.673661],[77.623909,21.673667],[77.62391,21.673757],[77.623621,21.673762],[77.623622,21.673852],[77.623429,21.673855],[77.623431,21.673945],[77.623334,21.673947],[77.623338,21.674127],[77.62324099999999,21.674129],[77.623249,21.67458],[77.623153,21.674582],[77.623159,21.674943],[77.623063,21.674944],[77.623074,21.675576],[77.623171,21.675575],[77.623172,21.675665],[77.62336500000001,21.675662],[77.623367,21.675752],[77.62385,21.675744]]],"type":"Polygon"}
 }

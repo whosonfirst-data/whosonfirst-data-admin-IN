@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.06892,22.5485,79.06892,22.5485",
-    "geom:latitude":22.5485,
-    "geom:longitude":79.06892,
+    "geom:bbox":"79.068093,22.548069,79.06971,22.548878",
+    "geom:latitude":22.548474,
+    "geom:longitude":79.068902,
     "gn:admin1_code":"35",
     "gn:admin2_code":"455.0",
     "gn:asciiname":"Chopna",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.04892,22.5285,79.08892,22.5685",
+    "ks:ks_id":"KS22535A07E7FF4A95BEADA3889C12DB0A",
+    "ks:ks_name":"Chopna",
+    "ks:ks_pop":850,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|231924",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_714453",
+    "lbl:latitude":22.548474,
+    "lbl:longitude":79.068902,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.548474,
+    "mps:longitude":79.068902,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chopna"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10462623
+        "gn:id":10462623,
+        "ks:id":"KS22535A07E7FF4A95BEADA3889C12DB0A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b6839709f9c5927ecf3930c168fbd129",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f8ff3a51f8e6746cc298b8afdc0a07a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243498697,
-    "wof:lastmodified":1566706736,
+    "wof:lastmodified":1682717501,
     "wof:name":"Chopna",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",
+    "wof:population":850,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.06891999999998,
-    22.5485,
-    79.06891999999998,
-    22.5485
+    79.068093,
+    22.548069,
+    79.06971,
+    22.548878
 ],
-  "geometry": {"coordinates":[79.06891999999998,22.5485],"type":"Point"}
+  "geometry": {"coordinates":[[[79.06971,22.548069],[79.068093,22.548069],[79.068093,22.548878],[79.06971,22.548878],[79.06971,22.548069]]],"type":"Polygon"}
 }

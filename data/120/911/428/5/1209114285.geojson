@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.61977,19.0126,83.61977,19.0126",
-    "geom:latitude":19.0126,
-    "geom:longitude":83.61977,
+    "geom:bbox":"83.619318,19.012031,83.620666,19.013109",
+    "geom:latitude":19.012525,
+    "geom:longitude":83.620037,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"543.0",
     "gn:asciiname":"Joppangi",
@@ -24,43 +24,77 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.59977,18.9926,83.63977,19.0326",
+    "ks:ks_id":"KSE47AC74A2BBE45ECA24EC3F6DF5C52F0",
+    "ks:ks_name":"Voppangi",
+    "ks:ks_pop":288,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1100215",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_449950",
+    "lbl:latitude":19.012462,
+    "lbl:longitude":83.620073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.012462,
+    "mps:longitude":83.620073,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Voppangi"
+    ],
+    "name:eng_x_variant":[
+        "Joppangi"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        890508885
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10780101
+        "gn:id":10780101,
+        "ks:id":"KSE47AC74A2BBE45ECA24EC3F6DF5C52F0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5a56c3999ab2e9d9ad72b363456f9bca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7dc7f8bb3a5b823f8a1ab939283d088b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209114285
+            "county_id":890508885,
+            "locality_id":1209114285,
+            "region_id":85672141
         }
     ],
     "wof:id":1209114285,
-    "wof:lastmodified":1566696535,
-    "wof:name":"Joppangi",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682604957,
+    "wof:name":"Voppangi",
+    "wof:parent_id":890508885,
     "wof:placetype":"locality",
+    "wof:population":288,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.61976999999997,
-    19.0126,
-    83.61976999999997,
-    19.0126
+    83.619318,
+    19.012031,
+    83.620666,
+    19.013109
 ],
-  "geometry": {"coordinates":[83.61976999999997,19.0126],"type":"Point"}
+  "geometry": {"coordinates":[[[83.620666,19.012031],[83.61931800000001,19.012031],[83.61931800000001,19.01284],[83.619857,19.01284],[83.619857,19.013109],[83.620666,19.013109],[83.620666,19.012031]]],"type":"Polygon"}
 }

@@ -13,12 +13,19 @@
     "gn:longitude":74.21154,
     "gn:population":67309,
     "iso:country":"IN",
-    "lbl:latitude":19.580969,
-    "lbl:longitude":74.203846,
+    "ks:ks_id":"KSEC82A11A4E45413E83F8DB34AC9C6BD7",
+    "ks:ks_name":"Sangamner",
+    "ks:ks_pop":61958,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2110167",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_438991",
+    "lbl:latitude":19.571921,
+    "lbl:longitude":74.20574,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":19.567408,
-    "mps:longitude":74.209535,
+    "mps:latitude":19.571921,
+    "mps:longitude":74.20574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,6 +58,9 @@
         "Sangamner"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u0902\u0917\u092e\u0928\u0947\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u0902\u0917\u092e\u0928\u0947\u0930 \u0924\u093e\u0932\u0941\u0915"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +76,9 @@
         "\uc0c1\uac00\ub124\ub974"
     ],
     "name:mar_x_preferred":[
+        "\u0938\u0902\u0917\u092e\u0928\u0947\u0930"
+    ],
+    "name:mar_x_variant":[
         "\u0938\u0902\u0917\u092e\u0928\u0947\u0930 \u0924\u093e\u0932\u0941\u0915\u093e"
     ],
     "name:msa_x_preferred":[
@@ -134,10 +147,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":350,
     "wof:belongsto":[
         102191569,
@@ -149,13 +164,16 @@
     "wof:concordances":{
         "gn:id":1257436,
         "gp:id":2292719,
+        "ks:id":"KSEC82A11A4E45413E83F8DB34AC9C6BD7",
         "qs_pg:id":131276,
         "wd:id":"Q2466083",
         "wk:page":"Sangamner"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"f6def3618939b9851741972e37d8cb5f",
     "wof:hierarchy":[
@@ -168,11 +186,11 @@
         }
     ],
     "wof:id":102028741,
-    "wof:lastmodified":1658780781,
+    "wof:lastmodified":1686162209,
     "wof:name":"Sangamner",
     "wof:parent_id":890510749,
     "wof:placetype":"locality",
-    "wof:population":67309,
+    "wof:population":61958,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

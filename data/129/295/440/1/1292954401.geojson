@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.97,26.2868,87.97,26.2868",
-    "geom:latitude":26.2868,
-    "geom:longitude":87.97,
+    "geom:bbox":"87.965732,26.296236,87.967033,26.297146",
+    "geom:latitude":26.296696,
+    "geom:longitude":87.966346,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"210.0",
     "gn:asciiname":"Katharo",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.95,26.2668,87.99,26.3068",
+    "ks:ks_id":"KS9A7985A69A60493CA6EFC4F96F4FE8C9",
+    "ks:ks_name":"Katharo",
+    "ks:ks_pop":60,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1008000300652600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_2128132",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.296653,
+    "lbl:longitude":87.966358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.296653,
+    "mps:longitude":87.966358,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Katharo"
@@ -36,10 +47,19 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b8\u03b1\u03c1\u03cc \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5"
     ],
+    "name:eng_x_preferred":[
+        "Katharo"
+    ],
     "name:fin_x_preferred":[
         "Kathar\u00f3"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10988575
+        "gn:id":10988575,
+        "ks:id":"KS9A7985A69A60493CA6EFC4F96F4FE8C9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4954627793b608b5765b98c5b54f47e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e3ca91cd853726bbb7ae1108c54a3e95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +86,22 @@
         }
     ],
     "wof:id":1292954401,
-    "wof:lastmodified":1566689678,
+    "wof:lastmodified":1682801193,
     "wof:name":"Katharo",
     "wof:parent_id":890505789,
     "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.97,
-    26.2868,
-    87.97,
-    26.2868
+    87.965732,
+    26.296236,
+    87.967033,
+    26.297146
 ],
-  "geometry": {"coordinates":[87.97,26.2868],"type":"Point"}
+  "geometry": {"coordinates":[[[87.967033,26.296686],[87.967032,26.296505],[87.966932,26.296506],[87.966931,26.296415],[87.966831,26.296416],[87.96683,26.296326],[87.96673,26.296326],[87.966729,26.296236],[87.966128,26.29624],[87.966129,26.296331],[87.965929,26.296332],[87.96593,26.296512],[87.96583,26.296513],[87.96583200000001,26.296784],[87.965732,26.296785],[87.965735,26.297146],[87.966436,26.297141],[87.966435,26.297051],[87.96663599999999,26.297049],[87.966635,26.296959],[87.966835,26.296958],[87.966835,26.296868],[87.96693500000001,26.296867],[87.966933,26.296686],[87.967033,26.296686]]],"type":"Polygon"}
 }

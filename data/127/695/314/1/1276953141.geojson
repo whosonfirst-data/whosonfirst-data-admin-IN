@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.09325,14.22426,75.09325,14.22426",
-    "geom:latitude":14.22426,
-    "geom:longitude":75.09325,
+    "geom:bbox":"75.091431,14.222574,75.092239,14.223382",
+    "geom:latitude":14.222978,
+    "geom:longitude":75.091835,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"568.0",
     "gn:asciiname":"Paduvagodu",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.07325,14.20426,75.11325,14.24426",
+    "ks:ks_id":"KS2931135CFAF0459683F56FBF47799049",
+    "ks:ks_name":"Padavagodu",
+    "ks:ks_pop":629,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|802259",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_305163",
+    "lbl:latitude":14.222978,
+    "lbl:longitude":75.091835,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":14.222978,
+    "mps:longitude":75.091835,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Padavagodu"
+    ],
+    "name:eng_x_variant":[
+        "Paduvagodu"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10848534
+        "gn:id":10848534,
+        "ks:id":"KS2931135CFAF0459683F56FBF47799049"
     },
     "wof:country":"IN",
-    "wof:geomhash":"997cab2ae6cce0d785ce57cdd06acb85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c07652d8b8d112cb17527ba58985a8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1276953141,
-    "wof:lastmodified":1566693005,
-    "wof:name":"Paduvagodu",
+    "wof:lastmodified":1682792774,
+    "wof:name":"Padavagodu",
     "wof:parent_id":890507437,
     "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.09325,
-    14.22426,
-    75.09325,
-    14.22426
+    75.091431,
+    14.222574,
+    75.092239,
+    14.223382
 ],
-  "geometry": {"coordinates":[75.09325,14.22426],"type":"Point"}
+  "geometry": {"coordinates":[[[75.09223900000001,14.222574],[75.091431,14.222574],[75.091431,14.223382],[75.09223900000001,14.223382],[75.09223900000001,14.222574]]],"type":"Polygon"}
 }

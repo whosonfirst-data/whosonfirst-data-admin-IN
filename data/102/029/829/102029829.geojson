@@ -13,12 +13,19 @@
     "gn:longitude":73.32354,
     "gn:population":34554,
     "iso:country":"IN",
-    "lbl:latitude":18.909316,
-    "lbl:longitude":73.322992,
+    "ks:ks_id":"KS6EAD565F26994EB0A53063BADA782AC2",
+    "ks:ks_name":"Karjat",
+    "ks:ks_pop":25531,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2099818",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_102148",
+    "lbl:latitude":18.910836,
+    "lbl:longitude":73.323122,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":18.96344,
-    "mps:longitude":73.336532,
+    "mps:latitude":18.910836,
+    "mps:longitude":73.323122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -113,10 +120,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1802,
     "wof:belongsto":[
         102191569,
@@ -128,13 +137,16 @@
     "wof:concordances":{
         "gn:id":1267742,
         "gp:id":2292951,
+        "ks:id":"KS6EAD565F26994EB0A53063BADA782AC2",
         "qs_pg:id":184251,
         "wd:id":"Q2283155",
         "wk:page":"Karjat"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b2c7c5b560282faa97c5017b29b2e03b",
     "wof:hierarchy":[
@@ -147,11 +159,11 @@
         }
     ],
     "wof:id":102029829,
-    "wof:lastmodified":1658780752,
+    "wof:lastmodified":1682524167,
     "wof:name":"Karjat",
     "wof:parent_id":1108696305,
     "wof:placetype":"locality",
-    "wof:population":34554,
+    "wof:population":25531,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.17994,27.34503,81.17994,27.34503",
-    "geom:latitude":27.34503,
-    "geom:longitude":81.17994,
+    "geom:bbox":"81.179119,27.343921,81.18094,27.345728",
+    "geom:latitude":27.3449,
+    "geom:longitude":81.179991,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Alipur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.15994,27.32503,81.19994,27.36503",
+    "ks:ks_id":"KSE94E9A31C25848A38AFEA6B1E7F6B579",
+    "ks:ks_name":"Allipur",
+    "ks:ks_pop":408,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|26608",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1899374",
+    "lbl:latitude":27.344928,
+    "lbl:longitude":81.180008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.344928,
+    "mps:longitude":81.180008,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0631"
@@ -43,6 +53,12 @@
         "Alipur"
     ],
     "name:ceb_x_preferred":[
+        "Alipur"
+    ],
+    "name:eng_x_preferred":[
+        "Allipur"
+    ],
+    "name:eng_x_variant":[
         "Alipur"
     ],
     "name:guj_x_preferred":[
@@ -75,7 +91,13 @@
     "name:urd_x_preferred":[
         "\u0639\u0644\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10559239
+        "gn:id":10559239,
+        "ks:id":"KSE94E9A31C25848A38AFEA6B1E7F6B579"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dd9669c9e6c69a2cbeb5c5e7d0ba17e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5fd038c247598629a639cc4d924c06e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +124,22 @@
         }
     ],
     "wof:id":1193222091,
-    "wof:lastmodified":1577751136,
-    "wof:name":"Alipur",
+    "wof:lastmodified":1682598656,
+    "wof:name":"Allipur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.17994,
-    27.34503,
-    81.17994,
-    27.34503
+    81.179119,
+    27.343921,
+    81.18094,
+    27.345728
 ],
-  "geometry": {"coordinates":[81.17994,27.34503],"type":"Point"}
+  "geometry": {"coordinates":[[[81.180233,27.345727],[81.180233,27.345637],[81.180536,27.345636],[81.180536,27.345546],[81.180637,27.345546],[81.180637,27.345456],[81.18083900000001,27.345455],[81.18083900000001,27.345275],[81.18094000000001,27.345275],[81.18094000000001,27.345004],[81.18083799999999,27.345004],[81.18083799999999,27.344643],[81.18073699999999,27.344643],[81.180736,27.344462],[81.180635,27.344463],[81.180635,27.344372],[81.18053399999999,27.344372],[81.18053399999999,27.344282],[81.18043299999999,27.344282],[81.18043299999999,27.344192],[81.18033200000001,27.344192],[81.180331,27.344102],[81.18022999999999,27.344102],[81.18022999999999,27.344012],[81.18012899999999,27.344012],[81.18012899999999,27.343921],[81.179725,27.343922],[81.179725,27.344012],[81.179523,27.344013],[81.179523,27.344193],[81.179422,27.344193],[81.179422,27.344284],[81.179321,27.344284],[81.179321,27.344735],[81.17922,27.344735],[81.179221,27.344825],[81.179119,27.344826],[81.17912,27.345367],[81.179221,27.345367],[81.179222,27.345548],[81.179323,27.345548],[81.179323,27.345638],[81.179626,27.345637],[81.179626,27.345728],[81.180233,27.345727]]],"type":"Polygon"}
 }

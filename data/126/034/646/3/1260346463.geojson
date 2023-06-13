@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.42739,23.33739,74.42739,23.33739",
-    "geom:latitude":23.33739,
-    "geom:longitude":74.42739,
+    "geom:bbox":"74.427317,23.336931,74.428296,23.338017",
+    "geom:latitude":23.337481,
+    "geom:longitude":74.427828,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"125.0",
     "gn:asciiname":"Gara",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.40739,23.31739,74.44739,23.35739",
+    "ks:ks_id":"KS7F6B4B84030E4524828DA2269F2C6A3E",
+    "ks:ks_name":"Gara",
+    "ks:ks_pop":533,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13245458",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_811442",
+    "lbl:latitude":23.337463,
+    "lbl:longitude":74.427838,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.337463,
+    "mps:longitude":74.427838,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Gara"
@@ -37,6 +47,9 @@
         "Gara"
     ],
     "name:deu_x_preferred":[
+        "Gara"
+    ],
+    "name:eng_x_preferred":[
         "Gara"
     ],
     "name:eus_x_preferred":[
@@ -63,7 +76,13 @@
     "name:swe_x_preferred":[
         "Gara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10803080
+        "gn:id":10803080,
+        "ks:id":"KS7F6B4B84030E4524828DA2269F2C6A3E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c85df3366d00b9a62c8597a804778522",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"218557bb50b72d3bbf9c500950ca3320",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1260346463,
-    "wof:lastmodified":1566699991,
+    "wof:lastmodified":1682760822,
     "wof:name":"Gara",
     "wof:parent_id":1108695781,
     "wof:placetype":"locality",
+    "wof:population":533,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.42739,
-    23.33739,
-    74.42739,
-    23.33739
+    74.427317,
+    23.336931,
+    74.428296,
+    23.338017
 ],
-  "geometry": {"coordinates":[74.42739,23.33739],"type":"Point"}
+  "geometry": {"coordinates":[[[74.42809800000001,23.338017],[74.42809800000001,23.337926],[74.428196,23.337927],[74.428196,23.337836],[74.42829399999999,23.337837],[74.428296,23.337295],[74.42819900000001,23.337294],[74.42819900000001,23.337204],[74.428101,23.337204],[74.428102,23.337113],[74.428004,23.337113],[74.428004,23.337023],[74.427711,23.337022],[74.427711,23.336931],[74.427515,23.336931],[74.427515,23.337021],[74.42741700000001,23.337021],[74.42741599999999,23.337201],[74.427319,23.337201],[74.427317,23.337472],[74.427415,23.337472],[74.427414,23.337653],[74.42751199999999,23.337653],[74.42751199999999,23.337744],[74.42761,23.337744],[74.427609,23.337925],[74.427707,23.337925],[74.427706,23.338015],[74.42809800000001,23.338017]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.98903,20.59286,75.98903,20.59286",
-    "geom:latitude":20.59286,
-    "geom:longitude":75.98903,
+    "geom:bbox":"75.988339,20.592245,75.990164,20.593694",
+    "geom:latitude":20.59293,
+    "geom:longitude":75.989202,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"514.0",
     "gn:asciiname":"Nanda",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.96903,20.57286,76.00903,20.61286",
+    "ks:ks_alt_nam":"N\u0101nda",
+    "ks:ks_id":"KS6BE40893A0254A1393AE2BE425492E21",
+    "ks:ks_name":"Nanda",
+    "ks:ks_pop":141,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|755970",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_853306",
+    "lbl:latitude":20.59297,
+    "lbl:longitude":75.989128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.59297,
+    "mps:longitude":75.989128,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanda"
     ],
     "name:deu_x_preferred":[
         "Nanda"
+    ],
+    "name:eng_x_preferred":[
+        "Nanda"
+    ],
+    "name:eng_x_variant":[
+        "N\u0101nda"
     ],
     "name:por_x_preferred":[
         "Nanda"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Nanda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11057329
+        "gn:id":11057329,
+        "ks:id":"KS6BE40893A0254A1393AE2BE425492E21"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6bde091ca04e17dac6de89261cfd96e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b6074fc3be997d7387517901690badca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1327203151,
-    "wof:lastmodified":1566685026,
+    "wof:lastmodified":1682907984,
     "wof:name":"Nanda",
     "wof:parent_id":890501997,
     "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.98903,
-    20.59286,
-    75.98903,
-    20.59286
+    75.988339,
+    20.592245,
+    75.990164,
+    20.593694
 ],
-  "geometry": {"coordinates":[75.98903,20.59286],"type":"Point"}
+  "geometry": {"coordinates":[[[75.989305,20.593691],[75.989305,20.593601],[75.989496,20.5936],[75.989496,20.59351],[75.989688,20.593508],[75.989687,20.593328],[75.98978200000001,20.593327],[75.98978200000001,20.593237],[75.989878,20.593236],[75.98987700000001,20.593146],[75.98997300000001,20.593145],[75.98997300000001,20.593055],[75.99006900000001,20.593054],[75.99006799999999,20.592964],[75.99016399999999,20.592964],[75.990162,20.592602],[75.990066,20.592603],[75.990065,20.592512],[75.989873,20.592514],[75.989873,20.592423],[75.989777,20.592424],[75.98977600000001,20.592333],[75.98948799999999,20.592335],[75.98948799999999,20.592245],[75.989008,20.592247],[75.989009,20.592338],[75.988625,20.59234],[75.988625,20.59243],[75.988529,20.592431],[75.98853,20.592521],[75.988434,20.592522],[75.988435,20.592612],[75.988339,20.592613],[75.988342,20.593064],[75.988437,20.593064],[75.988439,20.593335],[75.988535,20.593334],[75.988536,20.593425],[75.988632,20.593424],[75.988632,20.593514],[75.98872799999999,20.593514],[75.98872900000001,20.593604],[75.98882500000001,20.593604],[75.98882500000001,20.593694],[75.989305,20.593691]]],"type":"Polygon"}
 }

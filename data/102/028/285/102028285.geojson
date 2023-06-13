@@ -13,12 +13,20 @@
     "gn:longitude":78.00113,
     "gn:population":18951,
     "iso:country":"IN",
-    "lbl:latitude":11.108706,
-    "lbl:longitude":78.009232,
+    "ks:ks_id":"KSF1E5F7CB27D04516BF3C4398A9CFBA81",
+    "ks:ks_name":"Velur",
+    "ks:ks_pop":18413,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3309000440925000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_194694",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":11.11242,
+    "lbl:longitude":78.001718,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":11.108337,
-    "mps:longitude":78.013916,
+    "mps:latitude":11.11242,
+    "mps:longitude":78.001718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -98,10 +106,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -112,13 +122,16 @@
     "wof:concordances":{
         "gn:id":1253278,
         "gp:id":2288176,
+        "ks:id":"KSF1E5F7CB27D04516BF3C4398A9CFBA81",
         "qs_pg:id":913202,
         "wd:id":"Q2541007",
         "wk:page":"Velur, Namakkal"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"d408e5fae6eaf93844224f6ac97f8cb1",
     "wof:hierarchy":[
@@ -131,11 +144,11 @@
         }
     ],
     "wof:id":102028285,
-    "wof:lastmodified":1658780785,
+    "wof:lastmodified":1682523116,
     "wof:name":"Velur",
     "wof:parent_id":890505343,
     "wof:placetype":"locality",
-    "wof:population":18951,
+    "wof:population":18413,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.95693,13.07048,75.95693,13.07048",
-    "geom:latitude":13.07048,
-    "geom:longitude":75.95693,
+    "geom:bbox":"75.954622,13.073449,75.955431,13.074257",
+    "geom:latitude":13.073853,
+    "geom:longitude":75.955027,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Thandagere",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.93693,13.05048,75.97693,13.09048",
+    "ks:ks_id":"KSD77378BD2F6D4E90B10258A8E3921923",
+    "ks:ks_name":"Thendegere",
+    "ks:ks_pop":115,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000202485100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_268902",
+    "lbl:latitude":13.073853,
+    "lbl:longitude":75.955026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.073853,
+    "mps:longitude":75.955026,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Thendegere"
+    ],
+    "name:eng_x_variant":[
+        "Thandagere"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10877035
+        "gn:id":10877035,
+        "ks:id":"KSD77378BD2F6D4E90B10258A8E3921923"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8f798b8e9734ccfb3fa33504b779241e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e99d107583f2766de33f44ce7b985e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1293551475,
-    "wof:lastmodified":1566689519,
-    "wof:name":"Thandagere",
+    "wof:lastmodified":1682823080,
+    "wof:name":"Thendegere",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.95693,
-    13.07048,
-    75.95693,
-    13.07048
+    75.954622,
+    13.073449,
+    75.955431,
+    13.074257
 ],
-  "geometry": {"coordinates":[75.95693,13.07048],"type":"Point"}
+  "geometry": {"coordinates":[[[75.955431,13.073449],[75.954622,13.073449],[75.954622,13.074257],[75.955431,13.074257],[75.955431,13.073449]]],"type":"Polygon"}
 }

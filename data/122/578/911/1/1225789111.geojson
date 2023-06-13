@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.61192,27.34135,80.61192,27.34135",
-    "geom:latitude":27.34135,
-    "geom:longitude":80.61192,
+    "geom:bbox":"80.611043,27.340157,80.61307,27.342234",
+    "geom:latitude":27.341172,
+    "geom:longitude":80.611974,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Mirzapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.59192,27.32135,80.63192,27.36135",
+    "ks:ks_id":"KSD9AAF411CCDB4EC1BBEFFC1A66DDF07F",
+    "ks:ks_name":"Mirzapur",
+    "ks:ks_pop":353,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|704146",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1899250",
+    "lbl:latitude":27.341192,
+    "lbl:longitude":80.611987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.341192,
+    "mps:longitude":80.611987,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627\u0628\u0648\u0631"
@@ -56,6 +66,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03c1\u03b6\u03b1\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Mirzapur"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u0632\u0627\u067e\u0648\u0631"
@@ -165,7 +178,13 @@
     "name:zho_x_preferred":[
         "\u5bc6\u672d\u6d66"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -174,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920562
+        "gn:id":10920562,
+        "ks:id":"KSD9AAF411CCDB4EC1BBEFFC1A66DDF07F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d6896b0fbc0f71e3dff01c475dbd36fb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23d79682d608de7d9f1121cf6356cc79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,20 +211,22 @@
         }
     ],
     "wof:id":1225789111,
-    "wof:lastmodified":1636505980,
+    "wof:lastmodified":1686165881,
     "wof:name":"Mirzapur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.61192,
-    27.34135,
-    80.61192,
-    27.34135
+    80.611043,
+    27.340157,
+    80.61307,
+    27.342234
 ],
-  "geometry": {"coordinates":[80.61192,27.34135],"type":"Point"}
+  "geometry": {"coordinates":[[[80.611649,27.342234],[80.611649,27.342144],[80.612559,27.342146],[80.61256,27.342056],[80.612762,27.342056],[80.612762,27.341966],[80.612863,27.341966],[80.612866,27.341154],[80.612967,27.341154],[80.612968,27.340883],[80.613069,27.340884],[80.61306999999999,27.340793],[80.612968,27.340793],[80.61296900000001,27.340522],[80.61286800000001,27.340522],[80.612869,27.340432],[80.612768,27.340431],[80.612768,27.340341],[80.612667,27.340341],[80.612667,27.34025],[80.612566,27.34025],[80.612566,27.34016],[80.61145399999999,27.340157],[80.61145399999999,27.340247],[80.61115100000001,27.340246],[80.61114999999999,27.340337],[80.61104899999999,27.340336],[80.611047,27.341059],[80.611148,27.341059],[80.61114499999999,27.341781],[80.61104400000001,27.341781],[80.611043,27.342232],[80.611649,27.342234]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.01826,27.27801,79.01826,27.27801",
-    "geom:latitude":27.27801,
-    "geom:longitude":79.01826,
+    "geom:bbox":"79.017071,27.27736,79.019187,27.278902",
+    "geom:latitude":27.278141,
+    "geom:longitude":79.018137,
     "gn:admin1_code":"36",
     "gn:admin2_code":"148.0",
     "gn:asciiname":"Bharatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.99826,27.25801,79.03826,27.29801",
+    "ks:ks_id":"KSE3B051CAD21C4AE4B5983A5B8BE8CEBF",
+    "ks:ks_name":"Bharatpur",
+    "ks:ks_pop":486,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|139599",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1749808",
+    "lbl:latitude":27.278084,
+    "lbl:longitude":79.018158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.278084,
+    "mps:longitude":79.018158,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0631\u0627\u062a\u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "Bharatpur"
     ],
     "name:deu_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:eng_x_preferred":[
         "Bharatpur"
     ],
     "name:epo_x_preferred":[
@@ -114,7 +127,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u0631\u062a \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -123,10 +142,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10468011
+        "gn:id":10468011,
+        "ks:id":"KSE3B051CAD21C4AE4B5983A5B8BE8CEBF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"26df8315329b6bd737b667a3db9004e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c65a513134dd2ff3a4b7e63581f9591",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,20 +160,22 @@
         }
     ],
     "wof:id":1225883749,
-    "wof:lastmodified":1636505938,
+    "wof:lastmodified":1686165795,
     "wof:name":"Bharatpur",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.01826,
-    27.27801,
-    79.01826,
-    27.27801
+    79.017071,
+    27.27736,
+    79.019187,
+    27.278902
 ],
-  "geometry": {"coordinates":[79.01826,27.27801],"type":"Point"}
+  "geometry": {"coordinates":[[[79.018573,27.278902],[79.018575,27.278812],[79.01908,27.278819],[79.019081,27.278729],[79.019182,27.27873],[79.019187,27.27846],[79.019086,27.278458],[79.01908899999999,27.278278],[79.01898799999999,27.278276],[79.018992,27.278096],[79.018891,27.278094],[79.018894,27.277914],[79.018793,27.277913],[79.018798,27.277642],[79.018697,27.27764],[79.018698,27.27755],[79.018597,27.277549],[79.01859899999999,27.277459],[79.01849799999999,27.277457],[79.01849900000001,27.277367],[79.017995,27.27736],[79.017993,27.27745],[79.01769,27.277446],[79.01768800000001,27.277536],[79.017385,27.277532],[79.01738400000001,27.277622],[79.01728300000001,27.27762],[79.017281,27.277711],[79.01718,27.277709],[79.017179,27.277799],[79.017078,27.277798],[79.017071,27.278159],[79.017172,27.27816],[79.017171,27.278251],[79.01727200000001,27.278252],[79.01727,27.278342],[79.017371,27.278344],[79.017368,27.278524],[79.01746900000001,27.278526],[79.017467,27.278616],[79.017568,27.278617],[79.017567,27.278707],[79.01787,27.278712],[79.01786800000001,27.278802],[79.018373,27.278809],[79.018371,27.278899],[79.018573,27.278902]]],"type":"Polygon"}
 }

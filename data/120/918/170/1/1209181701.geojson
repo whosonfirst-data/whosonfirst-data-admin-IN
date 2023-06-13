@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672245,
+        890502621
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1266532
     },
     "wof:country":"IN",
-    "wof:geomhash":"32c075f22d3a05d63defa7eb9a4b0734",
+    "wof:geomhash":"7500e038eaa76651331a30d4d7baad79",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209181701
+            "county_id":890502621,
+            "locality_id":1209181701,
+            "region_id":85672245
         }
     ],
     "wof:id":1209181701,
-    "wof:lastmodified":1566696685,
+    "wof:lastmodified":1682609825,
     "wof:name":"Kinattukkadavu",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890502621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847147055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.01961999999997,
+    77.01962,
     10.82248,
-    77.01961999999997,
+    77.01962,
     10.82248
 ],
-  "geometry": {"coordinates":[77.01961999999997,10.82248],"type":"Point"}
+  "geometry": {"coordinates":[77.01962,10.82248],"type":"Point"}
 }

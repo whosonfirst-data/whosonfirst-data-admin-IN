@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.77634,23.18812,79.77634,23.18812",
-    "geom:latitude":23.18812,
-    "geom:longitude":79.77634,
+    "geom:bbox":"79.775671,23.18733,79.777233,23.188872",
+    "geom:latitude":23.188133,
+    "geom:longitude":79.776379,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Tilwara",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.75634,23.16812,79.79634,23.20812",
+    "ks:ks_alt_nam":"Tilw\u0101ra",
+    "ks:ks_id":"KSDC8D03521C0143D0B4CDA455DC05B85A",
+    "ks:ks_name":"Tilwara",
+    "ks:ks_pop":185,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1058312",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_998528",
+    "lbl:latitude":23.188148,
+    "lbl:longitude":79.776365,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.188148,
+    "mps:longitude":79.776365,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0644\u0641\u0627\u0631\u0627"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a4\u09bf\u09b2\u0993\u09df\u09be\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Tilwara"
+    ],
+    "name:eng_x_variant":[
+        "Tilw\u0101ra"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abf\u0ab2\u0ab5\u0abe\u0ab0\u0abe"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u062a\u0644\u0648\u0627\u0691\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457902
+        "gn:id":10457902,
+        "ks:id":"KSDC8D03521C0143D0B4CDA455DC05B85A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3ab454d6c7870e43b2b7ddb7927b38dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bccb92b19a663f3e1fc26407269e7c46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1226482455,
-    "wof:lastmodified":1577754535,
+    "wof:lastmodified":1682668816,
     "wof:name":"Tilwara",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.77634,
-    23.18812,
-    79.77634,
-    23.18812
+    79.775671,
+    23.18733,
+    79.777233,
+    23.188872
 ],
-  "geometry": {"coordinates":[79.77634,23.18812],"type":"Point"}
+  "geometry": {"coordinates":[[[79.776642,23.188872],[79.776642,23.188782],[79.77693499999999,23.188784],[79.77693600000001,23.188694],[79.777034,23.188695],[79.777035,23.188604],[79.77713199999999,23.188605],[79.777134,23.188425],[79.777232,23.188425],[79.777233,23.188245],[79.777136,23.188244],[79.777137,23.188063],[79.77704,23.188063],[79.777041,23.187882],[79.776944,23.187881],[79.776944,23.187791],[79.776847,23.18779],[79.776848,23.1877],[79.77675000000001,23.187699],[79.776751,23.187609],[79.776555,23.187607],[79.776556,23.187517],[79.77636099999999,23.187515],[79.77636200000001,23.187425],[79.775971,23.187422],[79.775972,23.187332],[79.77577599999999,23.18733],[79.775775,23.187421],[79.775678,23.18742],[79.775671,23.188142],[79.775769,23.188143],[79.775766,23.188414],[79.775864,23.188415],[79.775862,23.188595],[79.77596,23.188596],[79.775959,23.188686],[79.77605699999999,23.188687],[79.776056,23.188777],[79.776252,23.188779],[79.776251,23.188869],[79.776642,23.188872]]],"type":"Polygon"}
 }

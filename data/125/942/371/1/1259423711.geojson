@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.8354,25.37301,83.8354,25.37301",
-    "geom:latitude":25.37301,
-    "geom:longitude":83.8354,
+    "geom:bbox":"83.834811,25.371687,83.836331,25.373581",
+    "geom:latitude":25.372718,
+    "geom:longitude":83.835484,
     "gn:admin1_code":"34",
     "gn:admin2_code":"232.0",
     "gn:asciiname":"Pipra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.8154,25.35301,83.8554,25.39301",
+    "ks:ks_id":"KS4CF225F91F6B46E08B0D8E755457B2B3",
+    "ks:ks_name":"Pipra",
+    "ks:ks_pop":298,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12956111",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1939236",
+    "lbl:latitude":25.372761,
+    "lbl:longitude":83.835484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.372761,
+    "mps:longitude":83.835484,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Pipra"
@@ -37,6 +47,9 @@
         "Pipra"
     ],
     "name:ceb_x_preferred":[
+        "Pipra"
+    ],
+    "name:eng_x_preferred":[
         "Pipra"
     ],
     "name:fas_x_preferred":[
@@ -81,7 +94,13 @@
     "name:war_x_preferred":[
         "Pipra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10510754
+        "gn:id":10510754,
+        "ks:id":"KS4CF225F91F6B46E08B0D8E755457B2B3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9f104c31d9ce2e7bb42afe5bd426e3ca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a7da68a8065fcbe1c0e68b1c94cdeab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +127,22 @@
         }
     ],
     "wof:id":1259423711,
-    "wof:lastmodified":1566710371,
+    "wof:lastmodified":1682724847,
     "wof:name":"Pipra",
     "wof:parent_id":1108695941,
     "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.8354,
-    25.37301,
-    83.8354,
-    25.37301
+    83.834811,
+    25.371687,
+    83.836331,
+    25.373581
 ],
-  "geometry": {"coordinates":[83.83540000000001,25.37301],"type":"Point"}
+  "geometry": {"coordinates":[[[83.835544,25.373575],[83.83554100000001,25.373485],[83.83613699999999,25.373474],[83.836135,25.373384],[83.836234,25.373382],[83.836232,25.373291],[83.836331,25.373289],[83.836319,25.372748],[83.836219,25.37275],[83.836217,25.37266],[83.836118,25.372662],[83.836116,25.372572],[83.836017,25.372574],[83.83601,25.372303],[83.835911,25.372305],[83.83590700000001,25.372125],[83.835808,25.372127],[83.83580600000001,25.372036],[83.835706,25.372038],[83.83570400000001,25.371948],[83.835605,25.37195],[83.83560300000001,25.37186],[83.835503,25.371862],[83.83550099999999,25.371771],[83.835204,25.371777],[83.835201,25.371687],[83.83510200000001,25.371689],[83.835104,25.371779],[83.834906,25.371783],[83.83490999999999,25.371963],[83.834811,25.371965],[83.834827,25.372687],[83.83492699999999,25.372685],[83.834929,25.372775],[83.83483,25.372777],[83.83484,25.373228],[83.83493900000001,25.373226],[83.83494399999999,25.373406],[83.835043,25.373405],[83.83504499999999,25.373495],[83.835244,25.373491],[83.835246,25.373581],[83.835544,25.373575]]],"type":"Polygon"}
 }

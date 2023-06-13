@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.65345,24.18152,84.65345,24.18152",
-    "geom:latitude":24.18152,
-    "geom:longitude":84.65345,
+    "geom:bbox":"84.653692,24.181504,84.654573,24.183049",
+    "geom:latitude":24.182271,
+    "geom:longitude":84.654148,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"347.0",
     "gn:asciiname":"Besra",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.63345,24.16152,84.67345,24.20152",
+    "ks:ks_alt_nam":"Besr\u0101",
+    "ks:ks_id":"KS59C4362704AA44C3A56CA0E6B376AF67",
+    "ks:ks_name":"Besra",
+    "ks:ks_pop":528,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13293921",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1142794",
+    "lbl:latitude":24.182126,
+    "lbl:longitude":84.654148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.182126,
+    "mps:longitude":84.654148,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0634\u0642 \u0628\u0633\u0631\u0649"
@@ -50,6 +61,12 @@
     ],
     "name:cym_x_preferred":[
         "Gwalch Besra"
+    ],
+    "name:eng_x_preferred":[
+        "Besra"
+    ],
+    "name:eng_x_variant":[
+        "Besr\u0101"
     ],
     "name:epo_x_preferred":[
         "Besro"
@@ -105,7 +122,13 @@
     "name:zho_x_preferred":[
         "\u677e\u96c0\u9e70"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10841766
+        "gn:id":10841766,
+        "ks:id":"KS59C4362704AA44C3A56CA0E6B376AF67"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4c47aafce47957d2d4b23d302d70dd39",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"db413f09c791632ba04f06a2c1fee1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +155,22 @@
         }
     ],
     "wof:id":1310157075,
-    "wof:lastmodified":1566700386,
+    "wof:lastmodified":1682855294,
     "wof:name":"Besra",
     "wof:parent_id":1108696093,
     "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.65345,
-    24.18152000000001,
-    84.65345,
-    24.18152000000001
+    84.653692,
+    24.181504,
+    84.654573,
+    24.183049
 ],
-  "geometry": {"coordinates":[84.65345000000001,24.18152000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[84.654461,24.183049],[84.654464,24.182868],[84.654563,24.18287],[84.654573,24.182328],[84.65447399999999,24.182327],[84.654483,24.181876],[84.65438399999999,24.181874],[84.65438899999999,24.181603],[84.654291,24.181602],[84.654292,24.181511],[84.653801,24.181504],[84.653797,24.181684],[84.653699,24.181683],[84.65369200000001,24.182044],[84.653791,24.182045],[84.653786,24.182316],[84.65388400000001,24.182318],[84.653873,24.182949],[84.653971,24.182951],[84.653969,24.183041],[84.654461,24.183049]]],"type":"Polygon"}
 }

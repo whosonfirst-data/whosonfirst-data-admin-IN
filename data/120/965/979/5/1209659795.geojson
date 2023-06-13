@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.87036,23.34764,79.87036,23.34764",
-    "geom:latitude":23.34764,
-    "geom:longitude":79.87036,
+    "geom:bbox":"79.869389,23.346633,79.871153,23.348087",
+    "geom:latitude":23.347388,
+    "geom:longitude":79.870228,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Suraiya",
@@ -24,17 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.85036,23.32764,79.89036,23.36764",
+    "ks:ks_id":"KS11184F4B3B974359911DB8F583D7B4CA",
+    "ks:ks_name":"Suraiya",
+    "ks:ks_source_id":"N|12887978",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1003076",
+    "lbl:latitude":23.34741,
+    "lbl:longitude":79.870157,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.34741,
+    "mps:longitude":79.870157,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062b\u0631\u06cc\u0627"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b0\u09be\u0987\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Suraiya"
     ],
     "name:fas_x_preferred":[
         "\u062b\u0631\u06cc\u0627"
@@ -72,26 +83,40 @@
     "name:urd_x_preferred":[
         "\u062b\u0631\u06cc\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696237
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457639
+        "gn:id":10457639,
+        "ks:id":"KS11184F4B3B974359911DB8F583D7B4CA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9d1e73cf4832144a2e137a1ac059a889",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2cd2737e90617b6a34d37bf8f5bdf42d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209659795
+            "county_id":1108696237,
+            "locality_id":1209659795,
+            "region_id":85672239
         }
     ],
     "wof:id":1209659795,
-    "wof:lastmodified":1566694620,
+    "wof:lastmodified":1682627599,
     "wof:name":"Suraiya",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -99,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    79.87035999999998,
-    23.34764,
-    79.87035999999998,
-    23.34764
+    79.869389,
+    23.346633,
+    79.871153,
+    23.348087
 ],
-  "geometry": {"coordinates":[79.87035999999998,23.34764],"type":"Point"}
+  "geometry": {"coordinates":[[[79.87094999999999,23.348087],[79.87094999999999,23.347997],[79.871048,23.347998],[79.87105099999999,23.347727],[79.870953,23.347726],[79.870955,23.347455],[79.871053,23.347456],[79.871054,23.347275],[79.871152,23.347276],[79.87115300000001,23.347186],[79.871055,23.347185],[79.871056,23.347095],[79.870958,23.347094],[79.870959,23.347004],[79.870861,23.347003],[79.870862,23.346913],[79.87056800000001,23.346911],[79.870569,23.34682],[79.870373,23.346819],[79.870374,23.346729],[79.869983,23.346726],[79.869984,23.346635],[79.86969000000001,23.346633],[79.86969000000001,23.346724],[79.869592,23.346723],[79.869591,23.346813],[79.86949300000001,23.346812],[79.86949199999999,23.346903],[79.869395,23.346902],[79.869389,23.347534],[79.86948700000001,23.347535],[79.86948599999999,23.347716],[79.86958300000001,23.347716],[79.86958300000001,23.347807],[79.86968,23.347807],[79.86968,23.347898],[79.869777,23.347898],[79.869777,23.347989],[79.870266,23.347992],[79.870265,23.348083],[79.87094999999999,23.348087]]],"type":"Polygon"}
 }

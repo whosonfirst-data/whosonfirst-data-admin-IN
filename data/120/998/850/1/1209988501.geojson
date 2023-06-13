@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.97289,20.46815,78.97289,20.46815",
-    "geom:latitude":20.46815,
-    "geom:longitude":78.97289,
+    "geom:bbox":"78.971761,20.467313,78.974072,20.468948",
+    "geom:latitude":20.468119,
+    "geom:longitude":78.97288,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Ballarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.95289,20.44815,78.99289,20.48815",
+    "ks:ks_id":"KS16641A2CB3EC4FDBBE48FBF77241CA2C",
+    "ks:ks_name":"Ballarpur",
+    "ks:ks_pop":363,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|82584",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871275",
+    "lbl:latitude":20.468132,
+    "lbl:longitude":78.97288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.468132,
+    "mps:longitude":78.97288,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09b2\u09cd\u09b2\u09be\u09b0\u09aa\u09c1\u09b0"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Ball\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Ballarpur"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab2\u0acd\u0ab2\u0abe\u0ab0\u0aaa\u0ac1\u0ab0"
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10454546
+        "gn:id":10454546,
+        "ks:id":"KS16641A2CB3EC4FDBBE48FBF77241CA2C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"262fa25f6695252ec332df0a9f8b51c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6774ec8b4a7cb33c1aba98a54686b90f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1209988501,
-    "wof:lastmodified":1566694568,
+    "wof:lastmodified":1682641106,
     "wof:name":"Ballarpur",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.97289,
-    20.46815,
-    78.97289,
-    20.46815
+    78.971761,
+    20.467313,
+    78.974072,
+    20.468948
 ],
-  "geometry": {"coordinates":[78.97289000000001,20.46815],"type":"Point"}
+  "geometry": {"coordinates":[[[78.97319400000001,20.468948],[78.973195,20.468858],[78.973387,20.46886],[78.973388,20.46877],[78.973579,20.468772],[78.973581,20.468682],[78.973676,20.468683],[78.97367800000001,20.468592],[78.97386899999999,20.468595],[78.97387000000001,20.468504],[78.973966,20.468505],[78.973969,20.468325],[78.974064,20.468326],[78.97407200000001,20.467784],[78.97397599999999,20.467783],[78.973978,20.467602],[78.973882,20.467601],[78.973883,20.467511],[78.973692,20.467509],[78.973693,20.467418],[78.973022,20.467411],[78.973023,20.46732],[78.972353,20.467313],[78.972352,20.467403],[78.972064,20.467399],[78.97206300000001,20.46749],[78.97196700000001,20.467489],[78.97196599999999,20.467579],[78.97187,20.467578],[78.97186499999999,20.467939],[78.97176899999999,20.467938],[78.971761,20.46857],[78.971857,20.468571],[78.971856,20.468662],[78.971952,20.468663],[78.97195000000001,20.468753],[78.97204600000001,20.468754],[78.97204499999999,20.468844],[78.97242799999999,20.468849],[78.972427,20.468939],[78.97319400000001,20.468948]]],"type":"Polygon"}
 }

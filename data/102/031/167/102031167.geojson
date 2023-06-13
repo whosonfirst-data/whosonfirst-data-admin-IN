@@ -10,12 +10,19 @@
     "geom:latitude":30.12915,
     "geom:longitude":75.923796,
     "iso:country":"IN",
-    "lbl:latitude":30.13086,
-    "lbl:longitude":75.925055,
+    "ks:ks_id":"KSA760E608B3414279A83089EE0BC5E6FD",
+    "ks:ks_name":"Mauran",
+    "ks:ks_pop":4595,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0316000501143600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2626770",
+    "lbl:latitude":30.128563,
+    "lbl:longitude":75.923216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":30.130875,
-    "mps:longitude":75.92102,
+    "mps:latitude":30.128563,
+    "mps:longitude":75.923216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -24,6 +31,12 @@
         "Maura"
     ],
     "name:deu_x_preferred":[
+        "Maura"
+    ],
+    "name:eng_x_preferred":[
+        "Mauran"
+    ],
+    "name:eng_x_variant":[
         "Maura"
     ],
     "name:fra_x_preferred":[
@@ -61,9 +74,12 @@
     "reversegeo:longitude":75.925055,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191569,
@@ -75,9 +91,14 @@
     "wof:concordances":{
         "gn:id":7626565,
         "gp:id":29192492,
+        "ks:id":"KSA760E608B3414279A83089EE0BC5E6FD",
         "qs_pg:id":1151590
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"77b8989edee719e5a94a8688a3fa12ba",
     "wof:hierarchy":[
         {
@@ -89,10 +110,12 @@
         }
     ],
     "wof:id":102031167,
-    "wof:lastmodified":1658780722,
-    "wof:name":"Maura",
+    "wof:lastmodified":1682525375,
+    "wof:name":"Mauran",
     "wof:parent_id":1108695749,
     "wof:placetype":"locality",
+    "wof:population":4595,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

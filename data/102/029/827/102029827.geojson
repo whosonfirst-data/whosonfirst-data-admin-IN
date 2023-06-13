@@ -13,12 +13,22 @@
     "gn:longitude":74.99914,
     "gn:population":25374,
     "iso:country":"IN",
-    "lbl:latitude":13.214152,
-    "lbl:longitude":74.997601,
+    "ks:ks_alt_nam":"K\u0101rk\u0101l",
+    "ks:ks_alt_nam_2":"Karkala",
+    "ks:ks_id":"KSC4FA999507044D689206817C9323A358",
+    "ks:ks_name":"Karkal",
+    "ks:ks_pop":25116,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2099821",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2798396",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":13.207916,
+    "lbl:longitude":74.993385,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":13.210697,
-    "mps:longitude":74.996696,
+    "mps:latitude":13.207916,
+    "mps:longitude":74.993385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,6 +46,10 @@
         "Karkala"
     ],
     "name:eng_x_preferred":[
+        "Karkal"
+    ],
+    "name:eng_x_variant":[
+        "K\u0101rk\u0101l",
         "Karkala"
     ],
     "name:fra_x_preferred":[
@@ -121,10 +135,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,13 +151,16 @@
     "wof:concordances":{
         "gn:id":1267739,
         "gp:id":2293959,
+        "ks:id":"KSC4FA999507044D689206817C9323A358",
         "qs_pg:id":131815,
         "wd:id":"Q2284508",
         "wk:page":"Karkala"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"31f23794c131629e541db742a41b4a30",
     "wof:hierarchy":[
@@ -154,11 +173,11 @@
         }
     ],
     "wof:id":102029827,
-    "wof:lastmodified":1658780752,
-    "wof:name":"K\u0101rk\u0101l",
+    "wof:lastmodified":1682524166,
+    "wof:name":"Karkal",
     "wof:parent_id":890502695,
     "wof:placetype":"locality",
-    "wof:population":25374,
+    "wof:population":25116,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

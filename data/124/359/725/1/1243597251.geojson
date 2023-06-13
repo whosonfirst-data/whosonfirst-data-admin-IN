@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000007,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.58436,26.97159,83.58436,26.97159",
-    "geom:latitude":26.97159,
-    "geom:longitude":83.58436,
+    "geom:bbox":"83.582667,26.969667,83.586979,26.97317",
+    "geom:latitude":26.971381,
+    "geom:longitude":83.584723,
     "gn:admin1_code":"36",
     "gn:admin2_code":"187.0",
     "gn:asciiname":"Kotwa",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.56436,26.95159,83.60436,26.99159",
+    "ks:ks_id":"KSB78BC501007B41A2B22E94B3DE22AAFC",
+    "ks:ks_name":"Kotawa",
+    "ks:ks_pop":2129,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0957000407785500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1441530",
+    "lbl:latitude":26.971811,
+    "lbl:longitude":83.584331,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.971811,
+    "mps:longitude":83.584331,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09a4\u09c1\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Kotwa"
+    ],
+    "name:eng_x_preferred":[
+        "Kotawa"
+    ],
+    "name:eng_x_variant":[
         "Kotwa"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u79d1\u7279\u74e6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10665885
+        "gn:id":10665885,
+        "ks:id":"KSB78BC501007B41A2B22E94B3DE22AAFC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b2d3ad927b1d49e6ffd6bf75fc27dbc0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed2468437374df71d07c1ef35db04bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1243597251,
-    "wof:lastmodified":1566707071,
-    "wof:name":"Kotwa",
+    "wof:lastmodified":1682721042,
+    "wof:name":"Kotawa",
     "wof:parent_id":1108695867,
     "wof:placetype":"locality",
+    "wof:population":2129,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.58436,
-    26.97159000000001,
-    83.58436,
-    26.97159000000001
+    83.582667,
+    26.969667,
+    83.586979,
+    26.97317
 ],
-  "geometry": {"coordinates":[83.58436,26.97159000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[83.584823,26.97317],[83.584823,26.972901],[83.585092,26.972901],[83.585092,26.972362],[83.585362,26.972362],[83.585362,26.971553],[83.585092,26.971553],[83.585092,26.971284],[83.585362,26.971284],[83.585362,26.971014],[83.586979,26.971014],[83.586979,26.970206],[83.58644,26.970206],[83.58644,26.970475],[83.58617,26.970475],[83.58617,26.969936],[83.585362,26.969936],[83.585362,26.970206],[83.585092,26.970206],[83.585092,26.969936],[83.584823,26.969936],[83.584823,26.969667],[83.584284,26.969667],[83.584284,26.970745],[83.584014,26.970745],[83.584014,26.971014],[83.58374499999999,26.971014],[83.58374499999999,26.971284],[83.583206,26.971284],[83.583206,26.971553],[83.582667,26.971553],[83.582667,26.972092],[83.582936,26.972092],[83.582936,26.972362],[83.583206,26.972362],[83.583206,26.972092],[83.58347500000001,26.972092],[83.58347500000001,26.972362],[83.58374499999999,26.972362],[83.58374499999999,26.97317],[83.584823,26.97317]]],"type":"Polygon"}
 }

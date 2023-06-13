@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        1108805979,
+        890509337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10605312
     },
     "wof:country":"IN",
-    "wof:geomhash":"3c31aa4dca87c1fc88ae770bc8588661",
+    "wof:geomhash":"0e14e5ae2011f35c9285968f972048ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209257139
+            "county_id":890509337,
+            "locality_id":1209257139,
+            "region_id":1108805979
         }
     ],
     "wof:id":1209257139,
-    "wof:lastmodified":1566695690,
+    "wof:lastmodified":1682611450,
     "wof:name":"Padrai",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890509337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847138443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     78.70459,
-    18.36217000000001,
+    18.36217,
     78.70459,
-    18.36217000000001
+    18.36217
 ],
-  "geometry": {"coordinates":[78.70459,18.36217000000001],"type":"Point"}
+  "geometry": {"coordinates":[78.70459,18.36217],"type":"Point"}
 }

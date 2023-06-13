@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makgardba",
@@ -38,35 +39,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1256376
     },
     "wof:country":"IN",
-    "wof:geomhash":"f1dc6dd539c723472cebdf9301189209",
+    "wof:geomhash":"8cc5b04c4b79c63a7e660100f4fd00a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209559811
+            "county_id":1108696233,
+            "locality_id":1209559811,
+            "region_id":85672239
         }
     ],
     "wof:id":1209559811,
-    "wof:lastmodified":1566695079,
+    "wof:lastmodified":1682623686,
     "wof:name":"Siddikganj",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847133305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.61688000000002,
+    76.61688,
     22.85767,
-    76.61688000000002,
+    76.61688,
     22.85767
 ],
-  "geometry": {"coordinates":[76.61688000000002,22.85767],"type":"Point"}
+  "geometry": {"coordinates":[76.61687999999999,22.85767],"type":"Point"}
 }

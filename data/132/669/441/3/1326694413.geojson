@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.13889,19.1204,83.13889,19.1204",
-    "geom:latitude":19.1204,
-    "geom:longitude":83.13889,
+    "geom:bbox":"83.138001,19.119559,83.139618,19.120907",
+    "geom:latitude":19.120233,
+    "geom:longitude":83.138809,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"398.0",
     "gn:asciiname":"Kebidi",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.11889,19.1004,83.15889,19.1404",
+    "ks:ks_id":"KSC170E153EA3D4231AAFF2DAE6552230E",
+    "ks:ks_name":"Kebiri",
+    "ks:ks_pop":329,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2129000504868800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_450845",
+    "lbl:latitude":19.120233,
+    "lbl:longitude":83.138809,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.120233,
+    "mps:longitude":83.138809,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kebiri"
+    ],
+    "name:eng_x_variant":[
+        "Kebidi"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10775694
+        "gn:id":10775694,
+        "ks:id":"KSC170E153EA3D4231AAFF2DAE6552230E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a98107e8391c2ec1bfb39e40fdf7d800",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"03be2c08c676de2871156821504f1031",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326694413,
-    "wof:lastmodified":1566682144,
-    "wof:name":"Kebidi",
+    "wof:lastmodified":1682887186,
+    "wof:name":"Kebiri",
     "wof:parent_id":890507445,
     "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.13889,
-    19.1204,
-    83.13889,
-    19.1204
+    83.138001,
+    19.119559,
+    83.139618,
+    19.120907
 ],
-  "geometry": {"coordinates":[83.13889,19.1204],"type":"Point"}
+  "geometry": {"coordinates":[[[83.139618,19.119559],[83.138001,19.119559],[83.138001,19.120907],[83.139618,19.120907],[83.139618,19.119559]]],"type":"Polygon"}
 }

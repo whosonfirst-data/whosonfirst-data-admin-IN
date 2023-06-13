@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.72923,12.08729,79.72923,12.08729",
-    "geom:latitude":12.08729,
-    "geom:longitude":79.72923,
+    "geom:bbox":"79.728288,12.086783,79.729945,12.087869",
+    "geom:latitude":12.087389,
+    "geom:longitude":79.729152,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"607.0",
     "gn:asciiname":"Agaram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.70923,12.06729,79.74923,12.10729",
+    "ks:ks_id":"KS3965310D650E4195AE2835443B5A7F61",
+    "ks:ks_name":"Agaram",
+    "ks:ks_pop":210,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13983285",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_351959",
+    "lbl:latitude":12.087418,
+    "lbl:longitude":79.729136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.087418,
+    "mps:longitude":79.729136,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0627\u0631\u0627\u0645"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0986\u0997\u09be\u09b0\u09be\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Agaram"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a97\u0ab0\u0aae"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0622\u06af\u0627\u0631\u0627\u0645"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11445480
+        "gn:id":11445480,
+        "ks:id":"KS3965310D650E4195AE2835443B5A7F61"
     },
     "wof:country":"IN",
-    "wof:geomhash":"06f8ee06d36efaea09d9c3920357ccd7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec5201057ab6241d852905497ce3d4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293740993,
-    "wof:lastmodified":1577750338,
+    "wof:lastmodified":1682829767,
     "wof:name":"Agaram",
     "wof:parent_id":890510675,
     "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.72923,
-    12.08729,
-    79.72923,
-    12.08729
+    79.728288,
+    12.086783,
+    79.729945,
+    12.087869
 ],
-  "geometry": {"coordinates":[79.72923,12.08729],"type":"Point"}
+  "geometry": {"coordinates":[[[79.729483,12.087869],[79.729483,12.087779],[79.72966700000001,12.08778],[79.72966700000001,12.087689],[79.729851,12.08769],[79.729851,12.0876],[79.72994300000001,12.0876],[79.729945,12.087148],[79.72985300000001,12.087148],[79.729854,12.086967],[79.72976199999999,12.086967],[79.72976300000001,12.086876],[79.729579,12.086875],[79.729579,12.086785],[79.729212,12.086783],[79.729212,12.086874],[79.729028,12.086873],[79.729027,12.086963],[79.728752,12.086962],[79.728751,12.087052],[79.72866,12.087052],[79.72865899999999,12.087142],[79.728567,12.087142],[79.728567,12.087232],[79.728475,12.087232],[79.728475,12.087322],[79.72838299999999,12.087322],[79.728382,12.087412],[79.72829,12.087412],[79.72828800000001,12.087864],[79.729483,12.087869]]],"type":"Polygon"}
 }

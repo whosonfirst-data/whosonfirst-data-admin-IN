@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.00102,21.30309,75.00102,21.30309",
-    "geom:latitude":21.30309,
-    "geom:longitude":75.00102,
+    "geom:bbox":"75.000452,21.30248,75.001609,21.303654",
+    "geom:latitude":21.303061,
+    "geom:longitude":75.001087,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"498.0",
     "gn:asciiname":"Godi",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.98102,21.28309,75.02102,21.32309",
+    "ks:ks_id":"KS9D4D10B9280B4AEDAB73D3177C76F34D",
+    "ks:ks_name":"Godi",
+    "ks:ks_pop":278,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|365661",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_858172",
+    "lbl:latitude":21.303001,
+    "lbl:longitude":75.001087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.303001,
+    "mps:longitude":75.001087,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Godi"
+    ],
+    "name:eng_x_preferred":[
         "Godi"
     ],
     "name:fra_x_preferred":[
@@ -45,37 +58,55 @@
     "name:wln_x_preferred":[
         "Godi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890503165
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10690027
+        "gn:id":10690027,
+        "ks:id":"KS9D4D10B9280B4AEDAB73D3177C76F34D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a35caae18096df1e1412ffe01e151f8a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"255332053bb6b9f80275b4ef75296436",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209584881
+            "county_id":890503165,
+            "locality_id":1209584881,
+            "region_id":85672171
         }
     ],
     "wof:id":1209584881,
-    "wof:lastmodified":1566696322,
+    "wof:lastmodified":1682625453,
     "wof:name":"Godi",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890503165,
     "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.00102,
-    21.30309,
-    75.00102,
-    21.30309
+    75.000452,
+    21.30248,
+    75.001609,
+    21.303654
 ],
-  "geometry": {"coordinates":[75.00102,21.30309],"type":"Point"}
+  "geometry": {"coordinates":[[[75.001609,21.303474],[75.001609,21.302841],[75.00151200000001,21.302841],[75.00151200000001,21.30266],[75.00141600000001,21.30266],[75.00141600000001,21.30257],[75.001319,21.30257],[75.001319,21.30248],[75.000837,21.30248],[75.000837,21.30257],[75.000741,21.30257],[75.000741,21.30266],[75.00064500000001,21.30266],[75.00064500000001,21.302751],[75.00054799999999,21.302751],[75.00054799999999,21.302841],[75.000452,21.302841],[75.000452,21.303203],[75.00054799999999,21.303203],[75.00054799999999,21.303293],[75.000741,21.303293],[75.000741,21.303383],[75.000837,21.303383],[75.000837,21.303474],[75.000934,21.303474],[75.000934,21.303654],[75.00151200000001,21.303654],[75.00151200000001,21.303474],[75.001609,21.303474]]],"type":"Polygon"}
 }

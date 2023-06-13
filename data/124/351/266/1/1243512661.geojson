@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.36228,31.03895,75.36228,31.03895",
-    "geom:latitude":31.03895,
-    "geom:longitude":75.36228,
+    "geom:bbox":"75.356075,31.036071,75.360926,31.041461",
+    "geom:latitude":31.03887,
+    "geom:longitude":75.358996,
     "gn:admin1_code":"23",
     "gn:admin2_code":"37.0",
     "gn:asciiname":"Baga",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.34228,31.01895,75.38228,31.05895",
+    "ks:ks_id":"KS73C96D37D1884C7CA7BAC81301F775D8",
+    "ks:ks_name":"Bagga",
+    "ks:ks_pop":1021,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0304000100358500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2188000",
+    "lbl:latitude":31.039023,
+    "lbl:longitude":75.359566,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.039023,
+    "mps:longitude":75.359566,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062c\u0627"
@@ -43,6 +53,12 @@
         "Baga"
     ],
     "name:deu_x_preferred":[
+        "Baga"
+    ],
+    "name:eng_x_preferred":[
+        "Bagga"
+    ],
+    "name:eng_x_variant":[
         "Baga"
     ],
     "name:eus_x_preferred":[
@@ -108,7 +124,13 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u06af\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10701998
+        "gn:id":10701998,
+        "ks:id":"KS73C96D37D1884C7CA7BAC81301F775D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9fb0218524820546c3bd195dd351f545",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"313a75da8e6e34cc5ae124b5cad1cca4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +157,22 @@
         }
     ],
     "wof:id":1243512661,
-    "wof:lastmodified":1577753208,
-    "wof:name":"Baga",
+    "wof:lastmodified":1682718894,
+    "wof:name":"Bagga",
     "wof:parent_id":890507875,
     "wof:placetype":"locality",
+    "wof:population":1021,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.36228,
-    31.03895,
-    75.36228,
-    31.03895
+    75.356075,
+    31.036071,
+    75.360926,
+    31.041461
 ],
-  "geometry": {"coordinates":[75.36228,31.03895],"type":"Point"}
+  "geometry": {"coordinates":[[[75.360117,31.041461],[75.360117,31.040922],[75.360387,31.040922],[75.360387,31.040652],[75.36065600000001,31.040652],[75.36065600000001,31.040113],[75.36092600000001,31.040113],[75.36092600000001,31.037418],[75.360117,31.037418],[75.360117,31.037688],[75.359309,31.037688],[75.359309,31.036879],[75.359578,31.036879],[75.359578,31.03634],[75.35877000000001,31.03634],[75.35877000000001,31.036071],[75.358231,31.036071],[75.358231,31.037688],[75.357153,31.037688],[75.357153,31.037957],[75.35661399999999,31.037957],[75.35661399999999,31.038227],[75.356075,31.038227],[75.356075,31.038766],[75.35634400000001,31.038766],[75.35634400000001,31.039574],[75.356883,31.039574],[75.356883,31.039305],[75.357422,31.039305],[75.357422,31.038766],[75.358231,31.038766],[75.358231,31.039574],[75.357961,31.039574],[75.357961,31.040383],[75.358231,31.040383],[75.358231,31.040652],[75.35877000000001,31.040652],[75.35877000000001,31.040922],[75.359039,31.040922],[75.359039,31.041461],[75.360117,31.041461]]],"type":"Polygon"}
 }

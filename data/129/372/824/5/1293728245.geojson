@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.54487,29.36088,78.54487,29.36088",
-    "geom:latitude":29.36088,
-    "geom:longitude":78.54487,
+    "geom:bbox":"78.542291,29.359575,78.544888,29.361201",
+    "geom:latitude":29.36039,
+    "geom:longitude":78.543498,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"134.0",
     "gn:asciiname":"Nandgaon",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.52487,29.34088,78.56487,29.38088",
+    "ks:ks_alt_nam":"Nandg\u0101on",
+    "ks:ks_id":"KSFEA1F184D6014049926D0063EF8D1868",
+    "ks:ks_name":"Nandgaon",
+    "ks:ks_pop":244,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12745880",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1832680",
+    "lbl:latitude":29.360429,
+    "lbl:longitude":78.543523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.360429,
+    "mps:longitude":78.543523,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nandgaon"
+    ],
+    "name:eng_x_preferred":[
+        "Nandgaon"
+    ],
+    "name:eng_x_variant":[
+        "Nandg\u0101on"
     ],
     "name:pol_x_preferred":[
         "Nandgaon"
@@ -39,7 +56,13 @@
     "name:swe_x_preferred":[
         "Nandgaon"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10327197
+        "gn:id":10327197,
+        "ks:id":"KSFEA1F184D6014049926D0063EF8D1868"
     },
     "wof:country":"IN",
-    "wof:geomhash":"384bcf061aadab6475c73c8af75451d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"956ae9ff94ee40daaf9198394eb9f3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1293728245,
-    "wof:lastmodified":1566691659,
+    "wof:lastmodified":1682828544,
     "wof:name":"Nandgaon",
     "wof:parent_id":1108695793,
     "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.54486999999997,
-    29.36088,
-    78.54486999999997,
-    29.36088
+    78.542291,
+    29.359575,
+    78.544888,
+    29.361201
 ],
-  "geometry": {"coordinates":[78.54486999999997,29.36088],"type":"Point"}
+  "geometry": {"coordinates":[[[78.543824,29.361201],[78.543826,29.361111],[78.544032,29.361115],[78.544034,29.361025],[78.54424,29.361029],[78.54424400000001,29.360848],[78.544347,29.36085],[78.544349,29.36076],[78.54445200000001,29.360762],[78.544459,29.360491],[78.544562,29.360493],[78.544566,29.360313],[78.544669,29.360315],[78.544673,29.360135],[78.544776,29.360136],[78.544783,29.359866],[78.54488600000001,29.359868],[78.544888,29.359778],[78.544785,29.359776],[78.544787,29.359686],[78.54458099999999,29.359682],[78.544583,29.359592],[78.543657,29.359575],[78.543655,29.359665],[78.543449,29.359661],[78.543447,29.359751],[78.543138,29.359745],[78.543136,29.359836],[78.542827,29.35983],[78.54282499999999,29.35992],[78.54231,29.359911],[78.54229100000001,29.360722],[78.542394,29.360724],[78.542383,29.361175],[78.543824,29.361201]]],"type":"Polygon"}
 }

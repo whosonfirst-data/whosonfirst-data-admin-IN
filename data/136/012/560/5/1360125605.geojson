@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.01107,25.37352,85.01107,25.37352",
-    "geom:latitude":25.37352,
-    "geom:longitude":85.01107,
+    "geom:bbox":"84.9994,25.370756,85.000747,25.372373",
+    "geom:latitude":25.371488,
+    "geom:longitude":85.000202,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Mohiuddinpur",
@@ -24,14 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.99107,25.35352,85.03107,25.39352",
+    "ks:ks_id":"KS6D63C50E98BD407BB439648433B3D8DE",
+    "ks:ks_name":"Mohiuddinpur",
+    "ks:ks_source_id":"N|13509257",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1346048",
+    "lbl:latitude":25.371487,
+    "lbl:longitude":85.000215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.371487,
+    "mps:longitude":85.000215,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b9\u09bf\u0989\u09a6\u09cd\u09a6\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Mohiuddinpur"
     ],
     "name:ita_x_preferred":[
         "Mohiuddinpur"
@@ -57,7 +68,11 @@
     "name:zho_x_preferred":[
         "\u83ab\u5e0c\u4e4c\u4e01\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11012017
+        "gn:id":11012017,
+        "ks:id":"KS6D63C50E98BD407BB439648433B3D8DE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d43bdbf9947c0e450412e182c9bbb56c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a502301fbe5a55c30acb5c8cafef6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +99,7 @@
         }
     ],
     "wof:id":1360125605,
-    "wof:lastmodified":1566702523,
+    "wof:lastmodified":1682963948,
     "wof:name":"Mohiuddinpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
@@ -90,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.01106999999998,
-    25.37352000000001,
-    85.01106999999998,
-    25.37352000000001
+    84.9994,
+    25.370756,
+    85.000747,
+    25.372373
 ],
-  "geometry": {"coordinates":[85.01106999999998,25.37352000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[85.000208,25.372373],[85.000747,25.372373],[85.000747,25.370756],[84.999669,25.370756],[84.999669,25.371025],[84.99939999999999,25.371025],[84.99939999999999,25.371295],[84.999669,25.371295],[84.999669,25.372103],[85.000208,25.372103],[85.000208,25.372373]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.53776,29.99179,78.53776,29.99179",
-    "geom:latitude":29.99179,
-    "geom:longitude":78.53776,
+    "geom:bbox":"78.536403,29.991893,78.537344,29.992889",
+    "geom:latitude":29.992386,
+    "geom:longitude":78.536895,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"061",
     "gn:asciiname":"Bani",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.51776,29.97179,78.55776,30.01179",
+    "ks:ks_id":"KSAEE5113C1DF24717A79AB1A391D66241",
+    "ks:ks_name":"Banni",
+    "ks:ks_pop":197,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|94083",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1840560",
+    "lbl:latitude":29.992393,
+    "lbl:longitude":78.536904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.992393,
+    "mps:longitude":78.536904,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09bf"
@@ -47,6 +57,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Banni"
+    ],
+    "name:eng_x_variant":[
+        "Bani"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0646\u06cc"
@@ -99,7 +115,13 @@
     "name:war_x_preferred":[
         "Bani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +130,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1444387
+        "gn:id":1444387,
+        "ks:id":"KSAEE5113C1DF24717A79AB1A391D66241"
     },
     "wof:country":"IN",
-    "wof:geomhash":"08728130436ba547bb1633736e7effdc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"18e2e9414d78446886175310f3ea7487",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +148,22 @@
         }
     ],
     "wof:id":1326457559,
-    "wof:lastmodified":1636505207,
-    "wof:name":"Bani",
+    "wof:lastmodified":1682876352,
+    "wof:name":"Banni",
     "wof:parent_id":1108695755,
     "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.53776,
-    29.99179,
-    78.53776,
-    29.99179
+    78.536403,
+    29.991893,
+    78.537344,
+    29.992889
 ],
-  "geometry": {"coordinates":[78.53776000000001,29.99179],"type":"Point"}
+  "geometry": {"coordinates":[[[78.53691000000001,29.992889],[78.536912,29.992799],[78.537223,29.992804],[78.53722500000001,29.992714],[78.537329,29.992716],[78.537344,29.992085],[78.53724099999999,29.992083],[78.537243,29.991993],[78.537139,29.991991],[78.537142,29.991901],[78.536727,29.991893],[78.536725,29.991983],[78.536518,29.991979],[78.536511,29.99225],[78.53640799999999,29.992248],[78.53640300000001,29.992428],[78.536507,29.99243],[78.53649799999999,29.992791],[78.536601,29.992793],[78.536599,29.992883],[78.53691000000001,29.992889]]],"type":"Polygon"}
 }

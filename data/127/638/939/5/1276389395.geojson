@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.94242,25.43503,87.94242,25.43503",
-    "geom:latitude":25.43503,
-    "geom:longitude":87.94242,
+    "geom:bbox":"87.939316,25.431122,87.941472,25.434356",
+    "geom:latitude":25.432829,
+    "geom:longitude":87.940317,
     "gn:admin1_code":"28.0",
     "gn:admin2_code":"332.0",
     "gn:asciiname":"Lakshmanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.92242,25.41503,87.96242,25.45503",
+    "ks:ks_id":"KS0FB07C1978E6418482C5B8496D90CDAF",
+    "ks:ks_name":"Lakshmanpur",
+    "ks:ks_pop":1198,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|616055",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1520802",
+    "lbl:latitude":25.432897,
+    "lbl:longitude":87.940445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.432897,
+    "mps:longitude":87.940445,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0634\u0645\u0627\u0646\u0628\u0648\u0631"
@@ -41,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "Laxmanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Lakshmanpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a95\u0acd\u0ab7\u0aae\u0aa3\u0aaa\u0ac1\u0ab0"
@@ -84,7 +97,13 @@
     "name:urd_x_preferred":[
         "\u0644\u06a9\u0634\u0645\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11015579
+        "gn:id":11015579,
+        "ks:id":"KS0FB07C1978E6418482C5B8496D90CDAF"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5e21f6f95717749599be2f6f658165d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c580ca89eba1e4de3a15fdc2db60f7fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +130,22 @@
         }
     ],
     "wof:id":1276389395,
-    "wof:lastmodified":1577750664,
+    "wof:lastmodified":1682771555,
     "wof:name":"Lakshmanpur",
     "wof:parent_id":1108696073,
     "wof:placetype":"locality",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.94242,
-    25.43503,
-    87.94242,
-    25.43503
+    87.939316,
+    25.431122,
+    87.941472,
+    25.434356
 ],
-  "geometry": {"coordinates":[87.94242,25.43503],"type":"Point"}
+  "geometry": {"coordinates":[[[87.940933,25.4322],[87.940933,25.431931],[87.940394,25.431931],[87.940394,25.4322],[87.94012499999999,25.4322],[87.94012499999999,25.431122],[87.93931600000001,25.431122],[87.93931600000001,25.433278],[87.93985499999999,25.433278],[87.93985499999999,25.433817],[87.940394,25.433817],[87.940394,25.434356],[87.941472,25.434356],[87.941472,25.433548],[87.941203,25.433548],[87.941203,25.4322],[87.940933,25.4322]]],"type":"Polygon"}
 }

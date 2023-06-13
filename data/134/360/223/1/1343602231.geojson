@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.35676,26.05846,86.35676,26.05846",
-    "geom:latitude":26.05846,
-    "geom:longitude":86.35676,
+    "geom:bbox":"86.354149,26.056889,86.359,26.060123",
+    "geom:latitude":26.058558,
+    "geom:longitude":86.356585,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"215.0",
     "gn:asciiname":"Asma",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.33676,26.03846,86.37676,26.07846",
+    "ks:ks_id":"KSE6688E01BC3F426597C94EC96B2EBB5C",
+    "ks:ks_name":"Asma",
+    "ks:ks_pop":1402,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|49588",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1591102",
+    "lbl:latitude":26.058787,
+    "lbl:longitude":86.356781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.058787,
+    "mps:longitude":86.356781,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u0441\u043c\u0430\u044a"
     ],
     "name:deu_x_preferred":[
+        "Asma"
+    ],
+    "name:eng_x_preferred":[
         "Asma"
     ],
     "name:glg_x_preferred":[
@@ -51,7 +64,13 @@
     "name:rus_x_preferred":[
         "\u0410\u0441\u043c\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10890392
+        "gn:id":10890392,
+        "ks:id":"KSE6688E01BC3F426597C94EC96B2EBB5C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0bc6be76d14306c803f235b3bf9abaa8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b17edd682fddc77231151893844501bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1343602231,
-    "wof:lastmodified":1566687807,
+    "wof:lastmodified":1682933050,
     "wof:name":"Asma",
     "wof:parent_id":890502683,
     "wof:placetype":"locality",
+    "wof:population":1402,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.35676,
-    26.05846,
-    86.35676,
-    26.05846
+    86.354149,
+    26.056889,
+    86.359,
+    26.060123
 ],
-  "geometry": {"coordinates":[86.35675999999999,26.05846],"type":"Point"}
+  "geometry": {"coordinates":[[[86.35873100000001,26.060123],[86.35873100000001,26.059045],[86.35846100000001,26.059045],[86.35846100000001,26.058775],[86.35873100000001,26.058775],[86.35873100000001,26.058236],[86.35899999999999,26.058236],[86.35899999999999,26.057428],[86.357922,26.057428],[86.357922,26.057967],[86.356844,26.057967],[86.356844,26.057158],[86.357114,26.057158],[86.357114,26.056889],[86.35630500000001,26.056889],[86.35630500000001,26.057967],[86.355766,26.057967],[86.355766,26.057428],[86.355227,26.057428],[86.355227,26.057967],[86.354688,26.057967],[86.354688,26.056889],[86.35414900000001,26.056889],[86.35414900000001,26.059584],[86.354958,26.059584],[86.354958,26.058506],[86.355497,26.058506],[86.355497,26.058775],[86.355227,26.058775],[86.355227,26.059314],[86.355766,26.059314],[86.355766,26.059584],[86.35630500000001,26.059584],[86.35630500000001,26.059853],[86.357383,26.059853],[86.357383,26.059584],[86.357922,26.059584],[86.357922,26.060123],[86.35873100000001,26.060123]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        1108805979,
+        890509337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10612418
     },
     "wof:country":"IN",
-    "wof:geomhash":"0beed82253f3dcbf3f57dfeb2c9777d0",
+    "wof:geomhash":"65f2166ccb3951bad2491caef9325876",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209157009
+            "county_id":890509337,
+            "locality_id":1209157009,
+            "region_id":1108805979
         }
     ],
     "wof:id":1209157009,
-    "wof:lastmodified":1566695264,
+    "wof:lastmodified":1682607675,
     "wof:name":"Rajannapalli",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890509337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847134617
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.81109000000002,
+    78.81109,
     18.47468,
-    78.81109000000002,
+    78.81109,
     18.47468
 ],
-  "geometry": {"coordinates":[78.81109000000002,18.47468],"type":"Point"}
+  "geometry": {"coordinates":[78.81108999999999,18.47468],"type":"Point"}
 }

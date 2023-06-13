@@ -11,12 +11,19 @@
     "geom:longitude":70.79405,
     "gn:population":101801,
     "iso:country":"IN",
-    "lbl:latitude":21.961163,
-    "lbl:longitude":70.793852,
+    "ks:ks_id":"KSCDBE792F40E34821972CE609F40440D3",
+    "ks:ks_name":"Gondal",
+    "ks:ks_pop":97506,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2096543",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_495455",
+    "lbl:latitude":21.958482,
+    "lbl:longitude":70.795847,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":21.961599,
-    "mps:longitude":70.799454,
+    "mps:latitude":21.958482,
+    "mps:longitude":70.795847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -119,10 +126,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":132.0,
     "wd:latitude":21.97,
     "wd:longitude":70.8,
@@ -137,13 +146,16 @@
     "wof:concordances":{
         "gn:id":1270994,
         "gp:id":2295089,
+        "ks:id":"KSCDBE792F40E34821972CE609F40440D3",
         "qs_pg:id":1243077,
         "wd:id":"Q1536978",
         "wk:page":"Gondal, India"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"fbc0452beab53f2639db20025bf10154",
     "wof:hierarchy":[
@@ -156,12 +168,12 @@
         }
     ],
     "wof:id":102030199,
-    "wof:lastmodified":1658780739,
+    "wof:lastmodified":1686162187,
     "wof:name":"Gondal",
     "wof:parent_id":890503575,
     "wof:placetype":"locality",
-    "wof:population":101801,
-    "wof:population_rank":9,
+    "wof:population":97506,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

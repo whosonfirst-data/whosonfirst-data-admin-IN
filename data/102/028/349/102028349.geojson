@@ -12,12 +12,20 @@
     "gn:latitude":16.58535,
     "gn:longitude":81.4589,
     "iso:country":"IN",
-    "lbl:latitude":16.584628,
-    "lbl:longitude":81.460102,
+    "ks:ks_id":"KS626DC38E560C4136B02C21B39FDA091B",
+    "ks:ks_name":"Undi",
+    "ks:ks_pop":12758,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1074367",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_578227",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":16.584204,
+    "lbl:longitude":81.465179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":16.588817,
-    "mps:longitude":81.45813,
+    "mps:latitude":16.584204,
+    "mps:longitude":81.465179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -67,9 +75,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:elevation":2.0,
     "wd:latitude":16.6,
     "wd:longitude":81.4667,
@@ -84,13 +95,16 @@
     "wof:concordances":{
         "gn:id":1253763,
         "gp:id":2287862,
+        "ks:id":"KS626DC38E560C4136B02C21B39FDA091B",
         "qs_pg:id":194724,
         "wd:id":"Q3417000",
         "wk:page":"Undi"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ab859874fe5642998eb6a3dd05ab9fd5",
     "wof:hierarchy":[
@@ -103,10 +117,12 @@
         }
     ],
     "wof:id":102028349,
-    "wof:lastmodified":1658780780,
+    "wof:lastmodified":1682523180,
     "wof:name":"Undi",
     "wof:parent_id":1108696319,
     "wof:placetype":"locality",
+    "wof:population":12758,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

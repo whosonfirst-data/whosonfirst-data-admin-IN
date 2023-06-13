@@ -10,12 +10,20 @@
     "geom:latitude":28.979386,
     "geom:longitude":79.39883,
     "iso:country":"IN",
-    "lbl:latitude":28.978405,
-    "lbl:longitude":79.399561,
+    "ks:ks_id":"KSDA201F0870A5488CA7D69CD7248BD16F",
+    "ks:ks_name":"Rudrapur",
+    "ks:ks_pop":565,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0512000201589400",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1826720",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":28.983112,
+    "lbl:longitude":79.408266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":28.955282,
-    "mps:longitude":79.436646,
+    "mps:latitude":28.983112,
+    "mps:longitude":79.408266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -106,9 +114,12 @@
     "reversegeo:longitude":79.399561,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1113,
     "wof:belongsto":[
         102191569,
@@ -120,10 +131,15 @@
     "wof:concordances":{
         "gn:id":1348736,
         "gp:id":29010592,
+        "ks:id":"KSDA201F0870A5488CA7D69CD7248BD16F",
         "qs_pg:id":1061886,
         "wd:id":"Q2333417"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"26fcc9428a6b2eecd320196fd172a3e1",
     "wof:hierarchy":[
         {
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":102031051,
-    "wof:lastmodified":1658780725,
+    "wof:lastmodified":1682525282,
     "wof:name":"Rudrapur",
     "wof:parent_id":890501027,
     "wof:placetype":"locality",
+    "wof:population":565,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[

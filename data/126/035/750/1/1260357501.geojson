@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.36615,26.67216,76.36615,26.67216",
-    "geom:latitude":26.67216,
-    "geom:longitude":76.36615,
+    "geom:bbox":"76.367693,26.67051,76.368711,26.671776",
+    "geom:latitude":26.671274,
+    "geom:longitude":76.36805,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"109.0",
     "gn:asciiname":"Ramsar",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.34615,26.65216,76.38615,26.69216",
+    "ks:ks_alt_nam":"R\u0101msar",
+    "ks:ks_id":"KS1904EE907E324BCB8FB4BCBA257480F8",
+    "ks:ks_name":"Ramsar",
+    "ks:ks_pop":667,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12632131",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1690803",
+    "lbl:latitude":26.671509,
+    "lbl:longitude":76.36805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.671509,
+    "mps:longitude":76.36805,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ramsar"
+    ],
+    "name:eng_x_preferred":[
+        "Ramsar"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101msar"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0645\u0633\u0631"
@@ -48,7 +65,13 @@
     "name:swe_x_preferred":[
         "Ramsar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10169520
+        "gn:id":10169520,
+        "ks:id":"KS1904EE907E324BCB8FB4BCBA257480F8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6bbf4c58bda8c72816922b97c49b127c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16ace1c62f18236e6b1ec9c5335172a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +98,22 @@
         }
     ],
     "wof:id":1260357501,
-    "wof:lastmodified":1566699923,
+    "wof:lastmodified":1682761212,
     "wof:name":"Ramsar",
     "wof:parent_id":890508857,
     "wof:placetype":"locality",
+    "wof:population":667,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.36615,
-    26.67216,
-    76.36615,
-    26.67216
+    76.367693,
+    26.67051,
+    76.368711,
+    26.671776
 ],
-  "geometry": {"coordinates":[76.36615,26.67216],"type":"Point"}
+  "geometry": {"coordinates":[[[76.368711,26.671676],[76.36870999999999,26.671586],[76.36860900000001,26.671587],[76.36860799999999,26.671497],[76.368407,26.671498],[76.36840599999999,26.671408],[76.368306,26.671409],[76.36830500000001,26.671319],[76.36820400000001,26.67132],[76.36819800000001,26.670778],[76.36809700000001,26.670779],[76.36809599999999,26.670689],[76.36799600000001,26.67069],[76.36799499999999,26.6706],[76.36789400000001,26.670601],[76.367893,26.67051],[76.36779300000001,26.670511],[76.367794,26.670602],[76.367693,26.670603],[76.367701,26.671234],[76.367801,26.671233],[76.367806,26.671595],[76.367705,26.671596],[76.367707,26.671776],[76.368612,26.671767],[76.36861,26.671677],[76.368711,26.671676]]],"type":"Polygon"}
 }

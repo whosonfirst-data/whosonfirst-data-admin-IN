@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.91894,23.29663,77.91894,23.29663",
-    "geom:latitude":23.29663,
-    "geom:longitude":77.91894,
+    "geom:bbox":"77.918814,23.296241,77.919702,23.296972",
+    "geom:latitude":23.296626,
+    "geom:longitude":77.919215,
     "gn:admin1_code":"35",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Patti",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.89894,23.27663,77.93894,23.31663",
+    "ks:ks_id":"KS8205CA48C57D45E39D4358EBE2FB0331",
+    "ks:ks_name":"Pati",
+    "ks:ks_pop":434,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|837937",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_923578",
+    "lbl:latitude":23.29663,
+    "lbl:longitude":77.919179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.29663,
+    "mps:longitude":77.919179,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Patti"
     ],
     "name:deu_x_preferred":[
+        "Patti"
+    ],
+    "name:eng_x_preferred":[
+        "Pati"
+    ],
+    "name:eng_x_variant":[
         "Patti"
     ],
     "name:fra_x_preferred":[
@@ -63,37 +79,55 @@
     "name:swe_x_preferred":[
         "Patti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890508839
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10496105
+        "gn:id":10496105,
+        "ks:id":"KS8205CA48C57D45E39D4358EBE2FB0331"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d69e56ca382da5a7d39206baa855d47a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bea5113e52672e0f46cf6e5e1e211832",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209167463
+            "county_id":890508839,
+            "locality_id":1209167463,
+            "region_id":85672239
         }
     ],
     "wof:id":1209167463,
-    "wof:lastmodified":1566696568,
-    "wof:name":"Patti",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682609124,
+    "wof:name":"Pati",
+    "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":434,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.91894,
-    23.29663,
-    77.91894,
-    23.29663
+    77.918814,
+    23.296241,
+    77.919702,
+    23.296972
 ],
-  "geometry": {"coordinates":[77.91894000000001,23.29663],"type":"Point"}
+  "geometry": {"coordinates":[[[77.919702,23.296775],[77.919696,23.296505],[77.91959900000001,23.296506],[77.919597,23.296416],[77.919499,23.296418],[77.91949700000001,23.296328],[77.919302,23.296331],[77.91930000000001,23.296241],[77.91900699999999,23.296247],[77.919009,23.296337],[77.918814,23.29634],[77.91882699999999,23.296972],[77.91941300000001,23.296961],[77.919411,23.296871],[77.919607,23.296867],[77.919605,23.296777],[77.919702,23.296775]]],"type":"Polygon"}
 }

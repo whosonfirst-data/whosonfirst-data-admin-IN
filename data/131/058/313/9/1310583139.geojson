@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.68777,20.74233,79.68777,20.74233",
-    "geom:latitude":20.74233,
-    "geom:longitude":79.68777,
+    "geom:bbox":"79.68707,20.741688,79.688413,20.742869",
+    "geom:latitude":20.742309,
+    "geom:longitude":79.687699,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"506.0",
     "gn:asciiname":"Sindhi",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.66777,20.72233,79.70777,20.76233",
+    "ks:ks_id":"KSD4CAE41AA5FB4777B4199169EEF30B05",
+    "ks:ks_name":"Sindhi",
+    "ks:ks_pop":229,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|993743",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_948876",
+    "lbl:latitude":20.742316,
+    "lbl:longitude":79.687686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.742316,
+    "mps:longitude":79.687686,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sindhi"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u062f\u06cc"
     ],
@@ -54,7 +67,13 @@
     "name:snd_x_preferred":[
         "\u0633\u0646\u068c\u064a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10576205
+        "gn:id":10576205,
+        "ks:id":"KSD4CAE41AA5FB4777B4199169EEF30B05"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9b1ebd31c9a6b9793061d8e71e62d48c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"64ed03063cd0ed30dabc69bbcfafbe3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1310583139,
-    "wof:lastmodified":1566702368,
+    "wof:lastmodified":1682872112,
     "wof:name":"Sindhi",
     "wof:parent_id":890508361,
     "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.68777,
-    20.74233,
-    79.68777,
-    20.74233
+    79.68707,
+    20.741688,
+    79.688413,
+    20.742869
 ],
-  "geometry": {"coordinates":[79.68777,20.74233],"type":"Point"}
+  "geometry": {"coordinates":[[[79.688121,20.742869],[79.68812200000001,20.742778],[79.68831400000001,20.74278],[79.688316,20.742599],[79.688412,20.7426],[79.688413,20.742419],[79.688317,20.742418],[79.688318,20.742328],[79.688222,20.742327],[79.68822299999999,20.742237],[79.68812699999999,20.742236],[79.68812699999999,20.742146],[79.688031,20.742145],[79.68803200000001,20.742055],[79.68793599999999,20.742054],[79.68793700000001,20.741964],[79.68784100000001,20.741963],[79.687842,20.741782],[79.687746,20.741782],[79.687747,20.741691],[79.687363,20.741688],[79.68736199999999,20.741779],[79.68726599999999,20.741778],[79.687265,20.741868],[79.687169,20.741868],[79.687169,20.741958],[79.687073,20.741957],[79.68707000000001,20.742319],[79.687166,20.742319],[79.687164,20.7425],[79.68725999999999,20.742501],[79.687259,20.742591],[79.687451,20.742592],[79.687451,20.742683],[79.687547,20.742684],[79.687546,20.742774],[79.687642,20.742775],[79.687641,20.742865],[79.688121,20.742869]]],"type":"Polygon"}
 }

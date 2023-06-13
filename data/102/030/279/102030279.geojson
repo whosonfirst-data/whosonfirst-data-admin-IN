@@ -11,12 +11,20 @@
     "geom:longitude":80.808531,
     "gn:population":166480,
     "iso:country":"IN",
-    "lbl:latitude":25.929621,
-    "lbl:longitude":80.806773,
+    "ks:ks_id":"KS44D7FC2CC06F4A10B6794229A2EC5C0A",
+    "ks:ks_name":"Fatehpur",
+    "ks:ks_pop":80000,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|329165",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1857343",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":25.934992,
+    "lbl:longitude":80.809983,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":25.918525,
-    "mps:longitude":80.801144,
+    "mps:latitude":25.934992,
+    "mps:longitude":80.809983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -268,10 +276,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":599,
     "wof:belongsto":[
         102191569,
@@ -284,13 +294,16 @@
         "fct:id":"122d98da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1271912,
         "gp:id":2294806,
+        "ks:id":"KS44D7FC2CC06F4A10B6794229A2EC5C0A",
         "qs_pg:id":1183682,
         "wd:id":"Q1525461",
         "wk:page":"Fatehpur, Uttar Pradesh"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"50e982e3083ff67c4728b9513e35b17e",
     "wof:hierarchy":[
@@ -306,12 +319,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780741,
+    "wof:lastmodified":1686162188,
     "wof:name":"Fatehpur",
     "wof:parent_id":1108695837,
     "wof:placetype":"locality",
-    "wof:population":166480,
-    "wof:population_rank":9,
+    "wof:population":80000,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,12 +13,19 @@
     "gn:longitude":75.39085,
     "gn:population":18950,
     "iso:country":"IN",
-    "lbl:latitude":12.555642,
-    "lbl:longitude":75.393421,
+    "ks:ks_id":"KS5E2C951F696F41978284AF7CCEF38BB0",
+    "ks:ks_name":"Sulya",
+    "ks:ks_pop":18028,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2924000542420000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_152440",
+    "lbl:latitude":12.558894,
+    "lbl:longitude":75.390505,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":12.559926,
-    "mps:longitude":75.38269,
+    "mps:latitude":12.558894,
+    "mps:longitude":75.390505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,7 +43,7 @@
         "Sulya"
     ],
     "name:eng_x_preferred":[
-        "Sullia"
+        "Sulya"
     ],
     "name:fra_x_preferred":[
         "Sullia"
@@ -118,10 +125,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":922,
     "wof:belongsto":[
         102191569,
@@ -133,13 +142,16 @@
     "wof:concordances":{
         "gn:id":1255482,
         "gp:id":2286863,
+        "ks:id":"KS5E2C951F696F41978284AF7CCEF38BB0",
         "qs_pg:id":276241,
         "wd:id":"Q2571896",
         "wk:page":"Sullia"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"05d15d07d9266307a3c6f3c7a73d2cea",
     "wof:hierarchy":[
@@ -152,11 +164,11 @@
         }
     ],
     "wof:id":102028549,
-    "wof:lastmodified":1658780788,
+    "wof:lastmodified":1682523323,
     "wof:name":"Sulya",
     "wof:parent_id":890509341,
     "wof:placetype":"locality",
-    "wof:population":18950,
+    "wof:population":18028,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

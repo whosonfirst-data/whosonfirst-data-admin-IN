@@ -11,12 +11,19 @@
     "geom:longitude":79.476288,
     "gn:population":235000,
     "iso:country":"IN",
-    "lbl:latitude":18.764833,
-    "lbl:longitude":79.474636,
+    "ks:ks_id":"KSB31CB8FC155F415BB28D70C8E8DCEC11",
+    "ks:ks_name":"Ramagundam",
+    "ks:ks_pop":236600,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2803000740301000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_417269",
+    "lbl:latitude":18.756592,
+    "lbl:longitude":79.464539,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":18.76592,
-    "mps:longitude":79.491353,
+    "mps:latitude":18.756592,
+    "mps:longitude":79.464539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -56,6 +63,9 @@
     ],
     "name:hif_x_preferred":[
         "Ramagundam"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092e\u093e\u0917\u0941\u0902\u0921\u092e"
     ],
     "name:ita_x_preferred":[
         "Ramagundam"
@@ -143,10 +153,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"wk",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":179.0,
     "wd:latitude":18.8,
     "wd:longitude":79.45,
@@ -162,6 +174,7 @@
     "wof:concordances":{
         "gn:id":8347656,
         "gp:id":2284988,
+        "ks:id":"KSB31CB8FC155F415BB28D70C8E8DCEC11",
         "qs_pg:id":381661,
         "wd:id":"Q1780338",
         "wk:page":"Ramagundam"
@@ -171,7 +184,9 @@
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"7aa6c9fec12adccfa3122cfe05848fd0",
     "wof:hierarchy":[
@@ -184,11 +199,11 @@
         }
     ],
     "wof:id":102031195,
-    "wof:lastmodified":1658780721,
+    "wof:lastmodified":1686162177,
     "wof:name":"Ramagundam",
     "wof:parent_id":890509337,
     "wof:placetype":"locality",
-    "wof:population":229644,
+    "wof:population":236600,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

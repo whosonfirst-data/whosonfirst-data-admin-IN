@@ -13,12 +13,19 @@
     "gn:longitude":73.4629,
     "gn:population":18858,
     "iso:country":"IN",
-    "lbl:latitude":16.056961,
-    "lbl:longitude":73.470691,
+    "ks:ks_id":"KS16C28C066FDC4E0AB4A8D57A10E85D6A",
+    "ks:ks_name":"Malwan",
+    "ks:ks_pop":18680,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2103563",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_374702",
+    "lbl:latitude":16.056383,
+    "lbl:longitude":73.47193,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":16.056395,
-    "mps:longitude":73.465387,
+    "mps:latitude":16.056383,
+    "mps:longitude":73.47193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,7 +40,10 @@
         "M\u0101lvan"
     ],
     "name:eng_x_preferred":[
-        "Malvan"
+        "Malwan"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101lvan"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0932\u0935\u0928"
@@ -88,10 +98,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":2272,
     "wof:belongsto":[
         102191569,
@@ -103,13 +115,16 @@
     "wof:concordances":{
         "gn:id":1264007,
         "gp:id":2292911,
+        "ks:id":"KS16C28C066FDC4E0AB4A8D57A10E85D6A",
         "qs_pg:id":370365,
         "wd:id":"Q2450888",
         "wk:page":"Malvan"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ad2f49b907325f45bdb5b327280c819c",
     "wof:hierarchy":[
@@ -122,11 +137,11 @@
         }
     ],
     "wof:id":102029483,
-    "wof:lastmodified":1658780753,
-    "wof:name":"M\u0101lvan",
+    "wof:lastmodified":1682523938,
+    "wof:name":"Malwan",
     "wof:parent_id":1108696313,
     "wof:placetype":"locality",
-    "wof:population":18858,
+    "wof:population":18680,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

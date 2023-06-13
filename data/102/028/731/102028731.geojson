@@ -12,12 +12,21 @@
     "gn:latitude":9.17048,
     "gn:longitude":77.54107,
     "iso:country":"IN",
-    "lbl:latitude":9.175455,
-    "lbl:longitude":77.535325,
+    "ks:ks_alt_nam":"Sankarankovil",
+    "ks:ks_id":"KS61BD60A5BC2043E2B50FB19D7E6BB379",
+    "ks:ks_name":"Sankarankoil",
+    "ks:ks_pop":53606,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3329000242906000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_13524",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":9.179583,
+    "lbl:longitude":77.539119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":9.172602,
-    "mps:longitude":77.546997,
+    "mps:latitude":9.179583,
+    "mps:longitude":77.539119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,6 +51,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0a82\u0a95\u0ab0\u0a82\u0a95\u0acb\u0a88\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0902\u0915\u0930\u0928\u0915\u094b\u0932"
     ],
     "name:ita_x_preferred":[
         "Sankarankoil"
@@ -107,9 +119,12 @@
     "reversegeo:longitude":77.535325,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1060,
     "wof:belongsto":[
         102191569,
@@ -121,9 +136,14 @@
     "wof:concordances":{
         "gn:id":1257379,
         "gp:id":2295363,
+        "ks:id":"KS61BD60A5BC2043E2B50FB19D7E6BB379",
         "wd:id":"Q2231535"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"c1d7f73b20a82e9596c93ab52550b6c9",
     "wof:hierarchy":[
         {
@@ -135,10 +155,12 @@
         }
     ],
     "wof:id":102028731,
-    "wof:lastmodified":1658780774,
-    "wof:name":"Sankarankovil",
+    "wof:lastmodified":1686162205,
+    "wof:name":"Sankarankoil",
     "wof:parent_id":890507455,
     "wof:placetype":"locality",
+    "wof:population":53606,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,12 +13,20 @@
     "gn:longitude":78.32056,
     "gn:population":35238,
     "iso:country":"IN",
-    "lbl:latitude":20.719428,
-    "lbl:longitude":78.321066,
+    "ks:ks_id":"KS762D9FB7F6214F76BCD9D4C470542555",
+    "ks:ks_name":"Pulgaon",
+    "ks:ks_pop":36522,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|868732",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_873137",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.719475,
+    "lbl:longitude":78.318183,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":20.730428,
-    "mps:longitude":78.327026,
+    "mps:latitude":20.719475,
+    "mps:longitude":78.318183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -95,10 +103,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":1947,
     "wof:belongsto":[
         102191569,
@@ -110,13 +120,16 @@
     "wof:concordances":{
         "gn:id":1259272,
         "gp:id":2292279,
+        "ks:id":"KS762D9FB7F6214F76BCD9D4C470542555",
         "qs_pg:id":276281,
         "wd:id":"Q2719107",
         "wk:page":"Pulgaon"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"2a3593947343d963b9f19ca8d11306fc",
     "wof:hierarchy":[
@@ -129,11 +142,11 @@
         }
     ],
     "wof:id":102028967,
-    "wof:lastmodified":1658780782,
+    "wof:lastmodified":1682523613,
     "wof:name":"Pulgaon",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
-    "wof:population":35238,
+    "wof:population":36522,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

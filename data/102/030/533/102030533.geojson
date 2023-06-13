@@ -11,12 +11,20 @@
     "geom:longitude":79.588544,
     "gn:population":111594,
     "iso:country":"IN",
-    "lbl:latitude":24.919816,
-    "lbl:longitude":79.583895,
+    "ks:ks_id":"KS57645DD35FB5446BBAD0E4E61944DE50",
+    "ks:ks_name":"Chhatarpur",
+    "ks:ks_pop":109078,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2309000440908000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1041275",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":24.903709,
+    "lbl:longitude":79.592948,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":24.918979,
-    "mps:longitude":79.588415,
+    "mps:latitude":24.903709,
+    "mps:longitude":79.592948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -165,10 +173,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":305.0,
     "wd:latitude":24.9,
     "wd:longitude":79.6,
@@ -184,13 +194,16 @@
         "fct:id":"122d2882-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1274337,
         "gp:id":2292339,
+        "ks:id":"KS57645DD35FB5446BBAD0E4E61944DE50",
         "qs_pg:id":276431,
         "wd:id":"Q1071519",
         "wk:page":"Chhatarpur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"3479188d754dbb1ebf742b060f03d303",
     "wof:hierarchy":[
@@ -206,11 +219,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780727,
+    "wof:lastmodified":1686162179,
     "wof:name":"Chhatarpur",
     "wof:parent_id":890507573,
     "wof:placetype":"locality",
-    "wof:population":111594,
+    "wof:population":109078,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

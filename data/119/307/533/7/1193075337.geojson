@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.61279,24.61361,87.61279,24.61361",
-    "geom:latitude":24.61361,
-    "geom:longitude":87.61279,
+    "geom:bbox":"87.610189,24.611442,87.610983,24.612616",
+    "geom:latitude":24.612001,
+    "geom:longitude":87.610573,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"353.0",
     "gn:asciiname":"Sijua",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.59279,24.59361,87.63279,24.63361",
+    "ks:ks_id":"KSAAF88CCBCB4048B0905B7F98856B9754",
+    "ks:ks_name":"Sijua",
+    "ks:ks_pop":981,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13515087",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1202286",
+    "lbl:latitude":24.611975,
+    "lbl:longitude":87.61054,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.611975,
+    "mps:longitude":87.61054,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u099c\u09c1\u09f1\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Sijua"
+    ],
+    "name:eng_x_preferred":[
         "Sijua"
     ],
     "name:ita_x_preferred":[
@@ -51,7 +64,13 @@
     "name:vie_x_preferred":[
         "Sijua"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11016364
+        "gn:id":11016364,
+        "ks:id":"KSAAF88CCBCB4048B0905B7F98856B9754"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a807510fc9731e49e6c6403b7690f523",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4cd523a1f0ef35166d3cbac9af730dad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +97,22 @@
         }
     ],
     "wof:id":1193075337,
-    "wof:lastmodified":1566697326,
+    "wof:lastmodified":1682585874,
     "wof:name":"Sijua",
     "wof:parent_id":1108696107,
     "wof:placetype":"locality",
+    "wof:population":981,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.61279,
-    24.61361,
-    87.61279,
-    24.61361
+    87.610189,
+    24.611442,
+    87.610983,
+    24.612616
 ],
-  "geometry": {"coordinates":[87.61279,24.61361],"type":"Point"}
+  "geometry": {"coordinates":[[[87.610983,24.612524],[87.610983,24.612433],[87.610884,24.612434],[87.610882,24.612073],[87.610783,24.612073],[87.610781,24.611531],[87.61058300000001,24.611532],[87.61058300000001,24.611442],[87.610286,24.611443],[87.610288,24.611714],[87.61018900000001,24.611714],[87.61019,24.611895],[87.61028899999999,24.611894],[87.61029000000001,24.612165],[87.610389,24.612165],[87.61039,24.612346],[87.610488,24.612345],[87.610489,24.612435],[87.61058800000001,24.612435],[87.61058800000001,24.612616],[87.610786,24.612615],[87.610786,24.612525],[87.610983,24.612524]]],"type":"Polygon"}
 }

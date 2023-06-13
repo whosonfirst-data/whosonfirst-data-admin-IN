@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.7109,21.15487,82.7109,21.15487",
-    "geom:latitude":21.15487,
-    "geom:longitude":82.7109,
+    "geom:bbox":"82.709504,21.154244,82.711121,21.155321",
+    "geom:latitude":21.154768,
+    "geom:longitude":82.710312,
     "gn:admin1_code":"21",
     "gn:admin2_code":"370.0",
     "gn:asciiname":"Jodhpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.6909,21.13487,82.7309,21.17487",
+    "ks:ks_id":"KSF74934FBABCB47FEBA51493F4BD286F6",
+    "ks:ks_name":"Jodhpur",
+    "ks:ks_pop":444,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|467913",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_995766",
+    "lbl:latitude":21.154783,
+    "lbl:longitude":82.710313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.154783,
+    "mps:longitude":82.710313,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jodhpur"
@@ -71,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03bd\u03c4\u03c7\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Jodhpur"
     ],
     "name:epo_x_preferred":[
         "\u011codhpur"
@@ -231,7 +244,13 @@
     "name:zho_x_preferred":[
         "\u7126\u7279\u5e03\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -240,10 +259,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10709750
+        "gn:id":10709750,
+        "ks:id":"KSF74934FBABCB47FEBA51493F4BD286F6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ff60c90e750a3d16d0122864b6cb48e3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"150b5d07d0eb662566fdd6f9f5fc1533",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,20 +277,22 @@
         }
     ],
     "wof:id":1292974709,
-    "wof:lastmodified":1576021088,
+    "wof:lastmodified":1686162509,
     "wof:name":"Jodhpur",
     "wof:parent_id":890510623,
     "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.7109,
-    21.15487000000001,
-    82.7109,
-    21.15487000000001
+    82.709504,
+    21.154244,
+    82.711121,
+    21.155321
 ],
-  "geometry": {"coordinates":[82.7109,21.15487000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[82.71112100000001,21.155052],[82.71112100000001,21.154783],[82.710852,21.154783],[82.710852,21.154513],[82.71112100000001,21.154513],[82.71112100000001,21.154244],[82.710043,21.154244],[82.710043,21.154513],[82.709504,21.154513],[82.709504,21.155052],[82.709774,21.155052],[82.709774,21.155321],[82.710582,21.155321],[82.710582,21.155052],[82.71112100000001,21.155052]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.19191,24.6943,83.19191,24.6943",
-    "geom:latitude":24.6943,
-    "geom:longitude":83.19191,
+    "geom:bbox":"83.190935,24.693221,83.192622,24.69521",
+    "geom:latitude":24.694192,
+    "geom:longitude":83.191721,
     "gn:admin1_code":"36",
     "gn:admin2_code":"200.0",
     "gn:asciiname":"Sanda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.17191,24.6743,83.21191,24.7143",
+    "ks:ks_id":"KSECCB2224832744CF952C42AD53D5D777",
+    "ks:ks_name":"Sanda",
+    "ks:ks_pop":600,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|947950",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1032431",
+    "lbl:latitude":24.694157,
+    "lbl:longitude":83.191789,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.694157,
+    "mps:longitude":83.191789,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430"
@@ -37,6 +47,9 @@
         "Sanda"
     ],
     "name:deu_x_preferred":[
+        "Sanda"
+    ],
+    "name:eng_x_preferred":[
         "Sanda"
     ],
     "name:fra_x_preferred":[
@@ -66,7 +79,13 @@
     "name:swe_x_preferred":[
         "Sanda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10515140
+        "gn:id":10515140,
+        "ks:id":"KSECCB2224832744CF952C42AD53D5D777"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bc6cc2a6d82e6bd1d77922e04a1971ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dcec720948f0570907b494bb906fc95b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1293044029,
-    "wof:lastmodified":1566690704,
+    "wof:lastmodified":1682803610,
     "wof:name":"Sanda",
     "wof:parent_id":1108695887,
     "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.19191,
-    24.6943,
-    83.19191,
-    24.6943
+    83.190935,
+    24.693221,
+    83.192622,
+    24.69521
 ],
-  "geometry": {"coordinates":[83.19190999999999,24.6943],"type":"Point"}
+  "geometry": {"coordinates":[[[83.191948,24.695202],[83.191947,24.695112],[83.19204499999999,24.695111],[83.192044,24.695021],[83.192143,24.695019],[83.19214100000001,24.694929],[83.19224,24.694927],[83.192238,24.694837],[83.19233699999999,24.694836],[83.19233199999999,24.694565],[83.192431,24.694564],[83.192426,24.694293],[83.192525,24.694291],[83.19252400000001,24.694201],[83.192622,24.6942],[83.192616,24.693839],[83.192517,24.69384],[83.192514,24.69366],[83.192415,24.693661],[83.192414,24.693571],[83.19231499999999,24.693572],[83.192313,24.693482],[83.192116,24.693485],[83.192114,24.693395],[83.19171900000001,24.6934],[83.191717,24.69331],[83.191619,24.693312],[83.19161699999999,24.693221],[83.191123,24.693229],[83.191125,24.693319],[83.19102599999999,24.69332],[83.191034,24.693771],[83.190935,24.693773],[83.190941,24.694134],[83.19104,24.694132],[83.19104299999999,24.694313],[83.191142,24.694312],[83.191153,24.694943],[83.19105399999999,24.694945],[83.191058,24.695125],[83.191453,24.695119],[83.19145399999999,24.69521],[83.191948,24.695202]]],"type":"Polygon"}
 }

@@ -12,12 +12,19 @@
     "gn:latitude":30.51572,
     "gn:longitude":79.0918,
     "iso:country":"IN",
-    "lbl:latitude":30.513541,
-    "lbl:longitude":79.095338,
+    "ks:ks_id":"KSA01BDEE157F04580AC59FDD3FF6E742A",
+    "ks:ks_name":"Ukhimath",
+    "ks:ks_pop":2182,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1070942",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2641449",
+    "lbl:latitude":30.51273,
+    "lbl:longitude":79.094238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":30.516764,
-    "mps:longitude":79.094079,
+    "mps:latitude":30.51273,
+    "mps:longitude":79.094238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -88,9 +95,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":253,
     "wof:belongsto":[
         102191569,
@@ -102,13 +112,16 @@
     "wof:concordances":{
         "gn:id":1253905,
         "gp:id":2287770,
+        "ks:id":"KSA01BDEE157F04580AC59FDD3FF6E742A",
         "qs_pg:id":1014558,
         "wd:id":"Q16902264",
         "wk:page":"Ukhimath"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"4d993df15ca0c890c09bbfa2ad747d2f",
     "wof:hierarchy":[
@@ -121,10 +134,12 @@
         }
     ],
     "wof:id":102028367,
-    "wof:lastmodified":1658780783,
+    "wof:lastmodified":1682523189,
     "wof:name":"Ukhimath",
     "wof:parent_id":890502569,
     "wof:placetype":"locality",
+    "wof:population":2182,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

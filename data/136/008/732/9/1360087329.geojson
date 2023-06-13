@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.99813,18.29801,82.99813,18.29801",
-    "geom:latitude":18.29801,
-    "geom:longitude":82.99813,
+    "geom:bbox":"82.997594,18.297332,82.998402,18.29814",
+    "geom:latitude":18.297736,
+    "geom:longitude":82.997998,
     "gn:admin1_code":"2",
     "gn:admin2_code":"544.0",
     "gn:asciiname":"Kaliaguda",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.97813,18.27801,83.01813,18.31801",
+    "ks:ks_id":"KS6FFFAFE827A641049CF8A1657B22D75D",
+    "ks:ks_name":"Kolyaguda",
+    "ks:ks_pop":95,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|575463",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_446506",
+    "lbl:latitude":18.297736,
+    "lbl:longitude":82.997998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.297736,
+    "mps:longitude":82.997998,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kolyaguda"
+    ],
+    "name:eng_x_variant":[
+        "Kaliaguda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10766449
+        "gn:id":10766449,
+        "ks:id":"KS6FFFAFE827A641049CF8A1657B22D75D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"01b7fe682c1caeb727ed987465ee1fd9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05fb396979dcf33bb490e47f3b838e67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1360087329,
-    "wof:lastmodified":1566703163,
-    "wof:name":"Kaliaguda",
+    "wof:lastmodified":1682962807,
+    "wof:name":"Kolyaguda",
     "wof:parent_id":890506063,
     "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.99813,
-    18.29801,
-    82.99813,
-    18.29801
+    82.997594,
+    18.297332,
+    82.998402,
+    18.29814
 ],
-  "geometry": {"coordinates":[82.99813,18.29801],"type":"Point"}
+  "geometry": {"coordinates":[[[82.998402,18.297332],[82.99759400000001,18.297332],[82.99759400000001,18.29814],[82.998402,18.29814],[82.998402,18.297332]]],"type":"Polygon"}
 }

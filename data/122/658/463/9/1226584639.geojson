@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.11744,25.93141,85.11744,25.93141",
-    "geom:latitude":25.93141,
-    "geom:longitude":85.11744,
+    "geom:bbox":"85.116091,25.930765,85.119594,25.932113",
+    "geom:latitude":25.93133,
+    "geom:longitude":85.117842,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Hasanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.09744,25.91141,85.13744,25.95141",
+    "ks:ks_id":"KS6EFCE216D9964C5CBF072DABF0B204D6",
+    "ks:ks_name":"Hasanpur",
+    "ks:ks_pop":1232,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13507100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1384462",
+    "lbl:latitude":25.931339,
+    "lbl:longitude":85.118226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.931339,
+    "mps:longitude":85.118226,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0633\u0646 \u0628\u0648\u0631"
@@ -49,6 +59,9 @@
         "Hasanpur"
     ],
     "name:deu_x_preferred":[
+        "Hasanpur"
+    ],
+    "name:eng_x_preferred":[
         "Hasanpur"
     ],
     "name:fas_x_preferred":[
@@ -111,7 +124,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u6851\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +139,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010749
+        "gn:id":11010749,
+        "ks:id":"KS6EFCE216D9964C5CBF072DABF0B204D6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c370f1148fb29c84910dcd4c60be553a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d77541f9efca229322e899ff1a265cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +157,22 @@
         }
     ],
     "wof:id":1226584639,
-    "wof:lastmodified":1577754257,
+    "wof:lastmodified":1686165770,
     "wof:name":"Hasanpur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":1232,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.11744,
-    25.93141,
-    85.11744,
-    25.93141
+    85.116091,
+    25.930765,
+    85.119594,
+    25.932113
 ],
-  "geometry": {"coordinates":[85.11744,25.93141],"type":"Point"}
+  "geometry": {"coordinates":[[[85.118516,25.932113],[85.118516,25.931843],[85.11959400000001,25.931843],[85.11959400000001,25.931304],[85.118786,25.931304],[85.118786,25.930765],[85.116091,25.930765],[85.116091,25.931304],[85.116361,25.931304],[85.116361,25.931574],[85.11770799999999,25.931574],[85.11770799999999,25.932113],[85.118516,25.932113]]],"type":"Polygon"}
 }

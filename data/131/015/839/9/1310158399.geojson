@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.92986,26.42023,81.92986,26.42023",
-    "geom:latitude":26.42023,
-    "geom:longitude":81.92986,
+    "geom:bbox":"81.929856,26.419629,81.930934,26.420976",
+    "geom:latitude":26.420399,
+    "geom:longitude":81.93026,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Jagdispur",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.90986,26.40023,81.94986,26.44023",
+    "ks:ks_id":"KS813B77F0C5A0408C93B7F9CDF20144CA",
+    "ks:ks_name":"Jagdishpur",
+    "ks:ks_pop":401,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|440857",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_832464",
+    "lbl:latitude":26.420549,
+    "lbl:longitude":81.930261,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.420549,
+    "mps:longitude":81.930261,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jagd\u012bspur"
+    ],
+    "name:eng_x_preferred":[
+        "Jagdishpur"
+    ],
+    "name:eng_x_variant":[
+        "Jagdispur"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30b0\u30c7\u30a3\u30fc\u30b7\u30e5\u30d7\u30eb"
@@ -51,19 +67,29 @@
     "name:urd_x_preferred":[
         "\u062c\u06af\u062f\u06cc\u0633 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
-        890505631,
-        85672205
+        85672205,
+        890505631
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10577276
+        "gn:id":10577276,
+        "ks:id":"KS813B77F0C5A0408C93B7F9CDF20144CA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"02671446d35c020003682d9fc9b7ef40",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2c1236e50fdac190798b201e4031ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1310158399,
-    "wof:lastmodified":1587163120,
-    "wof:name":"Jagdispur",
+    "wof:lastmodified":1682855740,
+    "wof:name":"Jagdishpur",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.92986,
-    26.42023,
-    81.92986,
-    26.42023
+    81.929856,
+    26.419629,
+    81.930934,
+    26.420976
 ],
-  "geometry": {"coordinates":[81.92986000000001,26.42023],"type":"Point"}
+  "geometry": {"coordinates":[[[81.930395,26.419629],[81.929856,26.419629],[81.929856,26.420976],[81.93093399999999,26.420976],[81.93093399999999,26.420707],[81.930665,26.420707],[81.930665,26.420168],[81.930395,26.420168],[81.930395,26.419629]]],"type":"Polygon"}
 }

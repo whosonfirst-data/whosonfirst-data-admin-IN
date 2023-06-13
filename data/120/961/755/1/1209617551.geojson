@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        890507253
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10771742
     },
     "wof:country":"IN",
-    "wof:geomhash":"02a2ea8e85f57ad41d13299e48a5ffa2",
+    "wof:geomhash":"8bbecb323007888575e0d01ad32fed05",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209617551
+            "county_id":890507253,
+            "locality_id":1209617551,
+            "region_id":85672141
         }
     ],
     "wof:id":1209617551,
-    "wof:lastmodified":1566695981,
+    "wof:lastmodified":1682625836,
     "wof:name":"Soravarapalle",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847141205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.13956999999998,
-    16.03062000000001,
-    80.13956999999998,
-    16.03062000000001
+    80.13957,
+    16.03062,
+    80.13957,
+    16.03062
 ],
-  "geometry": {"coordinates":[80.13956999999998,16.03062000000001],"type":"Point"}
+  "geometry": {"coordinates":[80.13957000000001,16.03062],"type":"Point"}
 }

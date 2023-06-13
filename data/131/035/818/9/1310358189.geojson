@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.21725,27.14766,78.21725,27.14766",
-    "geom:latitude":27.14766,
-    "geom:longitude":78.21725,
+    "geom:bbox":"78.216854,27.147236,78.217754,27.148785",
+    "geom:latitude":27.14782,
+    "geom:longitude":78.217348,
     "gn:admin1_code":"36",
     "gn:admin2_code":"147.0",
     "gn:asciiname":"Rasulabad",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.19725,27.12766,78.23725,27.16766",
+    "ks:ks_alt_nam":"Ras\u016bl\u0101b\u0101d",
+    "ks:ks_id":"KSA9D072013BFC460A9959D7A8F951CC1C",
+    "ks:ks_name":"Rasulabad",
+    "ks:ks_pop":1242,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|913789",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1746833",
+    "lbl:latitude":27.147755,
+    "lbl:longitude":78.217355,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.147755,
+    "mps:longitude":78.217355,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09b8\u09c1\u09b2\u09be\u09ac\u09be\u09a6"
@@ -38,6 +49,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b1\u03c3\u03bf\u03c5\u03bb\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Rasulabad"
+    ],
+    "name:eng_x_variant":[
+        "Ras\u016bl\u0101b\u0101d"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0633\u0648\u0644\u200c\u0622\u0628\u0627\u062f"
@@ -69,7 +86,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u82cf\u62c9\u5df4\u5fb7"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10451757
+        "gn:id":10451757,
+        "ks:id":"KSA9D072013BFC460A9959D7A8F951CC1C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"55365b42b039dbbac5b4aafb92cc7ad9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d6dc55bc532fe689cbdabb5037725ff2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +119,22 @@
         }
     ],
     "wof:id":1310358189,
-    "wof:lastmodified":1566701926,
+    "wof:lastmodified":1682863597,
     "wof:name":"Rasulabad",
     "wof:parent_id":890511079,
     "wof:placetype":"locality",
+    "wof:population":1242,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.21725,
-    27.14766,
-    78.21725,
-    27.14766
+    78.216854,
+    27.147236,
+    78.217754,
+    27.148785
 ],
-  "geometry": {"coordinates":[78.21725000000001,27.14766],"type":"Point"}
+  "geometry": {"coordinates":[[[78.217533,27.148513],[78.21754199999999,27.148152],[78.217642,27.148154],[78.217645,27.148064],[78.21774499999999,27.148066],[78.217754,27.147705],[78.217654,27.147703],[78.21766,27.147433],[78.21755899999999,27.147431],[78.217562,27.14734],[78.217461,27.147338],[78.217463,27.147248],[78.216858,27.147236],[78.216854,27.147417],[78.216955,27.147419],[78.21694599999999,27.147779],[78.217046,27.147781],[78.21704200000001,27.147962],[78.21714299999999,27.147964],[78.21713800000001,27.148144],[78.21723900000001,27.148146],[78.217235,27.148326],[78.21733500000001,27.148328],[78.217331,27.148509],[78.217432,27.148511],[78.217427,27.148691],[78.217528,27.148693],[78.21752600000001,27.148783],[78.21762699999999,27.148785],[78.21763300000001,27.148515],[78.217533,27.148513]]],"type":"Polygon"}
 }

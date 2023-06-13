@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.13446,30.3978,78.13446,30.3978",
-    "geom:latitude":30.3978,
-    "geom:longitude":78.13446,
+    "geom:bbox":"78.129444,30.386319,78.130791,30.387397",
+    "geom:latitude":30.386888,
+    "geom:longitude":78.130177,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"60.0",
     "gn:asciiname":"Bagra Dhoran",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.11446,30.3778,78.15446,30.4178",
+    "ks:ks_id":"KS4626D20644754246B7AFE4C055DE7E89",
+    "ks:ks_name":"Bagradhauran",
+    "ks:ks_pop":284,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|68746",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_2159876",
+    "lbl:latitude":30.386858,
+    "lbl:longitude":78.130231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.386858,
+    "mps:longitude":78.130231,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bagradhauran"
+    ],
+    "name:eng_x_variant":[
+        "Bagra Dhoran"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10323209
+        "gn:id":10323209,
+        "ks:id":"KS4626D20644754246B7AFE4C055DE7E89"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d03ea49780b5adbbc1f14c1f646d30f3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9e8da815b189eb6e51675bc077687a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1310041407,
-    "wof:lastmodified":1566701915,
-    "wof:name":"Bagra Dhoran",
+    "wof:lastmodified":1682849544,
+    "wof:name":"Bagradhauran",
     "wof:parent_id":890507905,
     "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.13446,
-    30.3978,
-    78.13446,
-    30.3978
+    78.129444,
+    30.386319,
+    78.130791,
+    30.387397
 ],
-  "geometry": {"coordinates":[78.13446,30.3978],"type":"Point"}
+  "geometry": {"coordinates":[[[78.130791,30.387397],[78.130791,30.386319],[78.129713,30.386319],[78.129713,30.386858],[78.12944400000001,30.386858],[78.12944400000001,30.387397],[78.130791,30.387397]]],"type":"Polygon"}
 }

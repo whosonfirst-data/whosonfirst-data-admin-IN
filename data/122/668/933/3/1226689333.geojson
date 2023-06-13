@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.5302,30.05927,77.5302,30.05927",
-    "geom:latitude":30.05927,
-    "geom:longitude":77.5302,
+    "geom:bbox":"77.526866,30.058132,77.52906,30.059942",
+    "geom:latitude":30.058996,
+    "geom:longitude":77.527948,
     "gn:admin1_code":"36",
     "gn:admin2_code":"132.0",
     "gn:asciiname":"Azampura",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.5102,30.03927,77.5502,30.07927",
+    "ks:ks_id":"KS6B19D3CD206D45009CD258004ADF4997",
+    "ks:ks_name":"Azampura",
+    "ks:ks_pop":300,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|19712",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2624166",
+    "lbl:latitude":30.058995,
+    "lbl:longitude":77.527927,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.058995,
+    "mps:longitude":77.527927,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0632\u0627\u0645\u0628\u0648\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0986\u099c\u09ae\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Azampura"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a9d\u0aae\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0639\u0638\u0645 \u067e\u0648\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10743983
+        "gn:id":10743983,
+        "ks:id":"KS6B19D3CD206D45009CD258004ADF4997"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7ae2ad6183ef5d75a62754f54b84a9aa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8a58c075cd99352f8773588784b769b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1226689333,
-    "wof:lastmodified":1576022731,
+    "wof:lastmodified":1682677077,
     "wof:name":"Azampura",
     "wof:parent_id":890504131,
     "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.5302,
-    30.05927,
-    77.5302,
-    30.05927
+    77.526866,
+    30.058132,
+    77.52906,
+    30.059942
 ],
-  "geometry": {"coordinates":[77.53019999999999,30.05927],"type":"Point"}
+  "geometry": {"coordinates":[[[77.528353,30.059934],[77.528351,30.059843],[77.528558,30.059839],[77.52855599999999,30.059749],[77.52866,30.059747],[77.528657,30.059657],[77.528761,30.059655],[77.52875899999999,30.059565],[77.528862,30.059563],[77.528858,30.059383],[77.528961,30.059381],[77.52895700000001,30.0592],[77.52906,30.059198],[77.52904700000001,30.058657],[77.528943,30.058659],[77.528941,30.058569],[77.528837,30.058571],[77.528835,30.058481],[77.52873099999999,30.058483],[77.528729,30.058393],[77.52862500000001,30.058395],[77.528623,30.058305],[77.528519,30.058307],[77.52851699999999,30.058217],[77.528206,30.058223],[77.528204,30.058132],[77.52737500000001,30.058148],[77.527377,30.058239],[77.527066,30.058245],[77.527068,30.058335],[77.526965,30.058337],[77.52696899999999,30.058517],[77.526866,30.058519],[77.52687899999999,30.05906],[77.526983,30.059058],[77.52699200000001,30.059419],[77.527096,30.059417],[77.527098,30.059507],[77.527202,30.059505],[77.52720600000001,30.059685],[77.52741399999999,30.059681],[77.527416,30.059771],[77.52752,30.059769],[77.527522,30.059859],[77.527936,30.059851],[77.527939,30.059942],[77.528353,30.059934]]],"type":"Polygon"}
 }

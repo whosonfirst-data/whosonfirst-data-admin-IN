@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.97503,31.44473,74.97503,31.44473",
-    "geom:latitude":31.44473,
-    "geom:longitude":74.97503,
+    "geom:bbox":"74.973025,31.443109,74.975446,31.444914",
+    "geom:latitude":31.444027,
+    "geom:longitude":74.974253,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"50.0",
     "gn:asciiname":"Alawalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.95503,31.42473,74.99503,31.46473",
+    "ks:ks_id":"KS36DAAD549A964061801BB448A7C004C2",
+    "ks:ks_name":"Alawalpur",
+    "ks:ks_pop":302,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1154444",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2516355",
+    "lbl:latitude":31.444101,
+    "lbl:longitude":74.97423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.444101,
+    "mps:longitude":74.97423,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09be\u09f1\u09b2\u09aa\u09c1\u09b0"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Al\u0101walpur"
+    ],
+    "name:eng_x_preferred":[
+        "Alawalpur"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0627\u0644\u0627\u0648\u0627\u0644\u200c\u067e\u0648\u0631"
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u963f\u62c9\u74e6\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695849
+        "gn:id":10695849,
+        "ks:id":"KS36DAAD549A964061801BB448A7C004C2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3a1cfa384ef83d1522c334abf686962c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d0d2b0d406026e152c850f3a86343fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1310161835,
-    "wof:lastmodified":1566701615,
+    "wof:lastmodified":1682856217,
     "wof:name":"Alawalpur",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.97503,
-    31.44473,
-    74.97503,
-    31.44473
+    74.973025,
+    31.443109,
+    74.975446,
+    31.444914
 ],
-  "geometry": {"coordinates":[74.97503,31.44473],"type":"Point"}
+  "geometry": {"coordinates":[[[74.97492,31.444914],[74.97492,31.444823],[74.97512999999999,31.444823],[74.97512999999999,31.444733],[74.975235,31.444733],[74.975235,31.444553],[74.975341,31.444553],[74.975341,31.444462],[74.975235,31.444462],[74.975235,31.444282],[74.975341,31.444282],[74.975341,31.44365],[74.97544600000001,31.44365],[74.97544600000001,31.44338],[74.975341,31.44338],[74.975341,31.44329],[74.97512999999999,31.44329],[74.97512999999999,31.44338],[74.974394,31.44338],[74.974394,31.443289],[74.973973,31.443289],[74.973973,31.443199],[74.973657,31.443199],[74.973657,31.443109],[74.97344699999999,31.443109],[74.97344699999999,31.443199],[74.973341,31.443199],[74.973341,31.443289],[74.973236,31.443289],[74.973236,31.443379],[74.973131,31.443379],[74.973131,31.44365],[74.973026,31.44365],[74.97302500000001,31.443921],[74.973131,31.443921],[74.973131,31.444101],[74.973236,31.444101],[74.973236,31.444372],[74.973341,31.444372],[74.973341,31.444643],[74.973551,31.444643],[74.973551,31.444733],[74.97376199999999,31.444733],[74.97376199999999,31.444823],[74.97407800000001,31.444823],[74.97407800000001,31.444913],[74.97492,31.444914]]],"type":"Polygon"}
 }

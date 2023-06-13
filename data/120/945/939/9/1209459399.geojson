@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696225
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10706029
     },
     "wof:country":"IN",
-    "wof:geomhash":"7904c56e3bd04d78e9ce10111b9f2d2d",
+    "wof:geomhash":"243c73bfa4c95fcfbc81c22887cbbe24",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209459399
+            "county_id":1108696225,
+            "locality_id":1209459399,
+            "region_id":85672239
         }
     ],
     "wof:id":1209459399,
-    "wof:lastmodified":1566696780,
+    "wof:lastmodified":1682619864,
     "wof:name":"Painpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847147545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.61570999999998,
+    75.61571,
     21.70255,
-    75.61570999999998,
+    75.61571,
     21.70255
 ],
-  "geometry": {"coordinates":[75.61570999999998,21.70255],"type":"Point"}
+  "geometry": {"coordinates":[75.61571000000001,21.70255],"type":"Point"}
 }

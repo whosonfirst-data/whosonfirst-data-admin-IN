@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.84305,12.69336,75.84305,12.69336",
-    "geom:latitude":12.69336,
-    "geom:longitude":75.84305,
+    "geom:bbox":"75.844449,12.693404,75.846659,12.694221",
+    "geom:latitude":12.693809,
+    "geom:longitude":75.845695,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Hosur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.82305,12.67336,75.86305,12.71336",
+    "ks:ks_id":"KSF1A77F79C8BE4DB7996EF8AC04C72BAC",
+    "ks:ks_name":"Hosur",
+    "ks:ks_pop":733,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000102456200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_256799",
+    "lbl:latitude":12.693813,
+    "lbl:longitude":75.845827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":12.693813,
+    "mps:longitude":75.845827,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0648\u0631"
@@ -52,6 +62,9 @@
         "Hos\u016br"
     ],
     "name:deu_x_preferred":[
+        "Hosur"
+    ],
+    "name:eng_x_preferred":[
         "Hosur"
     ],
     "name:guj_x_preferred":[
@@ -108,7 +121,13 @@
     "name:zho_x_preferred":[
         "\u970d\u82cf\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +136,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10904275
+        "gn:id":10904275,
+        "ks:id":"KSF1A77F79C8BE4DB7996EF8AC04C72BAC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1d81c3f9ce79b6a2c97ec6c05b024d2a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b3579de4132e18471c59b05b45579b99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +154,22 @@
         }
     ],
     "wof:id":1209777803,
-    "wof:lastmodified":1577750772,
+    "wof:lastmodified":1682632999,
     "wof:name":"Hosur",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.84305,
-    12.69336,
-    75.84305,
-    12.69336
+    75.844449,
+    12.693404,
+    75.846659,
+    12.694221
 ],
-  "geometry": {"coordinates":[75.84305000000001,12.69336],"type":"Point"}
+  "geometry": {"coordinates":[[[75.84444999999999,12.694043],[75.84491,12.694042],[75.84491,12.694132],[75.845371,12.694131],[75.845371,12.694221],[75.84601600000001,12.694219],[75.84601600000001,12.694129],[75.8462,12.694128],[75.846199,12.694038],[75.846384,12.694037],[75.846383,12.693947],[75.846475,12.693946],[75.846475,12.693856],[75.84656699999999,12.693856],[75.84656699999999,12.693765],[75.846659,12.693765],[75.84665800000001,12.693494],[75.84638200000001,12.693495],[75.84638200000001,12.693404],[75.845645,12.693407],[75.845645,12.693497],[75.84509300000001,12.693499],[75.84509300000001,12.693589],[75.845001,12.693589],[75.845001,12.69368],[75.844909,12.69368],[75.844909,12.693771],[75.84481700000001,12.693771],[75.84481700000001,12.693861],[75.844725,12.693862],[75.84472599999999,12.693952],[75.844449,12.693953],[75.84444999999999,12.694043]]],"type":"Polygon"}
 }

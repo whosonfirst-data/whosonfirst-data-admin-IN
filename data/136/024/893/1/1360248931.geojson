@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.21463,21.00693,76.21463,21.00693",
-    "geom:latitude":21.00693,
-    "geom:longitude":76.21463,
+    "geom:bbox":"76.210935,21.00071,76.21334,21.002167",
+    "geom:latitude":21.001385,
+    "geom:longitude":76.212072,
     "gn:admin1_code":"16",
     "gn:admin2_code":"500.0",
     "gn:asciiname":"Chincholi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.19463,20.98693,76.23463,21.02693",
+    "ks:ks_id":"KSC372F63161A54BEE988C6DA6906D8AAD",
+    "ks:ks_name":"Chinchol",
+    "ks:ks_pop":392,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|224796",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_856315",
+    "lbl:latitude":21.001349,
+    "lbl:longitude":76.212095,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.001349,
+    "mps:longitude":76.212095,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a8\u099a\u09cb\u09b2\u09bf"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Chincholi Taluk"
+    ],
+    "name:eng_x_preferred":[
+        "Chinchol"
+    ],
+    "name:eng_x_variant":[
+        "Chincholi"
     ],
     "name:ita_x_preferred":[
         "Chincholi"
@@ -72,7 +88,13 @@
     "name:zho_x_preferred":[
         "\u5947\u6069\u4e54\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10475392
+        "gn:id":10475392,
+        "ks:id":"KSC372F63161A54BEE988C6DA6906D8AAD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"20606e38c11cca43632633d617e95355",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"144326df8d9261f9ff39b504a804e291",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1360248931,
-    "wof:lastmodified":1566702403,
-    "wof:name":"Chincholi",
+    "wof:lastmodified":1682970166,
+    "wof:name":"Chinchol",
     "wof:parent_id":890502785,
     "wof:placetype":"locality",
+    "wof:population":392,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.21463,
-    21.00693,
-    76.21463,
-    21.00693
+    76.210935,
+    21.00071,
+    76.21334,
+    21.002167
 ],
-  "geometry": {"coordinates":[76.21463,21.00693],"type":"Point"}
+  "geometry": {"coordinates":[[[76.211614,21.002165],[76.211614,21.002075],[76.211806,21.002073],[76.211805,21.001983],[76.21199799999999,21.001982],[76.211997,21.001891],[76.21228600000001,21.001889],[76.21228499999999,21.001799],[76.21247700000001,21.001798],[76.21247700000001,21.001707],[76.21266900000001,21.001706],[76.21266799999999,21.001616],[76.212957,21.001613],[76.21295600000001,21.001523],[76.213245,21.001521],[76.213244,21.001431],[76.21334,21.00143],[76.21333799999999,21.001159],[76.21324199999999,21.00116],[76.21324,21.000979],[76.213144,21.00098],[76.213143,21.000889],[76.213047,21.00089],[76.21304600000001,21.0008],[76.21295000000001,21.0008],[76.21295000000001,21.00071],[76.212372,21.000714],[76.212373,21.000805],[76.21189200000001,21.000808],[76.211893,21.000898],[76.21160399999999,21.0009],[76.21160500000001,21.000991],[76.211316,21.000993],[76.21131699999999,21.001083],[76.21122099999999,21.001084],[76.21122200000001,21.001174],[76.211125,21.001175],[76.21112599999999,21.001265],[76.21102999999999,21.001266],[76.21103100000001,21.001446],[76.21093500000001,21.001447],[76.210938,21.001809],[76.211034,21.001808],[76.21103599999999,21.001988],[76.21113200000001,21.001988],[76.211133,21.002078],[76.211325,21.002077],[76.211326,21.002167],[76.211614,21.002165]]],"type":"Polygon"}
 }

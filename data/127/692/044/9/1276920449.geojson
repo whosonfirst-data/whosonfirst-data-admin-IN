@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.5601,22.05028,76.5601,22.05028",
-    "geom:latitude":22.05028,
-    "geom:longitude":76.5601,
+    "geom:bbox":"76.55946,22.049641,76.56092,22.050548",
+    "geom:latitude":22.050137,
+    "geom:longitude":76.560143,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"466.0",
     "gn:asciiname":"Bhilai",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.5401,22.03028,76.5801,22.07028",
+    "ks:ks_alt_nam":"Bh\u012bl\u0101i",
+    "ks:ks_id":"KS69D6B0E3D04C4112803AF526FA4B8A85",
+    "ks:ks_name":"Bhilai",
+    "ks:ks_pop":142,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|149836",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_863539",
+    "lbl:latitude":22.050138,
+    "lbl:longitude":76.560084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.050138,
+    "mps:longitude":76.560084,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u064a"
@@ -62,6 +73,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03bb\u03ac\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Bhilai"
+    ],
+    "name:eng_x_variant":[
+        "Bh\u012bl\u0101i"
     ],
     "name:epo_x_preferred":[
         "Bhilai"
@@ -192,7 +209,13 @@
     "name:zho_x_preferred":[
         "\u6bd4\u840a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -201,10 +224,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10865912
+        "gn:id":10865912,
+        "ks:id":"KS69D6B0E3D04C4112803AF526FA4B8A85"
     },
     "wof:country":"IN",
-    "wof:geomhash":"405c46f2ca7605cee7173ad2702b85ad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82bb8e79322de4f7008b34867b5a8aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,20 +242,22 @@
         }
     ],
     "wof:id":1276920449,
-    "wof:lastmodified":1636505466,
+    "wof:lastmodified":1686162606,
     "wof:name":"Bhilai",
     "wof:parent_id":1108696261,
     "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.5601,
-    22.05028,
-    76.5601,
-    22.05028
+    76.55946,
+    22.049641,
+    76.56092,
+    22.050548
 ],
-  "geometry": {"coordinates":[76.56010000000001,22.05028],"type":"Point"}
+  "geometry": {"coordinates":[[[76.56092,22.050446],[76.560917,22.050175],[76.56082000000001,22.050176],[76.560818,22.049995],[76.560721,22.049996],[76.56072,22.049906],[76.56052699999999,22.049908],[76.560526,22.049817],[76.560332,22.049819],[76.56033100000001,22.049729],[76.56004,22.049732],[76.560039,22.049641],[76.559652,22.049645],[76.559653,22.049735],[76.559556,22.049736],[76.559557,22.049827],[76.55946,22.049828],[76.55946400000001,22.050189],[76.559561,22.050188],[76.559563,22.050369],[76.55965999999999,22.050368],[76.559662,22.050548],[76.560727,22.050538],[76.560726,22.050448],[76.56092,22.050446]]],"type":"Polygon"}
 }

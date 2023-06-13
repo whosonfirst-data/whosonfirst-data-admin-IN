@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.49013,21.50722,83.49013,21.50722",
-    "geom:latitude":21.50722,
-    "geom:longitude":83.49013,
+    "geom:bbox":"83.489792,21.506523,83.491044,21.507529",
+    "geom:latitude":21.507028,
+    "geom:longitude":83.490326,
     "gn:admin1_code":"21",
     "gn:admin2_code":"370.0",
     "gn:asciiname":"Kandaipali",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.47013,21.48722,83.51013,21.52722",
+    "ks:ks_id":"KS446DE89D1BC544E3BBDF1558B630F788",
+    "ks:ks_name":"Kandhaipali",
+    "ks:ks_pop":257,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|501428",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_964637",
+    "lbl:latitude":21.506989,
+    "lbl:longitude":83.490314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.506989,
+    "mps:longitude":83.490314,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kandhaipali"
+    ],
+    "name:eng_x_variant":[
+        "Kandaipali"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10750586
+        "gn:id":10750586,
+        "ks:id":"KS446DE89D1BC544E3BBDF1558B630F788"
     },
     "wof:country":"IN",
-    "wof:geomhash":"414ca8d388b5dff98a0946cd61e7d590",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2d6c05db26d8968f6cea87116d2661e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1209874927,
-    "wof:lastmodified":1566696709,
-    "wof:name":"Kandaipali",
+    "wof:lastmodified":1682636836,
+    "wof:name":"Kandhaipali",
     "wof:parent_id":890510623,
     "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.49013000000002,
-    21.50722,
-    83.49013000000002,
-    21.50722
+    83.489792,
+    21.506523,
+    83.491044,
+    21.507529
 ],
-  "geometry": {"coordinates":[83.49013000000002,21.50722],"type":"Point"}
+  "geometry": {"coordinates":[[[83.491044,21.506968],[83.491043,21.506878],[83.49094599999999,21.50688],[83.490945,21.506789],[83.490848,21.506791],[83.490847,21.506701],[83.49075000000001,21.506702],[83.49074899999999,21.506612],[83.490652,21.506613],[83.490651,21.506523],[83.49026499999999,21.506529],[83.490267,21.506619],[83.49007400000001,21.506622],[83.490075,21.506712],[83.48997900000001,21.506713],[83.48998,21.506804],[83.489884,21.506805],[83.48988799999999,21.507076],[83.48979199999999,21.507077],[83.4898,21.507529],[83.49037800000001,21.50752],[83.490377,21.50743],[83.49047299999999,21.507428],[83.490472,21.507338],[83.49066500000001,21.507335],[83.490662,21.507155],[83.490758,21.507153],[83.490757,21.507063],[83.490853,21.507062],[83.49085100000001,21.506971],[83.491044,21.506968]]],"type":"Polygon"}
 }

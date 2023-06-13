@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.53054,27.46546,80.53054,27.46546",
-    "geom:latitude":27.46546,
-    "geom:longitude":80.53054,
+    "geom:bbox":"80.529745,27.464311,80.531466,27.466299",
+    "geom:latitude":27.46529,
+    "geom:longitude":80.530555,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Mankapur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.51054,27.44546,80.55054,27.48546",
+    "ks:ks_id":"KS2B315B183CBA461C839087FAF16B26CD",
+    "ks:ks_name":"Manikapur",
+    "ks:ks_pop":100,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|673474",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1903591",
+    "lbl:latitude":27.46531,
+    "lbl:longitude":80.530572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.46531,
+    "mps:longitude":80.530572,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a8\u0995\u09be\u09aa\u09c1\u09b0"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Mank\u0101pur"
+    ],
+    "name:eng_x_preferred":[
+        "Manikapur"
+    ],
+    "name:eng_x_variant":[
+        "Mankapur"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0928\u0915\u093e\u092a\u0941\u0930"
@@ -75,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u66fc\u5361\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920150
+        "gn:id":10920150,
+        "ks:id":"KS2B315B183CBA461C839087FAF16B26CD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5104745450ab5dbe79a30d756cace063",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22860af1510e1428097cb8adb3ad2871",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +124,22 @@
         }
     ],
     "wof:id":1310640529,
-    "wof:lastmodified":1566701234,
-    "wof:name":"Mankapur",
+    "wof:lastmodified":1682872962,
+    "wof:name":"Manikapur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.53054,
-    27.46546,
-    80.53054,
-    27.46546
+    80.529745,
+    27.464311,
+    80.531466,
+    27.466299
 ],
-  "geometry": {"coordinates":[80.53054,27.46546],"type":"Point"}
+  "geometry": {"coordinates":[[[80.530551,27.466299],[80.530551,27.466209],[80.530956,27.46621],[80.530956,27.46612],[80.531159,27.46612],[80.531159,27.46603],[80.53126,27.466031],[80.531261,27.46594],[80.531362,27.465941],[80.531362,27.46585],[80.531464,27.465851],[80.53146599999999,27.465219],[80.53136499999999,27.465218],[80.53136600000001,27.465038],[80.531265,27.465038],[80.531265,27.464857],[80.531164,27.464857],[80.531164,27.464766],[80.531063,27.464766],[80.531064,27.464676],[80.530962,27.464675],[80.530963,27.464585],[80.530862,27.464585],[80.530862,27.464494],[80.530761,27.464494],[80.530761,27.464404],[80.53066,27.464404],[80.53066,27.464313],[80.52995199999999,27.464311],[80.52995199999999,27.464401],[80.52985,27.464401],[80.52985,27.464581],[80.529748,27.464581],[80.52974500000001,27.465484],[80.52984600000001,27.465484],[80.52984499999999,27.465755],[80.529946,27.465755],[80.529945,27.465936],[80.530046,27.465936],[80.530046,27.466026],[80.530147,27.466027],[80.530147,27.466117],[80.530248,27.466117],[80.530248,27.466208],[80.530349,27.466208],[80.530348,27.466298],[80.530551,27.466299]]],"type":"Polygon"}
 }

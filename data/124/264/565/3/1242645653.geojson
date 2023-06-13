@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.57445,30.37485,76.57445,30.37485",
-    "geom:latitude":30.37485,
-    "geom:longitude":76.57445,
+    "geom:bbox":"76.572661,30.37384,76.574644,30.375202",
+    "geom:latitude":30.374483,
+    "geom:longitude":76.573587,
     "gn:admin1_code":"23",
     "gn:admin2_code":"48.0",
     "gn:asciiname":"Sultanpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.55445,30.35485,76.59445,30.39485",
+    "ks:ks_alt_nam":"Sult\u0101npur",
+    "ks:ks_id":"KSD030C8D871D44864BB8C6F9CFEEEEC39",
+    "ks:ks_name":"Sultanpur",
+    "ks:ks_pop":109,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1016394",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2635722",
+    "lbl:latitude":30.37452,
+    "lbl:longitude":76.573587,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.37452,
+    "mps:longitude":76.573587,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u0628\u0648\u0631"
@@ -53,6 +64,12 @@
     ],
     "name:deu_x_preferred":[
         "Sultanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Sultanpur"
+    ],
+    "name:eng_x_variant":[
+        "Sult\u0101npur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab2\u0acd\u0aa4\u0abe\u0aa8\u0aaa\u0ac1\u0ab0"
@@ -99,7 +116,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10436110
+        "gn:id":10436110,
+        "ks:id":"KSD030C8D871D44864BB8C6F9CFEEEEC39"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a5c1277c6b12fb83df8a612966169e62",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"edb51a6c27c80dea093e992b39ca9720",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +149,22 @@
         }
     ],
     "wof:id":1242645653,
-    "wof:lastmodified":1577753397,
+    "wof:lastmodified":1686164091,
     "wof:name":"Sultanpur",
     "wof:parent_id":890508851,
     "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.57445,
-    30.37485,
-    76.57445,
-    30.37485
+    76.572661,
+    30.37384,
+    76.574644,
+    30.375202
 ],
-  "geometry": {"coordinates":[76.57445,30.37485],"type":"Point"}
+  "geometry": {"coordinates":[[[76.574033,30.375192],[76.57403100000001,30.375101],[76.574135,30.3751],[76.574134,30.37501],[76.57423799999999,30.375009],[76.574236,30.374919],[76.57434000000001,30.374917],[76.574338,30.374737],[76.574442,30.374736],[76.574437,30.374465],[76.574541,30.374464],[76.57454,30.374374],[76.57464400000001,30.374372],[76.574642,30.374282],[76.574538,30.374283],[76.57453700000001,30.374193],[76.574433,30.374194],[76.574431,30.374104],[76.574327,30.374105],[76.574326,30.374015],[76.57422200000001,30.374016],[76.57422,30.373926],[76.573908,30.37393],[76.57390700000001,30.37384],[76.572971,30.373851],[76.57297199999999,30.373941],[76.57276400000001,30.373944],[76.572765,30.374034],[76.572661,30.374035],[76.57267,30.374576],[76.572774,30.374575],[76.572776,30.374665],[76.57288,30.374664],[76.57288200000001,30.374845],[76.572986,30.374843],[76.57298900000001,30.375024],[76.573093,30.375023],[76.573095,30.375113],[76.573199,30.375111],[76.5732,30.375202],[76.574033,30.375192]]],"type":"Polygon"}
 }

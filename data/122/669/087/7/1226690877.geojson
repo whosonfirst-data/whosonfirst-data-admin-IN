@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.36819,25.47432,85.36819,25.47432",
-    "geom:latitude":25.47432,
-    "geom:longitude":85.36819,
+    "geom:bbox":"85.36726,25.473164,85.369146,25.47505",
+    "geom:latitude":25.474216,
+    "geom:longitude":85.368196,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Tilhar",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.34819,25.45432,85.38819,25.49432",
+    "ks:ks_alt_nam":"Tilh\u0101r",
+    "ks:ks_id":"KS7F92F58DDE3A4E4CB2D43FCF2E50B865",
+    "ks:ks_name":"Tilhar",
+    "ks:ks_pop":1377,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1057927",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1352371",
+    "lbl:latitude":25.474215,
+    "lbl:longitude":85.368196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.474215,
+    "mps:longitude":85.368196,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a4\u09bf\u09b2\u09b9\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Tilhar"
+    ],
+    "name:eng_x_preferred":[
+        "Tilhar"
+    ],
+    "name:eng_x_variant":[
+        "Tilh\u0101r"
     ],
     "name:hif_x_preferred":[
         "Tilhar"
@@ -75,7 +92,13 @@
     "name:zho_x_preferred":[
         "\u8482\u5c14\u54c8\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028648
+        "gn:id":11028648,
+        "ks:id":"KS7F92F58DDE3A4E4CB2D43FCF2E50B865"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5ca5f254e05e1898b8417b9409a23fd3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13defb51ba9ee9f284d92c2295f638d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +125,22 @@
         }
     ],
     "wof:id":1226690877,
-    "wof:lastmodified":1566711709,
+    "wof:lastmodified":1686165764,
     "wof:name":"Tilhar",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":1377,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.36819,
-    25.47432,
-    85.36819,
-    25.47432
+    85.36726,
+    25.473164,
+    85.369146,
+    25.47505
 ],
-  "geometry": {"coordinates":[85.36819,25.47432],"type":"Point"}
+  "geometry": {"coordinates":[[[85.368607,25.473703],[85.368607,25.473164],[85.36779900000001,25.473164],[85.36779900000001,25.473703],[85.36726,25.473703],[85.36726,25.474781],[85.36779900000001,25.474781],[85.36779900000001,25.47505],[85.369146,25.47505],[85.369146,25.474242],[85.368877,25.474242],[85.368877,25.473703],[85.368607,25.473703]]],"type":"Polygon"}
 }

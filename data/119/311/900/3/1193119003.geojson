@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.27524,21.05433,77.27524,21.05433",
-    "geom:latitude":21.05433,
-    "geom:longitude":77.27524,
+    "geom:bbox":"77.274592,21.053484,77.276139,21.054941",
+    "geom:latitude":21.054255,
+    "geom:longitude":77.275336,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Pardi",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.25524,21.03433,77.29524,21.07433",
+    "ks:ks_alt_nam":"P\u0101rdi",
+    "ks:ks_id":"KS1B3D532CB799485FA4BDB5AB26984EA2",
+    "ks:ks_name":"Pardi",
+    "ks:ks_pop":274,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|824899",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_875715",
+    "lbl:latitude":21.054255,
+    "lbl:longitude":77.275322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.054255,
+    "mps:longitude":77.275322,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09cd\u09a6\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "P\u0101rdi"
+    ],
+    "name:eng_x_preferred":[
+        "Pardi"
+    ],
+    "name:eng_x_variant":[
         "P\u0101rdi"
     ],
     "name:guj_x_preferred":[
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u5c14\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512512
+        "gn:id":10512512,
+        "ks:id":"KS1B3D532CB799485FA4BDB5AB26984EA2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c46b6f36e60e480abf79a3a75e9c649b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b50252770f359532241c449f00f14960",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1193119003,
-    "wof:lastmodified":1566698608,
+    "wof:lastmodified":1682589301,
     "wof:name":"Pardi",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.27524,
-    21.05433,
-    77.27524,
-    21.05433
+    77.274592,
+    21.053484,
+    77.276139,
+    21.054941
 ],
-  "geometry": {"coordinates":[77.27524,21.05433],"type":"Point"}
+  "geometry": {"coordinates":[[[77.27556800000001,21.05493],[77.275566,21.05484],[77.27585500000001,21.054836],[77.275854,21.054746],[77.27594999999999,21.054745],[77.275948,21.054654],[77.276045,21.054653],[77.276043,21.054563],[77.276139,21.054561],[77.276132,21.05411],[77.276036,21.054111],[77.276034,21.053931],[77.275937,21.053932],[77.275935,21.053751],[77.27583799999999,21.053753],[77.275837,21.053662],[77.275741,21.053664],[77.27574,21.053573],[77.275643,21.053575],[77.275642,21.053484],[77.275161,21.053491],[77.27516199999999,21.053581],[77.27497,21.053584],[77.27497099999999,21.053674],[77.27487499999999,21.053675],[77.274877,21.053766],[77.27478000000001,21.053767],[77.274782,21.053857],[77.274686,21.053858],[77.274688,21.054039],[77.274592,21.05404],[77.274603,21.054763],[77.274699,21.054761],[77.27470099999999,21.054852],[77.27479700000001,21.05485],[77.274798,21.054941],[77.27556800000001,21.05493]]],"type":"Polygon"}
 }

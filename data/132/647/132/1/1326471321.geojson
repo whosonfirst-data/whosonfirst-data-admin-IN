@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.23754,25.39476,85.23754,25.39476",
-    "geom:latitude":25.39476,
-    "geom:longitude":85.23754,
+    "geom:bbox":"85.237053,25.393603,85.238557,25.395411",
+    "geom:latitude":25.394527,
+    "geom:longitude":85.237739,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Jalalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.21754,25.37476,85.25754,25.41476",
+    "ks:ks_id":"KS3B7763E582854137950C313CA04281FB",
+    "ks:ks_name":"Jalalpur",
+    "ks:ks_pop":373,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1027000102827200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2069582",
+    "lbl:latitude":25.39455,
+    "lbl:longitude":85.237753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.39455,
+    "mps:longitude":85.237753,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099c\u09be\u09b2\u09be\u09b2\u09aa\u09c1\u09b0"
@@ -38,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Jal\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Jalalpur"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0644\u0627\u0644\u200c\u067e\u0648\u0631"
@@ -78,7 +91,13 @@
     "name:zho_x_preferred":[
         "\u8d3e\u62c9\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +106,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11012448
+        "gn:id":11012448,
+        "ks:id":"KS3B7763E582854137950C313CA04281FB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ebbd2039aa78fd6a886fa8bb70402829",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"65a05e230dc30913352871d9835feea9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +124,22 @@
         }
     ],
     "wof:id":1326471321,
-    "wof:lastmodified":1566683615,
+    "wof:lastmodified":1682877170,
     "wof:name":"Jalalpur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.23754,
-    25.39476,
-    85.23754,
-    25.39476
+    85.237053,
+    25.393603,
+    85.238557,
+    25.395411
 ],
-  "geometry": {"coordinates":[85.23754,25.39476],"type":"Point"}
+  "geometry": {"coordinates":[[[85.237844,25.395411],[85.23784499999999,25.395321],[85.238044,25.395323],[85.238045,25.395233],[85.238145,25.395234],[85.238146,25.395144],[85.238345,25.395146],[85.238347,25.394966],[85.23844699999999,25.394967],[85.23844800000001,25.394877],[85.238547,25.394878],[85.238557,25.394246],[85.238457,25.394245],[85.23845799999999,25.394155],[85.238359,25.394153],[85.238362,25.393973],[85.23826200000001,25.393972],[85.238264,25.393881],[85.238164,25.39388],[85.23816600000001,25.39379],[85.238066,25.393789],[85.238068,25.393698],[85.237769,25.393695],[85.237771,25.393605],[85.23767100000001,25.393603],[85.23766999999999,25.393694],[85.23707400000001,25.393687],[85.23706900000001,25.394048],[85.237168,25.394049],[85.237165,25.394229],[85.237066,25.394228],[85.237053,25.395131],[85.23715199999999,25.395132],[85.23715,25.395312],[85.23724900000001,25.395314],[85.23724799999999,25.395404],[85.237844,25.395411]]],"type":"Polygon"}
 }

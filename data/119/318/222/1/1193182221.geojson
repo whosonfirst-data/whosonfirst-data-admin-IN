@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.32355,24.7307,85.32355,24.7307",
-    "geom:latitude":24.7307,
-    "geom:longitude":85.32355,
+    "geom:bbox":"85.321675,24.729463,85.324145,24.731098",
+    "geom:latitude":24.730242,
+    "geom:longitude":85.3229,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Hero",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.30355,24.7107,85.34355,24.7507",
+    "ks:ks_id":"KSE5C5B680EB224A5F90882C0A3C268938",
+    "ks:ks_name":"Hero",
+    "ks:ks_pop":794,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13356278",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1152154",
+    "lbl:latitude":24.730282,
+    "lbl:longitude":85.322877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.730282,
+    "mps:longitude":85.322877,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0637\u0644"
@@ -65,6 +75,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0389\u03c1\u03c9\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Hero"
     ],
     "name:epo_x_preferred":[
         "Heroo"
@@ -186,7 +199,13 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u043e\u0439"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -195,10 +214,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10883014
+        "gn:id":10883014,
+        "ks:id":"KSE5C5B680EB224A5F90882C0A3C268938"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2af6f00caa5d67089d6fc03fec601106",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30d9e0e695d0fa49e22fa43515076fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -209,20 +232,22 @@
         }
     ],
     "wof:id":1193182221,
-    "wof:lastmodified":1566698561,
+    "wof:lastmodified":1682591365,
     "wof:name":"Hero",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":794,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.32355,
-    24.7307,
-    85.32355,
-    24.7307
+    85.321675,
+    24.729463,
+    85.324145,
+    24.731098
 ],
-  "geometry": {"coordinates":[85.32355,24.7307],"type":"Point"}
+  "geometry": {"coordinates":[[[85.323245,24.731098],[85.323246,24.731008],[85.323542,24.731011],[85.323543,24.730921],[85.323741,24.730923],[85.323742,24.730833],[85.323841,24.730834],[85.323842,24.730744],[85.323941,24.730745],[85.323942,24.730655],[85.32404099999999,24.730656],[85.324045,24.730385],[85.324144,24.730386],[85.324145,24.730296],[85.324046,24.730295],[85.324051,24.729934],[85.32395200000001,24.729932],[85.323955,24.729752],[85.32385600000001,24.729751],[85.323857,24.729661],[85.323758,24.729659],[85.323759,24.729569],[85.323562,24.729567],[85.32356299999999,24.729477],[85.322377,24.729463],[85.32237600000001,24.729554],[85.32198,24.729549],[85.321979,24.72964],[85.321781,24.729637],[85.32178,24.729728],[85.321681,24.729726],[85.321675,24.730178],[85.321774,24.730179],[85.32177,24.73045],[85.32186900000001,24.730451],[85.32186799999999,24.730541],[85.321967,24.730542],[85.321966,24.730633],[85.322064,24.730634],[85.322062,24.730814],[85.32216099999999,24.730815],[85.32216,24.730906],[85.322259,24.730907],[85.32225699999999,24.730997],[85.322356,24.730998],[85.322355,24.731088],[85.323245,24.731098]]],"type":"Polygon"}
 }

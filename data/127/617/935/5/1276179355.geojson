@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.58601,10.67298,79.58601,10.67298",
-    "geom:latitude":10.67298,
-    "geom:longitude":79.58601,
+    "geom:bbox":"79.587638,10.674946,79.588826,10.675764",
+    "geom:latitude":10.675339,
+    "geom:longitude":79.588174,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"619.0",
     "gn:asciiname":"Ramanathapuram",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.56601,10.65298,79.60601,10.69298",
+    "ks:ks_id":"KS4CCAAAD7590844D989AE96ABFF5BC247",
+    "ks:ks_name":"Ramanathapuram",
+    "ks:ks_pop":244,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|899874",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_346292",
+    "lbl:latitude":10.675356,
+    "lbl:longitude":79.588222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.675356,
+    "mps:longitude":79.588222,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0627\u0646\u062a\u0628\u0648\u0631\u0645"
@@ -49,6 +59,9 @@
         "Ramanathapuram"
     ],
     "name:deu_x_preferred":[
+        "Ramanathapuram"
+    ],
+    "name:eng_x_preferred":[
         "Ramanathapuram"
     ],
     "name:fra_x_preferred":[
@@ -135,7 +148,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u9a6c\u7eb3\u5854\u666e\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -144,10 +163,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11606992
+        "gn:id":11606992,
+        "ks:id":"KS4CCAAAD7590844D989AE96ABFF5BC247"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f24984ea94142352e76d5ffcfffe3039",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c686aca70052631a578f15bb2cdbf43b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,20 +181,22 @@
         }
     ],
     "wof:id":1276179355,
-    "wof:lastmodified":1577750403,
+    "wof:lastmodified":1686162557,
     "wof:name":"Ramanathapuram",
     "wof:parent_id":1108696353,
     "wof:placetype":"locality",
+    "wof:population":244,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.58601,
-    10.67298,
-    79.58601,
-    10.67298
+    79.587638,
+    10.674946,
+    79.588826,
+    10.675764
 ],
-  "geometry": {"coordinates":[79.58601,10.67298],"type":"Point"}
+  "geometry": {"coordinates":[[[79.58864199999999,10.675764],[79.588643,10.675674],[79.588826,10.675675],[79.588826,10.675584],[79.588735,10.675584],[79.588735,10.675403],[79.588644,10.675403],[79.588644,10.675312],[79.588553,10.675312],[79.588553,10.675222],[79.58846200000001,10.675221],[79.58846200000001,10.675131],[79.58828,10.67513],[79.58828,10.675039],[79.588097,10.675039],[79.588098,10.674948],[79.587641,10.674946],[79.587638,10.675398],[79.58772999999999,10.675399],[79.587729,10.675489],[79.588004,10.67549],[79.588003,10.675581],[79.58818599999999,10.675582],[79.58818599999999,10.675672],[79.58846,10.675673],[79.588459,10.675764],[79.58864199999999,10.675764]]],"type":"Polygon"}
 }

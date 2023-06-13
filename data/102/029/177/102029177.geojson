@@ -13,12 +13,20 @@
     "gn:longitude":74.38285,
     "gn:population":60351,
     "iso:country":"IN",
-    "lbl:latitude":16.395987,
-    "lbl:longitude":74.381359,
+    "ks:ks_alt_nam":"Nippani",
+    "ks:ks_id":"KS7A11251E4A11406391ABF3DB559586C5",
+    "ks:ks_name":"Nipani",
+    "ks:ks_pop":58081,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2901000140101000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_378760",
+    "lbl:latitude":16.399049,
+    "lbl:longitude":74.382322,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":16.409562,
-    "mps:longitude":74.383084,
+    "mps:latitude":16.399049,
+    "mps:longitude":74.382322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -35,8 +43,15 @@
     "name:eng_x_preferred":[
         "Nipani"
     ],
+    "name:eng_x_variant":[
+        "Nip\u0101ni",
+        "Nippani"
+    ],
     "name:fra_x_preferred":[
         "Nipani"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u092a\u093e\u0928\u0940"
     ],
     "name:ita_x_preferred":[
         "Nipani"
@@ -97,10 +112,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":913,
     "wof:belongsto":[
         102191569,
@@ -112,13 +129,16 @@
     "wof:concordances":{
         "gn:id":1261309,
         "gp:id":2292892,
+        "ks:id":"KS7A11251E4A11406391ABF3DB559586C5",
         "qs_pg:id":131487,
         "wd:id":"Q2283213",
         "wk:page":"Nipani"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5278695ed52c5aa30e662948079c6e34",
     "wof:hierarchy":[
@@ -131,11 +151,11 @@
         }
     ],
     "wof:id":102029177,
-    "wof:lastmodified":1658780770,
-    "wof:name":"Nip\u0101ni",
+    "wof:lastmodified":1686162203,
+    "wof:name":"Nipani",
     "wof:parent_id":1108696325,
     "wof:placetype":"locality",
-    "wof:population":60351,
+    "wof:population":58081,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

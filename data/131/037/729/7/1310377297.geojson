@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.31115,21.42353,79.31115,21.42353",
-    "geom:latitude":21.42353,
-    "geom:longitude":79.31115,
+    "geom:bbox":"79.310638,21.42293,79.311447,21.424008",
+    "geom:latitude":21.423469,
+    "geom:longitude":79.311042,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Soneghat",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.29115,21.40353,79.33115,21.44353",
+    "ks:ks_alt_nam":"Sonegh\u0101t",
+    "ks:ks_id":"KSFE0022140E5642668EC4E1B715AB6A95",
+    "ks:ks_name":"Soneghat",
+    "ks:ks_pop":354,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12903181",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_684734",
+    "lbl:latitude":21.423469,
+    "lbl:longitude":79.311043,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.423469,
+    "mps:longitude":79.311043,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Soneghat"
+    ],
+    "name:eng_x_variant":[
+        "Sonegh\u0101t"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10470857
+        "gn:id":10470857,
+        "ks:id":"KSFE0022140E5642668EC4E1B715AB6A95"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4a5db4cc8bde57a439ab8dbfde2c9174",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"321c26bb15ab289ee275dd0d6b60594b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1310377297,
-    "wof:lastmodified":1566701372,
+    "wof:lastmodified":1682864697,
     "wof:name":"Soneghat",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.31115,
-    21.42353,
-    79.31115,
-    21.42353
+    79.310638,
+    21.42293,
+    79.311447,
+    21.424008
 ],
-  "geometry": {"coordinates":[79.31115,21.42353],"type":"Point"}
+  "geometry": {"coordinates":[[[79.311447,21.42293],[79.310638,21.42293],[79.310638,21.424008],[79.311447,21.424008],[79.311447,21.42293]]],"type":"Polygon"}
 }

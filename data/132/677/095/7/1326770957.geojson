@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.43189,23.29061,80.43189,23.29061",
-    "geom:latitude":23.29061,
-    "geom:longitude":80.43189,
+    "geom:bbox":"80.438545,23.294427,80.439819,23.296145",
+    "geom:latitude":23.295398,
+    "geom:longitude":80.439113,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Jhirna",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.41189,23.27061,80.45189,23.31061",
+    "ks:ks_id":"KS3D666C2DE1C84EC7A756D42F0AEDCAB1",
+    "ks:ks_name":"Jhirni",
+    "ks:ks_pop":404,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2339000404714500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1001661",
+    "lbl:latitude":23.295404,
+    "lbl:longitude":80.439126,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.295404,
+    "mps:longitude":80.439126,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0646\u0627"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099d\u09bf\u09b0\u09a8\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Jhirni"
+    ],
+    "name:eng_x_variant":[
+        "Jhirna"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abf\u0ab0\u0acd\u0aa8\u0abe"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u062c\u0650\u06be\u0631\u0646\u0627"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10675301
+        "gn:id":10675301,
+        "ks:id":"KS3D666C2DE1C84EC7A756D42F0AEDCAB1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c1ef7818b6a62e439923770049911d74",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5db32446c3e02960d2071fca693203a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1326770957,
-    "wof:lastmodified":1577749541,
-    "wof:name":"Jhirna",
+    "wof:lastmodified":1682888786,
+    "wof:name":"Jhirni",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.43189,
-    23.29061,
-    80.43189,
-    23.29061
+    80.438545,
+    23.294427,
+    80.439819,
+    23.296145
 ],
-  "geometry": {"coordinates":[80.43189,23.29061],"type":"Point"}
+  "geometry": {"coordinates":[[[80.439425,23.296145],[80.439425,23.296055],[80.43952299999999,23.296056],[80.43952299999999,23.295965],[80.439719,23.295966],[80.43971999999999,23.295785],[80.43981700000001,23.295786],[80.439819,23.295424],[80.43972100000001,23.295424],[80.439722,23.295243],[80.43962399999999,23.295243],[80.43962500000001,23.295153],[80.439527,23.295152],[80.439528,23.294881],[80.43943,23.294881],[80.439431,23.2947],[80.439333,23.2947],[80.439333,23.29461],[80.439138,23.294609],[80.439138,23.294519],[80.43904000000001,23.294518],[80.439041,23.294428],[80.438845,23.294427],[80.438845,23.294518],[80.43874700000001,23.294517],[80.43874599999999,23.294698],[80.438649,23.294697],[80.438647,23.295059],[80.43854899999999,23.295058],[80.438548,23.295239],[80.43864600000001,23.295239],[80.43864600000001,23.29542],[80.438548,23.29542],[80.438545,23.296052],[80.438643,23.296052],[80.438642,23.296143],[80.439425,23.296145]]],"type":"Polygon"}
 }

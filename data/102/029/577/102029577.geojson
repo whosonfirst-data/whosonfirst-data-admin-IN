@@ -13,12 +13,20 @@
     "gn:longitude":76.56784,
     "gn:population":348967,
     "iso:country":"IN",
-    "lbl:latitude":18.398805,
-    "lbl:longitude":76.5637,
+    "ks:ks_id":"KS4A903FCE0A9A466D942CBF3FA78E66B8",
+    "ks:ks_name":"Latur",
+    "ks:ks_pop":299985,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2728000142801000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_534013",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":18.399058,
+    "lbl:longitude":76.559101,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":18.398201,
-    "mps:longitude":76.568533,
+    "mps:latitude":18.399058,
+    "mps:longitude":76.559101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -55,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Latur"
+    ],
+    "name:eng_x_variant":[
+        "L\u0101t\u016br"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u062a\u0648\u0631"
@@ -298,10 +309,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -313,13 +326,16 @@
         "fct:id":"1230b7d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1265014,
         "gp:id":2295198,
+        "ks:id":"KS4A903FCE0A9A466D942CBF3FA78E66B8",
         "qs_pg:id":194856,
         "wd:id":"Q61394",
         "wk:page":"Latur"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"76f34686f0aa3fe5d9c6f4c8afea5be6",
     "wof:hierarchy":[
@@ -335,11 +351,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780771,
-    "wof:name":"L\u0101t\u016br",
+    "wof:lastmodified":1686162203,
+    "wof:name":"Latur",
     "wof:parent_id":1108696309,
     "wof:placetype":"locality",
-    "wof:population":348967,
+    "wof:population":299985,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

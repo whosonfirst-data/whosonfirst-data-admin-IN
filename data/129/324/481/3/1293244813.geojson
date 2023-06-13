@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.81836,27.07413,79.81836,27.07413",
-    "geom:latitude":27.07413,
-    "geom:longitude":79.81836,
+    "geom:bbox":"79.81726,27.073728,79.818982,27.074996",
+    "geom:latitude":27.07435,
+    "geom:longitude":79.818138,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160",
     "gn:asciiname":"Sagra",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.79836,27.05413,79.83836,27.09413",
+    "ks:ks_id":"KSE1BA805C57B94C7A9957A38D47A57EC1",
+    "ks:ks_name":"Sagara",
+    "ks:ks_pop":970,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|933326",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1889747",
+    "lbl:latitude":27.07436,
+    "lbl:longitude":79.818138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.07436,
+    "mps:longitude":79.818138,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sagra"
     ],
     "name:deu_x_preferred":[
+        "Sagra"
+    ],
+    "name:eng_x_preferred":[
+        "Sagara"
+    ],
+    "name:eng_x_variant":[
         "Sagra"
     ],
     "name:eus_x_preferred":[
@@ -54,7 +70,13 @@
     "name:spa_x_preferred":[
         "Sagra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6995186
+        "gn:id":6995186,
+        "ks:id":"KSE1BA805C57B94C7A9957A38D47A57EC1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f4eca7d63f1977370ff13586cfcd11c9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cf23a88520dd8d91672482912256203a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1293244813,
-    "wof:lastmodified":1566690000,
-    "wof:name":"Sagra",
+    "wof:lastmodified":1682810877,
+    "wof:name":"Sagara",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":970,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.81836,
-    27.07413,
-    79.81836,
-    27.07413
+    79.81726,
+    27.073728,
+    79.818982,
+    27.074996
 ],
-  "geometry": {"coordinates":[79.81836,27.07413],"type":"Point"}
+  "geometry": {"coordinates":[[[79.818668,27.074996],[79.81867,27.074816],[79.81877,27.074817],[79.81877299999999,27.074546],[79.81887399999999,27.074547],[79.818877,27.074276],[79.818978,27.074277],[79.81898200000001,27.073916],[79.818881,27.073915],[79.818882,27.073825],[79.818781,27.073824],[79.818782,27.073734],[79.818076,27.073728],[79.81807499999999,27.073818],[79.817773,27.073815],[79.81777200000001,27.073906],[79.817469,27.073903],[79.81746800000001,27.073993],[79.817367,27.073993],[79.81736600000001,27.074083],[79.817266,27.074082],[79.81726,27.074624],[79.81736100000001,27.074624],[79.81735999999999,27.074715],[79.81746099999999,27.074716],[79.81746,27.074806],[79.81756,27.074807],[79.817559,27.074897],[79.81796300000001,27.0749],[79.81796199999999,27.074991],[79.818668,27.074996]]],"type":"Polygon"}
 }

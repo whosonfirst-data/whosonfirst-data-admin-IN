@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.02232,24.30256,77.02232,24.30256",
-    "geom:latitude":24.30256,
-    "geom:longitude":77.02232,
+    "geom:bbox":"77.021551,24.301671,77.022899,24.303018",
+    "geom:latitude":24.302345,
+    "geom:longitude":77.022225,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Bilakheri",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.00232,24.28256,77.04232,24.32256",
+    "ks:ks_id":"KS18F3A201BECE4645A4265761340B3BB3",
+    "ks:ks_name":"Bilakhedi",
+    "ks:ks_pop":345,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|163567",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_759497",
+    "lbl:latitude":24.302344,
+    "lbl:longitude":77.022225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.302344,
+    "mps:longitude":77.022225,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bilakhedi"
+    ],
+    "name:eng_x_variant":[
+        "Bilakheri"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10478520
+        "gn:id":10478520,
+        "ks:id":"KS18F3A201BECE4645A4265761340B3BB3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cde87732cc347a9a602e230250266a22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb6ed2e29dd0dd89f48cf6a1759ecb79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326874785,
-    "wof:lastmodified":1566681994,
-    "wof:name":"Bilakheri",
+    "wof:lastmodified":1682893548,
+    "wof:name":"Bilakhedi",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.02232,
-    24.30256,
-    77.02232,
-    24.30256
+    77.021551,
+    24.301671,
+    77.022899,
+    24.303018
 ],
-  "geometry": {"coordinates":[77.02231999999999,24.30256],"type":"Point"}
+  "geometry": {"coordinates":[[[77.022899,24.301671],[77.021551,24.301671],[77.021551,24.303018],[77.022899,24.303018],[77.022899,24.301671]]],"type":"Polygon"}
 }

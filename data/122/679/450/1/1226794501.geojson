@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.78903,25.09209,84.78903,25.09209",
-    "geom:latitude":25.09209,
-    "geom:longitude":84.78903,
+    "geom:bbox":"84.788386,25.091559,84.789464,25.092368",
+    "geom:latitude":25.09191,
+    "geom:longitude":84.788925,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"240.0",
     "gn:asciiname":"Daudpur",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.76903,25.07209,84.80903,25.11209",
+    "ks:ks_id":"KS6F520473AFEE43B787D666A544FC72CC",
+    "ks:ks_name":"Daudpur",
+    "ks:ks_pop":279,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|254658",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1331770",
+    "lbl:latitude":25.091902,
+    "lbl:longitude":84.788925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.091902,
+    "mps:longitude":84.788925,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Daudpur"
+    ],
     "name:msa_x_preferred":[
         "Daudpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -42,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833466
+        "gn:id":10833466,
+        "ks:id":"KS6F520473AFEE43B787D666A544FC72CC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3d6bcaa9e2d16b683c05f1850365411d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3956a87f63e8cf8f031e479deb5e099e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +79,22 @@
         }
     ],
     "wof:id":1226794501,
-    "wof:lastmodified":1566712806,
+    "wof:lastmodified":1682682405,
     "wof:name":"Daudpur",
     "wof:parent_id":1108695955,
     "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.78903000000003,
-    25.09209,
-    84.78903000000003,
-    25.09209
+    84.788386,
+    25.091559,
+    84.789464,
+    25.092368
 ],
-  "geometry": {"coordinates":[84.78903000000003,25.09209],"type":"Point"}
+  "geometry": {"coordinates":[[[84.78919399999999,25.092368],[84.78919399999999,25.092098],[84.789464,25.092098],[84.789464,25.091559],[84.788386,25.091559],[84.788386,25.092098],[84.78865500000001,25.092098],[84.78865500000001,25.092368],[84.78919399999999,25.092368]]],"type":"Polygon"}
 }

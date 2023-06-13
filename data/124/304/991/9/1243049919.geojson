@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.42149,20.48855,78.42149,20.48855",
-    "geom:latitude":20.48855,
-    "geom:longitude":78.42149,
+    "geom:bbox":"78.421106,20.48782,78.422158,20.488823",
+    "geom:latitude":20.488336,
+    "geom:longitude":78.421606,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Tuljapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.40149,20.46855,78.44149,20.50855",
+    "ks:ks_alt_nam":"Tulj\u0101pur",
+    "ks:ks_id":"KS180E82C82F9D4B9AAA595B3A69360472",
+    "ks:ks_name":"Tuljapur",
+    "ks:ks_pop":135,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1064906",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871409",
+    "lbl:latitude":20.488351,
+    "lbl:longitude":78.421616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.488351,
+    "mps:longitude":78.421616,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b2\u099c\u09be\u09aa\u09c1\u09b0"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Tuljapur"
+    ],
+    "name:eng_x_preferred":[
+        "Tuljapur"
+    ],
+    "name:eng_x_variant":[
+        "Tulj\u0101pur"
     ],
     "name:hif_x_preferred":[
         "Tuljapur"
@@ -78,7 +95,13 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u8d3e\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453529
+        "gn:id":10453529,
+        "ks:id":"KS180E82C82F9D4B9AAA595B3A69360472"
     },
     "wof:country":"IN",
-    "wof:geomhash":"41a92f86d036ec436324ebbe2d6509a1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a0eba06eb786dc512b8b7b4c77c1505",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +128,22 @@
         }
     ],
     "wof:id":1243049919,
-    "wof:lastmodified":1566707262,
+    "wof:lastmodified":1682702217,
     "wof:name":"Tuljapur",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.42149,
-    20.48855,
-    78.42149,
-    20.48855
+    78.421106,
+    20.48782,
+    78.422158,
+    20.488823
 ],
-  "geometry": {"coordinates":[78.42149000000001,20.48855],"type":"Point"}
+  "geometry": {"coordinates":[[[78.421961,20.488823],[78.42196199999999,20.488733],[78.42205800000001,20.488734],[78.422061,20.488554],[78.422157,20.488555],[78.422158,20.488465],[78.422062,20.488463],[78.422065,20.488283],[78.42197,20.488281],[78.42197299999999,20.488101],[78.42187699999999,20.488099],[78.42187800000001,20.488009],[78.421783,20.488008],[78.421784,20.487917],[78.421688,20.487916],[78.42169,20.487826],[78.421307,20.48782],[78.421305,20.48791],[78.421209,20.487909],[78.421206,20.488089],[78.421111,20.488088],[78.42110599999999,20.488359],[78.42120199999999,20.48836],[78.421199,20.488541],[78.421295,20.488542],[78.42129300000001,20.488633],[78.421389,20.488634],[78.421387,20.488724],[78.42148299999999,20.488726],[78.421482,20.488816],[78.421961,20.488823]]],"type":"Polygon"}
 }

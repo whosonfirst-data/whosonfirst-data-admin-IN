@@ -13,12 +13,21 @@
     "gn:longitude":70.11484,
     "gn:population":58989,
     "iso:country":"IN",
-    "lbl:latitude":21.12286,
-    "lbl:longitude":70.119758,
+    "ks:ks_alt_nam":"M\u0101ngrol",
+    "ks:ks_id":"KSC58CB0DF05C84C2DBC8B455AA5FA9853",
+    "ks:ks_name":"Mangrol",
+    "ks:ks_pop":56320,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2103818",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_658353",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":21.120116,
+    "lbl:longitude":70.116794,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":21.120374,
-    "mps:longitude":70.131226,
+    "mps:latitude":21.120116,
+    "mps:longitude":70.116794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -31,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Mangrol"
+    ],
+    "name:eng_x_variant":[
+        "M\u0101ngrol"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u06af\u0631\u0648\u0644"
@@ -46,6 +58,9 @@
     ],
     "name:hif_x_preferred":[
         "Mangrol"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0902\u0917\u0930\u094b\u0932"
     ],
     "name:ita_x_preferred":[
         "Mangrol"
@@ -94,10 +109,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":18.0,
     "wd:latitude":21.12,
     "wd:longitude":70.12,
@@ -112,13 +129,16 @@
     "wof:concordances":{
         "gn:id":1263752,
         "gp:id":2291944,
+        "ks:id":"KSC58CB0DF05C84C2DBC8B455AA5FA9853",
         "qs_pg:id":131619,
         "wd:id":"Q2577440",
         "wk:page":"Mangrol"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"2ef42098edd543e2d6d274f9be23afc2",
     "wof:hierarchy":[
@@ -131,11 +151,11 @@
         }
     ],
     "wof:id":102029435,
-    "wof:lastmodified":1658780768,
-    "wof:name":"M\u0101ngrol",
+    "wof:lastmodified":1686162202,
+    "wof:name":"Mangrol",
     "wof:parent_id":890502479,
     "wof:placetype":"locality",
-    "wof:population":58989,
+    "wof:population":56320,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

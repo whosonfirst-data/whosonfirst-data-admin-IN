@@ -12,12 +12,20 @@
     "gn:latitude":23.24656,
     "gn:longitude":72.49508,
     "iso:country":"IN",
-    "lbl:latitude":23.243321,
-    "lbl:longitude":72.496686,
+    "ks:ks_id":"KSB291B48ED6F0434C99D1158E0AB999AF",
+    "ks:ks_name":"Kalol",
+    "ks:ks_pop":112013,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2099218",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_764341",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":23.240903,
+    "lbl:longitude":72.494709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":23.236298,
-    "mps:longitude":72.493286,
+    "mps:latitude":23.240903,
+    "mps:longitude":72.494709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -85,9 +93,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191569,
@@ -99,6 +110,7 @@
     "wof:concordances":{
         "gn:id":1268339,
         "gp:id":2292089,
+        "ks:id":"KSB291B48ED6F0434C99D1158E0AB999AF",
         "qs_pg:id":131849,
         "wd:id":"Q2558704"
     },
@@ -107,7 +119,9 @@
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"d19daa1dd22b2369e9f14b8a55169d2a",
     "wof:hierarchy":[
@@ -120,10 +134,12 @@
         }
     ],
     "wof:id":102029893,
-    "wof:lastmodified":1658780757,
+    "wof:lastmodified":1686162196,
     "wof:name":"Kalol",
     "wof:parent_id":890507383,
     "wof:placetype":"locality",
+    "wof:population":112013,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

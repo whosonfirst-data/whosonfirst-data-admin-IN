@@ -12,12 +12,20 @@
     "gn:latitude":30.15395,
     "gn:longitude":76.19851,
     "iso:country":"IN",
-    "lbl:latitude":30.154909,
-    "lbl:longitude":76.202478,
+    "ks:ks_id":"KS408496C9BE0C431E8B25F4FBB28F5D24",
+    "ks:ks_name":"Samana",
+    "ks:ks_pop":46592,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0317000141704000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2628369",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.155009,
+    "lbl:longitude":76.199,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":30.151097,
-    "mps:longitude":76.196784,
+    "mps:latitude":30.155009,
+    "mps:longitude":76.199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Samana"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101m\u0101na"
     ],
     "name:fra_x_preferred":[
         "Samana"
@@ -127,9 +138,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":938,
     "wof:belongsto":[
         102191569,
@@ -141,13 +155,16 @@
     "wof:concordances":{
         "gn:id":1257559,
         "gp:id":2290806,
+        "ks:id":"KS408496C9BE0C431E8B25F4FBB28F5D24",
         "qs_pg:id":896107,
         "wd:id":"Q520197",
         "wk:page":"Samana, Punjab"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"bb0225e94e1058c30c8849bfb6a64e1a",
     "wof:hierarchy":[
@@ -160,10 +177,12 @@
         }
     ],
     "wof:id":102028767,
-    "wof:lastmodified":1658780782,
-    "wof:name":"S\u0101m\u0101na",
+    "wof:lastmodified":1682523455,
+    "wof:name":"Samana",
     "wof:parent_id":890508851,
     "wof:placetype":"locality",
+    "wof:population":46592,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

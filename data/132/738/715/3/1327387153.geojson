@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.16148,22.69994,80.16148,22.69994",
-    "geom:latitude":22.69994,
-    "geom:longitude":80.16148,
+    "geom:bbox":"80.160813,22.697747,80.162366,22.700733",
+    "geom:latitude":22.699464,
+    "geom:longitude":80.161513,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"456.0",
     "gn:asciiname":"Kukri",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.14148,22.67994,80.18148,22.71994",
+    "ks:ks_alt_nam":"Kukr\u012b",
+    "ks:ks_id":"KS74FC2C050DDE427D8FD95EF7BE60F51E",
+    "ks:ks_name":"Kukri",
+    "ks:ks_pop":270,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|593913",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_987231",
+    "lbl:latitude":22.699467,
+    "lbl:longitude":80.161576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.699467,
+    "mps:longitude":80.161576,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0631\u064a \u0627\u0644\u062c\u0648\u0631\u0643\u0627"
@@ -44,6 +55,12 @@
     ],
     "name:deu_x_preferred":[
         "Khukuri"
+    ],
+    "name:eng_x_preferred":[
+        "Kukri"
+    ],
+    "name:eng_x_variant":[
+        "Kukr\u012b"
     ],
     "name:epo_x_preferred":[
         "Kukrio"
@@ -126,7 +143,13 @@
     "name:zho_x_preferred":[
         "\u5ed3\u723e\u5580\u5200"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +158,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10691083
+        "gn:id":10691083,
+        "ks:id":"KS74FC2C050DDE427D8FD95EF7BE60F51E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2d8c71442d4e9d8f108abee7dfba278a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0ca7ffe6caa781e6a9427fc5cd8b42d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +176,22 @@
         }
     ],
     "wof:id":1327387153,
-    "wof:lastmodified":1566681320,
+    "wof:lastmodified":1682914952,
     "wof:name":"Kukri",
     "wof:parent_id":890511127,
     "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.16148000000003,
-    22.69994,
-    80.16148000000003,
-    22.69994
+    80.160813,
+    22.697747,
+    80.162366,
+    22.700733
 ],
-  "geometry": {"coordinates":[80.16148000000003,22.69994],"type":"Point"}
+  "geometry": {"coordinates":[[[80.162065,22.700733],[80.162066,22.700643],[80.16216300000001,22.700643],[80.162164,22.700553],[80.162261,22.700553],[80.162262,22.700463],[80.162359,22.700464],[80.162361,22.700102],[80.16226399999999,22.700102],[80.162267,22.69956],[80.162364,22.69956],[80.16236600000001,22.69938],[80.162268,22.699379],[80.16227000000001,22.699108],[80.162172,22.699108],[80.162173,22.699017],[80.162076,22.699017],[80.162076,22.698926],[80.161979,22.698926],[80.161979,22.698836],[80.16188200000001,22.698835],[80.161883,22.698745],[80.16178499999999,22.698744],[80.16178600000001,22.698654],[80.161688,22.698653],[80.16168999999999,22.698473],[80.161592,22.698472],[80.161593,22.698292],[80.161496,22.698291],[80.161497,22.69811],[80.1614,22.69811],[80.1614,22.69802],[80.161303,22.698019],[80.161303,22.697929],[80.16120600000001,22.697928],[80.161207,22.697838],[80.161109,22.697837],[80.16110999999999,22.697747],[80.161012,22.697747],[80.161012,22.697837],[80.16081699999999,22.697836],[80.160813,22.698468],[80.160911,22.698469],[80.160899,22.700456],[80.160996,22.700456],[80.160995,22.700547],[80.16109299999999,22.700547],[80.161092,22.700638],[80.161384,22.700639],[80.161384,22.700729],[80.162065,22.700733]]],"type":"Polygon"}
 }

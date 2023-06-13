@@ -13,12 +13,19 @@
     "gn:longitude":77.7378,
     "gn:population":7302,
     "iso:country":"IN",
-    "lbl:latitude":23.48718,
-    "lbl:longitude":77.739186,
+    "ks:ks_id":"KS123934DF8A244C6DA8C3C1B2C6048C08",
+    "ks:ks_name":"Sanchi",
+    "ks:ks_pop":6784,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2334000143402000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_925305",
+    "lbl:latitude":23.485852,
+    "lbl:longitude":77.740658,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":23.478375,
-    "mps:longitude":77.723005,
+    "mps:latitude":23.485852,
+    "mps:longitude":77.740658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -45,7 +52,10 @@
         "Sanchi"
     ],
     "name:eng_x_preferred":[
-        "Sanchi Stupa"
+        "Sanchi"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101nchi"
     ],
     "name:epo_x_preferred":[
         "San\u0109i"
@@ -202,10 +212,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:latitude":23.480656,
     "wd:longitude":77.7363,
     "wd:wordcount":1802,
@@ -218,13 +230,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1257479,
+        "ks:id":"KS123934DF8A244C6DA8C3C1B2C6048C08",
         "qs_pg:id":131278,
         "wd:id":"Q181123",
         "wk:page":"Sanchi"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"e5440072dfc89f96cd444bac778d5115",
     "wof:hierarchy":[
@@ -237,11 +252,11 @@
         }
     ],
     "wof:id":102028745,
-    "wof:lastmodified":1658780790,
-    "wof:name":"S\u0101nchi",
+    "wof:lastmodified":1682523443,
+    "wof:name":"Sanchi",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
-    "wof:population":7302,
+    "wof:population":6784,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

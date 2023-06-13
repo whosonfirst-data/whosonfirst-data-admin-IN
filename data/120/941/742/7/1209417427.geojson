@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.83899,13.3412,79.83899,13.3412",
-    "geom:latitude":13.3412,
-    "geom:longitude":79.83899,
+    "geom:bbox":"79.838547,13.339926,79.839937,13.341915",
+    "geom:latitude":13.340945,
+    "geom:longitude":79.839234,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Bangala",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.81899,13.3212,79.85899,13.3612",
+    "ks:ks_id":"KS86492940F1A54148BF8C21BB1CE83E7E",
+    "ks:ks_name":"Bangala",
+    "ks:ks_pop":143,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|90094",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_360720",
+    "lbl:latitude":13.340955,
+    "lbl:longitude":79.839221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.340955,
+    "mps:longitude":79.839221,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bangala"
     ],
     "name:deu_x_preferred":[
+        "Bangala"
+    ],
+    "name:eng_x_preferred":[
         "Bangala"
     ],
     "name:fra_x_preferred":[
@@ -42,37 +55,55 @@
     "name:swe_x_preferred":[
         "Bangala"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        890508207
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11424436
+        "gn:id":11424436,
+        "ks:id":"KS86492940F1A54148BF8C21BB1CE83E7E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"adad61c81d41b827d26d1141d7a37465",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1ec536ecfa1920e4892abfcca6689cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209417427
+            "county_id":890508207,
+            "locality_id":1209417427,
+            "region_id":85672141
         }
     ],
     "wof:id":1209417427,
-    "wof:lastmodified":1566695243,
+    "wof:lastmodified":1682618156,
     "wof:name":"Bangala",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.83899,
-    13.3412,
-    79.83899,
-    13.3412
+    79.838547,
+    13.339926,
+    79.839937,
+    13.341915
 ],
-  "geometry": {"coordinates":[79.83899,13.3412],"type":"Point"}
+  "geometry": {"coordinates":[[[79.839192,13.341915],[79.839192,13.341824],[79.839377,13.341825],[79.839377,13.341735],[79.83946899999999,13.341735],[79.83947000000001,13.341645],[79.839562,13.341645],[79.839563,13.341555],[79.83965499999999,13.341555],[79.83965499999999,13.341465],[79.839748,13.341465],[79.839749,13.341284],[79.83984100000001,13.341285],[79.83984100000001,13.341194],[79.839934,13.341195],[79.83993700000001,13.340472],[79.839845,13.340471],[79.839845,13.340381],[79.839753,13.34038],[79.839754,13.3402],[79.83966100000001,13.340199],[79.839662,13.340109],[79.83956999999999,13.340108],[79.83956999999999,13.340018],[79.839478,13.340017],[79.839478,13.339927],[79.839201,13.339926],[79.839201,13.340016],[79.839108,13.340016],[79.839108,13.340106],[79.839016,13.340106],[79.839015,13.340287],[79.838922,13.340286],[79.838922,13.340377],[79.83883,13.340376],[79.838829,13.340467],[79.83873699999999,13.340466],[79.838736,13.340557],[79.838644,13.340556],[79.838643,13.340737],[79.838551,13.340737],[79.83854700000001,13.34155],[79.838639,13.341551],[79.838639,13.341731],[79.838823,13.341732],[79.838823,13.341823],[79.839007,13.341823],[79.839007,13.341914],[79.839192,13.341915]]],"type":"Polygon"}
 }

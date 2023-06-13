@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.34284,31.61431,75.34284,31.61431",
-    "geom:latitude":31.61431,
-    "geom:longitude":75.34284,
+    "geom:bbox":"75.344756,31.61764,75.345295,31.618718",
+    "geom:latitude":31.618179,
+    "geom:longitude":75.345025,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"49.0",
     "gn:asciiname":"Rajadewal",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.32284,31.59431,75.36284,31.63431",
+    "ks:ks_id":"KSE91FBFF7F05A424C92FEB54A83ADDF14",
+    "ks:ks_name":"Rajadewal",
+    "ks:ks_pop":306,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0302000700284100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2211750",
+    "lbl:latitude":31.618179,
+    "lbl:longitude":75.345025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.618179,
+    "mps:longitude":75.345025,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Rajadewal"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10700962
+        "gn:id":10700962,
+        "ks:id":"KSE91FBFF7F05A424C92FEB54A83ADDF14"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3d5567bac19cf9900567294ee02aefbe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d993fe2fb65cb6bccf730053e24447b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1209182579,
-    "wof:lastmodified":1574199136,
+    "wof:lastmodified":1682609949,
     "wof:name":"Rajadewal",
     "wof:parent_id":890508847,
     "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.34284,
-    31.61431,
-    75.34284,
-    31.61431
+    75.344756,
+    31.61764,
+    75.345295,
+    31.618718
 ],
-  "geometry": {"coordinates":[75.34284,31.61431],"type":"Point"}
+  "geometry": {"coordinates":[[[75.34529499999999,31.61764],[75.344756,31.61764],[75.344756,31.618718],[75.34529499999999,31.618718],[75.34529499999999,31.61764]]],"type":"Polygon"}
 }

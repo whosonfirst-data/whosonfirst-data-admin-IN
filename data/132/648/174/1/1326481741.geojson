@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.50674,24.20863,83.50674,24.20863",
-    "geom:latitude":24.20863,
-    "geom:longitude":83.50674,
+    "geom:bbox":"83.50646,24.208094,83.507748,24.209369",
+    "geom:latitude":24.208744,
+    "geom:longitude":83.507046,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Garda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.48674,24.18863,83.52674,24.22863",
+    "ks:ks_id":"KSA52EB8539A194187917A5C21B902DB34",
+    "ks:ks_name":"Garda",
+    "ks:ks_pop":290,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12964283",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1018343",
+    "lbl:latitude":24.208729,
+    "lbl:longitude":83.507034,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.208729,
+    "mps:longitude":83.507034,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Garda"
@@ -37,6 +47,9 @@
         "Garda"
     ],
     "name:deu_x_preferred":[
+        "Garda"
+    ],
+    "name:eng_x_preferred":[
         "Garda"
     ],
     "name:eus_x_preferred":[
@@ -102,7 +115,13 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -111,10 +130,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10518251
+        "gn:id":10518251,
+        "ks:id":"KSA52EB8539A194187917A5C21B902DB34"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4a2773f7ae47253c80b0be87bb38fd4c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"57b8221e0e77af39bbfc690b797de890",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,20 +148,22 @@
         }
     ],
     "wof:id":1326481741,
-    "wof:lastmodified":1566684098,
+    "wof:lastmodified":1682878109,
     "wof:name":"Garda",
     "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.50674000000002,
-    24.20863,
-    83.50674000000002,
-    24.20863
+    83.50646,
+    24.208094,
+    83.507748,
+    24.209369
 ],
-  "geometry": {"coordinates":[83.50674000000002,24.20863],"type":"Point"}
+  "geometry": {"coordinates":[[[83.50716799999999,24.209359],[83.507167,24.209269],[83.507363,24.209266],[83.507362,24.209175],[83.50745999999999,24.209174],[83.507458,24.209084],[83.50755700000001,24.209082],[83.507555,24.208992],[83.507653,24.20899],[83.50765,24.20881],[83.50774800000001,24.208808],[83.507741,24.208447],[83.507643,24.208449],[83.50764100000001,24.208358],[83.507542,24.20836],[83.507541,24.20827],[83.507344,24.208273],[83.50734199999999,24.208183],[83.507244,24.208184],[83.50724200000001,24.208094],[83.506947,24.208099],[83.50694900000001,24.208189],[83.506653,24.208194],[83.50665499999999,24.208284],[83.506557,24.208286],[83.506559,24.208376],[83.50646,24.208378],[83.506478,24.20928],[83.506576,24.209279],[83.506578,24.209369],[83.50716799999999,24.209359]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.50326,25.95342,84.50326,25.95342",
-    "geom:latitude":25.95342,
-    "geom:longitude":84.50326,
+    "geom:bbox":"84.500565,25.952325,84.505147,25.95475",
+    "geom:latitude":25.953334,
+    "geom:longitude":84.502827,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"219.0",
     "gn:asciiname":"Kalan",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.48326,25.93342,84.52326,25.97342",
+    "ks:ks_alt_nam":"Kal\u0101n",
+    "ks:ks_id":"KS048717C5E06740D5A9A18FFBA7158225",
+    "ks:ks_name":"Kalan",
+    "ks:ks_pop":640,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|486841",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1386304",
+    "lbl:latitude":25.953734,
+    "lbl:longitude":84.502671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.953734,
+    "mps:longitude":84.502671,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalan"
     ],
     "name:deu_x_preferred":[
         "Kalan"
+    ],
+    "name:eng_x_preferred":[
+        "Kalan"
+    ],
+    "name:eng_x_variant":[
+        "Kal\u0101n"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0644\u0627\u0646"
@@ -60,7 +77,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10791719
+        "gn:id":10791719,
+        "ks:id":"KS048717C5E06740D5A9A18FFBA7158225"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e74c73da7e235843b31131affdf58cb3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"961026ff0f8b579d07c19eaf3306a0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +110,22 @@
         }
     ],
     "wof:id":1343802809,
-    "wof:lastmodified":1566688585,
+    "wof:lastmodified":1682940772,
     "wof:name":"Kalan",
     "wof:parent_id":1108695919,
     "wof:placetype":"locality",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.50326,
-    25.95342,
-    84.50326,
-    25.95342
+    84.500565,
+    25.952325,
+    84.505147,
+    25.95475
 ],
-  "geometry": {"coordinates":[84.50326,25.95342],"type":"Point"}
+  "geometry": {"coordinates":[[[84.50299099999999,25.95475],[84.50299099999999,25.954481],[84.50326,25.954481],[84.50326,25.953942],[84.50353,25.953942],[84.50353,25.953672],[84.503799,25.953672],[84.503799,25.953403],[84.50514699999999,25.953403],[84.50514699999999,25.952594],[84.504608,25.952594],[84.504608,25.952325],[84.503799,25.952325],[84.503799,25.952594],[84.50326,25.952594],[84.50326,25.952864],[84.50299099999999,25.952864],[84.50299099999999,25.953133],[84.50245200000001,25.953133],[84.50245200000001,25.952864],[84.501374,25.952864],[84.501374,25.952325],[84.500835,25.952325],[84.500835,25.953133],[84.50056499999999,25.953133],[84.50056499999999,25.953672],[84.501913,25.953672],[84.501913,25.954211],[84.502182,25.954211],[84.502182,25.954481],[84.50245200000001,25.954481],[84.50245200000001,25.95475],[84.50299099999999,25.95475]]],"type":"Polygon"}
 }

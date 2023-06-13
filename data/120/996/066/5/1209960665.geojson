@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.58937,27.71065,81.58937,27.71065",
-    "geom:latitude":27.71065,
-    "geom:longitude":81.58937,
+    "geom:bbox":"81.588394,27.709587,81.590222,27.711214",
+    "geom:latitude":27.710503,
+    "geom:longitude":81.589336,
     "gn:admin1_code":"36",
     "gn:admin2_code":"180.0",
     "gn:asciiname":"Rasulpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.56937,27.69065,81.60937,27.73065",
+    "ks:ks_id":"KS4FD790F969A1442198D9BE8AAAAA8F6A",
+    "ks:ks_name":"Rasulpur",
+    "ks:ks_pop":130,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|913945",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2010154",
+    "lbl:latitude":27.710556,
+    "lbl:longitude":81.589353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.710556,
+    "mps:longitude":81.589353,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0633\u064a\u0644\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b0\u09b8\u09c1\u09b2\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Rasulpur"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
@@ -72,7 +85,13 @@
     "name:urd_x_variant":[
         "\u0631\u0633\u0648\u0644\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10560284
+        "gn:id":10560284,
+        "ks:id":"KS4FD790F969A1442198D9BE8AAAAA8F6A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"eb773c46d18a241b04280bda5373b628",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f12b51e4faf5c8b720bf2aaf8c82104e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1209960665,
-    "wof:lastmodified":1577750722,
+    "wof:lastmodified":1682639237,
     "wof:name":"Rasulpur",
     "wof:parent_id":1108695851,
     "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.58937,
-    27.71065,
-    81.58937,
-    27.71065
+    81.588394,
+    27.709587,
+    81.590222,
+    27.711214
 ],
-  "geometry": {"coordinates":[81.58937,27.71065],"type":"Point"}
+  "geometry": {"coordinates":[[[81.58971699999999,27.711211],[81.589716,27.71112],[81.59012199999999,27.711119],[81.59012,27.710848],[81.590222,27.710847],[81.590219,27.710396],[81.590118,27.710397],[81.59011700000001,27.710306],[81.59001600000001,27.710307],[81.59001499999999,27.710036],[81.589913,27.710036],[81.589912,27.709856],[81.589811,27.709856],[81.58981,27.709766],[81.589607,27.709767],[81.589607,27.709677],[81.589404,27.709677],[81.589404,27.709587],[81.589201,27.709588],[81.589201,27.709678],[81.588998,27.709679],[81.588999,27.709769],[81.588897,27.70977],[81.588898,27.70995],[81.588797,27.709951],[81.588797,27.710041],[81.588696,27.710042],[81.588696,27.710132],[81.588798,27.710131],[81.588798,27.710222],[81.588697,27.710222],[81.588697,27.710312],[81.588596,27.710313],[81.58859699999999,27.710403],[81.58849499999999,27.710403],[81.58849600000001,27.710494],[81.58839399999999,27.710494],[81.588397,27.710946],[81.588498,27.710945],[81.588498,27.711035],[81.588701,27.711035],[81.588702,27.711125],[81.588905,27.711124],[81.588905,27.711214],[81.58971699999999,27.711211]]],"type":"Polygon"}
 }

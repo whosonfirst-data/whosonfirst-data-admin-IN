@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.28571,26.1831,81.28571,26.1831",
-    "geom:latitude":26.1831,
-    "geom:longitude":81.28571,
+    "geom:bbox":"81.271155,26.171195,81.273556,26.173185",
+    "geom:latitude":26.172186,
+    "geom:longitude":81.27231,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158.0",
     "gn:asciiname":"Raghunathpur",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.26571,26.1631,81.30571,26.2031",
+    "ks:ks_alt_nam":"Raghun\u0101thpur",
+    "ks:ks_id":"KS113655C430F7432CB466D8A687D18D3E",
+    "ks:ks_name":"Raghunathpur",
+    "ks:ks_pop":1301,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13206453",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1862336",
+    "lbl:latitude":26.172145,
+    "lbl:longitude":81.27231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.172145,
+    "mps:longitude":81.27231,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u0998\u09c1\u09a8\u09be\u09a5\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Raghunathpur"
+    ],
+    "name:eng_x_preferred":[
+        "Raghunathpur"
+    ],
+    "name:eng_x_variant":[
+        "Raghun\u0101thpur"
     ],
     "name:fra_x_preferred":[
         "Raghunathpur"
@@ -54,37 +71,55 @@
     "name:swe_x_preferred":[
         "Raghunathpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890508877
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10761146
+        "gn:id":10761146,
+        "ks:id":"KS113655C430F7432CB466D8A687D18D3E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d34775b08b8f6af1f685600d52b9d6d9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a7aba9e19b62aeac73a7588d5dddc028",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209558631
+            "county_id":890508877,
+            "locality_id":1209558631,
+            "region_id":85672205
         }
     ],
     "wof:id":1209558631,
-    "wof:lastmodified":1566695064,
+    "wof:lastmodified":1682623274,
     "wof:name":"Raghunathpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508877,
     "wof:placetype":"locality",
+    "wof:population":1301,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.28571,
-    26.1831,
-    81.28571,
-    26.1831
+    81.271155,
+    26.171195,
+    81.273556,
+    26.173185
 ],
-  "geometry": {"coordinates":[81.28570999999999,26.1831],"type":"Point"}
+  "geometry": {"coordinates":[[[81.271657,26.173184],[81.271657,26.173094],[81.272057,26.173093],[81.272057,26.173003],[81.272357,26.173002],[81.272357,26.172912],[81.27305699999999,26.172911],[81.27305699999999,26.17282],[81.273257,26.17282],[81.273257,26.17273],[81.273357,26.172729],[81.273357,26.172639],[81.27345699999999,26.172639],[81.273456,26.172458],[81.273556,26.172458],[81.273555,26.171916],[81.273455,26.171917],[81.273455,26.171736],[81.273355,26.171736],[81.273354,26.171556],[81.27325399999999,26.171556],[81.27325399999999,26.171466],[81.27315400000001,26.171466],[81.27315400000001,26.171375],[81.273054,26.171376],[81.273053,26.171285],[81.272853,26.171286],[81.272853,26.171195],[81.272353,26.171196],[81.272353,26.171287],[81.272053,26.171287],[81.272053,26.171377],[81.271653,26.171378],[81.271653,26.171469],[81.27145299999999,26.171469],[81.27145299999999,26.171559],[81.271353,26.171559],[81.271353,26.17183],[81.271253,26.17183],[81.271255,26.172372],[81.27115499999999,26.172372],[81.271156,26.173095],[81.271356,26.173094],[81.27135699999999,26.173185],[81.271657,26.173184]]],"type":"Polygon"}
 }

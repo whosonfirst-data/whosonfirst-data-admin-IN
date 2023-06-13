@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.78493,31.91979,74.78493,31.91979",
-    "geom:latitude":31.91979,
-    "geom:longitude":74.78493,
+    "geom:bbox":"74.784814,31.919215,74.785767,31.919938",
+    "geom:latitude":31.919594,
+    "geom:longitude":74.785258,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"49.0",
     "gn:asciiname":"Ghalib",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.76493,31.89979,74.80493,31.93979",
+    "ks:ks_id":"KS495FCEE7BEA642A1B12BA474663B734C",
+    "ks:ks_name":"Ghalib",
+    "ks:ks_pop":684,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13129385",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2526215",
+    "lbl:latitude":31.919604,
+    "lbl:longitude":74.785249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.919604,
+    "mps:longitude":74.785249,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627 \u063a\u0627\u0644\u0628"
@@ -59,6 +69,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03af\u03c1\u03c4\u03c3\u03b1 \u0393\u03ba\u03b1\u03bb\u03af\u03bc\u03c0"
+    ],
+    "name:eng_x_preferred":[
+        "Ghalib"
     ],
     "name:fas_x_preferred":[
         "\u063a\u0627\u0644\u0628 \u062f\u0647\u0644\u0648\u06cc"
@@ -159,7 +172,13 @@
     "name:zho_x_preferred":[
         "\u7c73\u5c14\u624e\u00b7\u8fe6\u5229\u5e03"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -168,10 +187,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695468
+        "gn:id":10695468,
+        "ks:id":"KS495FCEE7BEA642A1B12BA474663B734C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9278980e56e23e615e4358233114fff7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5913134ff2b7f72c40c4a07dfa3a5618",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,20 +205,22 @@
         }
     ],
     "wof:id":1192976597,
-    "wof:lastmodified":1566698250,
+    "wof:lastmodified":1682581292,
     "wof:name":"Ghalib",
     "wof:parent_id":890508847,
     "wof:placetype":"locality",
+    "wof:population":684,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.78493,
-    31.91979000000001,
-    74.78493,
-    31.91979000000001
+    74.784814,
+    31.919215,
+    74.785767,
+    31.919938
 ],
-  "geometry": {"coordinates":[74.78493,31.91979000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[74.785554,31.919938],[74.785555,31.919847],[74.78565999999999,31.919848],[74.78565999999999,31.919757],[74.785766,31.919758],[74.78576700000001,31.919487],[74.785661,31.919487],[74.785661,31.919397],[74.785556,31.919396],[74.785556,31.919306],[74.78534399999999,31.919306],[74.78534399999999,31.919216],[74.785027,31.919215],[74.785027,31.919305],[74.78481499999999,31.919305],[74.784814,31.919846],[74.785026,31.919847],[74.785025,31.919937],[74.785554,31.919938]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.1154,25.30329,84.1154,25.30329",
-    "geom:latitude":25.30329,
-    "geom:longitude":84.1154,
+    "geom:bbox":"84.11462,25.302232,84.116499,25.304416",
+    "geom:latitude":25.303261,
+    "geom:longitude":84.115567,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"234.0",
     "gn:asciiname":"Dehri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.0954,25.28329,84.1354,25.32329",
+    "ks:ks_id":"KS71F010CB032A4BDAB7E5843814CC5754",
+    "ks:ks_name":"Dehri",
+    "ks:ks_pop":757,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13284817",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2056400",
+    "lbl:latitude":25.303218,
+    "lbl:longitude":84.115585,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.303218,
+    "mps:longitude":84.115585,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09b9\u09b0\u09c0"
@@ -43,6 +53,9 @@
         "Dehri"
     ],
     "name:deu_x_preferred":[
+        "Dehri"
+    ],
+    "name:eng_x_preferred":[
         "Dehri"
     ],
     "name:fra_x_preferred":[
@@ -84,7 +97,13 @@
     "name:zho_x_preferred":[
         "\u5fb7\u8d6b\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -93,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835621
+        "gn:id":10835621,
+        "ks:id":"KS71F010CB032A4BDAB7E5843814CC5754"
     },
     "wof:country":"IN",
-    "wof:geomhash":"dd36e87969e71d183c4458e499118d30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46339e5cee622c70aebb58d188e2ab9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,20 +130,22 @@
         }
     ],
     "wof:id":1310346277,
-    "wof:lastmodified":1566702121,
+    "wof:lastmodified":1682862187,
     "wof:name":"Dehri",
     "wof:parent_id":1108695945,
     "wof:placetype":"locality",
+    "wof:population":757,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.1154,
-    25.30329,
-    84.1154,
-    25.30329
+    84.11462,
+    25.302232,
+    84.116499,
+    25.304416
 ],
-  "geometry": {"coordinates":[84.11539999999999,25.30329],"type":"Point"}
+  "geometry": {"coordinates":[[[84.115977,25.304416],[84.115979,25.304326],[84.116078,25.304328],[84.11608,25.304237],[84.11618,25.304239],[84.11618199999999,25.304149],[84.116281,25.304151],[84.116285,25.303971],[84.116384,25.303973],[84.11639700000001,25.303431],[84.116496,25.303433],[84.116499,25.303343],[84.116399,25.303341],[84.11640800000001,25.302981],[84.116309,25.302979],[84.11631300000001,25.302798],[84.116214,25.302796],[84.116218,25.302616],[84.116119,25.302614],[84.11612100000001,25.302524],[84.116022,25.302522],[84.116024,25.302432],[84.115825,25.302428],[84.11582799999999,25.302338],[84.115728,25.302336],[84.115731,25.302245],[84.115036,25.302232],[84.11503399999999,25.302322],[84.114835,25.302318],[84.114833,25.302408],[84.114734,25.302406],[84.114732,25.302497],[84.114633,25.302495],[84.11462,25.303036],[84.11471899999999,25.303038],[84.114715,25.303218],[84.114814,25.30322],[84.114808,25.303491],[84.114907,25.303493],[84.114903,25.303673],[84.115002,25.303675],[84.114998,25.303855],[84.11509700000001,25.303857],[84.115095,25.303947],[84.115194,25.303949],[84.11519,25.30413],[84.115289,25.304132],[84.115287,25.304222],[84.115386,25.304224],[84.11538400000001,25.304314],[84.115483,25.304316],[84.115481,25.304406],[84.115977,25.304416]]],"type":"Polygon"}
 }

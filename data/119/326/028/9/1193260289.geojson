@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.53538,20.59225,79.53538,20.59225",
-    "geom:latitude":20.59225,
-    "geom:longitude":79.53538,
+    "geom:bbox":"79.535042,20.591403,79.536299,20.593033",
+    "geom:latitude":20.592166,
+    "geom:longitude":79.535621,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Dongargaon",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.51538,20.57225,79.55538,20.61225",
+    "ks:ks_id":"KS4DDD1BAF83FF4817B44F066B26E51D07",
+    "ks:ks_name":"Dongargaon",
+    "ks:ks_pop":239,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|308945",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_946632",
+    "lbl:latitude":20.592147,
+    "lbl:longitude":79.535609,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.592147,
+    "mps:longitude":79.535609,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u0999\u09cd\u0997\u09be\u09b0\u0997\u09be\u0981\u0993"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Dongargaon"
+    ],
+    "name:eng_x_preferred":[
+        "Dongargaon"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0902\u0917\u0930\u0917\u093e\u0902\u0935"
     ],
     "name:ita_x_preferred":[
         "Dongargaon"
@@ -69,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u4e1c\u683c\u963f\u5c14\u52a0\u5965\u6069"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10576162
+        "gn:id":10576162,
+        "ks:id":"KS4DDD1BAF83FF4817B44F066B26E51D07"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b109a99e3772d0f3a9352f73e9481783",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88115476dfcff0a43adc678b62d19a20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1193260289,
-    "wof:lastmodified":1566698886,
+    "wof:lastmodified":1686163588,
     "wof:name":"Dongargaon",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.53538,
-    20.59225,
-    79.53538,
-    20.59225
+    79.535042,
+    20.591403,
+    79.536299,
+    20.593033
 ],
-  "geometry": {"coordinates":[79.53538,20.59225],"type":"Point"}
+  "geometry": {"coordinates":[[[79.53570999999999,20.593033],[79.53571100000001,20.592942],[79.535999,20.592945],[79.53600400000001,20.592403],[79.5361,20.592404],[79.536103,20.592133],[79.536199,20.592133],[79.53619999999999,20.591953],[79.53629599999999,20.591954],[79.536299,20.591683],[79.536203,20.591682],[79.536204,20.591591],[79.536108,20.591591],[79.536109,20.5915],[79.535917,20.591499],[79.535918,20.591408],[79.535246,20.591403],[79.535245,20.591493],[79.53515,20.591492],[79.53514300000001,20.592125],[79.535048,20.592124],[79.535042,20.592666],[79.535138,20.592667],[79.53513700000001,20.592757],[79.53523300000001,20.592758],[79.53523199999999,20.592938],[79.53542299999999,20.59294],[79.53542299999999,20.59303],[79.53570999999999,20.593033]]],"type":"Polygon"}
 }

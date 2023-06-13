@@ -11,12 +11,18 @@
     "geom:longitude":82.149495,
     "gn:population":25235,
     "iso:country":"IN",
-    "lbl:latitude":21.656941,
-    "lbl:longitude":82.160892,
+    "ks:ks_id":"KSD17121AA00F24FD3A7594312D1CBE030",
+    "ks:ks_name":"Baloda Bazar",
+    "ks:ks_pop":149109,
+    "ks:ks_popsource":2001,
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_1006877",
+    "lbl:latitude":21.659596,
+    "lbl:longitude":82.148651,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":21.652323,
-    "mps:longitude":82.166748,
+    "mps:latitude":21.659596,
+    "mps:longitude":82.148651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -36,6 +42,9 @@
     "name:eng_x_preferred":[
         "Baloda Bazar"
     ],
+    "name:eng_x_variant":[
+        "Baloda B\u0101z\u0101r"
+    ],
     "name:fra_x_preferred":[
         "Baloda Bazar"
     ],
@@ -43,6 +52,9 @@
         "\u0aac\u0ab2\u0acb\u0aa1\u0abe \u0aac\u0a9c\u0abe\u0ab0"
     ],
     "name:hin_x_preferred":[
+        "\u092c\u0932\u094c\u0926\u093e \u092c\u093e\u095b\u093e\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u092c\u0932\u094c\u0926\u093e \u092c\u093e\u091c\u093c\u093e\u0930"
     ],
     "name:ita_x_preferred":[
@@ -120,10 +132,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":449,
     "wof:belongsto":[
         102191569,
@@ -135,13 +149,16 @@
     "wof:concordances":{
         "gn:id":1277530,
         "gp:id":2289580,
+        "ks:id":"KSD17121AA00F24FD3A7594312D1CBE030",
         "qs_pg:id":194734,
         "wd:id":"Q625680",
         "wk:page":"Baloda Bazar"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"65e74b44a036d52d91df12d48f128c72",
     "wof:hierarchy":[
@@ -154,12 +171,12 @@
         }
     ],
     "wof:id":102030835,
-    "wof:lastmodified":1658780733,
-    "wof:name":"Baloda B\u0101z\u0101r",
+    "wof:lastmodified":1686162183,
+    "wof:name":"Baloda Bazar",
     "wof:parent_id":1108696189,
     "wof:placetype":"locality",
-    "wof:population":25235,
-    "wof:population_rank":7,
+    "wof:population":149109,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

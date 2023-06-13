@@ -14,11 +14,19 @@
     "gn:population":65598,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"75.27819,21.22706,75.31819,21.26706",
-    "lbl:latitude":21.243506,
-    "lbl:longitude":75.295021,
+    "ks:ks_id":"KS9D30DB7830964B7AB780F69825B7A8DC",
+    "ks:ks_name":"Chopda",
+    "ks:ks_pop":60865,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2093526",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_857996",
+    "lbl:latitude":21.242749,
+    "lbl:longitude":75.300767,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":21.242749,
+    "mps:longitude":75.300767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -46,6 +54,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0aaa\u0aa1\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u092a\u095c\u093e"
     ],
     "name:ita_x_preferred":[
         "Chopda"
@@ -112,10 +123,12 @@
     "reversegeo:longitude":75.295021,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":735,
     "wof:belongsto":[
         102191569,
@@ -127,12 +140,17 @@
     "wof:concordances":{
         "gn:id":1273992,
         "gp:id":2292541,
+        "ks:id":"KS9D30DB7830964B7AB780F69825B7A8DC",
         "qs_pg:id":276423,
         "wd:id":"Q1192614",
         "wk:page":"Chopda"
     },
     "wof:country":"IN",
     "wof:created":1469055382,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"6ab28d1f2845f08d868216c5d4217019",
     "wof:hierarchy":[
         {
@@ -144,11 +162,11 @@
         }
     ],
     "wof:id":890503369,
-    "wof:lastmodified":1658780797,
+    "wof:lastmodified":1686163910,
     "wof:name":"Chopda",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
-    "wof:population":65598,
+    "wof:population":60865,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

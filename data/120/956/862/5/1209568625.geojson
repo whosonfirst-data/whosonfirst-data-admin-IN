@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        890506471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10456901
     },
     "wof:country":"IN",
-    "wof:geomhash":"94984e40d86a799b90a9d7a8e21e6c71",
+    "wof:geomhash":"c8fcc7b806645a8911d12d8645b6cb82",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209568625
+            "county_id":890506471,
+            "locality_id":1209568625,
+            "region_id":85672239
         }
     ],
     "wof:id":1209568625,
-    "wof:lastmodified":1566696395,
+    "wof:lastmodified":1682624573,
     "wof:name":"Pirarai",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890506471,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847144825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     79.53997,
-    23.44437000000001,
+    23.44437,
     79.53997,
-    23.44437000000001
+    23.44437
 ],
-  "geometry": {"coordinates":[79.53997,23.44437000000001],"type":"Point"}
+  "geometry": {"coordinates":[79.53997,23.44437],"type":"Point"}
 }

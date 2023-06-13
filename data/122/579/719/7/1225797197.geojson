@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.53696,25.54892,81.53696,25.54892",
-    "geom:latitude":25.54892,
-    "geom:longitude":81.53696,
+    "geom:bbox":"81.535855,25.547814,81.538011,25.550239",
+    "geom:latitude":25.548837,
+    "geom:longitude":81.536853,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"174.0",
     "gn:asciiname":"Shergarh",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.51696,25.52892,81.55696,25.56892",
+    "ks:ks_id":"KS571738FC168A48ABB18B05989EDBDC69",
+    "ks:ks_name":"Ser Garh",
+    "ks:ks_pop":1257,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|972806",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_803996",
+    "lbl:latitude":25.548499,
+    "lbl:longitude":81.536941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.548499,
+    "mps:longitude":81.536941,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Shergarh"
+    ],
+    "name:eng_x_preferred":[
+        "Ser Garh"
+    ],
+    "name:eng_x_variant":[
         "Shergarh"
     ],
     "name:pol_x_preferred":[
@@ -39,7 +55,13 @@
     "name:swe_x_preferred":[
         "Shergarh"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10667133
+        "gn:id":10667133,
+        "ks:id":"KS571738FC168A48ABB18B05989EDBDC69"
     },
     "wof:country":"IN",
-    "wof:geomhash":"52de1eefc8ea0f2c4edc389f8504c940",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"59c0368940cbe818292ea04bc379db6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1225797197,
-    "wof:lastmodified":1566713738,
-    "wof:name":"Shergarh",
+    "wof:lastmodified":1682643590,
+    "wof:name":"Ser Garh",
     "wof:parent_id":1108695841,
     "wof:placetype":"locality",
+    "wof:population":1257,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.53696,
-    25.54892000000001,
-    81.53696,
-    25.54892000000001
+    81.535855,
+    25.547814,
+    81.538011,
+    25.550239
 ],
-  "geometry": {"coordinates":[81.53695999999999,25.54892000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[81.536664,25.550239],[81.536664,25.549161],[81.536933,25.549161],[81.536933,25.549431],[81.538011,25.549431],[81.538011,25.547814],[81.536394,25.547814],[81.536394,25.548083],[81.535855,25.548083],[81.535855,25.550239],[81.536664,25.550239]]],"type":"Polygon"}
 }

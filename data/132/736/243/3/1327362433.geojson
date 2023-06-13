@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.19617,30.49669,78.19617,30.49669",
-    "geom:latitude":30.49669,
-    "geom:longitude":78.19617,
+    "geom:bbox":"78.193616,30.495435,78.196046,30.497236",
+    "geom:latitude":30.496332,
+    "geom:longitude":78.194786,
     "gn:admin1_code":"39.0",
     "gn:admin2_code":"59.0",
     "gn:asciiname":"Maid",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.17617,30.47669,78.21617,30.51669",
+    "ks:ks_id":"KS2BBC2FABC89E4E40B2442855C2E4C361",
+    "ks:ks_name":"Maid",
+    "ks:ks_pop":440,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|651733",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2640740",
+    "lbl:latitude":30.496417,
+    "lbl:longitude":78.194641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.496417,
+    "mps:longitude":78.194641,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u062f\u0645\u0629 \u0627\u0644\u0645\u0646\u0632\u0644"
@@ -47,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Magd"
+    ],
+    "name:eng_x_preferred":[
+        "Maid"
     ],
     "name:eus_x_preferred":[
         "Neskame"
@@ -96,7 +109,13 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043a\u043e\u0457\u0432\u043a\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -105,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10323334
+        "gn:id":10323334,
+        "ks:id":"KS2BBC2FABC89E4E40B2442855C2E4C361"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8e217491cea46498e81f11ee770594c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad0a084b6c066ea6dce31bff6f8a8a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,20 +142,22 @@
         }
     ],
     "wof:id":1327362433,
-    "wof:lastmodified":1566681237,
+    "wof:lastmodified":1682912571,
     "wof:name":"Maid",
     "wof:parent_id":890511209,
     "wof:placetype":"locality",
+    "wof:population":440,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.19617,
-    30.49669,
-    78.19617,
-    30.49669
+    78.193616,
+    30.495435,
+    78.196046,
+    30.497236
 ],
-  "geometry": {"coordinates":[78.19617,30.49669],"type":"Point"}
+  "geometry": {"coordinates":[[[78.19496100000001,30.497236],[78.194964,30.497146],[78.19527600000001,30.497152],[78.195279,30.497062],[78.19538300000001,30.497065],[78.195385,30.496974],[78.19548899999999,30.496977],[78.195497,30.496706],[78.195601,30.496708],[78.195604,30.496618],[78.195708,30.496621],[78.195713,30.49644],[78.19581700000001,30.496443],[78.19582,30.496352],[78.19592400000001,30.496355],[78.19592900000001,30.496174],[78.196033,30.496177],[78.196046,30.495726],[78.195942,30.495724],[78.19594499999999,30.495634],[78.19584,30.495631],[78.195843,30.495541],[78.195739,30.495539],[78.195742,30.495449],[78.195117,30.495435],[78.195114,30.495526],[78.194906,30.495521],[78.19490399999999,30.495611],[78.194175,30.495596],[78.19417300000001,30.495686],[78.19396399999999,30.495681],[78.19395900000001,30.495861],[78.193855,30.495859],[78.193853,30.495949],[78.193748,30.495947],[78.193741,30.496217],[78.193637,30.496215],[78.19361600000001,30.496936],[78.19372,30.496939],[78.19371700000001,30.497029],[78.193821,30.497031],[78.193819,30.497121],[78.19402700000001,30.497125],[78.194024,30.497216],[78.19496100000001,30.497236]]],"type":"Polygon"}
 }

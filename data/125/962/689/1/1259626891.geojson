@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.04852,25.85655,82.04852,25.85655",
-    "geom:latitude":25.85655,
-    "geom:longitude":82.04852,
+    "geom:bbox":"82.047739,25.855327,82.049448,25.857584",
+    "geom:latitude":25.856403,
+    "geom:longitude":82.048552,
     "gn:admin1_code":"36",
     "gn:admin2_code":"173.0",
     "gn:asciiname":"Kadipur",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.02852,25.83655,82.06852,25.87655",
+    "ks:ks_alt_nam":"K\u0101d\u012bpur",
+    "ks:ks_id":"KSD1403F87CB06408F97B95555426DEC74",
+    "ks:ks_name":"Kadipur",
+    "ks:ks_pop":412,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12988654",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1924453",
+    "lbl:latitude":25.856405,
+    "lbl:longitude":82.048568,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.856405,
+    "mps:longitude":82.048568,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a6\u09bf\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "K\u0101d\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kadipur"
+    ],
+    "name:eng_x_variant":[
         "K\u0101d\u012bpur"
     ],
     "name:fra_x_preferred":[
@@ -75,7 +92,13 @@
     "name:zho_x_preferred":[
         "\u5361\u8fea\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10538216
+        "gn:id":10538216,
+        "ks:id":"KSD1403F87CB06408F97B95555426DEC74"
     },
     "wof:country":"IN",
-    "wof:geomhash":"99e8d5063014c291b85f318776bff1c9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"749c2f0e553414a1ee96282bfe714150",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +125,22 @@
         }
     ],
     "wof:id":1259626891,
-    "wof:lastmodified":1566708968,
+    "wof:lastmodified":1682732917,
     "wof:name":"Kadipur",
     "wof:parent_id":1108695839,
     "wof:placetype":"locality",
+    "wof:population":412,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.04852,
-    25.85655,
-    82.04852,
-    25.85655
+    82.047739,
+    25.855327,
+    82.049448,
+    25.857584
 ],
-  "geometry": {"coordinates":[82.04852,25.85655],"type":"Point"}
+  "geometry": {"coordinates":[[[82.048754,25.857491],[82.048753,25.857401],[82.049053,25.857398],[82.049052,25.857308],[82.04915200000001,25.857307],[82.04915099999999,25.857217],[82.049251,25.857216],[82.04925,25.857126],[82.04935,25.857125],[82.04934799999999,25.856945],[82.049448,25.856944],[82.049442,25.856312],[82.04934299999999,25.856313],[82.049339,25.855952],[82.04924,25.855952],[82.049239,25.855862],[82.049139,25.855863],[82.049137,25.855682],[82.049038,25.855683],[82.049037,25.855593],[82.04883700000001,25.855594],[82.04883700000001,25.855504],[82.048637,25.855505],[82.048636,25.855415],[82.048337,25.855417],[82.04833600000001,25.855327],[82.047837,25.855331],[82.047839,25.855511],[82.04773900000001,25.855512],[82.04774999999999,25.856776],[82.04785,25.856775],[82.04785099999999,25.856865],[82.04795,25.856865],[82.047952,25.857045],[82.048052,25.857045],[82.048053,25.857135],[82.048152,25.857134],[82.048153,25.857224],[82.048253,25.857224],[82.048255,25.857404],[82.048354,25.857404],[82.048356,25.857584],[82.048556,25.857583],[82.04855499999999,25.857492],[82.048754,25.857491]]],"type":"Polygon"}
 }

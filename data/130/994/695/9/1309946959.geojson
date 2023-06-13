@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.21322,24.69142,84.21322,24.69142",
-    "geom:latitude":24.69142,
-    "geom:longitude":84.21322,
+    "geom:bbox":"84.212429,24.689935,84.214129,24.692109",
+    "geom:latitude":24.691112,
+    "geom:longitude":84.213301,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Karma",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.19322,24.67142,84.23322,24.71142",
+    "ks:ks_id":"KS166C431FB6E84E03A4D57362E3708F16",
+    "ks:ks_name":"Karman",
+    "ks:ks_pop":296,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1034000803891000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1151396",
+    "lbl:latitude":24.691117,
+    "lbl:longitude":84.213317,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.691117,
+    "mps:longitude":84.213317,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Karma"
@@ -65,6 +75,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c1\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Karman"
+    ],
+    "name:eng_x_variant":[
+        "Karma"
     ],
     "name:epo_x_preferred":[
         "Karmo"
@@ -231,7 +247,13 @@
     "name:vie_x_preferred":[
         "Nghi\u1ec7p"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -240,10 +262,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10835210
+        "gn:id":10835210,
+        "ks:id":"KS166C431FB6E84E03A4D57362E3708F16"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d58acf30bb49cd2374291d5732bffe1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b65c7229e317f1df1ca37e27c67c1a70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,20 +280,22 @@
         }
     ],
     "wof:id":1309946959,
-    "wof:lastmodified":1566704653,
-    "wof:name":"Karma",
+    "wof:lastmodified":1682846417,
+    "wof:name":"Karman",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.21321999999998,
-    24.69142,
-    84.21321999999998,
-    24.69142
+    84.212429,
+    24.689935,
+    84.214129,
+    24.692109
 ],
-  "geometry": {"coordinates":[84.21321999999998,24.69142],"type":"Point"}
+  "geometry": {"coordinates":[[[84.213611,24.692109],[84.213613,24.692018],[84.21381100000001,24.692022],[84.213813,24.691932],[84.21391199999999,24.691934],[84.213914,24.691844],[84.214012,24.691845],[84.214016,24.691665],[84.21411500000001,24.691667],[84.214129,24.691035],[84.21402999999999,24.691034],[84.21404099999999,24.690583],[84.213942,24.690581],[84.21395,24.69022],[84.21385100000001,24.690218],[84.213855,24.690038],[84.213756,24.690036],[84.213758,24.689946],[84.213166,24.689935],[84.21316400000001,24.690025],[84.21296599999999,24.690021],[84.212962,24.690202],[84.212864,24.6902],[84.21286000000001,24.69038],[84.212761,24.690378],[84.212755,24.690649],[84.212656,24.690647],[84.21265,24.690918],[84.212551,24.690916],[84.21254500000001,24.691186],[84.212447,24.691185],[84.212429,24.691996],[84.212626,24.692],[84.21262400000001,24.69209],[84.213611,24.692109]]],"type":"Polygon"}
 }

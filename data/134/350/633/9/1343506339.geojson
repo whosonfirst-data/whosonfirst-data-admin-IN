@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.71113,24.99636,85.71113,24.99636",
-    "geom:latitude":24.99636,
-    "geom:longitude":85.71113,
+    "geom:bbox":"85.710805,24.995894,85.7117,24.996892",
+    "geom:latitude":24.996362,
+    "geom:longitude":85.711271,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Karmaniya",
@@ -24,13 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.69113,24.97636,85.73113,25.01636",
+    "ks:ks_alt_nam":"KARMANIYA",
+    "ks:ks_id":"KS3B52324C7FA143A9BCF282B96629D93F",
+    "ks:ks_name":"Karmaniya",
+    "ks:ks_pop":324,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|515788",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1157211",
+    "lbl:latitude":24.996368,
+    "lbl:longitude":85.71128,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.996368,
+    "mps:longitude":85.71128,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Karmaniya"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10885665
+        "gn:id":10885665,
+        "ks:id":"KS3B52324C7FA143A9BCF282B96629D93F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4976ffe8de7f58c587a5451dcbeb002c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af777143408dbca245913907e5102155",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +77,22 @@
         }
     ],
     "wof:id":1343506339,
-    "wof:lastmodified":1566687406,
+    "wof:lastmodified":1682929972,
     "wof:name":"Karmaniya",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.71113000000003,
-    24.99636,
-    85.71113000000003,
-    24.99636
+    85.710805,
+    24.995894,
+    85.7117,
+    24.996892
 ],
-  "geometry": {"coordinates":[85.71113000000003,24.99636],"type":"Point"}
+  "geometry": {"coordinates":[[[85.711494,24.996892],[85.711495,24.996802],[85.71159400000001,24.996802],[85.711596,24.996622],[85.71169500000001,24.996623],[85.71169999999999,24.996171],[85.7116,24.99617],[85.711602,24.99599],[85.71150299999999,24.995989],[85.71150400000001,24.995899],[85.711009,24.995894],[85.71100800000001,24.995985],[85.710909,24.995984],[85.710908,24.996074],[85.710809,24.996073],[85.71080499999999,24.996434],[85.710904,24.996435],[85.710902,24.996616],[85.711001,24.996617],[85.711,24.996707],[85.711099,24.996708],[85.711099,24.996798],[85.711198,24.996799],[85.711197,24.996889],[85.711494,24.996892]]],"type":"Polygon"}
 }

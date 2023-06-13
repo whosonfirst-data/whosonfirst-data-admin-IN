@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.28513,20.36841,78.28513,20.36841",
-    "geom:latitude":20.36841,
-    "geom:longitude":78.28513,
+    "geom:bbox":"78.284473,20.367377,78.285914,20.368921",
+    "geom:latitude":20.368116,
+    "geom:longitude":78.285223,
     "gn:admin1_code":"16",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Ganda",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.26513,20.34841,78.30513,20.38841",
+    "ks:ks_id":"KSF516D41986EC4F839E5FEF20D696905E",
+    "ks:ks_name":"Gandha",
+    "ks:ks_pop":156,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|340440",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_870649",
+    "lbl:latitude":20.368108,
+    "lbl:longitude":78.285237,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.368108,
+    "mps:longitude":78.285237,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ganda"
     ],
     "name:deu_x_preferred":[
+        "Ganda"
+    ],
+    "name:eng_x_preferred":[
+        "Gandha"
+    ],
+    "name:eng_x_variant":[
         "Ganda"
     ],
     "name:fin_x_preferred":[
@@ -51,7 +67,13 @@
     "name:swe_x_preferred":[
         "Ganda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10453439
+        "gn:id":10453439,
+        "ks:id":"KSF516D41986EC4F839E5FEF20D696905E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fcbd9ee38c9b8f2afd8be61772c925ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88069745148f4b8a178f0e2ffb858ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1276941281,
-    "wof:lastmodified":1566692666,
-    "wof:name":"Ganda",
+    "wof:lastmodified":1682792312,
+    "wof:name":"Gandha",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.28513000000002,
-    20.36841,
-    78.28513000000002,
-    20.36841
+    78.284473,
+    20.367377,
+    78.285914,
+    20.368921
 ],
-  "geometry": {"coordinates":[78.28513000000002,20.36841],"type":"Point"}
+  "geometry": {"coordinates":[[[78.285512,20.368921],[78.28551299999999,20.36883],[78.28560899999999,20.368832],[78.285611,20.368742],[78.285706,20.368743],[78.285708,20.368653],[78.285804,20.368654],[78.285808,20.368384],[78.285904,20.368385],[78.28591400000001,20.367844],[78.28581800000001,20.367842],[78.285821,20.367662],[78.285725,20.36766],[78.28572699999999,20.36757],[78.28553599999999,20.367567],[78.28553700000001,20.367477],[78.285346,20.367474],[78.285347,20.367383],[78.284964,20.367377],[78.284963,20.367468],[78.284676,20.367463],[78.284674,20.367553],[78.284578,20.367552],[78.28457400000001,20.367823],[78.28447799999999,20.367821],[78.28447300000001,20.368092],[78.284569,20.368094],[78.284566,20.368274],[78.284661,20.368276],[78.28465799999999,20.368456],[78.28475400000001,20.368458],[78.284752,20.368548],[78.284848,20.368549],[78.284845,20.36873],[78.284941,20.368731],[78.28493899999999,20.368822],[78.28513100000001,20.368825],[78.285129,20.368915],[78.285512,20.368921]]],"type":"Polygon"}
 }

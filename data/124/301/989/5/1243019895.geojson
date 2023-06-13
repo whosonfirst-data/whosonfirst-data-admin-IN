@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.35264,20.63196,81.35264,20.63196",
-    "geom:latitude":20.63196,
-    "geom:longitude":81.35264,
+    "geom:bbox":"81.351521,20.631694,81.352599,20.632502",
+    "geom:latitude":20.632073,
+    "geom:longitude":81.352023,
     "gn:admin1_code":"37.0",
     "gn:admin2_code":"409.0",
     "gn:asciiname":"Kariatola",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.33264,20.61196,81.37264,20.65196",
+    "ks:ks_id":"KSCC9D67C01D834C12A208E498E46FBA00",
+    "ks:ks_name":"Kariatola",
+    "ks:ks_pop":132,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1167120",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_657927",
+    "lbl:latitude":20.632098,
+    "lbl:longitude":81.351951,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.632098,
+    "mps:longitude":81.351951,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kariatola"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10693802
+        "gn:id":10693802,
+        "ks:id":"KSCC9D67C01D834C12A208E498E46FBA00"
     },
     "wof:country":"IN",
-    "wof:geomhash":"84b69329eb00392ccb7d096d69e66dc5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e8c2382e284c03b5012b9bbe4c8147f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243019895,
-    "wof:lastmodified":1566705775,
+    "wof:lastmodified":1682700589,
     "wof:name":"Kariatola",
     "wof:parent_id":1108696187,
     "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.35264000000002,
-    20.63196,
-    81.35264000000002,
-    20.63196
+    81.351521,
+    20.631694,
+    81.352599,
+    20.632502
 ],
-  "geometry": {"coordinates":[81.35264000000002,20.63196],"type":"Point"}
+  "geometry": {"coordinates":[[[81.352329,20.632502],[81.352329,20.632233],[81.352599,20.632233],[81.352599,20.631694],[81.35152100000001,20.631694],[81.35152100000001,20.632502],[81.352329,20.632502]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.44172,21.66506,81.44172,21.66506",
-    "geom:latitude":21.66506,
-    "geom:longitude":81.44172,
+    "geom:bbox":"81.438837,21.663858,81.443149,21.666014",
+    "geom:latitude":21.664879,
+    "geom:longitude":81.440956,
     "gn:admin1_code":"37",
     "gn:admin2_code":"409.0",
     "gn:asciiname":"Hargaon",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.42172,21.64506,81.46172,21.68506",
+    "ks:ks_id":"KS45DFBDD2FF0B4FEF8079AAA2F64E4412",
+    "ks:ks_name":"Hadgaon",
+    "ks:ks_pop":485,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1165904",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_690755",
+    "lbl:latitude":21.665009,
+    "lbl:longitude":81.441495,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.665009,
+    "mps:longitude":81.441495,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b9\u09b0\u0997\u09be\u0981\u0993"
+    ],
+    "name:eng_x_preferred":[
+        "Hadgaon"
+    ],
+    "name:eng_x_variant":[
+        "Hargaon"
     ],
     "name:hin_x_preferred":[
         "\u0939\u0930\u0917\u093e\u0901\u0935"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u5c14\u52a0\u5965\u6069"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10447374
+        "gn:id":10447374,
+        "ks:id":"KS45DFBDD2FF0B4FEF8079AAA2F64E4412"
     },
     "wof:country":"IN",
-    "wof:geomhash":"deec4edf1cc8d10a34dc214a916cff04",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c9f17921daf4e8ee7c872a3225951f19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1293341815,
-    "wof:lastmodified":1566690936,
-    "wof:name":"Hargaon",
+    "wof:lastmodified":1682814112,
+    "wof:name":"Hadgaon",
     "wof:parent_id":1108696187,
     "wof:placetype":"locality",
+    "wof:population":485,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.44171999999998,
-    21.66506,
-    81.44171999999998,
-    21.66506
+    81.438837,
+    21.663858,
+    81.443149,
+    21.666014
 ],
-  "geometry": {"coordinates":[81.44171999999998,21.66506],"type":"Point"}
+  "geometry": {"coordinates":[[[81.441532,21.666014],[81.441532,21.665744],[81.441802,21.665744],[81.441802,21.665475],[81.442341,21.665475],[81.442341,21.665205],[81.44261,21.665205],[81.44261,21.665475],[81.44288,21.665475],[81.44288,21.665205],[81.44314900000001,21.665205],[81.44314900000001,21.664397],[81.44126300000001,21.664397],[81.44126300000001,21.664127],[81.440724,21.664127],[81.440724,21.664397],[81.439915,21.664397],[81.439915,21.663858],[81.439376,21.663858],[81.439376,21.664127],[81.43910700000001,21.664127],[81.43910700000001,21.664397],[81.43883700000001,21.664397],[81.43883700000001,21.664936],[81.43910700000001,21.664936],[81.43910700000001,21.665205],[81.439376,21.665205],[81.439376,21.665475],[81.440454,21.665475],[81.440454,21.665205],[81.44099300000001,21.665205],[81.44099300000001,21.666014],[81.441532,21.666014]]],"type":"Polygon"}
 }

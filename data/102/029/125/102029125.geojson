@@ -12,12 +12,20 @@
     "gn:latitude":18.53797,
     "gn:longitude":73.22218,
     "iso:country":"IN",
-    "lbl:latitude":18.538242,
-    "lbl:longitude":73.221099,
+    "ks:ks_alt_nam":"P\u0101li",
+    "ks:ks_id":"KS90E3327367114C70810ED57497AEBDC1",
+    "ks:ks_name":"Pali",
+    "ks:ks_pop":8172,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2106862",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_420068",
+    "lbl:latitude":18.539355,
+    "lbl:longitude":73.219828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":18.693082,
-    "mps:longitude":72.965698,
+    "mps:latitude":18.539355,
+    "mps:longitude":73.219828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -34,11 +42,17 @@
     "name:eng_x_preferred":[
         "Pali"
     ],
+    "name:eng_x_variant":[
+        "P\u0101li"
+    ],
     "name:fra_x_preferred":[
         "Pali"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab2\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0932\u0940"
     ],
     "name:ita_x_preferred":[
         "Pali"
@@ -98,9 +112,12 @@
     "reversegeo:longitude":73.221099,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -111,10 +128,15 @@
     "wof:concordances":{
         "gn:id":1260722,
         "gp:id":29039504,
+        "ks:id":"KS90E3327367114C70810ED57497AEBDC1",
         "wd:id":"Q3891768",
         "wk:page":"Pali, Raigad"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"966389de5229062ef5829ceee2c8829c",
     "wof:hierarchy":[
         {
@@ -126,10 +148,12 @@
         }
     ],
     "wof:id":102029125,
-    "wof:lastmodified":1658780771,
-    "wof:name":"P\u0101li",
+    "wof:lastmodified":1686162203,
+    "wof:name":"Pali",
     "wof:parent_id":1108696305,
     "wof:placetype":"locality",
+    "wof:population":8172,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

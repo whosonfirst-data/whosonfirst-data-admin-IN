@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.13368,20.58863,79.13368,20.58863",
-    "geom:latitude":20.58863,
-    "geom:longitude":79.13368,
+    "geom:bbox":"79.129206,20.580087,79.130547,20.581357",
+    "geom:latitude":20.580789,
+    "geom:longitude":79.129821,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Rasa",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.11368,20.56863,79.15368,20.60863",
+    "ks:ks_alt_nam":"R\u0101s\u0101",
+    "ks:ks_id":"KS8F79CEEF9C72411DB97C9E1FA474FD6D",
+    "ks:ks_name":"Rasa",
+    "ks:ks_pop":321,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|912674",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_872003",
+    "lbl:latitude":20.580765,
+    "lbl:longitude":79.129767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.580765,
+    "mps:longitude":79.129767,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rasa"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Rasa"
+    ],
+    "name:eng_x_preferred":[
+        "Rasa"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101s\u0101"
     ],
     "name:fra_x_preferred":[
         "Rasa"
@@ -75,7 +92,13 @@
     "name:tat_x_preferred":[
         "\u0420\u0430\u0441\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -84,10 +107,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10571976
+        "gn:id":10571976,
+        "ks:id":"KS8F79CEEF9C72411DB97C9E1FA474FD6D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"892ddc2c95dc6b143fd338e4b53d75be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cce5834c272af5a5c4c00c269c886f14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,20 +125,22 @@
         }
     ],
     "wof:id":1225814425,
-    "wof:lastmodified":1566712117,
+    "wof:lastmodified":1682644815,
     "wof:name":"Rasa",
     "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.13368,
-    20.58863,
-    79.13368,
-    20.58863
+    79.129206,
+    20.580087,
+    79.130547,
+    20.581357
 ],
-  "geometry": {"coordinates":[79.13368,20.58863],"type":"Point"}
+  "geometry": {"coordinates":[[[79.130256,20.581357],[79.130257,20.581267],[79.130449,20.581269],[79.13045,20.581178],[79.130546,20.581179],[79.13054700000001,20.581089],[79.13045099999999,20.581088],[79.130455,20.580817],[79.130359,20.580816],[79.13036099999999,20.580635],[79.13026499999999,20.580634],[79.130267,20.580454],[79.130171,20.580453],[79.130173,20.580272],[79.130078,20.580271],[79.13007899999999,20.580181],[79.129983,20.58018],[79.12998399999999,20.580089],[79.12979199999999,20.580087],[79.129791,20.580178],[79.129503,20.580175],[79.129502,20.580265],[79.129406,20.580264],[79.12940500000001,20.580354],[79.12930900000001,20.580353],[79.12930799999999,20.580443],[79.129212,20.580442],[79.129206,20.580984],[79.129302,20.580985],[79.129299,20.581166],[79.129395,20.581167],[79.129394,20.581257],[79.12949,20.581258],[79.12948900000001,20.581349],[79.130256,20.581357]]],"type":"Polygon"}
 }

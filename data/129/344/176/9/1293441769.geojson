@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.17212,27.39015,79.17212,27.39015",
-    "geom:latitude":27.39015,
-    "geom:longitude":79.17212,
+    "geom:bbox":"79.171081,27.389117,79.173622,27.391021",
+    "geom:latitude":27.390055,
+    "geom:longitude":79.172338,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Karanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.15212,27.37015,79.19212,27.41015",
+    "ks:ks_id":"KS8783FF47201C438BA81BB54AD6D81EF5",
+    "ks:ks_name":"Karanpur",
+    "ks:ks_pop":555,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|511344",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1752194",
+    "lbl:latitude":27.390069,
+    "lbl:longitude":79.172338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.390069,
+    "mps:longitude":79.172338,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09a8\u09aa\u09c1\u09b0"
@@ -37,6 +47,9 @@
         "\u0995\u09b0\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Karanpur"
+    ],
+    "name:eng_x_preferred":[
         "Karanpur"
     ],
     "name:hin_x_preferred":[
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u5361\u5170\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10468244
+        "gn:id":10468244,
+        "ks:id":"KS8783FF47201C438BA81BB54AD6D81EF5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6df0933c84e57877233cefb9b5b123da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd419f1417cb7957908ec9df6bfe8b09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1293441769,
-    "wof:lastmodified":1566691747,
+    "wof:lastmodified":1682818160,
     "wof:name":"Karanpur",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":555,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.17211999999998,
-    27.39015,
-    79.17211999999998,
-    27.39015
+    79.171081,
+    27.389117,
+    79.173622,
+    27.391021
 ],
-  "geometry": {"coordinates":[79.17211999999998,27.39015],"type":"Point"}
+  "geometry": {"coordinates":[[[79.172693,27.391021],[79.17269400000001,27.390931],[79.17289599999999,27.390934],[79.172898,27.390844],[79.172999,27.390845],[79.173,27.390755],[79.173203,27.390757],[79.173204,27.390667],[79.173305,27.390669],[79.17330699999999,27.390578],[79.17340799999999,27.39058],[79.17340900000001,27.390489],[79.17361099999999,27.390492],[79.17362199999999,27.38986],[79.17352099999999,27.389859],[79.173524,27.389679],[79.173423,27.389677],[79.173427,27.389407],[79.173326,27.389405],[79.173327,27.389315],[79.173226,27.389314],[79.17322799999999,27.389223],[79.17312699999999,27.389222],[79.17312800000001,27.389132],[79.172016,27.389117],[79.172015,27.389208],[79.17161,27.389202],[79.171609,27.389292],[79.171407,27.38929],[79.17140499999999,27.38938],[79.17130400000001,27.389379],[79.171301,27.389559],[79.1712,27.389558],[79.171193,27.390009],[79.171092,27.390008],[79.171081,27.390639],[79.171283,27.390642],[79.17128200000001,27.390732],[79.17138300000001,27.390734],[79.171381,27.390824],[79.171584,27.390826],[79.171582,27.390917],[79.171885,27.390921],[79.17188400000001,27.391011],[79.172693,27.391021]]],"type":"Polygon"}
 }

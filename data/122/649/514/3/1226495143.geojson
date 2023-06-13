@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.24798,27.52625,78.24798,27.52625",
-    "geom:latitude":27.52625,
-    "geom:longitude":78.24798,
+    "geom:bbox":"78.247036,27.525595,78.249173,27.526611",
+    "geom:latitude":27.526077,
+    "geom:longitude":78.248089,
     "gn:admin1_code":"36",
     "gn:admin2_code":"144.0",
     "gn:asciiname":"Chandela",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.22798,27.50625,78.26798,27.54625",
+    "ks:ks_id":"KS49E957A428BC427E87E98E0E84D099F2",
+    "ks:ks_name":"Chamdela",
+    "ks:ks_pop":1458,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|198696",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1755171",
+    "lbl:latitude":27.526105,
+    "lbl:longitude":78.24811,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.526105,
+    "mps:longitude":78.24811,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u043d\u0434\u044d\u043b\u0430"
@@ -38,6 +48,12 @@
     ],
     "name:deu_x_preferred":[
         "Chandella"
+    ],
+    "name:eng_x_preferred":[
+        "Chamdela"
+    ],
+    "name:eng_x_variant":[
+        "Chandela"
     ],
     "name:fin_x_preferred":[
         "Chandela"
@@ -78,7 +94,13 @@
     "name:zho_x_preferred":[
         "\u660c\u5fb7\u62c9\u738b\u671d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10481820
+        "gn:id":10481820,
+        "ks:id":"KS49E957A428BC427E87E98E0E84D099F2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"95d7bcd9330d9d9dfc02018fe650b94f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7160149f945cf75dbfb1cd63cc0bdf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +127,22 @@
         }
     ],
     "wof:id":1226495143,
-    "wof:lastmodified":1566712613,
-    "wof:name":"Chandela",
+    "wof:lastmodified":1682670466,
+    "wof:name":"Chamdela",
     "wof:parent_id":1108695801,
     "wof:placetype":"locality",
+    "wof:population":1458,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.24798,
-    27.52625,
-    78.24798,
-    27.52625
+    78.247036,
+    27.525595,
+    78.249173,
+    27.526611
 ],
-  "geometry": {"coordinates":[78.24798,27.52625],"type":"Point"}
+  "geometry": {"coordinates":[[[78.24864700000001,27.526611],[78.24865,27.526521],[78.248751,27.526523],[78.24875299999999,27.526433],[78.24885399999999,27.526435],[78.248856,27.526345],[78.248958,27.526347],[78.24896200000001,27.526166],[78.24906300000001,27.526168],[78.249065,27.526078],[78.249167,27.52608],[78.249173,27.52581],[78.249072,27.525808],[78.24907399999999,27.525718],[78.24887200000001,27.525714],[78.24887,27.525804],[78.248566,27.525798],[78.248569,27.525708],[78.248468,27.525706],[78.24847,27.525615],[78.24745799999999,27.525595],[78.247456,27.525686],[78.247254,27.525682],[78.247252,27.525772],[78.24715,27.52577],[78.247148,27.52586],[78.24704699999999,27.525858],[78.24703599999999,27.526309],[78.247542,27.526319],[78.247539,27.526409],[78.24764,27.526411],[78.24763799999999,27.526501],[78.24784,27.526505],[78.247838,27.526595],[78.24864700000001,27.526611]]],"type":"Polygon"}
 }

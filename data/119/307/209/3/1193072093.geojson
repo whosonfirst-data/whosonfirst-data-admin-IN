@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.76109,26.64289,79.76109,26.64289",
-    "geom:latitude":26.64289,
-    "geom:longitude":79.76109,
+    "geom:bbox":"79.760054,26.642079,79.762464,26.644168",
+    "geom:latitude":26.643021,
+    "geom:longitude":79.761351,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"163.0",
     "gn:asciiname":"Sujanpur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.74109,26.62289,79.78109,26.66289",
+    "ks:ks_id":"KSADE0FCAFC77F4073A4186344EEAC5157",
+    "ks:ks_name":"Sujanpur",
+    "ks:ks_pop":369,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1013665",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1876435",
+    "lbl:latitude":26.64292,
+    "lbl:longitude":79.761449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.64292,
+    "mps:longitude":79.761449,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u099c\u09a8\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c1\u099c\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sujanpur"
     ],
     "name:ita_x_preferred":[
         "Sujanpur"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u8a79\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7004353
+        "gn:id":7004353,
+        "ks:id":"KSADE0FCAFC77F4073A4186344EEAC5157"
     },
     "wof:country":"IN",
-    "wof:geomhash":"05eb3d10d264c98865c8264f7e0571a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c3f244522b0e0985cbdb28016b1a18e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1193072093,
-    "wof:lastmodified":1566697421,
+    "wof:lastmodified":1682585550,
     "wof:name":"Sujanpur",
     "wof:parent_id":890505615,
     "wof:placetype":"locality",
+    "wof:population":369,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.76109,
-    26.64289,
-    79.76109,
-    26.64289
+    79.760054,
+    26.642079,
+    79.762464,
+    26.644168
 ],
-  "geometry": {"coordinates":[79.76109,26.64289],"type":"Point"}
+  "geometry": {"coordinates":[[[79.76205299999999,26.644168],[79.76205400000001,26.644077],[79.762355,26.64408],[79.762356,26.64399],[79.762457,26.643991],[79.76246399999999,26.643359],[79.76236299999999,26.643358],[79.76237,26.642726],[79.762269,26.642725],[79.762271,26.642544],[79.762171,26.642544],[79.762173,26.642363],[79.762072,26.642362],[79.762073,26.642272],[79.761872,26.64227],[79.76187299999999,26.64218],[79.76177300000001,26.642179],[79.761774,26.642089],[79.76066899999999,26.642079],[79.760668,26.642169],[79.760367,26.642167],[79.760366,26.642257],[79.760265,26.642256],[79.76026299999999,26.642437],[79.76016300000001,26.642436],[79.76016199999999,26.642526],[79.76006099999999,26.642525],[79.760054,26.643247],[79.760255,26.643249],[79.760254,26.643339],[79.760555,26.643342],[79.760554,26.643432],[79.760654,26.643433],[79.760653,26.643523],[79.760955,26.643526],[79.760954,26.643616],[79.761054,26.643617],[79.761053,26.643707],[79.761154,26.643708],[79.76115299999999,26.643799],[79.761354,26.6438],[79.761353,26.643891],[79.761453,26.643892],[79.76145200000001,26.643982],[79.76155300000001,26.643983],[79.76155199999999,26.644073],[79.761652,26.644074],[79.761651,26.644164],[79.76205299999999,26.644168]]],"type":"Polygon"}
 }

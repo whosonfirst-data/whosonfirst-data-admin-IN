@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.86213,24.98501,84.86213,24.98501",
-    "geom:latitude":24.98501,
-    "geom:longitude":84.86213,
+    "geom:bbox":"84.8614,24.983059,84.863602,24.985852",
+    "geom:latitude":24.984681,
+    "geom:longitude":84.862616,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Kalyanpur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.84213,24.96501,84.88213,25.00501",
+    "ks:ks_alt_nam":"Kaly\u0101npur",
+    "ks:ks_id":"KS748DDFF84FFB49ECA5D55EC0D5705D13",
+    "ks:ks_name":"Kalyanpur",
+    "ks:ks_pop":572,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13482125",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1156979",
+    "lbl:latitude":24.984814,
+    "lbl:longitude":84.862637,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.984814,
+    "mps:longitude":84.862637,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalyanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kalyanpur"
+    ],
+    "name:eng_x_variant":[
+        "Kaly\u0101npur"
     ],
     "name:fra_x_preferred":[
         "Kalyanpur"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Kalyanpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10980700
+        "gn:id":10980700,
+        "ks:id":"KS748DDFF84FFB49ECA5D55EC0D5705D13"
     },
     "wof:country":"IN",
-    "wof:geomhash":"06efd202a7d2db9d6e98da383ab614cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8cddefa5d48da7316ac843a0a7f4033c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1326870825,
-    "wof:lastmodified":1566682006,
+    "wof:lastmodified":1682892757,
     "wof:name":"Kalyanpur",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.86213000000002,
-    24.98501,
-    84.86213000000002,
-    24.98501
+    84.8614,
+    24.983059,
+    84.863602,
+    24.985852
 ],
-  "geometry": {"coordinates":[84.86213000000002,24.98501],"type":"Point"}
+  "geometry": {"coordinates":[[[84.862584,24.985852],[84.862585,24.985762],[84.863378,24.985774],[84.86337899999999,24.985683],[84.86357700000001,24.985686],[84.863602,24.984242],[84.86350299999999,24.984241],[84.863511,24.983789],[84.863412,24.983788],[84.863418,24.983427],[84.863319,24.983426],[84.863322,24.983245],[84.863223,24.983244],[84.863225,24.983153],[84.863027,24.983151],[84.863028,24.98306],[84.86292899999999,24.983059],[84.862928,24.983149],[84.86273,24.983146],[84.862728,24.983237],[84.862629,24.983235],[84.86262600000001,24.983416],[84.862527,24.983414],[84.86252399999999,24.983595],[84.862425,24.983593],[84.862422,24.983774],[84.862323,24.983772],[84.86232099999999,24.983863],[84.862123,24.98386],[84.862122,24.98395],[84.86202299999999,24.983949],[84.862019,24.984129],[84.86182100000001,24.984126],[84.86181999999999,24.984217],[84.861721,24.984215],[84.861718,24.984396],[84.861619,24.984394],[84.861617,24.984484],[84.861518,24.984483],[84.861515,24.984663],[84.86141600000001,24.984662],[84.8614,24.985565],[84.86149899999999,24.985566],[84.861498,24.985656],[84.861597,24.985658],[84.86159499999999,24.985748],[84.862387,24.985759],[84.862386,24.98585],[84.862584,24.985852]]],"type":"Polygon"}
 }

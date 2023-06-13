@@ -12,12 +12,19 @@
     "gn:latitude":16.73528,
     "gn:longitude":74.60245,
     "iso:country":"IN",
-    "lbl:latitude":16.733074,
-    "lbl:longitude":74.601758,
+    "ks:ks_id":"KS902EE4F880A24FB6A567862BB03666C2",
+    "ks:ks_name":"Shirol",
+    "ks:ks_pop":27499,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|983291",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_383597",
+    "lbl:latitude":16.745874,
+    "lbl:longitude":74.598374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":16.778246,
-    "mps:longitude":74.536743,
+    "mps:latitude":16.745874,
+    "mps:longitude":74.598374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -85,9 +92,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191569,
@@ -99,13 +109,16 @@
     "wof:concordances":{
         "gn:id":1256478,
         "gp:id":2292886,
+        "ks:id":"KS902EE4F880A24FB6A567862BB03666C2",
         "qs_pg:id":194784,
         "wd:id":"Q7498928",
         "wk:page":"Shirol"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"62c68cdef139a83193317a164151d30d",
     "wof:hierarchy":[
@@ -118,10 +131,12 @@
         }
     ],
     "wof:id":102028667,
-    "wof:lastmodified":1658780778,
+    "wof:lastmodified":1682523393,
     "wof:name":"Shirol",
     "wof:parent_id":890503679,
     "wof:placetype":"locality",
+    "wof:population":27499,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

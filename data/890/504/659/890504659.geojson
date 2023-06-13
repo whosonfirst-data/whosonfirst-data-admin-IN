@@ -14,11 +14,20 @@
     "gn:population":89833,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"74.49513,30.45764,74.53513,30.49764",
-    "lbl:latitude":30.473634,
-    "lbl:longitude":74.518373,
+    "ks:ks_id":"KSC38D563F5DC94FFC875EA28346461509",
+    "ks:ks_name":"Muktsar",
+    "ks:ks_pop":83655,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0312000341202000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2493597",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.470992,
+    "lbl:longitude":74.519521,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":30.470992,
+    "mps:longitude":74.519521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -60,10 +69,10 @@
         "\u0aae\u0ac1\u0a95\u0acd\u0aa4\u0ab8\u0ab0"
     ],
     "name:hin_x_preferred":[
-        "\u092e\u0941\u0915\u094d\u0924\u094d\u0938\u0930"
+        "\u092e\u0941\u0915\u094d\u0924\u0938\u0930"
     ],
     "name:hin_x_variant":[
-        "\u092e\u0941\u0915\u094d\u0924\u0938\u0930"
+        "\u092e\u0941\u0915\u094d\u0924\u094d\u0938\u0930"
     ],
     "name:ita_x_preferred":[
         "Muktsar"
@@ -167,10 +176,12 @@
     "reversegeo:longitude":74.518373,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -181,11 +192,16 @@
     "wof:concordances":{
         "gn:id":1262578,
         "gp:id":2294959,
+        "ks:id":"KSC38D563F5DC94FFC875EA28346461509",
         "qs_pg:id":131560,
         "wd:id":"Q2087676"
     },
     "wof:country":"IN",
     "wof:created":1469055441,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"6d2add6bf276ee1a20b7e7a425e67982",
     "wof:hierarchy":[
         {
@@ -197,11 +213,11 @@
         }
     ],
     "wof:id":890504659,
-    "wof:lastmodified":1658780795,
+    "wof:lastmodified":1686163899,
     "wof:name":"Muktsar",
     "wof:parent_id":1108695741,
     "wof:placetype":"locality",
-    "wof:population":89833,
+    "wof:population":83655,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

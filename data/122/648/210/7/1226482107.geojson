@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.12686,27.01098,83.12686,27.01098",
-    "geom:latitude":27.01098,
-    "geom:longitude":83.12686,
+    "geom:bbox":"83.126068,27.009545,83.127792,27.011716",
+    "geom:latitude":27.010856,
+    "geom:longitude":83.126883,
     "gn:admin1_code":"36",
     "gn:admin2_code":"186.0",
     "gn:asciiname":"Rauna",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.10686,26.99098,83.14686,27.03098",
+    "ks:ks_id":"KS6053F3F1A8B6478AB4C2B357D9912661",
+    "ks:ks_name":"Rauna",
+    "ks:ks_pop":286,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|916531",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1998192",
+    "lbl:latitude":27.010958,
+    "lbl:longitude":83.126883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.010958,
+    "mps:longitude":83.126883,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rauna"
     ],
     "name:deu_x_preferred":[
+        "Rauna"
+    ],
+    "name:eng_x_preferred":[
         "Rauna"
     ],
     "name:est_x_preferred":[
@@ -54,7 +67,13 @@
     "name:swe_x_preferred":[
         "Rauna"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10655244
+        "gn:id":10655244,
+        "ks:id":"KS6053F3F1A8B6478AB4C2B357D9912661"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b9fca0ce7d59992faf388c52a497acea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"950396aa7c76277b1cadee5ba44a2438",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +100,22 @@
         }
     ],
     "wof:id":1226482107,
-    "wof:lastmodified":1566712902,
+    "wof:lastmodified":1682668727,
     "wof:name":"Rauna",
     "wof:parent_id":1108695865,
     "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.12686,
-    27.01098,
-    83.12686,
-    27.01098
+    83.126068,
+    27.009545,
+    83.127792,
+    27.011716
 ],
-  "geometry": {"coordinates":[83.12685999999999,27.01098],"type":"Point"}
+  "geometry": {"coordinates":[[[83.127396,27.011701],[83.127394,27.011611],[83.127596,27.011608],[83.127594,27.011517],[83.127695,27.011516],[83.127692,27.011335],[83.127792,27.011334],[83.127785,27.010973],[83.127685,27.010975],[83.12768,27.010704],[83.127579,27.010705],[83.127576,27.010525],[83.127475,27.010526],[83.12747299999999,27.010436],[83.12737199999999,27.010438],[83.127371,27.010348],[83.12727,27.010349],[83.127267,27.010169],[83.127166,27.01017],[83.127162,27.00999],[83.127062,27.009991],[83.12706,27.009901],[83.126959,27.009903],[83.126958,27.009812],[83.126857,27.009814],[83.126853,27.009633],[83.12675299999999,27.009635],[83.126751,27.009545],[83.12665,27.009546],[83.12665200000001,27.009636],[83.12655100000001,27.009638],[83.12655599999999,27.009909],[83.126456,27.00991],[83.126459,27.010091],[83.126358,27.010092],[83.126363,27.010363],[83.12626299999999,27.010364],[83.12626400000001,27.010455],[83.126164,27.010456],[83.126169,27.010727],[83.126068,27.010728],[83.126071,27.010909],[83.126172,27.010907],[83.126177,27.011178],[83.126076,27.011179],[83.126082,27.01145],[83.126182,27.011449],[83.12618399999999,27.011539],[83.126285,27.011537],[83.12628599999999,27.011627],[83.12638699999999,27.011626],[83.126389,27.011716],[83.127396,27.011701]]],"type":"Polygon"}
 }

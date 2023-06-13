@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.22251,26.65835,76.22251,26.65835",
-    "geom:latitude":26.65835,
-    "geom:longitude":76.22251,
+    "geom:bbox":"76.221557,26.657477,76.223569,26.658843",
+    "geom:latitude":26.658115,
+    "geom:longitude":76.222495,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"109.0",
     "gn:asciiname":"Ranoli",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.20251,26.63835,76.24251,26.67835",
+    "ks:ks_alt_nam":"R\u0101noli",
+    "ks:ks_id":"KS9672FCFD41E94AF389BAF2DFE7AC96C9",
+    "ks:ks_name":"Ranoli",
+    "ks:ks_pop":1162,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|912039",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1690526",
+    "lbl:latitude":26.65807,
+    "lbl:longitude":76.222376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.65807,
+    "mps:longitude":76.222376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09a8\u09cb\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Ranoli"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101noli"
     ],
     "name:ita_x_preferred":[
         "Ranoli"
@@ -54,7 +71,13 @@
     "name:zho_x_preferred":[
         "\u62c9\u8bfa\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10190468
+        "gn:id":10190468,
+        "ks:id":"KS9672FCFD41E94AF389BAF2DFE7AC96C9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cc945cdf9993d711477cebb8b5389797",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"54566795fd48b9eff0484eeb99465629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +104,22 @@
         }
     ],
     "wof:id":1209670963,
-    "wof:lastmodified":1672960744,
+    "wof:lastmodified":1682628723,
     "wof:name":"Ranoli",
     "wof:parent_id":890508857,
     "wof:placetype":"locality",
+    "wof:population":1162,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.22251,
-    26.65835,
-    76.22251,
-    26.65835
+    76.221557,
+    26.657477,
+    76.223569,
+    26.658843
 ],
-  "geometry": {"coordinates":[76.22251,26.65835],"type":"Point"}
+  "geometry": {"coordinates":[[[76.22346899999999,26.658467],[76.223468,26.658376],[76.223569,26.658375],[76.22356600000001,26.658105],[76.223465,26.658105],[76.223463,26.657925],[76.22336300000001,26.657926],[76.22336199999999,26.657836],[76.22326200000001,26.657836],[76.22326,26.657656],[76.223159,26.657657],[76.223158,26.657566],[76.22305799999999,26.657567],[76.223057,26.657477],[76.22205200000001,26.657486],[76.222053,26.657576],[76.221953,26.657577],[76.221954,26.657667],[76.221853,26.657668],[76.22185399999999,26.657758],[76.221754,26.657759],[76.221756,26.65794],[76.221655,26.657941],[76.22165800000001,26.658211],[76.221557,26.658212],[76.221559,26.658393],[76.22166,26.658392],[76.221665,26.658843],[76.222067,26.65884],[76.222066,26.658749],[76.222266,26.658748],[76.222266,26.658657],[76.222567,26.658655],[76.222566,26.658565],[76.22286699999999,26.658562],[76.222866,26.658472],[76.22346899999999,26.658467]]],"type":"Polygon"}
 }

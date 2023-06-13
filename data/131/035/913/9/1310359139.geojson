@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.04755,25.9266,85.04755,25.9266",
-    "geom:latitude":25.9266,
-    "geom:longitude":85.04755,
+    "geom:bbox":"85.046831,25.92322,85.048717,25.926992",
+    "geom:latitude":25.925162,
+    "geom:longitude":85.047691,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"219.0",
     "gn:asciiname":"Banauta",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.02755,25.9066,85.06755,25.9466",
+    "ks:ks_id":"KS75F97B0F7B4141D69A75478FDB239306",
+    "ks:ks_name":"Banauta",
+    "ks:ks_pop":4304,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|87026",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1384050",
+    "lbl:latitude":25.926157,
+    "lbl:longitude":85.04739,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.926157,
+    "mps:longitude":85.04739,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Banouta"
+    ],
+    "name:eng_x_preferred":[
+        "Banauta"
     ],
     "name:mai_x_preferred":[
         "\u092c\u0928\u094c\u091f\u093e"
@@ -45,7 +58,13 @@
     "name:pol_x_preferred":[
         "Banouta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11010729
+        "gn:id":11010729,
+        "ks:id":"KS75F97B0F7B4141D69A75478FDB239306"
     },
     "wof:country":"IN",
-    "wof:geomhash":"236787fa13645b848db2df83f51c7e2b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22dc325f5a7526b9c435d74747787b51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1310359139,
-    "wof:lastmodified":1566701950,
+    "wof:lastmodified":1682863839,
     "wof:name":"Banauta",
     "wof:parent_id":1108695919,
     "wof:placetype":"locality",
+    "wof:population":4304,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.04755,
-    25.9266,
-    85.04755,
-    25.9266
+    85.046831,
+    25.92322,
+    85.048717,
+    25.926992
 ],
-  "geometry": {"coordinates":[85.04755,25.9266],"type":"Point"}
+  "geometry": {"coordinates":[[[85.047909,25.925914],[85.047909,25.924567],[85.04817799999999,25.924567],[85.04817799999999,25.923759],[85.048717,25.923759],[85.048717,25.92322],[85.0471,25.92322],[85.0471,25.924298],[85.046831,25.924298],[85.046831,25.924836],[85.0471,25.924836],[85.0471,25.925375],[85.046831,25.925375],[85.046831,25.926723],[85.047639,25.926723],[85.047639,25.926992],[85.048717,25.926992],[85.048717,25.925914],[85.047909,25.925914]]],"type":"Polygon"}
 }

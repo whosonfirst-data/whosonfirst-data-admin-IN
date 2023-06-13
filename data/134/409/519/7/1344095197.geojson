@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.73017,25.22845,87.73017,25.22845",
-    "geom:latitude":25.22845,
-    "geom:longitude":87.73017,
+    "geom:bbox":"87.72938,25.227924,87.730458,25.22954",
+    "geom:latitude":25.228597,
+    "geom:longitude":87.729919,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"352.0",
     "gn:asciiname":"Banskola",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.71017,25.20845,87.75017,25.24845",
+    "ks:ks_alt_nam":"B\u0101nskola",
+    "ks:ks_id":"KS98850A2660D94FC48D9913C4B714383C",
+    "ks:ks_name":"Banskola",
+    "ks:ks_pop":1528,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13511364",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1504853",
+    "lbl:latitude":25.228609,
+    "lbl:longitude":87.729919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.228609,
+    "mps:longitude":87.729919,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Banskola"
+    ],
+    "name:eng_x_variant":[
+        "B\u0101nskola"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11013619
+        "gn:id":11013619,
+        "ks:id":"KS98850A2660D94FC48D9913C4B714383C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"34e415d3385dab47fa3e69425aeab91a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"266712688bcca4dae841dc06bae873b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1344095197,
-    "wof:lastmodified":1566686402,
+    "wof:lastmodified":1682951050,
     "wof:name":"Banskola",
     "wof:parent_id":1108696105,
     "wof:placetype":"locality",
+    "wof:population":1528,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.73017,
-    25.22845,
-    87.73017,
-    25.22845
+    87.72938,
+    25.227924,
+    87.730458,
+    25.22954
 ],
-  "geometry": {"coordinates":[87.73017,25.22845],"type":"Point"}
+  "geometry": {"coordinates":[[[87.730189,25.22954],[87.730189,25.228463],[87.730458,25.228463],[87.730458,25.227924],[87.72938000000001,25.227924],[87.72938000000001,25.228463],[87.72965000000001,25.228463],[87.72965000000001,25.22954],[87.730189,25.22954]]],"type":"Polygon"}
 }

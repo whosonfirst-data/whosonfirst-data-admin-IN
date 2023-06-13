@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696245
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10213524
     },
     "wof:country":"IN",
-    "wof:geomhash":"36b016fe356ff48d83b85c2e090c01ff",
+    "wof:geomhash":"2390490317863dded3ac32424ee1c596",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209368165
+            "county_id":1108696245,
+            "locality_id":1209368165,
+            "region_id":85672239
         }
     ],
     "wof:id":1209368165,
-    "wof:lastmodified":1566694444,
+    "wof:lastmodified":1682616841,
     "wof:name":"Mainikhapa",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847128025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.57618000000002,
+    78.57618,
     21.90226,
-    78.57618000000002,
+    78.57618,
     21.90226
 ],
-  "geometry": {"coordinates":[78.57618000000002,21.90226],"type":"Point"}
+  "geometry": {"coordinates":[78.57617999999999,21.90226],"type":"Point"}
 }

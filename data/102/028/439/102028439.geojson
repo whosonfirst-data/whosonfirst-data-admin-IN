@@ -13,12 +13,20 @@
     "gn:longitude":77.89444,
     "gn:population":87123,
     "iso:country":"IN",
-    "lbl:latitude":11.378685,
-    "lbl:longitude":77.894814,
+    "ks:ks_id":"KS25A01E43DDA9408EA64F4B8578FB98F7",
+    "ks:ks_name":"Tiruchengode",
+    "ks:ks_pop":80187,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3309000140904000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_211470",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":11.359005,
+    "lbl:longitude":77.768468,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":11.366954,
-    "mps:longitude":77.887573,
+    "mps:latitude":11.359005,
+    "mps:longitude":77.768468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -49,6 +57,9 @@
     ],
     "name:hif_x_preferred":[
         "Tiruchengode"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093f\u0930\u0941\u091a\u0947\u0902\u0917\u094b\u0921\u0947"
     ],
     "name:ita_x_preferred":[
         "Tiruchengode"
@@ -109,10 +120,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1402,
     "wof:belongsto":[
         102191569,
@@ -124,13 +137,16 @@
     "wof:concordances":{
         "gn:id":1254385,
         "gp:id":2295311,
+        "ks:id":"KS25A01E43DDA9408EA64F4B8578FB98F7",
         "qs_pg:id":131142,
         "wd:id":"Q2229506",
         "wk:page":"Tiruchengode"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"c2bc78f1adc2cb0db02e04e1a10918fb",
     "wof:hierarchy":[
@@ -143,11 +159,11 @@
         }
     ],
     "wof:id":102028439,
-    "wof:lastmodified":1658780777,
+    "wof:lastmodified":1686162207,
     "wof:name":"Tiruchengode",
     "wof:parent_id":890505343,
     "wof:placetype":"locality",
-    "wof:population":87123,
+    "wof:population":80187,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

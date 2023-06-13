@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.59961,27.42276,80.59961,27.42276",
-    "geom:latitude":27.42276,
-    "geom:longitude":80.59961,
+    "geom:bbox":"80.599125,27.422187,80.600645,27.423182",
+    "geom:latitude":27.422648,
+    "geom:longitude":80.599808,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Kashipur",
@@ -24,19 +24,38 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.57961,27.40276,80.61961,27.44276",
+    "ks:ks_id":"KS9B39ADC08AB645C6BBBE3A500DA3C8D1",
+    "ks:ks_name":"Kashipur",
+    "ks:ks_pop":115,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|520055",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1902047",
+    "lbl:latitude":27.422641,
+    "lbl:longitude":80.599746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.422641,
+    "mps:longitude":80.599746,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kashipur"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0936\u0940\u092a\u0941\u0930"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0448\u0438\u043f\u0443\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -45,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10920409
+        "gn:id":10920409,
+        "ks:id":"KS9B39ADC08AB645C6BBBE3A500DA3C8D1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e12f3faddebd93b4ef7c390b1d0d4519",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f566d4bccbaea477ad84ec1f24de9794",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +82,22 @@
         }
     ],
     "wof:id":1343400203,
-    "wof:lastmodified":1566687144,
+    "wof:lastmodified":1686162291,
     "wof:name":"Kashipur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.59961,
-    27.42276,
-    80.59961,
-    27.42276
+    80.599125,
+    27.422187,
+    80.600645,
+    27.423182
 ],
-  "geometry": {"coordinates":[80.59961,27.42276],"type":"Point"}
+  "geometry": {"coordinates":[[[80.599934,27.423182],[80.599934,27.423091],[80.600137,27.423092],[80.600137,27.423002],[80.600238,27.423002],[80.600239,27.422912],[80.600441,27.422912],[80.600441,27.422822],[80.600542,27.422822],[80.600543,27.422642],[80.600644,27.422642],[80.600645,27.422462],[80.600544,27.422461],[80.600544,27.422371],[80.600443,27.422371],[80.600443,27.42228],[80.600342,27.42228],[80.600342,27.42219],[80.59933100000001,27.422187],[80.59932999999999,27.422277],[80.59912799999999,27.422277],[80.599125,27.422999],[80.599227,27.422999],[80.599226,27.423089],[80.599429,27.42309],[80.599428,27.42318],[80.599934,27.423182]]],"type":"Polygon"}
 }

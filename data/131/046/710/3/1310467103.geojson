@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.573,13.41029,77.573,13.41029",
-    "geom:latitude":13.41029,
-    "geom:longitude":77.573,
+    "geom:bbox":"77.572342,13.409458,77.574471,13.411272",
+    "geom:latitude":13.410366,
+    "geom:longitude":77.573532,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"583.0",
     "gn:asciiname":"Lakkasandra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.553,13.39029,77.593,13.43029",
+    "ks:ks_id":"KS85291C0A3ECB41F4888623A67F7AC2AB",
+    "ks:ks_name":"Lakkasandra",
+    "ks:ks_pop":55,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|615620",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_321577",
+    "lbl:latitude":13.410505,
+    "lbl:longitude":77.573553,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.410505,
+    "mps:longitude":77.573553,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0643\u0627\u0633\u0646\u062f\u0631\u0627"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b2\u0995\u09cd\u0995\u09be\u09b8\u09be\u09a8\u09cd\u09a6\u09cd\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Lakkasandra"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a95\u0ab8\u0abe\u0aa8\u0acd\u0aa6\u0acd\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0644\u06a9\u0651\u0627 \u0633\u0627\u0646\u062f\u0631\u06c1"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10854103
+        "gn:id":10854103,
+        "ks:id":"KS85291C0A3ECB41F4888623A67F7AC2AB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bff93559a417ce33b5409e49116f8e8a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"550d56de7e74bbf9db73aeb2a4baa94d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1310467103,
-    "wof:lastmodified":1577751461,
+    "wof:lastmodified":1682867614,
     "wof:name":"Lakkasandra",
     "wof:parent_id":890503869,
     "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.57300000000002,
-    13.41029,
-    77.57300000000002,
-    13.41029
+    77.572342,
+    13.409458,
+    77.574471,
+    13.411272
 ],
-  "geometry": {"coordinates":[77.57300000000002,13.41029],"type":"Point"}
+  "geometry": {"coordinates":[[[77.574015,13.411268],[77.57401400000001,13.411178],[77.574291,13.411175],[77.57428899999999,13.410994],[77.574381,13.410993],[77.574378,13.410722],[77.574471,13.410721],[77.57446899999999,13.410541],[77.574376,13.410542],[77.57437,13.409909],[77.574462,13.409908],[77.57445800000001,13.409547],[77.574366,13.409548],[77.574365,13.409458],[77.574088,13.40946],[77.574089,13.409551],[77.573904,13.409553],[77.573905,13.409643],[77.573813,13.409644],[77.573814,13.409734],[77.57362999999999,13.409736],[77.57363100000001,13.409826],[77.573538,13.409827],[77.573537,13.409737],[77.573076,13.409742],[77.573075,13.409651],[77.57279800000001,13.409654],[77.572799,13.409745],[77.572615,13.409746],[77.572615,13.409837],[77.572523,13.409838],[77.572524,13.409928],[77.57243200000001,13.409929],[77.572434,13.41011],[77.57234200000001,13.410111],[77.572344,13.410382],[77.572529,13.41038],[77.572531,13.41056],[77.57262299999999,13.410559],[77.572624,13.41065],[77.572716,13.410649],[77.572717,13.410739],[77.57281,13.410738],[77.572811,13.410829],[77.572903,13.410828],[77.57290399999999,13.410918],[77.572996,13.410917],[77.572997,13.411007],[77.573089,13.411006],[77.57308999999999,13.411097],[77.573275,13.411095],[77.57327600000001,13.411185],[77.573645,13.411181],[77.573646,13.411272],[77.574015,13.411268]]],"type":"Polygon"}
 }

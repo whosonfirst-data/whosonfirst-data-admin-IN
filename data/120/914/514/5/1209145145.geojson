@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695889
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10464015
     },
     "wof:country":"IN",
-    "wof:geomhash":"06d31a11da48aeeb3c0a0cd390e82385",
+    "wof:geomhash":"f58cd165edecf21fbab147dc98538be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209145145
+            "county_id":1108695889,
+            "locality_id":1209145145,
+            "region_id":85672205
         }
     ],
     "wof:id":1209145145,
-    "wof:lastmodified":1566695844,
+    "wof:lastmodified":1682605370,
     "wof:name":"Pahrai",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847140001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.83438000000002,
+    78.83438,
     27.57816,
-    78.83438000000002,
+    78.83438,
     27.57816
 ],
-  "geometry": {"coordinates":[78.83438000000002,27.57816],"type":"Point"}
+  "geometry": {"coordinates":[78.83438,27.57816],"type":"Point"}
 }

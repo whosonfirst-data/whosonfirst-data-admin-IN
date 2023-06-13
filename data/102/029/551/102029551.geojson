@@ -12,12 +12,21 @@
     "gn:latitude":28.50128,
     "gn:longitude":73.75525,
     "iso:country":"IN",
-    "lbl:latitude":28.492349,
-    "lbl:longitude":73.743141,
+    "ks:ks_alt_nam":"L\u016bnkaransar",
+    "ks:ks_id":"KSEFD701B9B5DC4A738CF50431336E60C6",
+    "ks:ks_name":"Lunkaransar",
+    "ks:ks_pop":22931,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|633966",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1622695",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":28.485006,
+    "lbl:longitude":73.746206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":28.492833,
-    "mps:longitude":73.740235,
+    "mps:latitude":28.485006,
+    "mps:longitude":73.746206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,7 +41,10 @@
         "Loonkaransar"
     ],
     "name:eng_x_preferred":[
-        "Loonkaransar"
+        "Lunkaransar"
+    ],
+    "name:eng_x_variant":[
+        "L\u016bnkaransar"
     ],
     "name:epo_x_preferred":[
         "Lunkaransar"
@@ -100,9 +112,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":169,
     "wof:belongsto":[
         102191569,
@@ -114,13 +129,16 @@
     "wof:concordances":{
         "gn:id":1264668,
         "gp:id":2290867,
+        "ks:id":"KSEFD701B9B5DC4A738CF50431336E60C6",
         "qs_pg:id":1019717,
         "wd:id":"Q6675765",
         "wk:page":"Lunkaransar"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"7dadb3540b1d82d539eb652bb5a9fb4c",
     "wof:hierarchy":[
@@ -133,10 +151,12 @@
         }
     ],
     "wof:id":102029551,
-    "wof:lastmodified":1658780749,
-    "wof:name":"L\u016bnkaransar",
+    "wof:lastmodified":1682523989,
+    "wof:name":"Lunkaransar",
     "wof:parent_id":890505295,
     "wof:placetype":"locality",
+    "wof:population":22931,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

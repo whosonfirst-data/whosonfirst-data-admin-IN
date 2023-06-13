@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.4995,25.21969,78.4995,25.21969",
-    "geom:latitude":25.21969,
-    "geom:longitude":78.4995,
+    "geom:bbox":"78.499038,25.218819,78.500224,25.220277",
+    "geom:latitude":25.219589,
+    "geom:longitude":78.499649,
     "gn:admin1_code":"36",
     "gn:admin2_code":"166.0",
     "gn:asciiname":"Koti",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.4795,25.19969,78.5195,25.23969",
+    "ks:ks_id":"KS59216FA541AF4B08936687C3E5A89598",
+    "ks:ks_name":"Koti",
+    "ks:ks_pop":576,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|586432",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1722450",
+    "lbl:latitude":25.219618,
+    "lbl:longitude":78.499719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.219618,
+    "mps:longitude":78.499719,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koti"
     ],
     "name:deu_x_preferred":[
+        "Koti"
+    ],
+    "name:eng_x_preferred":[
         "Koti"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +61,13 @@
     "name:swe_x_preferred":[
         "Koti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10504660
+        "gn:id":10504660,
+        "ks:id":"KS59216FA541AF4B08936687C3E5A89598"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b2a5a5017ecbbfe710a38071490818ac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1efe63bdff4b8456b852ae4845c90bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1343400383,
-    "wof:lastmodified":1566687097,
+    "wof:lastmodified":1682924644,
     "wof:name":"Koti",
     "wof:parent_id":890510677,
     "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.4995,
-    25.21969,
-    78.4995,
-    25.21969
+    78.499038,
+    25.218819,
+    78.500224,
+    25.220277
 ],
-  "geometry": {"coordinates":[78.4995,25.21969],"type":"Point"}
+  "geometry": {"coordinates":[[[78.500007,25.220277],[78.50000900000001,25.220187],[78.500208,25.22019],[78.50021099999999,25.22001],[78.500112,25.220008],[78.50012099999999,25.219557],[78.500221,25.219559],[78.500224,25.219378],[78.500125,25.219377],[78.50012700000001,25.219286],[78.49992899999999,25.219283],[78.49993000000001,25.219193],[78.49973199999999,25.21919],[78.499734,25.219099],[78.49953600000001,25.219096],[78.499537,25.219006],[78.499438,25.219004],[78.49944000000001,25.218914],[78.499341,25.218912],[78.499343,25.218822],[78.499144,25.218819],[78.499143,25.218909],[78.499043,25.218907],[78.499038,25.219178],[78.499137,25.219179],[78.49913100000001,25.21945],[78.49923099999999,25.219452],[78.499229,25.219542],[78.49932800000001,25.219544],[78.499319,25.219995],[78.49941800000001,25.219997],[78.499414,25.220177],[78.499613,25.22018],[78.499611,25.220271],[78.500007,25.220277]]],"type":"Polygon"}
 }

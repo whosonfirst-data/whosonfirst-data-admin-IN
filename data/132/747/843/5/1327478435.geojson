@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.96479,24.72206,81.96479,24.72206",
-    "geom:latitude":24.72206,
-    "geom:longitude":81.96479,
+    "geom:bbox":"81.964682,24.7212,81.965867,24.72211",
+    "geom:latitude":24.721609,
+    "geom:longitude":81.965241,
     "gn:admin1_code":"35",
     "gn:admin2_code":"430.0",
     "gn:asciiname":"Kona",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.94479,24.70206,81.98479,24.74206",
+    "ks:ks_id":"KS362D64C02E30454D8CC299815FDD72FA",
+    "ks:ks_name":"Kon",
+    "ks:ks_pop":212,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|576158",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1033560",
+    "lbl:latitude":24.721588,
+    "lbl:longitude":81.965171,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.721588,
+    "mps:longitude":81.965171,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kona"
@@ -40,6 +50,12 @@
         "Kona"
     ],
     "name:deu_x_preferred":[
+        "Kona"
+    ],
+    "name:eng_x_preferred":[
+        "Kon"
+    ],
+    "name:eng_x_variant":[
         "Kona"
     ],
     "name:fin_x_preferred":[
@@ -57,7 +73,13 @@
     "name:swe_x_preferred":[
         "Kona"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10533240
+        "gn:id":10533240,
+        "ks:id":"KS362D64C02E30454D8CC299815FDD72FA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4d55d4c93f83511fcd4fea0fe2e43849",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f6c3365238396f12bc45168bd0674195",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1327478435,
-    "wof:lastmodified":1566683118,
-    "wof:name":"Kona",
+    "wof:lastmodified":1682918154,
+    "wof:name":"Kon",
     "wof:parent_id":890506397,
     "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.96479000000002,
-    24.72206,
-    81.96479000000002,
-    24.72206
+    81.964682,
+    24.7212,
+    81.965867,
+    24.72211
 ],
-  "geometry": {"coordinates":[81.96479000000002,24.72206],"type":"Point"}
+  "geometry": {"coordinates":[[[81.96517900000001,24.722107],[81.96517799999999,24.722017],[81.96537600000001,24.722015],[81.96537499999999,24.721925],[81.96557300000001,24.721924],[81.96557199999999,24.721834],[81.965671,24.721833],[81.96567,24.721743],[81.96576899999999,24.721742],[81.965768,24.721652],[81.965867,24.721651],[81.96586499999999,24.72129],[81.965766,24.72129],[81.965765,24.7212],[81.964776,24.721207],[81.964781,24.721748],[81.964682,24.721749],[81.96468400000001,24.72202],[81.964783,24.722019],[81.964783,24.72211],[81.96517900000001,24.722107]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.65215,32.19193,75.65215,32.19193",
-    "geom:latitude":32.19193,
-    "geom:longitude":75.65215,
+    "geom:bbox":"75.649285,32.187351,75.653597,32.192472",
+    "geom:latitude":32.190424,
+    "geom:longitude":75.651243,
     "gn:admin1_code":"11.0",
     "gn:admin2_code":"24.0",
     "gn:asciiname":"Bhur",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.63215,32.17193,75.67215,32.21193",
+    "ks:ks_id":"KS003BD4E5AF964D5A8C4BC94A43ECC679",
+    "ks:ks_name":"Bhur",
+    "ks:ks_pop":1339,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13120173",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2232401",
+    "lbl:latitude":32.190475,
+    "lbl:longitude":75.65121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.190475,
+    "mps:longitude":75.65121,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bhoor"
+    ],
+    "name:eng_x_preferred":[
+        "Bhur"
     ],
     "name:msa_x_preferred":[
         "Bhoor"
@@ -45,7 +58,13 @@
     "name:pol_x_preferred":[
         "Bhoor"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10686878
+        "gn:id":10686878,
+        "ks:id":"KS003BD4E5AF964D5A8C4BC94A43ECC679"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e7f87b41b04e010ab42a9c56aafc8b03",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e41aec455fe3ce1232806051c8c82ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1242658231,
-    "wof:lastmodified":1566708125,
+    "wof:lastmodified":1682688236,
     "wof:name":"Bhur",
     "wof:parent_id":890503809,
     "wof:placetype":"locality",
+    "wof:population":1339,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.65215,
-    32.19193,
-    75.65215,
-    32.19193
+    75.649285,
+    32.187351,
+    75.653597,
+    32.192472
 ],
-  "geometry": {"coordinates":[75.65215000000001,32.19193],"type":"Point"}
+  "geometry": {"coordinates":[[[75.653597,32.192202],[75.653597,32.191394],[75.653058,32.191394],[75.653058,32.190316],[75.652788,32.190316],[75.652788,32.190046],[75.652519,32.190046],[75.652519,32.189507],[75.652249,32.189507],[75.652249,32.188968],[75.65197999999999,32.188968],[75.65197999999999,32.188699],[75.65170999999999,32.188699],[75.65170999999999,32.188429],[75.65144100000001,32.188429],[75.65144100000001,32.18816],[75.65117100000001,32.18816],[75.65117100000001,32.18789],[75.650632,32.18789],[75.650632,32.187621],[75.650093,32.187621],[75.650093,32.187351],[75.649824,32.187351],[75.649824,32.18816],[75.650363,32.18816],[75.650363,32.189238],[75.649824,32.189238],[75.649824,32.189777],[75.64955399999999,32.189777],[75.64955399999999,32.190046],[75.64928500000001,32.190046],[75.64928500000001,32.190585],[75.649824,32.190585],[75.649824,32.191394],[75.64928500000001,32.191394],[75.64928500000001,32.191933],[75.64955399999999,32.191933],[75.64955399999999,32.192202],[75.652249,32.192202],[75.652249,32.191933],[75.652788,32.191933],[75.652788,32.192202],[75.652519,32.192202],[75.652519,32.192472],[75.653058,32.192472],[75.653058,32.192202],[75.653597,32.192202]]],"type":"Polygon"}
 }

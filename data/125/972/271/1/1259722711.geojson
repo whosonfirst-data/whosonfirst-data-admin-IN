@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.75646,26.2472,79.75646,26.2472",
-    "geom:latitude":26.2472,
-    "geom:longitude":79.75646,
+    "geom:bbox":"79.755778,26.246343,79.757782,26.24788",
+    "geom:latitude":26.247104,
+    "geom:longitude":79.756783,
     "gn:admin1_code":"36",
     "gn:admin2_code":"163.0",
     "gn:asciiname":"Daulatpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.73646,26.2272,79.77646,26.2672",
+    "ks:ks_id":"KSDB96CE0B3AED4675AD7E5B907E661FCB",
+    "ks:ks_name":"Daulatpur",
+    "ks:ks_pop":214,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|255121",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1864392",
+    "lbl:latitude":26.247127,
+    "lbl:longitude":79.756764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.247127,
+    "mps:longitude":79.756764,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0628\u0648\u0631"
@@ -46,6 +56,9 @@
         "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Daulatpur"
+    ],
+    "name:eng_x_preferred":[
         "Daulatpur"
     ],
     "name:fra_x_preferred":[
@@ -93,7 +106,13 @@
     "name:zho_x_preferred":[
         "\u8fbe\u4e4c\u62c9\u7279\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -102,10 +121,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10488829
+        "gn:id":10488829,
+        "ks:id":"KSDB96CE0B3AED4675AD7E5B907E661FCB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7679fcf163649a9af1d0919d9f4dc377",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e0d686cb6fa43ae3c49f94d1f357d2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,20 +139,22 @@
         }
     ],
     "wof:id":1259722711,
-    "wof:lastmodified":1577754054,
+    "wof:lastmodified":1682735927,
     "wof:name":"Daulatpur",
     "wof:parent_id":890505615,
     "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.75646,
-    26.2472,
-    79.75646,
-    26.2472
+    79.755778,
+    26.246343,
+    79.757782,
+    26.24788
 ],
-  "geometry": {"coordinates":[79.75646,26.2472],"type":"Point"}
+  "geometry": {"coordinates":[[[79.756471,26.24788],[79.756472,26.247789],[79.757373,26.247797],[79.757374,26.247707],[79.75767399999999,26.247709],[79.75767500000001,26.247619],[79.757775,26.24762],[79.75778200000001,26.246988],[79.757682,26.246987],[79.757684,26.246807],[79.757583,26.246806],[79.75758500000001,26.246625],[79.757485,26.246624],[79.757486,26.246534],[79.75728599999999,26.246532],[79.75728700000001,26.246442],[79.75688700000001,26.246439],[79.756888,26.246348],[79.756287,26.246343],[79.756286,26.246433],[79.756086,26.246432],[79.756085,26.246522],[79.755985,26.246521],[79.755984,26.246611],[79.75588399999999,26.246611],[79.755883,26.246701],[79.75578299999999,26.2467],[79.75577800000001,26.247151],[79.755878,26.247152],[79.755875,26.247423],[79.75597500000001,26.247424],[79.75597399999999,26.247514],[79.756074,26.247515],[79.756073,26.247605],[79.756173,26.247606],[79.75617099999999,26.247787],[79.756272,26.247788],[79.756271,26.247878],[79.756471,26.24788]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645\u0628\u0648\u0631"
@@ -71,7 +72,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,17 +85,22 @@
     "wof:geomhash":"914bc761bb6397d15acec85a309f59cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209355709
+            "county_id":1108695921,
+            "locality_id":1209355709,
+            "region_id":85672225
         }
     ],
     "wof:id":1209355709,
-    "wof:lastmodified":1577750923,
+    "wof:lastmodified":1682615341,
     "wof:name":"Dharampur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847143199
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

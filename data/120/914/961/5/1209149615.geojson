@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.9955,22.0079,75.9955,22.0079",
-    "geom:latitude":22.0079,
-    "geom:longitude":75.9955,
+    "geom:bbox":"75.994077,22.007255,75.996011,22.009069",
+    "geom:latitude":22.008291,
+    "geom:longitude":75.995214,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"440.0",
     "gn:asciiname":"Mohali",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.9755,21.9879,76.0155,22.0279",
+    "ks:ks_alt_nam":"Moh\u0101li",
+    "ks:ks_id":"KSD0B1F544E038427392AECC6435482C7B",
+    "ks:ks_name":"Mohali",
+    "ks:ks_pop":1798,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|708834",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_863243",
+    "lbl:latitude":22.008329,
+    "lbl:longitude":75.995471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.008329,
+    "mps:longitude":75.995471,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u0627\u0644\u064a"
@@ -47,6 +58,12 @@
     ],
     "name:ceb_x_preferred":[
         "Mohali"
+    ],
+    "name:eng_x_preferred":[
+        "Mohali"
+    ],
+    "name:eng_x_variant":[
+        "Moh\u0101li"
     ],
     "name:fas_x_preferred":[
         "\u0627\u062c\u06cc\u062a\u06af\u0627\u0631\u0627"
@@ -129,37 +146,55 @@
     "name:vie_x_preferred":[
         "S.A.S. Nagar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672239,
+        1108696225
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10689912
+        "gn:id":10689912,
+        "ks:id":"KSD0B1F544E038427392AECC6435482C7B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4ed492e43475380a254d82ac3e16d6ea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c5de61b5bc9453fb076bf2c770f1387b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209149615
+            "county_id":1108696225,
+            "locality_id":1209149615,
+            "region_id":85672239
         }
     ],
     "wof:id":1209149615,
-    "wof:lastmodified":1576021453,
+    "wof:lastmodified":1686162779,
     "wof:name":"Mohali",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696225,
     "wof:placetype":"locality",
+    "wof:population":1798,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.9955,
-    22.0079,
-    75.9955,
-    22.0079
+    75.994077,
+    22.007255,
+    75.996011,
+    22.009069
 ],
-  "geometry": {"coordinates":[75.99550000000001,22.0079],"type":"Point"}
+  "geometry": {"coordinates":[[[75.99436900000001,22.009068],[75.99436900000001,22.008978],[75.994563,22.008977],[75.994563,22.009067],[75.994854,22.009066],[75.99485300000001,22.008975],[75.995047,22.008974],[75.995046,22.008884],[75.99524,22.008883],[75.995239,22.008792],[75.99543300000001,22.008791],[75.99543199999999,22.008701],[75.99581999999999,22.008698],[75.995819,22.008608],[75.99591599999999,22.008607],[75.995914,22.008336],[75.996011,22.008336],[75.996009,22.008065],[75.995912,22.008065],[75.995909,22.007614],[75.995812,22.007614],[75.995812,22.007524],[75.995715,22.007525],[75.99571400000001,22.007434],[75.995617,22.007435],[75.995617,22.007345],[75.99552,22.007345],[75.995519,22.007255],[75.995132,22.007257],[75.99513399999999,22.007528],[75.995231,22.007528],[75.995234,22.007979],[75.995137,22.00798],[75.995138,22.00816],[75.995041,22.008161],[75.995042,22.008251],[75.994654,22.008254],[75.99465499999999,22.008344],[75.994558,22.008345],[75.994559,22.008435],[75.994462,22.008436],[75.994463,22.008526],[75.994366,22.008526],[75.994366,22.008617],[75.994173,22.008618],[75.994174,22.008799],[75.994077,22.008799],[75.994078,22.00889],[75.994174,22.008889],[75.994175,22.008979],[75.994272,22.008979],[75.99427300000001,22.009069],[75.99436900000001,22.009068]]],"type":"Polygon"}
 }

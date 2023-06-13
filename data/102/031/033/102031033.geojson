@@ -11,12 +11,20 @@
     "geom:longitude":86.683354,
     "gn:population":22159,
     "iso:country":"IN",
-    "lbl:latitude":23.496636,
-    "lbl:longitude":86.669684,
+    "ks:ks_id":"KS7E39669B6DD443288ED0A3B22DFDEDB6",
+    "ks:ks_name":"Adra",
+    "ks:ks_pop":19924,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1914000541406000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_1180163",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":23.497702,
+    "lbl:longitude":86.676429,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":23.493477,
-    "mps:longitude":86.676636,
+    "mps:latitude":23.497702,
+    "mps:longitude":86.676429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Adra"
+    ],
+    "name:eng_x_variant":[
+        "\u0100dra"
     ],
     "name:fas_x_preferred":[
         "\u0627\u062f\u0631\u0627\u060c \u067e\u0648\u0631\u0644\u06cc\u0627"
@@ -104,10 +115,12 @@
     "reversegeo:longitude":86.669684,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -118,11 +131,16 @@
     "wof:concordances":{
         "gn:id":1279334,
         "gp:id":2289888,
+        "ks:id":"KS7E39669B6DD443288ED0A3B22DFDEDB6",
         "qs_pg:id":913308,
         "wd:id":"Q490892",
         "wk:page":"Adra, Purulia"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"b20596f192088314917442ce819290f0",
     "wof:hierarchy":[
         {
@@ -134,12 +152,12 @@
         }
     ],
     "wof:id":102031033,
-    "wof:lastmodified":1658780725,
-    "wof:name":"\u0100dra",
+    "wof:lastmodified":1682525271,
+    "wof:name":"Adra",
     "wof:parent_id":890509983,
     "wof:placetype":"locality",
-    "wof:population":22159,
-    "wof:population_rank":7,
+    "wof:population":19924,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

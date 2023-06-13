@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.22342,31.09303,75.22342,31.09303",
-    "geom:latitude":31.09303,
-    "geom:longitude":75.22342,
+    "geom:bbox":"75.223214,31.088083,75.227526,31.090509",
+    "geom:latitude":31.089324,
+    "geom:longitude":75.225502,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"37.0",
     "gn:asciiname":"Kamalpur",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.20342,31.07303,75.24342,31.11303",
+    "ks:ks_id":"KSFD7D00DAA68347BDA6D199B20E67C3C0",
+    "ks:ks_name":"Kamalpur",
+    "ks:ks_pop":492,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0304000100360600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2189885",
+    "lbl:latitude":31.089565,
+    "lbl:longitude":75.225974,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.089565,
+    "mps:longitude":75.225974,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kamalpur"
     ],
     "name:ceb_x_preferred":[
+        "Kamalpur"
+    ],
+    "name:eng_x_preferred":[
         "Kamalpur"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +58,13 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bb2\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10698955
+        "gn:id":10698955,
+        "ks:id":"KSFD7D00DAA68347BDA6D199B20E67C3C0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6ad0a79c35d1c911693eb71520860d62",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d82753a8b4827e193c99e03253cf437f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1276515609,
-    "wof:lastmodified":1566692583,
+    "wof:lastmodified":1682776900,
     "wof:name":"Kamalpur",
     "wof:parent_id":890507875,
     "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.22341999999998,
-    31.09303,
-    75.22341999999998,
-    31.09303
+    75.223214,
+    31.088083,
+    75.227526,
+    31.090509
 ],
-  "geometry": {"coordinates":[75.22341999999998,31.09303],"type":"Point"}
+  "geometry": {"coordinates":[[[75.22698699999999,31.089431],[75.22698699999999,31.088622],[75.226448,31.088622],[75.226448,31.088892],[75.226178,31.088892],[75.226178,31.088622],[75.225639,31.088622],[75.225639,31.088353],[75.22483099999999,31.088353],[75.22483099999999,31.088083],[75.22402200000001,31.088083],[75.22402200000001,31.088353],[75.223483,31.088353],[75.223483,31.088622],[75.223214,31.088622],[75.223214,31.089431],[75.22456099999999,31.089431],[75.22456099999999,31.0897],[75.2251,31.0897],[75.2251,31.08997],[75.22537,31.08997],[75.22537,31.090509],[75.227526,31.090509],[75.227526,31.089431],[75.22698699999999,31.089431]]],"type":"Polygon"}
 }

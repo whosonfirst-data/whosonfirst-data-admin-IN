@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.56185,26.28977,87.56185,26.28977",
-    "geom:latitude":26.28977,
-    "geom:longitude":87.56185,
+    "geom:bbox":"87.559166,26.299845,87.56057,26.302285",
+    "geom:latitude":26.301229,
+    "geom:longitude":87.559886,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"209.0",
     "gn:asciiname":"Belgachhi",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.54185,26.26977,87.58185,26.30977",
+    "ks:ks_id":"KSBEA5DC55F6C7481D94C68638BD5A00C2",
+    "ks:ks_name":"Belgachhi",
+    "ks:ks_pop":498,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|122391",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2128286",
+    "lbl:latitude":26.301225,
+    "lbl:longitude":87.559899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.301225,
+    "mps:longitude":87.559899,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Belgachhi"
+    ],
+    "name:eng_x_preferred":[
         "Belgachhi"
     ],
     "name:mai_x_preferred":[
@@ -42,7 +55,13 @@
     "name:pol_x_preferred":[
         "Belgachhi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10987298
+        "gn:id":10987298,
+        "ks:id":"KSBEA5DC55F6C7481D94C68638BD5A00C2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8134b16f4b2e64083a1a0a1f79e17a8c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c84c18d732f40af1691644bf94417086",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1260121075,
-    "wof:lastmodified":1566699179,
+    "wof:lastmodified":1682751660,
     "wof:name":"Belgachhi",
     "wof:parent_id":1108695905,
     "wof:placetype":"locality",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.56185,
-    26.28977,
-    87.56185,
-    26.28977
+    87.559166,
+    26.299845,
+    87.56057,
+    26.302285
 ],
-  "geometry": {"coordinates":[87.56185000000001,26.28977],"type":"Point"}
+  "geometry": {"coordinates":[[[87.560271,26.302282],[87.56027,26.302192],[87.56037000000001,26.302191],[87.56037000000001,26.302101],[87.56047,26.3021],[87.56047,26.30201],[87.56057,26.30201],[87.56056700000001,26.301468],[87.560467,26.301468],[87.56046499999999,26.300927],[87.560565,26.300926],[87.560564,26.300746],[87.560464,26.300746],[87.560463,26.300566],[87.560363,26.300566],[87.560362,26.300476],[87.56026199999999,26.300476],[87.56026199999999,26.300386],[87.56016099999999,26.300386],[87.56016099999999,26.300206],[87.56005999999999,26.300206],[87.560059,26.299935],[87.55995900000001,26.299935],[87.55995799999999,26.299845],[87.559658,26.299846],[87.559659,26.300027],[87.55955899999999,26.300027],[87.55956,26.300208],[87.559459,26.300208],[87.559461,26.300479],[87.55936,26.30048],[87.559364,26.301292],[87.559264,26.301293],[87.55926599999999,26.301744],[87.559166,26.301744],[87.559167,26.302015],[87.559268,26.302015],[87.559269,26.302195],[87.55946900000001,26.302195],[87.55946900000001,26.302285],[87.560271,26.302282]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.30224,11.2989,79.30224,11.2989",
-    "geom:latitude":11.2989,
-    "geom:longitude":79.30224,
+    "geom:bbox":"79.301476,11.29721,79.303632,11.300174",
+    "geom:latitude":11.29854,
+    "geom:longitude":79.302478,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"616.0",
     "gn:asciiname":"Vallam",
@@ -24,16 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.28224,11.2789,79.32224,11.3189",
+    "ks:ks_alt_nam":"vallam",
+    "ks:ks_id":"KS12C88BAF5D304EF89143406119F96BF2",
+    "ks:ks_name":"Vallam",
+    "ks:ks_pop":1118,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1086370",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_182305",
+    "lbl:latitude":11.298484,
+    "lbl:longitude":79.302457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":11.298484,
+    "mps:longitude":79.302457,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09b2\u09b2\u09ae"
     ],
     "name:ceb_x_preferred":[
+        "Vallam"
+    ],
+    "name:eng_x_preferred":[
         "Vallam"
     ],
     "name:ita_x_preferred":[
@@ -57,7 +71,13 @@
     "name:vie_x_preferred":[
         "Vallam"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11602193
+        "gn:id":11602193,
+        "ks:id":"KS12C88BAF5D304EF89143406119F96BF2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c2252abf11cb6c0a4812d9c1f34c9d13",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c912628922081586e0dc06f3764ef59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +104,22 @@
         }
     ],
     "wof:id":1243139811,
-    "wof:lastmodified":1566706930,
+    "wof:lastmodified":1682706769,
     "wof:name":"Vallam",
     "wof:parent_id":890509067,
     "wof:placetype":"locality",
+    "wof:population":1118,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.30224,
-    11.2989,
-    79.30224,
-    11.2989
+    79.301476,
+    11.29721,
+    79.303632,
+    11.300174
 ],
-  "geometry": {"coordinates":[79.30224,11.2989],"type":"Point"}
+  "geometry": {"coordinates":[[[79.30363199999999,11.299905],[79.30363199999999,11.299635],[79.303093,11.299635],[79.303093,11.299096],[79.30336200000001,11.299096],[79.30336200000001,11.298288],[79.303093,11.298288],[79.303093,11.29721],[79.302015,11.29721],[79.302015,11.297479],[79.30147599999999,11.297479],[79.30147599999999,11.298288],[79.301745,11.298288],[79.301745,11.298557],[79.30147599999999,11.298557],[79.30147599999999,11.299096],[79.302284,11.299096],[79.302284,11.299366],[79.301745,11.299366],[79.301745,11.299635],[79.302554,11.299635],[79.302554,11.299905],[79.303093,11.299905],[79.303093,11.300174],[79.30336200000001,11.300174],[79.30336200000001,11.299905],[79.30363199999999,11.299905]]],"type":"Polygon"}
 }

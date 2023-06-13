@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.9737,25.40954,80.9737,25.40954",
-    "geom:latitude":25.40954,
-    "geom:longitude":80.9737,
+    "geom:bbox":"80.973222,25.408948,80.974614,25.410574",
+    "geom:latitude":25.40969,
+    "geom:longitude":80.973913,
     "gn:admin1_code":"36",
     "gn:admin2_code":"171.0",
     "gn:asciiname":"Sidhauli",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.9537,25.38954,80.9937,25.42954",
+    "ks:ks_alt_nam":"Sidhaul\u012b",
+    "ks:ks_id":"KS040E179EABA24BE8887ECC406BFD8B6F",
+    "ks:ks_name":"Sidhauli",
+    "ks:ks_pop":67,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|988942",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1846348",
+    "lbl:latitude":25.40949,
+    "lbl:longitude":80.973844,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.40949,
+    "mps:longitude":80.973844,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a7\u09cc\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Sidhaul\u012b"
+    ],
+    "name:eng_x_preferred":[
+        "Sidhauli"
+    ],
+    "name:eng_x_variant":[
         "Sidhaul\u012b"
     ],
     "name:ita_x_preferred":[
@@ -66,7 +83,13 @@
     "name:zho_x_preferred":[
         "\u897f\u9053\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10536341
+        "gn:id":10536341,
+        "ks:id":"KS040E179EABA24BE8887ECC406BFD8B6F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"38e5f24af3c8e6db397a5c478ecf121a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e10e4c843d603e1eec238e897541f472",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1276377609,
-    "wof:lastmodified":1566693979,
+    "wof:lastmodified":1682770414,
     "wof:name":"Sidhauli",
     "wof:parent_id":890510789,
     "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.9737,
-    25.40954,
-    80.9737,
-    25.40954
+    80.973222,
+    25.408948,
+    80.974614,
+    25.410574
 ],
-  "geometry": {"coordinates":[80.97369999999999,25.40954],"type":"Point"}
+  "geometry": {"coordinates":[[[80.97441499999999,25.410574],[80.97441499999999,25.410483],[80.974514,25.410484],[80.974514,25.410213],[80.974614,25.410213],[80.974614,25.409942],[80.974514,25.409942],[80.974514,25.409671],[80.97441499999999,25.409671],[80.97441499999999,25.40931],[80.974316,25.409309],[80.974316,25.409219],[80.974216,25.409219],[80.974216,25.409129],[80.97411700000001,25.409129],[80.97411700000001,25.409039],[80.974017,25.409039],[80.974017,25.408948],[80.97351999999999,25.408948],[80.97351999999999,25.409038],[80.973421,25.409038],[80.973421,25.409129],[80.973321,25.409129],[80.973321,25.40949],[80.97322200000001,25.40949],[80.97322200000001,25.410122],[80.973321,25.410122],[80.973321,25.410212],[80.973421,25.410212],[80.973421,25.410122],[80.97351999999999,25.410122],[80.97351999999999,25.410032],[80.97362,25.410032],[80.97362,25.409942],[80.97381799999999,25.409942],[80.97381799999999,25.410032],[80.973918,25.410032],[80.973918,25.410122],[80.974017,25.410122],[80.974017,25.410213],[80.97411700000001,25.410213],[80.97411700000001,25.410574],[80.97441499999999,25.410574]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.44986,19.27752,83.44986,19.27752",
-    "geom:latitude":19.27752,
-    "geom:longitude":83.44986,
+    "geom:bbox":"83.448997,19.276944,83.450075,19.277753",
+    "geom:latitude":19.277439,
+    "geom:longitude":83.449581,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Bada Padia",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.42986,19.25752,83.46986,19.29752",
+    "ks:ks_id":"KSE3369B8C56E043F2B08941FEE70EB930",
+    "ks:ks_name":"Bodopadia",
+    "ks:ks_pop":103,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2127000804625400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_452365",
+    "lbl:latitude":19.277483,
+    "lbl:longitude":83.449581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.277483,
+    "mps:longitude":83.449581,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bodopadia"
+    ],
+    "name:eng_x_variant":[
+        "Bada Padia"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10776462
+        "gn:id":10776462,
+        "ks:id":"KSE3369B8C56E043F2B08941FEE70EB930"
     },
     "wof:country":"IN",
-    "wof:geomhash":"45fc99813a88e6c78197f5f78a6681e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"35ae0def69c4522263014b205bc795c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259356891,
-    "wof:lastmodified":1566709941,
-    "wof:name":"Bada Padia",
+    "wof:lastmodified":1682723478,
+    "wof:name":"Bodopadia",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.44986,
-    19.27752000000001,
-    83.44986,
-    19.27752000000001
+    83.448997,
+    19.276944,
+    83.450075,
+    19.277753
 ],
-  "geometry": {"coordinates":[83.44986,19.27752000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[83.450075,19.277753],[83.450075,19.276944],[83.449806,19.276944],[83.449806,19.277214],[83.44899700000001,19.277214],[83.44899700000001,19.277753],[83.450075,19.277753]]],"type":"Polygon"}
 }

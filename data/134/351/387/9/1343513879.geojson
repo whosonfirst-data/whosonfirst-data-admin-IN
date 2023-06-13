@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.5994,26.92536,79.5994,26.92536",
-    "geom:latitude":26.92536,
-    "geom:longitude":79.5994,
+    "geom:bbox":"79.598567,26.924579,79.600188,26.925846",
+    "geom:latitude":26.925246,
+    "geom:longitude":79.599478,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Harpalpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.5794,26.90536,79.6194,26.94536",
+    "ks:ks_id":"KS29D94EBC20A34A87840D565FBE292524",
+    "ks:ks_name":"Harpal Pur",
+    "ks:ks_pop":378,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|413663",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1884760",
+    "lbl:latitude":26.925213,
+    "lbl:longitude":79.599575,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.925213,
+    "mps:longitude":79.599575,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09aa\u09b2\u09aa\u09c1\u09b0"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Harp\u0101lpur"
+    ],
+    "name:eng_x_preferred":[
+        "Harpal Pur"
+    ],
+    "name:eng_x_variant":[
+        "Harpalpur"
     ],
     "name:ita_x_preferred":[
         "Harpalpur"
@@ -66,7 +82,13 @@
     "name:zho_x_preferred":[
         "\u54c8\u5c14\u5e15\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7003666
+        "gn:id":7003666,
+        "ks:id":"KS29D94EBC20A34A87840D565FBE292524"
     },
     "wof:country":"IN",
-    "wof:geomhash":"108a0acfe6b83d02cc7a3284aac6197a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"526f51cf6f4a3b139d56aeb7f5c94ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1343513879,
-    "wof:lastmodified":1566687654,
-    "wof:name":"Harpalpur",
+    "wof:lastmodified":1682930437,
+    "wof:name":"Harpal Pur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.5994,
-    26.92536,
-    79.5994,
-    26.92536
+    79.598567,
+    26.924579,
+    79.600188,
+    26.925846
 ],
-  "geometry": {"coordinates":[79.5994,26.92536],"type":"Point"}
+  "geometry": {"coordinates":[[[79.599671,26.925846],[79.599672,26.925756],[79.599874,26.925758],[79.599875,26.925667],[79.599975,26.925668],[79.599976,26.925578],[79.600077,26.925579],[79.600078,26.925489],[79.600179,26.92549],[79.600188,26.924768],[79.600087,26.924767],[79.600088,26.924676],[79.599887,26.924674],[79.59988800000001,26.924584],[79.599385,26.924579],[79.599383,26.924669],[79.599182,26.924667],[79.59918,26.924848],[79.599079,26.924847],[79.59907800000001,26.924937],[79.598977,26.924936],[79.598975,26.925117],[79.598874,26.925116],[79.598873,26.925206],[79.59877299999999,26.925205],[79.598771,26.925295],[79.598671,26.925294],[79.59867,26.925385],[79.598569,26.925384],[79.598567,26.925564],[79.59866700000001,26.925565],[79.59866599999999,26.925655],[79.598868,26.925657],[79.598867,26.925748],[79.598967,26.925749],[79.598966,26.925839],[79.599671,26.925846]]],"type":"Polygon"}
 }

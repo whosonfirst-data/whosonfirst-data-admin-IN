@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695857
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10564646
     },
     "wof:country":"IN",
-    "wof:geomhash":"f89b084e6965f2a464a5487012bb80fc",
+    "wof:geomhash":"c23940842db5543e6376c2df62f9b3e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209166565
+            "county_id":1108695857,
+            "locality_id":1209166565,
+            "region_id":85672205
         }
     ],
     "wof:id":1209166565,
-    "wof:lastmodified":1566696559,
+    "wof:lastmodified":1682608815,
     "wof:name":"Pura Sufal",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847146195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.86421999999997,
+    81.86422,
     27.09105,
-    81.86421999999997,
+    81.86422,
     27.09105
 ],
-  "geometry": {"coordinates":[81.86421999999997,27.09105],"type":"Point"}
+  "geometry": {"coordinates":[81.86422,27.09105],"type":"Point"}
 }

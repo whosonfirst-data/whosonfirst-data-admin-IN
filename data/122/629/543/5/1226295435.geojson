@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.07701,27.3468,81.07701,27.3468",
-    "geom:latitude":27.3468,
-    "geom:longitude":81.07701,
+    "geom:bbox":"81.0762,27.345912,81.078222,27.347808",
+    "geom:latitude":27.346914,
+    "geom:longitude":81.077244,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Katra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.05701,27.3268,81.09701,27.3668",
+    "ks:ks_id":"KSF4641C56F99A4FD39DFE90AAB18FD50A",
+    "ks:ks_name":"Katra",
+    "ks:ks_pop":165,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|525583",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1899454",
+    "lbl:latitude":27.346873,
+    "lbl:longitude":81.077263,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.346873,
+    "mps:longitude":81.077263,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u0631\u0627"
@@ -46,6 +56,9 @@
         "Katra"
     ],
     "name:deu_x_preferred":[
+        "Katra"
+    ],
+    "name:eng_x_preferred":[
         "Katra"
     ],
     "name:guj_x_preferred":[
@@ -99,7 +112,13 @@
     "name:vie_x_preferred":[
         "Katra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10558970
+        "gn:id":10558970,
+        "ks:id":"KSF4641C56F99A4FD39DFE90AAB18FD50A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"657b8ade4f6bbbd2a6d6a19e0f83b5df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5f0048f7b2fa6358ee9135c150e83720",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1226295435,
-    "wof:lastmodified":1577754197,
+    "wof:lastmodified":1682662737,
     "wof:name":"Katra",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.07701,
-    27.3468,
-    81.07701,
-    27.3468
+    81.0762,
+    27.345912,
+    81.078222,
+    27.347808
 ],
-  "geometry": {"coordinates":[81.07701,27.3468],"type":"Point"}
+  "geometry": {"coordinates":[[[81.077212,27.347808],[81.077212,27.347718],[81.077414,27.347718],[81.077414,27.347627],[81.07781799999999,27.347627],[81.07781799999999,27.347717],[81.07791899999999,27.347717],[81.07791899999999,27.347627],[81.07802,27.347627],[81.07802,27.347537],[81.078121,27.347537],[81.078121,27.347266],[81.078222,27.347266],[81.078222,27.346544],[81.078121,27.346544],[81.078121,27.346363],[81.078019,27.346363],[81.078019,27.346273],[81.077918,27.346273],[81.077918,27.346183],[81.077817,27.346183],[81.077817,27.346092],[81.07761499999999,27.346093],[81.07761499999999,27.346002],[81.07751399999999,27.346002],[81.07751399999999,27.345912],[81.07710899999999,27.345912],[81.07710899999999,27.346003],[81.07690700000001,27.346003],[81.07690700000001,27.346093],[81.076806,27.346093],[81.076806,27.346183],[81.076705,27.346183],[81.076705,27.346274],[81.076604,27.346274],[81.076604,27.346454],[81.076503,27.346454],[81.076503,27.346545],[81.076402,27.346545],[81.076402,27.346725],[81.076301,27.346725],[81.076301,27.346906],[81.0762,27.346906],[81.0762,27.347357],[81.076301,27.347357],[81.076301,27.347538],[81.076403,27.347538],[81.076403,27.347628],[81.076504,27.347628],[81.076504,27.347718],[81.076807,27.347718],[81.076807,27.347808],[81.077212,27.347808]]],"type":"Polygon"}
 }

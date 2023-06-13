@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.36704,18.94173,76.36704,18.94173",
-    "geom:latitude":18.94173,
-    "geom:longitude":76.36704,
+    "geom:bbox":"76.368887,18.939337,76.370692,18.941687",
+    "geom:latitude":18.940703,
+    "geom:longitude":76.369777,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"523.0",
     "gn:asciiname":"Waka",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.34704,18.92173,76.38704,18.96173",
+    "ks:ks_alt_nam":"W\u0101ka",
+    "ks:ks_id":"KSF2AA2986BB8843C4A28ACD403447EE8B",
+    "ks:ks_name":"Waka",
+    "ks:ks_pop":1605,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1102151",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_545824",
+    "lbl:latitude":18.940843,
+    "lbl:longitude":76.369884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.940843,
+    "mps:longitude":76.369884,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Waka"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Waka"
+    ],
+    "name:eng_x_preferred":[
+        "Waka"
+    ],
+    "name:eng_x_variant":[
+        "W\u0101ka"
     ],
     "name:fra_x_preferred":[
         "Waka"
@@ -81,7 +98,13 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043a\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10435635
+        "gn:id":10435635,
+        "ks:id":"KSF2AA2986BB8843C4A28ACD403447EE8B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5f902680a22bde2331f7c5498a0baee2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f2da8c3188c5f740d7ef83eb82495f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1310387323,
-    "wof:lastmodified":1566700986,
+    "wof:lastmodified":1682864956,
     "wof:name":"Waka",
     "wof:parent_id":1108696307,
     "wof:placetype":"locality",
+    "wof:population":1605,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.36704,
-    18.94173,
-    76.36704,
-    18.94173
+    76.368887,
+    18.939337,
+    76.370692,
+    18.941687
 ],
-  "geometry": {"coordinates":[76.36704,18.94173],"type":"Point"}
+  "geometry": {"coordinates":[[[76.370222,18.941679],[76.370222,18.941589],[76.370317,18.941588],[76.370316,18.941498],[76.370411,18.941497],[76.37041000000001,18.941407],[76.37050499999999,18.941406],[76.370504,18.941316],[76.370599,18.941315],[76.370597,18.941044],[76.37069200000001,18.941043],[76.370688,18.940501],[76.370593,18.940502],[76.370591,18.940321],[76.370496,18.940322],[76.37049500000001,18.940141],[76.3704,18.940142],[76.37039900000001,18.940052],[76.370304,18.940052],[76.37030300000001,18.939872],[76.37020800000001,18.939872],[76.37020699999999,18.939782],[76.370017,18.939783],[76.37001600000001,18.939693],[76.369731,18.939695],[76.369731,18.939605],[76.369636,18.939605],[76.369635,18.939515],[76.369445,18.939517],[76.369444,18.939426],[76.369349,18.939427],[76.369349,18.939337],[76.369159,18.939338],[76.369162,18.93979],[76.369257,18.939789],[76.369263,18.940421],[76.369168,18.940422],[76.369169,18.940603],[76.369074,18.940604],[76.36907600000001,18.940784],[76.36898100000001,18.940785],[76.368982,18.940966],[76.368887,18.940966],[76.368891,18.941418],[76.36898600000001,18.941417],[76.368987,18.941598],[76.36917699999999,18.941597],[76.36917800000001,18.941687],[76.370222,18.941679]]],"type":"Polygon"}
 }

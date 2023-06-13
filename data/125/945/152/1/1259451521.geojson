@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.50123,32.13914,75.50123,32.13914",
-    "geom:latitude":32.13914,
-    "geom:longitude":75.50123,
+    "geom:bbox":"75.498907,32.134531,75.499985,32.135608",
+    "geom:latitude":32.13507,
+    "geom:longitude":75.499446,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"35.0",
     "gn:asciiname":"Haweli",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.48123,32.11914,75.52123,32.15914",
+    "ks:ks_id":"KS12C41E359DDA43F38D4B0281972E2F4B",
+    "ks:ks_name":"Haveli",
+    "ks:ks_pop":183,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0301000300048600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2230313",
+    "lbl:latitude":32.13507,
+    "lbl:longitude":75.499446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":32.13507,
+    "mps:longitude":75.499446,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Haveli"
+    ],
+    "name:eng_x_variant":[
+        "Haweli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10686719
+        "gn:id":10686719,
+        "ks:id":"KS12C41E359DDA43F38D4B0281972E2F4B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0dec50f6f57377cb7d538d5501fda6ae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"414377538952e0c3a055ebe1644da88e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259451521,
-    "wof:lastmodified":1566710474,
-    "wof:name":"Haweli",
+    "wof:lastmodified":1682727191,
+    "wof:name":"Haveli",
     "wof:parent_id":890507873,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.50123,
-    32.13914,
-    75.50123,
-    32.13914
+    75.498907,
+    32.134531,
+    75.499985,
+    32.135608
 ],
-  "geometry": {"coordinates":[75.50123000000001,32.13914],"type":"Point"}
+  "geometry": {"coordinates":[[[75.499985,32.134531],[75.498907,32.134531],[75.498907,32.135608],[75.499985,32.135608],[75.499985,32.134531]]],"type":"Polygon"}
 }

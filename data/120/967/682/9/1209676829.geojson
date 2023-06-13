@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lakshmipur"
@@ -41,35 +42,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672219,
+        1108696073
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11015607
     },
     "wof:country":"IN",
-    "wof:geomhash":"ea293d7ddf6e187ac1c218912d50c646",
+    "wof:geomhash":"31b05efbf022d1c500453844fe1d6016",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209676829
+            "county_id":1108696073,
+            "locality_id":1209676829,
+            "region_id":85672219
         }
     ],
     "wof:id":1209676829,
-    "wof:lastmodified":1566696293,
+    "wof:lastmodified":1682628936,
     "wof:name":"Lakshmipur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847144095
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.91986999999997,
+    87.91987,
     25.49863,
-    87.91986999999997,
+    87.91987,
     25.49863
 ],
-  "geometry": {"coordinates":[87.91986999999997,25.49863],"type":"Point"}
+  "geometry": {"coordinates":[87.91987,25.49863],"type":"Point"}
 }

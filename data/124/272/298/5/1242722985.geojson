@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.6908,25.8896,86.6908,25.8896",
-    "geom:latitude":25.8896,
-    "geom:longitude":86.6908,
+    "geom:bbox":"86.68967,25.887107,86.691556,25.89088",
+    "geom:latitude":25.888955,
+    "geom:longitude":86.690638,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"214.0",
     "gn:asciiname":"Bhagwanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.6708,25.8696,86.7108,25.9096",
+    "ks:ks_id":"KS469E649606734E8D984B1602BB00DB46",
+    "ks:ks_name":"Bhagwanpur",
+    "ks:ks_pop":245,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|132096",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1569739",
+    "lbl:latitude":25.888271,
+    "lbl:longitude":86.690467,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.888271,
+    "mps:longitude":86.690467,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062c\u0648\u0627\u0646\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09ad\u0997\u09ac\u09be\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Bhagwanpur"
     ],
     "name:fra_x_preferred":[
         "Bhagwanpur"
@@ -72,7 +85,13 @@
     "name:urd_x_preferred":[
         "\u0628\u06be\u06af\u0648\u0627\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10902725
+        "gn:id":10902725,
+        "ks:id":"KS469E649606734E8D984B1602BB00DB46"
     },
     "wof:country":"IN",
-    "wof:geomhash":"35d181b4d3aaca68e6fcb70d74b7356e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05940d319c224026f950354ecf52a33b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1242722985,
-    "wof:lastmodified":1577752849,
+    "wof:lastmodified":1682690286,
     "wof:name":"Bhagwanpur",
     "wof:parent_id":1108695911,
     "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.6908,
-    25.8896,
-    86.6908,
-    25.8896
+    86.68967,
+    25.887107,
+    86.691556,
+    25.89088
 ],
-  "geometry": {"coordinates":[86.6908,25.8896],"type":"Point"}
+  "geometry": {"coordinates":[[[86.690748,25.888994],[86.690748,25.888724],[86.691017,25.888724],[86.691017,25.887646],[86.690478,25.887646],[86.690478,25.887107],[86.68967000000001,25.887107],[86.68967000000001,25.888185],[86.689939,25.888185],[86.689939,25.889263],[86.690478,25.889263],[86.690478,25.890341],[86.690748,25.890341],[86.690748,25.89088],[86.69155600000001,25.89088],[86.69155600000001,25.889263],[86.691017,25.889263],[86.691017,25.888994],[86.690748,25.888994]]],"type":"Polygon"}
 }

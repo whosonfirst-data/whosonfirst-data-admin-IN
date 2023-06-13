@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.02288,19.80252,79.02288,19.80252",
-    "geom:latitude":19.80252,
-    "geom:longitude":79.02288,
+    "geom:bbox":"79.022044,19.801842,79.023764,19.803109",
+    "geom:latitude":19.802496,
+    "geom:longitude":79.022858,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Murti",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.00288,19.78252,79.04288,19.82252",
+    "ks:ks_id":"KSD23A145612CC4618964AF706604BCF76",
+    "ks:ks_name":"Murti",
+    "ks:ks_pop":238,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|729022",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_562051",
+    "lbl:latitude":19.802476,
+    "lbl:longitude":79.022858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.802476,
+    "mps:longitude":79.022858,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u062a\u064a"
@@ -37,6 +47,9 @@
         "\u09ae\u09c2\u09b0\u09cd\u09a4\u09bf"
     ],
     "name:cat_x_preferred":[
+        "Murti"
+    ],
+    "name:eng_x_preferred":[
         "Murti"
     ],
     "name:fra_x_preferred":[
@@ -99,7 +112,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10967935
+        "gn:id":10967935,
+        "ks:id":"KSD23A145612CC4618964AF706604BCF76"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4fe022228c45996e7b44c9fbab30b11e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"847d2a1c4f9a63906a2677cfcac68ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1226016911,
-    "wof:lastmodified":1566713207,
+    "wof:lastmodified":1682652857,
     "wof:name":"Murti",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.02288,
-    19.80252,
-    79.02288,
-    19.80252
+    79.022044,
+    19.801842,
+    79.023764,
+    19.803109
 ],
-  "geometry": {"coordinates":[79.02288,19.80252],"type":"Point"}
+  "geometry": {"coordinates":[[[79.022897,19.803109],[79.022898,19.803019],[79.023375,19.803024],[79.023376,19.802934],[79.023472,19.802935],[79.023473,19.802844],[79.023568,19.802845],[79.02356899999999,19.802755],[79.02366499999999,19.802756],[79.02366600000001,19.802666],[79.02376099999999,19.802667],[79.023764,19.802396],[79.023669,19.802395],[79.02367,19.802305],[79.02357499999999,19.802304],[79.02357600000001,19.802213],[79.02348000000001,19.802212],[79.023482,19.802122],[79.023386,19.802121],[79.023387,19.80203],[79.023196,19.802028],[79.02319799999999,19.801938],[79.02291099999999,19.801935],[79.02291200000001,19.801845],[79.022722,19.801842],[79.02272000000001,19.801933],[79.022434,19.80193],[79.02243300000001,19.80202],[79.02224200000001,19.802018],[79.02224099999999,19.802108],[79.02214600000001,19.802107],[79.02214499999999,19.802197],[79.022049,19.802196],[79.02204399999999,19.802648],[79.022139,19.802649],[79.022137,19.80283],[79.022232,19.802831],[79.022231,19.802921],[79.02232600000001,19.802922],[79.022325,19.803012],[79.022516,19.803014],[79.022515,19.803105],[79.022897,19.803109]]],"type":"Polygon"}
 }

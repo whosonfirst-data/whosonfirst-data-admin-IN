@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.76116,10.70928,76.76116,10.70928",
-    "geom:latitude":10.70928,
-    "geom:longitude":76.76116,
+    "geom:bbox":"76.76913,10.701411,76.770688,10.702766",
+    "geom:latitude":10.701978,
+    "geom:longitude":76.769984,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"593.0",
     "gn:asciiname":"Palapallam",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.74116,10.68928,76.78116,10.72928",
+    "ks:ks_id":"KS2B891741CA4C43E685C59BA8E4FE10B1",
+    "ks:ks_name":"Palapallam",
+    "ks:ks_pop":2183,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|809279",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_111619",
+    "lbl:latitude":10.701938,
+    "lbl:longitude":76.769996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.701938,
+    "mps:longitude":76.769996,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b2\u09aa\u09be\u09b2\u09cd\u09b2\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Palapallam"
     ],
     "name:ita_x_preferred":[
         "Balapallam"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u5e15\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11484397
+        "gn:id":11484397,
+        "ks:id":"KS2B891741CA4C43E685C59BA8E4FE10B1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"69cd17a40835a5b727b49c976bb3bd0c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1552a172842ce553919c7c03b37fd7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1276841337,
-    "wof:lastmodified":1566693732,
+    "wof:lastmodified":1682788776,
     "wof:name":"Palapallam",
     "wof:parent_id":890507395,
     "wof:placetype":"locality",
+    "wof:population":2183,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.76116,
-    10.70928,
-    76.76116,
-    10.70928
+    76.76913,
+    10.701411,
+    76.770688,
+    10.702766
 ],
-  "geometry": {"coordinates":[76.76116,10.70928],"type":"Point"}
+  "geometry": {"coordinates":[[[76.770325,10.702765],[76.770325,10.702675],[76.770416,10.702674],[76.770416,10.702584],[76.77050699999999,10.702583],[76.770505,10.702312],[76.770597,10.702312],[76.770596,10.702221],[76.77068800000001,10.702221],[76.770687,10.70213],[76.770596,10.702131],[76.770595,10.70204],[76.770687,10.70204],[76.770686,10.70195],[76.770595,10.70195],[76.770594,10.70186],[76.77050300000001,10.70186],[76.77050199999999,10.70177],[76.770228,10.701771],[76.77022700000001,10.701681],[76.77013599999999,10.701681],[76.77013599999999,10.701591],[76.770044,10.701592],[76.770044,10.701501],[76.769952,10.701502],[76.769952,10.701411],[76.769312,10.701415],[76.769312,10.701505],[76.769221,10.701506],[76.769221,10.701596],[76.76913,10.701597],[76.769131,10.701687],[76.769222,10.701687],[76.769223,10.701777],[76.76931399999999,10.701777],[76.76931399999999,10.701867],[76.769406,10.701866],[76.769406,10.701957],[76.769589,10.701956],[76.76958999999999,10.702137],[76.769773,10.702136],[76.769774,10.702226],[76.769865,10.702225],[76.76986599999999,10.702316],[76.76995700000001,10.702315],[76.769958,10.702586],[76.770141,10.702585],[76.77014200000001,10.702676],[76.770233,10.702675],[76.770234,10.702766],[76.770325,10.702765]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.26317,24.64955,83.26317,24.64955",
-    "geom:latitude":24.64955,
-    "geom:longitude":83.26317,
+    "geom:bbox":"83.273303,24.653361,83.274292,24.654183",
+    "geom:latitude":24.653748,
+    "geom:longitude":83.273725,
     "gn:admin1_code":"36",
     "gn:admin2_code":"200.0",
     "gn:asciiname":"Kolhuwa",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.24317,24.62955,83.28317,24.66955",
+    "ks:ks_id":"KS70523E985C8647AB983EC155D38B0525",
+    "ks:ks_name":"Kolhuwa",
+    "ks:ks_source_id":"N|12961969",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1030901",
+    "lbl:latitude":24.653726,
+    "lbl:longitude":83.273716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.653726,
+    "mps:longitude":83.273716,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Kolhuwa"
+    ],
+    "name:eng_x_preferred":[
         "Kolhuwa"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +59,11 @@
     "name:pol_x_preferred":[
         "Kolhuwa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10516195
+        "gn:id":10516195,
+        "ks:id":"KS70523E985C8647AB983EC155D38B0525"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b69c00d63f517434dc03db00e70e7f96",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9655eecb1d7669bf043803fe6f272d30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +90,7 @@
         }
     ],
     "wof:id":1209956817,
-    "wof:lastmodified":1566695927,
+    "wof:lastmodified":1682638512,
     "wof:name":"Kolhuwa",
     "wof:parent_id":1108695887,
     "wof:placetype":"locality",
@@ -81,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.26317,
-    24.64955,
-    83.26317,
-    24.64955
+    83.273303,
+    24.653361,
+    83.274292,
+    24.654183
 ],
-  "geometry": {"coordinates":[83.26317,24.64955],"type":"Point"}
+  "geometry": {"coordinates":[[[83.27390200000001,24.653994],[83.2739,24.653904],[83.274098,24.653901],[83.274096,24.65381],[83.27419500000001,24.653809],[83.274193,24.653719],[83.274292,24.653717],[83.27428999999999,24.653627],[83.274191,24.653629],[83.27419,24.653538],[83.274091,24.65354],[83.274089,24.65345],[83.273991,24.653451],[83.273989,24.653361],[83.273594,24.653367],[83.273596,24.653457],[83.27349700000001,24.653458],[83.273499,24.653549],[83.2734,24.65355],[83.273402,24.65364],[83.273303,24.653642],[83.273308,24.653913],[83.27340599999999,24.653911],[83.273408,24.654001],[83.273309,24.654003],[83.273313,24.654183],[83.27360899999999,24.654179],[83.273607,24.654089],[83.273805,24.654086],[83.273803,24.653995],[83.27390200000001,24.653994]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.50374,25.41627,79.50374,25.41627",
-    "geom:latitude":25.41627,
-    "geom:longitude":79.50374,
+    "geom:bbox":"79.502668,25.41515,79.504665,25.416687",
+    "geom:latitude":25.415931,
+    "geom:longitude":79.503639,
     "gn:admin1_code":"36",
     "gn:admin2_code":"169.0",
     "gn:asciiname":"Jamala",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.48374,25.39627,79.52374,25.43627",
+    "ks:ks_alt_nam":"Jam\u0101la",
+    "ks:ks_id":"KSF7ABA99CFBB247059B433C73A73D4D42",
+    "ks:ks_name":"Jamala",
+    "ks:ks_pop":183,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|447419",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1846459",
+    "lbl:latitude":25.415962,
+    "lbl:longitude":79.503658,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.415962,
+    "mps:longitude":79.503658,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1303\u121b\u120b"
@@ -68,6 +79,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b1\u03bc\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Jamala"
+    ],
+    "name:eng_x_variant":[
+        "Jam\u0101la"
     ],
     "name:epo_x_preferred":[
         "\u011camala"
@@ -219,7 +236,13 @@
     "name:zho_x_preferred":[
         "\u8cc8\u746a\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -228,10 +251,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10493079
+        "gn:id":10493079,
+        "ks:id":"KSF7ABA99CFBB247059B433C73A73D4D42"
     },
     "wof:country":"IN",
-    "wof:geomhash":"fc5037f1c2708359c5c50d648025b165",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d222a336f17a5778216bb55d69c19bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,20 +269,22 @@
         }
     ],
     "wof:id":1193066953,
-    "wof:lastmodified":1566697667,
+    "wof:lastmodified":1682584331,
     "wof:name":"Jamala",
     "wof:parent_id":890508311,
     "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.50374000000002,
-    25.41627,
-    79.50374000000002,
-    25.41627
+    79.502668,
+    25.41515,
+    79.504665,
+    25.416687
 ],
-  "geometry": {"coordinates":[79.50374000000002,25.41627],"type":"Point"}
+  "geometry": {"coordinates":[[[79.503856,25.416687],[79.503857,25.416596],[79.50405600000001,25.416598],[79.504057,25.416508],[79.504256,25.41651],[79.504257,25.41642],[79.504357,25.416421],[79.504358,25.416331],[79.504457,25.416332],[79.504458,25.416241],[79.504558,25.416242],[79.50456,25.416062],[79.504659,25.416063],[79.504665,25.415611],[79.504566,25.41561],[79.50456699999999,25.41552],[79.50446700000001,25.415519],[79.504469,25.415339],[79.50436999999999,25.415338],[79.50437100000001,25.415247],[79.504272,25.415246],[79.504273,25.415156],[79.503676,25.41515],[79.503675,25.41524],[79.503477,25.415238],[79.50347499999999,25.415328],[79.503078,25.415324],[79.503077,25.415415],[79.502779,25.415412],[79.502776,25.415592],[79.50267700000001,25.415591],[79.502668,25.416313],[79.50276700000001,25.416314],[79.502765,25.416495],[79.502865,25.416496],[79.502863,25.416586],[79.50296299999999,25.416587],[79.502962,25.416678],[79.503856,25.416687]]],"type":"Polygon"}
 }

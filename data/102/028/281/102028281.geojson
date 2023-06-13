@@ -13,12 +13,20 @@
     "gn:longitude":70.36786,
     "gn:population":163326,
     "iso:country":"IN",
-    "lbl:latitude":20.911773,
-    "lbl:longitude":70.363201,
+    "ks:ks_id":"KS17827DB125D44E7CB1AD8E874970432D",
+    "ks:ks_name":"Veraval",
+    "ks:ks_pop":158032,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2412001141210000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_656941",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.909887,
+    "lbl:longitude":70.382169,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":20.915415,
-    "mps:longitude":70.358131,
+    "mps:latitude":20.909887,
+    "mps:longitude":70.382169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -40,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Veraval"
+    ],
+    "name:eng_x_variant":[
+        "Ver\u0101val"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0648\u0644"
@@ -127,10 +138,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":0.0,
     "wd:latitude":20.9,
     "wd:longitude":70.37,
@@ -145,6 +158,7 @@
     "wof:concordances":{
         "gn:id":1253237,
         "gp:id":2295100,
+        "ks:id":"KS17827DB125D44E7CB1AD8E874970432D",
         "loc:id":"n2008206476",
         "qs_pg:id":1030352,
         "wd:id":"Q518791",
@@ -152,7 +166,9 @@
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"46fb6bdc3701b9117f56baef422d9b3f",
     "wof:hierarchy":[
@@ -165,11 +181,11 @@
         }
     ],
     "wof:id":102028281,
-    "wof:lastmodified":1658780777,
-    "wof:name":"Ver\u0101val",
+    "wof:lastmodified":1686162207,
+    "wof:name":"Veraval",
     "wof:parent_id":890502479,
     "wof:placetype":"locality",
-    "wof:population":163326,
+    "wof:population":158032,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

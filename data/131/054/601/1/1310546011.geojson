@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.41584,25.32782,85.41584,25.32782",
-    "geom:latitude":25.32782,
-    "geom:longitude":85.41584,
+    "geom:bbox":"85.417925,25.327906,85.419003,25.329523",
+    "geom:latitude":25.328736,
+    "geom:longitude":85.418542,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Kharij Jama",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.39584,25.30782,85.43584,25.34782",
+    "ks:ks_id":"KSCA5F89D5BD054087B07E07827D0F6C56",
+    "ks:ks_name":"Kharjama",
+    "ks:ks_pop":668,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|549174",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1343514",
+    "lbl:latitude":25.328776,
+    "lbl:longitude":85.418532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.328776,
+    "mps:longitude":85.418532,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kharjama"
+    ],
+    "name:eng_x_variant":[
+        "Kharij Jama"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028786
+        "gn:id":11028786,
+        "ks:id":"KSCA5F89D5BD054087B07E07827D0F6C56"
     },
     "wof:country":"IN",
-    "wof:geomhash":"b63d5dc3030d9028b9bb4f63dc07c6b3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"efce262f4572a7e465451f6c3c3803ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1310546011,
-    "wof:lastmodified":1566700938,
-    "wof:name":"Kharij Jama",
+    "wof:lastmodified":1682870064,
+    "wof:name":"Kharjama",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":668,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.41584,
-    25.32782000000001,
-    85.41584,
-    25.32782000000001
+    85.417925,
+    25.327906,
+    85.419003,
+    25.329523
 ],
-  "geometry": {"coordinates":[85.41584,25.32782000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[85.419003,25.329523],[85.419003,25.327906],[85.418464,25.327906],[85.418464,25.328176],[85.418194,25.328176],[85.418194,25.328445],[85.417925,25.328445],[85.417925,25.329253],[85.418464,25.329253],[85.418464,25.329523],[85.419003,25.329523]]],"type":"Polygon"}
 }

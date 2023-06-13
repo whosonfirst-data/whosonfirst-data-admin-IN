@@ -13,12 +13,20 @@
     "gn:longitude":75.64132,
     "gn:population":9322,
     "iso:country":"IN",
-    "lbl:latitude":13.137063,
-    "lbl:longitude":75.640993,
+    "ks:ks_id":"KSF825565ABF5F4A47B26E83D65BF2264B",
+    "ks:ks_name":"Mudigere",
+    "ks:ks_pop":8963,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2917000741708000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_270080",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":13.141291,
+    "lbl:longitude":75.641777,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":13.127625,
-    "mps:longitude":75.643967,
+    "mps:latitude":13.141291,
+    "mps:longitude":75.641777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -125,10 +133,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":436,
     "wof:belongsto":[
         102191569,
@@ -140,13 +150,16 @@
     "wof:concordances":{
         "gn:id":1262658,
         "gp:id":2293825,
+        "ks:id":"KSF825565ABF5F4A47B26E83D65BF2264B",
         "qs_pg:id":1226338,
         "wd:id":"Q2552562",
         "wk:page":"Mudigere"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b1c07bad6b95e59cdc5d5932e189399e",
     "wof:hierarchy":[
@@ -159,11 +172,11 @@
         }
     ],
     "wof:id":102029341,
-    "wof:lastmodified":1658780758,
+    "wof:lastmodified":1682523838,
     "wof:name":"Mudigere",
     "wof:parent_id":890507585,
     "wof:placetype":"locality",
-    "wof:population":9322,
+    "wof:population":8963,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

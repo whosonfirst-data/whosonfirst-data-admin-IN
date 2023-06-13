@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.91061,19.00725,79.91061,19.00725",
-    "geom:latitude":19.00725,
-    "geom:longitude":79.91061,
+    "geom:bbox":"79.907838,19.007719,79.908647,19.008528",
+    "geom:latitude":19.008085,
+    "geom:longitude":79.90832,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Kotta Supaka",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.89061,18.98725,79.93061,19.02725",
+    "ks:ks_id":"KS64FCCEFE0EAD4735B9B26BC067FE606F",
+    "ks:ks_name":"Kotha Supak",
+    "ks:ks_pop":865,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1263334",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_421778",
+    "lbl:latitude":19.008077,
+    "lbl:longitude":79.908368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.008077,
+    "mps:longitude":79.908368,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kotha Supak"
+    ],
+    "name:eng_x_variant":[
+        "Kotta Supaka"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10331346
+        "gn:id":10331346,
+        "ks:id":"KS64FCCEFE0EAD4735B9B26BC067FE606F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c20ae80d738246f36b4a6b277e140af9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc2a01a54e459c10ea8a783c3d55a7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1192960703,
-    "wof:lastmodified":1566698167,
-    "wof:name":"Kotta Supaka",
+    "wof:lastmodified":1682579355,
+    "wof:name":"Kotha Supak",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":865,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.91060999999998,
-    19.00725,
-    79.91060999999998,
-    19.00725
+    79.907838,
+    19.007719,
+    79.908647,
+    19.008528
 ],
-  "geometry": {"coordinates":[79.91060999999998,19.00725],"type":"Point"}
+  "geometry": {"coordinates":[[[79.908647,19.007719],[79.907838,19.007719],[79.907838,19.007989],[79.908108,19.007989],[79.908108,19.008528],[79.908647,19.008528],[79.908647,19.007719]]],"type":"Polygon"}
 }

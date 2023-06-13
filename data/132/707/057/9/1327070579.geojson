@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.81402,23.36092,79.81402,23.36092",
-    "geom:latitude":23.36092,
-    "geom:longitude":79.81402,
+    "geom:bbox":"79.813416,23.360038,79.814493,23.361217",
+    "geom:latitude":23.360722,
+    "geom:longitude":79.813927,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Sunda",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.79402,23.34092,79.83402,23.38092",
+    "ks:ks_id":"KSD7DDC48E699240A1971BEC68E89DF1AB",
+    "ks:ks_name":"Sunda",
+    "ks:ks_pop":110,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1017476",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1003383",
+    "lbl:latitude":23.36078,
+    "lbl:longitude":79.813917,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.36078,
+    "mps:longitude":79.813917,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sonda"
@@ -37,6 +47,9 @@
         "Sunda"
     ],
     "name:deu_x_preferred":[
+        "Sunda"
+    ],
+    "name:eng_x_preferred":[
         "Sunda"
     ],
     "name:fin_x_preferred":[
@@ -81,7 +94,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u0434\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +109,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457621
+        "gn:id":10457621,
+        "ks:id":"KSD7DDC48E699240A1971BEC68E89DF1AB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"535dbcc453dbe7c446acfe444fc48c55",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d31387ccf5df9bd402c804c71cdbc7f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +127,22 @@
         }
     ],
     "wof:id":1327070579,
-    "wof:lastmodified":1566681547,
+    "wof:lastmodified":1682900587,
     "wof:name":"Sunda",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.81402,
-    23.36092,
-    79.81402,
-    23.36092
+    79.813416,
+    23.360038,
+    79.814493,
+    23.361217
 ],
-  "geometry": {"coordinates":[79.81402,23.36092],"type":"Point"}
+  "geometry": {"coordinates":[[[79.814392,23.361217],[79.814393,23.361127],[79.814491,23.361127],[79.814493,23.360947],[79.814395,23.360946],[79.814397,23.360675],[79.81429900000001,23.360674],[79.814301,23.360494],[79.81420300000001,23.360493],[79.814206,23.360222],[79.814108,23.360221],[79.814109,23.360131],[79.81401099999999,23.36013],[79.81401099999999,23.36004],[79.813816,23.360038],[79.81381500000001,23.360129],[79.813717,23.360128],[79.813716,23.360218],[79.813619,23.360218],[79.81361699999999,23.360398],[79.813519,23.360397],[79.813517,23.360668],[79.813419,23.360668],[79.813416,23.361029],[79.813514,23.36103],[79.813513,23.36112],[79.81361099999999,23.361121],[79.81361,23.361211],[79.814392,23.361217]]],"type":"Polygon"}
 }

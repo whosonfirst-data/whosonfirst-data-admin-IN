@@ -11,12 +11,19 @@
     "geom:longitude":74.819705,
     "gn:population":73478,
     "iso:country":"IN",
-    "lbl:latitude":16.163157,
-    "lbl:longitude":74.818602,
+    "ks:ks_id":"KS27145F5C98C343CCA34D4E9548DE6630",
+    "ks:ks_name":"Gokak",
+    "ks:ks_pop":67170,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2096470",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_375673",
+    "lbl:latitude":16.164223,
+    "lbl:longitude":74.821614,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":16.167197,
-    "mps:longitude":74.821632,
+    "mps:latitude":16.164223,
+    "mps:longitude":74.821614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -46,6 +53,9 @@
         "\u0a97\u0acb\u0a95\u0a95"
     ],
     "name:hin_x_preferred":[
+        "\u0917\u094b\u0915\u0915"
+    ],
+    "name:hin_x_variant":[
         "\u0917\u094b\u0915\u093e\u0915"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +65,9 @@
         "\u30b4\u30ab\u30c3\u30af"
     ],
     "name:kan_x_preferred":[
+        "\u0c97\u0ccb\u0c95\u0cbe\u0c95\u0ccd"
+    ],
+    "name:kan_x_variant":[
         "\u0c97\u0ccb\u0c95\u0cbe\u0c95"
     ],
     "name:kor_x_preferred":[
@@ -135,10 +148,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":5778,
     "wof:belongsto":[
         102191569,
@@ -150,12 +165,15 @@
     "wof:concordances":{
         "gn:id":1271067,
         "gp:id":2292906,
+        "ks:id":"KS27145F5C98C343CCA34D4E9548DE6630",
         "qs_pg:id":913589,
         "wd:id":"Q1708149"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"02bcf028fd46a4c99de25aef40e3f740",
     "wof:hierarchy":[
@@ -168,11 +186,11 @@
         }
     ],
     "wof:id":102030209,
-    "wof:lastmodified":1658780743,
+    "wof:lastmodified":1686162189,
     "wof:name":"Gokak",
     "wof:parent_id":1108696325,
     "wof:placetype":"locality",
-    "wof:population":73478,
+    "wof:population":67170,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

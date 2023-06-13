@@ -11,12 +11,20 @@
     "geom:longitude":76.483238,
     "gn:population":26550,
     "iso:country":"IN",
-    "lbl:latitude":10.114668,
-    "lbl:longitude":76.477954,
+    "ks:ks_id":"KSC0976F49AEEA44C1806F21EB1F00DAD4",
+    "ks:ks_name":"Perumbavoor",
+    "ks:ks_pop":26547,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3208000140801000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"WSFEVO_131768",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.117982,
+    "lbl:longitude":76.470188,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":10.114965,
-    "mps:longitude":76.479632,
+    "mps:latitude":10.117982,
+    "mps:longitude":76.470188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -123,10 +131,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1475,
     "wof:belongsto":[
         102191569,
@@ -138,13 +148,16 @@
     "wof:concordances":{
         "gn:id":7279739,
         "gp:id":2284254,
+        "ks:id":"KSC0976F49AEEA44C1806F21EB1F00DAD4",
         "qs_pg:id":482913,
         "wd:id":"Q2737591",
         "wk:page":"Perumbavoor"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"93fc8562e078e6eeb65ee45ed3897495",
     "wof:hierarchy":[
@@ -157,11 +170,11 @@
         }
     ],
     "wof:id":102031125,
-    "wof:lastmodified":1658780725,
+    "wof:lastmodified":1682525340,
     "wof:name":"Perumbavoor",
     "wof:parent_id":890511191,
     "wof:placetype":"locality",
-    "wof:population":26550,
+    "wof:population":26547,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.95887,23.26799,79.95887,23.26799",
-    "geom:latitude":23.26799,
-    "geom:longitude":79.95887,
+    "geom:bbox":"79.958338,23.267048,79.960098,23.268857",
+    "geom:latitude":23.268,
+    "geom:longitude":79.959109,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Baihar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.93887,23.24799,79.97887,23.28799",
+    "ks:ks_id":"KS67D1AC6D08CD4A10A5AFA920C25CC27D",
+    "ks:ks_name":"Bihar",
+    "ks:ks_pop":396,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2339000304664100",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1000801",
+    "lbl:latitude":23.268002,
+    "lbl:longitude":79.959037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.268002,
+    "mps:longitude":79.959037,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u09b9\u09be\u09b0"
@@ -37,6 +47,12 @@
         "\u09ac\u0987\u09b9\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Baihar"
+    ],
+    "name:eng_x_preferred":[
+        "Bihar"
+    ],
+    "name:eng_x_variant":[
         "Baihar"
     ],
     "name:hin_x_preferred":[
@@ -69,7 +85,13 @@
     "name:zho_x_preferred":[
         "\u62dc\u54c8\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457709
+        "gn:id":10457709,
+        "ks:id":"KS67D1AC6D08CD4A10A5AFA920C25CC27D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1a71d1936a007bda93d3e1907bdcb6ae",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"db1539980c0891cf1cd93a3c86e57134",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +118,22 @@
         }
     ],
     "wof:id":1276490013,
-    "wof:lastmodified":1566693489,
-    "wof:name":"Baihar",
+    "wof:lastmodified":1686162637,
+    "wof:name":"Bihar",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":396,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.95886999999998,
-    23.26799,
-    79.95886999999998,
-    23.26799
+    79.958338,
+    23.267048,
+    79.960098,
+    23.268857
 ],
-  "geometry": {"coordinates":[79.95886999999998,23.26799],"type":"Point"}
+  "geometry": {"coordinates":[[[79.959408,23.268857],[79.95940899999999,23.268767],[79.959604,23.268768],[79.959605,23.268678],[79.959703,23.268678],[79.959703,23.268588],[79.959801,23.268589],[79.959802,23.268498],[79.95989899999999,23.268499],[79.9599,23.268409],[79.959998,23.268409],[79.959999,23.268229],[79.960097,23.268229],[79.960098,23.268139],[79.95999999999999,23.268138],[79.96000100000001,23.268048],[79.959903,23.268047],[79.95990399999999,23.267957],[79.959806,23.267956],[79.959807,23.267866],[79.959709,23.267865],[79.95971,23.267775],[79.95961200000001,23.267774],[79.959613,23.267684],[79.959515,23.267684],[79.959518,23.267322],[79.95941999999999,23.267322],[79.95942100000001,23.267141],[79.959323,23.26714],[79.959324,23.26705],[79.959031,23.267048],[79.95903,23.267138],[79.958737,23.267136],[79.958736,23.267227],[79.95863799999999,23.267226],[79.95863799999999,23.267316],[79.95844200000001,23.267315],[79.95844200000001,23.267405],[79.958344,23.267405],[79.958338,23.268127],[79.95843600000001,23.268128],[79.95843499999999,23.268309],[79.95853200000001,23.268309],[79.95853099999999,23.26849],[79.958629,23.268491],[79.95862700000001,23.268671],[79.958725,23.268672],[79.958724,23.268762],[79.958822,23.268763],[79.958821,23.268853],[79.959408,23.268857]]],"type":"Polygon"}
 }

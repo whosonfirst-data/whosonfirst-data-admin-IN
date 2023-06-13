@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.90076,24.90414,76.90076,24.90414",
-    "geom:latitude":24.90414,
-    "geom:longitude":76.90076,
+    "geom:bbox":"76.898931,24.902913,76.902435,24.905339",
+    "geom:latitude":24.904122,
+    "geom:longitude":76.900694,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Kherli",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.88076,24.88414,76.92076,24.92414",
+    "ks:ks_id":"KSC66D81A2EDE649A087FD98BAB007292F",
+    "ks:ks_name":"Kherli",
+    "ks:ks_pop":285,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|556021",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_780716",
+    "lbl:latitude":24.903991,
+    "lbl:longitude":76.900694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.903991,
+    "mps:longitude":76.900694,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0996\u09c7\u09b0\u09b2\u09bf"
     ],
     "name:bpy_x_preferred":[
         "\u0996\u09c7\u09b0\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kherli"
     ],
     "name:ita_x_preferred":[
         "Kherli"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u51ef\u5c14\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10336265
+        "gn:id":10336265,
+        "ks:id":"KSC66D81A2EDE649A087FD98BAB007292F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d3d7c54c83ad5c22f00d7d80a95f7b0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4dcae7b88d57e104803a39db973b6e69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1293348063,
-    "wof:lastmodified":1566690965,
+    "wof:lastmodified":1682815136,
     "wof:name":"Kherli",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.90075999999998,
-    24.90414,
-    76.90075999999998,
-    24.90414
+    76.898931,
+    24.902913,
+    76.902435,
+    24.905339
 ],
-  "geometry": {"coordinates":[76.90075999999998,24.90414],"type":"Point"}
+  "geometry": {"coordinates":[[[76.89973999999999,24.905339],[76.89973999999999,24.9048],[76.90162599999999,24.9048],[76.90162599999999,24.905069],[76.902165,24.905069],[76.902165,24.9048],[76.902435,24.9048],[76.902435,24.903991],[76.90162599999999,24.903991],[76.90162599999999,24.903452],[76.90189599999999,24.903452],[76.90189599999999,24.902913],[76.900818,24.902913],[76.900818,24.903183],[76.89973999999999,24.903183],[76.89973999999999,24.903452],[76.89946999999999,24.903452],[76.89946999999999,24.903991],[76.89920100000001,24.903991],[76.89920100000001,24.9048],[76.898931,24.9048],[76.898931,24.905339],[76.89973999999999,24.905339]]],"type":"Polygon"}
 }

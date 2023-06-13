@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.27885,24.40281,77.27885,24.40281",
-    "geom:latitude":24.40281,
-    "geom:longitude":77.27885,
+    "geom:bbox":"77.27883,24.401971,77.279438,24.40315",
+    "geom:latitude":24.402572,
+    "geom:longitude":77.279117,
     "gn:admin1_code":"35",
     "gn:admin2_code":"458.0",
     "gn:asciiname":"Patan",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.25885,24.38281,77.29885,24.42281",
+    "ks:ks_alt_nam":"P\u0101tan",
+    "ks:ks_id":"KS28D0BE741CAC4C4589D0651B1E79F731",
+    "ks:ks_name":"Patan",
+    "ks:ks_pop":408,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|833331",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_933612",
+    "lbl:latitude":24.402572,
+    "lbl:longitude":77.279133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.402572,
+    "mps:longitude":77.279133,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0627\u0646"
@@ -53,6 +64,12 @@
     ],
     "name:deu_x_preferred":[
         "Patan"
+    ],
+    "name:eng_x_preferred":[
+        "Patan"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101tan"
     ],
     "name:fin_x_preferred":[
         "Patan"
@@ -108,7 +125,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0679\u0646"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10479056
+        "gn:id":10479056,
+        "ks:id":"KS28D0BE741CAC4C4589D0651B1E79F731"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3fb93a7aba80aa7ba107b4495aca845d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f16a14cc2f2f51f36d51be19ac33662b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +158,22 @@
         }
     ],
     "wof:id":1293145231,
-    "wof:lastmodified":1577750225,
+    "wof:lastmodified":1686162467,
     "wof:name":"Patan",
     "wof:parent_id":890511073,
     "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.27885,
-    24.40281,
-    77.27885,
-    24.40281
+    77.27883,
+    24.401971,
+    77.279438,
+    24.40315
 ],
-  "geometry": {"coordinates":[77.27885000000001,24.40281],"type":"Point"}
+  "geometry": {"coordinates":[[[77.279438,24.402961],[77.279425,24.402239],[77.279326,24.402241],[77.27932300000001,24.40206],[77.279224,24.402061],[77.279223,24.401971],[77.278927,24.401976],[77.27892900000001,24.402066],[77.27883,24.402067],[77.27884899999999,24.40315],[77.27924400000001,24.403144],[77.279242,24.403054],[77.279341,24.403053],[77.27933899999999,24.402962],[77.279438,24.402961]]],"type":"Polygon"}
 }

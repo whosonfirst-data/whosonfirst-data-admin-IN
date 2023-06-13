@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.94819,19.78688,78.94819,19.78688",
-    "geom:latitude":19.78688,
-    "geom:longitude":78.94819,
+    "geom:bbox":"78.947422,19.786183,78.949239,19.787551",
+    "geom:latitude":19.786876,
+    "geom:longitude":78.948279,
     "gn:admin1_code":"16",
     "gn:admin2_code":"509.0",
     "gn:asciiname":"Tursi",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.92819,19.76688,78.96819,19.80688",
+    "ks:ks_id":"KS7100FA3617074E0BA43A479603EC7F1A",
+    "ks:ks_name":"Tulsi",
+    "ks:ks_pop":266,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2713001201656000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_561810",
+    "lbl:latitude":19.786867,
+    "lbl:longitude":78.948279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.786867,
+    "mps:longitude":78.948279,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0633\u064a"
@@ -43,6 +53,12 @@
         "Tursi"
     ],
     "name:deu_x_preferred":[
+        "Tursi"
+    ],
+    "name:eng_x_preferred":[
+        "Tulsi"
+    ],
+    "name:eng_x_variant":[
         "Tursi"
     ],
     "name:epo_x_preferred":[
@@ -141,7 +157,13 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u897f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -150,10 +172,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10529656
+        "gn:id":10529656,
+        "ks:id":"KS7100FA3617074E0BA43A479603EC7F1A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6e74de87bb8c5bb866acde9d283f398e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac0f54997aba3e58f2d76fc37b17d8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,20 +190,22 @@
         }
     ],
     "wof:id":1276314877,
-    "wof:lastmodified":1566694330,
-    "wof:name":"Tursi",
+    "wof:lastmodified":1682769426,
+    "wof:name":"Tulsi",
     "wof:parent_id":890509297,
     "wof:placetype":"locality",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.94819,
-    19.78688,
-    78.94819,
-    19.78688
+    78.947422,
+    19.786183,
+    78.949239,
+    19.787551
 ],
-  "geometry": {"coordinates":[78.94819,19.78688],"type":"Point"}
+  "geometry": {"coordinates":[[[78.948849,19.787551],[78.94884999999999,19.787461],[78.94894499999999,19.787462],[78.948947,19.787372],[78.94904200000001,19.787373],[78.949043,19.787282],[78.949138,19.787284],[78.949141,19.787103],[78.949236,19.787104],[78.94923900000001,19.786923],[78.94914300000001,19.786922],[78.949145,19.786742],[78.94905,19.786741],[78.949051,19.78665],[78.948956,19.786649],[78.948958,19.786469],[78.948863,19.786467],[78.948864,19.786377],[78.948673,19.786375],[78.948674,19.786285],[78.948483,19.786282],[78.94848399999999,19.786192],[78.947721,19.786183],[78.94772,19.786274],[78.947625,19.786273],[78.947624,19.786363],[78.94752800000001,19.786362],[78.947526,19.786542],[78.94743,19.786541],[78.947422,19.787173],[78.947518,19.787175],[78.947517,19.787265],[78.94761200000001,19.787266],[78.94761099999999,19.787356],[78.947802,19.787358],[78.9478,19.787449],[78.948182,19.787453],[78.94818100000001,19.787543],[78.948849,19.787551]]],"type":"Polygon"}
 }

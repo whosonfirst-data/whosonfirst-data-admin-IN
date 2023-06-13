@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.67467,24.15701,81.67467,24.15701",
-    "geom:latitude":24.15701,
-    "geom:longitude":81.67467,
+    "geom:bbox":"81.675049,24.157785,81.677415,24.159321",
+    "geom:latitude":24.158588,
+    "geom:longitude":81.676098,
     "gn:admin1_code":"35",
     "gn:admin2_code":"462.0",
     "gn:asciiname":"Chorba",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.65467,24.13701,81.69467,24.17701",
+    "ks:ks_id":"KS51B54D393B184F298D7A95CB739FA845",
+    "ks:ks_name":"Choraba",
+    "ks:ks_pop":1100,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|232101",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1016998",
+    "lbl:latitude":24.158597,
+    "lbl:longitude":81.676075,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.158597,
+    "mps:longitude":81.676075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b6\u09b0\u09cd\u09ac\u09be"
@@ -43,6 +53,12 @@
         "\u0428\u04f3\u0440\u043f\u0435"
     ],
     "name:deu_x_preferred":[
+        "Chorba"
+    ],
+    "name:eng_x_preferred":[
+        "Choraba"
+    ],
+    "name:eng_x_variant":[
         "Chorba"
     ],
     "name:fas_x_preferred":[
@@ -87,7 +103,13 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0440\u043f\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -96,10 +118,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10534406
+        "gn:id":10534406,
+        "ks:id":"KS51B54D393B184F298D7A95CB739FA845"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0f4eae0daee5f164dc83c29a3fe9ac98",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"483b50e05c1ce260ffe09d24f53cae79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,20 +136,22 @@
         }
     ],
     "wof:id":1242819001,
-    "wof:lastmodified":1566706105,
-    "wof:name":"Chorba",
+    "wof:lastmodified":1682693331,
+    "wof:name":"Choraba",
     "wof:parent_id":1108696251,
     "wof:placetype":"locality",
+    "wof:population":1100,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.67466999999998,
-    24.15701,
-    81.67466999999998,
-    24.15701
+    81.675049,
+    24.157785,
+    81.677415,
+    24.159321
 ],
-  "geometry": {"coordinates":[81.67466999999998,24.15701],"type":"Point"}
+  "geometry": {"coordinates":[[[81.676236,24.159319],[81.676236,24.159229],[81.676334,24.159229],[81.676334,24.159138],[81.67722000000001,24.159134],[81.67721899999999,24.159044],[81.677318,24.159044],[81.677317,24.158863],[81.677415,24.158862],[81.677414,24.158592],[81.67731499999999,24.158592],[81.67731499999999,24.158502],[81.677216,24.158502],[81.677216,24.158412],[81.67711799999999,24.158412],[81.677117,24.158322],[81.676625,24.158324],[81.676624,24.158234],[81.676526,24.158234],[81.676525,24.158144],[81.676427,24.158144],[81.676427,24.158054],[81.67623,24.158055],[81.67622900000001,24.157965],[81.676131,24.157965],[81.67613,24.157875],[81.67603200000001,24.157875],[81.67603099999999,24.157785],[81.67544100000001,24.157787],[81.67544100000001,24.157878],[81.67524400000001,24.157879],[81.675245,24.157969],[81.675147,24.157969],[81.675147,24.15806],[81.675049,24.15806],[81.67505199999999,24.158783],[81.675151,24.158782],[81.675151,24.158872],[81.67525000000001,24.158872],[81.67525000000001,24.158962],[81.675349,24.158962],[81.675349,24.159052],[81.67544700000001,24.159052],[81.675448,24.159142],[81.675546,24.159142],[81.67554699999999,24.159232],[81.67574399999999,24.159231],[81.67574399999999,24.159321],[81.676236,24.159319]]],"type":"Polygon"}
 }

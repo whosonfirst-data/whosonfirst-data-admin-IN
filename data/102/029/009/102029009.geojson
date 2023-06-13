@@ -13,12 +13,20 @@
     "gn:longitude":75.60352,
     "gn:population":28149,
     "iso:country":"IN",
-    "lbl:latitude":28.361034,
-    "lbl:longitude":75.605413,
+    "ks:ks_alt_nam":"Vidyavihar",
+    "ks:ks_id":"KS88659E96F00D48408CA53B5F8049B438",
+    "ks:ks_name":"Pilani",
+    "ks:ks_pop":14366,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0805000240506000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_1779602",
+    "lbl:latitude":28.366143,
+    "lbl:longitude":75.609419,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":28.360772,
-    "mps:longitude":75.591605,
+    "mps:latitude":28.366143,
+    "mps:longitude":75.609419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +45,10 @@
     ],
     "name:eng_x_preferred":[
         "Pilani"
+    ],
+    "name:eng_x_variant":[
+        "Pil\u0101ni",
+        "Vidyavihar"
     ],
     "name:fra_x_preferred":[
         "Pilani"
@@ -107,10 +119,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":452,
     "wof:belongsto":[
         102191569,
@@ -122,13 +136,16 @@
     "wof:concordances":{
         "gn:id":1259693,
         "gp:id":2291488,
+        "ks:id":"KS88659E96F00D48408CA53B5F8049B438",
         "qs_pg:id":889632,
         "wd:id":"Q1936947",
         "wk:page":"Pilani"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"6e4e240c4b3c07703a53e4fe4ec3068b",
     "wof:hierarchy":[
@@ -141,12 +158,12 @@
         }
     ],
     "wof:id":102029009,
-    "wof:lastmodified":1658780756,
-    "wof:name":"Pil\u0101ni",
+    "wof:lastmodified":1682523635,
+    "wof:name":"Pilani",
     "wof:parent_id":890508863,
     "wof:placetype":"locality",
-    "wof:population":28149,
-    "wof:population_rank":7,
+    "wof:population":14366,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

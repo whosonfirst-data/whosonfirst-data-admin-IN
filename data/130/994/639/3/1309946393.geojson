@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.697,23.07258,79.697,23.07258",
-    "geom:latitude":23.07258,
-    "geom:longitude":79.697,
+    "geom:bbox":"79.696086,23.071452,79.697655,23.073533",
+    "geom:latitude":23.07255,
+    "geom:longitude":79.696893,
     "gn:admin1_code":"35",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Jhansi",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.677,23.05258,79.717,23.09258",
+    "ks:ks_alt_nam":"Jh\u0101nsi",
+    "ks:ks_id":"KSA48A88E0B82A44F7B0F653D405905B17",
+    "ks:ks_name":"Jhansi",
+    "ks:ks_pop":381,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12887540",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_995450",
+    "lbl:latitude":23.072581,
+    "lbl:longitude":79.696893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.072581,
+    "mps:longitude":79.696893,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0633\u064a"
@@ -68,6 +79,12 @@
     ],
     "name:deu_x_preferred":[
         "Jhansi"
+    ],
+    "name:eng_x_preferred":[
+        "Jhansi"
+    ],
+    "name:eng_x_variant":[
+        "Jh\u0101nsi"
     ],
     "name:eus_x_preferred":[
         "Jhansi"
@@ -210,7 +227,13 @@
     "name:war_x_preferred":[
         "Jhansi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -219,10 +242,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10457205
+        "gn:id":10457205,
+        "ks:id":"KSA48A88E0B82A44F7B0F653D405905B17"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7846b973ab41ec13f75815ad9f68960a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"99f127051a9da9f93a8938e8994b29e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -233,20 +260,22 @@
         }
     ],
     "wof:id":1309946393,
-    "wof:lastmodified":1576022133,
+    "wof:lastmodified":1686163868,
     "wof:name":"Jhansi",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":381,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.697,
-    23.07258,
-    79.697,
-    23.07258
+    79.696086,
+    23.071452,
+    79.697655,
+    23.073533
 ],
-  "geometry": {"coordinates":[79.697,23.07258],"type":"Point"}
+  "geometry": {"coordinates":[[[79.697253,23.073533],[79.697253,23.073443],[79.697351,23.073443],[79.69735300000001,23.073263],[79.69745,23.073264],[79.69745399999999,23.072902],[79.697551,23.072903],[79.697553,23.072723],[79.69765099999999,23.072723],[79.697655,23.072272],[79.697558,23.072271],[79.69756099999999,23.07191],[79.697463,23.071909],[79.697464,23.071819],[79.697367,23.071818],[79.697368,23.071637],[79.697271,23.071636],[79.697272,23.071546],[79.696979,23.071544],[79.69698,23.071453],[79.69678500000001,23.071452],[79.69678399999999,23.071542],[79.69658800000001,23.07154],[79.69658699999999,23.071721],[79.696489,23.07172],[79.696487,23.071901],[79.69638999999999,23.0719],[79.696387,23.072171],[79.69629,23.07217],[79.696288,23.072351],[79.69619,23.07235],[79.69618800000001,23.072531],[79.696091,23.07253],[79.69608599999999,23.072981],[79.696184,23.072982],[79.69618199999999,23.073163],[79.69628,23.073164],[79.69627800000001,23.073344],[79.696473,23.073346],[79.696473,23.073436],[79.696668,23.073438],[79.69666700000001,23.073528],[79.697253,23.073533]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.1981,26.73896,84.1981,26.73896",
-    "geom:latitude":26.73896,
-    "geom:longitude":84.1981,
+    "geom:bbox":"84.197114,26.73871,84.198731,26.739249",
+    "geom:latitude":26.738979,
+    "geom:longitude":84.197923,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"189.0",
     "gn:asciiname":"Ramsagra",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.1781,26.71896,84.2181,26.75896",
+    "ks:ks_id":"KS104EBF830DBC4CE6AB562B1DAED2BB91",
+    "ks:ks_name":"Ramsagra",
+    "ks:ks_pop":800,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|907449",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1431419",
+    "lbl:latitude":26.73898,
+    "lbl:longitude":84.197923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.73898,
+    "mps:longitude":84.197923,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Ramsagra"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10817806
+        "gn:id":10817806,
+        "ks:id":"KS104EBF830DBC4CE6AB562B1DAED2BB91"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3cac099685d02bcd7158d3da92c390a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"880b064aea5e78bd1ced453aa3a0bfec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1343613391,
-    "wof:lastmodified":1566687224,
+    "wof:lastmodified":1682934140,
     "wof:name":"Ramsagra",
     "wof:parent_id":890510755,
     "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.1981,
-    26.73896,
-    84.1981,
-    26.73896
+    84.197114,
+    26.73871,
+    84.198731,
+    26.739249
 ],
-  "geometry": {"coordinates":[84.1981,26.73896],"type":"Point"}
+  "geometry": {"coordinates":[[[84.198731,26.73871],[84.197114,26.73871],[84.197114,26.739249],[84.198731,26.739249],[84.198731,26.73871]]],"type":"Polygon"}
 }

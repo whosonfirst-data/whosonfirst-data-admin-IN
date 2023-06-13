@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        1108805979,
+        890509337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10612326
     },
     "wof:country":"IN",
-    "wof:geomhash":"4413db72959a162cd2ef905ce2941b90",
+    "wof:geomhash":"e5ff760bf8fdea7f7d1dd5601eecaeeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209044887
+            "county_id":890509337,
+            "locality_id":1209044887,
+            "region_id":1108805979
         }
     ],
     "wof:id":1209044887,
-    "wof:lastmodified":1566696250,
+    "wof:lastmodified":1682601328,
     "wof:name":"Gudpeta",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890509337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847143717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.75301999999998,
+    78.75302,
     18.54416,
-    78.75301999999998,
+    78.75302,
     18.54416
 ],
-  "geometry": {"coordinates":[78.75301999999998,18.54416],"type":"Point"}
+  "geometry": {"coordinates":[78.75302000000001,18.54416],"type":"Point"}
 }

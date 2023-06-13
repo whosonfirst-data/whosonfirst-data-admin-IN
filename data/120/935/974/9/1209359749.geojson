@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10897841
     },
     "wof:country":"IN",
-    "wof:geomhash":"a1a383a06a1507e3b11edf96b6de0a3c",
+    "wof:geomhash":"b9574e883afbe3fad81ed0ad572d8b71",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209359749
+            "county_id":1108695921,
+            "locality_id":1209359749,
+            "region_id":85672225
         }
     ],
     "wof:id":1209359749,
-    "wof:lastmodified":1566696190,
+    "wof:lastmodified":1682616097,
     "wof:name":"Gajabaja",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847143163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     86.29988,
-    25.69662000000001,
+    25.69662,
     86.29988,
-    25.69662000000001
+    25.69662
 ],
-  "geometry": {"coordinates":[86.29988,25.69662000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.29988,25.69662],"type":"Point"}
 }

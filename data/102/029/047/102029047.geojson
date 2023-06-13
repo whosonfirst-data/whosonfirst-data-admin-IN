@@ -12,12 +12,19 @@
     "gn:latitude":18.52404,
     "gn:longitude":73.61532,
     "iso:country":"IN",
-    "lbl:latitude":18.523951,
-    "lbl:longitude":73.615763,
+    "ks:ks_id":"KS0E12A6CFE46446C6ADBECBCB84066D5A",
+    "ks:ks_name":"Paud",
+    "ks:ks_pop":3487,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|841339",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_419441",
+    "lbl:latitude":18.524194,
+    "lbl:longitude":73.617204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":18.531704,
-    "mps:longitude":73.606497,
+    "mps:latitude":18.524194,
+    "mps:longitude":73.617204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -64,9 +71,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:latitude":18.524167,
     "wd:longitude":73.615833,
     "wd:wordcount":182,
@@ -80,13 +90,16 @@
     "wof:concordances":{
         "gn:id":1260028,
         "gp:id":2284156,
+        "ks:id":"KS0E12A6CFE46446C6ADBECBCB84066D5A",
         "qs_pg:id":886525,
         "wd:id":"Q4801215",
         "wk:page":"Paud"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"83b1a8f7c4b7a066d7015fa4528a65d1",
     "wof:hierarchy":[
@@ -99,10 +112,12 @@
         }
     ],
     "wof:id":102029047,
-    "wof:lastmodified":1658780755,
+    "wof:lastmodified":1682523654,
     "wof:name":"Paud",
     "wof:parent_id":890510133,
     "wof:placetype":"locality",
+    "wof:population":3487,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

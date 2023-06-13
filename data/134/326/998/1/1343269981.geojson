@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.81887,18.78353,83.81887,18.78353",
-    "geom:latitude":18.78353,
-    "geom:longitude":83.81887,
+    "geom:bbox":"83.818475,18.782691,83.819553,18.7835",
+    "geom:latitude":18.783096,
+    "geom:longitude":83.819014,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"542.0",
     "gn:asciiname":"Bandi",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.79887,18.76353,83.83887,18.80353",
+    "ks:ks_id":"KSEB701BAE9800438D8B8F37B39D016712",
+    "ks:ks_name":"Bondi",
+    "ks:ks_pop":132,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|174639",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_448801",
+    "lbl:latitude":18.783095,
+    "lbl:longitude":83.819014,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.783095,
+    "mps:longitude":83.819014,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandi"
     ],
     "name:deu_x_preferred":[
+        "Bandi"
+    ],
+    "name:eng_x_preferred":[
+        "Bondi"
+    ],
+    "name:eng_x_variant":[
         "Bandi"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +67,13 @@
     "name:vie_x_preferred":[
         "Bandi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10786457
+        "gn:id":10786457,
+        "ks:id":"KSEB701BAE9800438D8B8F37B39D016712"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bccb192b3f0b3ddc1adde2c28bb16875",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"930b3f95888f5da1e735c23e9741761f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +100,22 @@
         }
     ],
     "wof:id":1343269981,
-    "wof:lastmodified":1566688671,
-    "wof:name":"Bandi",
+    "wof:lastmodified":1682920303,
+    "wof:name":"Bondi",
     "wof:parent_id":1108696317,
     "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.81886999999998,
-    18.78353,
-    83.81886999999998,
-    18.78353
+    83.818475,
+    18.782691,
+    83.819553,
+    18.7835
 ],
-  "geometry": {"coordinates":[83.81886999999998,18.78353],"type":"Point"}
+  "geometry": {"coordinates":[[[83.819553,18.782691],[83.81847500000001,18.782691],[83.81847500000001,18.7835],[83.819553,18.7835],[83.819553,18.782691]]],"type":"Polygon"}
 }

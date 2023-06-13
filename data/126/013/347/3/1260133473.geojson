@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.5257,25.12251,85.5257,25.12251",
-    "geom:latitude":25.12251,
-    "geom:longitude":85.5257,
+    "geom:bbox":"85.525184,25.121743,85.526801,25.12309",
+    "geom:latitude":25.122295,
+    "geom:longitude":85.525952,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Indarpur",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.5057,25.10251,85.5457,25.14251",
+    "ks:ks_id":"KSB2F712568E6249A4B0C82D72C7FAE68C",
+    "ks:ks_name":"Indra Pur",
+    "ks:ks_pop":262,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|433474",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1332935",
+    "lbl:latitude":25.122147,
+    "lbl:longitude":85.525952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.122147,
+    "mps:longitude":85.525952,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Indra Pur"
+    ],
+    "name:eng_x_variant":[
+        "Indarpur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10878950
+        "gn:id":10878950,
+        "ks:id":"KSB2F712568E6249A4B0C82D72C7FAE68C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"72b944e6fdb0f7890d199b1f528a64c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"345a04818f694f8d95af11b9bcd36d63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1260133473,
-    "wof:lastmodified":1566699255,
-    "wof:name":"Indarpur",
+    "wof:lastmodified":1682753276,
+    "wof:name":"Indra Pur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.5257,
-    25.12251,
-    85.5257,
-    25.12251
+    85.525184,
+    25.121743,
+    85.526801,
+    25.12309
 ],
-  "geometry": {"coordinates":[85.5257,25.12251],"type":"Point"}
+  "geometry": {"coordinates":[[[85.525723,25.12309],[85.525723,25.122551],[85.52680100000001,25.122551],[85.52680100000001,25.121743],[85.525453,25.121743],[85.525453,25.122282],[85.525184,25.122282],[85.525184,25.12309],[85.525723,25.12309]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000013,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.21982,24.93146,87.21982,24.93146",
-    "geom:latitude":24.93146,
-    "geom:longitude":87.21982,
+    "geom:bbox":"87.217071,24.929863,87.222191,24.933366",
+    "geom:latitude":24.931401,
+    "geom:longitude":87.219634,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Ranipur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.19982,24.91146,87.23982,24.95146",
+    "ks:ks_alt_nam":"R\u0101nipur",
+    "ks:ks_id":"KS8F97C0CB764C44AFB20BE72447DB9628",
+    "ks:ks_name":"Ranipur",
+    "ks:ks_pop":2883,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|911197",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1478926",
+    "lbl:latitude":24.931479,
+    "lbl:longitude":87.219683,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.931479,
+    "mps:longitude":87.219683,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0646\u064a\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b0\u09be\u09a8\u09c0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ranipur"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101nipur"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0aa8\u0ac0\u0aaa\u0ac1\u0ab0"
@@ -72,7 +89,13 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0646\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +104,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11016066
+        "gn:id":11016066,
+        "ks:id":"KS8F97C0CB764C44AFB20BE72447DB9628"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d303b90903b2b1d8329bc60faef38b91",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c269b89edc7f53694c490c9357096a04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +122,22 @@
         }
     ],
     "wof:id":1276698309,
-    "wof:lastmodified":1577750463,
+    "wof:lastmodified":1682781619,
     "wof:name":"Ranipur",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":2883,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.21982,
-    24.93146,
-    87.21982,
-    24.93146
+    87.217071,
+    24.929863,
+    87.222191,
+    24.933366
 ],
-  "geometry": {"coordinates":[87.21982,24.93146],"type":"Point"}
+  "geometry": {"coordinates":[[[87.220305,24.933366],[87.220305,24.933096],[87.221113,24.933096],[87.221113,24.932557],[87.221383,24.932557],[87.221383,24.931749],[87.22165200000001,24.931749],[87.22165200000001,24.931479],[87.222191,24.931479],[87.222191,24.930402],[87.220844,24.930402],[87.220844,24.929863],[87.21760999999999,24.929863],[87.21760999999999,24.930402],[87.217071,24.930402],[87.217071,24.93121],[87.21760999999999,24.93121],[87.21760999999999,24.931749],[87.218149,24.931749],[87.218149,24.933096],[87.21976600000001,24.933096],[87.21976600000001,24.933366],[87.220305,24.933366]]],"type":"Polygon"}
 }

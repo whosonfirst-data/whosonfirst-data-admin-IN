@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.51991,25.41241,81.51991,25.41241",
-    "geom:latitude":25.41241,
-    "geom:longitude":81.51991,
+    "geom:bbox":"81.519698,25.411732,81.520693,25.412637",
+    "geom:latitude":25.412139,
+    "geom:longitude":81.520099,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"174.0",
     "gn:asciiname":"Kamalpur",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.49991,25.39241,81.53991,25.43241",
+    "ks:ks_alt_nam":"KAMAL PURWA",
+    "ks:ks_id":"KS8D41B89E7FCC41CFB150CC03FD244056",
+    "ks:ks_name":"Kamal Purwa",
+    "ks:ks_pop":217,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1156337",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1846385",
+    "lbl:latitude":25.412099,
+    "lbl:longitude":81.520059,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.412099,
+    "mps:longitude":81.520059,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kamalpur"
     ],
     "name:ceb_x_preferred":[
+        "Kamalpur"
+    ],
+    "name:eng_x_preferred":[
+        "Kamal Purwa"
+    ],
+    "name:eng_x_variant":[
         "Kamalpur"
     ],
     "name:fra_x_preferred":[
@@ -45,7 +62,13 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bb2\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10679450
+        "gn:id":10679450,
+        "ks:id":"KS8D41B89E7FCC41CFB150CC03FD244056"
     },
     "wof:country":"IN",
-    "wof:geomhash":"db09c18460ccab5b98fbf592d6da63d6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"47f958dcfedd15862029271bdd855dea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1193071521,
-    "wof:lastmodified":1566697401,
-    "wof:name":"Kamalpur",
+    "wof:lastmodified":1682585331,
+    "wof:name":"Kamal Purwa",
     "wof:parent_id":1108695841,
     "wof:placetype":"locality",
+    "wof:population":217,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.51991,
-    25.41241,
-    81.51991,
-    25.41241
+    81.519698,
+    25.411732,
+    81.520693,
+    25.412637
 ],
-  "geometry": {"coordinates":[81.51991,25.41241],"type":"Point"}
+  "geometry": {"coordinates":[[[81.52019799999999,25.412636],[81.52019799999999,25.412455],[81.520297,25.412455],[81.520297,25.412364],[81.52039600000001,25.412364],[81.52039600000001,25.412274],[81.520495,25.412273],[81.520495,25.412183],[81.520594,25.412183],[81.520594,25.412092],[81.52069299999999,25.412092],[81.52069299999999,25.412002],[81.52059300000001,25.412002],[81.52059300000001,25.411912],[81.520494,25.411912],[81.520493,25.411822],[81.520394,25.411822],[81.520393,25.411732],[81.519797,25.411734],[81.519797,25.411824],[81.51969800000001,25.411825],[81.5197,25.412457],[81.5198,25.412457],[81.519801,25.412637],[81.52019799999999,25.412636]]],"type":"Polygon"}
 }

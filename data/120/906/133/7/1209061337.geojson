@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.10461,10.84031,79.10461,10.84031",
-    "geom:latitude":10.84031,
-    "geom:longitude":79.10461,
+    "geom:bbox":"79.103905,10.839353,79.106195,10.840436",
+    "geom:latitude":10.839847,
+    "geom:longitude":79.104912,
     "gn:admin1_code":"25.0",
     "gn:admin2_code":"620.0",
     "gn:asciiname":"Karur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.08461,10.82031,79.12461,10.86031",
+    "ks:ks_alt_nam":"Kar\u016br",
+    "ks:ks_id":"KS502DB5DC9F9F48F48BDCB20FD8C95C73",
+    "ks:ks_name":"Karur",
+    "ks:ks_pop":131,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|518147",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_179373",
+    "lbl:latitude":10.839895,
+    "lbl:longitude":79.10482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.839895,
+    "mps:longitude":79.10482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u0631"
@@ -57,6 +68,12 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03bf\u03cd\u03c1"
     ],
+    "name:eng_x_preferred":[
+        "Karur"
+    ],
+    "name:eng_x_variant":[
+        "Kar\u016br"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0631"
     ],
@@ -70,10 +87,10 @@
         "\u05e7\u05d0\u05e8\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
-        "\u0915\u0930\u0941\u0930"
+        "\u0915\u0930\u0942\u0930"
     ],
     "name:hin_x_variant":[
-        "\u0915\u0930\u0942\u0930"
+        "\u0915\u0930\u0941\u0930"
     ],
     "name:hun_x_preferred":[
         "Karur"
@@ -168,37 +185,55 @@
     "name:zho_x_preferred":[
         "\u5361\u9c81\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672245,
+        890507453
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11607126
+        "gn:id":11607126,
+        "ks:id":"KS502DB5DC9F9F48F48BDCB20FD8C95C73"
     },
     "wof:country":"IN",
-    "wof:geomhash":"79a62ca5dace8200b7c45cd11de7fee5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2dbf694faf3ea80b0797245c3e2854ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209061337
+            "county_id":890507453,
+            "locality_id":1209061337,
+            "region_id":85672245
         }
     ],
     "wof:id":1209061337,
-    "wof:lastmodified":1636505520,
+    "wof:lastmodified":1686162719,
     "wof:name":"Karur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507453,
     "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.10461,
-    10.84031,
-    79.10461,
-    10.84031
+    79.103905,
+    10.839353,
+    79.106195,
+    10.840436
 ],
-  "geometry": {"coordinates":[79.10460999999999,10.84031],"type":"Point"}
+  "geometry": {"coordinates":[[[79.104727,10.840436],[79.104727,10.840346],[79.105093,10.840348],[79.10509399999999,10.840258],[79.105277,10.840259],[79.105277,10.840169],[79.105369,10.840169],[79.105369,10.840079],[79.105552,10.84008],[79.105553,10.83999],[79.105644,10.83999],[79.105645,10.8399],[79.105828,10.839901],[79.105828,10.83981],[79.106011,10.839812],[79.10601200000001,10.839721],[79.106194,10.839722],[79.106195,10.839632],[79.106104,10.839631],[79.106104,10.839541],[79.106013,10.83954],[79.106013,10.83945],[79.105648,10.839448],[79.105648,10.839357],[79.104917,10.839353],[79.104916,10.839443],[79.10455,10.839441],[79.10455,10.839531],[79.104184,10.839529],[79.10418300000001,10.83962],[79.10409199999999,10.839619],[79.104091,10.839709],[79.103908,10.839708],[79.103905,10.840251],[79.104088,10.840252],[79.10408700000001,10.840342],[79.104545,10.840345],[79.104544,10.840435],[79.104727,10.840436]]],"type":"Polygon"}
 }

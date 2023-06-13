@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        890503989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10974587
     },
     "wof:country":"IN",
-    "wof:geomhash":"ba143388bf007c0b5749c0fcf380108c",
+    "wof:geomhash":"8463cf0689626685f01d5d1c0ec81a2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209222695
+            "county_id":890503989,
+            "locality_id":1209222695,
+            "region_id":85672141
         }
     ],
     "wof:id":1209222695,
-    "wof:lastmodified":1566695645,
+    "wof:lastmodified":1682610452,
     "wof:name":"Nagarkanjve",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890503989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847137971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.99271999999998,
+    76.99272,
     15.48603,
-    76.99271999999998,
+    76.99272,
     15.48603
 ],
-  "geometry": {"coordinates":[76.99271999999998,15.48603],"type":"Point"}
+  "geometry": {"coordinates":[76.99272000000001,15.48603],"type":"Point"}
 }

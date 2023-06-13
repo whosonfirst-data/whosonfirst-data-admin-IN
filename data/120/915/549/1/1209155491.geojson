@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0632\u0627\u0628\u0648\u0631"
@@ -167,7 +168,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        890507609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,17 +181,22 @@
     "wof:geomhash":"6a207c2ba33dfff49ab57628135f5218",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209155491
+            "county_id":890507609,
+            "locality_id":1209155491,
+            "region_id":85672225
         }
     ],
     "wof:id":1209155491,
-    "wof:lastmodified":1636505537,
+    "wof:lastmodified":1682607657,
     "wof:name":"Mirzapur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890507609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847135543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

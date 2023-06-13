@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.39454,21.66506,79.39454,21.66506",
-    "geom:latitude":21.66506,
-    "geom:longitude":79.39454,
+    "geom:bbox":"79.394015,21.664431,79.396047,21.666333",
+    "geom:latitude":21.665352,
+    "geom:longitude":79.394894,
     "gn:admin1_code":"16",
     "gn:admin2_code":"505.0",
     "gn:asciiname":"Garra",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.37454,21.64506,79.41454,21.68506",
+    "ks:ks_id":"KS555660D335814DD6B994D9DBE91FE7A8",
+    "ks:ks_name":"Garra",
+    "ks:ks_pop":454,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|349434",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_880629",
+    "lbl:latitude":21.665353,
+    "lbl:longitude":79.394875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.665353,
+    "mps:longitude":79.394875,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u062f"
@@ -40,6 +50,9 @@
         "Garra"
     ],
     "name:deu_x_preferred":[
+        "Garra"
+    ],
+    "name:eng_x_preferred":[
         "Garra"
     ],
     "name:fas_x_preferred":[
@@ -90,7 +103,13 @@
     "name:zho_x_preferred":[
         "\u58a8\u5934\u9c7c\u5c5e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -99,10 +118,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10470820
+        "gn:id":10470820,
+        "ks:id":"KS555660D335814DD6B994D9DBE91FE7A8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"436fdfdfe883f8a0351a2e4eba325aec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d912259e47589d421a4cc47af6c2295d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,20 +136,22 @@
         }
     ],
     "wof:id":1326499319,
-    "wof:lastmodified":1566683546,
+    "wof:lastmodified":1682879629,
     "wof:name":"Garra",
     "wof:parent_id":890508937,
     "wof:placetype":"locality",
+    "wof:population":454,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.39454,
-    21.66506,
-    79.39454,
-    21.66506
+    79.394015,
+    21.664431,
+    79.396047,
+    21.666333
 ],
-  "geometry": {"coordinates":[79.39454000000001,21.66506],"type":"Point"}
+  "geometry": {"coordinates":[[[79.394874,21.666333],[79.394875,21.666243],[79.39506799999999,21.666245],[79.39506900000001,21.666154],[79.395166,21.666155],[79.395168,21.665975],[79.39526499999999,21.665975],[79.39526600000001,21.665885],[79.39536200000001,21.665886],[79.395363,21.665796],[79.39546,21.665797],[79.395461,21.665706],[79.395557,21.665707],[79.39555799999999,21.665617],[79.395752,21.665619],[79.395753,21.665529],[79.395849,21.665529],[79.39585,21.665439],[79.39594700000001,21.66544],[79.39595,21.665169],[79.396046,21.66517],[79.396047,21.66508],[79.395951,21.665079],[79.39595300000001,21.664898],[79.39585599999999,21.664897],[79.39585700000001,21.664807],[79.395567,21.664804],[79.395568,21.664714],[79.39508499999999,21.664709],[79.39508600000001,21.664619],[79.394893,21.664617],[79.39489399999999,21.664527],[79.394508,21.664523],[79.394509,21.664433],[79.39431500000001,21.664431],[79.394312,21.664702],[79.394216,21.664701],[79.394215,21.664791],[79.39411800000001,21.66479],[79.39411699999999,21.66488],[79.394021,21.66488],[79.394015,21.665421],[79.394111,21.665422],[79.394109,21.665603],[79.394206,21.665604],[79.394199,21.666236],[79.39448899999999,21.666239],[79.394488,21.666329],[79.394874,21.666333]]],"type":"Polygon"}
 }

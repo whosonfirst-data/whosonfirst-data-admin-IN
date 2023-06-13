@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.38223,24.68267,85.38223,24.68267",
-    "geom:latitude":24.68267,
-    "geom:longitude":85.38223,
+    "geom:bbox":"85.381214,24.680368,85.382898,24.683168",
+    "geom:latitude":24.681778,
+    "geom:longitude":85.382015,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"237.0",
     "gn:asciiname":"Sonari",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.36223,24.66267,85.40223,24.70267",
+    "ks:ks_alt_nam":"SONARI",
+    "ks:ks_id":"KS55AAC8AC8ECB49338088F203A101B1FA",
+    "ks:ks_name":"Sonari",
+    "ks:ks_pop":1398,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1005530",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1151197",
+    "lbl:latitude":24.681768,
+    "lbl:longitude":85.382015,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.681768,
+    "mps:longitude":85.382015,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:asm_x_preferred":[
         "\u09b8\u09cb\u09a3\u09be\u09f0\u09bf"
@@ -38,6 +49,9 @@
     ],
     "name:ceb_x_preferred":[
         "Son\u0101ri"
+    ],
+    "name:eng_x_preferred":[
+        "Sonari"
     ],
     "name:ita_x_preferred":[
         "Sonari"
@@ -66,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u7d22\u7eb3\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10882662
+        "gn:id":10882662,
+        "ks:id":"KS55AAC8AC8ECB49338088F203A101B1FA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ed1971344382f5155430d4014ec191b1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e15a7583ddd4b2482899d0e2eed591a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +113,22 @@
         }
     ],
     "wof:id":1292954321,
-    "wof:lastmodified":1566689730,
+    "wof:lastmodified":1682801158,
     "wof:name":"Sonari",
     "wof:parent_id":890507609,
     "wof:placetype":"locality",
+    "wof:population":1398,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.38223,
-    24.68267,
-    85.38223,
-    24.68267
+    85.381214,
+    24.680368,
+    85.382898,
+    24.683168
 ],
-  "geometry": {"coordinates":[85.38223000000001,24.68267],"type":"Point"}
+  "geometry": {"coordinates":[[[85.382091,24.683168],[85.382092,24.683078],[85.382389,24.683081],[85.38239,24.682991],[85.38248900000001,24.682992],[85.38249,24.682902],[85.382688,24.682904],[85.38269,24.682723],[85.382789,24.682725],[85.38279199999999,24.682454],[85.382891,24.682455],[85.382898,24.681913],[85.38279900000001,24.681912],[85.382807,24.68128],[85.38270900000001,24.681279],[85.382711,24.681098],[85.38281000000001,24.6811],[85.382811,24.681009],[85.382712,24.681008],[85.382716,24.680737],[85.382617,24.680736],[85.38261900000001,24.680556],[85.38252,24.680555],[85.382521,24.680464],[85.382423,24.680463],[85.382424,24.680373],[85.38193,24.680368],[85.381929,24.680458],[85.381632,24.680455],[85.381631,24.680545],[85.381433,24.680543],[85.381432,24.680633],[85.381333,24.680632],[85.381332,24.680722],[85.38123299999999,24.680721],[85.381214,24.682256],[85.38131199999999,24.682257],[85.381303,24.682979],[85.38140199999999,24.68298],[85.381401,24.683071],[85.3815,24.683072],[85.38149799999999,24.683162],[85.382091,24.683168]]],"type":"Polygon"}
 }

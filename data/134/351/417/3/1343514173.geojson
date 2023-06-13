@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.54706,25.44345,81.54706,25.44345",
-    "geom:latitude":25.44345,
-    "geom:longitude":81.54706,
+    "geom:bbox":"81.545557,25.441902,81.547983,25.444058",
+    "geom:latitude":25.443072,
+    "geom:longitude":81.546805,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"174.0",
     "gn:asciiname":"Malaka",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.52706,25.42345,81.56706,25.46345",
+    "ks:ks_alt_nam":"Mal\u0101ka",
+    "ks:ks_id":"KS3D0462290F0E4C5DB4F6991C9CB63948",
+    "ks:ks_name":"Malaka",
+    "ks:ks_pop":353,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|658173",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_799627",
+    "lbl:latitude":25.443115,
+    "lbl:longitude":81.546805,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.443115,
+    "mps:longitude":81.546805,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malaka"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Malaka"
+    ],
+    "name:eng_x_preferred":[
+        "Malaka"
+    ],
+    "name:eng_x_variant":[
+        "Mal\u0101ka"
     ],
     "name:fra_x_preferred":[
         "Malaka"
@@ -51,7 +68,13 @@
     "name:swe_x_preferred":[
         "Malaka"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -60,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10679379
+        "gn:id":10679379,
+        "ks:id":"KS3D0462290F0E4C5DB4F6991C9CB63948"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7839a95c79ca5bdf7481cb7ec5fed60d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b50e4cb4398c1c9bc7418a4a6489fe37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,20 +101,22 @@
         }
     ],
     "wof:id":1343514173,
-    "wof:lastmodified":1566687627,
+    "wof:lastmodified":1682930554,
     "wof:name":"Malaka",
     "wof:parent_id":1108695841,
     "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.54706,
-    25.44345,
-    81.54706,
-    25.44345
+    81.545557,
+    25.441902,
+    81.547983,
+    25.444058
 ],
-  "geometry": {"coordinates":[81.54706,25.44345],"type":"Point"}
+  "geometry": {"coordinates":[[[81.547713,25.444058],[81.547713,25.443789],[81.547983,25.443789],[81.547983,25.442711],[81.54663499999999,25.442711],[81.54663499999999,25.441902],[81.54609600000001,25.441902],[81.54609600000001,25.442711],[81.545557,25.442711],[81.545557,25.443519],[81.547174,25.443519],[81.547174,25.444058],[81.547713,25.444058]]],"type":"Polygon"}
 }

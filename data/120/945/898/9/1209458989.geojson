@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890508871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10824431
     },
     "wof:country":"IN",
-    "wof:geomhash":"81b0d8cfee3efb9ad3f0e6bad6466531",
+    "wof:geomhash":"2a550bbe3f301faf83555c0a886c65ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209458989
+            "county_id":890508871,
+            "locality_id":1209458989,
+            "region_id":85672205
         }
     ],
     "wof:id":1209458989,
-    "wof:lastmodified":1566696854,
+    "wof:lastmodified":1682619754,
     "wof:name":"Teola",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847148265
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.47339000000002,
+    79.47339,
     28.76665,
-    79.47339000000002,
+    79.47339,
     28.76665
 ],
-  "geometry": {"coordinates":[79.47339000000002,28.76665],"type":"Point"}
+  "geometry": {"coordinates":[79.47338999999999,28.76665],"type":"Point"}
 }

@@ -11,12 +11,20 @@
     "geom:longitude":74.62319,
     "gn:population":52295,
     "iso:country":"IN",
-    "lbl:latitude":15.258357,
-    "lbl:longitude":74.621517,
+    "ks:ks_id":"KS5DB3110534F244C4A05826EDB6C389AF",
+    "ks:ks_name":"Dandeli",
+    "ks:ks_pop":53290,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2093947",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_369105",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":15.258042,
+    "lbl:longitude":74.618197,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":15.277251,
-    "mps:longitude":74.534856,
+    "mps:latitude":15.258042,
+    "mps:longitude":74.618197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -46,6 +54,9 @@
         "Dandeli"
     ],
     "name:hin_x_preferred":[
+        "\u0921\u0902\u0921\u0947\u0932\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0926\u093e\u0902\u0926\u0947\u0932\u0940"
     ],
     "name:ita_x_preferred":[
@@ -108,10 +119,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1126,
     "wof:belongsto":[
         102191569,
@@ -123,13 +136,16 @@
     "wof:concordances":{
         "gn:id":1273574,
         "gp:id":2295254,
+        "ks:id":"KS5DB3110534F244C4A05826EDB6C389AF",
         "qs_pg:id":972356,
         "wd:id":"Q721378",
         "wk:page":"Dandeli"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"de8f10b9b4f0003db98758764fbe74c7",
     "wof:hierarchy":[
@@ -142,11 +158,11 @@
         }
     ],
     "wof:id":102030449,
-    "wof:lastmodified":1658780729,
+    "wof:lastmodified":1686162181,
     "wof:name":"Dandeli",
     "wof:parent_id":890507903,
     "wof:placetype":"locality",
-    "wof:population":52295,
+    "wof:population":53290,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

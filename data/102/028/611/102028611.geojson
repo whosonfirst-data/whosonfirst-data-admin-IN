@@ -13,12 +13,19 @@
     "gn:longitude":72.84794,
     "gn:population":38610,
     "iso:country":"IN",
-    "lbl:latitude":24.886311,
-    "lbl:longitude":72.859416,
+    "ks:ks_id":"KS750C01820A0149B6A9D19CB144FB2B3C",
+    "ks:ks_name":"Sirohi",
+    "ks:ks_pop":35544,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0819000241902000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_561200",
+    "lbl:latitude":24.886008,
+    "lbl:longitude":72.859374,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":24.991037,
-    "mps:longitude":72.745972,
+    "mps:latitude":24.886008,
+    "mps:longitude":72.859374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -164,10 +171,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":321.0,
     "wd:latitude":24.885,
     "wd:longitude":72.8625,
@@ -183,13 +192,16 @@
         "fct:id":"122d38ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1256067,
         "gp:id":2292019,
+        "ks:id":"KS750C01820A0149B6A9D19CB144FB2B3C",
         "qs_pg:id":1234106,
         "wd:id":"Q940829",
         "wk:page":"Sirohi"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"fbb4aa246c22618d1ec6e620928e9b85",
     "wof:hierarchy":[
@@ -205,11 +217,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780777,
+    "wof:lastmodified":1686162207,
     "wof:name":"Sirohi",
     "wof:parent_id":890510817,
     "wof:placetype":"locality",
-    "wof:population":38610,
+    "wof:population":35544,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

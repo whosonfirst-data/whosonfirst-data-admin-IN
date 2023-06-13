@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.90013,25.5217,87.90013,25.5217",
-    "geom:latitude":25.5217,
-    "geom:longitude":87.90013,
+    "geom:bbox":"87.898353,25.520056,87.901048,25.523829",
+    "geom:latitude":25.521716,
+    "geom:longitude":87.899823,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Chandpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.88013,25.5017,87.92013,25.5417",
+    "ks:ks_alt_nam":"Ch\u0101ndpur",
+    "ks:ks_id":"KS7DCE47F99E1140DBA9F48B014416CA34",
+    "ks:ks_name":"Chandpur",
+    "ks:ks_pop":495,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13513587",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1528796",
+    "lbl:latitude":25.522096,
+    "lbl:longitude":87.900092,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.522096,
+    "mps:longitude":87.900092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
@@ -38,6 +49,15 @@
     ],
     "name:deu_x_preferred":[
         "Chandpur"
+    ],
+    "name:eng_x_preferred":[
+        "Chandpur"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101ndpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u0902\u0926\u092a\u0941\u0930"
     ],
     "name:ita_x_preferred":[
         "Chandpur"
@@ -54,37 +74,55 @@
     "name:swe_x_preferred":[
         "Chandpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695909
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11014891
+        "gn:id":11014891,
+        "ks:id":"KS7DCE47F99E1140DBA9F48B014416CA34"
     },
     "wof:country":"IN",
-    "wof:geomhash":"00c50cc466071c678808391d46532159",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1bfd994d0ce3d521ad1bef19f33674e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209159551
+            "county_id":1108695909,
+            "locality_id":1209159551,
+            "region_id":85672225
         }
     ],
     "wof:id":1209159551,
-    "wof:lastmodified":1566695263,
+    "wof:lastmodified":1686162747,
     "wof:name":"Chandpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":495,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.90013,
-    25.5217,
-    87.90013,
-    25.5217
+    87.898353,
+    25.520056,
+    87.901048,
+    25.523829
 ],
-  "geometry": {"coordinates":[87.90013,25.5217],"type":"Point"}
+  "geometry": {"coordinates":[[[87.900509,25.523829],[87.900509,25.521942],[87.901048,25.521942],[87.901048,25.520056],[87.89970099999999,25.520056],[87.89970099999999,25.521403],[87.89997,25.521403],[87.89997,25.521673],[87.89970099999999,25.521673],[87.89970099999999,25.522212],[87.89943100000001,25.522212],[87.89943100000001,25.520595],[87.898623,25.520595],[87.898623,25.521134],[87.898353,25.521134],[87.898353,25.521673],[87.898623,25.521673],[87.898623,25.521942],[87.898353,25.521942],[87.898353,25.522481],[87.898892,25.522481],[87.898892,25.52302],[87.89943100000001,25.52302],[87.89943100000001,25.522751],[87.89970099999999,25.522751],[87.89970099999999,25.523559],[87.89997,25.523559],[87.89997,25.523829],[87.900509,25.523829]]],"type":"Polygon"}
 }

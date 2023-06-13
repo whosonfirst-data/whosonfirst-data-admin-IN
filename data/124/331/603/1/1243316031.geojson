@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.04242,26.40274,82.04242,26.40274",
-    "geom:latitude":26.40274,
-    "geom:longitude":82.04242,
+    "geom:bbox":"82.042104,26.402241,82.043113,26.403507",
+    "geom:latitude":26.402903,
+    "geom:longitude":82.042588,
     "gn:admin1_code":"36",
     "gn:admin2_code":"179.0",
     "gn:asciiname":"Khajuha",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.02242,26.38274,82.06242,26.42274",
+    "ks:ks_id":"KS0278A32B1C7640C2929458A436FBFA6F",
+    "ks:ks_name":"Khajuha",
+    "ks:ks_pop":454,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13067046",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1959318",
+    "lbl:latitude":26.402902,
+    "lbl:longitude":82.042597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.402902,
+    "mps:longitude":82.042597,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Khajuha"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10609316
+        "gn:id":10609316,
+        "ks:id":"KS0278A32B1C7640C2929458A436FBFA6F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"65c58d3928b1721e6544ee30822acf37",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e233e2af3139f037c5e377347e5daea2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1243316031,
-    "wof:lastmodified":1566705480,
+    "wof:lastmodified":1682711956,
     "wof:name":"Khajuha",
     "wof:parent_id":890505631,
     "wof:placetype":"locality",
+    "wof:population":454,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.04241999999998,
-    26.40274,
-    82.04241999999998,
-    26.40274
+    82.042104,
+    26.402241,
+    82.043113,
+    26.403507
 ],
-  "geometry": {"coordinates":[82.04241999999998,26.40274],"type":"Point"}
+  "geometry": {"coordinates":[[[82.04291499999999,26.403503],[82.042914,26.403413],[82.043014,26.403412],[82.043013,26.403231],[82.04311300000001,26.403231],[82.04311,26.40287],[82.04301,26.40287],[82.043007,26.4026],[82.042907,26.4026],[82.042906,26.40251],[82.042806,26.402511],[82.042805,26.40242],[82.042705,26.402421],[82.042704,26.402331],[82.042604,26.402332],[82.042603,26.402241],[82.042202,26.402244],[82.042204,26.402515],[82.04210399999999,26.402516],[82.042107,26.402877],[82.042208,26.402876],[82.04221200000001,26.403418],[82.042413,26.403416],[82.04241399999999,26.403507],[82.04291499999999,26.403503]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.28009,19.51219,83.28009,19.51219",
-    "geom:latitude":19.51219,
-    "geom:longitude":83.28009,
+    "geom:bbox":"83.279485,19.511674,83.280563,19.512483",
+    "geom:latitude":19.512054,
+    "geom:longitude":83.280061,
     "gn:admin1_code":"21",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Kuddabhata",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.26009,19.49219,83.30009,19.53219",
+    "ks:ks_id":"KS3CDB8B5D44EC4E7EB9EF4AF8FD8F74CA",
+    "ks:ks_name":"Kodabhata",
+    "ks:ks_pop":121,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2127000904674200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_454894",
+    "lbl:latitude":19.512078,
+    "lbl:longitude":83.280133,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.512078,
+    "mps:longitude":83.280133,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kodabhata"
+    ],
+    "name:eng_x_variant":[
+        "Kuddabhata"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10773078
+        "gn:id":10773078,
+        "ks:id":"KS3CDB8B5D44EC4E7EB9EF4AF8FD8F74CA"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9143fdf43397ddf0bce7110182271b17",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8cae595acf5f4260f62d43f915d92cac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1259356831,
-    "wof:lastmodified":1566709961,
-    "wof:name":"Kuddabhata",
+    "wof:lastmodified":1682723462,
+    "wof:name":"Kodabhata",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.28009,
-    19.51219,
-    83.28009,
-    19.51219
+    83.279485,
+    19.511674,
+    83.280563,
+    19.512483
 ],
-  "geometry": {"coordinates":[83.28009,19.51219],"type":"Point"}
+  "geometry": {"coordinates":[[[83.280563,19.511674],[83.27948499999999,19.511674],[83.27948499999999,19.512213],[83.27975499999999,19.512213],[83.27975499999999,19.512483],[83.280563,19.512483],[83.280563,19.511674]]],"type":"Polygon"}
 }

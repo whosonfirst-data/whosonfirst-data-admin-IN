@@ -13,12 +13,20 @@
     "gn:longitude":69.7219,
     "gn:population":15220,
     "iso:country":"IN",
-    "lbl:latitude":22.839364,
-    "lbl:longitude":69.724308,
+    "ks:ks_id":"KS508757D7422046FD93973DDC9AFBB7B3",
+    "ks:ks_name":"Mundra",
+    "ks:ks_pop":20338,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1358049",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_667223",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":22.839937,
+    "lbl:longitude":69.729939,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":22.831883,
-    "mps:longitude":69.724732,
+    "mps:latitude":22.839937,
+    "mps:longitude":69.729939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -110,10 +118,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"wk",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:elevation":14.0,
     "wd:latitude":22.85,
     "wd:longitude":69.73,
@@ -129,13 +139,16 @@
     "wof:concordances":{
         "gn:id":1262497,
         "gp:id":2291622,
+        "ks:id":"KS508757D7422046FD93973DDC9AFBB7B3",
         "qs_pg:id":1091654,
         "wd:id":"Q2234250",
         "wk:page":"Mundra"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"009ac1f7c3df2e53abe903a62a354947",
     "wof:hierarchy":[
@@ -148,7 +161,7 @@
         }
     ],
     "wof:id":102029327,
-    "wof:lastmodified":1658780769,
+    "wof:lastmodified":1682523832,
     "wof:name":"Mundra",
     "wof:parent_id":890503811,
     "wof:placetype":"locality",

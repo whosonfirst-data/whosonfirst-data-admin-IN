@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.70645,26.99782,79.70645,26.99782",
-    "geom:latitude":26.99782,
-    "geom:longitude":79.70645,
+    "geom:bbox":"79.705399,26.99619,79.707719,26.99846",
+    "geom:latitude":26.997475,
+    "geom:longitude":79.706523,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Singnapur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.68645,26.97782,79.72645,27.01782",
+    "ks:ks_id":"KSE21C0A21A6374136899FA94F97F0772B",
+    "ks:ks_name":"Singhna Pur",
+    "ks:ks_pop":324,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|995539",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1887022",
+    "lbl:latitude":26.99748,
+    "lbl:longitude":79.706501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.99748,
+    "mps:longitude":79.706501,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0982\u09a8\u09be\u09aa\u09c1\u09b0"
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u0982\u09a8\u09be\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Singhna Pur"
+    ],
+    "name:eng_x_variant":[
+        "Singnapur"
     ],
     "name:ita_x_preferred":[
         "Singnapur"
@@ -57,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u8f9b\u683c\u7eb3\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7003679
+        "gn:id":7003679,
+        "ks:id":"KSE21C0A21A6374136899FA94F97F0772B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"826576ee880cc357be2a10fbd74a9840",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec2c84db7438add1f3b8bfa8e028c015",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1343399961,
-    "wof:lastmodified":1566685836,
-    "wof:name":"Singnapur",
+    "wof:lastmodified":1682924483,
+    "wof:name":"Singhna Pur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.70645,
-    26.99782,
-    79.70645,
-    26.99782
+    79.705399,
+    26.99619,
+    79.707719,
+    26.99846
 ],
-  "geometry": {"coordinates":[79.70645,26.99782],"type":"Point"}
+  "geometry": {"coordinates":[[[79.70740600000001,26.99846],[79.707407,26.99837],[79.70770899999999,26.998373],[79.707719,26.99756],[79.707618,26.997559],[79.70762000000001,26.997379],[79.707519,26.997378],[79.70752,26.997288],[79.707419,26.997287],[79.70742,26.997196],[79.70732,26.997195],[79.70732099999999,26.997105],[79.70722000000001,26.997104],[79.707221,26.997014],[79.707019,26.997012],[79.70702,26.996922],[79.70692,26.996921],[79.70692099999999,26.996831],[79.70671900000001,26.996829],[79.70672,26.996739],[79.706519,26.996737],[79.70652,26.996646],[79.706419,26.996646],[79.70642100000001,26.996465],[79.70632000000001,26.996464],[79.706321,26.996374],[79.706221,26.996373],[79.706222,26.996283],[79.706121,26.996282],[79.70612199999999,26.996191],[79.70592000000001,26.99619],[79.705918,26.99637],[79.70581799999999,26.996369],[79.705814,26.99664],[79.705714,26.996639],[79.705713,26.996729],[79.705612,26.996728],[79.705611,26.996819],[79.70551,26.996818],[79.705507,26.997089],[79.705406,26.997088],[79.705399,26.997719],[79.7055,26.99772],[79.70549800000001,26.997901],[79.70559799999999,26.997902],[79.705597,26.997992],[79.705799,26.997994],[79.705798,26.998084],[79.70610000000001,26.998087],[79.70609899999999,26.998177],[79.706502,26.998181],[79.706501,26.998271],[79.706703,26.998273],[79.70670200000001,26.998363],[79.707105,26.998367],[79.707104,26.998457],[79.70740600000001,26.99846]]],"type":"Polygon"}
 }

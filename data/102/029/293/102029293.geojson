@@ -13,12 +13,20 @@
     "gn:longitude":79.84454,
     "gn:population":94238,
     "iso:country":"IN",
-    "lbl:latitude":10.764367,
-    "lbl:longitude":79.841042,
+    "ks:ks_id":"KS5DA34DB6DFD24CE695378BB6ACFBE4BA",
+    "ks:ks_name":"Nagapattinam",
+    "ks:ks_pop":93148,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3319000441908000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_347102",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":10.790877,
+    "lbl:longitude":79.84026,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":10.773881,
-    "mps:longitude":79.843011,
+    "mps:latitude":10.790877,
+    "mps:longitude":79.84026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -49,7 +57,8 @@
         "Nagappattinam",
         "Negapainttam City",
         "Negapatam",
-        "Negapattinam"
+        "Negapattinam",
+        "N\u0101gappattinam"
     ],
     "name:fra_x_preferred":[
         "Nagapattinam"
@@ -58,6 +67,9 @@
         "Nagapattinam"
     ],
     "name:hin_x_preferred":[
+        "\u0928\u093e\u0917\u092a\u091f\u094d\u091f\u093f\u0928\u092e"
+    ],
+    "name:hin_x_variant":[
         "\u0928\u093e\u0917\u092a\u091f\u094d\u091f\u0928\u092e"
     ],
     "name:ind_x_preferred":[
@@ -165,10 +177,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:latitude":10.766667,
     "wd:longitude":79.833333,
     "wd:wordcount":5090,
@@ -183,15 +197,18 @@
         "fct:id":"122d6806-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1262260,
         "gp:id":2295327,
+        "ks:id":"KS5DA34DB6DFD24CE695378BB6ACFBE4BA",
         "qs_pg:id":9064,
         "wd:id":"Q695585",
         "wk:page":"Nagapattinam"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
-    "wof:geomhash":"919f52c866a7e66df4b93154d2e729fe",
+    "wof:geomhash":"a7cf19ab903c414f88f907397012567b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,11 +222,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780756,
-    "wof:name":"N\u0101gappattinam",
+    "wof:lastmodified":1686162196,
+    "wof:name":"Nagapattinam",
     "wof:parent_id":890510383,
     "wof:placetype":"locality",
-    "wof:population":94238,
+    "wof:population":93148,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -222,5 +239,5 @@
     79.851585,
     10.770261
 ],
-  "geometry": {"coordinates":[[[[79.841065,10.769941],[79.844109,10.769941],[79.84715300000001,10.770261],[79.849662,10.770048],[79.850837,10.770101],[79.85121100000001,10.768499],[79.851585,10.765722],[79.850463,10.764547],[79.84923499999999,10.764227],[79.84891500000001,10.763426],[79.84902200000001,10.761877],[79.84923499999999,10.760756],[79.84923499999999,10.760756],[79.849182,10.760596],[79.848221,10.759528],[79.84485599999999,10.759261],[79.84090500000001,10.758513],[79.839569,10.757605],[79.837807,10.75862],[79.83722,10.760008],[79.83620500000001,10.762038],[79.835938,10.763907],[79.83673899999999,10.766417],[79.83738,10.767591],[79.841065,10.769941]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[79.841065,10.769941],[79.844109,10.769941],[79.84715300000001,10.770261],[79.849662,10.770048],[79.850837,10.770101],[79.85121100000001,10.768499],[79.851585,10.765722],[79.850463,10.764547],[79.84923499999999,10.764227],[79.84891500000001,10.763426],[79.84902200000001,10.761877],[79.84923499999999,10.760756],[79.849182,10.760596],[79.848221,10.759528],[79.84485599999999,10.759261],[79.84090500000001,10.758513],[79.839569,10.757605],[79.837807,10.75862],[79.83722,10.760008],[79.83620500000001,10.762038],[79.835938,10.763907],[79.83673899999999,10.766417],[79.83738,10.767591],[79.841065,10.769941]]]],"type":"MultiPolygon"}
 }

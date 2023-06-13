@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.83341,27.51554,77.83341,27.51554",
-    "geom:latitude":27.51554,
-    "geom:longitude":77.83341,
+    "geom:bbox":"77.832859,27.514765,77.834093,27.515945",
+    "geom:latitude":27.515372,
+    "geom:longitude":77.83347,
     "gn:admin1_code":"36",
     "gn:admin2_code":"145.0",
     "gn:asciiname":"Dhaniyagarhi",
@@ -24,43 +24,77 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.81341,27.49554,77.85341,27.53554",
+    "ks:ks_id":"KS036ACC8C407C473EBCEB3851D320D934",
+    "ks:ks_name":"Dhanya Garhi",
+    "ks:ks_pop":188,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|288940",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1754936",
+    "lbl:latitude":27.515388,
+    "lbl:longitude":77.833482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.515388,
+    "mps:longitude":77.833482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Dhanya Garhi"
+    ],
+    "name:eng_x_variant":[
+        "Dhaniyagarhi"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695803
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10454963
+        "gn:id":10454963,
+        "ks:id":"KS036ACC8C407C473EBCEB3851D320D934"
     },
     "wof:country":"IN",
-    "wof:geomhash":"95892e118d376afa9665c8d94bcc8e85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"848fa22107c3c1424f1d219c3797ed99",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209458661
+            "county_id":1108695803,
+            "locality_id":1209458661,
+            "region_id":85672205
         }
     ],
     "wof:id":1209458661,
-    "wof:lastmodified":1566696798,
-    "wof:name":"Dhaniyagarhi",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682619628,
+    "wof:name":"Dhanya Garhi",
+    "wof:parent_id":1108695803,
     "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.83341,
-    27.51554,
-    77.83341,
-    27.51554
+    77.832859,
+    27.514765,
+    77.834093,
+    27.515945
 ],
-  "geometry": {"coordinates":[77.83341,27.51554],"type":"Point"}
+  "geometry": {"coordinates":[[[77.833896,27.515931],[77.833893,27.515841],[77.833995,27.515839],[77.83399199999999,27.515748],[77.834093,27.515746],[77.83407699999999,27.515115],[77.83397600000001,27.515117],[77.833974,27.515027],[77.833873,27.515029],[77.83387,27.514939],[77.833769,27.514941],[77.83376699999999,27.514851],[77.83356499999999,27.514855],[77.833562,27.514765],[77.833158,27.514773],[77.83316000000001,27.514863],[77.832958,27.514867],[77.83296,27.514958],[77.832859,27.51496],[77.832875,27.515591],[77.832976,27.515589],[77.832981,27.515769],[77.833082,27.515767],[77.833084,27.515857],[77.833186,27.515855],[77.83318800000001,27.515945],[77.833896,27.515931]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.01498,26.03631,87.01498,26.03631",
-    "geom:latitude":26.03631,
-    "geom:longitude":87.01498,
+    "geom:bbox":"87.012794,26.033173,87.016028,26.036946",
+    "geom:latitude":26.035088,
+    "geom:longitude":87.014589,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"213.0",
     "gn:asciiname":"Srinagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"86.99498,26.01631,87.03498,26.05631",
+    "ks:ks_id":"KS8302929154C5482FBF4B739F41F680C5",
+    "ks:ks_name":"Sreenagar",
+    "ks:ks_pop":720,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1009897",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1588178",
+    "lbl:latitude":26.035195,
+    "lbl:longitude":87.01462,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.035195,
+    "mps:longitude":87.01462,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Srinagar"
@@ -74,6 +84,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c1\u03b9\u03bd\u03b1\u03b3\u03ba\u03ac\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Sreenagar"
+    ],
+    "name:eng_x_variant":[
+        "Srinagar"
     ],
     "name:epo_x_preferred":[
         "Srinagaro"
@@ -246,7 +262,13 @@
     "name:zho_x_preferred":[
         "\u65af\u5229\u90a3\u52a0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -255,10 +277,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10986642
+        "gn:id":10986642,
+        "ks:id":"KS8302929154C5482FBF4B739F41F680C5"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2ec9609a6facd8a38da09d0ae79446cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e854d8eb3da5dd0265b2927f3451cee3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -269,20 +295,22 @@
         }
     ],
     "wof:id":1242719009,
-    "wof:lastmodified":1576022386,
-    "wof:name":"Srinagar",
+    "wof:lastmodified":1682689483,
+    "wof:name":"Sreenagar",
     "wof:parent_id":890502233,
     "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.01498000000002,
-    26.03631,
-    87.01498000000002,
-    26.03631
+    87.012794,
+    26.033173,
+    87.016028,
+    26.036946
 ],
-  "geometry": {"coordinates":[87.01498000000002,26.03631],"type":"Point"}
+  "geometry": {"coordinates":[[[87.01575800000001,26.035329],[87.01575800000001,26.03506],[87.01602800000001,26.03506],[87.01602800000001,26.033982],[87.015489,26.033982],[87.015489,26.033443],[87.01495,26.033443],[87.01495,26.033982],[87.014141,26.033982],[87.014141,26.034251],[87.01387200000001,26.034251],[87.01387200000001,26.033443],[87.013333,26.033443],[87.013333,26.033173],[87.013063,26.033173],[87.013063,26.033712],[87.012794,26.033712],[87.012794,26.034251],[87.013063,26.034251],[87.013063,26.035868],[87.01387200000001,26.035868],[87.01387200000001,26.036407],[87.01495,26.036407],[87.01495,26.036946],[87.01602800000001,26.036946],[87.01602800000001,26.035329],[87.01575800000001,26.035329]]],"type":"Polygon"}
 }

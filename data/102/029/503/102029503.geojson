@@ -13,12 +13,20 @@
     "gn:longitude":74.4818,
     "gn:population":76616,
     "iso:country":"IN",
-    "lbl:latitude":30.189093,
-    "lbl:longitude":74.499711,
+    "ks:ks_id":"KS91BBC11E0E7E4BAF9960963D77C3172E",
+    "ks:ks_name":"Malout",
+    "ks:ks_pop":70765,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2103432",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2487242",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":30.189194,
+    "lbl:longitude":74.504513,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":30.18787,
-    "mps:longitude":74.503784,
+    "mps:latitude":30.189194,
+    "mps:longitude":74.504513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -35,10 +43,16 @@
     "name:eng_x_preferred":[
         "Malout"
     ],
+    "name:eng_x_variant":[
+        "Malaut"
+    ],
     "name:fra_x_preferred":[
         "Malout"
     ],
     "name:hin_x_preferred":[
+        "\u092e\u0932\u093e\u0909\u091f"
+    ],
+    "name:hin_x_variant":[
         "\u092e\u0932\u094b\u091f"
     ],
     "name:ita_x_preferred":[
@@ -103,10 +117,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1632,
     "wof:belongsto":[
         102191569,
@@ -118,12 +134,15 @@
     "wof:concordances":{
         "gn:id":1264138,
         "gp:id":2281729,
+        "ks:id":"KS91BBC11E0E7E4BAF9960963D77C3172E",
         "qs_pg:id":370367,
         "wd:id":"Q2349902"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"cabeeada22329e603b987b4d10de15d2",
     "wof:hierarchy":[
@@ -136,11 +155,11 @@
         }
     ],
     "wof:id":102029503,
-    "wof:lastmodified":1658780751,
-    "wof:name":"Malaut",
+    "wof:lastmodified":1686162194,
+    "wof:name":"Malout",
     "wof:parent_id":1108695741,
     "wof:placetype":"locality",
-    "wof:population":76616,
+    "wof:population":70765,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

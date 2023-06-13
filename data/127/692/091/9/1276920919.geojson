@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.20144,26.59505,84.20144,26.59505",
-    "geom:latitude":26.59505,
-    "geom:longitude":84.20144,
+    "geom:bbox":"84.198192,26.592914,84.199001,26.593722",
+    "geom:latitude":26.593318,
+    "geom:longitude":84.198597,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"217.0",
     "gn:asciiname":"Sangwa Dih",
@@ -24,13 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.18144,26.57505,84.22144,26.61505",
+    "ks:ks_alt_nam":"Sangw\u0101 D\u012bh",
+    "ks:ks_id":"KSF7E0C7E1DC104596AB9BEB6EBCC8CF57",
+    "ks:ks_name":"Sangwa Dih",
+    "ks:ks_pop":818,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|949881",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1424066",
+    "lbl:latitude":26.593318,
+    "lbl:longitude":84.198597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.593318,
+    "mps:longitude":84.198597,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Sangwa Dih"
+    ],
+    "name:eng_x_variant":[
+        "Sangw\u0101 D\u012bh"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10817646
+        "gn:id":10817646,
+        "ks:id":"KSF7E0C7E1DC104596AB9BEB6EBCC8CF57"
     },
     "wof:country":"IN",
-    "wof:geomhash":"db7acf85764168935e70b549accefbca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9204fd07796e1448e9780a43a79d6bff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +80,22 @@
         }
     ],
     "wof:id":1276920919,
-    "wof:lastmodified":1566692916,
+    "wof:lastmodified":1682791090,
     "wof:name":"Sangwa Dih",
     "wof:parent_id":1108695913,
     "wof:placetype":"locality",
+    "wof:population":818,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.20144,
-    26.59505,
-    84.20144,
-    26.59505
+    84.198192,
+    26.592914,
+    84.199001,
+    26.593722
 ],
-  "geometry": {"coordinates":[84.20144000000001,26.59505],"type":"Point"}
+  "geometry": {"coordinates":[[[84.199001,26.592914],[84.19819200000001,26.592914],[84.19819200000001,26.593722],[84.199001,26.593722],[84.199001,26.592914]]],"type":"Polygon"}
 }

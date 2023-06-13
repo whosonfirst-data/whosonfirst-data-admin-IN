@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.24107,19.91219,78.24107,19.91219",
-    "geom:latitude":19.91219,
-    "geom:longitude":78.24107,
+    "geom:bbox":"78.240312,19.911024,78.242144,19.913193",
+    "geom:latitude":19.912133,
+    "geom:longitude":78.241253,
     "gn:admin1_code":"16",
     "gn:admin2_code":"511.0",
     "gn:asciiname":"Pardi",
@@ -24,16 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.22107,19.89219,78.26107,19.93219",
+    "ks:ks_alt_nam":"P\u0101rdi",
+    "ks:ks_id":"KS3761945F32A348EE945216C3F378F6C1",
+    "ks:ks_name":"Pardi",
+    "ks:ks_pop":702,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12897893",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_564167",
+    "lbl:latitude":19.912152,
+    "lbl:longitude":78.24127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.912152,
+    "mps:longitude":78.24127,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09cd\u09a6\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "P\u0101rdi"
+    ],
+    "name:eng_x_preferred":[
+        "Pardi"
+    ],
+    "name:eng_x_variant":[
         "P\u0101rdi"
     ],
     "name:guj_x_preferred":[
@@ -63,7 +80,13 @@
     "name:zho_x_preferred":[
         "\u5e15\u5c14\u8fea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10466752
+        "gn:id":10466752,
+        "ks:id":"KS3761945F32A348EE945216C3F378F6C1"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f4cbc0d9738aae17de510f75a49a8c1e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e53c6346af12078f181f8887965fe57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +113,22 @@
         }
     ],
     "wof:id":1327215613,
-    "wof:lastmodified":1566684656,
+    "wof:lastmodified":1682908283,
     "wof:name":"Pardi",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.24107,
-    19.91219,
-    78.24107,
-    19.91219
+    78.240312,
+    19.911024,
+    78.242144,
+    19.913193
 ],
-  "geometry": {"coordinates":[78.24106999999999,19.91219],"type":"Point"}
+  "geometry": {"coordinates":[[[78.24144699999999,19.913193],[78.241449,19.913103],[78.24164,19.913106],[78.241641,19.913015],[78.241832,19.913018],[78.241834,19.912928],[78.241929,19.91293],[78.24193200000001,19.912749],[78.242028,19.91275],[78.242029,19.91266],[78.242125,19.912662],[78.242144,19.911579],[78.242048,19.911577],[78.242051,19.911397],[78.241956,19.911395],[78.241958,19.911305],[78.241862,19.911303],[78.24186400000001,19.911213],[78.24176799999999,19.911212],[78.24177,19.911121],[78.241674,19.91112],[78.241676,19.91103],[78.241294,19.911024],[78.241293,19.911114],[78.241006,19.911109],[78.241005,19.9112],[78.240814,19.911197],[78.24081200000001,19.911287],[78.240621,19.911284],[78.24062000000001,19.911374],[78.24052399999999,19.911373],[78.240521,19.911553],[78.240426,19.911552],[78.240415,19.912184],[78.240319,19.912182],[78.240312,19.912634],[78.240407,19.912635],[78.240404,19.912816],[78.240499,19.912817],[78.240498,19.912907],[78.240593,19.912909],[78.24059200000001,19.912999],[78.24068699999999,19.913001],[78.240686,19.913091],[78.240781,19.913092],[78.240779,19.913183],[78.24144699999999,19.913193]]],"type":"Polygon"}
 }

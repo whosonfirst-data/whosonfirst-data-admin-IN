@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.24571,25.40737,82.24571,25.40737",
-    "geom:latitude":25.40737,
-    "geom:longitude":82.24571,
+    "geom:bbox":"82.245704,25.407137,82.246513,25.408485",
+    "geom:latitude":25.407772,
+    "geom:longitude":82.246128,
     "gn:admin1_code":"36",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Sahipur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.22571,25.38737,82.26571,25.42737",
+    "ks:ks_alt_nam":"S\u0101h\u012bpur",
+    "ks:ks_id":"KS973466B6D38C4B79A685A77A4E92541E",
+    "ks:ks_name":"Sahipur",
+    "ks:ks_pop":790,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"N|12998248",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1348312",
+    "lbl:latitude":25.407779,
+    "lbl:longitude":82.246106,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.407779,
+    "mps:longitude":82.246106,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0647\u064a \u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b6\u09be\u09b9\u09bf\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Sahipur"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101h\u012bpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab9\u0abf\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u06c1\u06cc \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547608
+        "gn:id":10547608,
+        "ks:id":"KS973466B6D38C4B79A685A77A4E92541E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0b6a5f5e506d65015ef0e2aead39e391",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ddf75fd02042f155802552b59380fa31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1260327139,
-    "wof:lastmodified":1577751368,
+    "wof:lastmodified":1682758468,
     "wof:name":"Sahipur",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.24571,
-    25.40737,
-    82.24571,
-    25.40737
+    82.245704,
+    25.407137,
+    82.246513,
+    25.408485
 ],
-  "geometry": {"coordinates":[82.24571,25.40737],"type":"Point"}
+  "geometry": {"coordinates":[[[82.24651299999999,25.407137],[82.245704,25.407137],[82.245704,25.408215],[82.245974,25.408215],[82.245974,25.408485],[82.24651299999999,25.408485],[82.24651299999999,25.407137]]],"type":"Polygon"}
 }

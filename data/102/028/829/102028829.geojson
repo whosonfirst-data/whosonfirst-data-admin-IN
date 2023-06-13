@@ -12,12 +12,19 @@
     "gn:latitude":16.71667,
     "gn:longitude":81.66667,
     "iso:country":"IN",
-    "lbl:latitude":16.705764,
-    "lbl:longitude":81.646936,
+    "ks:ks_id":"KSA136C615D7C24DEEABE4A60E2EE6F5C5",
+    "ks:ks_name":"Relangi",
+    "ks:ks_pop":10270,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|920806",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_579933",
+    "lbl:latitude":16.706324,
+    "lbl:longitude":81.64691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":16.704599,
-    "mps:longitude":81.633851,
+    "mps:latitude":16.706324,
+    "mps:longitude":81.64691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -52,9 +59,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":376,
     "wof:belongsto":[
         102191569,
@@ -66,12 +76,15 @@
     "wof:concordances":{
         "gn:id":1258237,
         "gp:id":2285256,
+        "ks:id":"KSA136C615D7C24DEEABE4A60E2EE6F5C5",
         "qs_pg:id":388544,
         "wd:id":"Q7310678"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b06110a0f319b38788a410e2ed003587",
     "wof:hierarchy":[
@@ -84,10 +97,12 @@
         }
     ],
     "wof:id":102028829,
-    "wof:lastmodified":1658780775,
+    "wof:lastmodified":1682523504,
     "wof:name":"Relangi",
     "wof:parent_id":1108696319,
     "wof:placetype":"locality",
+    "wof:population":10270,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

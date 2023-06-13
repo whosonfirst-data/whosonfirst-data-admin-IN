@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.42457,13.36546,79.42457,13.36546",
-    "geom:latitude":13.36546,
-    "geom:longitude":79.42457,
+    "geom:bbox":"79.427002,13.366093,79.428854,13.367538",
+    "geom:latitude":13.366817,
+    "geom:longitude":79.427859,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"554.0",
     "gn:asciiname":"Krishnasamudram",
@@ -24,14 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.40457,13.34546,79.44457,13.38546",
+    "ks:ks_id":"KS60ABE38779D749898A9FF20DB508E938",
+    "ks:ks_name":"Krishnasamudram",
+    "ks:ks_pop":186,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|590527",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_320122",
+    "lbl:latitude":13.366763,
+    "lbl:longitude":79.427841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.366763,
+    "mps:longitude":79.427841,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09c3\u09b7\u09cd\u09a3\u09b8\u09ae\u09c1\u09a6\u09cd\u09b0\u09ae"
+    ],
+    "name:eng_x_preferred":[
+        "Krishnasamudram"
     ],
     "name:ita_x_preferred":[
         "Krishnasamudram"
@@ -57,37 +70,55 @@
     "name:zho_x_preferred":[
         "\u514b\u91cc\u65af\u8d6b\u7eb3\u8428\u7a46\u5fb7\u62c9\u59c6"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672141,
+        890508207
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11421400
+        "gn:id":11421400,
+        "ks:id":"KS60ABE38779D749898A9FF20DB508E938"
     },
     "wof:country":"IN",
-    "wof:geomhash":"49afc17a1fb033c1c6cc5a48c4d2c867",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d5cc95f35ddb238f79e13bd0a2bcd978",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209427303
+            "county_id":890508207,
+            "locality_id":1209427303,
+            "region_id":85672141
         }
     ],
     "wof:id":1209427303,
-    "wof:lastmodified":1566696760,
+    "wof:lastmodified":1682618329,
     "wof:name":"Krishnasamudram",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890508207,
     "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.42456999999997,
-    13.36546,
-    79.42456999999997,
-    13.36546
+    79.427002,
+    13.366093,
+    79.428854,
+    13.367538
 ],
-  "geometry": {"coordinates":[79.42456999999997,13.36546],"type":"Point"}
+  "geometry": {"coordinates":[[[79.427648,13.367538],[79.427648,13.367447],[79.427925,13.367449],[79.427926,13.367359],[79.428111,13.36736],[79.428111,13.367269],[79.42820399999999,13.36727],[79.42820399999999,13.36718],[79.428296,13.36718],[79.428297,13.36709],[79.428482,13.367091],[79.428482,13.367001],[79.428575,13.367001],[79.428575,13.366911],[79.42876,13.366912],[79.42876099999999,13.366731],[79.428853,13.366732],[79.428854,13.366551],[79.42876200000001,13.36655],[79.428763,13.36646],[79.42867,13.366459],[79.42867099999999,13.366369],[79.42848600000001,13.366368],[79.428487,13.366277],[79.428302,13.366276],[79.428303,13.366186],[79.428118,13.366185],[79.428119,13.366094],[79.427842,13.366093],[79.427841,13.366183],[79.427564,13.366181],[79.427564,13.366272],[79.427471,13.366271],[79.427471,13.366362],[79.427379,13.366361],[79.427378,13.366451],[79.427286,13.366451],[79.427284,13.366632],[79.42719200000001,13.366631],[79.42719099999999,13.366812],[79.427099,13.366811],[79.427097,13.366992],[79.42700499999999,13.366991],[79.427002,13.367443],[79.42737099999999,13.367446],[79.42737099999999,13.367536],[79.427648,13.367538]]],"type":"Polygon"}
 }

@@ -13,12 +13,21 @@
     "gn:longitude":76.32915,
     "gn:population":31480,
     "iso:country":"IN",
-    "lbl:latitude":26.561403,
-    "lbl:longitude":76.329339,
+    "ks:ks_alt_nam":"L\u0101lsot",
+    "ks:ks_id":"KSC0C365ED2C214B6FB7D2273902FA3035",
+    "ks:ks_name":"Lalsot",
+    "ks:ks_pop":28249,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2102423",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1688731",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.555664,
+    "lbl:longitude":76.330597,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":26.49024,
-    "mps:longitude":76.37146,
+    "mps:latitude":26.555664,
+    "mps:longitude":76.330597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -37,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Lalsot"
+    ],
+    "name:eng_x_variant":[
+        "L\u0101lsot"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0644\u0633\u0648\u062a"
@@ -119,10 +131,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1057,
     "wof:belongsto":[
         102191569,
@@ -134,13 +148,16 @@
     "wof:concordances":{
         "gn:id":1265143,
         "gp:id":2291543,
+        "ks:id":"KSC0C365ED2C214B6FB7D2273902FA3035",
         "qs_pg:id":1227362,
         "wd:id":"Q2229760",
         "wk:page":"Lalsot"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"3fabd5356663a67dd195bfb56f88a113",
     "wof:hierarchy":[
@@ -153,11 +170,11 @@
         }
     ],
     "wof:id":102029587,
-    "wof:lastmodified":1658780760,
-    "wof:name":"L\u0101lsot",
+    "wof:lastmodified":1682524030,
+    "wof:name":"Lalsot",
     "wof:parent_id":890508857,
     "wof:placetype":"locality",
-    "wof:population":31480,
+    "wof:population":28249,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

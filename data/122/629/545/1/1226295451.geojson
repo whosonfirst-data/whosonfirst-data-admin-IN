@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.76584,27.86023,80.76584,27.86023",
-    "geom:latitude":27.86023,
-    "geom:longitude":80.76584,
+    "geom:bbox":"80.764821,27.859148,80.767261,27.860681",
+    "geom:latitude":27.859951,
+    "geom:longitude":80.766061,
     "gn:admin1_code":"36",
     "gn:admin2_code":"153.0",
     "gn:asciiname":"Safipur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.74584,27.84023,80.78584,27.88023",
+    "ks:ks_id":"KS5DA4E5FC914E4560A9ADC2CEE107A3DE",
+    "ks:ks_name":"Safeipur",
+    "ks:ks_pop":382,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|933004",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2014068",
+    "lbl:latitude":27.859914,
+    "lbl:longitude":80.766084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.859914,
+    "mps:longitude":80.766084,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09ab\u09bf\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Saf\u012bpur"
+    ],
+    "name:eng_x_preferred":[
+        "Safeipur"
+    ],
+    "name:eng_x_variant":[
+        "Safipur"
     ],
     "name:fas_x_preferred":[
         "\u0635\u0641\u06cc\u200c\u067e\u0648\u0631"
@@ -81,7 +97,13 @@
     "name:zho_x_preferred":[
         "\u8428\u83f2\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10710751
+        "gn:id":10710751,
+        "ks:id":"KS5DA4E5FC914E4560A9ADC2CEE107A3DE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9411126c99ef00679fca7598d3af192b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10f55875bae543ce26c8d133ea0048e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +130,22 @@
         }
     ],
     "wof:id":1226295451,
-    "wof:lastmodified":1566711541,
-    "wof:name":"Safipur",
+    "wof:lastmodified":1682662742,
+    "wof:name":"Safeipur",
     "wof:parent_id":1108695813,
     "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.76584,
-    27.86023,
-    80.76584,
-    27.86023
+    80.764821,
+    27.859148,
+    80.767261,
+    27.860681
 ],
-  "geometry": {"coordinates":[80.76584,27.86023],"type":"Point"}
+  "geometry": {"coordinates":[[[80.76563299999999,27.860681],[80.76563299999999,27.860591],[80.766243,27.860592],[80.766243,27.860502],[80.766649,27.860502],[80.766649,27.860412],[80.766751,27.860412],[80.766751,27.860322],[80.766853,27.860322],[80.766853,27.860232],[80.766955,27.860232],[80.766955,27.859961],[80.76705699999999,27.859961],[80.76705699999999,27.859781],[80.76715900000001,27.859781],[80.76715900000001,27.8596],[80.767261,27.859601],[80.767261,27.85942],[80.76715900000001,27.85942],[80.76716,27.85933],[80.76705800000001,27.859329],[80.76705800000001,27.859239],[80.76675400000001,27.859239],[80.76675400000001,27.859148],[80.766347,27.859148],[80.766347,27.859238],[80.765941,27.859237],[80.765941,27.859327],[80.765738,27.859327],[80.765737,27.859417],[80.765636,27.859417],[80.765636,27.859507],[80.765534,27.859507],[80.765534,27.859598],[80.765432,27.859597],[80.765432,27.859688],[80.765331,27.859688],[80.76533000000001,27.859778],[80.76522900000001,27.859778],[80.76522900000001,27.859868],[80.76512700000001,27.859868],[80.76512700000001,27.859958],[80.76502499999999,27.859958],[80.76502499999999,27.860138],[80.764923,27.860138],[80.764923,27.860228],[80.764822,27.860228],[80.764821,27.860589],[80.764922,27.86059],[80.764922,27.86068],[80.76563299999999,27.860681]]],"type":"Polygon"}
 }

@@ -13,12 +13,20 @@
     "gn:longitude":85.70742,
     "gn:population":56003,
     "iso:country":"IN",
-    "lbl:latitude":20.16433,
-    "lbl:longitude":85.698901,
+    "ks:ks_id":"KSA857B19211DD4B51988F01C67E07EA2B",
+    "ks:ks_name":"Jatani",
+    "ks:ks_pop":53251,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2098395",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1047393",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":20.163646,
+    "lbl:longitude":85.702944,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":20.152891,
-    "mps:longitude":85.703427,
+    "mps:latitude":20.163646,
+    "mps:longitude":85.702944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -46,6 +54,9 @@
     ],
     "name:hif_x_preferred":[
         "Jatani"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u091f\u093e\u0928\u0940"
     ],
     "name:ita_x_preferred":[
         "Jatani"
@@ -98,10 +109,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1609,
     "wof:belongsto":[
         102191569,
@@ -113,13 +126,16 @@
     "wof:concordances":{
         "gn:id":1269154,
         "gp:id":2290138,
+        "ks:id":"KSA857B19211DD4B51988F01C67E07EA2B",
         "qs_pg:id":1071538,
         "wd:id":"Q2352196",
         "wk:page":"Jatani"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"ea17328472cd3500ab8e11776d17b4e4",
     "wof:hierarchy":[
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":102029979,
-    "wof:lastmodified":1658780758,
+    "wof:lastmodified":1686162197,
     "wof:name":"Jatani",
     "wof:parent_id":890510673,
     "wof:placetype":"locality",
-    "wof:population":56003,
+    "wof:population":53251,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

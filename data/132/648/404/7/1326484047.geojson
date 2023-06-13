@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.30733,25.90638,85.30733,25.90638",
-    "geom:latitude":25.90638,
-    "geom:longitude":85.30733,
+    "geom:bbox":"85.306624,25.905433,85.309049,25.907858",
+    "geom:latitude":25.906748,
+    "geom:longitude":85.307779,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"220.0",
     "gn:asciiname":"Adampur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.28733,25.88638,85.32733,25.92638",
+    "ks:ks_alt_nam":"\u0100dampur",
+    "ks:ks_id":"KS339AF8DB87254C35A68A3F96E6A04EA4",
+    "ks:ks_name":"Adampur",
+    "ks:ks_pop":2617,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13520636",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1382526",
+    "lbl:latitude":25.907056,
+    "lbl:longitude":85.307962,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.907056,
+    "mps:longitude":85.307962,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062f\u0645 \u0628\u0648\u0631"
@@ -44,6 +55,12 @@
     ],
     "name:bpy_x_preferred":[
         "\u0986\u09a6\u09ae\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Adampur"
+    ],
+    "name:eng_x_variant":[
+        "\u0100dampur"
     ],
     "name:fas_x_preferred":[
         "\u0627\u062f\u0627\u0645\u067e\u0648\u0631"
@@ -105,7 +122,13 @@
     "name:zho_x_preferred":[
         "\u963f\u8fbe\u59c6\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -114,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11020567
+        "gn:id":11020567,
+        "ks:id":"KS339AF8DB87254C35A68A3F96E6A04EA4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5426bf58c34770e85710d4ec739a2371",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7385adbdfb496bd561d2a3ed68e21b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,20 +155,22 @@
         }
     ],
     "wof:id":1326484047,
-    "wof:lastmodified":1577749550,
+    "wof:lastmodified":1682878855,
     "wof:name":"Adampur",
     "wof:parent_id":890503405,
     "wof:placetype":"locality",
+    "wof:population":2617,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.30733000000002,
-    25.90638,
-    85.30733000000002,
-    25.90638
+    85.306624,
+    25.905433,
+    85.309049,
+    25.907858
 ],
-  "geometry": {"coordinates":[85.30733000000002,25.90638],"type":"Point"}
+  "geometry": {"coordinates":[[[85.30743200000001,25.905433],[85.306624,25.905433],[85.306624,25.906241],[85.306893,25.906241],[85.306893,25.90678],[85.307163,25.90678],[85.307163,25.90705],[85.30743200000001,25.90705],[85.30743200000001,25.907589],[85.30797099999999,25.907589],[85.30797099999999,25.907858],[85.309049,25.907858],[85.309049,25.90705],[85.30851,25.90705],[85.30851,25.906511],[85.30797099999999,25.906511],[85.30797099999999,25.905972],[85.30743200000001,25.905972],[85.30743200000001,25.905433]]],"type":"Polygon"}
 }

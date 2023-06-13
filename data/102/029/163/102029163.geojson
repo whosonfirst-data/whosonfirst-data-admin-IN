@@ -13,12 +13,19 @@
     "gn:longitude":80.84646,
     "gn:population":53391,
     "iso:country":"IN",
-    "lbl:latitude":16.787988,
-    "lbl:longitude":80.846905,
+    "ks:ks_id":"KS33BD852A12B54E719F6D8133CEA4B80F",
+    "ks:ks_name":"Nuzvid",
+    "ks:ks_pop":50354,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2816001441602000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_581471",
+    "lbl:latitude":16.786282,
+    "lbl:longitude":80.847848,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":16.790642,
-    "mps:longitude":80.845288,
+    "mps:latitude":16.786282,
+    "mps:longitude":80.847848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -38,6 +45,9 @@
     "name:eng_x_preferred":[
         "Nuzvid"
     ],
+    "name:eng_x_variant":[
+        "N\u016bzv\u012bd"
+    ],
     "name:fra_x_preferred":[
         "Nuzvid"
     ],
@@ -45,6 +55,9 @@
         "\u0aa8\u0ac1\u0a9d\u0ab5\u0abf\u0aa6"
     ],
     "name:hin_x_preferred":[
+        "\u0928\u0941\u095b\u094d\u0935\u093f\u0926"
+    ],
+    "name:hin_x_variant":[
         "\u0928\u0942\u091c\u093c\u094d\u0935\u0940\u0921"
     ],
     "name:ita_x_preferred":[
@@ -115,10 +128,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -129,15 +144,18 @@
     "wof:concordances":{
         "gn:id":1261110,
         "gp:id":2293860,
+        "ks:id":"KS33BD852A12B54E719F6D8133CEA4B80F",
         "qs_pg:id":1243044,
         "wd:id":"Q2734090",
         "wk:page":"Nuzvid"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
-    "wof:geomhash":"f2f666122c0b99eeb01ac1df1d688029",
+    "wof:geomhash":"4006eb275bf016aff3033ebf0c68b930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,11 +166,11 @@
         }
     ],
     "wof:id":102029163,
-    "wof:lastmodified":1658780762,
-    "wof:name":"N\u016bzv\u012bd",
+    "wof:lastmodified":1686162199,
+    "wof:name":"Nuzvid",
     "wof:parent_id":890507425,
     "wof:placetype":"locality",
-    "wof:population":53391,
+    "wof:population":50354,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -165,5 +183,5 @@
     80.861637,
     16.79767
 ],
-  "geometry": {"coordinates":[[[[80.835846,16.797536],[80.840256,16.79767],[80.842795,16.794329],[80.844398,16.793928],[80.845467,16.79767],[80.849209,16.796333],[80.850813,16.795665],[80.85816199999999,16.794463],[80.857494,16.79179],[80.859899,16.788583],[80.861637,16.785643],[80.86123600000001,16.782436],[80.85923099999999,16.77963],[80.854421,16.780966],[80.85402000000001,16.777492],[80.852817,16.775086],[80.852817,16.775086],[80.85041200000001,16.777492],[80.849075,16.779496],[80.845735,16.778561],[80.84533399999999,16.778026],[80.84520000000001,16.775754],[80.844532,16.775487],[80.841458,16.776022],[80.838786,16.780298],[80.835712,16.786712],[80.835846,16.797536]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[80.835846,16.797536],[80.840256,16.79767],[80.842795,16.794329],[80.844398,16.793928],[80.845467,16.79767],[80.849209,16.796333],[80.850813,16.795665],[80.85816199999999,16.794463],[80.857494,16.79179],[80.859899,16.788583],[80.861637,16.785643],[80.86123600000001,16.782436],[80.85923099999999,16.77963],[80.854421,16.780966],[80.85402000000001,16.777492],[80.852817,16.775086],[80.85041200000001,16.777492],[80.849075,16.779496],[80.845735,16.778561],[80.84533399999999,16.778026],[80.84520000000001,16.775754],[80.844532,16.775487],[80.841458,16.776022],[80.838786,16.780298],[80.835712,16.786712],[80.835846,16.797536]]]],"type":"MultiPolygon"}
 }

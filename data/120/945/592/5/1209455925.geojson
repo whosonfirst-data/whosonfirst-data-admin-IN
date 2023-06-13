@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.40987,25.2213,87.40987,25.2213",
-    "geom:latitude":25.2213,
-    "geom:longitude":87.40987,
+    "geom:bbox":"87.408257,25.210161,87.409351,25.211245",
+    "geom:latitude":25.210718,
+    "geom:longitude":87.4088,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"224.0",
     "gn:asciiname":"Masuria",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.38987,25.2013,87.42987,25.2413",
+    "ks:ks_id":"KS938D8FB1DB8F46C9A7C48B3AA9873CCB",
+    "ks:ks_name":"Masuria",
+    "ks:ks_pop":1106,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|684446",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2101606",
+    "lbl:latitude":25.210734,
+    "lbl:longitude":87.40879,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.210734,
+    "mps:longitude":87.40879,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Masuri\u00eb"
@@ -53,6 +63,9 @@
     ],
     "name:dsb_x_preferred":[
         "Mazurska"
+    ],
+    "name:eng_x_preferred":[
+        "Masuria"
     ],
     "name:eus_x_preferred":[
         "Masuria"
@@ -117,37 +130,55 @@
     "name:zho_x_preferred":[
         "\u99ac\u7956\u91cc\u4e9e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672213,
+        1108696103
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996082
+        "gn:id":10996082,
+        "ks:id":"KS938D8FB1DB8F46C9A7C48B3AA9873CCB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6c196482bf099754b6a2160e8e54be40",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13939042ef6aa172cacaa20fd1bb6445",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209455925
+            "county_id":1108696103,
+            "locality_id":1209455925,
+            "region_id":85672213
         }
     ],
     "wof:id":1209455925,
-    "wof:lastmodified":1566696779,
+    "wof:lastmodified":1682619214,
     "wof:name":"Masuria",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":1106,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.40987,
-    25.2213,
-    87.40987,
-    25.2213
+    87.408257,
+    25.210161,
+    87.409351,
+    25.211245
 ],
-  "geometry": {"coordinates":[87.40987,25.2213],"type":"Point"}
+  "geometry": {"coordinates":[[[87.409351,25.211243],[87.409351,25.210972],[87.409251,25.210973],[87.40925,25.210702],[87.40915099999999,25.210702],[87.40915099999999,25.210521],[87.40905100000001,25.210522],[87.40905100000001,25.210341],[87.408951,25.210341],[87.408951,25.210251],[87.408852,25.210251],[87.408851,25.210161],[87.40845400000001,25.210162],[87.408455,25.210252],[87.408355,25.210253],[87.408356,25.210343],[87.40825700000001,25.210343],[87.40825700000001,25.210614],[87.408357,25.210614],[87.408357,25.210795],[87.408457,25.210794],[87.408457,25.210975],[87.408556,25.210975],[87.408557,25.211065],[87.40865599999999,25.211065],[87.40865599999999,25.211155],[87.408756,25.211155],[87.408756,25.211245],[87.409351,25.211243]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10711257
     },
     "wof:country":"IN",
-    "wof:geomhash":"32e7e39781ebfa249f6f9abb565def2a",
+    "wof:geomhash":"cfe4e65ce13ca99e9e2d7c7c497ae52d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209167053
+            "county_id":1108695815,
+            "locality_id":1209167053,
+            "region_id":85672205
         }
     ],
     "wof:id":1209167053,
-    "wof:lastmodified":1566696569,
+    "wof:lastmodified":1682609008,
     "wof:name":"Khizr Purwa",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847146301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     80.90978,
-    27.64707000000001,
+    27.64707,
     80.90978,
-    27.64707000000001
+    27.64707
 ],
-  "geometry": {"coordinates":[80.90978,27.64707000000001],"type":"Point"}
+  "geometry": {"coordinates":[80.90978,27.64707],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.71896,25.57193,81.71896,25.57193",
-    "geom:latitude":25.57193,
-    "geom:longitude":81.71896,
+    "geom:bbox":"81.716956,25.569912,81.720998,25.574763",
+    "geom:latitude":25.572208,
+    "geom:longitude":81.7188,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"175.0",
     "gn:asciiname":"Muzaffarpur",
@@ -24,11 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.69896,25.55193,81.73896,25.59193",
+    "ks:ks_id":"KS03FA9D23D1C64D60B0DC29D68D5B8B13",
+    "ks:ks_name":"Muzaffarpur",
+    "ks:ks_source_id":"N|13099932",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_804964",
+    "lbl:latitude":25.572289,
+    "lbl:longitude":81.718294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.572289,
+    "mps:longitude":81.718294,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0638\u0641\u0631\u0628\u0648\u0631"
@@ -60,6 +68,9 @@
     "name:deu_x_preferred":[
         "Muzaffarpur"
     ],
+    "name:eng_x_preferred":[
+        "Muzaffarpur"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0638\u0641\u0631\u067e\u0648\u0631"
     ],
@@ -79,6 +90,9 @@
         "\u05de\u05d5\u05d6\u05d0\u05e4\u05d0\u05e8\u05e4\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
+        "\u092e\u0941\u095b\u095e\u094d\u095e\u0930\u092a\u0941\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u092e\u0941\u091c\u092b\u094d\u092b\u0930\u092a\u0941\u0930"
     ],
     "name:hun_x_preferred":[
@@ -177,7 +191,11 @@
     "name:zho_x_preferred":[
         "\u7a46\u624e\u592b\u6cd5\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -186,10 +204,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10667407
+        "gn:id":10667407,
+        "ks:id":"KS03FA9D23D1C64D60B0DC29D68D5B8B13"
     },
     "wof:country":"IN",
-    "wof:geomhash":"28aeac438d70ca5890612499e73e6879",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29cd7535f308a24c19e5204695c0be21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +222,7 @@
         }
     ],
     "wof:id":1343997461,
-    "wof:lastmodified":1636505291,
+    "wof:lastmodified":1686162235,
     "wof:name":"Muzaffarpur",
     "wof:parent_id":1108695845,
     "wof:placetype":"locality",
@@ -210,10 +232,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.71896,
-    25.57193,
-    81.71896,
-    25.57193
+    81.716956,
+    25.569912,
+    81.720998,
+    25.574763
 ],
-  "geometry": {"coordinates":[81.71896,25.57193],"type":"Point"}
+  "geometry": {"coordinates":[[[81.718842,25.574763],[81.718842,25.574224],[81.719112,25.574224],[81.719112,25.572338],[81.719381,25.572338],[81.719381,25.571799],[81.719651,25.571799],[81.719651,25.572068],[81.71992,25.572068],[81.71992,25.571799],[81.72099799999999,25.571799],[81.72099799999999,25.57126],[81.72072900000001,25.57126],[81.72072900000001,25.57099],[81.72045900000001,25.57099],[81.72045900000001,25.570721],[81.72019,25.570721],[81.72019,25.569912],[81.719651,25.569912],[81.719651,25.570451],[81.719112,25.570451],[81.719112,25.570721],[81.71857300000001,25.570721],[81.71857300000001,25.57126],[81.718034,25.57126],[81.718034,25.571529],[81.717495,25.571529],[81.717495,25.571799],[81.717225,25.571799],[81.717225,25.572068],[81.716956,25.572068],[81.716956,25.573146],[81.718034,25.573146],[81.718034,25.573685],[81.71830300000001,25.573685],[81.71830300000001,25.574224],[81.717764,25.574224],[81.717764,25.574763],[81.718842,25.574763]]],"type":"Polygon"}
 }

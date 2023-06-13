@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.52124,10.01337,76.52124,10.01337",
-    "geom:latitude":10.01337,
-    "geom:longitude":76.52124,
+    "geom:bbox":"76.523256,10.009026,76.524603,10.010373",
+    "geom:latitude":10.009507,
+    "geom:longitude":76.523833,
     "gn:admin1_code":"13.0",
     "gn:admin2_code":"595.0",
     "gn:asciiname":"Nelladu",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.50124,9.99337,76.54124,10.03337",
+    "ks:ks_id":"KSA9315BC6989B45A990AA52BF07B37F40",
+    "ks:ks_name":"Nellad",
+    "ks:ks_pop":1080,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|777341",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_127580",
+    "lbl:latitude":10.009491,
+    "lbl:longitude":76.523767,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":10.009491,
+    "mps:longitude":76.523767,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Nellad"
+    ],
+    "name:eng_x_variant":[
+        "Nelladu"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11499860
+        "gn:id":11499860,
+        "ks:id":"KSA9315BC6989B45A990AA52BF07B37F40"
     },
     "wof:country":"IN",
-    "wof:geomhash":"269a4a96b82f920c6ebbbd9eaf68d144",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9ca38c824179838d180905cca735a114",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1242853683,
-    "wof:lastmodified":1566707795,
-    "wof:name":"Nelladu",
+    "wof:lastmodified":1682695293,
+    "wof:name":"Nellad",
     "wof:parent_id":890511191,
     "wof:placetype":"locality",
+    "wof:population":1080,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.52124,
-    10.01337,
-    76.52124,
-    10.01337
+    76.523256,
+    10.009026,
+    76.524603,
+    10.010373
 ],
-  "geometry": {"coordinates":[76.52124000000001,10.01337],"type":"Point"}
+  "geometry": {"coordinates":[[[76.52352500000001,10.010373],[76.52352500000001,10.009834],[76.524064,10.009834],[76.524064,10.009565],[76.524603,10.009565],[76.524603,10.009026],[76.52352500000001,10.009026],[76.52352500000001,10.009295],[76.523256,10.009295],[76.523256,10.010373],[76.52352500000001,10.010373]]],"type":"Polygon"}
 }

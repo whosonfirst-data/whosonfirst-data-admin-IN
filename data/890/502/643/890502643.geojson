@@ -14,11 +14,20 @@
     "gn:population":60020,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"86.57527,26.09503,86.61527,26.13503",
-    "lbl:latitude":26.115605,
-    "lbl:longitude":86.595859,
+    "ks:ks_id":"KS1CF6A104726B4981A8B1F486692DB5AC",
+    "ks:ks_name":"Supaul",
+    "ks:ks_pop":54085,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1006000940603000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_2123038",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":26.120182,
+    "lbl:longitude":86.598191,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
+    "mps:latitude":26.120182,
+    "mps:longitude":86.598191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -121,10 +130,12 @@
     "reversegeo:longitude":86.595859,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191569,
@@ -136,12 +147,17 @@
     "wof:concordances":{
         "gn:id":1255396,
         "gp:id":2288943,
+        "ks:id":"KS1CF6A104726B4981A8B1F486692DB5AC",
         "qs_pg:id":1309397,
         "wd:id":"Q2341909",
         "wk:page":"Supaul"
     },
     "wof:country":"IN",
     "wof:created":1469055352,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"9bbec0c2711f513be420687ec53dfd4a",
     "wof:hierarchy":[
         {
@@ -153,11 +169,11 @@
         }
     ],
     "wof:id":890502643,
-    "wof:lastmodified":1658780792,
+    "wof:lastmodified":1686163883,
     "wof:name":"Supaul",
     "wof:parent_id":1108695903,
     "wof:placetype":"locality",
-    "wof:population":60020,
+    "wof:population":54085,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

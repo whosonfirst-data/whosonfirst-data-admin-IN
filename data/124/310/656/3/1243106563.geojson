@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.16917,27.21143,81.16917,27.21143",
-    "geom:latitude":27.21143,
-    "geom:longitude":81.16917,
+    "geom:bbox":"81.1681,27.210498,81.170019,27.212033",
+    "geom:latitude":27.21123,
+    "geom:longitude":81.16901,
     "gn:admin1_code":"36",
     "gn:admin2_code":"176.0",
     "gn:asciiname":"Barela",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.14917,27.19143,81.18917,27.23143",
+    "ks:ks_id":"KSDEB6A49078724040BBFE61F8EC65A6D8",
+    "ks:ks_name":"Badela",
+    "ks:ks_pop":139,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0946000105707900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1894666",
+    "lbl:latitude":27.211221,
+    "lbl:longitude":81.16901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.211221,
+    "mps:longitude":81.16901,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09b0\u09c7\u09b2\u09be"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Barel\u0101"
+    ],
+    "name:eng_x_preferred":[
+        "Badela"
+    ],
+    "name:eng_x_variant":[
+        "Barela"
     ],
     "name:ita_x_preferred":[
         "Barela"
@@ -63,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u96f7\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10724240
+        "gn:id":10724240,
+        "ks:id":"KSDEB6A49078724040BBFE61F8EC65A6D8"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7bd8dd50493feb7c9f949a4f8339b1fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d914ff299d9187f9003ba04c5f35388",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +112,22 @@
         }
     ],
     "wof:id":1243106563,
-    "wof:lastmodified":1566708519,
-    "wof:name":"Barela",
+    "wof:lastmodified":1682702832,
+    "wof:name":"Badela",
     "wof:parent_id":1108695847,
     "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.16917,
-    27.21143,
-    81.16917,
-    27.21143
+    81.1681,
+    27.210498,
+    81.170019,
+    27.212033
 ],
-  "geometry": {"coordinates":[81.16916999999999,27.21143],"type":"Point"}
+  "geometry": {"coordinates":[[[81.169313,27.212033],[81.169313,27.211942],[81.169515,27.211942],[81.169515,27.211852],[81.169616,27.211852],[81.169616,27.211762],[81.16971700000001,27.211761],[81.16971700000001,27.211671],[81.16981800000001,27.211671],[81.16981699999999,27.21149],[81.169918,27.21149],[81.169918,27.21131],[81.170019,27.21131],[81.170019,27.211219],[81.169918,27.211219],[81.169918,27.211039],[81.16981699999999,27.211039],[81.16981699999999,27.210949],[81.16971599999999,27.210949],[81.169715,27.210768],[81.169614,27.210768],[81.169614,27.210678],[81.16951299999999,27.210678],[81.16951299999999,27.210588],[81.16931099999999,27.210588],[81.16931099999999,27.210498],[81.168604,27.210499],[81.168604,27.210589],[81.168402,27.210589],[81.168403,27.21068],[81.168201,27.21068],[81.168201,27.21086],[81.1681,27.210861],[81.16810099999999,27.211402],[81.16820199999999,27.211402],[81.16820199999999,27.211492],[81.16830299999999,27.211492],[81.16830299999999,27.211673],[81.168404,27.211673],[81.168404,27.211763],[81.168505,27.211763],[81.168505,27.211853],[81.168707,27.211853],[81.168707,27.211943],[81.16901,27.211943],[81.16901,27.212033],[81.169313,27.212033]]],"type":"Polygon"}
 }

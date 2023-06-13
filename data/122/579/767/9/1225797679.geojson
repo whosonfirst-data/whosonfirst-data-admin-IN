@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.38383,28.87629,79.38383,28.87629",
-    "geom:latitude":28.87629,
-    "geom:longitude":79.38383,
+    "geom:bbox":"79.379996,28.878131,79.381418,28.880303",
+    "geom:latitude":28.879072,
+    "geom:longitude":79.38079,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"136.0",
     "gn:asciiname":"Khata",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.36383,28.85629,79.40383,28.89629",
+    "ks:ks_alt_nam":"Kh\u0101ta",
+    "ks:ks_id":"KS62B163039C134BD88BC87FA2C6312A97",
+    "ks:ks_name":"Khata",
+    "ks:ks_pop":498,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|551907",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1823550",
+    "lbl:latitude":28.878879,
+    "lbl:longitude":79.38079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":28.878879,
+    "mps:longitude":79.38079,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "\u0f41\u0f0b\u0f56\u0f4f\u0f42\u0f66\u0f0d"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Khata"
+    ],
+    "name:eng_x_preferred":[
+        "Khata"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u0101ta"
     ],
     "name:epo_x_preferred":[
         "Khato"
@@ -66,7 +83,13 @@
     "name:tyv_x_preferred":[
         "\u041a\u0430\u0434\u0430\u043a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10824352
+        "gn:id":10824352,
+        "ks:id":"KS62B163039C134BD88BC87FA2C6312A97"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c50924dc848a6cbe49d4e319d0ec0715",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3e8a657ac8bcdf92d2e8d0c68f65efcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1225797679,
-    "wof:lastmodified":1566713705,
+    "wof:lastmodified":1682643774,
     "wof:name":"Khata",
     "wof:parent_id":890508875,
     "wof:placetype":"locality",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.38383,
-    28.87629,
-    79.38383,
-    28.87629
+    79.379996,
+    28.878131,
+    79.381418,
+    28.880303
 ],
-  "geometry": {"coordinates":[79.38383,28.87629],"type":"Point"}
+  "geometry": {"coordinates":[[[79.38130700000001,28.880303],[79.38131,28.880123],[79.38141299999999,28.880124],[79.381418,28.879763],[79.381316,28.879762],[79.381325,28.87913],[79.38122300000001,28.879129],[79.381231,28.878588],[79.381129,28.878587],[79.381134,28.878226],[79.380827,28.878222],[79.38082799999999,28.878132],[79.380726,28.878131],[79.380724,28.878221],[79.380314,28.878216],[79.380313,28.878306],[79.38010800000001,28.878304],[79.380106,28.878394],[79.380004,28.878393],[79.37999600000001,28.878934],[79.380098,28.878935],[79.38009700000001,28.879025],[79.380199,28.879027],[79.38019799999999,28.879117],[79.380403,28.879119],[79.38040100000001,28.87921],[79.380504,28.879211],[79.380503,28.879301],[79.380605,28.879302],[79.38060400000001,28.879392],[79.380706,28.879394],[79.380701,28.879755],[79.380803,28.879756],[79.380799,28.880027],[79.38090099999999,28.880028],[79.3809,28.880118],[79.381002,28.880119],[79.381,28.8803],[79.38130700000001,28.880303]]],"type":"Polygon"}
 }

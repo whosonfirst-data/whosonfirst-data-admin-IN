@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.73522,20.70129,77.73522,20.70129",
-    "geom:latitude":20.70129,
-    "geom:longitude":77.73522,
+    "geom:bbox":"77.734789,20.700652,77.735945,20.702107",
+    "geom:latitude":20.701395,
+    "geom:longitude":77.735349,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Singoli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.71522,20.68129,77.75522,20.72129",
+    "ks:ks_id":"KS40747E8AB1CC49B49FA31E20EA9C32EB",
+    "ks:ks_name":"Shingoli",
+    "ks:ks_pop":141,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|982808",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_872856",
+    "lbl:latitude":20.701412,
+    "lbl:longitude":77.735338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.701412,
+    "mps:longitude":77.735338,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0999\u09cd\u0997\u09cb\u09b2\u09bf"
@@ -37,6 +47,12 @@
         "\u09b8\u09bf\u0999\u09cd\u0997\u09cb\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Singoli"
+    ],
+    "name:eng_x_preferred":[
+        "Shingoli"
+    ],
+    "name:eng_x_variant":[
         "Singoli"
     ],
     "name:ita_x_preferred":[
@@ -60,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u8f9b\u683c\u5965\u5229"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10507886
+        "gn:id":10507886,
+        "ks:id":"KS40747E8AB1CC49B49FA31E20EA9C32EB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3c1878e9161d04b15eea2f83d908c47a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"21333b2fcff8de16b84e024234899f27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +109,22 @@
         }
     ],
     "wof:id":1259843451,
-    "wof:lastmodified":1566709530,
-    "wof:name":"Singoli",
+    "wof:lastmodified":1682741712,
+    "wof:name":"Shingoli",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.73522,
-    20.70129,
-    77.73522,
-    20.70129
+    77.734789,
+    20.700652,
+    77.735945,
+    20.702107
 ],
-  "geometry": {"coordinates":[77.73522,20.70129],"type":"Point"}
+  "geometry": {"coordinates":[[[77.735477,20.702099],[77.73547499999999,20.702009],[77.73557099999999,20.702007],[77.735569,20.701917],[77.735665,20.701916],[77.735664,20.701825],[77.73576,20.701824],[77.735758,20.701733],[77.735854,20.701732],[77.735849,20.701461],[77.735945,20.70146],[77.735938,20.701099],[77.735843,20.7011],[77.735838,20.700829],[77.735742,20.700831],[77.73574000000001,20.700741],[77.73564399999999,20.700742],[77.735643,20.700652],[77.735259,20.700658],[77.73526099999999,20.700748],[77.73516499999999,20.70075],[77.73516600000001,20.70084],[77.73506999999999,20.700842],[77.735072,20.700932],[77.734976,20.700933],[77.734978,20.701024],[77.734882,20.701025],[77.73488500000001,20.701206],[77.73478900000001,20.701207],[77.734802,20.701929],[77.734898,20.701928],[77.7349,20.702018],[77.734995,20.702016],[77.73499700000001,20.702107],[77.735477,20.702099]]],"type":"Polygon"}
 }

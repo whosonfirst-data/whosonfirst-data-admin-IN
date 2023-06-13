@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.06058,23.27146,80.06058,23.27146",
-    "geom:latitude":23.27146,
-    "geom:longitude":80.06058,
+    "geom:bbox":"80.059496,23.270486,80.061749,23.272298",
+    "geom:latitude":23.271459,
+    "geom:longitude":80.060632,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Sakri",
@@ -24,16 +24,36 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.04058,23.25146,80.08058,23.29146",
+    "ks:ks_alt_nam":"S\u0101kri",
+    "ks:ks_id":"KSDA42B6CDF6C94B7A9BDCE3E564995ECD",
+    "ks:ks_name":"Sakri",
+    "ks:ks_pop":250,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|940062",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1000922",
+    "lbl:latitude":23.271457,
+    "lbl:longitude":80.060723,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.271457,
+    "mps:longitude":80.060723,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sakri"
+    ],
+    "name:eng_x_variant":[
+        "S\u0101kri"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a95\u0acd\u0ab0\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u0938\u0915\u0930\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0938\u093e\u0915\u094d\u0930\u0940"
     ],
     "name:mal_x_preferred":[
@@ -45,7 +65,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u06a9\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10674552
+        "gn:id":10674552,
+        "ks:id":"KSDA42B6CDF6C94B7A9BDCE3E564995ECD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2efb00d9b9cb83d68e28b2a467baa0e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a606c45c7b37caae92f7b0900c967f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +98,22 @@
         }
     ],
     "wof:id":1277116943,
-    "wof:lastmodified":1566694365,
+    "wof:lastmodified":1686162692,
     "wof:name":"Sakri",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.06058,
-    23.27146,
-    80.06058,
-    23.27146
+    80.059496,
+    23.270486,
+    80.061749,
+    23.272298
 ],
-  "geometry": {"coordinates":[80.06058,23.27146],"type":"Point"}
+  "geometry": {"coordinates":[[[80.06105700000001,23.272298],[80.061058,23.272208],[80.06125400000001,23.272209],[80.06125400000001,23.272118],[80.061352,23.272119],[80.061353,23.271938],[80.06145100000001,23.271939],[80.061452,23.271849],[80.061549,23.271849],[80.06155099999999,23.271669],[80.06164800000001,23.271669],[80.06165,23.271398],[80.06174799999999,23.271399],[80.06174900000001,23.271309],[80.061651,23.271308],[80.061652,23.271127],[80.061555,23.271127],[80.061555,23.271036],[80.061457,23.271036],[80.061458,23.270945],[80.06135999999999,23.270945],[80.06136100000001,23.270855],[80.061263,23.270854],[80.06126399999999,23.270764],[80.061166,23.270763],[80.061167,23.270673],[80.061069,23.270672],[80.06107,23.270582],[80.060874,23.270581],[80.060875,23.27049],[80.06019000000001,23.270486],[80.06019000000001,23.270577],[80.060092,23.270576],[80.060091,23.270757],[80.05999300000001,23.270756],[80.05999,23.271208],[80.059892,23.271207],[80.05989099999999,23.271388],[80.059793,23.271387],[80.059792,23.271477],[80.059597,23.271476],[80.059595,23.271747],[80.05949699999999,23.271747],[80.059496,23.271927],[80.059594,23.271928],[80.05959300000001,23.272018],[80.059691,23.272019],[80.05969,23.272109],[80.059788,23.27211],[80.059787,23.2722],[80.06008,23.272202],[80.06008,23.272292],[80.06105700000001,23.272298]]],"type":"Polygon"}
 }

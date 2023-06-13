@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.36335,25.67784,83.36335,25.67784",
-    "geom:latitude":25.67784,
-    "geom:longitude":83.36335,
+    "geom:bbox":"83.357636,25.678391,83.359343,25.679487",
+    "geom:latitude":25.67894,
+    "geom:longitude":83.358617,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Badshahpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.34335,25.65784,83.38335,25.69784",
+    "ks:ks_id":"KS71AFB91CC07B4F9DAA39017F68A92841",
+    "ks:ks_name":"Badshah Pur",
+    "ks:ks_pop":623,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0965000109688800",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1944503",
+    "lbl:latitude":25.678988,
+    "lbl:longitude":83.358719,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.678988,
+    "mps:longitude":83.358719,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062f\u0634\u0627\u0647\u0628\u0648\u0631"
@@ -41,6 +51,12 @@
     ],
     "name:ceb_x_preferred":[
         "B\u0101dsh\u0101hpur"
+    ],
+    "name:eng_x_preferred":[
+        "Badshah Pur"
+    ],
+    "name:eng_x_variant":[
+        "Badshahpur"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa6\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0"
@@ -72,37 +88,55 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u062f\u0634\u0627\u06c1 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695877
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10502253
+        "gn:id":10502253,
+        "ks:id":"KS71AFB91CC07B4F9DAA39017F68A92841"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f9c6e92f421fa4d71eb8c0db78ff4c3d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"186667f500230e744cf0af394d1e89eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209257961
+            "county_id":1108695877,
+            "locality_id":1209257961,
+            "region_id":85672205
         }
     ],
     "wof:id":1209257961,
-    "wof:lastmodified":1577750846,
-    "wof:name":"Badshahpur",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682611604,
+    "wof:name":"Badshah Pur",
+    "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.36335,
-    25.67784,
-    83.36335,
-    25.67784
+    83.357636,
+    25.678391,
+    83.359343,
+    25.679487
 ],
-  "geometry": {"coordinates":[83.36335,25.67784],"type":"Point"}
+  "geometry": {"coordinates":[[[83.359145,25.679474],[83.359144,25.679383],[83.359343,25.67938],[83.359334,25.678929],[83.359234,25.678931],[83.359229,25.67866],[83.359329,25.678658],[83.35932699999999,25.678568],[83.359227,25.67857],[83.359225,25.67848],[83.359126,25.678481],[83.35912399999999,25.678391],[83.358626,25.678399],[83.358628,25.678489],[83.35852800000001,25.678491],[83.35853,25.678581],[83.35773399999999,25.678594],[83.35773500000001,25.678684],[83.357636,25.678686],[83.357641,25.678956],[83.357741,25.678955],[83.357743,25.679045],[83.358141,25.679039],[83.358143,25.679129],[83.358242,25.679127],[83.358248,25.679398],[83.35834699999999,25.679396],[83.358349,25.679487],[83.359145,25.679474]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.4862,25.1535,87.4862,25.1535",
-    "geom:latitude":25.1535,
-    "geom:longitude":87.4862,
+    "geom:bbox":"87.48441,25.152735,87.487643,25.154082",
+    "geom:latitude":25.153351,
+    "geom:longitude":87.485909,
     "gn:admin1_code":"38.0",
     "gn:admin2_code":"351.0",
     "gn:asciiname":"Amarpur",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.4662,25.1335,87.5062,25.1735",
+    "ks:ks_id":"KSE64FD38851EA488BB8F513387645ED75",
+    "ks:ks_name":"Amarpur",
+    "ks:ks_pop":1295,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|28870",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1498212",
+    "lbl:latitude":25.153408,
+    "lbl:longitude":87.485747,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.153408,
+    "mps:longitude":87.485747,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Amarpur"
+    ],
+    "name:eng_x_preferred":[
         "Amarpur"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +61,13 @@
     "name:swe_x_preferred":[
         "Amarpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10996251
+        "gn:id":10996251,
+        "ks:id":"KSE64FD38851EA488BB8F513387645ED75"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7855fb0874d4afa183a4569c9eac1323",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1feebc9ade025f0b44adafcf54aaf5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1242716601,
-    "wof:lastmodified":1566707827,
+    "wof:lastmodified":1682688744,
     "wof:name":"Amarpur",
     "wof:parent_id":1108696103,
     "wof:placetype":"locality",
+    "wof:population":1295,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.4862,
-    25.1535,
-    87.4862,
-    25.1535
+    87.48441,
+    25.152735,
+    87.487643,
+    25.154082
 ],
-  "geometry": {"coordinates":[87.4862,25.1535],"type":"Point"}
+  "geometry": {"coordinates":[[[87.486296,25.154082],[87.486296,25.153813],[87.487104,25.153813],[87.487104,25.153543],[87.487374,25.153543],[87.487374,25.153274],[87.48764300000001,25.153274],[87.48764300000001,25.153004],[87.487374,25.153004],[87.487374,25.152735],[87.484949,25.152735],[87.484949,25.153004],[87.48441,25.153004],[87.48441,25.154082],[87.484679,25.154082],[87.484679,25.153813],[87.485218,25.153813],[87.485218,25.154082],[87.486296,25.154082]]],"type":"Polygon"}
 }

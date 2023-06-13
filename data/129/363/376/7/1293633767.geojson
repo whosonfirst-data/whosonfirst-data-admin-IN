@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.53841,26.21394,78.53841,26.21394",
-    "geom:latitude":26.21394,
-    "geom:longitude":78.53841,
+    "geom:bbox":"78.537164,26.213208,78.539473,26.214572",
+    "geom:latitude":26.21385,
+    "geom:longitude":78.53826,
     "gn:admin1_code":"35",
     "gn:admin2_code":"421.0",
     "gn:asciiname":"Ari",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.51841,26.19394,78.55841,26.23394",
+    "ks:ks_id":"KS1139A36826904AFC856301AB36784E0A",
+    "ks:ks_name":"Ari",
+    "ks:ks_pop":147,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|45318",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1730536",
+    "lbl:latitude":26.213891,
+    "lbl:longitude":78.538123,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.213891,
+    "mps:longitude":78.538123,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ari"
     ],
     "name:ceb_x_preferred":[
+        "Ari"
+    ],
+    "name:eng_x_preferred":[
         "Ari"
     ],
     "name:heb_x_preferred":[
@@ -72,7 +85,13 @@
     "name:zho_x_preferred":[
         "Ari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +100,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10499713
+        "gn:id":10499713,
+        "ks:id":"KS1139A36826904AFC856301AB36784E0A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c67045bbf4e82122696b7b06a72cea59",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a783ddec8f3888a7798fb3c23551b7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +118,22 @@
         }
     ],
     "wof:id":1293633767,
-    "wof:lastmodified":1566689552,
+    "wof:lastmodified":1682825607,
     "wof:name":"Ari",
     "wof:parent_id":890509001,
     "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.53841,
-    26.21394,
-    78.53841,
-    26.21394
+    78.537164,
+    26.213208,
+    78.539473,
+    26.214572
 ],
-  "geometry": {"coordinates":[78.53841,26.21394],"type":"Point"}
+  "geometry": {"coordinates":[[[78.538352,26.214572],[78.538354,26.214481],[78.53865399999999,26.214486],[78.538656,26.214396],[78.538856,26.2144],[78.538858,26.214309],[78.539058,26.214313],[78.53906000000001,26.214223],[78.53916,26.214224],[78.539162,26.214134],[78.53926199999999,26.214136],[78.539264,26.214046],[78.53936400000001,26.214047],[78.539368,26.213867],[78.539468,26.213869],[78.539473,26.213598],[78.539373,26.213596],[78.53937500000001,26.213506],[78.539275,26.213504],[78.539277,26.213414],[78.539177,26.213412],[78.539179,26.213322],[78.538579,26.213312],[78.53858099999999,26.213222],[78.537781,26.213208],[78.537779,26.213298],[78.537379,26.213291],[78.53737700000001,26.213382],[78.537277,26.21338],[78.537273,26.21356],[78.537173,26.213559],[78.537164,26.21401],[78.53726399999999,26.214011],[78.53726,26.214192],[78.53736000000001,26.214194],[78.537358,26.214284],[78.537458,26.214285],[78.53745600000001,26.214376],[78.537556,26.214377],[78.537554,26.214468],[78.537854,26.214473],[78.537852,26.214563],[78.538352,26.214572]]],"type":"Polygon"}
 }

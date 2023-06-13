@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.57003,25.49219,81.57003,25.49219",
-    "geom:latitude":25.49219,
-    "geom:longitude":81.57003,
+    "geom:bbox":"81.569273,25.491489,81.57089,25.493106",
+    "geom:latitude":25.49223,
+    "geom:longitude":81.570122,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"174.0",
     "gn:asciiname":"Sirsi",
@@ -24,14 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.55003,25.47219,81.59003,25.51219",
+    "ks:ks_id":"KS0699ABEB592D4CD6B33C077EC06821CC",
+    "ks:ks_name":"Sirsi",
+    "ks:ks_pop":840,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|998392",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_801812",
+    "lbl:latitude":25.492298,
+    "lbl:longitude":81.570122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.492298,
+    "mps:longitude":81.570122,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sirsi"
+    ],
+    "name:eng_x_preferred":[
+        "Sirsi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0930\u0938\u0940"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cbf\u0cb0\u0cb8\u0cbf"
     ],
     "name:pol_x_preferred":[
         "Sirsi"
@@ -42,7 +61,13 @@
     "name:vie_x_preferred":[
         "Sirsi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10679362
+        "gn:id":10679362,
+        "ks:id":"KS0699ABEB592D4CD6B33C077EC06821CC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d41868c544160d4f06eb101949b80831",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee2bce2d498cb5ecf31506b3372a3ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +94,22 @@
         }
     ],
     "wof:id":1259522763,
-    "wof:lastmodified":1566709302,
+    "wof:lastmodified":1686165648,
     "wof:name":"Sirsi",
     "wof:parent_id":1108695841,
     "wof:placetype":"locality",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.57003,
-    25.49219,
-    81.57003,
-    25.49219
+    81.569273,
+    25.491489,
+    81.57089,
+    25.493106
 ],
-  "geometry": {"coordinates":[81.57003,25.49219],"type":"Point"}
+  "geometry": {"coordinates":[[[81.570081,25.491489],[81.569273,25.491489],[81.569273,25.492298],[81.569812,25.492298],[81.569812,25.492567],[81.570351,25.492567],[81.570351,25.493106],[81.57089000000001,25.493106],[81.57089000000001,25.492028],[81.570081,25.492028],[81.570081,25.491489]]],"type":"Polygon"}
 }

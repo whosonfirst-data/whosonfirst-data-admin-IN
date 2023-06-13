@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.72325,30.84759,76.72325,30.84759",
-    "geom:latitude":30.84759,
-    "geom:longitude":76.72325,
+    "geom:bbox":"76.725917,30.849252,76.726967,30.849893",
+    "geom:latitude":30.84957,
+    "geom:longitude":76.726409,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"52.0",
     "gn:asciiname":"Sultanpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.70325,30.82759,76.74325,30.86759",
+    "ks:ks_id":"KS257109761DEF4229A46E2B6EFE72D19C",
+    "ks:ks_name":"Sultanpur",
+    "ks:ks_pop":117,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0307000300703200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2653496",
+    "lbl:latitude":30.849572,
+    "lbl:longitude":76.726409,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.849572,
+    "mps:longitude":76.726409,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u0628\u0648\u0631"
@@ -52,6 +62,9 @@
         "Sultanpur"
     ],
     "name:deu_x_preferred":[
+        "Sultanpur"
+    ],
+    "name:eng_x_preferred":[
         "Sultanpur"
     ],
     "name:guj_x_preferred":[
@@ -99,7 +112,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -108,10 +127,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10435874
+        "gn:id":10435874,
+        "ks:id":"KS257109761DEF4229A46E2B6EFE72D19C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9c09f7e7e20ee2ae53fae10f4d5a9a26",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68f49e61c60b741b994e3c7b381b2bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,20 +145,22 @@
         }
     ],
     "wof:id":1209172231,
-    "wof:lastmodified":1577751024,
+    "wof:lastmodified":1686162848,
     "wof:name":"Sultanpur",
     "wof:parent_id":1108695747,
     "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.72325,
-    30.84759,
-    76.72325,
-    30.84759
+    76.725917,
+    30.849252,
+    76.726967,
+    30.849893
 ],
-  "geometry": {"coordinates":[76.72324999999999,30.84759],"type":"Point"}
+  "geometry": {"coordinates":[[[76.726658,30.849884],[76.726657,30.849794],[76.726866,30.849791],[76.72686299999999,30.849611],[76.726967,30.84961],[76.726964,30.849429],[76.726859,30.849431],[76.72685799999999,30.84934],[76.726753,30.849342],[76.726752,30.849252],[76.726124,30.84926],[76.72612599999999,30.84935],[76.725917,30.849353],[76.725925,30.849804],[76.726029,30.849802],[76.72603100000001,30.849893],[76.726658,30.849884]]],"type":"Polygon"}
 }

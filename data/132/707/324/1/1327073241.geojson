@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.39147,29.58132,77.39147,29.58132",
-    "geom:latitude":29.58132,
-    "geom:longitude":77.39147,
+    "geom:bbox":"77.389385,29.581074,77.390741,29.58199",
+    "geom:latitude":29.581541,
+    "geom:longitude":77.39001,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"133",
     "gn:asciiname":"Abadgarh",
@@ -24,16 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.37147,29.56132,77.41147,29.60132",
+    "ks:ks_id":"KS22605C5E2F844DB590F1EFEFC741CFB5",
+    "ks:ks_name":"Abadgarh",
+    "ks:ks_pop":610,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1174777",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1835307",
+    "lbl:latitude":29.581575,
+    "lbl:longitude":77.39001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.581575,
+    "mps:longitude":77.39001,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Abadgarh"
+    ],
     "name:und_x_variant":[
         "\u0100b\u0101dgarh"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -43,10 +62,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1441656,
+        "ks:id":"KS22605C5E2F844DB590F1EFEFC741CFB5",
         "wk:page":"Abadgarh"
     },
     "wof:country":"IN",
-    "wof:geomhash":"94c91c006cf87bba4e894bbd3821c2bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cb4ae4591641898d29a2b2868e0b35f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +80,22 @@
         }
     ],
     "wof:id":1327073241,
-    "wof:lastmodified":1566681462,
+    "wof:lastmodified":1682900953,
     "wof:name":"Abadgarh",
     "wof:parent_id":890506721,
     "wof:placetype":"locality",
+    "wof:population":610,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.39147,
-    29.58132,
-    77.39147,
-    29.58132
+    77.389385,
+    29.581074,
+    77.390741,
+    29.58199
 ],
-  "geometry": {"coordinates":[77.39147,29.58132],"type":"Point"}
+  "geometry": {"coordinates":[[[77.390333,29.581976],[77.390331,29.581885],[77.39053699999999,29.581882],[77.390535,29.581791],[77.39074100000001,29.581788],[77.390733,29.581427],[77.39063,29.581429],[77.390626,29.581249],[77.390522,29.58125],[77.39052,29.58116],[77.390314,29.581164],[77.39031199999999,29.581074],[77.390209,29.581076],[77.39021099999999,29.581166],[77.390004,29.58117],[77.390002,29.581079],[77.389487,29.581089],[77.389489,29.581179],[77.389385,29.581181],[77.389402,29.581902],[77.389506,29.5819],[77.38950800000001,29.58199],[77.390333,29.581976]]],"type":"Polygon"}
 }

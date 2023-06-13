@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.42592,18.90105,83.42592,18.90105",
-    "geom:latitude":18.90105,
-    "geom:longitude":83.42592,
+    "geom:bbox":"83.425282,18.90046,83.42636,18.901538",
+    "geom:latitude":18.901093,
+    "geom:longitude":83.425831,
     "gn:admin1_code":"2.0",
     "gn:admin2_code":"543.0",
     "gn:asciiname":"Sisaduvalasa",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.40592,18.88105,83.44592,18.92105",
+    "ks:ks_id":"KS7CC346FB1B234602AB91B02D4D010D5F",
+    "ks:ks_name":"Seesadavalasa",
+    "ks:ks_pop":136,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|968101",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_449397",
+    "lbl:latitude":18.901123,
+    "lbl:longitude":83.425831,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.901123,
+    "mps:longitude":83.425831,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Seesadavalasa"
+    ],
+    "name:eng_x_variant":[
+        "Sisaduvalasa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10783272
+        "gn:id":10783272,
+        "ks:id":"KS7CC346FB1B234602AB91B02D4D010D5F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"84ef187e057a886ba49ee0af1ac01da8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5af5cec8b214adfa45d9d8e667ff9234",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1226050817,
-    "wof:lastmodified":1566711637,
-    "wof:name":"Sisaduvalasa",
+    "wof:lastmodified":1682653334,
+    "wof:name":"Seesadavalasa",
     "wof:parent_id":890508885,
     "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.42591999999998,
-    18.90105,
-    83.42591999999998,
-    18.90105
+    83.425282,
+    18.90046,
+    83.42636,
+    18.901538
 ],
-  "geometry": {"coordinates":[83.42591999999998,18.90105],"type":"Point"}
+  "geometry": {"coordinates":[[[83.42609,18.90073],[83.42609,18.90046],[83.425821,18.90046],[83.425821,18.90073],[83.425282,18.90073],[83.425282,18.901538],[83.42636,18.901538],[83.42636,18.90073],[83.42609,18.90073]]],"type":"Polygon"}
 }

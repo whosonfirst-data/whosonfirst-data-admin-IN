@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.705,19.56536,77.705,19.56536",
-    "geom:latitude":19.56536,
-    "geom:longitude":77.705,
+    "geom:bbox":"77.704505,19.564675,77.705945,19.565945",
+    "geom:latitude":19.565306,
+    "geom:longitude":77.705213,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Rajapur",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.685,19.54536,77.725,19.58536",
+    "ks:ks_alt_nam":"R\u0101j\u0101pur",
+    "ks:ks_id":"KS0B036ACABE4544A5883FF4D9505BD484",
+    "ks:ks_name":"Rajapur",
+    "ks:ks_pop":319,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|891489",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_558485",
+    "lbl:latitude":19.565352,
+    "lbl:longitude":77.705272,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.565352,
+    "mps:longitude":77.705272,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rajapur"
+    ],
+    "name:eng_x_preferred":[
+        "Rajapur"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101j\u0101pur"
     ],
     "name:fra_x_preferred":[
         "Rajapur"
@@ -45,7 +62,13 @@
     "name:swe_x_preferred":[
         "Rajapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10584735
+        "gn:id":10584735,
+        "ks:id":"KS0B036ACABE4544A5883FF4D9505BD484"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5ff34a4b749be5cb3071a7b184e77e05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8232c8f34b965777db1c34def4cf85a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +95,22 @@
         }
     ],
     "wof:id":1209784793,
-    "wof:lastmodified":1566695391,
+    "wof:lastmodified":1682633278,
     "wof:name":"Rajapur",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.705,
-    19.56536,
-    77.705,
-    19.56536
+    77.704505,
+    19.564675,
+    77.705945,
+    19.565945
 ],
-  "geometry": {"coordinates":[77.705,19.56536],"type":"Point"}
+  "geometry": {"coordinates":[[[77.705665,19.565933],[77.705664,19.565843],[77.705759,19.565842],[77.705758,19.565751],[77.705853,19.56575],[77.70585,19.565569],[77.705945,19.565568],[77.70593599999999,19.565026],[77.70584100000001,19.565028],[77.705839,19.564937],[77.705744,19.564939],[77.705743,19.564849],[77.705647,19.56485],[77.705646,19.56476],[77.705265,19.564765],[77.705263,19.564675],[77.70469199999999,19.564684],[77.704694,19.564774],[77.704598,19.564775],[77.7046,19.564866],[77.704505,19.564867],[77.704515,19.565499],[77.70461,19.565498],[77.70461299999999,19.565678],[77.70470899999999,19.565677],[77.70471000000001,19.565767],[77.70480499999999,19.565766],[77.704807,19.565856],[77.704902,19.565854],[77.704904,19.565945],[77.705665,19.565933]]],"type":"Polygon"}
 }

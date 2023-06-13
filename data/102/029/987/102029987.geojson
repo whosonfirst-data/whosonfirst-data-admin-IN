@@ -12,12 +12,19 @@
     "gn:latitude":20.81011,
     "gn:longitude":75.77846,
     "iso:country":"IN",
-    "lbl:latitude":20.809582,
-    "lbl:longitude":75.778712,
+    "ks:ks_id":"KS5A1C0E4C5E364D15A2C4388309F37086",
+    "ks:ks_name":"Jamner",
+    "ks:ks_pop":25723,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|449843",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_855016",
+    "lbl:latitude":20.811534,
+    "lbl:longitude":75.771127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":20.812606,
-    "mps:longitude":75.811157,
+    "mps:latitude":20.811534,
+    "mps:longitude":75.771127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Jamner"
+    ],
+    "name:eng_x_variant":[
+        "J\u0101mner"
     ],
     "name:fra_x_preferred":[
         "Jamner"
@@ -87,9 +97,12 @@
     "reversegeo:longitude":75.778712,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wd:wordcount":805,
     "wof:belongsto":[
         102191569,
@@ -101,10 +114,15 @@
     "wof:concordances":{
         "gn:id":1269315,
         "gp:id":2292577,
+        "ks:id":"KS5A1C0E4C5E364D15A2C4388309F37086",
         "qs_pg:id":131913,
         "wd:id":"Q6148072"
     },
     "wof:country":"IN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"8162eaeb615d23bd69697e48e14085d2",
     "wof:hierarchy":[
         {
@@ -116,10 +134,12 @@
         }
     ],
     "wof:id":102029987,
-    "wof:lastmodified":1658780770,
-    "wof:name":"J\u0101mner",
+    "wof:lastmodified":1682524273,
+    "wof:name":"Jamner",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
+    "wof:population":25723,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],

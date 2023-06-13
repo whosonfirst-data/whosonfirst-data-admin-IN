@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672231,
+        1108696183
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10419414
     },
     "wof:country":"IN",
-    "wof:geomhash":"abbc4cfa39a5644978a578abba293402",
+    "wof:geomhash":"3958bdac11ca23a0478fbf9674e625c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209058009
+            "county_id":1108696183,
+            "locality_id":1209058009,
+            "region_id":85672231
         }
     ],
     "wof:id":1209058009,
-    "wof:lastmodified":1566696503,
+    "wof:lastmodified":1682603023,
     "wof:name":"Dewaribhat",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.00941999999998,
+    81.00942,
     21.39364,
-    81.00941999999998,
+    81.00942,
     21.39364
 ],
-  "geometry": {"coordinates":[81.00941999999998,21.39364],"type":"Point"}
+  "geometry": {"coordinates":[81.00942000000001,21.39364],"type":"Point"}
 }

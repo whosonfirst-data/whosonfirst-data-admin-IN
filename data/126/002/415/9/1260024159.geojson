@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.77344,26.29531,78.77344,26.29531",
-    "geom:latitude":26.29531,
-    "geom:longitude":78.77344,
+    "geom:bbox":"78.772635,26.29423,78.774749,26.295848",
+    "geom:latitude":26.295079,
+    "geom:longitude":78.773692,
     "gn:admin1_code":"35",
     "gn:admin2_code":"420.0",
     "gn:asciiname":"Chandrapura",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.75344,26.27531,78.79344,26.31531",
+    "ks:ks_id":"KS29EEA5A82A7245588396B23CCB09B23B",
+    "ks:ks_name":"Chandrapura",
+    "ks:ks_pop":245,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|203991",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1731395",
+    "lbl:latitude":26.295111,
+    "lbl:longitude":78.773712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.295111,
+    "mps:longitude":78.773712,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u0902\u0926\u094d\u0930\u092a\u0941\u0930\u093e"
     ],
     "name:bpy_x_preferred":[
         "\u099a\u09be\u09a8\u09cd\u09a6\u09be\u09b0\u09aa\u09c1\u09b0\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Chandrapura"
     ],
     "name:ita_x_preferred":[
         "Chandrapura"
@@ -57,7 +70,13 @@
     "name:zho_x_preferred":[
         "\u6070\u6069\u5fb7\u62c9\u666e\u62c9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10500739
+        "gn:id":10500739,
+        "ks:id":"KS29EEA5A82A7245588396B23CCB09B23B"
     },
     "wof:country":"IN",
-    "wof:geomhash":"630b5ab45cf82988ddac206ed52fd379",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7885fb12897b5e41ab483426297f1eda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1260024159,
-    "wof:lastmodified":1566700124,
+    "wof:lastmodified":1682748227,
     "wof:name":"Chandrapura",
     "wof:parent_id":1108696209,
     "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.77344000000002,
-    26.29531,
-    78.77344000000002,
-    26.29531
+    78.772635,
+    26.29423,
+    78.774749,
+    26.295848
 ],
-  "geometry": {"coordinates":[78.77344000000002,26.29531],"type":"Point"}
+  "geometry": {"coordinates":[[[78.77373,26.295848],[78.773731,26.295758],[78.77403200000001,26.295763],[78.774033,26.295673],[78.774233,26.295676],[78.774235,26.295585],[78.774435,26.295588],[78.77443700000001,26.295498],[78.774537,26.2955],[78.774541,26.295319],[78.774641,26.295321],[78.774646,26.29505],[78.77474599999999,26.295052],[78.774749,26.294871],[78.774649,26.29487],[78.77465599999999,26.294509],[78.774556,26.294507],[78.774558,26.294417],[78.774458,26.294416],[78.77446,26.294325],[78.774359,26.294324],[78.774361,26.294234],[78.77416100000001,26.29423],[78.774159,26.294321],[78.773959,26.294318],[78.773957,26.294408],[78.773757,26.294405],[78.77375499999999,26.294495],[78.773455,26.29449],[78.773453,26.29458],[78.772953,26.294573],[78.77295100000001,26.294663],[78.772751,26.29466],[78.772749,26.29475],[78.772649,26.294748],[78.77263499999999,26.29547],[78.772735,26.295472],[78.772734,26.295562],[78.772834,26.295564],[78.77283199999999,26.295654],[78.773032,26.295657],[78.773031,26.295747],[78.773331,26.295752],[78.773329,26.295842],[78.77373,26.295848]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.67589,20.97686,77.67589,20.97686",
-    "geom:latitude":20.97686,
-    "geom:longitude":77.67589,
+    "geom:bbox":"77.675345,20.977186,77.676962,20.978264",
+    "geom:latitude":20.977719,
+    "geom:longitude":77.676057,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Tatarpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.65589,20.95686,77.69589,20.99686",
+    "ks:ks_alt_nam":"Tat\u0101rpur",
+    "ks:ks_id":"KS5EB1F1CA8C8E4BF8A6F57EC6A2AF0D8C",
+    "ks:ks_name":"Tatarpur",
+    "ks:ks_pop":331,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1035466",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_669348",
+    "lbl:latitude":20.977725,
+    "lbl:longitude":77.676057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.977725,
+    "mps:longitude":77.676057,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062a\u0627\u0631\u0628\u0648\u0631"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a4\u09be\u09a4\u09be\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Tatarpur"
+    ],
+    "name:eng_x_variant":[
+        "Tat\u0101rpur"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a9f\u0abe\u0aaa\u0ac1\u0ab0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u062a\u0627\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10506680
+        "gn:id":10506680,
+        "ks:id":"KS5EB1F1CA8C8E4BF8A6F57EC6A2AF0D8C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"96a16c9b7d61ec345a26d72e2c135d20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"873b742ec3d004178bc6b60daa34eed7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1242942233,
-    "wof:lastmodified":1577752950,
+    "wof:lastmodified":1682699015,
     "wof:name":"Tatarpur",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.67589,
-    20.97686,
-    77.67589,
-    20.97686
+    77.675345,
+    20.977186,
+    77.676962,
+    20.978264
 ],
-  "geometry": {"coordinates":[77.67589,20.97686],"type":"Point"}
+  "geometry": {"coordinates":[[[77.676693,20.978264],[77.676693,20.977725],[77.676962,20.977725],[77.676962,20.977455],[77.676693,20.977455],[77.676693,20.977186],[77.67534499999999,20.977186],[77.67534499999999,20.978264],[77.676693,20.978264]]],"type":"Polygon"}
 }

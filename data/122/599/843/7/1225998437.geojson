@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.82385,25.44732,84.82385,25.44732",
-    "geom:latitude":25.44732,
-    "geom:longitude":84.82385,
+    "geom:bbox":"84.822072,25.445675,84.826654,25.447831",
+    "geom:latitude":25.446952,
+    "geom:longitude":84.824213,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"230.0",
     "gn:asciiname":"Wazirpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.80385,25.42732,84.84385,25.46732",
+    "ks:ks_id":"KSA17B1F60586F417EA5151F52F4E16EF6",
+    "ks:ks_name":"Wazirpur",
+    "ks:ks_pop":2175,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1104292",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1350753",
+    "lbl:latitude":25.447157,
+    "lbl:longitude":84.824213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.447157,
+    "mps:longitude":84.824213,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0632\u064a\u0631\u0628\u0648\u0631"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0993\u09df\u09be\u099c\u09bf\u09b0\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Wazirpur"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0a9d\u0abf\u0ab0\u0aaa\u0ac1\u0ab0"
@@ -66,7 +79,13 @@
     "name:urd_x_preferred":[
         "\u0648\u0632\u06cc\u0631 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10832763
+        "gn:id":10832763,
+        "ks:id":"KSA17B1F60586F417EA5151F52F4E16EF6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a1eb7655f98d4fe50f6f9f4fdb041ae7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ccd47bcd5901e52beb928cce41660885",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1225998437,
-    "wof:lastmodified":1577754365,
+    "wof:lastmodified":1682651998,
     "wof:name":"Wazirpur",
     "wof:parent_id":890504089,
     "wof:placetype":"locality",
+    "wof:population":2175,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.82385,
-    25.44732,
-    84.82385,
-    25.44732
+    84.822072,
+    25.445675,
+    84.826654,
+    25.447831
 ],
-  "geometry": {"coordinates":[84.82384999999999,25.44732],"type":"Point"}
+  "geometry": {"coordinates":[[[84.822881,25.445675],[84.82207200000001,25.445675],[84.82207200000001,25.446753],[84.82234200000001,25.446753],[84.82234200000001,25.447292],[84.82315,25.447292],[84.82315,25.447831],[84.826654,25.447831],[84.826654,25.446753],[84.825576,25.446753],[84.825576,25.446484],[84.823959,25.446484],[84.823959,25.445945],[84.822881,25.445945],[84.822881,25.445675]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gobindpur"
@@ -38,35 +39,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695851
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10561015
     },
     "wof:country":"IN",
-    "wof:geomhash":"06b49ed121d53ac5d56aae5a4612387a",
+    "wof:geomhash":"11fb8b128a4c3ad71c941b254074d74b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209367667
+            "county_id":1108695851,
+            "locality_id":1209367667,
+            "region_id":85672205
         }
     ],
     "wof:id":1209367667,
-    "wof:lastmodified":1566694470,
+    "wof:lastmodified":1682616705,
     "wof:name":"Gobindpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847128251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.56199000000002,
+    81.56199,
     27.42913,
-    81.56199000000002,
+    81.56199,
     27.42913
 ],
-  "geometry": {"coordinates":[81.56199000000002,27.42913],"type":"Point"}
+  "geometry": {"coordinates":[81.56198999999999,27.42913],"type":"Point"}
 }

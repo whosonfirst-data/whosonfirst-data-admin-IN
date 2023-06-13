@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.97216,25.57875,87.97216,25.57875",
-    "geom:latitude":25.57875,
-    "geom:longitude":87.97216,
+    "geom:bbox":"87.965727,25.589046,87.967344,25.591741",
+    "geom:latitude":25.590132,
+    "geom:longitude":87.966493,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"212.0",
     "gn:asciiname":"Duha",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"87.95216,25.55875,87.99216,25.59875",
+    "ks:ks_id":"KSD2358022BCEB441986441367415CF5B4",
+    "ks:ks_name":"Duha",
+    "ks:ks_pop":726,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|1010000600902200",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1535672",
+    "lbl:latitude":25.590173,
+    "lbl:longitude":87.966346,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.590173,
+    "mps:longitude":87.966346,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0644\u0627\u0629 \u0627\u0644\u0636\u062d\u0649"
     ],
     "name:bak_x_preferred":[
         "\u0414\u0443\u0445\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Duha"
     ],
     "name:ind_x_preferred":[
         "Salat Duha"
@@ -48,7 +61,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0645\u0627\u0632 \u0686\u0627\u0634\u062a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11015032
+        "gn:id":11015032,
+        "ks:id":"KSD2358022BCEB441986441367415CF5B4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"55fd9b164b02521ea05035f96fd6f03e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cd0d679ddb4d1dbd9787b04e81a84650",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +94,22 @@
         }
     ],
     "wof:id":1242722847,
-    "wof:lastmodified":1566706040,
+    "wof:lastmodified":1682690227,
     "wof:name":"Duha",
     "wof:parent_id":1108695909,
     "wof:placetype":"locality",
+    "wof:population":726,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.97216,
-    25.57875,
-    87.97216,
-    25.57875
+    87.965727,
+    25.589046,
+    87.967344,
+    25.591741
 ],
-  "geometry": {"coordinates":[87.97216,25.57875],"type":"Point"}
+  "geometry": {"coordinates":[[[87.96653499999999,25.591741],[87.96653499999999,25.591472],[87.96680499999999,25.591472],[87.96680499999999,25.590933],[87.96653499999999,25.590933],[87.96653499999999,25.590663],[87.96680499999999,25.590663],[87.96680499999999,25.590124],[87.967344,25.590124],[87.967344,25.589585],[87.967074,25.589585],[87.967074,25.589046],[87.966266,25.589046],[87.966266,25.589316],[87.965996,25.589316],[87.965996,25.589855],[87.965727,25.589855],[87.965727,25.590663],[87.966266,25.590663],[87.966266,25.591741],[87.96653499999999,25.591741]]],"type":"Polygon"}
 }

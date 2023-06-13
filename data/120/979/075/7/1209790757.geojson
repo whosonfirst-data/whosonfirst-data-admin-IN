@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.24354,13.15141,76.24354,13.15141",
-    "geom:latitude":13.15141,
-    "geom:longitude":76.24354,
+    "geom:bbox":"76.243897,13.150833,76.247311,13.152368",
+    "geom:latitude":13.151522,
+    "geom:longitude":76.24584,
     "gn:admin1_code":"19.0",
     "gn:admin2_code":"574.0",
     "gn:asciiname":"Hosahalli",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.22354,13.13141,76.26354,13.17141",
+    "ks:ks_id":"KS40CB6CD8FD474E53A35BA8B5D779C601",
+    "ks:ks_name":"Hosahalli",
+    "ks:ks_pop":192,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|426086",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_269938",
+    "lbl:latitude":13.151556,
+    "lbl:longitude":76.246011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":13.151556,
+    "mps:longitude":76.246011,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0647\u0627\u0644\u064a"
@@ -38,6 +48,9 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b9\u09cb\u09b8\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Hosahalli"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab8\u0abe\u0ab9\u0ab2\u0acd\u0ab2\u0ac0"
@@ -69,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0633\u0627 \u06c1\u0644\u0651\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10888664
+        "gn:id":10888664,
+        "ks:id":"KS40CB6CD8FD474E53A35BA8B5D779C601"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5e9729ca992d82450f663e08f3b02ae8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"45f8bab55e4ece3e9225cc7f5e9e32f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,20 +115,22 @@
         }
     ],
     "wof:id":1209790757,
-    "wof:lastmodified":1577750776,
+    "wof:lastmodified":1682633503,
     "wof:name":"Hosahalli",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.24354,
-    13.15141,
-    76.24354,
-    13.15141
+    76.243897,
+    13.150833,
+    76.247311,
+    13.152368
 ],
-  "geometry": {"coordinates":[76.24354,13.15141],"type":"Point"}
+  "geometry": {"coordinates":[[[76.247038,13.152365],[76.24703599999999,13.152003],[76.247129,13.152003],[76.247128,13.151822],[76.24722,13.151822],[76.247219,13.151641],[76.247311,13.15164],[76.24731,13.151369],[76.247218,13.15137],[76.24721700000001,13.151279],[76.247033,13.15128],[76.247032,13.15119],[76.246848,13.151191],[76.246847,13.1511],[76.246478,13.151102],[76.246478,13.151012],[76.246201,13.151013],[76.246201,13.150922],[76.246016,13.150923],[76.246016,13.150833],[76.245462,13.150836],[76.245463,13.150926],[76.24444800000001,13.150931],[76.24444800000001,13.151021],[76.244079,13.151023],[76.24408,13.151114],[76.243987,13.151114],[76.243989,13.151385],[76.243897,13.151386],[76.243897,13.151476],[76.24408200000001,13.151475],[76.24408200000001,13.151566],[76.244174,13.151565],[76.244174,13.151475],[76.244451,13.151473],[76.244451,13.151564],[76.24482,13.151562],[76.24482,13.151652],[76.24500500000001,13.151652],[76.24500500000001,13.151742],[76.245282,13.151741],[76.245283,13.151831],[76.245467,13.15183],[76.245468,13.151921],[76.24556,13.15192],[76.24556,13.15201],[76.245653,13.15201],[76.245653,13.152191],[76.245746,13.15219],[76.245746,13.152281],[76.246484,13.152277],[76.24648500000001,13.152368],[76.247038,13.152365]]],"type":"Polygon"}
 }

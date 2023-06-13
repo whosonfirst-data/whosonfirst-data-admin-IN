@@ -2,7 +2,7 @@
   "id": 1209045765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-21",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0"
@@ -44,35 +44,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695851
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10581358
     },
     "wof:country":"IN",
-    "wof:geomhash":"146db8f9db9c20f421551b6344653d51",
+    "wof:geomhash":"59515f56d2e6860ed181fe3d6f29986c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209045765
+            "county_id":1108695851,
+            "locality_id":1209045765,
+            "region_id":85672205
         }
     ],
     "wof:id":1209045765,
-    "wof:lastmodified":1566696262,
+    "wof:lastmodified":1682601524,
     "wof:name":"Mirpur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1830762767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.54321999999998,
+    81.54322,
     27.22855,
-    81.54321999999998,
+    81.54322,
     27.22855
 ],
-  "geometry": {"coordinates":[81.54321999999998,27.22855],"type":"Point"}
+  "geometry": {"coordinates":[81.54322000000001,27.22855],"type":"Point"}
 }

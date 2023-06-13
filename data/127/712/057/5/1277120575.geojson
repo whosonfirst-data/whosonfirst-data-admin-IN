@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.80083,27.20576,82.80083,27.20576",
-    "geom:latitude":27.20576,
-    "geom:longitude":82.80083,
+    "geom:bbox":"82.799979,27.204892,82.802006,27.206703",
+    "geom:latitude":27.205739,
+    "geom:longitude":82.800995,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"184.0",
     "gn:asciiname":"Bangawan",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.78083,27.18576,82.82083,27.22576",
+    "ks:ks_id":"KS6315DC768EDD40A881AA437E8BC0AC8A",
+    "ks:ks_name":"Bangawa",
+    "ks:ks_pop":190,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|90709",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1979691",
+    "lbl:latitude":27.205797,
+    "lbl:longitude":82.800995,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.205797,
+    "mps:longitude":82.800995,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0999\u09cd\u0997\u09be\u0993\u09af\u09bc\u09be\u09a8"
     ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0999\u09cd\u0997\u09be\u09f1\u09be\u09a8"
+    ],
+    "name:eng_x_preferred":[
+        "Bangawa"
+    ],
+    "name:eng_x_variant":[
+        "Bangawan"
     ],
     "name:ind_x_preferred":[
         "Bangawan"
@@ -60,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u90a6\u683c\u963f\u4e07"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10604265
+        "gn:id":10604265,
+        "ks:id":"KS6315DC768EDD40A881AA437E8BC0AC8A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2a7fba5cadb9aea0e3305dfd0e453bfa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"59f780e1a1dad99046c2a1eed8b8f1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +109,22 @@
         }
     ],
     "wof:id":1277120575,
-    "wof:lastmodified":1566693218,
-    "wof:name":"Bangawan",
+    "wof:lastmodified":1682796899,
+    "wof:name":"Bangawa",
     "wof:parent_id":1108695859,
     "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.80083,
-    27.20576,
-    82.80083,
-    27.20576
+    82.799979,
+    27.204892,
+    82.802006,
+    27.206703
 ],
-  "geometry": {"coordinates":[82.80083,27.20576],"type":"Point"}
+  "geometry": {"coordinates":[[[82.801211,27.206697],[82.80121,27.206607],[82.801412,27.206604],[82.80141,27.206514],[82.801511,27.206513],[82.80150999999999,27.206422],[82.80161099999999,27.206421],[82.801609,27.206331],[82.80171,27.20633],[82.801709,27.206239],[82.80181,27.206238],[82.80180799999999,27.206148],[82.80190899999999,27.206146],[82.801905,27.205876],[82.80200600000001,27.205874],[82.801996,27.205243],[82.801895,27.205244],[82.80189300000001,27.205154],[82.80179200000001,27.205155],[82.80179099999999,27.205065],[82.80168999999999,27.205066],[82.801689,27.204976],[82.80118400000001,27.204982],[82.801182,27.204892],[82.800476,27.204901],[82.800477,27.204992],[82.800376,27.204993],[82.80037799999999,27.205083],[82.80007500000001,27.205087],[82.80007999999999,27.205358],[82.79997899999999,27.205359],[82.799986,27.20581],[82.800087,27.205809],[82.80009099999999,27.20608],[82.800192,27.206078],[82.800195,27.206259],[82.800296,27.206257],[82.800297,27.206348],[82.800398,27.206346],[82.80040099999999,27.206527],[82.80050199999999,27.206526],[82.800504,27.206616],[82.80070499999999,27.206613],[82.800707,27.206703],[82.801211,27.206697]]],"type":"Polygon"}
 }

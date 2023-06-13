@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.60281,23.40292,78.60281,23.40292",
-    "geom:latitude":23.40292,
-    "geom:longitude":78.60281,
+    "geom:bbox":"78.601211,23.40188,78.6035,23.404312",
+    "geom:latitude":23.403291,
+    "geom:longitude":78.602469,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"446.0",
     "gn:asciiname":"Ghana",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.58281,23.38292,78.62281,23.42292",
+    "ks:ks_alt_nam":"Gh\u0101na",
+    "ks:ks_id":"KSB56B868E73164A2C9FA0B0A6C7E7E602",
+    "ks:ks_name":"Ghana",
+    "ks:ks_pop":241,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|354995",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_924616",
+    "lbl:latitude":23.403492,
+    "lbl:longitude":78.602376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.403492,
+    "mps:longitude":78.602376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Ghana"
@@ -161,6 +172,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ac\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ghana"
+    ],
+    "name:eng_x_variant":[
+        "Gh\u0101na"
     ],
     "name:epo_x_preferred":[
         "Ganao"
@@ -657,7 +674,13 @@
     "name:zul_x_preferred":[
         "IGana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -666,10 +689,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10192563
+        "gn:id":10192563,
+        "ks:id":"KSB56B868E73164A2C9FA0B0A6C7E7E602"
     },
     "wof:country":"IN",
-    "wof:geomhash":"8ed179d5eaa8953e22db6a6e8b3722dc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0765e8e11fec7222d41e2d4abbe40556",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -680,20 +707,22 @@
         }
     ],
     "wof:id":1343501599,
-    "wof:lastmodified":1566687377,
+    "wof:lastmodified":1682928925,
     "wof:name":"Ghana",
     "wof:parent_id":890508839,
     "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.60280999999998,
-    23.40292,
-    78.60280999999998,
-    23.40292
+    78.601211,
+    23.40188,
+    78.6035,
+    23.404312
 ],
-  "geometry": {"coordinates":[78.60280999999998,23.40292],"type":"Point"}
+  "geometry": {"coordinates":[[[78.602869,23.404312],[78.60287099999999,23.404222],[78.602968,23.404223],[78.60297,23.404133],[78.60306799999999,23.404134],[78.603071,23.403954],[78.60316899999999,23.403955],[78.603174,23.403685],[78.603272,23.403686],[78.603275,23.403506],[78.603373,23.403507],[78.60337699999999,23.403236],[78.603475,23.403238],[78.6035,23.401884],[78.603206,23.40188],[78.603205,23.40197],[78.603009,23.401967],[78.60300700000001,23.402057],[78.60290999999999,23.402056],[78.602906,23.402236],[78.60280899999999,23.402235],[78.602807,23.402325],[78.602709,23.402323],[78.602706,23.402504],[78.60251,23.402501],[78.602509,23.402591],[78.602411,23.40259],[78.60240899999999,23.40268],[78.602018,23.402674],[78.602017,23.402764],[78.601821,23.402761],[78.60181900000001,23.402851],[78.601624,23.402848],[78.60162200000001,23.402939],[78.601524,23.402937],[78.601523,23.403027],[78.60142500000001,23.403026],[78.601423,23.403116],[78.601326,23.403115],[78.60132400000001,23.403205],[78.601226,23.403203],[78.601223,23.403384],[78.601321,23.403385],[78.601314,23.403746],[78.60121599999999,23.403745],[78.60121100000001,23.404016],[78.601309,23.404017],[78.601308,23.404107],[78.601405,23.404109],[78.601404,23.404199],[78.601991,23.404208],[78.601989,23.404298],[78.602869,23.404312]]],"type":"Polygon"}
 }

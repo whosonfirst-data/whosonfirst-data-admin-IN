@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.60233,27.73352,81.60233,27.73352",
-    "geom:latitude":27.73352,
-    "geom:longitude":81.60233,
+    "geom:bbox":"81.602008,27.732641,81.60313,27.734356",
+    "geom:latitude":27.733501,
+    "geom:longitude":81.602586,
     "gn:admin1_code":"36",
     "gn:admin2_code":"180.0",
     "gn:asciiname":"Akbarpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.58233,27.71352,81.62233,27.75352",
+    "ks:ks_alt_nam":"akbarpur",
+    "ks:ks_id":"KSCF31EEFF9D2246F594A8786DFF90A4F2",
+    "ks:ks_name":"Akbarpur",
+    "ks:ks_pop":187,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1158657",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2010785",
+    "lbl:latitude":27.733479,
+    "lbl:longitude":81.602597,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.733479,
+    "mps:longitude":81.602597,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0905\u0915\u092c\u0930\u092a\u0941\u0930"
@@ -37,6 +48,9 @@
         "Akbarpur"
     ],
     "name:deu_x_preferred":[
+        "Akbarpur"
+    ],
+    "name:eng_x_preferred":[
         "Akbarpur"
     ],
     "name:ita_x_preferred":[
@@ -63,7 +77,13 @@
     "name:vie_x_preferred":[
         "Akbarpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10560329
+        "gn:id":10560329,
+        "ks:id":"KSCF31EEFF9D2246F594A8786DFF90A4F2"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4a9b79709e776f6c6be2665083b8455d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"172fa7ccc912b134c931d0a4e784be80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +110,22 @@
         }
     ],
     "wof:id":1326474177,
-    "wof:lastmodified":1566683693,
+    "wof:lastmodified":1682877606,
     "wof:name":"Akbarpur",
     "wof:parent_id":1108695851,
     "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.60233000000002,
-    27.73352,
-    81.60233000000002,
-    27.73352
+    81.602008,
+    27.732641,
+    81.60313,
+    27.734356
 ],
-  "geometry": {"coordinates":[81.60233000000002,27.73352],"type":"Point"}
+  "geometry": {"coordinates":[[[81.602827,27.734355],[81.602827,27.734264],[81.60303,27.734263],[81.60302900000001,27.734083],[81.60312999999999,27.734082],[81.60312500000001,27.73318],[81.603024,27.73318],[81.60302299999999,27.733],[81.60292099999999,27.733],[81.60292099999999,27.73291],[81.602819,27.73291],[81.602819,27.73282],[81.602718,27.73282],[81.602717,27.73273],[81.602514,27.732731],[81.602514,27.732641],[81.602412,27.732641],[81.602413,27.732732],[81.60221,27.732732],[81.60221,27.732823],[81.602109,27.732823],[81.602109,27.732913],[81.602008,27.732914],[81.602012,27.733636],[81.602113,27.733636],[81.602114,27.733816],[81.602216,27.733816],[81.602217,27.733996],[81.602318,27.733996],[81.60231899999999,27.734176],[81.60242100000001,27.734176],[81.60242100000001,27.734266],[81.60252300000001,27.734266],[81.60252300000001,27.734356],[81.602827,27.734355]]],"type":"Polygon"}
 }

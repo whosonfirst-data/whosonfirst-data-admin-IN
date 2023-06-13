@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.22309,26.88557,82.22309,26.88557",
-    "geom:latitude":26.88557,
-    "geom:longitude":82.22309,
+    "geom:bbox":"82.221771,26.884801,82.223789,26.885789",
+    "geom:latitude":26.885315,
+    "geom:longitude":82.222725,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"183.0",
     "gn:asciiname":"Narayanpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.20309,26.86557,82.24309,26.90557",
+    "ks:ks_alt_nam":"Nar\u0101yanpur",
+    "ks:ks_id":"KSAE8E64E9F1CA4C4A8565E9EEC7CB2EB3",
+    "ks:ks_name":"Narayanpur",
+    "ks:ks_pop":740,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13064326",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1970546",
+    "lbl:latitude":26.885471,
+    "lbl:longitude":82.222946,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.885471,
+    "mps:longitude":82.222946,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0627\u064a\u0627\u0646 \u0628\u0648\u0631"
@@ -41,6 +52,12 @@
     ],
     "name:ceb_x_preferred":[
         "Narayanpur"
+    ],
+    "name:eng_x_preferred":[
+        "Narayanpur"
+    ],
+    "name:eng_x_variant":[
+        "Nar\u0101yanpur"
     ],
     "name:fra_x_preferred":[
         "Narayanpur"
@@ -81,7 +98,13 @@
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u0627\u0626\u0646 \u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -90,10 +113,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10606600
+        "gn:id":10606600,
+        "ks:id":"KSAE8E64E9F1CA4C4A8565E9EEC7CB2EB3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"307776651c8c5b87bb78d9260f4f9ec1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"704049f9805e2355782e7d9a4d7c3106",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,20 +131,22 @@
         }
     ],
     "wof:id":1193080917,
-    "wof:lastmodified":1577751088,
+    "wof:lastmodified":1686163520,
     "wof:name":"Narayanpur",
     "wof:parent_id":1108695857,
     "wof:placetype":"locality",
+    "wof:population":740,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.22309,
-    26.88557,
-    82.22309,
-    26.88557
+    82.221771,
+    26.884801,
+    82.223789,
+    26.885789
 ],
-  "geometry": {"coordinates":[82.22309,26.88557],"type":"Point"}
+  "geometry": {"coordinates":[[[82.22329000000001,26.885784],[82.22328899999999,26.885694],[82.22338999999999,26.885693],[82.223389,26.885603],[82.22349,26.885602],[82.223489,26.885512],[82.223589,26.885511],[82.22358800000001,26.885421],[82.22368899999999,26.88542],[82.223688,26.88533],[82.223789,26.885329],[82.223787,26.885148],[82.223686,26.885149],[82.223685,26.885059],[82.223484,26.885061],[82.223483,26.88497],[82.22308,26.884974],[82.22308099999999,26.885064],[82.222981,26.885065],[82.222982,26.885155],[82.222579,26.885159],[82.222578,26.885068],[82.222477,26.885069],[82.222476,26.884979],[82.222376,26.88498],[82.222375,26.88489],[82.222173,26.884891],[82.222172,26.884801],[82.221971,26.884803],[82.22197199999999,26.884893],[82.221771,26.884895],[82.22177600000001,26.885346],[82.22187599999999,26.885345],[82.221878,26.885526],[82.221979,26.885525],[82.22198,26.885615],[82.222684,26.885609],[82.222685,26.885699],[82.222786,26.885699],[82.222787,26.885789],[82.22329000000001,26.885784]]],"type":"Polygon"}
 }

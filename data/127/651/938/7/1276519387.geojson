@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.2582,18.08468,76.2582,18.08468",
-    "geom:latitude":18.08468,
-    "geom:longitude":76.2582,
+    "geom:bbox":"76.257869,18.083924,76.258915,18.08519",
+    "geom:latitude":18.084568,
+    "geom:longitude":76.258337,
     "gn:admin1_code":"16",
     "gn:admin2_code":"525.0",
     "gn:asciiname":"Gogaon",
@@ -24,17 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.2382,18.06468,76.2782,18.10468",
+    "ks:ks_id":"KSFB96B2A09B5D401087912EF8694867DB",
+    "ks:ks_name":"Gogaon",
+    "ks:ks_source_id":"N|12862624",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_526472",
+    "lbl:latitude":18.084571,
+    "lbl:longitude":76.258347,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":18.084571,
+    "mps:longitude":76.258347,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0997\u09cb\u0997\u09be\u0981\u0993"
     ],
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u0997\u09be\u0981\u0993"
+    ],
+    "name:eng_x_preferred":[
+        "Gogaon"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u0917\u093e\u0901\u0935"
@@ -69,7 +80,11 @@
     "name:zho_x_preferred":[
         "\u6208\u52a0\u5965\u6069"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10436564
+        "gn:id":10436564,
+        "ks:id":"KSFB96B2A09B5D401087912EF8694867DB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f4eba4f234d461170fac09db22a1a0c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc687de1b4674abeca6b1d089dbe3760",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +111,7 @@
         }
     ],
     "wof:id":1276519387,
-    "wof:lastmodified":1566692582,
+    "wof:lastmodified":1682777027,
     "wof:name":"Gogaon",
     "wof:parent_id":890511425,
     "wof:placetype":"locality",
@@ -102,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.2582,
-    18.08468,
-    76.2582,
-    18.08468
+    76.257869,
+    18.083924,
+    76.258915,
+    18.08519
 ],
-  "geometry": {"coordinates":[76.2582,18.08468],"type":"Point"}
+  "geometry": {"coordinates":[[[76.258539,18.085187],[76.258539,18.085097],[76.258728,18.085096],[76.258726,18.084915],[76.258821,18.084915],[76.25882,18.084824],[76.258915,18.084824],[76.258911,18.084372],[76.25881699999999,18.084372],[76.258816,18.084282],[76.25872200000001,18.084283],[76.25872099999999,18.084192],[76.258627,18.084193],[76.25862600000001,18.084103],[76.258532,18.084103],[76.258531,18.084013],[76.258247,18.084015],[76.258247,18.083924],[76.257869,18.083927],[76.25787699999999,18.085011],[76.257971,18.08501],[76.257972,18.085101],[76.258161,18.0851],[76.258161,18.08519],[76.258539,18.085187]]],"type":"Polygon"}
 }

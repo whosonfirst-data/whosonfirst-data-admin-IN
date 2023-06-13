@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.95798,27.53584,78.95798,27.53584",
-    "geom:latitude":27.53584,
-    "geom:longitude":78.95798,
+    "geom:bbox":"78.957289,27.534331,78.95932,27.536594",
+    "geom:latitude":27.535502,
+    "geom:longitude":78.9582,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Kishangarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.93798,27.51584,78.97798,27.55584",
+    "ks:ks_id":"KSE759C77CA17446B689950FB93F3F9BE9",
+    "ks:ks_name":"Kishan Garh",
+    "ks:ks_pop":109,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|565853",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1755386",
+    "lbl:latitude":27.535522,
+    "lbl:longitude":78.958181,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.535522,
+    "mps:longitude":78.958181,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0634\u0627\u0646\u063a\u0627\u0631"
@@ -55,6 +65,12 @@
         "Kishangarh"
     ],
     "name:deu_x_preferred":[
+        "Kishangarh"
+    ],
+    "name:eng_x_preferred":[
+        "Kishan Garh"
+    ],
+    "name:eng_x_variant":[
         "Kishangarh"
     ],
     "name:fas_x_preferred":[
@@ -126,7 +142,13 @@
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10e8\u10d0\u10dc\u10d2\u10d0\u10e0\u10f0\u10d8"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -135,10 +157,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10464100
+        "gn:id":10464100,
+        "ks:id":"KSE759C77CA17446B689950FB93F3F9BE9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"33da3c0d3c4aa537509ca3bd38aed3dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"08b20ac46d8919110e80ede5ebd092bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,20 +175,22 @@
         }
     ],
     "wof:id":1310149811,
-    "wof:lastmodified":1576021851,
-    "wof:name":"Kishangarh",
+    "wof:lastmodified":1682854855,
+    "wof:name":"Kishan Garh",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.95798,
-    27.53584,
-    78.95798,
-    27.53584
+    78.957289,
+    27.534331,
+    78.95932,
+    27.536594
 ],
-  "geometry": {"coordinates":[78.95798000000001,27.53584],"type":"Point"}
+  "geometry": {"coordinates":[[[78.958288,27.536594],[78.95828899999999,27.536504],[78.95849200000001,27.536507],[78.958493,27.536417],[78.958696,27.536419],[78.958697,27.536329],[78.958799,27.536331],[78.9588,27.536241],[78.958901,27.536242],[78.95890300000001,27.536152],[78.95900399999999,27.536153],[78.959006,27.536063],[78.959107,27.536065],[78.959109,27.535974],[78.95921,27.535976],[78.95921199999999,27.535886],[78.95931299999999,27.535887],[78.95932000000001,27.535526],[78.95921800000001,27.535525],[78.95922,27.535434],[78.959119,27.535433],[78.959121,27.535343],[78.959019,27.535341],[78.959023,27.535161],[78.958921,27.535159],[78.95892499999999,27.534979],[78.95882400000001,27.534977],[78.95882899999999,27.534707],[78.958727,27.534705],[78.95872900000001,27.534615],[78.958628,27.534614],[78.95863,27.534523],[78.958528,27.534522],[78.95853,27.534432],[78.958429,27.53443],[78.95843000000001,27.53434],[78.957823,27.534331],[78.95782199999999,27.534421],[78.95771999999999,27.53442],[78.957719,27.53451],[78.957617,27.534508],[78.957616,27.534599],[78.957515,27.534597],[78.95751,27.534868],[78.957408,27.534866],[78.957402,27.535227],[78.9573,27.535226],[78.957289,27.535857],[78.95739,27.535859],[78.95738299999999,27.53622],[78.95748500000001,27.536221],[78.957481,27.536402],[78.957582,27.536403],[78.957581,27.536493],[78.95768200000001,27.536495],[78.95768,27.536585],[78.958288,27.536594]]],"type":"Polygon"}
 }

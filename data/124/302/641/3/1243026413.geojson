@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000019,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.89362,31.49539,74.89362,31.49539",
-    "geom:latitude":31.49539,
-    "geom:longitude":74.89362,
+    "geom:bbox":"74.889849,31.491516,74.895508,31.496906",
+    "geom:latitude":31.494271,
+    "geom:longitude":74.892372,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"50.0",
     "gn:asciiname":"Khara",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"74.87362,31.47539,74.91362,31.51539",
+    "ks:ks_id":"KSA19630686B7E4DC5A0BF07E6E43098BD",
+    "ks:ks_name":"Khara",
+    "ks:ks_pop":2118,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0302000400223400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_2206237",
+    "lbl:latitude":31.494643,
+    "lbl:longitude":74.892318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":31.494643,
+    "mps:longitude":74.892318,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khara"
     ],
     "name:deu_x_preferred":[
+        "Khara"
+    ],
+    "name:eng_x_preferred":[
         "Khara"
     ],
     "name:new_x_preferred":[
@@ -42,7 +55,13 @@
     "name:swe_x_preferred":[
         "Khara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10695806
+        "gn:id":10695806,
+        "ks:id":"KSA19630686B7E4DC5A0BF07E6E43098BD"
     },
     "wof:country":"IN",
-    "wof:geomhash":"eb020bee7f3e926cfa1f71163641f238",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3cc8ed8d6ac1f624243aef4fd795ba5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +88,22 @@
         }
     ],
     "wof:id":1243026413,
-    "wof:lastmodified":1566707575,
+    "wof:lastmodified":1682701574,
     "wof:name":"Khara",
     "wof:parent_id":1108695745,
     "wof:placetype":"locality",
+    "wof:population":2118,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.89362,
-    31.49539,
-    74.89362,
-    31.49539
+    74.889849,
+    31.491516,
+    74.895508,
+    31.496906
 ],
-  "geometry": {"coordinates":[74.89362,31.49539],"type":"Point"}
+  "geometry": {"coordinates":[[[74.892544,31.496906],[74.892544,31.496367],[74.8947,31.496367],[74.8947,31.49502],[74.89443,31.49502],[74.89443,31.495289],[74.894161,31.495289],[74.894161,31.494481],[74.89443,31.494481],[74.89443,31.49475],[74.8947,31.49475],[74.8947,31.494211],[74.89550800000001,31.494211],[74.89550800000001,31.493942],[74.895239,31.493942],[74.895239,31.493672],[74.8947,31.493672],[74.8947,31.493133],[74.89443,31.493133],[74.89443,31.492864],[74.893891,31.492864],[74.893891,31.492594],[74.89362199999999,31.492594],[74.89362199999999,31.492325],[74.893083,31.492325],[74.893083,31.493133],[74.892813,31.493133],[74.892813,31.492594],[74.892544,31.492594],[74.892544,31.492055],[74.892005,31.492055],[74.892005,31.492325],[74.89173599999999,31.492325],[74.89173599999999,31.492055],[74.89146599999999,31.492055],[74.89146599999999,31.491516],[74.890927,31.491516],[74.890927,31.491786],[74.890388,31.491786],[74.890388,31.491516],[74.889849,31.491516],[74.889849,31.492594],[74.890119,31.492594],[74.890119,31.493403],[74.890658,31.493403],[74.890658,31.493942],[74.890388,31.493942],[74.890388,31.49475],[74.890658,31.49475],[74.890658,31.496367],[74.89119700000001,31.496367],[74.89119700000001,31.496906],[74.892544,31.496906]]],"type":"Polygon"}
 }

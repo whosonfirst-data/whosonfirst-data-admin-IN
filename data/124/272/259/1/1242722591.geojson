@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.14369,21.95753,80.14369,21.95753",
-    "geom:latitude":21.95753,
-    "geom:longitude":80.14369,
+    "geom:bbox":"80.143637,21.95682,80.145473,21.958544",
+    "geom:latitude":21.95769,
+    "geom:longitude":80.14443,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"457.0",
     "gn:asciiname":"Tekari",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.12369,21.93753,80.16369,21.97753",
+    "ks:ks_id":"KSFA1DC34C5A4D41F3866F28B4BE354E59",
+    "ks:ks_name":"Tekadi",
+    "ks:ks_pop":368,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1037500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_973541",
+    "lbl:latitude":21.957674,
+    "lbl:longitude":80.14443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.957674,
+    "mps:longitude":80.14443,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u0995\u09be\u09b0\u09bf"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Tek\u0101ri"
+    ],
+    "name:eng_x_preferred":[
+        "Tekadi"
+    ],
+    "name:eng_x_variant":[
+        "Tekari"
     ],
     "name:ita_x_preferred":[
         "Tikari"
@@ -57,7 +73,13 @@
     "name:zho_x_preferred":[
         "\u6cf0\u5361\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10697786
+        "gn:id":10697786,
+        "ks:id":"KSFA1DC34C5A4D41F3866F28B4BE354E59"
     },
     "wof:country":"IN",
-    "wof:geomhash":"1f7f3b5baab494c3fd0c0960e503f7fe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c65cd9cd6c265e5c14d213e24a5b140",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +106,22 @@
         }
     ],
     "wof:id":1242722591,
-    "wof:lastmodified":1566706010,
-    "wof:name":"Tekari",
+    "wof:lastmodified":1682690157,
+    "wof:name":"Tekadi",
     "wof:parent_id":890508835,
     "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.14369,
-    21.95753,
-    80.14369,
-    21.95753
+    80.143637,
+    21.95682,
+    80.145473,
+    21.958544
 ],
-  "geometry": {"coordinates":[80.14369000000001,21.95753],"type":"Point"}
+  "geometry": {"coordinates":[[[80.145278,21.958544],[80.145278,21.958453],[80.145472,21.958454],[80.145473,21.958364],[80.145376,21.958364],[80.145377,21.958183],[80.14528,21.958182],[80.14528,21.958092],[80.145184,21.958092],[80.145184,21.958001],[80.14499000000001,21.958],[80.144991,21.95791],[80.14489399999999,21.957909],[80.144896,21.957548],[80.1448,21.957548],[80.144801,21.957367],[80.144704,21.957366],[80.144704,21.957276],[80.14460699999999,21.957275],[80.144609,21.957095],[80.14451200000001,21.957094],[80.14451200000001,21.957004],[80.144415,21.957003],[80.14441600000001,21.956913],[80.144222,21.956912],[80.144223,21.956822],[80.14393200000001,21.95682],[80.14393200000001,21.956911],[80.143835,21.95691],[80.143834,21.957091],[80.143737,21.95709],[80.143736,21.957181],[80.14364,21.95718],[80.143637,21.957632],[80.14373399999999,21.957632],[80.143733,21.957813],[80.143829,21.957813],[80.143829,21.957904],[80.14392599999999,21.957904],[80.143925,21.957995],[80.144216,21.957996],[80.144215,21.958086],[80.144409,21.958088],[80.144408,21.958178],[80.144505,21.958178],[80.144505,21.958269],[80.14460200000001,21.958269],[80.14460099999999,21.95836],[80.14469800000001,21.95836],[80.14469699999999,21.95845],[80.144891,21.958451],[80.14489,21.958542],[80.145278,21.958544]]],"type":"Polygon"}
 }

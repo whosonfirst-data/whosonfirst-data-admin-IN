@@ -11,12 +11,19 @@
     "geom:longitude":75.894108,
     "gn:population":262034,
     "iso:country":"IN",
-    "lbl:latitude":19.842586,
-    "lbl:longitude":75.894709,
+    "ks:ks_id":"KSA464C7BF356D474796FD979B891015CD",
+    "ks:ks_name":"Jalna",
+    "ks:ks_pop":235795,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2718000341802000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_632657",
+    "lbl:latitude":19.841513,
+    "lbl:longitude":75.887288,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
-    "mps:latitude":19.849897,
-    "mps:longitude":75.895549,
+    "mps:latitude":19.841513,
+    "mps:longitude":75.887288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,6 +49,9 @@
     "name:eng_x_preferred":[
         "Jalna"
     ],
+    "name:eng_x_variant":[
+        "J\u0101lna"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0627\u0644\u0646\u0627"
     ],
@@ -55,6 +65,9 @@
         "\u0a9c\u0abe\u0ab2\u0aa8\u0abe"
     ],
     "name:hin_x_preferred":[
+        "\u091c\u0932\u0928\u093e"
+    ],
+    "name:hin_x_variant":[
         "\u091c\u093e\u0932\u0928\u093e"
     ],
     "name:ind_x_preferred":[
@@ -165,10 +178,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":489.0,
     "wd:latitude":19.833333,
     "wd:longitude":75.883333,
@@ -184,13 +199,16 @@
         "fct:id":"122de326-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1269395,
         "gp:id":2295192,
+        "ks:id":"KSA464C7BF356D474796FD979B891015CD",
         "qs_pg:id":131919,
         "wd:id":"Q30771",
         "wk:page":"Jalna, Maharashtra"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"7d0433dcd7515a8c5cd22cdeba1a5c34",
     "wof:hierarchy":[
@@ -206,11 +224,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780745,
-    "wof:name":"J\u0101lna",
+    "wof:lastmodified":1686162190,
+    "wof:name":"Jalna",
     "wof:parent_id":890501997,
     "wof:placetype":"locality",
-    "wof:population":262034,
+    "wof:population":235795,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

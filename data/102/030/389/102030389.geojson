@@ -11,12 +11,20 @@
     "geom:longitude":78.156618,
     "gn:population":66017,
     "iso:country":"IN",
-    "lbl:latitude":12.126506,
-    "lbl:longitude":78.158456,
+    "ks:ks_id":"KS8374CA05120A45FEBD735B7FB237C428",
+    "ks:ks_name":"Dharmapuri",
+    "ks:ks_pop":64496,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3305000940519000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_238735",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":12.139826,
+    "lbl:longitude":78.158127,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":12.023203,
-    "mps:longitude":78.096314,
+    "mps:latitude":12.139826,
+    "mps:longitude":78.158127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -52,10 +60,10 @@
         "\u0aa7\u0ab0\u0acd\u0aae\u0aaa\u0ac1\u0ab0\u0ac0"
     ],
     "name:hin_x_preferred":[
-        "\u0927\u0930\u092e\u092a\u0941\u0930\u0940"
+        "\u0927\u0930\u094d\u092e\u092a\u0941\u0930\u0940"
     ],
     "name:hin_x_variant":[
-        "\u0927\u0930\u094d\u092e\u092a\u0941\u0930\u0940"
+        "\u0927\u0930\u092e\u092a\u0941\u0930\u0940"
     ],
     "name:ita_x_preferred":[
         "Dharmapuri"
@@ -144,10 +152,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":469.0,
     "wd:latitude":12.127,
     "wd:longitude":78.158,
@@ -163,13 +173,16 @@
         "fct:id":"122d6770-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1272847,
         "gp:id":2295298,
+        "ks:id":"KS8374CA05120A45FEBD735B7FB237C428",
         "qs_pg:id":9023,
         "wd:id":"Q9894",
         "wk:page":"Dharmapuri"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"5b4bba55f43a7b546fb218fe47e1db96",
     "wof:hierarchy":[
@@ -185,11 +198,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780747,
+    "wof:lastmodified":1686162191,
     "wof:name":"Dharmapuri",
     "wof:parent_id":890502625,
     "wof:placetype":"locality",
-    "wof:population":66017,
+    "wof:population":64496,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

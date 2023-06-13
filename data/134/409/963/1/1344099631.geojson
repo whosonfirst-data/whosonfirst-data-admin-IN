@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000022,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.49624,21.91471,83.49624,21.91471",
-    "geom:latitude":21.91471,
-    "geom:longitude":83.49624,
+    "geom:bbox":"83.494273,21.911523,83.499393,21.919608",
+    "geom:latitude":21.915349,
+    "geom:longitude":83.496844,
     "gn:admin1_code":"37",
     "gn:admin2_code":"403.0",
     "gn:asciiname":"Tilga",
@@ -24,16 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.47624,21.89471,83.51624,21.93471",
+    "ks:ks_id":"KS00EA368E9EA34BAD9C03C0F291D056D9",
+    "ks:ks_name":"Tilaga",
+    "ks:ks_pop":1359,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1057346",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1014528",
+    "lbl:latitude":21.914353,
+    "lbl:longitude":83.49603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.914353,
+    "mps:longitude":83.49603,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tilga"
     ],
     "name:deu_x_preferred":[
+        "Tilga"
+    ],
+    "name:eng_x_preferred":[
+        "Tilaga"
+    ],
+    "name:eng_x_variant":[
         "Tilga"
     ],
     "name:est_x_preferred":[
@@ -48,7 +64,13 @@
     "name:vol_x_preferred":[
         "Tilga"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10750276
+        "gn:id":10750276,
+        "ks:id":"KS00EA368E9EA34BAD9C03C0F291D056D9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"da0f0ca70dc5e600fd7c01722d7dbaa7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a515afcf2e4086d53bf519a139ba1d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1344099631,
-    "wof:lastmodified":1566686380,
-    "wof:name":"Tilga",
+    "wof:lastmodified":1682951934,
+    "wof:name":"Tilaga",
     "wof:parent_id":1108696179,
     "wof:placetype":"locality",
+    "wof:population":1359,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.49624,
-    21.91471,
-    83.49624,
-    21.91471
+    83.494273,
+    21.911523,
+    83.499393,
+    21.919608
 ],
-  "geometry": {"coordinates":[83.49624,21.91471],"type":"Point"}
+  "geometry": {"coordinates":[[[83.497506,21.919608],[83.497506,21.919339],[83.497776,21.919339],[83.497776,21.919069],[83.49831500000001,21.919069],[83.49831500000001,21.917183],[83.49858399999999,21.917183],[83.49858399999999,21.916644],[83.49885399999999,21.916644],[83.49885399999999,21.916105],[83.499123,21.916105],[83.499123,21.915566],[83.499393,21.915566],[83.499393,21.914488],[83.499123,21.914488],[83.499123,21.913949],[83.49885399999999,21.913949],[83.49885399999999,21.913679],[83.49858399999999,21.913679],[83.49858399999999,21.91341],[83.497506,21.91341],[83.497506,21.915566],[83.497237,21.915566],[83.497237,21.91341],[83.496967,21.91341],[83.496967,21.912601],[83.49669799999999,21.912601],[83.49669799999999,21.911523],[83.495351,21.911523],[83.495351,21.912332],[83.494812,21.912332],[83.494812,21.91314],[83.495351,21.91314],[83.495351,21.91341],[83.494812,21.91341],[83.494812,21.914488],[83.49427300000001,21.914488],[83.49427300000001,21.915566],[83.49589,21.915566],[83.49589,21.915835],[83.494812,21.915835],[83.494812,21.916374],[83.495351,21.916374],[83.495351,21.917452],[83.49589,21.917452],[83.49589,21.917183],[83.49642799999999,21.917183],[83.49642799999999,21.917722],[83.496967,21.917722],[83.496967,21.919069],[83.49642799999999,21.919069],[83.49642799999999,21.919608],[83.497506,21.919608]]],"type":"Polygon"}
 }

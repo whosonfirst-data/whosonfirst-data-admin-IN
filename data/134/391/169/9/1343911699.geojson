@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.4146,25.35666,85.4146,25.35666",
-    "geom:latitude":25.35666,
-    "geom:longitude":85.4146,
+    "geom:bbox":"85.413974,25.355893,85.416367,25.357432",
+    "geom:latitude":25.356568,
+    "geom:longitude":85.415092,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"229.0",
     "gn:asciiname":"Sabalpur",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.3946,25.33666,85.4346,25.37666",
+    "ks:ks_id":"KSC8A9E8943E944D11BF025BA02EDF3936",
+    "ks:ks_name":"Shabalpur",
+    "ks:ks_pop":910,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|974556",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2069202",
+    "lbl:latitude":25.356596,
+    "lbl:longitude":85.414995,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.356596,
+    "mps:longitude":85.414995,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Sabalpur"
+    ],
+    "name:eng_x_preferred":[
+        "Shabalpur"
+    ],
+    "name:eng_x_variant":[
         "Sabalpur"
     ],
     "name:spa_x_preferred":[
@@ -42,7 +58,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0628\u0644\u067e\u0648\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -51,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11028751
+        "gn:id":11028751,
+        "ks:id":"KSC8A9E8943E944D11BF025BA02EDF3936"
     },
     "wof:country":"IN",
-    "wof:geomhash":"43e91ef4bac2d4fc8f41843bc187e583",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"847f2070e79a8d4ab0929bd3c4f2c37a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1343911699,
-    "wof:lastmodified":1566685508,
-    "wof:name":"Sabalpur",
+    "wof:lastmodified":1682945657,
+    "wof:name":"Shabalpur",
     "wof:parent_id":890507605,
     "wof:placetype":"locality",
+    "wof:population":910,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.4146,
-    25.35666,
-    85.4146,
-    25.35666
+    85.413974,
+    25.355893,
+    85.416367,
+    25.357432
 ],
-  "geometry": {"coordinates":[85.41459999999999,25.35666],"type":"Point"}
+  "geometry": {"coordinates":[[[85.415059,25.357432],[85.41506,25.357342],[85.41525900000001,25.357344],[85.41526,25.357254],[85.415359,25.357255],[85.41536000000001,25.357165],[85.41546,25.357166],[85.41546099999999,25.357075],[85.41565900000001,25.357078],[85.415661,25.356987],[85.41576000000001,25.356988],[85.415761,25.356898],[85.41586100000001,25.356899],[85.415862,25.356809],[85.41606,25.356811],[85.416062,25.356721],[85.416161,25.356722],[85.416163,25.356541],[85.41636200000001,25.356543],[85.41636699999999,25.356182],[85.416267,25.356181],[85.416269,25.356091],[85.416169,25.35609],[85.41616999999999,25.356],[85.415773,25.355995],[85.415774,25.355905],[85.414681,25.355893],[85.41468,25.355984],[85.414382,25.35598],[85.41438100000001,25.356071],[85.413983,25.356066],[85.41398100000001,25.356247],[85.41408,25.356248],[85.41407599999999,25.356609],[85.41397600000001,25.356608],[85.413974,25.356789],[85.414073,25.35679],[85.414072,25.35688],[85.41417199999999,25.356881],[85.41417,25.356971],[85.41427,25.356972],[85.414267,25.357153],[85.414367,25.357154],[85.414366,25.357244],[85.41446500000001,25.357245],[85.414463,25.357426],[85.415059,25.357432]]],"type":"Polygon"}
 }

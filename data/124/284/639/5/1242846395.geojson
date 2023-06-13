@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.6969,19.33232,76.6969,19.33232",
-    "geom:latitude":19.33232,
-    "geom:longitude":76.6969,
+    "geom:bbox":"76.696185,19.330977,76.697997,19.332792",
+    "geom:latitude":19.331975,
+    "geom:longitude":76.697102,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"513.0",
     "gn:asciiname":"Tuljapur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.6769,19.31232,76.7169,19.35232",
+    "ks:ks_alt_nam":"Tulj\u0101pur",
+    "ks:ks_id":"KS4D3595AA223B4CE9903B886142C57C28",
+    "ks:ks_name":"Tuljapur",
+    "ks:ks_pop":302,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1064897",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_554099",
+    "lbl:latitude":19.33198,
+    "lbl:longitude":76.697119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.33198,
+    "mps:longitude":76.697119,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b2\u099c\u09be\u09aa\u09c1\u09b0"
@@ -41,6 +52,12 @@
     ],
     "name:deu_x_preferred":[
         "Tuljapur"
+    ],
+    "name:eng_x_preferred":[
+        "Tuljapur"
+    ],
+    "name:eng_x_variant":[
+        "Tulj\u0101pur"
     ],
     "name:hif_x_preferred":[
         "Tuljapur"
@@ -78,7 +95,13 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u8d3e\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -87,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10433609
+        "gn:id":10433609,
+        "ks:id":"KS4D3595AA223B4CE9903B886142C57C28"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a9a73834dda4f2d057c9dc6c5e515656",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0796bdc82189373e8d91fce78cedbfb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,20 +128,22 @@
         }
     ],
     "wof:id":1242846395,
-    "wof:lastmodified":1566707628,
+    "wof:lastmodified":1682695087,
     "wof:name":"Tuljapur",
     "wof:parent_id":1108696301,
     "wof:placetype":"locality",
+    "wof:population":302,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.6969,
-    19.33232000000001,
-    76.6969,
-    19.33232000000001
+    76.696185,
+    19.330977,
+    76.697997,
+    19.332792
 ],
-  "geometry": {"coordinates":[76.6969,19.33232000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[76.697146,19.332786],[76.69714500000001,19.332696],[76.69743099999999,19.332693],[76.69743,19.332603],[76.697715,19.3326],[76.697714,19.33251],[76.69781,19.332509],[76.69780900000001,19.332419],[76.69790399999999,19.332418],[76.697902,19.332237],[76.697997,19.332236],[76.697992,19.331785],[76.697897,19.331785],[76.69789299999999,19.331424],[76.69779800000001,19.331425],[76.69779699999999,19.331335],[76.69770200000001,19.331336],[76.697701,19.331245],[76.69760599999999,19.331246],[76.697605,19.331156],[76.69750999999999,19.331157],[76.697509,19.331066],[76.69741399999999,19.331067],[76.697413,19.330977],[76.69722299999999,19.330979],[76.69722400000001,19.331069],[76.697033,19.331071],[76.697034,19.331161],[76.696939,19.331162],[76.69694,19.331252],[76.696845,19.331253],[76.69684599999999,19.331344],[76.69665500000001,19.331345],[76.696656,19.331436],[76.696561,19.331436],[76.696562,19.331527],[76.696467,19.331528],[76.696468,19.331618],[76.69637299999999,19.331619],[76.69637400000001,19.331709],[76.696279,19.33171],[76.69628,19.331891],[76.696185,19.331892],[76.696191,19.332434],[76.696286,19.332433],[76.696288,19.332613],[76.696383,19.332613],[76.69638399999999,19.332703],[76.696479,19.332702],[76.69647999999999,19.332792],[76.697146,19.332786]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.82244,24.58261,76.82244,24.58261",
-    "geom:latitude":24.58261,
-    "geom:longitude":76.82244,
+    "geom:bbox":"76.822813,24.582311,76.823809,24.583124",
+    "geom:latitude":24.582701,
+    "geom:longitude":76.823333,
     "gn:admin1_code":"24.0",
     "gn:admin2_code":"128.0",
     "gn:asciiname":"Nawabganj",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"76.80244,24.56261,76.84244,24.60261",
+    "ks:ks_id":"KSE49F1A59AB0D41409E6AA50D4246EB61",
+    "ks:ks_name":"Nawab Ganj",
+    "ks:ks_pop":783,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|770188",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_914507",
+    "lbl:latitude":24.582702,
+    "lbl:longitude":76.823343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.582702,
+    "mps:longitude":76.823343,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0627\u0628\u063a\u0627\u0646\u062c"
@@ -52,6 +62,12 @@
         "Nawabganj"
     ],
     "name:deu_x_preferred":[
+        "Nawabganj"
+    ],
+    "name:eng_x_preferred":[
+        "Nawab Ganj"
+    ],
+    "name:eng_x_variant":[
         "Nawabganj"
     ],
     "name:fas_x_preferred":[
@@ -138,7 +154,13 @@
     "name:zho_tw_x_preferred":[
         "\u7d0d\u74e6\u5e03\u6839\u5091"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -147,10 +169,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10336372
+        "gn:id":10336372,
+        "ks:id":"KSE49F1A59AB0D41409E6AA50D4246EB61"
     },
     "wof:country":"IN",
-    "wof:geomhash":"16680666e36ab52fe1d78de7f1ede008",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c8639f33db5782bedc370d0efd66047",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,20 +187,22 @@
         }
     ],
     "wof:id":1343416659,
-    "wof:lastmodified":1636505309,
-    "wof:name":"Nawabganj",
+    "wof:lastmodified":1682926999,
+    "wof:name":"Nawab Ganj",
     "wof:parent_id":1108695783,
     "wof:placetype":"locality",
+    "wof:population":783,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    76.82244,
-    24.58261,
-    76.82244,
-    24.58261
+    76.822813,
+    24.582311,
+    76.823809,
+    24.583124
 ],
-  "geometry": {"coordinates":[76.82244,24.58261],"type":"Point"}
+  "geometry": {"coordinates":[[[76.823712,24.583121],[76.823711,24.58303],[76.823809,24.583029],[76.823803,24.582578],[76.82370400000001,24.582579],[76.82370299999999,24.582489],[76.823604,24.58249],[76.82360300000001,24.5824],[76.823504,24.582401],[76.823503,24.582311],[76.823009,24.582317],[76.82301,24.582407],[76.822813,24.582409],[76.822818,24.58277],[76.822917,24.582769],[76.822918,24.582859],[76.82301699999999,24.582858],[76.823018,24.582949],[76.823117,24.582947],[76.82311799999999,24.583038],[76.823415,24.583034],[76.82341599999999,24.583124],[76.823712,24.583121]]],"type":"Polygon"}
 }

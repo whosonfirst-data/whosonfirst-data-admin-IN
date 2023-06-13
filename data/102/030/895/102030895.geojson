@@ -11,12 +11,17 @@
     "geom:longitude":80.577361,
     "gn:population":46168,
     "iso:country":"IN",
-    "lbl:latitude":25.287976,
-    "lbl:longitude":80.574434,
+    "ks:ks_id":"KSEC23E135727B4959AD8A861CB24A168F",
+    "ks:ks_name":"Atarra",
+    "ks:ks_source_id":"N|-2089276",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_793565",
+    "lbl:latitude":25.287739,
+    "lbl:longitude":80.573662,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":25.284437,
-    "mps:longitude":80.568237,
+    "mps:latitude":25.287739,
+    "mps:longitude":80.573662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Atarra"
+    ],
+    "name:eng_x_variant":[
+        "Atarra Buzurg"
     ],
     "name:ita_x_preferred":[
         "Atarra"
@@ -83,9 +91,10 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -97,15 +106,18 @@
     "wof:concordances":{
         "gn:id":1278228,
         "gp:id":2288854,
+        "ks:id":"KSEC23E135727B4959AD8A861CB24A168F",
         "qs_pg:id":132517,
         "wd:id":"Q585869",
         "wk:page":"Atarra"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
-    "wof:geomhash":"7e091db8e9f1f24b3ae4c97cd4523204",
+    "wof:geomhash":"f1dc5621efc2ddef875bf8d0fa4698aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,8 +128,8 @@
         }
     ],
     "wof:id":102030895,
-    "wof:lastmodified":1658780732,
-    "wof:name":"Atarra Buzurg",
+    "wof:lastmodified":1682525138,
+    "wof:name":"Atarra",
     "wof:parent_id":1108695835,
     "wof:placetype":"locality",
     "wof:population":46168,
@@ -133,5 +145,5 @@
     80.595139,
     25.299502
 ],
-  "geometry": {"coordinates":[[[[80.55732399999999,25.293623],[80.559099,25.297693],[80.562321,25.299502],[80.57834099999999,25.290463],[80.578659,25.294863],[80.585323,25.298914],[80.585323,25.298914],[80.59414,25.288288],[80.593058,25.284542],[80.595139,25.280297],[80.59406799999999,25.276721],[80.582903,25.279715],[80.57757700000001,25.276802],[80.57174999999999,25.277051],[80.564759,25.282961],[80.562428,25.28887],[80.55732399999999,25.293623]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[80.55732399999999,25.293623],[80.559099,25.297693],[80.562321,25.299502],[80.57834099999999,25.290463],[80.578659,25.294863],[80.585323,25.298914],[80.59414,25.288288],[80.593058,25.284542],[80.595139,25.280297],[80.59406799999999,25.276721],[80.582903,25.279715],[80.57757700000001,25.276802],[80.57174999999999,25.277051],[80.564759,25.282961],[80.562428,25.28887],[80.55732399999999,25.293623]]]],"type":"MultiPolygon"}
 }

@@ -13,12 +13,19 @@
     "gn:longitude":76.86035,
     "gn:population":28848,
     "iso:country":"IN",
-    "lbl:latitude":11.42181,
-    "lbl:longitude":76.861781,
+    "ks:ks_id":"KS1C7459A0F4B94EE6827E18E42C622993",
+    "ks:ks_name":"Kotagiri",
+    "ks:ks_pop":29192,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|3311000441108000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_131021",
+    "lbl:latitude":11.42504,
+    "lbl:longitude":76.863481,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":11.422833,
-    "mps:longitude":76.863736,
+    "mps:latitude":11.42504,
+    "mps:longitude":76.863481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -151,10 +158,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":277,
     "wof:belongsto":[
         102191569,
@@ -166,13 +175,16 @@
     "wof:concordances":{
         "gn:id":1266038,
         "gp:id":2294396,
+        "ks:id":"KS1C7459A0F4B94EE6827E18E42C622993",
         "qs_pg:id":131728,
         "wd:id":"Q279106",
         "wk:page":"Kotagiri"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"b3f77cf3b4d28781e7b1fcafc8dfa9ed",
     "wof:hierarchy":[
@@ -185,11 +197,11 @@
         }
     ],
     "wof:id":102029667,
-    "wof:lastmodified":1658780756,
+    "wof:lastmodified":1682524075,
     "wof:name":"Kotagiri",
     "wof:parent_id":1108696349,
     "wof:placetype":"locality",
-    "wof:population":28848,
+    "wof:population":29192,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

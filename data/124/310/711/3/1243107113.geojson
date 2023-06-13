@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.83985,27.564,80.83985,27.564",
-    "geom:latitude":27.564,
-    "geom:longitude":80.83985,
+    "geom:bbox":"80.838696,27.562875,80.840825,27.56477",
+    "geom:latitude":27.563883,
+    "geom:longitude":80.839767,
     "gn:admin1_code":"36",
     "gn:admin2_code":"154.0",
     "gn:asciiname":"Gangapur",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.81985,27.544,80.85985,27.584",
+    "ks:ks_id":"KSAE0BEBCCDC5C4ADFB23A59EDFAD7596D",
+    "ks:ks_name":"Gangapur",
+    "ks:ks_pop":270,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|343567",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2005887",
+    "lbl:latitude":27.563822,
+    "lbl:longitude":80.839787,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.563822,
+    "mps:longitude":80.839787,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0917\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:ceb_x_preferred":[
         "Gangapur"
+    ],
+    "name:eng_x_preferred":[
+        "Gangapur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0902\u0917\u093e\u092a\u0941\u0930"
     ],
     "name:ita_x_preferred":[
         "Gangapur"
@@ -48,7 +64,13 @@
     "name:vie_x_preferred":[
         "Gangapur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -57,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10711429
+        "gn:id":10711429,
+        "ks:id":"KSAE0BEBCCDC5C4ADFB23A59EDFAD7596D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"349861eed0a8e9b51e2eed018233d8c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc195af15ebc79eb09e9c80d16347c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +97,22 @@
         }
     ],
     "wof:id":1243107113,
-    "wof:lastmodified":1566708568,
+    "wof:lastmodified":1686164110,
     "wof:name":"Gangapur",
     "wof:parent_id":1108695815,
     "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.83985,
-    27.564,
-    80.83985,
-    27.564
+    80.838696,
+    27.562875,
+    80.840825,
+    27.56477
 ],
-  "geometry": {"coordinates":[80.83985,27.564],"type":"Point"}
+  "geometry": {"coordinates":[[[80.839708,27.56477],[80.839709,27.56468],[80.83981,27.56468],[80.83981,27.56459],[80.840013,27.56459],[80.840013,27.5645],[80.840114,27.5645],[80.840114,27.56441],[80.840317,27.56441],[80.840317,27.56432],[80.840418,27.56432],[80.840418,27.564229],[80.84052,27.56423],[80.84052,27.564139],[80.840621,27.564139],[80.840621,27.564049],[80.840824,27.564049],[80.840825,27.563598],[80.840723,27.563598],[80.840723,27.563417],[80.840622,27.563417],[80.840622,27.563327],[80.840521,27.563327],[80.840521,27.563236],[80.84041999999999,27.563236],[80.84041999999999,27.563146],[80.84031899999999,27.563146],[80.84031899999999,27.563056],[80.84011599999999,27.563055],[80.84011599999999,27.562965],[80.84001499999999,27.562965],[80.84001499999999,27.562875],[80.83991399999999,27.562875],[80.83991399999999,27.562965],[80.83960999999999,27.562965],[80.83960999999999,27.563055],[80.83940699999999,27.563055],[80.83940699999999,27.563145],[80.83930599999999,27.563145],[80.839305,27.563325],[80.839204,27.563325],[80.839204,27.563506],[80.83910299999999,27.563506],[80.839102,27.563776],[80.839001,27.563776],[80.839001,27.563867],[80.838899,27.563867],[80.838899,27.564137],[80.838798,27.564137],[80.838798,27.564228],[80.838696,27.564227],[80.838696,27.564408],[80.838797,27.564408],[80.838797,27.564589],[80.838898,27.564589],[80.838898,27.564679],[80.839,27.564679],[80.838999,27.564769],[80.839708,27.56477]]],"type":"Polygon"}
 }

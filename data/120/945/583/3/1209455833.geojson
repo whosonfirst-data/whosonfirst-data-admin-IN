@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.01034,25.14429,85.01034,25.14429",
-    "geom:latitude":25.14429,
-    "geom:longitude":85.01034,
+    "geom:bbox":"85.00991,25.144111,85.010988,25.145458",
+    "geom:latitude":25.144683,
+    "geom:longitude":85.010382,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"239.0",
     "gn:asciiname":"Murasa",
@@ -24,43 +24,74 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.99034,25.12429,85.03034,25.16429",
+    "ks:ks_id":"KS10CD400E26304803903E00E0749493FE",
+    "ks:ks_name":"Murasa",
+    "ks:ks_pop":443,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|727708",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1333844",
+    "lbl:latitude":25.144538,
+    "lbl:longitude":85.010318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.144538,
+    "mps:longitude":85.010318,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Murasa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672225,
+        1108695953
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11017130
+        "gn:id":11017130,
+        "ks:id":"KS10CD400E26304803903E00E0749493FE"
     },
     "wof:country":"IN",
-    "wof:geomhash":"5fc65ed1e4b5a80bdf8e80a46a1da125",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c540a081453005b87e21def8fb92ee94",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209455833
+            "county_id":1108695953,
+            "locality_id":1209455833,
+            "region_id":85672225
         }
     ],
     "wof:id":1209455833,
-    "wof:lastmodified":1566696872,
+    "wof:lastmodified":1682619173,
     "wof:name":"Murasa",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695953,
     "wof:placetype":"locality",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.01034,
-    25.14429,
-    85.01034,
-    25.14429
+    85.00991,
+    25.144111,
+    85.010988,
+    25.145458
 ],
-  "geometry": {"coordinates":[85.01034,25.14429],"type":"Point"}
+  "geometry": {"coordinates":[[[85.01044899999999,25.145458],[85.01044899999999,25.144919],[85.010988,25.144919],[85.010988,25.144111],[85.00991,25.144111],[85.00991,25.145458],[85.01044899999999,25.145458]]],"type":"Polygon"}
 }

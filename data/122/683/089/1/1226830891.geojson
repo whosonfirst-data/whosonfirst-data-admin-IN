@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.10926,20.55418,78.10926,20.55418",
-    "geom:latitude":20.55418,
-    "geom:longitude":78.10926,
+    "geom:bbox":"78.109039,20.553412,78.110392,20.554857",
+    "geom:latitude":20.554175,
+    "geom:longitude":78.109638,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"510.0",
     "gn:asciiname":"Panas",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.08926,20.53418,78.12926,20.57418",
+    "ks:ks_alt_nam":"P\u0101nas",
+    "ks:ks_id":"KSB632E416AF7E44808EAFA94667B70AFC",
+    "ks:ks_name":"Panas",
+    "ks:ks_pop":216,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|814303",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_871866",
+    "lbl:latitude":20.554137,
+    "lbl:longitude":78.109625,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.554137,
+    "mps:longitude":78.109625,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Panas"
+    ],
+    "name:eng_x_preferred":[
+        "Panas"
+    ],
+    "name:eng_x_variant":[
+        "P\u0101nas"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0441"
@@ -39,7 +56,13 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0441"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10214566
+        "gn:id":10214566,
+        "ks:id":"KSB632E416AF7E44808EAFA94667B70AFC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"06dc296df28d6231713c9cc0157d66b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6a183f57f93a6c040c3b562f5a01938c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1226830891,
-    "wof:lastmodified":1566712876,
+    "wof:lastmodified":1682684319,
     "wof:name":"Panas",
     "wof:parent_id":890506475,
     "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.10925999999998,
-    20.55418,
-    78.10925999999998,
-    20.55418
+    78.109039,
+    20.553412,
+    78.110392,
+    20.554857
 ],
-  "geometry": {"coordinates":[78.10925999999998,20.55418],"type":"Point"}
+  "geometry": {"coordinates":[[[78.109516,20.554857],[78.10951799999999,20.554767],[78.10980499999999,20.554772],[78.109807,20.554682],[78.110095,20.554687],[78.110096,20.554596],[78.110288,20.5546],[78.110291,20.554419],[78.110387,20.554421],[78.110392,20.55415],[78.11029600000001,20.554148],[78.1103,20.553968],[78.110204,20.553966],[78.110207,20.553786],[78.110112,20.553784],[78.110113,20.553694],[78.110017,20.553692],[78.11001899999999,20.553602],[78.10982799999999,20.553599],[78.109829,20.553509],[78.109542,20.553504],[78.109544,20.553414],[78.109448,20.553412],[78.10944600000001,20.553502],[78.10925400000001,20.553499],[78.109253,20.553589],[78.109157,20.553588],[78.10915300000001,20.553768],[78.109058,20.553767],[78.109039,20.554759],[78.10913499999999,20.554761],[78.109133,20.554851],[78.109516,20.554857]]],"type":"Polygon"}
 }

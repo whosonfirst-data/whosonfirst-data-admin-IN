@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.90911,26.73969,79.90911,26.73969",
-    "geom:latitude":26.73969,
-    "geom:longitude":79.90911,
+    "geom:bbox":"79.908527,26.73899,79.909731,26.740167",
+    "geom:latitude":26.739568,
+    "geom:longitude":79.909087,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"163.0",
     "gn:asciiname":"Murri",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.88911,26.71969,79.92911,26.75969",
+    "ks:ks_id":"KSCC52FB2269E74E0580B6181884651289",
+    "ks:ks_name":"Murri",
+    "ks:ks_pop":421,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1144943",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1879436",
+    "lbl:latitude":26.739625,
+    "lbl:longitude":79.909135,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.739625,
+    "mps:longitude":79.909135,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Murri"
     ],
     "name:ceb_x_preferred":[
+        "Murri"
+    ],
+    "name:eng_x_preferred":[
         "Murri"
     ],
     "name:ita_x_preferred":[
@@ -45,7 +58,13 @@
     "name:swe_x_preferred":[
         "Murri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -54,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7004171
+        "gn:id":7004171,
+        "ks:id":"KSCC52FB2269E74E0580B6181884651289"
     },
     "wof:country":"IN",
-    "wof:geomhash":"175b495178f4cb734097e14f17bd6380",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ab44298c7d03c59a6367edf36fbf0725",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +91,22 @@
         }
     ],
     "wof:id":1293736051,
-    "wof:lastmodified":1566691408,
+    "wof:lastmodified":1682829045,
     "wof:name":"Murri",
     "wof:parent_id":890505615,
     "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.90911,
-    26.73969,
-    79.90911,
-    26.73969
+    79.908527,
+    26.73899,
+    79.909731,
+    26.740167
 ],
-  "geometry": {"coordinates":[79.90911,26.73969],"type":"Point"}
+  "geometry": {"coordinates":[[[79.909223,26.740167],[79.90922399999999,26.740077],[79.909425,26.740078],[79.909426,26.739988],[79.909527,26.739989],[79.90952900000001,26.739808],[79.90973,26.73981],[79.90973099999999,26.73972],[79.90963000000001,26.739719],[79.909633,26.739448],[79.909532,26.739447],[79.909533,26.739357],[79.909432,26.739356],[79.90943300000001,26.739266],[79.909333,26.739265],[79.909334,26.739175],[79.909233,26.739174],[79.909234,26.739084],[79.909133,26.739083],[79.90913399999999,26.738993],[79.908732,26.73899],[79.908731,26.73908],[79.908631,26.739079],[79.90863,26.739169],[79.908529,26.739169],[79.90852700000001,26.739349],[79.90862799999999,26.73935],[79.908626,26.739531],[79.908727,26.739531],[79.90872400000001,26.739802],[79.908624,26.739801],[79.90862199999999,26.739982],[79.908924,26.739984],[79.908923,26.740074],[79.909023,26.740075],[79.90902199999999,26.740166],[79.909223,26.740167]]],"type":"Polygon"}
 }

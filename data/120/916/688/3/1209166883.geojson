@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.95345,25.49336,82.95345,25.49336",
-    "geom:latitude":25.49336,
-    "geom:longitude":82.95345,
+    "geom:bbox":"82.952049,25.492567,82.954205,25.494454",
+    "geom:latitude":25.49355,
+    "geom:longitude":82.953119,
     "gn:admin1_code":"36",
     "gn:admin2_code":"197.0",
     "gn:asciiname":"Shivdaspur",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.93345,25.47336,82.97345,25.51336",
+    "ks:ks_id":"KSDFAA2B23D5A34ACB99EEB8C4C65184ED",
+    "ks:ks_name":"Shivdaspur",
+    "ks:ks_pop":298,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|984672",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"WSFEVO_1353524",
+    "lbl:latitude":25.493622,
+    "lbl:longitude":82.953119,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.493622,
+    "mps:longitude":82.953119,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0936\u093f\u0935\u0926\u093e\u0938\u092a\u0941\u0930"
     ],
     "name:bpy_x_preferred":[
         "\u09b6\u09bf\u09ac\u09a6\u09be\u09b8\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Shivdaspur"
     ],
     "name:ita_x_preferred":[
         "Shivdaspur"
@@ -60,37 +73,55 @@
     "name:zho_x_preferred":[
         "\u65af\u5e0c\u6c83\u8fbe\u65af\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890510613
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10547121
+        "gn:id":10547121,
+        "ks:id":"KSDFAA2B23D5A34ACB99EEB8C4C65184ED"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d4da5602652e79c0cdbcf8c237379e0c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e025c7c03be981b700c4e3e91701ff09",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209166883
+            "county_id":890510613,
+            "locality_id":1209166883,
+            "region_id":85672205
         }
     ],
     "wof:id":1209166883,
-    "wof:lastmodified":1566696551,
+    "wof:lastmodified":1682608942,
     "wof:name":"Shivdaspur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890510613,
     "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.95345,
-    25.49336,
-    82.95345,
-    25.49336
+    82.952049,
+    25.492567,
+    82.954205,
+    25.494454
 ],
-  "geometry": {"coordinates":[82.95345,25.49336],"type":"Point"}
+  "geometry": {"coordinates":[[[82.953666,25.494454],[82.953666,25.493915],[82.954205,25.493915],[82.954205,25.493645],[82.953936,25.493645],[82.953936,25.493106],[82.953666,25.493106],[82.953666,25.492567],[82.95285800000001,25.492567],[82.95285800000001,25.493106],[82.952319,25.493106],[82.952319,25.493645],[82.952049,25.493645],[82.952049,25.494184],[82.95312699999999,25.494184],[82.95312699999999,25.494454],[82.953666,25.494454]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Phatepur"
@@ -50,35 +51,43 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890503165
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10829314
     },
     "wof:country":"IN",
-    "wof:geomhash":"f8970926498e454987a8d73db5d0b31b",
+    "wof:geomhash":"0cb6cbe8823dd2549c01ed6100b0ba7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209088205
+            "county_id":890503165,
+            "locality_id":1209088205,
+            "region_id":85672171
         }
     ],
     "wof:id":1209088205,
-    "wof:lastmodified":1566694845,
+    "wof:lastmodified":1682604667,
     "wof:name":"Phatepur",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890503165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847131577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.99793000000003,
+    74.99793,
     21.39658,
-    74.99793000000003,
+    74.99793,
     21.39658
 ],
-  "geometry": {"coordinates":[74.99793000000003,21.39658],"type":"Point"}
+  "geometry": {"coordinates":[74.99793,21.39658],"type":"Point"}
 }

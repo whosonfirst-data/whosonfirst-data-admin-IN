@@ -11,12 +11,20 @@
     "geom:longitude":76.289603,
     "gn:population":25815,
     "iso:country":"IN",
-    "lbl:latitude":27.890134,
-    "lbl:longitude":76.285162,
+    "ks:ks_id":"KS6F50105F02FA4660BC7CD15E64117C73",
+    "ks:ks_name":"Behror",
+    "ks:ks_pop":22856,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2090920",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1770121",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":27.892359,
+    "lbl:longitude":76.289869,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
-    "mps:latitude":27.931327,
-    "mps:longitude":76.316528,
+    "mps:latitude":27.892359,
+    "mps:longitude":76.289869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -87,10 +95,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":542,
     "wof:belongsto":[
         102191569,
@@ -102,13 +112,16 @@
     "wof:concordances":{
         "gn:id":1276589,
         "gp:id":2274368,
+        "ks:id":"KS6F50105F02FA4660BC7CD15E64117C73",
         "qs_pg:id":132366,
         "wd:id":"Q760169",
         "wk:page":"Behror"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"a9e019a1b60cc95b6c8d211e76b98b43",
     "wof:hierarchy":[
@@ -121,11 +134,11 @@
         }
     ],
     "wof:id":102030749,
-    "wof:lastmodified":1658780736,
+    "wof:lastmodified":1682525001,
     "wof:name":"Behror",
     "wof:parent_id":890511195,
     "wof:placetype":"locality",
-    "wof:population":25815,
+    "wof:population":22856,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

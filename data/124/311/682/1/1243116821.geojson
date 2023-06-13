@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.1484,23.09123,80.1484,23.09123",
-    "geom:latitude":23.09123,
-    "geom:longitude":80.1484,
+    "geom:bbox":"80.146341,23.089215,80.154157,23.094604",
+    "geom:latitude":23.092062,
+    "geom:longitude":80.149629,
     "gn:admin1_code":"35.0",
     "gn:admin2_code":"451.0",
     "gn:asciiname":"Dhanpuri",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.1284,23.07123,80.1684,23.11123",
+    "ks:ks_id":"KS7A8ECEEB36C742D1A73FE1F78B6E6691",
+    "ks:ks_name":"Dhanpuri",
+    "ks:ks_pop":1182,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|288243",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_731126",
+    "lbl:latitude":23.091861,
+    "lbl:longitude":80.148977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":23.091861,
+    "mps:longitude":80.148977,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a7\u09a8\u09aa\u09c1\u09b0\u09bf"
     ],
     "name:bpy_x_preferred":[
         "\u09a7\u09a8\u09aa\u09c1\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Dhanpuri"
     ],
     "name:ind_x_preferred":[
         "Dhanpuri"
@@ -63,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u4e39\u666e\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -72,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10674831
+        "gn:id":10674831,
+        "ks:id":"KS7A8ECEEB36C742D1A73FE1F78B6E6691"
     },
     "wof:country":"IN",
-    "wof:geomhash":"365a1e0521ba4b63bc5f61be374bb70d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2ca6509bff383d4bbe16196ba2ccc515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,20 +109,22 @@
         }
     ],
     "wof:id":1243116821,
-    "wof:lastmodified":1566708394,
+    "wof:lastmodified":1682705192,
     "wof:name":"Dhanpuri",
     "wof:parent_id":1108696237,
     "wof:placetype":"locality",
+    "wof:population":1182,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.1484,
-    23.09123,
-    80.1484,
-    23.09123
+    80.146341,
+    23.089215,
+    80.154157,
+    23.094604
 ],
-  "geometry": {"coordinates":[80.1484,23.09123],"type":"Point"}
+  "geometry": {"coordinates":[[[80.149845,23.09191],[80.149845,23.090832],[80.149036,23.090832],[80.149036,23.090293],[80.148228,23.090293],[80.148228,23.089754],[80.14715,23.089754],[80.14715,23.089215],[80.14634100000001,23.089215],[80.14634100000001,23.090562],[80.14688,23.090562],[80.14688,23.091371],[80.14634100000001,23.091371],[80.14634100000001,23.092179],[80.14688,23.092179],[80.14688,23.092449],[80.147958,23.092449],[80.147958,23.092718],[80.149306,23.092718],[80.149306,23.092987],[80.149575,23.092987],[80.149575,23.093257],[80.15065300000001,23.093257],[80.15065300000001,23.093526],[80.151462,23.093526],[80.151462,23.093796],[80.15227,23.093796],[80.15227,23.094335],[80.15334799999999,23.094335],[80.15334799999999,23.094604],[80.154157,23.094604],[80.154157,23.092987],[80.151462,23.092987],[80.151462,23.092449],[80.15119199999999,23.092449],[80.15119199999999,23.09191],[80.149845,23.09191]]],"type":"Polygon"}
 }

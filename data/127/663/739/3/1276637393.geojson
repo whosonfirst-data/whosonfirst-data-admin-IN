@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.10242,21.01654,77.10242,21.01654",
-    "geom:latitude":21.01654,
-    "geom:longitude":77.10242,
+    "geom:bbox":"77.100899,21.01534,77.103689,21.017431",
+    "geom:latitude":21.016375,
+    "geom:longitude":77.102341,
     "gn:admin1_code":"16",
     "gn:admin2_code":"501.0",
     "gn:asciiname":"Vitali",
@@ -24,17 +24,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.08242,20.99654,77.12242,21.03654",
+    "ks:ks_alt_nam":"Vit\u0101li",
+    "ks:ks_id":"KS6D22D7D7F50F4E058B174CC383B25678",
+    "ks:ks_name":"Vitali",
+    "ks:ks_pop":604,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1099468",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_856483",
+    "lbl:latitude":21.016433,
+    "lbl:longitude":77.102368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.016433,
+    "mps:longitude":77.102368,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vitali"
     ],
     "name:deu_x_preferred":[
         "Vitali"
+    ],
+    "name:eng_x_preferred":[
+        "Vitali"
+    ],
+    "name:eng_x_variant":[
+        "Vit\u0101li"
     ],
     "name:fin_x_preferred":[
         "Vitali"
@@ -60,7 +77,13 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0442\u0430\u043b\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512121
+        "gn:id":10512121,
+        "ks:id":"KS6D22D7D7F50F4E058B174CC383B25678"
     },
     "wof:country":"IN",
-    "wof:geomhash":"57d7144107c1629548e2d6da11b598e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b0ed1d7dadc55a787793821a1082d65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +110,22 @@
         }
     ],
     "wof:id":1276637393,
-    "wof:lastmodified":1566693927,
+    "wof:lastmodified":1682781144,
     "wof:name":"Vitali",
     "wof:parent_id":890502567,
     "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.10242,
-    21.01654,
-    77.10242,
-    21.01654
+    77.100899,
+    21.01534,
+    77.103689,
+    21.017431
 ],
-  "geometry": {"coordinates":[77.10242,21.01654],"type":"Point"}
+  "geometry": {"coordinates":[[[77.102743,21.017422],[77.10274099999999,21.017331],[77.103126,21.017327],[77.10312500000001,21.017236],[77.103317,21.017234],[77.103314,21.017053],[77.10341099999999,21.017052],[77.103409,21.016962],[77.103506,21.016961],[77.10350200000001,21.01669],[77.10359800000001,21.016689],[77.103593,21.016327],[77.103689,21.016326],[77.10368,21.015694],[77.103584,21.015695],[77.103583,21.015605],[77.103487,21.015606],[77.10348500000001,21.015516],[77.10338900000001,21.015517],[77.103388,21.015427],[77.103099,21.01543],[77.103098,21.01534],[77.102906,21.015343],[77.102907,21.015433],[77.102042,21.015444],[77.10204299999999,21.015534],[77.10127300000001,21.015543],[77.101275,21.015634],[77.101179,21.015635],[77.10118,21.015725],[77.101084,21.015726],[77.101086,21.015907],[77.10099,21.015908],[77.100995,21.016269],[77.100899,21.01627],[77.100903,21.016541],[77.100999,21.01654],[77.10100300000001,21.016811],[77.101099,21.01681],[77.101101,21.01699],[77.101294,21.016988],[77.10129499999999,21.017078],[77.10139100000001,21.017077],[77.101392,21.017167],[77.101489,21.017166],[77.10149,21.017257],[77.101682,21.017254],[77.10168299999999,21.017344],[77.101972,21.017341],[77.101973,21.017431],[77.102743,21.017422]]],"type":"Polygon"}
 }

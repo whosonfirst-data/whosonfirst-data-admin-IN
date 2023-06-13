@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.28049,25.65524,83.28049,25.65524",
-    "geom:latitude":25.65524,
-    "geom:longitude":83.28049,
+    "geom:bbox":"83.28094,25.657046,83.283245,25.658483",
+    "geom:latitude":25.657708,
+    "geom:longitude":83.282135,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Sardarpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.26049,25.63524,83.30049,25.67524",
+    "ks:ks_id":"KS5945AD98092A4C7F8B25849D4DBBEC89",
+    "ks:ks_name":"Sardarpur",
+    "ks:ks_pop":2510,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|957547",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1944037",
+    "lbl:latitude":25.657592,
+    "lbl:longitude":83.282214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.657592,
+    "mps:longitude":83.282214,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09a6\u09be\u09b0\u09aa\u09c1\u09b0"
@@ -41,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "Sird\u0101rpore"
+    ],
+    "name:eng_x_preferred":[
+        "Sardarpur"
     ],
     "name:ita_x_preferred":[
         "Sardarpur"
@@ -66,7 +79,13 @@
     "name:zho_x_preferred":[
         "\u8428\u5c14\u8fbe\u5c14\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10501996
+        "gn:id":10501996,
+        "ks:id":"KS5945AD98092A4C7F8B25849D4DBBEC89"
     },
     "wof:country":"IN",
-    "wof:geomhash":"91fc20adb22ecca2c5f3b32efb93f829",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1fb7115e00dff390d63c47a7b4913194",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1242630013,
-    "wof:lastmodified":1566708223,
+    "wof:lastmodified":1682686852,
     "wof:name":"Sardarpur",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":2510,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.28049,
-    25.65524,
-    83.28049,
-    25.65524
+    83.28094,
+    25.657046,
+    83.283245,
+    25.658483
 ],
-  "geometry": {"coordinates":[83.28049,25.65524],"type":"Point"}
+  "geometry": {"coordinates":[[[83.283147,25.65848],[83.283146,25.65839],[83.28324499999999,25.658388],[83.28324000000001,25.658117],[83.28314,25.658119],[83.28313900000001,25.658029],[83.283039,25.65803],[83.28303699999999,25.65794],[83.282938,25.657942],[83.28293600000001,25.657851],[83.282837,25.657853],[83.28282799999999,25.657402],[83.28272800000001,25.657403],[83.282725,25.657223],[83.282625,25.657225],[83.282624,25.657134],[83.282524,25.657136],[83.282523,25.657046],[83.281925,25.657055],[83.281927,25.657145],[83.281628,25.65715],[83.28163000000001,25.65724],[83.28153,25.657242],[83.281532,25.657332],[83.281333,25.657335],[83.281335,25.657425],[83.281136,25.657428],[83.281137,25.657519],[83.281038,25.65752],[83.28103900000001,25.65761],[83.28094,25.657612],[83.280945,25.657883],[83.28104500000001,25.657881],[83.281046,25.657971],[83.281644,25.657962],[83.281645,25.658052],[83.281944,25.658048],[83.281946,25.658138],[83.28224400000001,25.658133],[83.282246,25.658223],[83.282644,25.658217],[83.282646,25.658307],[83.28284499999999,25.658304],[83.282847,25.658394],[83.28294699999999,25.658393],[83.282948,25.658483],[83.283147,25.65848]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.73812,26.94593,79.73812,26.94593",
-    "geom:latitude":26.94593,
-    "geom:longitude":79.73812,
+    "geom:bbox":"79.737716,26.945748,79.738929,26.946473",
+    "geom:latitude":26.946105,
+    "geom:longitude":79.738285,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"160.0",
     "gn:asciiname":"Surajpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.71812,26.92593,79.75812,26.96593",
+    "ks:ks_alt_nam":"Suraj pur",
+    "ks:ks_id":"KSEEFEC09067134B83B1022C6F30D26711",
+    "ks:ks_name":"Suraj Pur",
+    "ks:ks_pop":246,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1019417",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1885376",
+    "lbl:latitude":26.946111,
+    "lbl:longitude":79.738273,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.946111,
+    "mps:longitude":79.738273,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627\u062c \u0628\u0648\u0631"
@@ -49,6 +60,12 @@
         "\u09b8\u09c1\u09b0\u099c\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Surajpur"
+    ],
+    "name:eng_x_preferred":[
+        "Suraj Pur"
+    ],
+    "name:eng_x_variant":[
         "Surajpur"
     ],
     "name:fra_x_preferred":[
@@ -108,7 +125,13 @@
     "name:zho_x_preferred":[
         "\u82cf\u62c9\u6770\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -117,10 +140,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7003718
+        "gn:id":7003718,
+        "ks:id":"KSEEFEC09067134B83B1022C6F30D26711"
     },
     "wof:country":"IN",
-    "wof:geomhash":"3dec489e582ad69205f30a4ac1655cb1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4e0cc1a2beea1ef42e7b939061a3f68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,20 +158,22 @@
         }
     ],
     "wof:id":1293629165,
-    "wof:lastmodified":1577750089,
-    "wof:name":"Surajpur",
+    "wof:lastmodified":1682824652,
+    "wof:name":"Suraj Pur",
     "wof:parent_id":1108695823,
     "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.73812,
-    26.94593,
-    79.73812,
-    26.94593
+    79.737716,
+    26.945748,
+    79.738929,
+    26.946473
 ],
-  "geometry": {"coordinates":[79.73812,26.94593],"type":"Point"}
+  "geometry": {"coordinates":[[[79.73842,26.946473],[79.738421,26.946383],[79.73852100000001,26.946384],[79.738522,26.946293],[79.738623,26.946294],[79.738624,26.946204],[79.738725,26.946205],[79.738726,26.946115],[79.738827,26.946116],[79.738828,26.946025],[79.738928,26.946026],[79.738929,26.945936],[79.738829,26.945935],[79.73882999999999,26.945845],[79.73872900000001,26.945844],[79.73873,26.945754],[79.73812599999999,26.945748],[79.738125,26.945838],[79.73792299999999,26.945837],[79.737921,26.946017],[79.73782,26.946016],[79.737818,26.946197],[79.737718,26.946196],[79.73771600000001,26.946376],[79.737816,26.946377],[79.737815,26.946468],[79.73842,26.946473]]],"type":"Polygon"}
 }

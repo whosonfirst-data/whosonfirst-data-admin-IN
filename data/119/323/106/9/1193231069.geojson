@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"82.57474,26.06962,82.57474,26.06962",
-    "geom:latitude":26.06962,
-    "geom:longitude":82.57474,
+    "geom:bbox":"82.576555,26.068835,82.577957,26.070286",
+    "geom:latitude":26.069657,
+    "geom:longitude":82.577257,
     "gn:admin1_code":"36",
     "gn:admin2_code":"194.0",
     "gn:asciiname":"Koeripur",
@@ -24,14 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"82.55474,26.04962,82.59474,26.08962",
+    "ks:ks_id":"KSAD79D87863B647B2BD0B00CEB15C0E3E",
+    "ks:ks_name":"Kuiripur",
+    "ks:ks_pop":297,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0964000109323900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1930506",
+    "lbl:latitude":26.069678,
+    "lbl:longitude":82.57727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.069678,
+    "mps:longitude":82.57727,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09c7\u09b0\u09bf\u09aa\u09c1\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Kuiripur"
+    ],
+    "name:eng_x_variant":[
+        "Koeripur"
     ],
     "name:ita_x_preferred":[
         "Koeripur"
@@ -60,7 +76,13 @@
     "name:zho_x_preferred":[
         "\u79d1\u57c3\u91cc\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -69,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10622502
+        "gn:id":10622502,
+        "ks:id":"KSAD79D87863B647B2BD0B00CEB15C0E3E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"4adf4c38ebf347b3abb3e396064ed146",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7322f84802649734d1541f016bb84fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,20 +109,22 @@
         }
     ],
     "wof:id":1193231069,
-    "wof:lastmodified":1566697887,
-    "wof:name":"Koeripur",
+    "wof:lastmodified":1682599585,
+    "wof:name":"Kuiripur",
     "wof:parent_id":890507577,
     "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.57474,
-    26.06962,
-    82.57474,
-    26.06962
+    82.576555,
+    26.068835,
+    82.577957,
+    26.070286
 ],
-  "geometry": {"coordinates":[82.57474000000001,26.06962],"type":"Point"}
+  "geometry": {"coordinates":[[[82.577561,26.070277],[82.57755899999999,26.070187],[82.577859,26.070184],[82.57785699999999,26.070003],[82.577957,26.070002],[82.57795299999999,26.069731],[82.577853,26.069733],[82.57785,26.069462],[82.57774999999999,26.069463],[82.577747,26.069282],[82.577647,26.069283],[82.577645,26.069103],[82.577545,26.069104],[82.577544,26.069014],[82.577444,26.069015],[82.577443,26.068925],[82.577343,26.068926],[82.577341,26.068835],[82.57704200000001,26.068839],[82.577043,26.068929],[82.576943,26.06893],[82.576944,26.06902],[82.57684399999999,26.069021],[82.576849,26.069382],[82.57674900000001,26.069383],[82.576753,26.069654],[82.57665299999999,26.069655],[82.576655,26.069836],[82.576555,26.069837],[82.57655800000001,26.070018],[82.57665799999999,26.070016],[82.57666,26.070197],[82.57675999999999,26.070196],[82.576761,26.070286],[82.577561,26.070277]]],"type":"Polygon"}
 }

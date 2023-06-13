@@ -13,12 +13,21 @@
     "gn:longitude":77.31525,
     "gn:population":65496,
     "iso:country":"IN",
-    "lbl:latitude":8.959569,
-    "lbl:longitude":77.310754,
+    "ks:ks_alt_nam":"Tenk\u0101si",
+    "ks:ks_id":"KSF560B943D0F94DDABAFA5161C738C73C",
+    "ks:ks_name":"Tenkasi",
+    "ks:ks_pop":63432,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2112868",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_10936",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":8.965945,
+    "lbl:longitude":77.307814,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":8.977323,
-    "mps:longitude":77.305298,
+    "mps:latitude":8.965945,
+    "mps:longitude":77.307814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -44,6 +53,10 @@
     "name:eng_x_preferred":[
         "Tenkasi"
     ],
+    "name:eng_x_variant":[
+        "Thenkasi",
+        "Tenk\u0101si"
+    ],
     "name:fra_x_preferred":[
         "Tenkasi"
     ],
@@ -54,6 +67,9 @@
         "Tenkasi"
     ],
     "name:hin_x_preferred":[
+        "\u0924\u0947\u0928\u0915\u093e\u0938\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0924\u0947\u0928\u0915\u093e\u0936\u0940"
     ],
     "name:ita_x_preferred":[
@@ -137,10 +153,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":721,
     "wof:belongsto":[
         102191569,
@@ -152,13 +170,16 @@
     "wof:concordances":{
         "gn:id":1254744,
         "gp:id":2294711,
+        "ks:id":"KSF560B943D0F94DDABAFA5161C738C73C",
         "qs_pg:id":4425,
         "wd:id":"Q259749",
         "wk:page":"Tenkasi"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"85979c519dac79c6ef40d8c82bd78e60",
     "wof:hierarchy":[
@@ -171,11 +192,11 @@
         }
     ],
     "wof:id":102028471,
-    "wof:lastmodified":1658780775,
-    "wof:name":"Thenkasi",
+    "wof:lastmodified":1686162206,
+    "wof:name":"Tenkasi",
     "wof:parent_id":890507455,
     "wof:placetype":"locality",
-    "wof:population":65496,
+    "wof:population":63432,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.91228,25.23547,84.91228,25.23547",
-    "geom:latitude":25.23547,
-    "geom:longitude":84.91228,
+    "geom:bbox":"84.911275,25.234661,84.913431,25.235739",
+    "geom:latitude":25.235245,
+    "geom:longitude":84.912358,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"239.0",
     "gn:asciiname":"Dhawa",
@@ -24,14 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.89228,25.21547,84.93228,25.25547",
+    "ks:ks_alt_nam":"Dh\u0101wa",
+    "ks:ks_id":"KS8976AC1BBAA24650855EFE690BEE5AF9",
+    "ks:ks_name":"Dhawa",
+    "ks:ks_pop":534,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13282956",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1338196",
+    "lbl:latitude":25.2352,
+    "lbl:longitude":84.912516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.2352,
+    "mps:longitude":84.912516,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dhawa"
+    ],
+    "name:eng_x_preferred":[
+        "Dhawa"
+    ],
+    "name:eng_x_variant":[
+        "Dh\u0101wa"
     ],
     "name:mai_x_preferred":[
         "\u0927\u093e\u0935\u093e"
@@ -39,7 +56,13 @@
     "name:swe_x_preferred":[
         "Dhawa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10833844
+        "gn:id":10833844,
+        "ks:id":"KS8976AC1BBAA24650855EFE690BEE5AF9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c059e865285d097c7e07228f99ae4a4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad2acef6097421e4914b0b604b1258fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +89,22 @@
         }
     ],
     "wof:id":1326784157,
-    "wof:lastmodified":1566683759,
+    "wof:lastmodified":1682890572,
     "wof:name":"Dhawa",
     "wof:parent_id":1108695953,
     "wof:placetype":"locality",
+    "wof:population":534,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.91228000000002,
-    25.23547,
-    84.91228000000002,
-    25.23547
+    84.911275,
+    25.234661,
+    84.913431,
+    25.235739
 ],
-  "geometry": {"coordinates":[84.91228000000002,25.23547],"type":"Point"}
+  "geometry": {"coordinates":[[[84.913162,25.235739],[84.913162,25.235469],[84.913431,25.235469],[84.913431,25.23493],[84.913162,25.23493],[84.913162,25.234661],[84.91208399999999,25.234661],[84.91208399999999,25.23493],[84.911275,25.23493],[84.911275,25.235739],[84.913162,25.235739]]],"type":"Polygon"}
 }

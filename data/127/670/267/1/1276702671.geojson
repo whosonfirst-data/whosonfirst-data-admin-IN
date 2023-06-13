@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.05666,19.31627,79.05666,19.31627",
-    "geom:latitude":19.31627,
-    "geom:longitude":79.05666,
+    "geom:bbox":"79.055158,19.314404,79.056505,19.315752",
+    "geom:latitude":19.315132,
+    "geom:longitude":79.055885,
     "gn:admin1_code":"40.0",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Chorpalli",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.03666,19.29627,79.07666,19.33627",
+    "ks:ks_id":"KS036C90E20C294E4583305CFBC3D94E6F",
+    "ks:ks_name":"Chorpalle",
+    "ks:ks_pop":874,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2801002200081000",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_430947",
+    "lbl:latitude":19.315155,
+    "lbl:longitude":79.05602,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.315155,
+    "mps:longitude":79.05602,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Chorpalle"
+    ],
+    "name:eng_x_variant":[
+        "Chorpalli"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10969172
+        "gn:id":10969172,
+        "ks:id":"KS036C90E20C294E4583305CFBC3D94E6F"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a6a9b0dc11942ff67723f61d5c6078d4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5c5edd508d4f23e0456a4b657bff4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1276702671,
-    "wof:lastmodified":1566693693,
-    "wof:name":"Chorpalli",
+    "wof:lastmodified":1682782468,
+    "wof:name":"Chorpalle",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":874,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.05666,
-    19.31627000000001,
-    79.05666,
-    19.31627000000001
+    79.055158,
+    19.314404,
+    79.056505,
+    19.315752
 ],
-  "geometry": {"coordinates":[79.05665999999999,19.31627000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[79.056236,19.315752],[79.056236,19.315482],[79.056505,19.315482],[79.056505,19.314404],[79.055697,19.314404],[79.055697,19.314943],[79.05515800000001,19.314943],[79.05515800000001,19.315752],[79.056236,19.315752]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.53342,27.46027,78.53342,27.46027",
-    "geom:latitude":27.46027,
-    "geom:longitude":78.53342,
+    "geom:bbox":"78.532392,27.459308,78.534624,27.461406",
+    "geom:latitude":27.460274,
+    "geom:longitude":78.533494,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Ganeshpur",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.51342,27.44027,78.55342,27.48027",
+    "ks:ks_id":"KSE8529A27DA6E439E83445B52006300F3",
+    "ks:ks_name":"Ganesh Pur",
+    "ks:ks_pop":830,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|341735",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1753798",
+    "lbl:latitude":27.460298,
+    "lbl:longitude":78.533515,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.460298,
+    "mps:longitude":78.533515,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Ganeshpur"
+    ],
+    "name:eng_x_preferred":[
+        "Ganesh Pur"
+    ],
+    "name:eng_x_variant":[
         "Ganeshpur"
     ],
     "name:nep_x_preferred":[
@@ -39,7 +55,13 @@
     "name:pol_x_preferred":[
         "Ganeshpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -48,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10488331
+        "gn:id":10488331,
+        "ks:id":"KSE8529A27DA6E439E83445B52006300F3"
     },
     "wof:country":"IN",
-    "wof:geomhash":"919118e943b76be3b64d953607c9d0cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3e008d57f7a6f56ed26d4619b06fcbd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +88,22 @@
         }
     ],
     "wof:id":1293333667,
-    "wof:lastmodified":1566691020,
-    "wof:name":"Ganeshpur",
+    "wof:lastmodified":1682813413,
+    "wof:name":"Ganesh Pur",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":830,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.53341999999998,
-    27.46027,
-    78.53341999999998,
-    27.46027
+    78.532392,
+    27.459308,
+    78.534624,
+    27.461406
 ],
-  "geometry": {"coordinates":[78.53341999999998,27.46027],"type":"Point"}
+  "geometry": {"coordinates":[[[78.533884,27.461406],[78.533886,27.461315],[78.53419,27.461321],[78.534194,27.46114],[78.534295,27.461142],[78.534301,27.460871],[78.534402,27.460873],[78.534408,27.460603],[78.534509,27.460604],[78.53451699999999,27.460244],[78.53461799999999,27.460245],[78.53462399999999,27.459975],[78.53452299999999,27.459973],[78.534533,27.459522],[78.534432,27.45952],[78.534434,27.45943],[78.53403,27.459423],[78.534032,27.459333],[78.532616,27.459308],[78.532614,27.459398],[78.53251299999999,27.459396],[78.532509,27.459577],[78.532408,27.459575],[78.532392,27.460296],[78.532493,27.460298],[78.532487,27.460569],[78.532588,27.46057],[78.532582,27.460841],[78.53268300000001,27.460843],[78.532681,27.460933],[78.532782,27.460935],[78.53277799999999,27.461115],[78.53287899999999,27.461117],[78.532877,27.461207],[78.533079,27.461211],[78.53307700000001,27.461301],[78.53328,27.461305],[78.533278,27.461395],[78.533884,27.461406]]],"type":"Polygon"}
 }

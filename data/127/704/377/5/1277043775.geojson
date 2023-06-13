@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.47466,30.99366,75.47466,30.99366",
-    "geom:latitude":30.99366,
-    "geom:longitude":75.47466,
+    "geom:bbox":"75.474546,30.992354,75.476018,30.993798",
+    "geom:latitude":30.993054,
+    "geom:longitude":75.475228,
     "gn:admin1_code":"23.0",
     "gn:admin2_code":"37.0",
     "gn:asciiname":"Jhungian",
@@ -24,11 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.45466,30.97366,75.49466,31.01366",
+    "ks:ks_alt_nam":"Jhungi\u0101n",
+    "ks:ks_id":"KS1EA5BA83B57C414E9F8B43950D7771E4",
+    "ks:ks_name":"Jhungian",
+    "ks:ks_source_id":"N|12673875",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2659122",
+    "lbl:latitude":30.993076,
+    "lbl:longitude":75.475214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.993076,
+    "mps:longitude":75.475214,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u062c\u064a\u0627\u0646"
@@ -38,6 +47,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u099d\u09c1\u0999\u09cd\u0997\u09bf\u09df\u09be\u09a8"
+    ],
+    "name:eng_x_preferred":[
+        "Jhungian"
+    ],
+    "name:eng_x_variant":[
+        "Jhungi\u0101n"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0a82\u0a97\u0abf\u0a82\u0aaf\u0abe"
@@ -69,7 +84,11 @@
     "name:urd_x_preferred":[
         "\u062c\u06be\u0646\u06af\u06cc\u0627\u0646"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -78,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10253145
+        "gn:id":10253145,
+        "ks:id":"KS1EA5BA83B57C414E9F8B43950D7771E4"
     },
     "wof:country":"IN",
-    "wof:geomhash":"faa9d031f63c431ebc210998c6b1898c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ce8d9568e334c2c5062b82321d5766cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +115,7 @@
         }
     ],
     "wof:id":1277043775,
-    "wof:lastmodified":1577750546,
+    "wof:lastmodified":1682794848,
     "wof:name":"Jhungian",
     "wof:parent_id":890507875,
     "wof:placetype":"locality",
@@ -102,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    75.47466,
-    30.99366,
-    75.47466,
-    30.99366
+    75.474546,
+    30.992354,
+    75.476018,
+    30.993798
 ],
-  "geometry": {"coordinates":[75.47466,30.99366],"type":"Point"}
+  "geometry": {"coordinates":[[[75.47570399999999,30.993706],[75.47570399999999,30.993616],[75.47591300000001,30.993615],[75.47591300000001,30.993525],[75.476018,30.993525],[75.476017,30.993344],[75.47591199999999,30.993344],[75.475911,30.993164],[75.47580600000001,30.993164],[75.47580600000001,30.993074],[75.475701,30.993075],[75.4757,30.992894],[75.475596,30.992894],[75.475594,30.992624],[75.47548999999999,30.992624],[75.475489,30.992534],[75.47538400000001,30.992534],[75.47538400000001,30.992444],[75.475279,30.992444],[75.475279,30.992354],[75.474755,30.992356],[75.474756,30.992446],[75.47465099999999,30.992447],[75.47465099999999,30.992537],[75.474546,30.992537],[75.474549,30.992989],[75.474653,30.992988],[75.474654,30.993169],[75.47475900000001,30.993168],[75.47476,30.993349],[75.47486499999999,30.993348],[75.47486499999999,30.993439],[75.47497,30.993438],[75.47497,30.993528],[75.475075,30.993528],[75.475076,30.993618],[75.47517999999999,30.993618],[75.47518100000001,30.993798],[75.475391,30.993798],[75.47539,30.993707],[75.47570399999999,30.993706]]],"type":"Polygon"}
 }

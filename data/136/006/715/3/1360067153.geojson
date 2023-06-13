@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.45757,21.01205,77.45757,21.01205",
-    "geom:latitude":21.01205,
-    "geom:longitude":77.45757,
+    "geom:bbox":"77.45676,21.010859,77.458504,21.012665",
+    "geom:latitude":21.011836,
+    "geom:longitude":77.457616,
     "gn:admin1_code":"16",
     "gn:admin2_code":"503.0",
     "gn:asciiname":"Chandai",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.43757,20.99205,77.47757,21.03205",
+    "ks:ks_alt_nam":"Ch\u0101ndai",
+    "ks:ks_id":"KS0F88C8D3219C4BFABBEA3221C1D3D4C0",
+    "ks:ks_name":"Chandai",
+    "ks:ks_pop":191,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|200770",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_875330",
+    "lbl:latitude":21.011856,
+    "lbl:longitude":77.4576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":21.011856,
+    "mps:longitude":77.4576,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chandai"
@@ -38,6 +49,12 @@
     ],
     "name:deu_x_preferred":[
         "Chandai"
+    ],
+    "name:eng_x_preferred":[
+        "Chandai"
+    ],
+    "name:eng_x_variant":[
+        "Ch\u0101ndai"
     ],
     "name:eus_x_preferred":[
         "Chandai"
@@ -111,7 +128,13 @@
     "name:war_x_preferred":[
         "Chandai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -120,10 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10512543
+        "gn:id":10512543,
+        "ks:id":"KS0F88C8D3219C4BFABBEA3221C1D3D4C0"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2dee8fc06ef3bea5174340cb2f31a052",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7085f04d75c2af82882001f084a0248b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,20 +161,22 @@
         }
     ],
     "wof:id":1360067153,
-    "wof:lastmodified":1566703204,
+    "wof:lastmodified":1682962677,
     "wof:name":"Chandai",
     "wof:parent_id":1108696295,
     "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.45756999999998,
-    21.01205,
-    77.45756999999998,
-    21.01205
+    77.45676,
+    21.010859,
+    77.458504,
+    21.012665
 ],
-  "geometry": {"coordinates":[77.45756999999998,21.01205],"type":"Point"}
+  "geometry": {"coordinates":[[[77.45793,21.012659],[77.45792899999999,21.012569],[77.458313,21.012563],[77.45831200000001,21.012473],[77.458504,21.01247],[77.458494,21.011838],[77.458398,21.01184],[77.458395,21.011659],[77.458299,21.011661],[77.458296,21.01148],[77.45820000000001,21.011481],[77.458198,21.011391],[77.458102,21.011392],[77.4581,21.011302],[77.458004,21.011304],[77.45800300000001,21.011213],[77.45790700000001,21.011215],[77.457905,21.011124],[77.457809,21.011126],[77.457808,21.011036],[77.457711,21.011037],[77.45771000000001,21.010947],[77.45751799999999,21.010949],[77.457516,21.010859],[77.457324,21.010862],[77.457325,21.010952],[77.457133,21.010955],[77.45713499999999,21.011045],[77.45703899999999,21.011047],[77.45704000000001,21.011137],[77.45694399999999,21.011138],[77.456948,21.011409],[77.456852,21.011411],[77.456857,21.011681],[77.45676,21.011683],[77.456766,21.012044],[77.456863,21.012042],[77.456867,21.012313],[77.456963,21.012312],[77.456965,21.012402],[77.457157,21.012399],[77.45715800000001,21.01249],[77.457351,21.012487],[77.457352,21.012577],[77.457544,21.012574],[77.45754599999999,21.012665],[77.45793,21.012659]]],"type":"Polygon"}
 }

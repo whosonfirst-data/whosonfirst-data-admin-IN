@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.40353,24.12332,83.40353,24.12332",
-    "geom:latitude":24.12332,
-    "geom:longitude":83.40353,
+    "geom:bbox":"83.403307,24.122922,83.404206,24.124372",
+    "geom:latitude":24.123725,
+    "geom:longitude":83.403735,
     "gn:admin1_code":"38",
     "gn:admin2_code":"346.0",
     "gn:asciiname":"Khutia",
@@ -24,12 +24,25 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.38353,24.10332,83.42353,24.14332",
+    "ks:ks_id":"KS508339AECF5E4D1BBF32F6D79411581A",
+    "ks:ks_name":"Khutia",
+    "ks:ks_pop":2418,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12962554",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1016044",
+    "lbl:latitude":24.123726,
+    "lbl:longitude":83.403699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.123726,
+    "mps:longitude":83.403699,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Khutia"
+    ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u0582\u057f\u056b\u0561"
     ],
@@ -39,37 +52,55 @@
     "name:rus_x_preferred":[
         "\u0425\u0443\u0442\u0438\u044f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672213,
+        1108696091
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10516761
+        "gn:id":10516761,
+        "ks:id":"KS508339AECF5E4D1BBF32F6D79411581A"
     },
     "wof:country":"IN",
-    "wof:geomhash":"130fb93661bd6ea622dcc6f4f1ae7d82",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e166bf0f203f10374d7a9a5892358db6",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209453465
+            "county_id":1108696091,
+            "locality_id":1209453465,
+            "region_id":85672213
         }
     ],
     "wof:id":1209453465,
-    "wof:lastmodified":1566696811,
+    "wof:lastmodified":1682618477,
     "wof:name":"Khutia",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108696091,
     "wof:placetype":"locality",
+    "wof:population":2418,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.40353,
-    24.12332,
-    83.40353,
-    24.12332
+    83.403307,
+    24.122922,
+    83.404206,
+    24.124372
 ],
-  "geometry": {"coordinates":[83.40353,24.12332],"type":"Point"}
+  "geometry": {"coordinates":[[[83.404206,24.124363],[83.40420399999999,24.124273],[83.404106,24.124274],[83.40410199999999,24.124094],[83.404004,24.124095],[83.403989,24.123283],[83.404087,24.123282],[83.404084,24.123101],[83.40398500000001,24.123103],[83.403982,24.122922],[83.40368700000001,24.122927],[83.403689,24.123017],[83.40358999999999,24.123019],[83.403597,24.12338],[83.403499,24.123381],[83.40350100000001,24.123471],[83.403402,24.123473],[83.403406,24.123653],[83.403307,24.123655],[83.403316,24.124106],[83.403414,24.124105],[83.403417,24.124285],[83.403614,24.124282],[83.403616,24.124372],[83.404206,24.124363]]],"type":"Polygon"}
 }

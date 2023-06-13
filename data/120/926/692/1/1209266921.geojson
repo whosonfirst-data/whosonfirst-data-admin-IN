@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.13164,25.7501,81.13164,25.7501",
-    "geom:latitude":25.7501,
-    "geom:longitude":81.13164,
+    "geom:bbox":"81.131489,25.749336,81.133285,25.750872",
+    "geom:latitude":25.750135,
+    "geom:longitude":81.13228,
     "gn:admin1_code":"36",
     "gn:admin2_code":"172.0",
     "gn:asciiname":"Chak Katoghan",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.11164,25.7301,81.15164,25.7701",
+    "ks:ks_id":"KSC138AB76CE014C74940C23066250130E",
+    "ks:ks_name":"Chak Katoghan",
+    "ks:ks_pop":575,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|12930721",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1851805",
+    "lbl:latitude":25.75011,
+    "lbl:longitude":81.132262,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.75011,
+    "mps:longitude":81.132262,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chak Katoghan"
@@ -36,37 +46,55 @@
     "name:eng_x_variant":[
         "Kusiy\u0101r\u012bpur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695837
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10491243
+        "gn:id":10491243,
+        "ks:id":"KSC138AB76CE014C74940C23066250130E"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e9224fa7907dcb6c0af41170dc12ced1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b97be2e68305bbbeffd4a806ae6abcb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209266921
+            "county_id":1108695837,
+            "locality_id":1209266921,
+            "region_id":85672205
         }
     ],
     "wof:id":1209266921,
-    "wof:lastmodified":1566696897,
+    "wof:lastmodified":1682612610,
     "wof:name":"Chak Katoghan",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695837,
     "wof:placetype":"locality",
+    "wof:population":575,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.13164,
-    25.7501,
-    81.13164,
-    25.7501
+    81.131489,
+    25.749336,
+    81.133285,
+    25.750872
 ],
-  "geometry": {"coordinates":[81.13164,25.7501],"type":"Point"}
+  "geometry": {"coordinates":[[[81.132188,25.750871],[81.132188,25.750781],[81.132886,25.75078],[81.132886,25.75087],[81.132986,25.75087],[81.132986,25.75078],[81.13308499999999,25.75078],[81.13308499999999,25.75069],[81.133185,25.75069],[81.133185,25.750599],[81.133285,25.750599],[81.133284,25.750328],[81.133185,25.750328],[81.133184,25.750238],[81.13308499999999,25.750238],[81.13308499999999,25.750148],[81.13298500000001,25.750148],[81.13298500000001,25.749967],[81.132885,25.749967],[81.132885,25.749606],[81.13298399999999,25.749606],[81.13298399999999,25.749516],[81.132885,25.749516],[81.132884,25.749426],[81.13258500000001,25.749426],[81.13258500000001,25.749336],[81.132485,25.749336],[81.132486,25.749426],[81.13228599999999,25.749426],[81.13228599999999,25.749336],[81.131688,25.749336],[81.131688,25.749427],[81.13158799999999,25.749427],[81.13158799999999,25.749698],[81.131489,25.749698],[81.13149,25.750691],[81.13159,25.750691],[81.13159,25.750781],[81.13168899999999,25.750781],[81.13168899999999,25.750872],[81.132188,25.750871]]],"type":"Polygon"}
 }

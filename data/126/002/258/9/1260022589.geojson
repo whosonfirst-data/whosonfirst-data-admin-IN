@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.68294,22.15418,81.68294,22.15418",
-    "geom:latitude":22.15418,
-    "geom:longitude":81.68294,
+    "geom:bbox":"81.681921,22.150026,81.683808,22.152721",
+    "geom:latitude":22.151527,
+    "geom:longitude":81.6828,
     "gn:admin1_code":"37.0",
     "gn:admin2_code":"406.0",
     "gn:asciiname":"Chhata",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"81.66294,22.13418,81.70294,22.17418",
+    "ks:ks_id":"KSB81A306A99714EAAA5013C30384DA8E6",
+    "ks:ks_name":"Chhata",
+    "ks:ks_pop":888,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2207000400699500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_705377",
+    "lbl:latitude":22.152317,
+    "lbl:longitude":81.683083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":22.152317,
+    "mps:longitude":81.683083,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u099b\u09be\u09a4\u09be"
     ],
     "name:ceb_x_preferred":[
         "Chh\u0101ta"
+    ],
+    "name:eng_x_preferred":[
+        "Chhata"
     ],
     "name:ita_x_preferred":[
         "Chhata"
@@ -66,7 +79,13 @@
     "name:vie_x_preferred":[
         "Chhata"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8740068
+        "gn:id":8740068,
+        "ks:id":"KSB81A306A99714EAAA5013C30384DA8E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d8263b62931cd87b0049bf127200413a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"203dcbf62a3f11b65aaa222234ea15e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +112,22 @@
         }
     ],
     "wof:id":1260022589,
-    "wof:lastmodified":1566700135,
+    "wof:lastmodified":1682747688,
     "wof:name":"Chhata",
     "wof:parent_id":890506469,
     "wof:placetype":"locality",
+    "wof:population":888,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.68294,
-    22.15418,
-    81.68294,
-    22.15418
+    81.681921,
+    22.150026,
+    81.683808,
+    22.152721
 ],
-  "geometry": {"coordinates":[81.68294,22.15418],"type":"Point"}
+  "geometry": {"coordinates":[[[81.683538,22.152721],[81.683538,22.152182],[81.683808,22.152182],[81.683808,22.151912],[81.682999,22.151912],[81.682999,22.151104],[81.683269,22.151104],[81.683269,22.150565],[81.683538,22.150565],[81.683538,22.150834],[81.683808,22.150834],[81.683808,22.150295],[81.683269,22.150295],[81.683269,22.150026],[81.682999,22.150026],[81.682999,22.150295],[81.68246000000001,22.150295],[81.68246000000001,22.150565],[81.681921,22.150565],[81.681921,22.151104],[81.68246000000001,22.151104],[81.68246000000001,22.151912],[81.681921,22.151912],[81.681921,22.152721],[81.683538,22.152721]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.88051,20.76801,78.88051,20.76801",
-    "geom:latitude":20.76801,
-    "geom:longitude":78.88051,
+    "geom:bbox":"78.879444,20.767585,78.881561,20.768508",
+    "geom:latitude":20.76805,
+    "geom:longitude":78.880502,
     "gn:admin1_code":"16",
     "gn:admin2_code":"504.0",
     "gn:asciiname":"Gaul",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.86051,20.74801,78.90051,20.78801",
+    "ks:ks_id":"KSBD1433F9A41745A694D37E21FDCEF8E6",
+    "ks:ks_name":"Gaul",
+    "ks:ks_pop":346,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|350538",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_873394",
+    "lbl:latitude":20.768,
+    "lbl:longitude":78.880502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.768,
+    "mps:longitude":78.880502,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Galli\u00eb"
@@ -92,6 +102,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b1\u03bb\u03b1\u03c4\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gaul"
     ],
     "name:epo_x_preferred":[
         "Ga\u016dlio"
@@ -285,37 +298,55 @@
     "name:wln_x_preferred":[
         "G\u00e5le"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672171,
+        890511427
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10454176
+        "gn:id":10454176,
+        "ks:id":"KSBD1433F9A41745A694D37E21FDCEF8E6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bc867978492f28e66e62a90b2e700526",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ab99c0a8d22287963cfb35b052203f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209484445
+            "county_id":890511427,
+            "locality_id":1209484445,
+            "region_id":85672171
         }
     ],
     "wof:id":1209484445,
-    "wof:lastmodified":1566695098,
+    "wof:lastmodified":1682621580,
     "wof:name":"Gaul",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890511427,
     "wof:placetype":"locality",
+    "wof:population":346,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.88051,
-    20.76801,
-    78.88051,
-    20.76801
+    78.879444,
+    20.767585,
+    78.881561,
+    20.768508
 ],
-  "geometry": {"coordinates":[78.88051,20.76801],"type":"Point"}
+  "geometry": {"coordinates":[[[78.88145799999999,20.768508],[78.88146,20.768328],[78.881556,20.768329],[78.881561,20.767968],[78.88146500000001,20.767967],[78.881467,20.767876],[78.881371,20.767875],[78.881372,20.767785],[78.881276,20.767784],[78.881277,20.767693],[78.881181,20.767692],[78.881182,20.767602],[78.87983800000001,20.767585],[78.87983699999999,20.767676],[78.879645,20.767673],[78.879644,20.767764],[78.879548,20.767762],[78.879547,20.767853],[78.879451,20.767851],[78.87944400000001,20.768303],[78.87954000000001,20.768304],[78.87953899999999,20.768394],[78.87973100000001,20.768397],[78.87973,20.768487],[78.88011400000001,20.768492],[78.880115,20.768402],[78.880691,20.768409],[78.88069,20.768499],[78.88145799999999,20.768508]]],"type":"Polygon"}
 }

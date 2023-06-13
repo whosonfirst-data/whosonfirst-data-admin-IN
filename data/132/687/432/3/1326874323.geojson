@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.39282,27.37421,78.39282,27.37421",
-    "geom:latitude":27.37421,
-    "geom:longitude":78.39282,
+    "geom:bbox":"78.392205,27.373203,78.393718,27.374572",
+    "geom:latitude":27.37392,
+    "geom:longitude":78.392893,
     "gn:admin1_code":"36",
     "gn:admin2_code":"201.0",
     "gn:asciiname":"Sundargarh",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.37282,27.35421,78.41282,27.39421",
+    "ks:ks_id":"KSFBD76DC1AC2D49D6BF76E404696BD32D",
+    "ks:ks_name":"Sunder Garh",
+    "ks:ks_pop":282,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1018037",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1751884",
+    "lbl:latitude":27.373931,
+    "lbl:longitude":78.392878,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.373931,
+    "mps:longitude":78.392878,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u062f\u0627\u0631\u062c\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09b8\u09c1\u09a8\u09cd\u09a6\u09b0\u0997\u09dc"
+    ],
+    "name:eng_x_preferred":[
+        "Sunder Garh"
+    ],
+    "name:eng_x_variant":[
+        "Sundargarh"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a82\u0aa6\u0ab0\u0a97\u0aa2"
@@ -66,7 +82,13 @@
     "name:urd_x_preferred":[
         "\u0633\u0646\u062f\u0631 \u06af\u0691\u06be"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +97,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10452808
+        "gn:id":10452808,
+        "ks:id":"KSFBD76DC1AC2D49D6BF76E404696BD32D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"571de7910852a4f4dd9298e5d4948c0f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"24c1e7f2e1e5e2cd834eb3b5cef122e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +115,22 @@
         }
     ],
     "wof:id":1326874323,
-    "wof:lastmodified":1577749396,
-    "wof:name":"Sundargarh",
+    "wof:lastmodified":1682893434,
+    "wof:name":"Sunder Garh",
     "wof:parent_id":1108695889,
     "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.39282,
-    27.37421,
-    78.39282,
-    27.37421
+    78.392205,
+    27.373203,
+    78.393718,
+    27.374572
 ],
-  "geometry": {"coordinates":[78.39282,27.37421],"type":"Point"}
+  "geometry": {"coordinates":[[[78.393304,27.374572],[78.393306,27.374482],[78.393508,27.374486],[78.39351000000001,27.374396],[78.39361100000001,27.374398],[78.393613,27.374308],[78.393714,27.374309],[78.39371800000001,27.374129],[78.39361700000001,27.374127],[78.39362199999999,27.373947],[78.39352100000001,27.373945],[78.393525,27.373764],[78.393424,27.373763],[78.39342600000001,27.373672],[78.393325,27.373671],[78.393327,27.37358],[78.393226,27.373578],[78.39322799999999,27.373488],[78.39312700000001,27.373486],[78.393129,27.373396],[78.393028,27.373394],[78.39303,27.373304],[78.392929,27.373302],[78.392931,27.373212],[78.392426,27.373203],[78.39242400000001,27.373293],[78.392323,27.373291],[78.392319,27.373471],[78.392218,27.373469],[78.392205,27.374011],[78.392306,27.374012],[78.392302,27.374193],[78.392403,27.374195],[78.392399,27.374375],[78.392601,27.374379],[78.392599,27.374469],[78.39280100000001,27.374473],[78.392799,27.374563],[78.393304,27.374572]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.53244,19.20252,83.53244,19.20252",
-    "geom:latitude":19.20252,
-    "geom:longitude":83.53244,
+    "geom:bbox":"83.531732,19.202025,83.53281,19.202833",
+    "geom:latitude":19.202454,
+    "geom:longitude":83.532308,
     "gn:admin1_code":"21.0",
     "gn:admin2_code":"396.0",
     "gn:asciiname":"Kyamunda",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.51244,19.18252,83.55244,19.22252",
+    "ks:ks_id":"KS26CC67DD605F483A9D1AEB8FFB2FA360",
+    "ks:ks_name":"Kiamunda",
+    "ks:ks_pop":380,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|563284",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_451607",
+    "lbl:latitude":19.202429,
+    "lbl:longitude":83.53238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.202429,
+    "mps:longitude":83.53238,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Kiamunda"
+    ],
+    "name:eng_x_variant":[
+        "Kyamunda"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10779941
+        "gn:id":10779941,
+        "ks:id":"KS26CC67DD605F483A9D1AEB8FFB2FA360"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a7c02d9d90b4587a942eb739e7f9b27d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f77183cdd53c10b8f5336cbc453a8354",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1326494411,
-    "wof:lastmodified":1566683553,
-    "wof:name":"Kyamunda",
+    "wof:lastmodified":1682879356,
+    "wof:name":"Kiamunda",
     "wof:parent_id":890506473,
     "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.53244000000002,
-    19.20252,
-    83.53244000000002,
-    19.20252
+    83.531732,
+    19.202025,
+    83.53281,
+    19.202833
 ],
-  "geometry": {"coordinates":[83.53244000000002,19.20252],"type":"Point"}
+  "geometry": {"coordinates":[[[83.53281,19.202833],[83.53281,19.202025],[83.53200200000001,19.202025],[83.53200200000001,19.202294],[83.53173200000001,19.202294],[83.53173200000001,19.202833],[83.53281,19.202833]]],"type":"Polygon"}
 }

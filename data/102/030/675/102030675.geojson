@@ -11,12 +11,20 @@
     "geom:longitude":78.887172,
     "gn:population":50094,
     "iso:country":"IN",
-    "lbl:latitude":17.514563,
-    "lbl:longitude":78.884732,
+    "ks:ks_alt_nam":"Bhongiri",
+    "ks:ks_id":"KS084E453ACB11471E9789F9AF4EDCA930",
+    "ks:ks_name":"Bhongir",
+    "ks:ks_pop":50407,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2808001640802000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"ESA_512466",
+    "lbl:latitude":17.508363,
+    "lbl:longitude":78.884312,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":17.513106,
-    "mps:longitude":78.898316,
+    "mps:latitude":17.508363,
+    "mps:longitude":78.884312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -34,10 +42,11 @@
         "Bhuvanagiri"
     ],
     "name:eng_x_preferred":[
-        "Bhuvanagiri"
+        "Bhongir"
     ],
     "name:eng_x_variant":[
-        "Bhongir"
+        "Bhong\u012br",
+        "Bhongiri"
     ],
     "name:fra_x_preferred":[
         "Bhuvanagiri"
@@ -119,10 +128,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -133,13 +144,16 @@
     "wof:concordances":{
         "gn:id":1275848,
         "gp:id":2293067,
+        "ks:id":"KS084E453ACB11471E9789F9AF4EDCA930",
         "qs_pg:id":132299,
         "wd:id":"Q797132",
         "wk:page":"Bhongir, Telangana"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"43f9f5c04b964e6f5079659da5b2e06b",
     "wof:hierarchy":[
@@ -152,11 +166,11 @@
         }
     ],
     "wof:id":102030675,
-    "wof:lastmodified":1658780729,
-    "wof:name":"Bhong\u012br",
+    "wof:lastmodified":1686162181,
+    "wof:name":"Bhongir",
     "wof:parent_id":890503355,
     "wof:placetype":"locality",
-    "wof:population":50094,
+    "wof:population":50407,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

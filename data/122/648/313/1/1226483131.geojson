@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.56491,25.04938,84.56491,25.04938",
-    "geom:latitude":25.04938,
-    "geom:longitude":84.56491,
+    "geom:bbox":"84.564166,25.04844,84.565783,25.049788",
+    "geom:latitude":25.049227,
+    "geom:longitude":84.564939,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"235.0",
     "gn:asciiname":"Habaspur",
@@ -24,13 +24,32 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"84.54491,25.02938,84.58491,25.06938",
+    "ks:ks_id":"KSF176FBA5E53C4033B43C7C4960767C95",
+    "ks:ks_name":"Habaspur",
+    "ks:ks_pop":277,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|13253562",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1330318",
+    "lbl:latitude":25.049383,
+    "lbl:longitude":84.564858,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.049383,
+    "mps:longitude":84.564858,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Habaspur"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10810061
+        "gn:id":10810061,
+        "ks:id":"KSF176FBA5E53C4033B43C7C4960767C95"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d28461b18bd7c9d6c0ba4bf1f1dc2901",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee9ab567f1e16af3152a2b92029efdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +76,22 @@
         }
     ],
     "wof:id":1226483131,
-    "wof:lastmodified":1566712924,
+    "wof:lastmodified":1682669044,
     "wof:name":"Habaspur",
     "wof:parent_id":1108695947,
     "wof:placetype":"locality",
+    "wof:population":277,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.56491,
-    25.04938,
-    84.56491,
-    25.04938
+    84.564166,
+    25.04844,
+    84.565783,
+    25.049788
 ],
-  "geometry": {"coordinates":[84.56491,25.04938],"type":"Point"}
+  "geometry": {"coordinates":[[[84.56524400000001,25.049788],[84.56524400000001,25.049518],[84.565783,25.049518],[84.565783,25.049249],[84.56551399999999,25.049249],[84.56551399999999,25.04844],[84.564975,25.04844],[84.564975,25.048979],[84.564166,25.048979],[84.564166,25.049788],[84.56524400000001,25.049788]]],"type":"Polygon"}
 }

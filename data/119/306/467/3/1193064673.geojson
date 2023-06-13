@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.2856,24.68459,85.2856,24.68459",
-    "geom:latitude":24.68459,
-    "geom:longitude":85.2856,
+    "geom:bbox":"85.284642,24.683354,85.286427,24.685169",
+    "geom:latitude":24.684206,
+    "geom:longitude":85.285536,
     "gn:admin1_code":"34.0",
     "gn:admin2_code":"236.0",
     "gn:asciiname":"Simariya",
@@ -24,16 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"85.2656,24.66459,85.3056,24.70459",
+    "ks:ks_id":"KSBBA3B194104A4C34840D0299CD602B44",
+    "ks:ks_name":"Simariya",
+    "ks:ks_pop":512,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|992544",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_1151242",
+    "lbl:latitude":24.684192,
+    "lbl:longitude":85.285548,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":24.684192,
+    "mps:longitude":85.285548,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u093f\u092e\u0930\u093f\u092f\u093e"
     ],
     "name:ceb_x_preferred":[
+        "Simariya"
+    ],
+    "name:eng_x_preferred":[
         "Simariya"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +70,13 @@
     "name:pol_x_preferred":[
         "Simariya"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -66,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10882592
+        "gn:id":10882592,
+        "ks:id":"KSBBA3B194104A4C34840D0299CD602B44"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bfd4834a9b64ce0452e37ea57a07da9b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2369784c8fc2d3454c01a237d3eaa71b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,20 +103,22 @@
         }
     ],
     "wof:id":1193064673,
-    "wof:lastmodified":1566697717,
+    "wof:lastmodified":1682584102,
     "wof:name":"Simariya",
     "wof:parent_id":890508449,
     "wof:placetype":"locality",
+    "wof:population":512,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.2856,
-    24.68459,
-    85.2856,
-    24.68459
+    85.284642,
+    24.683354,
+    85.286427,
+    24.685169
 ],
-  "geometry": {"coordinates":[85.2856,24.68459],"type":"Point"}
+  "geometry": {"coordinates":[[[85.285715,24.685169],[85.28571599999999,24.685078],[85.28591400000001,24.685081],[85.285915,24.68499],[85.286113,24.684993],[85.286114,24.684902],[85.286213,24.684903],[85.286214,24.684813],[85.28631300000001,24.684814],[85.28631799999999,24.684453],[85.286417,24.684454],[85.286427,24.683732],[85.286328,24.683731],[85.28633000000001,24.683551],[85.286231,24.683549],[85.286233,24.683459],[85.286134,24.683458],[85.286135,24.683368],[85.28494999999999,24.683354],[85.284948,24.683444],[85.284751,24.683442],[85.28474900000001,24.683532],[85.284651,24.683531],[85.284648,24.683712],[85.284747,24.683713],[85.284744,24.683894],[85.284646,24.683892],[85.28464200000001,24.684163],[85.284741,24.684164],[85.284733,24.684706],[85.28483199999999,24.684707],[85.28483,24.684888],[85.28492900000001,24.684889],[85.284927,24.684979],[85.285026,24.68498],[85.285025,24.685071],[85.285124,24.685072],[85.285122,24.685162],[85.285715,24.685169]]],"type":"Polygon"}
 }

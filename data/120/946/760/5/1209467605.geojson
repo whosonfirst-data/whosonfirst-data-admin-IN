@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.45625,29.49628,77.45625,29.49628",
-    "geom:latitude":29.49628,
-    "geom:longitude":77.45625,
+    "geom:bbox":"77.454502,29.494996,77.45648,29.496899",
+    "geom:latitude":29.495997,
+    "geom:longitude":77.455461,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"133.0",
     "gn:asciiname":"Surajpur",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"77.43625,29.47628,77.47625,29.51628",
+    "ks:ks_alt_nam":"Suraj pur",
+    "ks:ks_id":"KSED02149A78764ACFB2E1AB66AE2C5CF9",
+    "ks:ks_name":"Suraj Pur",
+    "ks:ks_pop":725,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1174717",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1834480",
+    "lbl:latitude":29.496001,
+    "lbl:longitude":77.455442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":29.496001,
+    "mps:longitude":77.455442,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0627\u062c \u0628\u0648\u0631"
@@ -49,6 +60,12 @@
         "\u09b8\u09c1\u09b0\u099c\u09aa\u09c1\u09b0"
     ],
     "name:ceb_x_preferred":[
+        "Surajpur"
+    ],
+    "name:eng_x_preferred":[
+        "Suraj Pur"
+    ],
+    "name:eng_x_variant":[
         "Surajpur"
     ],
     "name:fra_x_preferred":[
@@ -108,37 +125,55 @@
     "name:zho_x_preferred":[
         "\u82cf\u62c9\u6770\u666e\u5c14"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        890506721
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10202079
+        "gn:id":10202079,
+        "ks:id":"KSED02149A78764ACFB2E1AB66AE2C5CF9"
     },
     "wof:country":"IN",
-    "wof:geomhash":"47eb086dc7bf63a4996a28335ecd3166",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b447f2eacd2e93ec2f110d39636a26a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209467605
+            "county_id":890506721,
+            "locality_id":1209467605,
+            "region_id":85672205
         }
     ],
     "wof:id":1209467605,
-    "wof:lastmodified":1577750782,
-    "wof:name":"Surajpur",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682620584,
+    "wof:name":"Suraj Pur",
+    "wof:parent_id":890506721,
     "wof:placetype":"locality",
+    "wof:population":725,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.45625,
-    29.49628,
-    77.45625,
-    29.49628
+    77.454502,
+    29.494996,
+    77.45648,
+    29.496899
 ],
-  "geometry": {"coordinates":[77.45625,29.49628],"type":"Point"}
+  "geometry": {"coordinates":[[[77.455668,29.496888],[77.45566599999999,29.496798],[77.455975,29.496792],[77.455973,29.496702],[77.45617900000001,29.496698],[77.456177,29.496608],[77.45628000000001,29.496606],[77.456278,29.496516],[77.45638099999999,29.496514],[77.45637600000001,29.496333],[77.45648,29.496332],[77.45646600000001,29.49579],[77.456363,29.495792],[77.456361,29.495702],[77.45625800000001,29.495704],[77.456256,29.495614],[77.456153,29.495616],[77.45615100000001,29.495526],[77.456048,29.495528],[77.456045,29.495437],[77.45594199999999,29.495439],[77.45594,29.495349],[77.455837,29.495351],[77.45583499999999,29.495261],[77.455732,29.495263],[77.45573,29.495173],[77.45562700000001,29.495175],[77.455624,29.495084],[77.455521,29.495086],[77.455519,29.494996],[77.45520999999999,29.495002],[77.455212,29.495092],[77.455006,29.495096],[77.45500800000001,29.495186],[77.454905,29.495188],[77.45490700000001,29.495278],[77.454804,29.49528],[77.454806,29.49537],[77.45470299999999,29.495372],[77.454706,29.495462],[77.45460199999999,29.495464],[77.454605,29.495554],[77.45450200000001,29.495556],[77.454517,29.496187],[77.45462000000001,29.496185],[77.454624,29.496366],[77.45472700000001,29.496364],[77.454729,29.496454],[77.45483299999999,29.496452],[77.454837,29.496632],[77.45493999999999,29.496631],[77.454944,29.496811],[77.45504699999999,29.496809],[77.45505,29.496899],[77.455668,29.496888]]],"type":"Polygon"}
 }

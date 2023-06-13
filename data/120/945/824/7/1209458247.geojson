@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.73472,27.82758,79.73472,27.82758",
-    "geom:latitude":27.82758,
-    "geom:longitude":79.73472,
+    "geom:bbox":"79.733964,27.826649,79.735801,27.828093",
+    "geom:latitude":27.827376,
+    "geom:longitude":79.734901,
     "gn:admin1_code":"36",
     "gn:admin2_code":"152.0",
     "gn:asciiname":"Ganganagar",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.71472,27.80758,79.75472,27.84758",
+    "ks:ks_id":"KS7DD60CCC1F1D4069A70BD1C99F8A1E4C",
+    "ks:ks_name":"Ganga Nagar",
+    "ks:ks_pop":200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|342630",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_2013274",
+    "lbl:latitude":27.827458,
+    "lbl:longitude":79.734827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.827458,
+    "mps:longitude":79.734827,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0646\u063a\u0627 \u0646\u0627\u062c\u0627\u0631"
@@ -38,6 +48,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u0997\u0999\u09cd\u0997\u09be\u09a8\u0997\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Ganga Nagar"
+    ],
+    "name:eng_x_variant":[
+        "Ganganagar"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0a82\u0a97\u0abe\u0aa8\u0a97\u0ab0"
@@ -66,37 +82,55 @@
     "name:urd_x_preferred":[
         "\u06af\u0646\u06af\u0627 \u0646\u06af\u0631"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695811
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10471990
+        "gn:id":10471990,
+        "ks:id":"KS7DD60CCC1F1D4069A70BD1C99F8A1E4C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9cf0b52efc8e4bcefe1a37c746b1ca12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"766283e05dc9b0dd71988efe445be3a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209458247
+            "county_id":1108695811,
+            "locality_id":1209458247,
+            "region_id":85672205
         }
     ],
     "wof:id":1209458247,
-    "wof:lastmodified":1577751008,
-    "wof:name":"Ganganagar",
-    "wof:parent_id":85632469,
+    "wof:lastmodified":1682619466,
+    "wof:name":"Ganga Nagar",
+    "wof:parent_id":1108695811,
     "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.73472,
-    27.82758,
-    79.73472,
-    27.82758
+    79.733964,
+    27.826649,
+    79.735801,
+    27.828093
 ],
-  "geometry": {"coordinates":[79.73472,27.82758],"type":"Point"}
+  "geometry": {"coordinates":[[[79.73517699999999,27.828093],[79.735178,27.828003],[79.73527900000001,27.828004],[79.735282,27.827823],[79.735485,27.827825],[79.73548700000001,27.827645],[79.73558800000001,27.827646],[79.73559,27.827465],[79.735692,27.827466],[79.73569500000001,27.827195],[79.73579599999999,27.827196],[79.735801,27.826835],[79.735699,27.826834],[79.73569999999999,27.826744],[79.73559899999999,27.826743],[79.73560000000001,27.826653],[79.73519400000001,27.826649],[79.735193,27.826739],[79.73499,27.826738],[79.734989,27.826828],[79.734684,27.826825],[79.734683,27.826915],[79.73427700000001,27.826912],[79.73427599999999,27.827002],[79.734174,27.827001],[79.734173,27.827091],[79.734072,27.82709],[79.73407,27.827271],[79.733968,27.82727],[79.733964,27.827631],[79.734065,27.827632],[79.73406300000001,27.827812],[79.73426600000001,27.827814],[79.73426499999999,27.827904],[79.73436700000001,27.827905],[79.73436599999999,27.827996],[79.734467,27.827996],[79.734466,27.828087],[79.73517699999999,27.828093]]],"type":"Polygon"}
 }

@@ -11,12 +11,20 @@
     "geom:longitude":76.098642,
     "gn:population":128531,
     "iso:country":"IN",
-    "lbl:latitude":13.006873,
-    "lbl:longitude":76.098393,
+    "ks:ks_id":"KS1D06A8EB45D64672A891534ACAA897B7",
+    "ks:ks_name":"Hassan",
+    "ks:ks_pop":121874,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|2923000442305000",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_267918",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":13.014273,
+    "lbl:longitude":76.102454,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
-    "mps:latitude":13.009914,
-    "mps:longitude":76.102369,
+    "mps:latitude":13.014273,
+    "mps:longitude":76.102454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -61,6 +69,9 @@
         "\u0ab9\u0ab8\u0aa8"
     ],
     "name:hin_x_preferred":[
+        "\u0939\u0938\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0939\u093e\u0938\u0928"
     ],
     "name:hun_x_preferred":[
@@ -76,10 +87,10 @@
         "\u30cf\u30c3\u30b5\u30f3"
     ],
     "name:kan_x_preferred":[
-        "\u0cb9\u0cbe\u0cb8\u0ca8\u0ccd"
+        "\u0cb9\u0cbe\u0cb8\u0ca8"
     ],
     "name:kan_x_variant":[
-        "\u0cb9\u0cbe\u0cb8\u0ca8"
+        "\u0cb9\u0cbe\u0cb8\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ud558\uc0b0"
@@ -183,10 +194,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:elevation":972.0,
     "wd:latitude":13.004444,
     "wd:longitude":76.135556,
@@ -202,15 +215,18 @@
         "fct:id":"122e1760-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1270239,
         "gp:id":2295283,
+        "ks:id":"KS1D06A8EB45D64672A891534ACAA897B7",
         "qs_pg:id":448614,
         "wd:id":"Q47264",
         "wk:page":"Hassan, Karnataka"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
-    "wof:geomhash":"4caf94471459d7369e633e68ac6617af",
+    "wof:geomhash":"825d96de369a14465a74b590c6bb315b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,11 +240,11 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1658780728,
+    "wof:lastmodified":1686162180,
     "wof:name":"Hassan",
     "wof:parent_id":890507869,
     "wof:placetype":"locality",
-    "wof:population":128531,
+    "wof:population":121874,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
@@ -241,5 +257,5 @@
     76.110782,
     13.011956
 ],
-  "geometry": {"coordinates":[[[[76.096163,13.009883],[76.098608,13.009723],[76.102329,13.00967],[76.10355199999999,13.009883],[76.106263,13.011106],[76.106263,13.011106],[76.109825,13.01185],[76.110782,13.011956],[76.109081,13.005152],[76.109081,13.004301],[76.10844299999999,13.002706],[76.10785799999999,13.0026],[76.102648,13.002653],[76.098821,13.003131],[76.098395,13.001749],[76.097651,13.000154],[76.094249,13.000208],[76.091803,12.999038],[76.090262,12.999676],[76.089411,13.00159],[76.08872,13.003344],[76.08802900000001,13.004195],[76.08787,13.005417],[76.088401,13.006534],[76.08872,13.007384],[76.088454,13.009245],[76.091538,13.010042],[76.096056,13.010096],[76.096163,13.009883]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[76.096163,13.009883],[76.098608,13.009723],[76.102329,13.00967],[76.10355199999999,13.009883],[76.106263,13.011106],[76.109825,13.01185],[76.110782,13.011956],[76.109081,13.005152],[76.109081,13.004301],[76.10844299999999,13.002706],[76.10785799999999,13.0026],[76.102648,13.002653],[76.098821,13.003131],[76.098395,13.001749],[76.097651,13.000154],[76.094249,13.000208],[76.091803,12.999038],[76.090262,12.999676],[76.089411,13.00159],[76.08872,13.003344],[76.08802900000001,13.004195],[76.08787,13.005417],[76.088401,13.006534],[76.08872,13.007384],[76.088454,13.009245],[76.091538,13.010042],[76.096056,13.010096],[76.096163,13.009883]]]],"type":"MultiPolygon"}
 }

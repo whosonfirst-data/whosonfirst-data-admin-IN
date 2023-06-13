@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.19204,27.18392,80.19204,27.18392",
-    "geom:latitude":27.18392,
-    "geom:longitude":80.19204,
+    "geom:bbox":"80.190822,27.18308,80.192744,27.184343",
+    "geom:latitude":27.183729,
+    "geom:longitude":80.191765,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"155.0",
     "gn:asciiname":"Takia",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"80.17204,27.16392,80.21204,27.20392",
+    "ks:ks_id":"KS5600E07994CB419D9E7CABF07DC3D411",
+    "ks:ks_name":"Takia",
+    "ks:ks_pop":322,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1026535",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1893695",
+    "lbl:latitude":27.183668,
+    "lbl:longitude":80.191591,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.183668,
+    "mps:longitude":80.191591,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Takia"
@@ -36,40 +46,61 @@
     "name:deu_x_preferred":[
         "Takia"
     ],
+    "name:eng_x_preferred":[
+        "Takia"
+    ],
     "name:swe_x_preferred":[
         "Takia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672205,
+        1108695817
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11063405
+        "gn:id":11063405,
+        "ks:id":"KS5600E07994CB419D9E7CABF07DC3D411"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f2eb726b486c451cb8dac0a8791052e3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b93062543af3bd2dfd90060c4672d0cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209454787
+            "county_id":1108695817,
+            "locality_id":1209454787,
+            "region_id":85672205
         }
     ],
     "wof:id":1209454787,
-    "wof:lastmodified":1566696787,
+    "wof:lastmodified":1682618868,
     "wof:name":"Takia",
-    "wof:parent_id":85632469,
+    "wof:parent_id":1108695817,
     "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.19204,
-    27.18392,
-    80.19204,
-    27.18392
+    80.190822,
+    27.18308,
+    80.192744,
+    27.184343
 ],
-  "geometry": {"coordinates":[80.19204000000001,27.18392],"type":"Point"}
+  "geometry": {"coordinates":[[[80.19122400000001,27.184343],[80.191225,27.184253],[80.19173000000001,27.184255],[80.19173000000001,27.184165],[80.192336,27.184169],[80.19233699999999,27.184078],[80.192639,27.18408],[80.19264099999999,27.1839],[80.192742,27.1839],[80.192744,27.183539],[80.192643,27.183539],[80.192644,27.183448],[80.192543,27.183448],[80.192544,27.183357],[80.192342,27.183356],[80.192342,27.183266],[80.191939,27.183264],[80.191939,27.183173],[80.191636,27.183172],[80.191637,27.183081],[80.191334,27.18308],[80.191334,27.18317],[80.191233,27.183169],[80.191232,27.18326],[80.191131,27.183259],[80.19113,27.18344],[80.191029,27.183439],[80.19102599999999,27.18389],[80.19092499999999,27.18389],[80.190924,27.18398],[80.19082299999999,27.183979],[80.190822,27.18416],[80.190923,27.184161],[80.190922,27.184251],[80.191023,27.184251],[80.191022,27.184342],[80.19122400000001,27.184343]]],"type":"Polygon"}
 }

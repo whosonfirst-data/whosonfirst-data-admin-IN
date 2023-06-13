@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"78.69625,19.76568,78.69625,19.76568",
-    "geom:latitude":19.76568,
-    "geom:longitude":78.69625,
+    "geom:bbox":"78.695006,19.761998,78.698255,19.764149",
+    "geom:latitude":19.763099,
+    "geom:longitude":78.696601,
     "gn:admin1_code":"40",
     "gn:admin2_code":"532.0",
     "gn:asciiname":"Karanjia",
@@ -24,17 +24,33 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"78.67625,19.74568,78.71625,19.78568",
+    "ks:ks_id":"KS1373D678489043A29CD79FF27F175F27",
+    "ks:ks_name":"Karanji",
+    "ks:ks_pop":1358,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1117837",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_561425",
+    "lbl:latitude":19.763074,
+    "lbl:longitude":78.696601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":19.763074,
+    "mps:longitude":78.696601,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09a8\u09cd\u099c\u09bf\u09af\u09bc\u09be"
     ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09b0\u09be\u09a8\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:eng_x_preferred":[
+        "Karanji"
+    ],
+    "name:eng_x_variant":[
+        "Karanjia"
     ],
     "name:ita_x_preferred":[
         "Karanjia"
@@ -54,7 +70,13 @@
     "name:vie_x_preferred":[
         "Karanjia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -63,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10468475
+        "gn:id":10468475,
+        "ks:id":"KS1373D678489043A29CD79FF27F175F27"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c8f6561401926ed0d4e259f06027a120",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68e7ec52d3ffc91bd996e8dd1f35a02e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,20 +103,22 @@
         }
     ],
     "wof:id":1344108063,
-    "wof:lastmodified":1566688113,
-    "wof:name":"Karanjia",
+    "wof:lastmodified":1682952785,
+    "wof:name":"Karanji",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
+    "wof:population":1358,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    78.69625,
-    19.76568,
-    78.69625,
-    19.76568
+    78.695006,
+    19.761998,
+    78.698255,
+    19.764149
 ],
-  "geometry": {"coordinates":[78.69625000000001,19.76568],"type":"Point"}
+  "geometry": {"coordinates":[[[78.69595,19.764149],[78.69595099999999,19.764059],[78.69747700000001,19.764079],[78.697479,19.763989],[78.697765,19.763992],[78.697766,19.763902],[78.697957,19.763904],[78.697958,19.763814],[78.698053,19.763815],[78.698055,19.763725],[78.69815,19.763726],[78.698154,19.763455],[78.698249,19.763457],[78.698255,19.763095],[78.698159,19.763094],[78.69816400000001,19.762733],[78.698069,19.762732],[78.69807299999999,19.762461],[78.69797699999999,19.76246],[78.69798,19.762279],[78.697885,19.762278],[78.697886,19.762188],[78.697791,19.762186],[78.69779200000001,19.762096],[78.69769700000001,19.762095],[78.697698,19.762004],[78.697221,19.761998],[78.69722,19.762089],[78.696552,19.76208],[78.696551,19.76217],[78.69578799999999,19.762161],[78.695786,19.762251],[78.69530899999999,19.762245],[78.695308,19.762335],[78.695117,19.762333],[78.695116,19.762423],[78.695021,19.762422],[78.69500600000001,19.763415],[78.69510200000001,19.763416],[78.69509499999999,19.763868],[78.69519099999999,19.763869],[78.695189,19.763959],[78.695285,19.76396],[78.695284,19.764051],[78.695474,19.764053],[78.69547300000001,19.764143],[78.69595,19.764149]]],"type":"Polygon"}
 }

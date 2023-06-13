@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2023-04-03",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,39 +29,47 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632469
+        102191569,
+        85632469,
+        85672165,
+        890503869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10855121
     },
     "wof:country":"IN",
-    "wof:geomhash":"9d9ca0c0ba8f8f3e1aec9abceae1626d",
+    "wof:geomhash":"5517c53345f773dd2a6480ecb12b2736",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632469,
-            "locality_id":1209690957
+            "county_id":890503869,
+            "locality_id":1209690957,
+            "region_id":85672165
         }
     ],
     "wof:id":1209690957,
-    "wof:lastmodified":1566696432,
+    "wof:lastmodified":1682629530,
     "wof:name":"Dasarhalli",
-    "wof:parent_id":85632469,
+    "wof:parent_id":890503869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1847145031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.83086999999998,
+    77.83087,
     13.00476,
-    77.83086999999998,
+    77.83087,
     13.00476
 ],
-  "geometry": {"coordinates":[77.83086999999998,13.00476],"type":"Point"}
+  "geometry": {"coordinates":[77.83087,13.00476],"type":"Point"}
 }

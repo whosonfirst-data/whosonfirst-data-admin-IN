@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.89271,20.93619,75.89271,20.93619",
-    "geom:latitude":20.93619,
-    "geom:longitude":75.89271,
+    "geom:bbox":"75.892757,20.933477,75.894302,20.935105",
+    "geom:latitude":20.93424,
+    "geom:longitude":75.893598,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"499.0",
     "gn:asciiname":"Dhanori",
@@ -24,11 +24,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"75.87271,20.91619,75.91271,20.95619",
+    "ks:ks_alt_nam":"Dh\u0101nori",
+    "ks:ks_id":"KS381526B5F1C7446A86838CB5AF9D14B6",
+    "ks:ks_name":"Dhanori",
+    "ks:ks_pop":331,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|1374079",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_855878",
+    "lbl:latitude":20.934203,
+    "lbl:longitude":75.893612,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":20.934203,
+    "mps:longitude":75.893612,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u0648\u0631\u064a"
@@ -38,6 +49,12 @@
     ],
     "name:ben_in_x_preferred":[
         "\u09a7\u09be\u09a8\u09cb\u09b0\u09bf"
+    ],
+    "name:eng_x_preferred":[
+        "Dhanori"
+    ],
+    "name:eng_x_variant":[
+        "Dh\u0101nori"
     ],
     "name:guj_x_preferred":[
         "\u0aa7\u0aa8\u0acb\u0ab0\u0ac0"
@@ -66,7 +83,13 @@
     "name:urd_x_preferred":[
         "\u062f\u06be\u0646\u0648\u0631\u06cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -75,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11057187
+        "gn:id":11057187,
+        "ks:id":"KS381526B5F1C7446A86838CB5AF9D14B6"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c8572da071fbbdc02cb78c94cd987c32",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"65e85981d3295a5fc2886ab90eb66e53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +116,22 @@
         }
     ],
     "wof:id":1276852831,
-    "wof:lastmodified":1577750570,
+    "wof:lastmodified":1682789047,
     "wof:name":"Dhanori",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    75.89271,
-    20.93619,
-    75.89271,
-    20.93619
+    75.892757,
+    20.933477,
+    75.894302,
+    20.935105
 ],
-  "geometry": {"coordinates":[75.89270999999999,20.93619],"type":"Point"}
+  "geometry": {"coordinates":[[[75.894015,20.935103],[75.894015,20.935013],[75.894111,20.935012],[75.89411,20.934922],[75.894206,20.934921],[75.894206,20.934831],[75.894302,20.934831],[75.89429800000001,20.934108],[75.894201,20.934108],[75.894199,20.933747],[75.894103,20.933747],[75.894103,20.933657],[75.894006,20.933658],[75.894006,20.933567],[75.89391000000001,20.933568],[75.89390899999999,20.933477],[75.893525,20.933479],[75.893525,20.93357],[75.893044,20.933572],[75.893045,20.933663],[75.892853,20.933664],[75.892853,20.933754],[75.892757,20.933755],[75.89276,20.934206],[75.89285599999999,20.934206],[75.89285700000001,20.934386],[75.89295300000001,20.934386],[75.89295300000001,20.934476],[75.89305,20.934476],[75.893051,20.934656],[75.893243,20.934655],[75.893244,20.934746],[75.89333999999999,20.934745],[75.89333999999999,20.934836],[75.89343599999999,20.934835],[75.89343700000001,20.934926],[75.89353300000001,20.934925],[75.893534,20.935015],[75.89363,20.935015],[75.89363,20.935105],[75.894015,20.935103]]],"type":"Polygon"}
 }

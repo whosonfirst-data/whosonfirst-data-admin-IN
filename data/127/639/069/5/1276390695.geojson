@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.10169,25.56868,83.10169,25.56868",
-    "geom:latitude":25.56868,
-    "geom:longitude":83.10169,
+    "geom:bbox":"83.100002,25.566948,83.104583,25.570721",
+    "geom:latitude":25.568421,
+    "geom:longitude":83.101902,
     "gn:admin1_code":"36",
     "gn:admin2_code":"195.0",
     "gn:asciiname":"Baheri",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.08169,25.54868,83.12169,25.58868",
+    "ks:ks_id":"KS0F5DC735B45F48A583ED7CF3A87DD8EC",
+    "ks:ks_name":"Baheri",
+    "ks:ks_pop":3042,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|70942",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"WSFEVO_1358059",
+    "lbl:latitude":25.56786,
+    "lbl:longitude":83.102249,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":25.56786,
+    "mps:longitude":83.102249,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092c\u0939\u0947\u0930\u0940"
@@ -38,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Baheri"
+    ],
+    "name:eng_x_preferred":[
+        "Baheri"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0939\u0947\u0921\u093c\u0940"
     ],
     "name:ita_x_preferred":[
         "Baheri"
@@ -72,7 +88,13 @@
     "name:zho_x_preferred":[
         "\u5df4\u8d6b\u91cc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -81,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10497354
+        "gn:id":10497354,
+        "ks:id":"KS0F5DC735B45F48A583ED7CF3A87DD8EC"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f9d3b066dcebd46455d981536d34e611",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"931ff48d68e7e90887b12f5850fd6766",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,20 +121,22 @@
         }
     ],
     "wof:id":1276390695,
-    "wof:lastmodified":1566694089,
+    "wof:lastmodified":1686162676,
     "wof:name":"Baheri",
     "wof:parent_id":1108695877,
     "wof:placetype":"locality",
+    "wof:population":3042,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.10169,
-    25.56868,
-    83.10169,
-    25.56868
+    83.100002,
+    25.566948,
+    83.104583,
+    25.570721
 ],
-  "geometry": {"coordinates":[83.10169,25.56868],"type":"Point"}
+  "geometry": {"coordinates":[[[83.101349,25.570721],[83.101349,25.570182],[83.101619,25.570182],[83.101619,25.569643],[83.101349,25.569643],[83.101349,25.569373],[83.10108,25.569373],[83.10108,25.569104],[83.101619,25.569104],[83.101619,25.568834],[83.101888,25.568834],[83.101888,25.568565],[83.103236,25.568565],[83.103236,25.568026],[83.103505,25.568026],[83.103505,25.567756],[83.104044,25.567756],[83.104044,25.567487],[83.10458300000001,25.567487],[83.10458300000001,25.566948],[83.103775,25.566948],[83.103775,25.567217],[83.103505,25.567217],[83.103505,25.567487],[83.102966,25.567487],[83.102966,25.566948],[83.101888,25.566948],[83.101888,25.567217],[83.101349,25.567217],[83.101349,25.567487],[83.10108,25.567487],[83.10108,25.568295],[83.10081,25.568295],[83.10081,25.568565],[83.10054100000001,25.568565],[83.10054100000001,25.568834],[83.10027100000001,25.568834],[83.10027100000001,25.569104],[83.100002,25.569104],[83.100002,25.569912],[83.10054100000001,25.569912],[83.10054100000001,25.570182],[83.10081,25.570182],[83.10081,25.570721],[83.101349,25.570721]]],"type":"Polygon"}
 }

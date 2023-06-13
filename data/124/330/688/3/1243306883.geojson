@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000003,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.3879,27.07456,79.3879,27.07456",
-    "geom:latitude":27.07456,
-    "geom:longitude":79.3879,
+    "geom:bbox":"79.386779,27.073425,79.389098,27.07533",
+    "geom:latitude":27.074392,
+    "geom:longitude":79.387968,
     "gn:admin1_code":"36.0",
     "gn:admin2_code":"148",
     "gn:asciiname":"Fatehpur",
@@ -24,11 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"79.3679,27.05456,79.4079,27.09456",
+    "ks:ks_id":"KS302B49524E3741F19B49472A536C1C06",
+    "ks:ks_name":"Fatehpur",
+    "ks:ks_pop":200,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|329146",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1745098",
+    "lbl:latitude":27.074374,
+    "lbl:longitude":79.38799,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":27.074374,
+    "mps:longitude":79.38799,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u062d \u0628\u0648\u0631"
@@ -56,6 +66,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c4\u03b5\u03c7\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Fatehpur"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u062a\u062d \u067e\u0648\u0631"
@@ -133,7 +146,13 @@
     "name:zho_tw_x_preferred":[
         "\u6cd5\u6cf0\u8d6b\u666e\u723e"
     ],
-    "src:geom":"geonames",
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -142,10 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6994222
+        "gn:id":6994222,
+        "ks:id":"KS302B49524E3741F19B49472A536C1C06"
     },
     "wof:country":"IN",
-    "wof:geomhash":"6e77518d2835307218ae3c0ef1396bb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71df3a6996bf2856ae45a2779b5422d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,20 +179,22 @@
         }
     ],
     "wof:id":1243306883,
-    "wof:lastmodified":1636505790,
+    "wof:lastmodified":1686163970,
     "wof:name":"Fatehpur",
     "wof:parent_id":1108695805,
     "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    79.3879,
-    27.07456,
-    79.3879,
-    27.07456
+    79.386779,
+    27.073425,
+    79.389098,
+    27.07533
 ],
-  "geometry": {"coordinates":[79.3879,27.07456],"type":"Point"}
+  "geometry": {"coordinates":[[[79.38867999999999,27.07533],[79.388682,27.075239],[79.38878200000001,27.075241],[79.388784,27.07515],[79.388885,27.075152],[79.388887,27.074971],[79.388988,27.074972],[79.388991,27.074792],[79.38909099999999,27.074793],[79.389098,27.074342],[79.388997,27.07434],[79.389002,27.073979],[79.388901,27.073978],[79.388904,27.073798],[79.388803,27.073797],[79.38880399999999,27.073706],[79.388704,27.073705],[79.388705,27.073615],[79.388503,27.073613],[79.38850499999999,27.073522],[79.38830299999999,27.07352],[79.38830400000001,27.07343],[79.387901,27.073425],[79.3879,27.073515],[79.387597,27.073512],[79.387596,27.073602],[79.387092,27.073596],[79.38709,27.073687],[79.38699,27.073686],[79.386988,27.073776],[79.386888,27.073775],[79.38688500000001,27.073955],[79.38678400000001,27.073954],[79.386779,27.074315],[79.38688,27.074316],[79.38687299999999,27.074767],[79.386974,27.074769],[79.386973,27.074859],[79.387074,27.07486],[79.387072,27.07495],[79.387173,27.074951],[79.38717200000001,27.075042],[79.38737399999999,27.075044],[79.387372,27.075134],[79.387473,27.075135],[79.387472,27.075226],[79.38767300000001,27.075228],[79.38767199999999,27.075318],[79.38867999999999,27.07533]]],"type":"Polygon"}
 }

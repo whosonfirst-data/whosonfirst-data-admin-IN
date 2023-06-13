@@ -11,12 +11,20 @@
     "geom:longitude":74.957562,
     "gn:population":83170,
     "iso:country":"IN",
-    "lbl:latitude":27.99897,
-    "lbl:longitude":74.961686,
+    "ks:ks_id":"KSA546A530F101406A8AF3D84540FB3D1B",
+    "ks:ks_name":"Fatehpur",
+    "ks:ks_pop":78462,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2095619",
+    "ks:ks_type":"URBAN",
+    "ks:ks_uagg_id":"ESA_1621450",
+    "ks:ks_uagg_main":1,
+    "lbl:latitude":27.996909,
+    "lbl:longitude":74.953472,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
-    "mps:latitude":27.999252,
-    "mps:longitude":74.96521,
+    "mps:latitude":27.996909,
+    "mps:longitude":74.953472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -147,10 +155,12 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":1208,
     "wof:belongsto":[
         102191569,
@@ -162,13 +172,16 @@
     "wof:concordances":{
         "gn:id":1271910,
         "gp:id":2277130,
+        "ks:id":"KSA546A530F101406A8AF3D84540FB3D1B",
         "qs_pg:id":1221067,
         "wd:id":"Q2720811",
         "wk:page":"Fatehpur, Rajasthan"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes",
+        "karmashapes"
     ],
     "wof:geomhash":"6d02b03bdc543b348deb16efe5ba3025",
     "wof:hierarchy":[
@@ -181,11 +194,11 @@
         }
     ],
     "wof:id":102030277,
-    "wof:lastmodified":1658780741,
+    "wof:lastmodified":1686162188,
     "wof:name":"Fatehpur",
     "wof:parent_id":890511203,
     "wof:placetype":"locality",
-    "wof:population":83170,
+    "wof:population":78462,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

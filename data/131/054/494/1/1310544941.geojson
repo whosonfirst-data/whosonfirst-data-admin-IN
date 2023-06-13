@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"83.49227,26.88185,83.49227,26.88185",
-    "geom:latitude":26.88185,
-    "geom:longitude":83.49227,
+    "geom:bbox":"83.491968,26.880826,83.493499,26.882451",
+    "geom:latitude":26.881769,
+    "geom:longitude":83.492558,
     "gn:admin1_code":"36",
     "gn:admin2_code":"188.0",
     "gn:asciiname":"Bhagahwa",
@@ -24,13 +24,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kolkata",
     "iso:country":"IN",
-    "lbl:bbox":"83.47227,26.86185,83.51227,26.90185",
+    "ks:ks_id":"KS4F99C9B6A679454AB48BF74BCD8EBAAB",
+    "ks:ks_name":"Bazahwa",
+    "ks:ks_pop":270,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|116615",
+    "ks:ks_type":"HABITATION",
+    "ks:ks_ua_id":"ESA_1996052",
+    "lbl:latitude":26.88183,
+    "lbl:longitude":83.492506,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.88183,
+    "mps:longitude":83.492506,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:eng_x_preferred":[
+        "Bazahwa"
+    ],
+    "name:eng_x_variant":[
+        "Bhagahwa"
+    ],
+    "src:geom":"karmashapes",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10663604
+        "gn:id":10663604,
+        "ks:id":"KS4F99C9B6A679454AB48BF74BCD8EBAAB"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7a6b53b1ddf6de8c0ab4a373d8a1313b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6bb13bd574b98e9d7ff9ee3c5f054e73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +79,22 @@
         }
     ],
     "wof:id":1310544941,
-    "wof:lastmodified":1566700932,
-    "wof:name":"Bhagahwa",
+    "wof:lastmodified":1682869748,
+    "wof:name":"Bazahwa",
     "wof:parent_id":890511207,
     "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.49226999999998,
-    26.88185,
-    83.49226999999998,
-    26.88185
+    83.491968,
+    26.880826,
+    83.493499,
+    26.882451
 ],
-  "geometry": {"coordinates":[83.49226999999998,26.88185],"type":"Point"}
+  "geometry": {"coordinates":[[[83.493002,26.882439],[83.49299999999999,26.882349],[83.493201,26.882345],[83.493199,26.882255],[83.49339999999999,26.882252],[83.493398,26.882161],[83.493499,26.88216],[83.493497,26.882069],[83.493396,26.882071],[83.493394,26.881981],[83.49329400000001,26.881983],[83.493292,26.881892],[83.493191,26.881894],[83.493189,26.881804],[83.493089,26.881806],[83.493087,26.881716],[83.492986,26.881717],[83.49298400000001,26.881627],[83.49288300000001,26.881629],[83.492879,26.881449],[83.492779,26.88145],[83.49277499999999,26.88127],[83.49267399999999,26.881272],[83.49267,26.881091],[83.49257,26.881093],[83.49256800000001,26.881003],[83.492467,26.881005],[83.492465,26.880914],[83.49236500000001,26.880916],[83.492363,26.880826],[83.492161,26.88083],[83.49216300000001,26.88092],[83.492063,26.880922],[83.492069,26.881192],[83.491968,26.881194],[83.491984,26.881916],[83.492085,26.881914],[83.492093,26.882275],[83.492193,26.882273],[83.492195,26.882363],[83.492296,26.882361],[83.49229800000001,26.882451],[83.493002,26.882439]]],"type":"Polygon"}
 }

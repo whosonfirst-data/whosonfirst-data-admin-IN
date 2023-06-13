@@ -14,11 +14,20 @@
     "gn:population":118526,
     "gp:adm0":23424848,
     "iso:country":"IN",
-    "lbl:bbox":"78.5159,19.65203,78.5559,19.69203",
-    "lbl:latitude":19.671266,
-    "lbl:longitude":78.532922,
+    "ks:ks_alt_nam":"\u0100dil\u0101b\u0101d",
+    "ks:ks_id":"KSE58D2C6DB0AF4A9DA98E852785527474",
+    "ks:ks_name":"Adilabad",
+    "ks:ks_pop":19874,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"N|-2088159",
+    "ks:ks_type":"URBAN",
+    "ks:ks_ua_id":"WSFEVO_2285589",
+    "lbl:latitude":19.670848,
+    "lbl:longitude":78.52906,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
+    "mps:latitude":19.670848,
+    "mps:longitude":78.52906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -58,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Adilabad"
+    ],
+    "name:eng_x_variant":[
+        "\u0100dil\u0101b\u0101d"
     ],
     "name:est_x_preferred":[
         "\u0100dil\u0101b\u0101d"
@@ -172,11 +184,11 @@
         "\u0c06\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c41"
     ],
     "name:tel_x_preferred":[
-        "\u0c05\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
+        "\u0c06\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
     ],
     "name:tel_x_variant":[
         "\u0c06\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c41",
-        "\u0c06\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
+        "\u0c05\u0c26\u0c3f\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
     ],
     "name:tur_x_preferred":[
         "Adilabad"
@@ -206,10 +218,12 @@
     "reversegeo:longitude":78.532922,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "karmashapes"
     ],
-    "src:lbl_centroid":"whosonfirst",
-    "src:population":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wd:wordcount":653,
     "wof:belongsto":[
         102191569,
@@ -221,12 +235,17 @@
     "wof:concordances":{
         "gn:id":1279344,
         "gp:id":2295178,
+        "ks:id":"KSE58D2C6DB0AF4A9DA98E852785527474",
         "qs_pg:id":885902,
         "wd:id":"Q494281",
         "wk:page":"Adilabad"
     },
     "wof:country":"IN",
     "wof:created":1469055618,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "karmashapes"
+    ],
     "wof:geomhash":"13fbb3f3233c392815b2f1a1191a6b1a",
     "wof:hierarchy":[
         {
@@ -238,12 +257,12 @@
         }
     ],
     "wof:id":890508997,
-    "wof:lastmodified":1658780800,
+    "wof:lastmodified":1686163928,
     "wof:name":"Adilabad",
     "wof:parent_id":890507569,
     "wof:placetype":"locality",
-    "wof:population":118526,
-    "wof:population_rank":9,
+    "wof:population":19874,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
     "wof:supersedes":[],
