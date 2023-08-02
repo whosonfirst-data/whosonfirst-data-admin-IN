@@ -29,12 +29,19 @@
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":6.0,
+    "name:anp_x_preferred":[
+        "\u0905\u0939\u092e\u0926\u0928\u0917\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u062d\u0645\u062f \u0646\u0627\u062c\u0627\u0631"
     ],
     "name:ara_x_variant":[
         "\u0623\u062d\u0645\u062f \u0646\u063a\u0631",
-        "\u0623\u062d\u0645\u062f\u0646\u0627\u062c\u0627\u0631"
+        "\u0623\u062d\u0645\u062f\u0646\u0627\u062c\u0627\u0631",
+        "\u0623\u062d\u0645\u062f \u0646\u062c\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Ahmednagar"
     ],
     "name:azb_x_preferred":[
         "\u0627\u062d\u0645\u062f\u0646\u0642\u0631"
@@ -50,6 +57,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b9\u09ae\u09c7\u09a6\u09a8\u0997\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u0985\u09b9\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u0997\u09b0"
     ],
     "name:bho_x_preferred":[
         "\u0905\u0939\u092e\u0926\u0928\u0917\u0930"
@@ -79,7 +89,11 @@
         "Ahmadnagar"
     ],
     "name:eng_x_variant":[
-        "Ahmednagar"
+        "Ahmednagar",
+        "Ahilyanagar"
+    ],
+    "name:epo_x_preferred":[
+        "Ahilyanagar"
     ],
     "name:fas_x_preferred":[
         "\u0627\u062d\u0645\u062f\u0646\u06af\u0631"
@@ -93,20 +107,30 @@
     "name:fra_x_variant":[
         "Ahmadn\u00e2gar"
     ],
+    "name:gle_x_preferred":[
+        "Ahmednagar"
+    ],
     "name:gom_x_preferred":[
         "\u0905\u0939\u092e\u0926\u0928\u0917\u0930"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab9\u0aae\u0aa6\u0aa8\u0a97\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05de\u05d3\u05e0\u05d2\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0939\u092e\u0926\u0928\u0917\u0930"
     ],
     "name:hin_x_variant":[
-        "\u0905\u0939\u092e\u0926 \u0928\u0917\u0930"
+        "\u0905\u0939\u092e\u0926 \u0928\u0917\u0930",
+        "\u0905\u0939\u093f\u0932\u094d\u092f\u0928\u0917\u0930"
     ],
     "name:hun_x_preferred":[
         "Ahmednagar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0570\u0574\u0565\u0564\u0576\u0561\u0563\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Ahmednagar"
@@ -135,8 +159,14 @@
     "name:lit_x_preferred":[
         "Ahmadnagaras"
     ],
+    "name:lld_x_preferred":[
+        "Ahmednagar"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d39\u0d4d\u0d2e\u0d26\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d05\u0d39\u0d2e\u0d4d\u0d2e\u0d26\u0d4d\u200c\u0d28\u0d17\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0939\u092e\u0926\u0928\u0917\u0930"
@@ -198,6 +228,9 @@
     "name:san_x_preferred":[
         "\u0905\u0939\u092e\u0926\u0928\u0917\u0930\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5a\u1c66\u1c62\u1c5a\u1c6b\u1c7d\u1c71\u1c5a\u1c5c\u1c5a\u1c68"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dc4\u0dca\u0db8\u0dd9\u0daf\u0dca\u0db1\u0d9c\u0dbb\u0dca"
     ],
@@ -220,7 +253,8 @@
         "\u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c4d"
     ],
     "name:tel_x_variant":[
-        "\u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c4d \u0c28\u0c17\u0c30\u0c4d"
+        "\u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c4d \u0c28\u0c17\u0c30\u0c4d",
+        "\u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c4d\u200c\u0c28\u0c17\u0c30\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e40\u0e21\u0e47\u0e14\u0e19\u0e32\u0e01\u0e32\u0e23\u0e4c"
@@ -236,6 +270,9 @@
     ],
     "name:uzb_x_preferred":[
         "Ahmadnagar"
+    ],
+    "name:vec_x_preferred":[
+        "Ahmednagar"
     ],
     "name:vie_x_preferred":[
         "Ahmadnagar"
@@ -402,7 +439,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1686162178,
+    "wof:lastmodified":1690932130,
     "wof:name":"Ahmadnagar",
     "wof:parent_id":890510749,
     "wof:placetype":"locality",
