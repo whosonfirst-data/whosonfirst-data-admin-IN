@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:bbox":"78.572203,17.444189,78.572203,17.444189",
     "geom:latitude":17.444189,
@@ -21,7 +23,7 @@
     "mps:latitude":17.444189,
     "mps:longitude":78.572203,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Mallapur"
     ],
@@ -31,12 +33,12 @@
     "src:geom":"karmashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672141,
         102191569,
         85632469,
         102030059,
         1511390319,
         1108696315,
+        85672141,
         1108805979
     ],
     "wof:breaches":[],
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1830750403,
-    "wof:lastmodified":1683570332,
+    "wof:lastmodified":1706239836,
     "wof:name":"Mallapur",
     "wof:parent_id":1511390319,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511382657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

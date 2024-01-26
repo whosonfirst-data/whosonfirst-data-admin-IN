@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:bbox":"72.870406,19.040589,72.870406,19.040589",
     "geom:latitude":19.040589,
@@ -20,20 +22,20 @@
     "mps:latitude":19.040589,
     "mps:longitude":72.870406,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Sion"
     ],
     "src:geom":"karmashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672171,
         102191569,
         1511443643,
         85632469,
         102030609,
         1511443679,
-        890503073
+        890503073,
+        85672171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":1830751171,
-    "wof:lastmodified":1683570685,
+    "wof:lastmodified":1706239836,
     "wof:name":"Sion",
     "wof:parent_id":1511443643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511443517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

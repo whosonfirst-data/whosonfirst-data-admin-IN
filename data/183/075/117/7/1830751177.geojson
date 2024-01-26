@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:bbox":"72.816667,19.016667,72.816667,19.016667",
     "geom:latitude":19.016667,
@@ -20,20 +22,20 @@
     "mps:latitude":19.016667,
     "mps:longitude":72.816667,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Worli"
     ],
     "src:geom":"karmashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85672171,
         102191569,
         1511443635,
         85632469,
         102030609,
         1511443679,
-        890503073
+        890503073,
+        85672171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":1830751177,
-    "wof:lastmodified":1683570687,
+    "wof:lastmodified":1706239787,
     "wof:name":"Worli",
     "wof:parent_id":1511443635,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85903999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

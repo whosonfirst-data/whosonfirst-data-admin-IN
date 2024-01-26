@@ -19,6 +19,7 @@
     "ks:ks_type":"URBAN",
     "ks:ks_uagg_id":"ESA_515996",
     "ks:ks_uagg_main":1,
+    "lbl:bbox":"78.414577,17.441797,78.454577,17.481797",
     "lbl:latitude":17.442274,
     "lbl:longitude":78.460469,
     "lbl:max_zoom":13.0,
@@ -29,6 +30,7 @@
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":4.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Hyderabad"
     ],
@@ -72,6 +74,9 @@
         "\u09b9\u09be\u09df\u09a6\u09cd\u09b0\u09be\u09ac\u09be\u09a6"
     ],
     "name:ben_x_preferred":[
+        "\u09b9\u09be\u09af\u09bc\u09a6\u09cd\u09b0\u09be\u09ac\u09be\u09a6"
+    ],
+    "name:ben_x_variant":[
         "\u09b9\u09be\u09af\u09bc\u09a6\u09cd\u09b0\u09be\u09ac\u09be\u09a6"
     ],
     "name:bho_x_preferred":[
@@ -591,6 +596,21 @@
     "qs:pop":0,
     "qs:source":"Dquattroshapes",
     "qs:type":"Town",
+    "qs_pg:name":"Hyderabad",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Andhra Pradesh",
+    "qs_pg:photos":1529,
+    "qs_pg:photos_1k":310,
+    "qs_pg:photos_9k":76,
+    "qs_pg:photos_9r":19,
+    "qs_pg:photos_all":17174,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239477,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":2295414,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -600,6 +620,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"karmashapes",
     "src:population_year":"2001",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Andhra Pradesh",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -615,12 +639,21 @@
         "dbp:id":"Hyderabad%2C_India",
         "fb:id":"en.hyderabad",
         "gn:id":1269843,
+        "gp:id":2295414,
         "ks:id":"KSEA10481E34DE4C458D2491781E271FFE",
         "loc:id":"n80025804",
         "nyt:id":"N72731105454210564761",
         "qs_pg:id":350139,
         "wd:id":"Q1361",
         "wk:page":"Hyderabad"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            239477
+        ],
+        "wd:id":[
+            "Q1361"
+        ]
     },
     "wof:controlled":[
         "wof:hierarchy",
@@ -653,7 +686,7 @@
         }
     ],
     "wof:id":102030059,
-    "wof:lastmodified":1690932219,
+    "wof:lastmodified":1706239791,
     "wof:megacity":1,
     "wof:name":"Hyderabad",
     "wof:parent_id":-4,
@@ -664,7 +697,8 @@
     "wof:scale":1,
     "wof:superseded_by":[],
     "wof:supersedes":[
-        85904069
+        85904069,
+        1125994633
     ],
     "wof:tags":[]
 },
