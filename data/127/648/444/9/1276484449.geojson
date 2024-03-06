@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"83.24148,27.21635,83.24148,27.21635",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +44,7 @@
         "gn:id":10655940
     },
     "wof:country":"IN",
-    "wof:geomhash":"d832bca8f6b017503c8d5f726abf9fe7",
+    "wof:geomhash":"a5e090d5235ef55d156c467d5b99112e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1276484449,
-    "wof:lastmodified":1566693839,
+    "wof:lastmodified":1706239821,
     "wof:name":"Manorath Chak",
     "wof:parent_id":1108695867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243598289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.24148000000002,
+    83.24148,
     27.21635,
-    83.24148000000002,
+    83.24148,
     27.21635
 ],
-  "geometry": {"coordinates":[83.24148000000002,27.21635],"type":"Point"}
+  "geometry": {"coordinates":[83.24148,27.21635],"type":"Point"}
 }

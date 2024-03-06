@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"79.68636,12.80826,79.68636,12.80826",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09ac\u09bf\u09b2\u09bf\u09ae\u09c7\u09a1\u09c1"
@@ -56,11 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85672245,
         102191569,
         85632469,
         102029873,
-        890509125,
-        85672245
+        890509125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,12 +81,14 @@
         }
     ],
     "wof:id":1779868457,
-    "wof:lastmodified":1657939269,
+    "wof:lastmodified":1706239838,
     "wof:name":"Sevilimedu",
     "wof:parent_id":102029873,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1830130985
+    ],
     "wof:supersedes":[
         1326985297
     ],
